@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 2011769,
+  "2024-04-14": 2011889,
   "date_first_scraped": "2021-12-21",
   "description": "The best indie rock vibes \u2014 classic and current. ",
   "name": "Feel-Good Indie Rock",
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
@@ -2815,6 +2815,28 @@
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
+    },
+    {
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "album": {
@@ -4306,6 +4328,24 @@
     },
     {
       "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170701,
+      "name": "He Loves Me Yeah!",
+      "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "album": {
         "name": "Head Cheerleader",
         "url": "https://open.spotify.com/album/3b0fhWtykcE0DBzpqQsdAe"
       },
@@ -4443,7 +4483,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
@@ -9114,6 +9154,24 @@
     },
     {
       "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -11195,7 +11253,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 223944,
       "name": "Vickie",
       "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"

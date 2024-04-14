@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,047 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 16 | [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 |
 | 17 | [Buhe Bariyan](https://open.spotify.com/track/0pPbSDDoVS0a8yuMcpjEtd) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan \- Single](https://open.spotify.com/album/1BmqFSOvkER4M467ozA1sU) | 4:41 |
 | 18 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 |
-| 19 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 |
+| 19 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 |
 | 20 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
 | 21 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
 | 22 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 314337,
+  "2024-04-14": 314328,
   "date_first_scraped": "2022-06-10",
   "description": "Finally, the perfect road trip playlist is here. Sing along to these classics and new hits, and discover new favorites! <a href=\"https://lnk.to/EndOfYearSaleOS\">All these hits available to buy on vinyl here!</a>",
   "name": "Road Trip Songs",
@@ -2352,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
@@ -2821,10 +2839,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "album": {

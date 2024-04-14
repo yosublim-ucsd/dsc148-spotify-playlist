@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Shallipopi
 
-225 songs - 10 hr 24 min
+226 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-11-23 |
 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 | 2023-12-01 | 2023-12-08 |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2024-04-08 |
+| [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 |  |
 | [Ashewo Boy](https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:26 | 2023-10-20 | 2023-12-15 |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 |  |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 |  |
@@ -169,7 +170,7 @@
 | [OTE!](https://open.spotify.com/track/2EN5MHa0Gihyf54OfIlSCB) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 1:32 | 2023-11-17 | 2023-11-26 |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-06-29 | 2022-12-04 |
 | [Oyinmo](https://open.spotify.com/track/1jRn3FbiRwlFWD5PYfxM51) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Young Duu](https://open.spotify.com/artist/4QzINVALvIeNE1Ml5vdCDK) | [Oyinmo](https://open.spotify.com/album/0spOl1XlOfTs2LwOO30907) | 2:15 | 2023-11-24 | 2023-12-15 |
-| [P.P.P \(Puff Puff Pass\)](https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [BOYAHNAH](https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9) | 2:04 | 2024-02-08 |  |
+| [P.P.P \(Puff Puff Pass\)](https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [BOYAHNAH](https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9) | 2:04 | 2024-02-08 | 2024-04-14 |
 | [Para Boi](https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Memory Card](https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI) | 2:37 | 2023-01-16 | 2023-11-03 |
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-06-22 | 2024-03-12 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-29 |  |

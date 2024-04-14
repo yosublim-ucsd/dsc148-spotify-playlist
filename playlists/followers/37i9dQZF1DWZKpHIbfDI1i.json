@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 662046,
+  "2024-04-14": 662520,
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kenia OS en portada.",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Grupo Firme y El Coyote en portada.",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 204956,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -7588,6 +7588,24 @@
     },
     {
       "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "album": {
         "name": "Gpi Al Perreo",
         "url": "https://open.spotify.com/album/6mS75CeSpGeiNFypriAXim"
       },
@@ -7811,7 +7829,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 194389,
       "name": "Hasta Que Me Duermo",
       "url": "https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3"
@@ -8261,7 +8279,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
@@ -9335,7 +9353,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "LATIGAZO",
       "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
@@ -10449,7 +10467,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Me Avent\u00e9",
       "url": "https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m"
@@ -11987,7 +12005,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 161985,
       "name": "NEPTUNO",
       "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
@@ -12657,7 +12675,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180857,
       "name": "Nos Extra\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/7CVYguEu1LDPnYIQexs5xS"
@@ -13121,7 +13139,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
@@ -13901,7 +13919,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
@@ -14127,6 +14145,28 @@
       "duration_ms": 206000,
       "name": "Por Ti - Spotify Singles",
       "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
+    },
+    {
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "album": {
@@ -14363,7 +14403,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
@@ -14473,7 +14513,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -15969,7 +16009,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222583,
       "name": "Sin Llorar",
       "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
@@ -16917,7 +16957,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164687,
       "name": "TENDIDO",
       "url": "https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1"
@@ -17557,7 +17597,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 226986,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP"
@@ -18367,7 +18407,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 167186,
       "name": "Vitamina D",
       "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
@@ -18695,7 +18735,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,247 likes - 151 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,284 likes - 151 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 136 | [Lay Me Down Easy](https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Dandelion](https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46) | 3:49 |
 | 137 | [Thinkin' On You](https://open.spotify.com/track/7dqhOx0txJrgz0uovJWqlj) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/3yv8PzbwTZf9HqZyhnA5S7) | 4:19 |
 | 138 | [Rocking Chair Blues](https://open.spotify.com/track/1yMfoWCHtOEH2b5LzzPyJF) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:15 |
-| 139 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
+| 139 | [Kathy's Song](https://open.spotify.com/track/3t0eH5POGNY4hw06Ne8jEw) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY) | 3:43 |
 | 140 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 |
 | 141 | [Old Things](https://open.spotify.com/track/6FHK4wd49FqDcnqeO8Uv4s) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 1:46 |
 | 142 | [13 September](https://open.spotify.com/track/7LslStJv2oCxocOjbWMKHd) | [Daniel Steinbock](https://open.spotify.com/artist/7bZH7dR3DNgGJJ4DEseDMC) | [13 September](https://open.spotify.com/album/2P3Cx8e3uDY92GwJzzFw6R) | 3:35 |

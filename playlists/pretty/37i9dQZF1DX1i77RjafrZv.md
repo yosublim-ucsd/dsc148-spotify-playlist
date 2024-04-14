@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,062 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,091 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 14 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 |
 | 15 | [A fleur de toi](https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [A Fleur De Toi](https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf) | 4:21 |
 | 16 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
-| 17 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
+| 17 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 18 | [Et même après je t'aimerai](https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Étoile flippante \(Version deluxe\)](https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW) | 3:15 |
-| 19 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
+| 19 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
 | 20 | [Quand on n'a que l'amour \- Arrangements différents](https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 2:33 |
 | 21 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 |
 | 22 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 |
 | 23 | [Les mots bleus](https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb) | 4:10 |
 | 24 | [S'il suffisait d'aimer](https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 3:34 |
 | 25 | [Viens on s’aime](https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Solune](https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1) | 3:21 |
-| 26 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
-| 27 | [J'attends](https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 4:40 |
+| 26 | [J'attends](https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 4:40 |
+| 27 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
 | 28 | [Savoir aimer](https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Savoir Aimer](https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p) | 4:41 |
 | 29 | [Ne me quitte pas](https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [La Valse A Mille Temps \(Vol.4\)](https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV) | 3:49 |
 | 30 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 65 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 | 66 | [Les feuilles mortes](https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Chante Prevert](https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT) | 3:21 |
 | 67 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
-| 68 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
-| 69 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
-| 70 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
-| 71 | [PS : Je t'aime](https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [PS : Je t'aime](https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy) | 2:53 |
-| 72 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
-| 73 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
+| 68 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
+| 69 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
+| 70 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
+| 71 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
+| 72 | [PS : Je t'aime](https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [PS : Je t'aime](https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy) | 2:53 |
+| 73 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 74 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
-| 75 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
+| 75 | [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 |
 
 Snapshot ID: `MTY5NzAxNDA5OSwwMDAwMDAwMDZmMTc5ZTRlMWM3NzE2NTNlNzFiODYyNDI4NmRiNGM4`

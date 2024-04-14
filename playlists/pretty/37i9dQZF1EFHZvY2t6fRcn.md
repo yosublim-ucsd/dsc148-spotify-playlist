@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 48 | [I Don't Love You](https://open.spotify.com/track/5lmNLpttoz07aUCITtAKhX) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/352YNkVFSV9KDvGlLpEwRc) | 3:24 |
 | 49 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 50 | [Good Things](https://open.spotify.com/track/2XabyO1YcTW7BZ8wfKLB1X) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things \(R3HAB Remix\)](https://open.spotify.com/album/38flhAaxVeSTNa4l0fKCZd) | 3:01 |
-| 51 | [Sharpest Edges](https://open.spotify.com/track/3UFTGvTWqfFzQuVCIMBeet) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:09 |
-| 52 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 51 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 52 | [Sharpest Edges](https://open.spotify.com/track/3UFTGvTWqfFzQuVCIMBeet) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:09 |
 | 53 | [Midnight Dreams](https://open.spotify.com/track/6xKUJ0HwdyEIeiuwM3sfQ1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 |
 | 54 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
 | 55 | [Crickets](https://open.spotify.com/track/0rpp6q1nWKuzkvKGBUEUcC) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 4:22 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 120 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 121 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDBlMjQ2NjUzNDQxOTllM2JhYjYyMGZmMGFlNDM5MTFmYw==`
+Snapshot ID: `Mjg1NTEwNzgsMDAwMDAwMDAwOTcyZDdhMDcxZDEzOTZlNGRmZTJjZDc4ZTIyM2ZlMg==`

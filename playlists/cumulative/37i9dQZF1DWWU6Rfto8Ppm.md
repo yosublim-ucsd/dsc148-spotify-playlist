@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-430 songs - 1 day 1 hr 40 min
+431 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Que Tengo Que Hacer](https://open.spotify.com/track/3rFgTFJVdDBCYiZt1zdoQ7) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento De Barrio](https://open.spotify.com/album/7n8EDZcG8iOUezWUEK07Ba) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Quiero Bailar](https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 3:03 | 2021-12-17 | 2022-07-29 |
 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 | 2022-07-27 | 2023-01-12 |
+| [Quiero Bailar](https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 3:06 | 2023-12-21 |  |
 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-12-07 | 2024-04-13 |
 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 | 2021-12-17 | 2024-04-13 |
 | [Quiero una Chica](https://open.spotify.com/track/2fHkNZLuGbBGCw2jrNScwd) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/6xOGIp8MvIrOwSwkwaCheM) | 3:25 | 2023-10-05 | 2024-01-25 |
@@ -415,7 +416,7 @@
 | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/track/5yzlHHENdJU1KzYM8MuL9g) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0O7TKtaIrzDxjjWxVDL7AZ) | 4:11 | 2022-12-16 | 2023-03-02 |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 | 2022-12-16 |  |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 | 2022-07-27 | 2023-03-01 |
-| [Villana](https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc) | 2:24 | 2022-07-27 |  |
+| [Villana](https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc) | 2:24 | 2022-07-27 | 2024-04-14 |
 | [Villana](https://open.spotify.com/track/53chAlZL168uo8eVAs2bdS) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/63Brxfj0nY3twg5MQg5tRz) | 2:24 | 2021-12-17 | 2022-05-15 |
 | [Virtual Diva](https://open.spotify.com/track/0vnzk4L0JyMODSqLp3pHwo) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Virtual Diva](https://open.spotify.com/album/5tOWTmiFfFhNUuYntiopu8) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Volverás a Mí](https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:16 | 2021-12-17 |  |

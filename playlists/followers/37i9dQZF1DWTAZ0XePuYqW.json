@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 27346,
+  "2024-04-14": 27527,
   "date_first_scraped": "2023-08-19",
   "description": "That's that big energy. Cover: Kehlani",
   "name": "Bounce",
@@ -2009,10 +2009,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194951,
       "name": "Gag",
       "url": "https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF"
+    },
+    {
+      "album": {
+        "name": "Gag",
+        "url": "https://open.spotify.com/album/1v0c2ccfvC1Us2yHkkyvaR"
+      },
+      "artists": [
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195995,
+      "name": "Gag",
+      "url": "https://open.spotify.com/track/3U3ZX37PA3AUzR9t7aUzbq"
     },
     {
       "album": {
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197343,
       "name": "Kill For This Shit (feat. Young Dolph)",
       "url": "https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF"
@@ -2978,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "Flay Rozeyo III",
+        "url": "https://open.spotify.com/album/29vbWjn6mV5zqJ9nuZF4VF"
+      },
+      "artists": [
+        {
+          "name": "Flay Rozeyo",
+          "url": "https://open.spotify.com/artist/1LfY0Vs1o05jaQj33lInsz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/1vYLcpHCUbqM1uuDutURXS"
+    },
+    {
+      "album": {
         "name": "Level (feat. Nation Boss)",
         "url": "https://open.spotify.com/album/7fqEyviUoq4p4gCeB0JhZk"
       },
@@ -3001,7 +3037,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217600,
       "name": "Level (feat. Nation Boss)",
       "url": "https://open.spotify.com/track/5v7l4VEl8buAxx9JxxNU1l"
@@ -3219,7 +3255,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160265,
       "name": "Make Me Ovah",
       "url": "https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw"
@@ -4156,6 +4192,32 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -4999,7 +5061,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 184218,
       "name": "Sway",
       "url": "https://open.spotify.com/track/1t0ljOlTcBm5l3qRWHchHr"
@@ -5524,6 +5586,28 @@
     },
     {
       "album": {
+        "name": "We Groovin (with Jazzy)",
+        "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin (with Jazzy)",
+      "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
+    },
+    {
+      "album": {
         "name": "Before the Smoke",
         "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
@@ -5741,6 +5825,24 @@
       "duration_ms": 267154,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/6m4yPRmXymnFMbadppVtpb"
+    },
+    {
+      "album": {
+        "name": "X CALLING",
+        "url": "https://open.spotify.com/album/5yFKkRTF0pql2aN7HMiT93"
+      },
+      "artists": [
+        {
+          "name": "Xavier Weeks",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96107,
+      "name": "X CALLING",
+      "url": "https://open.spotify.com/track/2xnO5NdJEp8lt6aPwMUajk"
     },
     {
       "album": {

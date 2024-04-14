@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-719 songs - 2 day 2 hr 10 min
+720 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,8 @@
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2021-12-03 | 2022-02-19 |
 | [L\-O\-V\-E \- Live At Cotton Club](https://open.spotify.com/track/0nDie8OPBNLQ1QrDoU2Qxe) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Live At Cotton Club](https://open.spotify.com/album/3fqKWcYYS590OyBmcAbR5K) | 3:26 | 2022-09-30 | 2023-05-20 |
 | [L\-O\-V\-E \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pSEkzXw62oVGkhqAwLe1u) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 2:51 | 2020-10-09 | 2022-02-19 |
-| [La Chanson de vieux amants](https://open.spotify.com/track/4Yy7AuqNVD1Z4eDy1273u3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/3GCdtc3tXTlUbP9y5xBWdz) | 6:55 | 2024-04-12 |  |
+| [La Chanson de vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 | 2024-04-12 |  |
+| [La Chanson de vieux amants](https://open.spotify.com/track/4Yy7AuqNVD1Z4eDy1273u3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/3GCdtc3tXTlUbP9y5xBWdz) | 6:55 | 2024-04-12 | 2024-04-14 |
 | [La vie en rose](https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:47 | 2020-10-09 | 2022-02-19 |
 | [Lady Bird](https://open.spotify.com/track/01je6IZ6DPfoY1AGzblHVz) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:42 | 2020-10-09 | 2022-02-16 |
 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 | 2021-04-23 | 2022-10-08 |

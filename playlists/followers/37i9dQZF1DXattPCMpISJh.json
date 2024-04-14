@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 115748,
+  "2024-04-14": 115865,
   "date_first_scraped": "2022-08-06",
   "description": "A new take on a classic sound. Cover: Idina Menzel",
   "name": "Nu-Disco",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178500,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/2BoA9kgubZHEio7mK4EIxs"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225572,
       "name": "Crazay",
       "url": "https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7"
@@ -1347,6 +1347,24 @@
       "duration_ms": 175373,
       "name": "Don\u2019t Kill The Groove",
       "url": "https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/37s44atpJQNpO442mw2riJ"
+      },
+      "artists": [
+        {
+          "name": "Flevans",
+          "url": "https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232419,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I"
     },
     {
       "album": {
@@ -3449,6 +3467,24 @@
       "duration_ms": 188200,
       "name": "Only Direction",
       "url": "https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N"
+    },
+    {
+      "album": {
+        "name": "Only Tonight",
+        "url": "https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM"
+      },
+      "artists": [
+        {
+          "name": "Karl Wolf",
+          "url": "https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181709,
+      "name": "Only Tonight",
+      "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 319469,
+  "2024-04-14": 319536,
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: TWRP\n",
+  "description": "The best of today's funk. Cover: Dabeull\n",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -811,7 +811,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201186,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
@@ -2739,7 +2739,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264072,
       "name": "Gigantic Energy",
       "url": "https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1"
@@ -4614,6 +4614,24 @@
     },
     {
       "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/13b4XCQdlFs1V38vEVsxlI"
+      },
+      "artists": [
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160745,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb"
+    },
+    {
+      "album": {
         "name": "Living Backwards",
         "url": "https://open.spotify.com/album/2BZziXEUmY61NXLni2LOSJ"
       },
@@ -4721,6 +4739,28 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
+    },
+    {
+      "album": {
+        "name": "Analog Love",
+        "url": "https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Look In The Mirror",
+      "url": "https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX"
     },
     {
       "album": {
@@ -6849,6 +6889,28 @@
       "duration_ms": 215302,
       "name": "Somebody's Watching You - XL Middleton Remix",
       "url": "https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R"
+    },
+    {
+      "album": {
+        "name": "ENGELDULL EP",
+        "url": "https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Space Cowgirl",
+      "url": "https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 64637,
+  "2024-04-14": 64643,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Alka Yagnik",
   "name": "EQUAL India",
@@ -3904,6 +3904,36 @@
     },
     {
       "album": {
+        "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
+        "url": "https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE"
+      },
+      "artists": [
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154900,
+      "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
+      "url": "https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV"
+    },
+    {
+      "album": {
         "name": "Mundeya Ve",
         "url": "https://open.spotify.com/album/3ZRtTonSWwCqyOb8uXUOC7"
       },
@@ -5299,7 +5329,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195253,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"

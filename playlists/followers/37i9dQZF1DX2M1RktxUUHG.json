@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 114694,
+  "2024-04-14": 115107,
   "date_first_scraped": "2023-09-21",
   "description": "The biggest songs of the 2020s.",
   "name": "All Out 2020s",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
@@ -378,6 +378,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -397,6 +415,24 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "Road to CASABLANCO.",
+        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99280,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk"
     },
     {
       "album": {
@@ -541,7 +577,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
@@ -1068,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -1235,7 +1289,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193733,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
@@ -1416,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Anniversary",
+        "url": "https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196794,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -1503,7 +1575,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
@@ -1709,10 +1781,28 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV"
     },
     {
       "album": {
@@ -1735,6 +1825,28 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212868,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
     },
     {
       "album": {
@@ -1996,6 +2108,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -2087,7 +2217,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -2215,7 +2345,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 213333,
       "name": "Mood Swings (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
@@ -2291,7 +2421,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -2309,7 +2439,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 242265,
       "name": "No Time To Die",
       "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
@@ -2581,7 +2711,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
@@ -2599,7 +2729,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -2665,7 +2795,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -2687,6 +2817,46 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "album": {
@@ -2828,6 +2998,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -2883,6 +3071,24 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
       "album": {
@@ -3085,7 +3291,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/57uNXnf4ciHYP4HktbIbzC"
@@ -3209,7 +3415,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 201920,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
@@ -3285,7 +3491,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
@@ -3303,7 +3509,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/4inPxqHrj9VmjLx5JCDCV4"
@@ -3332,6 +3538,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -3343,10 +3567,28 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "album": {
@@ -3473,7 +3715,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
@@ -3527,7 +3769,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"

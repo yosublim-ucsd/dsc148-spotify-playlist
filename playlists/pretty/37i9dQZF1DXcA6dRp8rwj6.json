@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Chris Brown.)",
-  "num_followers": 440469,
+  "num_followers": 440503,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -90,6 +90,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,

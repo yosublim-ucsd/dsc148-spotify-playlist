@@ -4,7 +4,7 @@
 
 > Apasiónate con sus éxitos en español.
 
-84 songs - 5 hr 21 min
+86 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,10 @@
 | [El primer paso en la luna](https://open.spotify.com/track/4GcdtQaqyH6qpnv0jrPpcm) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [El primer paso en la luna](https://open.spotify.com/album/0UU1WRNq0lEBST4QqW7DS6) | 2:58 | 2023-10-13 | 2023-10-27 |
 | [El valor de seguir adelante](https://open.spotify.com/track/7FXnDS0HulrvYjY3xFT0ru) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:45 | 2021-09-23 |  |
 | [El valor de seguir adelante \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/6q8glaVMtbJYxDmaoNFZUE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [El valor de seguir adelante \(feat\. Biagio Antonacci\)](https://open.spotify.com/album/1UrsdIFKcCtSg34jJe6vX9) | 3:44 | 2021-09-23 |  |
-| [Emergencia de amor](https://open.spotify.com/track/3MmeWjpRcLjJvNil10034t) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:33 | 2021-09-23 |  |
-| [En ausencia de ti](https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:28 | 2021-09-23 |  |
+| [Emergencia de amor](https://open.spotify.com/track/3MmeWjpRcLjJvNil10034t) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:33 | 2021-09-23 | 2024-04-14 |
+| [Emergencia de amor](https://open.spotify.com/track/4khZZjyYGXzWhKWZXOnXjJ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Mi respuesta](https://open.spotify.com/album/2z8NpMrQRSUF7IQSMDk7MS) | 4:33 | 2021-09-23 |  |
+| [En ausencia de ti](https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:28 | 2021-09-23 | 2024-04-14 |
+| [En ausencia de ti](https://open.spotify.com/track/2InKE7rna7hIZGRVpekPYU) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Mi respuesta](https://open.spotify.com/album/2z8NpMrQRSUF7IQSMDk7MS) | 4:28 | 2021-09-23 |  |
 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 | 2021-09-23 |  |
 | [En la puerta de al lado](https://open.spotify.com/track/6p4nG5yU4UvCMz1m7ShJca) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Similares](https://open.spotify.com/album/3polx9obFEloI0s73vcvUv) | 3:47 | 2021-09-23 |  |
 | [Entre tú y mil mares](https://open.spotify.com/track/715pi9Q08DJxLmyFj5SULx) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 3:48 | 2021-09-23 |  |

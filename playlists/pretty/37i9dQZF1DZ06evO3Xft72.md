@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,492 likes - 51 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,530 likes - 51 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 33 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
 | 34 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
 | 35 | [Lady Strange](https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:38 |
-| 36 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
-| 37 | [Miss You In A Heartbeat \- Revised Version](https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:04 |
+| 36 | [Miss You In A Heartbeat \- Revised Version](https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:04 |
+| 37 | [Make Love Like A Man](https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:15 |
 | 38 | [Stagefright](https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:44 |
 | 39 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 |
 | 40 | [Dangerous](https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz) | 3:26 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [Fire It Up](https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:19 |
 | 51 | [White Lightning](https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 7:03 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDhkZWY4MzVhYTQ4MGM3MzdjODA3ZTRiNzBhZmFiYWQx`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDYzMWI0Y2NkNjE5NDU4MmVhMTliMWU3M2VlNjQ1OTE0`

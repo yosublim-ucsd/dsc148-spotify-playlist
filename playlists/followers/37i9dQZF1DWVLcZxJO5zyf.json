@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 2419146,
+  "2024-04-14": 2419145,
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -193,7 +193,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226000,
       "name": "AGRIDOCE",
       "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183713,
       "name": "Ai Ai Ai Mega Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150851,
       "name": "Baile Charme - Ao Vivo",
       "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
@@ -1948,6 +1948,28 @@
     },
     {
       "album": {
+        "name": "Femme Fatale (J\u00fapiter)",
+        "url": "https://open.spotify.com/album/4rCfMYVqRt13AODPqakN4n"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208045,
+      "name": "Femme Fatale (J\u00fapiter)",
+      "url": "https://open.spotify.com/track/0gq7WAf5gmnKjPj5vk86qe"
+    },
+    {
+      "album": {
         "name": "FICA PRO CAF\u00c9",
         "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
       },
@@ -2417,6 +2439,24 @@
       "duration_ms": 181626,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166059,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7lqxgpVTIeUq2XLrYToRk7"
     },
     {
       "album": {
@@ -3287,6 +3327,24 @@
       "duration_ms": 160327,
       "name": "Na Sequ\u00eancia",
       "url": "https://open.spotify.com/track/4tIBDrshxn6PC5pjTkTeBG"
+    },
+    {
+      "album": {
+        "name": "Tara e Tal",
+        "url": "https://open.spotify.com/album/6Qj13mDyBZod5IYTUbTLOp"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220381,
+      "name": "NA TUA CABE\u00c7A",
+      "url": "https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD"
     },
     {
       "album": {
@@ -4335,7 +4393,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144686,
       "name": "Que Se V\u00e1",
       "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
@@ -4737,10 +4795,32 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 235503,
       "name": "SAUDADE DE VOC\u00ca",
       "url": "https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or"
+    },
+    {
+      "album": {
+        "name": "Se Eu Mandar Tu Obedece",
+        "url": "https://open.spotify.com/album/253UZk0jrGBSZXsQjUHEWH"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Se Eu Mandar Tu Obedece",
+      "url": "https://open.spotify.com/track/0ZmjQSx0c8k5v7ZwBzlxSF"
     },
     {
       "album": {
@@ -4929,6 +5009,24 @@
       "duration_ms": 155454,
       "name": "SEREIA",
       "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
+    },
+    {
+      "album": {
+        "name": "seus planos",
+        "url": "https://open.spotify.com/album/6aSc5gDviUEiMxPbRjV4G0"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208819,
+      "name": "seus planos",
+      "url": "https://open.spotify.com/track/5pDqtLsN7vFmyWrTIGrNFR"
     },
     {
       "album": {

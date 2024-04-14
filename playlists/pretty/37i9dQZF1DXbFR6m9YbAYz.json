@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 73396,
+  "num_followers": 73480,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2024-03-29 04:00:00",

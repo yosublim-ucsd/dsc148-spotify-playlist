@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 0,
+  "2024-04-14": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -263,6 +263,24 @@
       "duration_ms": 267400,
       "name": "A Prophecy - Big Chocolate",
       "url": "https://open.spotify.com/track/6wduP1kuY7dKXvp6SkIfuS"
+    },
+    {
+      "album": {
+        "name": "She Watched The Sky",
+        "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "A Reason For Broken Wings",
+      "url": "https://open.spotify.com/track/47N7tAV0SrLUtfxGoU8vlO"
     },
     {
       "album": {
@@ -1785,7 +1803,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 252266,
       "name": "Chokehold (Cocked 'N' Loaded)",
       "url": "https://open.spotify.com/track/6zO6ny1mxcmcoflJ9u4Vrv"
@@ -2210,6 +2228,24 @@
     },
     {
       "album": {
+        "name": "We Are Harlot",
+        "url": "https://open.spotify.com/album/1wM07YWwj8Ib0Q4Nc8apq4"
+      },
+      "artists": [
+        {
+          "name": "We Are Harlot",
+          "url": "https://open.spotify.com/artist/2Gf3bDVBECfT7UCU3XcvlD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Dancing on Nails",
+      "url": "https://open.spotify.com/track/3B3CDurawFVlndC9vdTemi"
+    },
+    {
+      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/1gIL4i3vw76mVvK6J2PL2B"
       },
@@ -2315,6 +2351,24 @@
       "duration_ms": 148306,
       "name": "Degenerate",
       "url": "https://open.spotify.com/track/5zaqXwiJTWi0TWxbHVitlb"
+    },
+    {
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5VGHRChawUXd2VvjGnUYY0"
     },
     {
       "album": {
@@ -3040,6 +3094,24 @@
     },
     {
       "album": {
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Exhuming McCarthy",
+      "url": "https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj"
+    },
+    {
+      "album": {
         "name": "Classic Power Ballads",
         "url": "https://open.spotify.com/album/3HtmOyC5Jnrg0CxGMPzn5n"
       },
@@ -3148,6 +3220,24 @@
     },
     {
       "album": {
+        "name": "Best of Bowie",
+        "url": "https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4XyuemNAggx7OvmpJYddcS"
+    },
+    {
+      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -3177,7 +3267,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225733,
       "name": "Fear",
       "url": "https://open.spotify.com/track/65XkfBp7jL8hKiI7HIPnaj"
@@ -3343,7 +3433,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219808,
       "name": "First To Try",
       "url": "https://open.spotify.com/track/5yrxE9LDTrrM8mGTgurAis"
@@ -3387,6 +3477,24 @@
       "duration_ms": 158677,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/47IVT3QBYhbI02oR0YvwO1"
+    },
+    {
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/4PMHaQHXf6jYJ6BsXl8AhS"
+      },
+      "artists": [
+        {
+          "name": "Reid Haughton",
+          "url": "https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183265,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/405RLkwfytmA5UIFWV69oY"
     },
     {
       "album": {
@@ -4449,7 +4557,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225093,
       "name": "I Want You to Want Me - Live at Nippon Budokan, Tokyo, JPN - April 1978",
       "url": "https://open.spotify.com/track/6TBJCwgdhwkzjpSjdqJUHC"
@@ -5376,6 +5484,24 @@
     },
     {
       "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
+    },
+    {
+      "album": {
         "name": "The Clash (Remastered)",
         "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
       },
@@ -5467,6 +5593,24 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA"
+    },
+    {
+      "album": {
+        "name": "Killswitch Engage (Special Edition)",
+        "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/78tLvQpH9JjFWl0MK9Gsne"
     },
     {
       "album": {
@@ -5715,7 +5859,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 249426,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d"
@@ -6421,7 +6565,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 311977,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/60kyrpYq4om187JzBsP8bU"
@@ -6563,6 +6707,24 @@
       "duration_ms": 221693,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/69vMDipMastHvYna7plBdS"
+    },
+    {
+      "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309081,
+      "name": "No Necesitamos Banderas",
+      "url": "https://open.spotify.com/track/3J8UPLZhNFQi3o2qIvwLjY"
     },
     {
       "album": {
@@ -7093,7 +7255,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226481,
       "name": "Paul",
       "url": "https://open.spotify.com/track/4Dl15Nv5e6XdyzwG0hZbCJ"
@@ -7819,6 +7981,24 @@
       "duration_ms": 216306,
       "name": "Rose of Sharyn",
       "url": "https://open.spotify.com/track/6dLXK2ppW3GiNEHN2vcMWl"
+    },
+    {
+      "album": {
+        "name": "Killswitch Engage (Special Edition)",
+        "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Rose of Sharyn - Live",
+      "url": "https://open.spotify.com/track/7HMPxuJISTHEbyo7LKB4Df"
     },
     {
       "album": {
@@ -8655,7 +8835,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175586,
       "name": "Suicide Season - The Secret Handshake Remix",
       "url": "https://open.spotify.com/track/1mOia2m9RBYrG7Z0Aa8EbW"
@@ -8739,6 +8919,24 @@
       "duration_ms": 291000,
       "name": "Symphony No. 40 in G Minor, K. 550: III. Menuetto (Allegretto) - Trio - Live at Grosser Saal, Musikverein, Wien / 1984",
       "url": "https://open.spotify.com/track/5nRrWjNIjQcs7EE4kUfdLm"
+    },
+    {
+      "album": {
+        "name": "Killswitch Engage (Special Edition)",
+        "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165880,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2fPlA2m2B0yecH8bVhUb1U"
     },
     {
       "album": {
@@ -9586,6 +9784,28 @@
     },
     {
       "album": {
+        "name": "Todos Locos",
+        "url": "https://open.spotify.com/album/63Cqc8bCUIMEs7EOWeEIPe"
+      },
+      "artists": [
+        {
+          "name": "Jimmy The Sound",
+          "url": "https://open.spotify.com/artist/5LYgNOC1wL3DsQVr4ERJuF"
+        },
+        {
+          "name": "Delfromad",
+          "url": "https://open.spotify.com/artist/62gDZbEYpora4rAPENVZR1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365986,
+      "name": "Todos Locos - Original Mix",
+      "url": "https://open.spotify.com/track/7BsJiwV0MRyTb8ToNjVCmx"
+    },
+    {
+      "album": {
         "name": "Ocho",
         "url": "https://open.spotify.com/album/3dJ5ujgyBc2Mw2G9fFeINy"
       },
@@ -9861,7 +10081,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8"
@@ -10287,7 +10507,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194736,
       "name": "WANNAGO?",
       "url": "https://open.spotify.com/track/7i48RHkDSR8Llnx8365Bj2"
@@ -10341,7 +10561,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204826,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/6GkOAvVEbkyyKc6X029fzv"
@@ -10467,7 +10687,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188173,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/42CWOvqqZF3JzWJHldoSKE"

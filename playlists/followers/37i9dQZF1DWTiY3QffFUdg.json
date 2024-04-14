@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 66156,
+  "2024-04-14": 66377,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164475,
       "name": "Pjanoo",
       "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
@@ -2622,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+    },
+    {
+      "album": {
         "name": "Robotic Arms",
         "url": "https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR"
       },
@@ -2734,6 +2752,32 @@
     },
     {
       "album": {
+        "name": "Shadows Of The Night (GIGI DAG Mix)",
+        "url": "https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Boostedkids",
+          "url": "https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ"
+        },
+        {
+          "name": "GIGI DAG",
+          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162130,
+      "name": "Shadows Of The Night - GIGI DAG Mix",
+      "url": "https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y"
       },
@@ -2745,7 +2789,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178377,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2"

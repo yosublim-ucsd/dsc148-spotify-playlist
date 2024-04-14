@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 72260,
+  "2024-04-14": 72285,
   "date_first_scraped": "2022-12-10",
   "description": "Hardcore and uptempo to get you pumped",
   "name": "Hardcore Rage 2024",
@@ -303,7 +303,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171428,
       "name": "BE LOUDER",
       "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
@@ -4529,6 +4529,24 @@
       "duration_ms": 239745,
       "name": "The Protector",
       "url": "https://open.spotify.com/track/48IF3j773hpoiFt97HyooD"
+    },
+    {
+      "album": {
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "album": {

@@ -1682,10 +1682,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 189093,
       "name": "Who's Still in Love",
       "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "album": {
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/1ICWqyGn0nVLmYE4KZ7GFb"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/6vRZO4rUcPfPZCJw0K06no"
     },
     {
       "album": {

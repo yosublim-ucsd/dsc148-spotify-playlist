@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
+    },
+    {
+      "album": {
         "name": "#TheSonOfaKapenta",
         "url": "https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU"
       },
@@ -1832,7 +1854,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 426746,
       "name": "Mayine",
       "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"

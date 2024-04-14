@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 107651,
+  "2024-04-14": 107855,
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
+  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
   "name": "This Is Eden Mu\u00f1oz",
   "tracks": [
     {
@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -175,7 +197,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"

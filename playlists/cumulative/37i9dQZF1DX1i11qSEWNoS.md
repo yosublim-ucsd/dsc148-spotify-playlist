@@ -4,7 +4,7 @@
 
 > und macht laune
 
-187 songs - 9 hr 0 min
+188 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,10 @@
 | [About You Now \(How I Feel\)](https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [About You Now \(How I Feel\)](https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp) | 2:42 | 2023-09-15 |  |
 | [Airwaves](https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Airwaves](https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ) | 2:58 | 2023-07-21 | 2023-08-26 |
 | [All Night](https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [All Night](https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm) | 2:33 | 2023-07-21 | 2024-01-26 |
-| [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-07-21 |  |
+| [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-07-21 | 2024-04-14 |
 | [Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Alles ist relativ](https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox) | 2:06 | 2023-12-01 |  |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-07-21 |  |
+| [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-04-11 |  |
 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 | 2023-07-21 | 2024-04-06 |
 | [ATZENMODUS](https://open.spotify.com/track/3xKcyp2MZb3yDsA6jyXT6g) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [HALB:VIER DELUXE](https://open.spotify.com/album/0PD3uJOx7UkLtCPoY5fO8o) | 4:21 | 2023-07-21 | 2023-07-30 |
 | [ATZENMODUS](https://open.spotify.com/track/7BfRyF3eUgZxXBmt01PBZY) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [HALB:VIER DELUXE](https://open.spotify.com/album/4pCTAzrlZXwxMzyMGOJEnN) | 4:21 | 2023-11-24 | 2023-12-02 |

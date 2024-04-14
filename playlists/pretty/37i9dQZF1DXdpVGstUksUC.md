@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,946 likes - 100 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,963 likes - 100 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 41 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 |
 | 42 | [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 |
 | 43 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
-| 44 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 |
-| 45 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
-| 46 | [Stray Bullit Woman](https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw) | 3:05 |
-| 47 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
+| 44 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
+| 45 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 |
+| 46 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
+| 47 | [Stray Bullit Woman](https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw) | 3:05 |
 | 48 | [Look To Your Orb For The Warning](https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 6:32 |
 | 49 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 50 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 |
 | 51 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
-| 52 | [Tres Brujas](https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT) | 4:09 |
-| 53 | [Death's Door](https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 7:15 |
-| 54 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
+| 52 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
+| 53 | [Tres Brujas](https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT) | 4:09 |
+| 54 | [Death's Door](https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 7:15 |
 | 55 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
 | 56 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 57 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 72 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
 | 73 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
 | 74 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
-| 75 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
-| 76 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
+| 75 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
+| 76 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
 | 77 | [Thornwyck Hymn](https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Thornwyck Hymn](https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k) | 6:47 |
 | 78 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 | 79 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |

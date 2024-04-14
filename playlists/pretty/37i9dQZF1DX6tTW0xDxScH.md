@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,552 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,585 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 76 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
 | 77 | [Used To Be Friends](https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 5:35 |
 | 78 | [I Live for You \(2014 Remaster\)](https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:37 |
-| 79 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 |
-| 80 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
+| 79 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
+| 80 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 |
 | 81 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 82 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
 | 83 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 97 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
 | 98 | [I'm Loving Nothing](https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 2:31 |
 | 99 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
-| 100 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
+| 100 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 |
 
 Snapshot ID: `MTcwNDc1Nzg4OSwwMDAwMDAwMDYyMjRiZTM1YjEyMzE2MmM0NTc0YTk5OWFjN2EwZDkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,824 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,845 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 42 | [Franca Barona](https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Franca Barona](https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL) | 3:35 |
 | 43 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
 | 44 | [MASERATI](https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [MASERATI](https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q) | 3:45 |
-| 45 | [Ibiza](https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Ibiza](https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS) | 3:24 |
-| 46 | [Feeling Alive](https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Feeling Alive](https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM) | 2:33 |
+| 45 | [Feeling Alive](https://open.spotify.com/track/1ebCYKQos3cErSrDfvFz5B) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Feeling Alive](https://open.spotify.com/album/6bfjes4qXi1rFpAhsJ21wM) | 2:33 |
+| 46 | [Ibiza](https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Ibiza](https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS) | 3:24 |
 | 47 | [La Diabla \(Electro Remix\)](https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [La Diabla \(Electro Remix\)](https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa) | 2:16 |
 | 48 | [Light Up](https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Light Up](https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc) | 2:41 |
 | 49 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 85 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
 | 86 | [Paleteao](https://open.spotify.com/track/73C0oEa8vbrR0gPpj7HBkl) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Paleteao](https://open.spotify.com/album/29dE9XTfPPBfumn5T9eaxF) | 2:18 |
 | 87 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 |
-| 88 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 |
-| 89 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
+| 88 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
+| 89 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 |
 | 90 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
 
 Snapshot ID: `MTcxMjk0ODY0OSwwMDAwMDAwMDliODM2M2UxYzExNWM2MWVkMDFlYTRiNzM3NjEwMThj`

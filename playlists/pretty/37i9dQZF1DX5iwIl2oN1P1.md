@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,767 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,819 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 27 | [Not Lucky, I'm Loved](https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 6:48 |
 | 28 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 29 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 |
-| 30 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
+| 30 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 31 | [If God / Nothing But the Blood \- Studio Version](https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [If God / Nothing But the Blood \(Studio Version\)](https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY) | 4:27 |
 | 32 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
 | 33 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 35 | [Gotta Have You](https://open.spotify.com/track/712eY6tMxOfDOguo6PlXl3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/0R0dZiUhIDRkgDbzJpSFcr) | 2:57 |
 | 36 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
 | 37 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
-| 38 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
+| 38 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 39 | [Live](https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Shall Live](https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8) | 5:18 |
 | 40 | [You](https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF) | 5:45 |
 | 41 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 47 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/2mccRVO7fG5HpOlfCrIjYr) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2vW8HKWfqwM0Vin3CuGJor) | 4:58 |
 | 48 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
 | 49 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
-| 50 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
-| 51 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
+| 50 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
+| 51 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
 | 52 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 53 | [Anything Can Happen](https://open.spotify.com/track/2GQXnE0fgCeVHKIbC32f4s) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3) | 8:05 |
 | 54 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |

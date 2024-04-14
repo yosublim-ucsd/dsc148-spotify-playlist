@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDBkOWNjMjc0ZmZiMjIyMjcwMjdhNjEwYTFiOWI2OGNh",
+  "snapshot_id": "MCwwMDAwMDAwMDEwYWViYWE2YzdiZmM4YTUyMjg2NGNlZDliMjMwOThk",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Side Of The Road/Chewing On Broken Glass",
-        "url": "https://open.spotify.com/album/7tWtd09dvvRx4nRyqcXOUm"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        },
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 237616,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4l7wSctBzdxVipOA3TQv6M"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -300,9 +280,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 163213,
-      "name": "Highway 51 Blues",
-      "url": "https://open.spotify.com/track/7DR6xsxue3I5ciAzJ3fKD9"
+      "duration_ms": 180269,
+      "name": "Man of Constant Sorrow",
+      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -875,30 +855,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Crack Cocaine",
-        "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
-      },
-      "artists": [
-        {
-          "name": "Billy Morrison",
-          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Steve Stevens",
-          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
-        }
-      ],
-      "duration_ms": 241426,
-      "name": "Crack Cocaine",
-      "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Headless Cross / Anno Mundi",
         "url": "https://open.spotify.com/album/7yyoUmD7s0iR4jQbYfjnno"
       },
@@ -931,54 +887,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "El Poder Divino",
-        "url": "https://open.spotify.com/album/2PoyCS87WqwOGnfHKad6F3"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 520096,
-      "name": "Mente Divina",
-      "url": "https://open.spotify.com/track/11RTKMqZGZTNVespfOQP4l"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "LIES WE TELL OURSELVES",
-        "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "LIES WE TELL OURSELVES",
-      "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Myths of Fate",
         "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
       },
@@ -991,30 +899,6 @@
       "duration_ms": 274994,
       "name": "Hammer of the Gods",
       "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "PODER (Bribb\u014d Remix)",
-        "url": "https://open.spotify.com/album/0mYcMzIpeNYtm2lOcADnvH"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Bribb\u014d",
-          "url": "https://open.spotify.com/artist/0I4Jwenu9U3vqvMywzWz4L"
-        }
-      ],
-      "duration_ms": 260890,
-      "name": "PODER - Bribb\u014d Remix",
-      "url": "https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1075,26 +959,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Estandarte",
-        "url": "https://open.spotify.com/album/3nykHgG8D3e2Eum1STSzzh"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Reno871",
-          "url": "https://open.spotify.com/artist/50nNZIMfSVOSOoZNPfgFCU"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Estandarte",
-      "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "What About The Children",
         "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
       },
@@ -1131,82 +995,6 @@
       "duration_ms": 90333,
       "name": "Children's Album, Op. 39, No. 1, Morning Prayer",
       "url": "https://open.spotify.com/track/1rYrMOkieLQvOfZNUNta1h"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "One Dark Happy Nation",
-        "url": "https://open.spotify.com/album/4K24QusgGGKnB5O7DZfkRi"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "One Dark Happy Nation",
-      "url": "https://open.spotify.com/track/53UmJZUfNkHkMH8ldAY1AG"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Dearly Departed (feat. Bert McCracken)",
-        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Dearly Departed (feat. Bert McCracken)",
-      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "The Live Series: Songs Of Celebration",
-        "url": "https://open.spotify.com/album/2Ibu9hI7h8VjtN4dsQLWjg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "What Love Can Do - Live at Wachovia Spectrum, Philadelphia, PA - 10/14/2009",
-      "url": "https://open.spotify.com/track/1WEE83xSksC1PbPMlRIFRt"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Heartbreak Feels So Good (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1DGBhnSeQGDRGUAo4aOQIL"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 135011,
-      "name": "Heartbreak Feels So Good - Dillon Francis Remix",
-      "url": "https://open.spotify.com/track/6Wsluv589twj4357ccqrzU"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

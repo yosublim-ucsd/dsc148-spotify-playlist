@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 124739,
+  "2024-04-14": 124785,
   "date_first_scraped": "2022-03-01",
   "description": "Emerging sounds in worship from everywhere.",
   "name": "New & Bold",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 321533,
       "name": "Both Sides",
       "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 261506,
       "name": "Heart Of Heaven",
       "url": "https://open.spotify.com/track/0zMUbvykhTTDch7YjgjMpT"

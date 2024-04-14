@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 440469,
+  "2024-04-14": 440503,
   "date_first_scraped": "2022-01-24",
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Chris Brown.)",
   "name": "Beats & Rhymes",
@@ -39707,6 +39707,28 @@
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {

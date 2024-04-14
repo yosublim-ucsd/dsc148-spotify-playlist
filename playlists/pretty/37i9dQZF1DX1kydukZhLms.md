@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349,312 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,681 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 56 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 |
 | 57 | [The Temple Of The King](https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow](https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo) | 4:42 |
 | 58 | [Under Your Scars](https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 3:51 |
-| 59 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
-| 60 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 59 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 60 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
 | 61 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
 | 62 | [Is This Love \- 2018 Remaster](https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:44 |
 | 63 | [In a Darkened Room](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:55 |
 | 64 | [The Unforgiven II](https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 6:36 |
 | 65 | [Alone Again](https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo) | 4:20 |
 | 66 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
-| 67 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
-| 68 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
-| 69 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 |
+| 67 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
+| 68 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 |
+| 69 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
 | 70 | [God Was Never on Your Side](https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG) | 4:21 |
 | 71 | [Still of the Night \- 2018 Remaster](https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 6:37 |
 | 72 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 |

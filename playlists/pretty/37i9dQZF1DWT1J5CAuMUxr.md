@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Camila en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,981 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,005 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 | 36 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 |
 | 37 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 38 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
-| 39 | [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 |
+| 39 | [Mil Maneras De Morir](https://open.spotify.com/track/2dc0cP069ZlIwMt7rvlTzR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:09 |
 | 40 | [Cuestión De Tiempo](https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:38 |
 | 41 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
 | 42 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |

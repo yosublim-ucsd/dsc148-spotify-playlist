@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-129 songs - 6 hr 15 min
+130 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2023-10-24 | 2024-01-24 |
 | [Wdym](https://open.spotify.com/track/1i76QCkCkR5mC6Bp4wtcJC) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Wdym](https://open.spotify.com/album/4KNriFZ1eqXt0FWa1znzSz) | 2:09 | 2023-10-24 |  |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-10-24 |  |
-| [WHITE DOWN JKT](https://open.spotify.com/track/3tmbeNhGonMxauKcmBPMaH) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [WHITE DOWN JKT](https://open.spotify.com/album/5cdp6CeC6nB5zS9o7g3xOQ) | 1:55 | 2023-10-24 |  |
+| [WHITE DOWN JKT](https://open.spotify.com/track/3tmbeNhGonMxauKcmBPMaH) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [WHITE DOWN JKT](https://open.spotify.com/album/5cdp6CeC6nB5zS9o7g3xOQ) | 1:55 | 2023-10-24 | 2024-04-14 |
+| [WHITE DOWN JKT](https://open.spotify.com/track/63FuRAAfnYTl5HdhpHb5jX) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/68dcRmA0w3EAOfOFq4o1gc) | 1:55 | 2024-02-27 |  |
 | [WHO ARE U ?2022](https://open.spotify.com/track/1r5uth64y1Z5RzO5wskWjm) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [TOKONA\-X](https://open.spotify.com/artist/2bkeiir345k380JCph94Zn), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [WHO ARE U ?2022](https://open.spotify.com/album/1PNp2xvc0cIB9efat23IO1) | 3:14 | 2023-10-24 |  |
 | [Who are you ?](https://open.spotify.com/track/4biUoSfwRlK3WilWUFy7PK) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [WHO AM I? \(Deluxe\)](https://open.spotify.com/album/3rZ5z3scfByZnQCOTYWpT1) | 2:56 | 2023-10-24 |  |
 | [YEN](https://open.spotify.com/track/4Hp2ZLj18BBLlATtFVR3rn) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [YEN](https://open.spotify.com/album/7zRggH4ftnbl0fFBfcR7BO) | 2:06 | 2023-10-24 | 2023-11-29 |

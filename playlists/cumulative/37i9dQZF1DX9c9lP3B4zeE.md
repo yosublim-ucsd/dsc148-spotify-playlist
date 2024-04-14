@@ -4,7 +4,7 @@
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-201 songs - 11 hr 45 min
+202 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 | 2023-08-09 | 2023-10-17 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-10-16 |  |
 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 | 2023-03-24 | 2023-04-20 |
-| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-10-16 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-10-16 | 2024-04-14 |
+| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-10-16 |  |
 | [Something Pretty](https://open.spotify.com/track/0HDGWtJHUopYxQMMeDDb2X) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Loneliness Knows My Name](https://open.spotify.com/album/6helOjO9QZux0UT4u7sYYp) | 3:14 | 2023-08-09 | 2023-10-17 |
 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 | 2023-08-09 | 2023-10-17 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-03-24 | 2023-08-10 |

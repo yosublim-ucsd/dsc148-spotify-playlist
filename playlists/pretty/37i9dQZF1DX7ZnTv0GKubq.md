@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,820 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,864 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 19 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
 | 20 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 21 | [Mira \(Frikitona\)](https://open.spotify.com/track/0mXp3KqWNGwLKfDu4YCqU4) | [Milena Sanchez](https://open.spotify.com/artist/0VjiomvbhEWVUJJucZKQ2n) | [Mira \(Frikitona\)](https://open.spotify.com/album/0SHXXpQyPoWf1SzT6LyC3T) | 2:34 |
-| 22 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
-| 23 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 22 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 23 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 24 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 25 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 |
 | 26 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |

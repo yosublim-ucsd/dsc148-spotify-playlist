@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 56116,
+  "2024-04-14": 56142,
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Robert Finley",
+  "description": "The best in blues right now. Cover: Toronzo Cannon",
   "name": "Got Blues",
   "tracks": [
     {
@@ -107,10 +107,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156973,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+    },
+    {
+      "album": {
+        "name": "Ace Of Blues",
+        "url": "https://open.spotify.com/album/4VBJD561gFAMKctx5vLyk0"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Ace Of Spades",
+      "url": "https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe"
     },
     {
       "album": {
@@ -892,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Can't Fix The World",
+        "url": "https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Can't Fix The World",
+      "url": "https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP"
+    },
+    {
+      "album": {
         "name": "Can't Take No More",
         "url": "https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8"
       },
@@ -1161,6 +1197,24 @@
       "duration_ms": 267507,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa"
+    },
+    {
+      "album": {
+        "name": "Devil In Me",
+        "url": "https://open.spotify.com/album/5ofOvPpwP7rsn4JsHEDLlj"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Devil In Me",
+      "url": "https://open.spotify.com/track/2QpsQclk1kxSVZ0kX5OQVs"
     },
     {
       "album": {
@@ -2141,7 +2195,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 308573,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ"
@@ -5619,7 +5673,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"

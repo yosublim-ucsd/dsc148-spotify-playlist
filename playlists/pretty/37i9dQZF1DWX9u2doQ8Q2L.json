@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387999,
+  "num_followers": 388220,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
+        "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+        "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 174082,
+      "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+      "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
         "name": "Kids Return",
         "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
       },
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "\u660e\u308b\u3044\u90e8\u5c4b",
-        "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        },
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 174082,
-      "name": "\u660e\u308b\u3044\u90e8\u5c4b",
-      "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "SAICO",
-        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
       },
       "artists": [
         {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 167429,
-      "name": "SAICO",
-      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "bugs",
-        "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
         }
       ],
-      "duration_ms": 239320,
-      "name": "bugs",
-      "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+        "name": "bugs",
+        "url": "https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
+      "duration_ms": 239320,
+      "name": "bugs",
+      "url": "https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1327,6 +1343,26 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
+        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 272319,
+      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
         "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa"
       },
@@ -1347,26 +1383,6 @@
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
-        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 272319,
-      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "\u6551\u4e16\u4e3b",
-        "url": "https://open.spotify.com/album/4kb32b8HlLiATmTModYCgf"
-      },
-      "artists": [
-        {
-          "name": "AAAMYYY",
-          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
-        }
-      ],
-      "duration_ms": 195450,
-      "name": "\u6551\u4e16\u4e3b",
-      "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1443,6 +1443,46 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
+        "name": "\u6551\u4e16\u4e3b",
+        "url": "https://open.spotify.com/album/4kb32b8HlLiATmTModYCgf"
+      },
+      "artists": [
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "duration_ms": 195450,
+      "name": "\u6551\u4e16\u4e3b",
+      "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
+        "name": "UMAMI",
+        "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        },
+        {
+          "name": "whoosh",
+          "url": "https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "UMAMI",
+      "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1475,30 +1515,6 @@
       "duration_ms": 232301,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
-        "name": "UMAMI",
-        "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        },
-        {
-          "name": "whoosh",
-          "url": "https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "UMAMI",
-      "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 248901,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
         "name": "\u96e2\u5a5a\u4f1d\u8aac",
         "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 198000,
       "name": "\u3055\u3089\u307e\u3063\u307d",
       "url": "https://open.spotify.com/track/4Xg1Dh1bOAHiFrsHTOtX8b"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 248901,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1623,6 +1639,22 @@
     {
       "added_at": "2024-04-12 12:14:56",
       "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+    },
+    {
+      "added_at": "2024-04-12 12:14:56",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/2hDx79gIhKj0TrHJ56pyP8"
       },
@@ -1639,22 +1671,6 @@
       "duration_ms": 171986,
       "name": "EGO",
       "url": "https://open.spotify.com/track/63aYm38PRy9rEGt5j5Xney"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
     },
     {
       "added_at": "2024-04-12 12:14:56",
@@ -1687,30 +1703,6 @@
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
-    },
-    {
-      "added_at": "2024-04-12 12:14:56",
-      "album": {
-        "name": "FINE LINE (feat. Skaai) (Prod. uin)",
-        "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "uin",
-          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "FINE LINE (feat. Skaai) (Prod. uin)",
-      "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
     },
     {
       "added_at": "2024-04-12 12:14:56",

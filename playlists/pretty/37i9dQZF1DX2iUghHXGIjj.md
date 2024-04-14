@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,003 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,999 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 48 | [When the Levee Breaks \(feat\. Jean Jacques Milteau\)](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 |
 | 49 | [Deep River Blues](https://open.spotify.com/track/4PvPkRcbnO4s67MPnij3sh) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 3:12 |
 | 50 | [Backstreets](https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f) | [Lazer Lloyd](https://open.spotify.com/artist/3M7XE8fhxddDJWWhchEXud) | [Backstreets](https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi) | 4:56 |
-| 51 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 |
+| 51 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 |
 | 52 | [When the Hurt Is Over](https://open.spotify.com/track/5hmrxXohb7HbRovzFAnKWJ) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/6QxUFpQy5rx7JtIRXhBRIZ) | 6:11 |
 | 53 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/2sTHsK8xaGGg7PRLiSnhhY) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 4:57 |
 | 54 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer \(Deluxe\)](https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy) | 7:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,736 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,943 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 44 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
 | 45 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDMyMDA5ZTMyNzFmNjVjODliZTE4MmFkYmY3MzdhMDg1`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGU5NmQ1NGUzNWRmYmJjMWY5ZjZlZjg5OTk2Y2MzNjQ5`

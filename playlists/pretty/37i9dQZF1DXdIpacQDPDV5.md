@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kasablanca and Lane 8
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,119 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,146 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 67 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 68 | [Inside Out](https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Bad Nonno](https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU) | [Inside Out](https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq) | 2:52 |
 | 69 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
-| 70 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 70 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 
 Snapshot ID: `MTcxMjk0MTMzMywwMDAwMDAwMDQ2NjkzNTVkYWM3MTU5MDNkNzYwYjdlM2FhYTVkYTQ5`

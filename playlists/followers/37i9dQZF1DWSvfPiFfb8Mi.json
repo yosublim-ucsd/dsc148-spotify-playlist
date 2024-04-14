@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 555861,
+  "2024-04-14": 556022,
   "date_first_scraped": "2022-04-09",
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
   "name": "Poolside Disco",
@@ -4504,6 +4504,24 @@
     },
     {
       "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
+    },
+    {
+      "album": {
         "name": "Street Player (Dimitri From Paris Remixes)",
         "url": "https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V"
       },
@@ -4563,7 +4581,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"

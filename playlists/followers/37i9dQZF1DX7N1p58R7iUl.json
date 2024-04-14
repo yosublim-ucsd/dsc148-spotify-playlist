@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 46925,
+  "2024-04-14": 46948,
   "date_first_scraped": "2022-12-14",
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Todd Terry's track IDs",
@@ -69,7 +69,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188040,
       "name": "Affair - Remix 2.5",
       "url": "https://open.spotify.com/track/5tp1kevNhQaYbZDIuQss70"
@@ -363,6 +363,28 @@
       "duration_ms": 152903,
       "name": "Blow (La Trompeta)",
       "url": "https://open.spotify.com/track/2NZgoxwBK0Y2h2BDCnGXYq"
+    },
+    {
+      "album": {
+        "name": "Body Moving",
+        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154215,
+      "name": "Body Moving",
+      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
       "album": {
@@ -1528,6 +1550,32 @@
     },
     {
       "album": {
+        "name": "Heaven or Not",
+        "url": "https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151259,
+      "name": "Heaven or Not",
+      "url": "https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF"
+    },
+    {
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5SimEb9VfV4K7GmeeLogha"
       },
@@ -1696,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "I Feel Sexxx (2024 Killa Mix)",
+        "url": "https://open.spotify.com/album/60xDVotWa1SwtIV8YyHtyU"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "I Feel Sexxx - 2024 Killa Edit",
+      "url": "https://open.spotify.com/track/4Im4ed048ODKhC0QTKunIL"
+    },
+    {
+      "album": {
         "name": "I Give You Love",
         "url": "https://open.spotify.com/album/2SHvjqCQ41qfFZpoy4tRYP"
       },
@@ -1815,7 +1881,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173333,
       "name": "I Like - Remix",
       "url": "https://open.spotify.com/track/5WmGCDRNRnX42Ziqpq5JjC"
@@ -2926,6 +2992,48 @@
     },
     {
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/4Hxb5bAYlGYj9XGPZXy4jb"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lavell Evans",
+          "url": "https://open.spotify.com/artist/4Tvy5d6wKE0kbmbwAKV75n"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "Akinah Diedonne",
+          "url": "https://open.spotify.com/artist/2EfgZzsZ86ITC94jW3eQ5j"
+        },
+        {
+          "name": "Tiffany Johnson",
+          "url": "https://open.spotify.com/artist/4vXw3xr03u8oPVTREpO17z"
+        },
+        {
+          "name": "Charles Mcdougald",
+          "url": "https://open.spotify.com/artist/7G1VlMVLA3mAR8NCSfJKBi"
+        },
+        {
+          "name": "Shawn Icecold",
+          "url": "https://open.spotify.com/artist/731vhkGDiv3Q1VzxDKGTFS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137419,
+      "name": "Music - Edit",
+      "url": "https://open.spotify.com/track/0joUEsve4K6fiG0AWEIp7H"
+    },
+    {
+      "album": {
         "name": "Music Is My Life (Giovi Remix)",
         "url": "https://open.spotify.com/album/2tenUhrSivoUCnFKybI7Lt"
       },
@@ -3588,6 +3696,28 @@
     },
     {
       "album": {
+        "name": "So Hype (feat. M\u00fda)",
+        "url": "https://open.spotify.com/album/31KAFsG4uyhJSnXnxyPGVl"
+      },
+      "artists": [
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170020,
+      "name": "So Hype (feat. M\u00fda)",
+      "url": "https://open.spotify.com/track/01EqoyDwY1L8kzyHKEexdl"
+    },
+    {
+      "album": {
         "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
         "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
       },
@@ -4075,7 +4205,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170434,
       "name": "The Real Tech - Edit",
       "url": "https://open.spotify.com/track/6fAApJEkiquN7uljdFdbbU"
@@ -4193,6 +4323,32 @@
       "duration_ms": 181992,
       "name": "This Is My Life",
       "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"
+    },
+    {
+      "album": {
+        "name": "This Is My Life (Bontan Remix)",
+        "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "This Is My Life - Bontan Remix",
+      "url": "https://open.spotify.com/track/6CqPGAoMqPoOGCfxSKuKtC"
     },
     {
       "album": {
@@ -4500,6 +4656,24 @@
     },
     {
       "album": {
+        "name": "When I Close My Eyes",
+        "url": "https://open.spotify.com/album/3GuGgqIhptQEHVVFAzqSb9"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/3KrpHx7OQimSAaFwvAKx8R"
+    },
+    {
+      "album": {
         "name": "Where's Your Head At (Martin Ikin Remix)",
         "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
       },
@@ -4623,6 +4797,28 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "album": {
+        "name": "XOX",
+        "url": "https://open.spotify.com/album/7aoFF68YggnI9GMTLbqLRR"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117254,
+      "name": "XOX",
+      "url": "https://open.spotify.com/track/6fWcU1Tvd1DSWrpPuwxiPR"
     },
     {
       "album": {

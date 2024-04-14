@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,430 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,456 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -386,7 +386,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 376 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 377 | [L'Amour Joue Au Violon](https://open.spotify.com/track/2r2zAXMgVdSA0uxaCKrhMG) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Ritual Chants](https://open.spotify.com/album/79SpX17JQa0BR3bOxo0gFI) | 4:25 |
 | 378 | [Tin Hinane](https://open.spotify.com/track/6Rsi9LoLZ6EjumotqsY7HN) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 4:17 |
-| 379 | [Tudo Azul N'América Do Sul \- 1998 \- Remaster;](https://open.spotify.com/track/2oY87BzLvBPryKYUuF4VdZ) | [Abilio Manoel](https://open.spotify.com/artist/4ag0CL3N5rbWwk0PUEFaA3) | [Selecao De Ouro](https://open.spotify.com/album/0OXoyobh6bszMMThS2GNon) | 2:59 |
+| 379 | [Tudo Azul Na América Do Sul](https://open.spotify.com/track/2oY87BzLvBPryKYUuF4VdZ) | [Abilio Manoel](https://open.spotify.com/artist/4ag0CL3N5rbWwk0PUEFaA3) | [Selecao De Ouro](https://open.spotify.com/album/0OXoyobh6bszMMThS2GNon) | 2:59 |
 | 380 | [Bala](https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bala](https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN) | 3:16 |
 | 381 | [Show Me The Way, My Brother \(Iph'Indlela\)](https://open.spotify.com/track/1xjlABbsrIRwA5FXOzQ5zZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:12 |
 | 382 | [Eu Sou Como Você É](https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Lô Borges](https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I) | 3:03 |

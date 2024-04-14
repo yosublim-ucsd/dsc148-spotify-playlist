@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,754,386 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,641 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 33 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 |
 | 34 | [Kundiman](https://open.spotify.com/track/6Al0RruBBzC6ft8u1p78hG) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:39 |
 | 35 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 36 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 |
-| 37 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |
+| 36 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |
+| 37 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 |
 | 38 | [Tahanan](https://open.spotify.com/track/7oMCyUv2mpT7Q4FWHnX2hZ) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:53 |
 | 39 | [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 |
 | 40 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 |

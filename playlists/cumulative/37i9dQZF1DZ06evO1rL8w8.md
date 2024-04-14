@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 49 min
+59 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Mafia Nueva](https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:26 | 2024-01-29 |  |
 | [Malditas Ganas](https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:36 | 2024-01-29 |  |
 | [Me Gustas Mucho \(En Vivo\)](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 | 2024-01-29 |  |
+| [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 | 2024-04-14 |  |
 | [Mujer Enamorada](https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Mujer Enamorada](https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY) | 2:20 | 2024-01-29 |  |
 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 | 2024-01-29 |  |
 | [No Soy De Modas](https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Soy De Modas](https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR) | 3:11 | 2024-01-29 |  |

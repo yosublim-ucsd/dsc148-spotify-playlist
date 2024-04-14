@@ -2,9 +2,9 @@
 
 ### [This Is Calibre 50](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wpQxW)
 
-> This is Calibre 50\. The essential tracks, all in one playlist.
+> This Is Calibre 50\. Los temas esenciales, todos en una lista.
 
-59 songs - 3 hr 10 min
+60 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 | 2023-08-08 |  |
 | [Mitad Y Mitad](https://open.spotify.com/track/6op4hkxR1jfX9t1Dghe8BN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/046St1TwXGyKvJceYfLhwl) | 2:40 | 2023-12-13 |  |
 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 | 2023-08-08 |  |
+| [Nada Que Ver](https://open.spotify.com/track/1goyZZfv2eo6R2dyrtlLK1) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Nada Que Ver](https://open.spotify.com/album/4digrsXmLNQEZl3psy8au5) | 3:01 | 2024-04-14 |  |
 | [Ni Mandándote A Hacer](https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 4:06 | 2023-08-08 |  |
 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 | 2023-08-08 |  |
 | [Para Qué Pensarla Tanto](https://open.spotify.com/track/2AegxIS0LbtMXM8vktSh0W) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:15 | 2023-08-08 |  |

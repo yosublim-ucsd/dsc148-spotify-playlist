@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, reusable totes, iced coffee, & all the lovely spring things",
-  "num_followers": 232089,
+  "num_followers": 233457,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "First Love/Late Spring",
-      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
-    },
-    {
-      "added_at": "2024-03-22 13:03:05",
-      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2024-03-22 13:03:05",
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "First Love/Late Spring",
+      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
     },
     {
       "added_at": "2024-03-22 13:03:05",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 422613,
-      "name": "Moonlight on the River",
-      "url": "https://open.spotify.com/track/2fhOljbX79loRcdl47SFye"
-    },
-    {
-      "added_at": "2024-03-22 13:03:05",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-03-22 13:03:05",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 422613,
+      "name": "Moonlight on the River",
+      "url": "https://open.spotify.com/track/2fhOljbX79loRcdl47SFye"
     },
     {
       "added_at": "2024-03-22 13:03:05",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
+    },
+    {
+      "added_at": "2024-03-22 13:03:05",
+      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2024-03-22 13:03:05",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2024-03-22 13:03:05",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-03-22 13:03:05",
@@ -595,22 +611,6 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2024-03-22 13:03:05",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-03-22 13:03:05",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2024-03-22 13:03:05",
-      "album": {
         "name": "First Collection 2006-2009",
         "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2024-03-22 13:03:05",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2024-03-22 13:03:05",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-03-22 13:03:05",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 193048,
-      "name": "All the Debts I Owe",
-      "url": "https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun"
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
     }
   ],
   "unique_name": "Farmers Market",

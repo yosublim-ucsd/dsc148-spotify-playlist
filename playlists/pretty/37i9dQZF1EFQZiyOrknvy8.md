@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 135 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 135 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 51 | [COLORS](https://open.spotify.com/track/6k0FNeHutAV9Q2v83QNj6g) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Labyrinth](https://open.spotify.com/album/2p74LszcEO3DrJl7WhTmUm) | 3:10 |
 | 52 | [As Fun](https://open.spotify.com/track/25cADOzWoLzo5E0R0FVF0W) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bits Of Naaz](https://open.spotify.com/album/34akCS9THWFnbRSQQ8c2Xi) | 2:26 |
 | 53 | [Lass mich los](https://open.spotify.com/track/2fbIOC7TEm1tAJwMDAvFhA) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 5:37 |
-| 54 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 |
-| 55 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 |
+| 54 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 |
+| 55 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 |
 | 56 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 57 | [7 Days](https://open.spotify.com/track/5ifU583yr1ywEo9y9fDQGB) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:07 |
 | 58 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 134 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 135 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDA4YmZlMWI5MzRmMzg1MWU4MGY2ZGIyZGMyMjNmNGYwMw==`
+Snapshot ID: `Mjg1NTEwNzcsMDAwMDAwMDBiZDkyNWM3NjViMjY2NmI2OTM0ZjIzZmE2MGJlN2M3NA==`

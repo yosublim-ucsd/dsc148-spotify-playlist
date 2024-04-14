@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,851 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,856 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 3 | [Sterven](https://open.spotify.com/track/18kSBozaeysyoe5HK3iSga) | [SUWI](https://open.spotify.com/artist/5va5r5z6fJonpxQjK4CuzL) | [Sterven](https://open.spotify.com/album/47DAFeetvg0XjKEsb5mI9Z) | 4:40 |
 | 4 | [Playtime's Over](https://open.spotify.com/track/3GQuSqujob9VWXOldntc8O) | [Yannick Peeters](https://open.spotify.com/artist/56mocJpAyqTTNCYwrWKbl8), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO), [Frederik Leroux](https://open.spotify.com/artist/3YV0ck6nM0n2Ee7BCifHmR), [Frans Van Isacker](https://open.spotify.com/artist/0CWdD3PavKLREUxKbT4KJK) | [GingerBlackGinger](https://open.spotify.com/album/0mUMafVCDN7R7KipvLo7Cy) | 6:41 |
 | 5 | [Hold me](https://open.spotify.com/track/1st9TPIGTI7FknC5kliyNy) | [Louise van den Heuvel](https://open.spotify.com/artist/75RIK6Z7lbdPqN1QYfxTjU), [Sonic Hug](https://open.spotify.com/artist/0gwGcdhXkA67yhCxcxEh5z) | [Hold me](https://open.spotify.com/album/71ZMsfsjZBFZf5fvDFPaNI) | 6:02 |
-| 6 | [Yiri Yiri Boum](https://open.spotify.com/track/6iICxNg56nU4HLLNCRi1DU) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri Yiri Boum](https://open.spotify.com/album/7eQPW7QK3AGerQXqtr9B3O) | 6:11 |
+| 6 | [Yiri Yiri Boum](https://open.spotify.com/track/1LYB42NJLPzCwJtdYyrmNX) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri BOOM!](https://open.spotify.com/album/1FXXtgeV0hzZ0CQ60wvA7A) | 6:11 |
 | 7 | [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 |
 | 8 | [Yupla](https://open.spotify.com/track/4Bu8wvlZWNu1OdCpXFyZ3t) | [mòs ensemble](https://open.spotify.com/artist/6oqHDzHvWhsmPOt22n3wQX) | [Yupla](https://open.spotify.com/album/65PAdAMM9EtDP2WC0fT4en) | 3:48 |
 | 9 | [Papir Freedom](https://open.spotify.com/track/6OzARRJLlPeRB2ICpY0ftR) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 4:25 |

@@ -2671,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "FLORAL",
+        "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "FLORAL",
+      "url": "https://open.spotify.com/track/424p6UywhA810uXc7zr6N4"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA"
       },
@@ -9174,7 +9196,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"

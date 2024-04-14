@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,608 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,625 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 7 | [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 |
 | 8 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 |
 | 9 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 |
-| 10 | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d) | [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5) | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/album/0MUdhXqh4Px7wQ5HXYi8c3) | 2:12 |
+| 10 | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d) | [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5), [Vanit Bakshi](https://open.spotify.com/artist/594mEZ3oCpqff89DaiF8Wa) | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/album/0MUdhXqh4Px7wQ5HXYi8c3) | 2:12 |
 | 11 | [Ruk Ja Zara](https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [Ruk Ja Zara](https://open.spotify.com/album/709EDNOfKy6fgn33Hmu1df) | 3:56 |
 | 12 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 |
 | 13 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 |

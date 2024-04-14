@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,222 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,214 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 6 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 7 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 |
 | 8 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
-| 9 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
-| 10 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
+| 9 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
+| 10 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 11 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
 | 12 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
 | 13 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 14 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 15 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
-| 16 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
-| 17 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
+| 16 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
+| 17 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
 | 18 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 19 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 20 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 41 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 42 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 43 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
-| 44 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
-| 45 | [Dead Weight](https://open.spotify.com/track/7hM9ShrZMCV7xYOQwqBnNb) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Dead Weight](https://open.spotify.com/album/7pyv1fWhBIstEJVTyuMZK5) | 3:27 |
+| 44 | [Dead Weight](https://open.spotify.com/track/7hM9ShrZMCV7xYOQwqBnNb) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Dead Weight](https://open.spotify.com/album/7pyv1fWhBIstEJVTyuMZK5) | 3:27 |
+| 45 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
 | 46 | [ILY, HOW ARE YOU?](https://open.spotify.com/track/51sGd4PYmBWbVNMCAh3nd0) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:11 |
 | 47 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
 | 48 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 |

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 347207,
+  "num_followers": 347237,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo",
-        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 192423,
-      "name": "Feito A Mar\u00e9",
-      "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Neste Contexto",
         "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
       },
@@ -251,22 +231,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Quero Voc\u00ea",
-        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
+        "name": "Se o Meu Peito Fosse o Mundo",
+        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
       },
       "artists": [
         {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         },
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 149517,
-      "name": "Quero Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+      "duration_ms": 192423,
+      "name": "Feito A Mar\u00e9",
+      "url": "https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -291,18 +271,38 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 149517,
+      "name": "Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "SERENA",
-        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 189713,
-      "name": "SERENA",
-      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "O QUE EXISTE \u00c9 O AGORA",
         "url": "https://open.spotify.com/album/0LAEuFozh71JAaa6l8z6Cr"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 198506,
       "name": "O QUE EXISTE \u00c9 O AGORA",
       "url": "https://open.spotify.com/track/7yqGbzywtjCDOvsYz6hl5D"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 150394,
       "name": "Cheguei pra ficar",
       "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Nesse Exato Momento",
+        "url": "https://open.spotify.com/album/2UJqqqA4XMyfy1Pa2rTgd3"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 198489,
+      "name": "Nesse Exato Momento",
+      "url": "https://open.spotify.com/track/14xmrNJaDnnx7PbNzRltgX"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Nesse Exato Momento",
-        "url": "https://open.spotify.com/album/2UJqqqA4XMyfy1Pa2rTgd3"
-      },
-      "artists": [
-        {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
-        },
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 198489,
-      "name": "Nesse Exato Momento",
-      "url": "https://open.spotify.com/track/14xmrNJaDnnx7PbNzRltgX"
     }
   ],
   "unique_name": "Divina MPB",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,894 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,898 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 24 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 25 | [Ishq Ibaadat](https://open.spotify.com/track/0o27i8mmoBEOd9c9vxS3wp) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Ishq Ibaadat](https://open.spotify.com/album/04hYdVboRgH9BmmS7gvqnC) | 2:41 |
 | 26 | [Lighters](https://open.spotify.com/track/3hMqn7yq5loaLRe3Y2Yk1M) | [Anzela Abbasi](https://open.spotify.com/artist/3hcFhUkdCCHxvXN7BDAlqL), [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx) | [Lighters](https://open.spotify.com/album/56rBuY6wxVca93V2gxqhte) | 1:55 |
-| 27 | [Yaadein](https://open.spotify.com/track/4emyBB1y2yRUKWdNjHxwzD) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Yaadein](https://open.spotify.com/album/4J3iaWvJORN2fQbYARI2sb) | 3:06 |
+| 27 | [Yaadein](https://open.spotify.com/track/2zS2ty3KwAMBOHmWKyrZmJ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Yaadein](https://open.spotify.com/album/23vZO2UdIwzL5RlTBLQ9dI) | 3:06 |
 | 28 | [INTRO\-WARM UP](https://open.spotify.com/track/5ABHU9tIEVh1XqQXcKDSxS) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [TAZADAAT](https://open.spotify.com/album/40mOhWUDs9in2VoIM7rmQ0) | 1:58 |
 | 29 | [Chahd K Gayi](https://open.spotify.com/track/3uGqaPqbsRZ8VVC6iMLwPG) | [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Chahd K Gayi](https://open.spotify.com/album/3YmsEfANXLLtr7xzd0XGsx) | 3:33 |
 | 30 | [Bindiya](https://open.spotify.com/track/5xXOeKjYM1bXMkxtZRimAc) | [Ali Pirzada](https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Bindiya](https://open.spotify.com/album/6Cpn0R0rBad5JwXnr2AFFi) | 3:23 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 39 | [Cheti Aa](https://open.spotify.com/track/1TmGLXjFEtX9WSzqRilgT6) | [Haadi Uppal](https://open.spotify.com/artist/4VyjDb19fx3IhUB7rEYbM9) | [Cheti Aa](https://open.spotify.com/album/7qdNVFqKv6sYOJwiJ9fQQf) | 3:04 |
 | 40 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 | 41 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 |
-| 42 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
+| 42 | [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 |
 | 43 | [Je Pata Hunda](https://open.spotify.com/track/5zQKrGzbELLOzgOner0ejA) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/2wWEbbhIzS3V1hajt19Tcg) | 2:50 |
 | 44 | [Teri Yaad](https://open.spotify.com/track/0dopnHIPsGFWZHk3ZNdWG5) | [Sanan Khalid](https://open.spotify.com/artist/0NDyAM1Wxd2yKhm5XAybTN), [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Teri Yaad](https://open.spotify.com/album/5RTUuUnkQDwdyIZHCMmR91) | 3:26 |
 | 45 | [Fida](https://open.spotify.com/track/7aYea105daJfoZQT88uMhR) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Fida](https://open.spotify.com/album/7b7Eiz2q9J6H9iQRmHRH18) | 3:02 |

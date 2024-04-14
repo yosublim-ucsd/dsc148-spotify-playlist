@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,086 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,143 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 26 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
 | 27 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 |
 | 28 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 |
-| 29 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 |
+| 29 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 |
 | 30 | [24](https://open.spotify.com/track/7usWmCLUBejavgrmPbaD7u) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [24](https://open.spotify.com/album/3I0TChYjRjihnK2Pqy5WbY) | 4:14 |
 | 31 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 |
 | 32 | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/track/1guarMYBLktq8irSVW7VN5) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [I Inhabit My Life \(And It Feels So Good\)](https://open.spotify.com/album/5oOB78P3SfrUIIYag71Mbq) | 2:19 |

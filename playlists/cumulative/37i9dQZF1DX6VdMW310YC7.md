@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,599 songs - 4 day 13 hr 54 min
+1,600 songs - 4 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,7 +1282,7 @@
 | [Soldiner](https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Soldiner](https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu) | 5:46 | 2022-03-18 | 2023-04-19 |
 | [Solid Gold \- Jesse Perez's Poolside Radio Mix](https://open.spotify.com/track/7hGl1ltB6ROzH6bbnQB2ur) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d) | [Solid Gold \(Jesse Perez Remix\)](https://open.spotify.com/album/0UvE9dtOc1Ne1yJaK30U2p) | 3:01 | 2020-03-17 | 2022-04-20 |
 | [Solis Occasum](https://open.spotify.com/track/7jWUSD8WyNSbjoYHHo2XbJ) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Chill Executive Officer \(CEO\), Vol\. 11 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6qfsHKnJVaxuUqEN5CzTDh) | 2:58 | 2021-08-06 | 2022-06-13 |
-| [Solitude](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Solitude](https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC) | 2:40 | 2024-04-05 |  |
+| [Solitude](https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Solitude](https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC) | 2:40 | 2024-04-05 | 2024-04-14 |
 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 | 2022-04-08 | 2022-07-14 |
 | [Someday](https://open.spotify.com/track/4BRBz1TAfigZMHIIJCl9db) | [Tom B.](https://open.spotify.com/artist/6iClQdT3zvN5ejsyNhsL0U) | [Someday](https://open.spotify.com/album/0WeeKRjLWppwosu0jtzTBo) | 3:03 | 2020-03-20 | 2021-01-11 |
 | [Someone](https://open.spotify.com/track/01rAwlFDrRT2FzimFTXrKB) | [Nectr](https://open.spotify.com/artist/3jJ4ftbuJR4j8F6DVjwt82), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Someone](https://open.spotify.com/album/665Kn8KRZGKweEwvX5NUY0) | 3:56 | 2020-08-06 | 2022-10-13 |
@@ -1318,6 +1318,7 @@
 | [Stay](https://open.spotify.com/track/716VJhE66ugznJ3u08gofV) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Sophie and the Bom Boms](https://open.spotify.com/artist/3CzcBE7wIy9pCYEyraRZ5A) | [Sleepless EP](https://open.spotify.com/album/38NuIhP25TzDy8kqki5XzM) | 3:23 | 2020-05-18 | 2020-07-03 |
 | [Stay](https://open.spotify.com/track/3CPtYeDdgUqysXDpbEABFb) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Moments](https://open.spotify.com/album/7IkM8Ig9wtHc2NbvdsckBV) | 3:53 | 2022-01-21 | 2022-12-29 |
 | [Stay Here](https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 4:09 | 2020-05-18 | 2020-07-03 |
+| [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 |  |
 | [Stay With Me](https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:47 | 2020-05-18 | 2020-07-03 |
 | [Still Together \- Radio Mix](https://open.spotify.com/track/4onD0pjASg29nhthK87ZQb) | [Zeni N](https://open.spotify.com/artist/18MdCa6sJKKOf9JttVCdUC), [Erdit Mertiri](https://open.spotify.com/artist/0WvUIwJD7E9wIwYFKYEdY4) | [Still Together \(Single\)](https://open.spotify.com/album/7aVqtpapYjj3EYZcZQOa3G) | 3:58 | 2020-05-18 | 2022-09-28 |
 | [Still Want U](https://open.spotify.com/track/76tXVbmQtOOAfqRyeMV0Ug) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [RINGOS DESERT PT.1](https://open.spotify.com/album/1VAIQmXGA2BVlpXBrueMnk) | 3:33 | 2020-05-18 | 2020-07-03 |

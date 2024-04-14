@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,475 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,488 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 44 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 |
 | 45 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 46 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
-| 47 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 48 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
+| 47 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
+| 48 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 49 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 50 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 51 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 69 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
 | 70 | [Friends](https://open.spotify.com/track/0uUfOwWEypLVKUbNIlnVG8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/3Vg27cGU0jO1w4UHeFpk4u) | 3:43 |
 | 71 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
-| 72 | [U \(Man Like\)](https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:25 |
-| 73 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
+| 72 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
+| 73 | [U \(Man Like\)](https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:25 |
 | 74 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 |
 | 75 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 |
 | 76 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 |

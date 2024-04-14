@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+    },
+    {
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -484,7 +506,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 141226,
       "name": "Cositas Sucias",
       "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
@@ -1157,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
+    },
+    {
+      "album": {
         "name": "La_Original.mp3",
         "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
       },
@@ -1732,7 +1776,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 148504,
       "name": "Pa' Que Afinken",
       "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"

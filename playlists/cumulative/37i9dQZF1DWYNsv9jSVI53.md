@@ -4,7 +4,7 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-32 songs - 2 hr 26 min
+33 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Morgen](https://open.spotify.com/track/4Gy2ccb1lUzc5sNmwKtTFt) | [Ivo Robic](https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8) | [Izvorne Snimke 1949\. \- 1959.](https://open.spotify.com/album/3zZ53e51GTH3G3e36U7KnV) | 2:35 | 2022-04-28 |  |
 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 | 2022-04-28 |  |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2022-04-28 | 2024-04-13 |
-| [Personal Jesus \- Single Version](https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:45 | 2022-04-28 |  |
+| [Personal Jesus \- Single Version](https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:44 | 2022-04-28 |  |
+| [Personal Jesus \- Single Version](https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:45 | 2022-04-28 | 2024-04-14 |
 | [Piano Concerto No\. 4 in G Major, Op\. 58: I\. Allegro moderato](https://open.spotify.com/track/626IyHboCqGtygvuS9ceyW) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stefan Vladar](https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Beethoven: Piano Concertos Nos\. 3 and 4](https://open.spotify.com/album/3N7JVK7eA99XraybwRR8iW) | 19:07 | 2022-04-28 |  |
 | [Puddin' N' Tain](https://open.spotify.com/track/3PSE5zXhf70R9czOlfgWeM) | [The Alley Cats](https://open.spotify.com/artist/6pSo5F15qsAxY0qYkpmsvJ) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 | 2022-04-28 |  |
 | [Put A Straw Under Baby \- 2004 Digital Remaster](https://open.spotify.com/track/3FglRwYchsaJ4NURtnTMHq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Taking Tiger Mountain \(By Strategy\) \[2004 Remaster\]](https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ) | 3:25 | 2022-04-28 |  |

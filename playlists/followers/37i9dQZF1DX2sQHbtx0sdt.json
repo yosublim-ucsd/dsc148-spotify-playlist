@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 69596,
+  "2024-04-14": 69802,
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Jul",
+  "description": "New and trending hip-hop from around the world. Cover: Shallipopi ",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -182,6 +182,32 @@
     },
     {
       "album": {
+        "name": "410",
+        "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "Offgrid",
+          "url": "https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "410",
+      "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
+    },
+    {
+      "album": {
         "name": "4MOTION",
         "url": "https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E"
       },
@@ -219,7 +245,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 240816,
       "name": "5xL",
       "url": "https://open.spotify.com/track/30UnJokpMXLsuUAiLyPG4Z"
@@ -297,6 +323,32 @@
       "duration_ms": 132743,
       "name": "Adrenalean",
       "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
+    },
+    {
+      "album": {
+        "name": "Adrenalina (feat. BLANCO, Marracash)",
+        "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Adrenalina (feat. BLANCO, Marracash)",
+      "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
     },
     {
       "album": {
@@ -626,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160375,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+    },
+    {
+      "album": {
         "name": "Ask Me",
         "url": "https://open.spotify.com/album/6MlDUa9IsSliCxyR6ZlJMh"
       },
@@ -725,6 +795,44 @@
       "duration_ms": 169014,
       "name": "Baazigar",
       "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
+    },
+    {
+      "album": {
+        "name": "United Queens",
+        "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "YURIYAN RETRIEVER",
+          "url": "https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369111,
+      "name": "Bad Bitch Bigaku Remix",
+      "url": "https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2"
     },
     {
       "album": {
@@ -1395,7 +1503,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
@@ -1975,7 +2083,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 250980,
       "name": "Don\u2019t Look Down",
       "url": "https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN"
@@ -2163,10 +2271,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 127059,
       "name": "EMBASSY / AMBASADA",
       "url": "https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt"
+    },
+    {
+      "album": {
+        "name": "AMBITION II",
+        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "ENCORE (feat. Rsko)",
+      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
     },
     {
       "album": {
@@ -2327,7 +2457,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160496,
       "name": "Eva (feat. Tedua)",
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
@@ -2670,6 +2800,50 @@
     },
     {
       "album": {
+        "name": "Time Will Tell (T.W.T)",
+        "url": "https://open.spotify.com/album/3G34G7zfOGq7p1LGInzeIH"
+      },
+      "artists": [
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "For The Mandem (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/1I70WBnGr34vSAJlfiUMRP"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
+    },
+    {
+      "album": {
         "name": "Freedom Of Speech",
         "url": "https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8"
       },
@@ -2681,7 +2855,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169714,
       "name": "Freedom Of Speech",
       "url": "https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n"
@@ -3575,7 +3749,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 234093,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
@@ -3869,7 +4043,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 121666,
       "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
       "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
@@ -3891,6 +4065,28 @@
       "duration_ms": 123434,
       "name": "LIKE ICE SPICE",
       "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160752,
+      "name": "London",
+      "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
     },
     {
       "album": {
@@ -3953,6 +4149,24 @@
       "duration_ms": 217332,
       "name": "Love Ya (feat. Mario)",
       "url": "https://open.spotify.com/track/5ldqkjGtBaiBpm5ncrkgJT"
+    },
+    {
+      "album": {
+        "name": "SIKI JACKSON",
+        "url": "https://open.spotify.com/album/4lua2VQpqJYAKHK24oq6ou"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "LOWLIFE",
+      "url": "https://open.spotify.com/track/17OtbhQQ8Udj4NL57cv2mV"
     },
     {
       "album": {
@@ -4633,7 +4847,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 305240,
       "name": "Mount Rushmore (feat. Kano & Wretch 32)",
       "url": "https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0"
@@ -4951,7 +5165,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 184360,
       "name": "Oc\u00e9ane",
       "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
@@ -5652,6 +5866,32 @@
     },
     {
       "album": {
+        "name": "SULTAN",
+        "url": "https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
+        },
+        {
+          "name": "Riyadiyat",
+          "url": "https://open.spotify.com/artist/4U10V6SOPK1QA2Hh8ALk6S"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Rad Saree3",
+      "url": "https://open.spotify.com/track/1vcb5OCIZ7X7WfomgPgH4y"
+    },
+    {
+      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
       },
@@ -5973,6 +6213,32 @@
       "duration_ms": 160994,
       "name": "Samolotowy tryb",
       "url": "https://open.spotify.com/track/0wKxfnayyQ1wa9WExvn4qF"
+    },
+    {
+      "album": {
+        "name": "Say Goodbye 2.0",
+        "url": "https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210201,
+      "name": "Say Goodbye 2.0",
+      "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
     },
     {
       "album": {
@@ -6340,6 +6606,28 @@
     },
     {
       "album": {
+        "name": "Supply & Demand",
+        "url": "https://open.spotify.com/album/3ApvAZdo5jth2o0jb8Z7bO"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Harsh Likhari",
+          "url": "https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153070,
+      "name": "Supply & Demand",
+      "url": "https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU"
+    },
+    {
+      "album": {
         "name": "M.I.M",
         "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
       },
@@ -6565,7 +6853,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154218,
       "name": "Through The Storm",
       "url": "https://open.spotify.com/track/4AnY0oihG1lRUxSiTOcGdt"
@@ -6807,6 +7095,28 @@
       "duration_ms": 253760,
       "name": "Uh Uh",
       "url": "https://open.spotify.com/track/4kAWMOXjrPIGYJFW5CEfxo"
+    },
+    {
+      "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
     },
     {
       "album": {
@@ -7097,7 +7407,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 95064,
       "name": "What U Want?",
       "url": "https://open.spotify.com/track/55NP3m7Hy6yx7DKnstfPZN"
@@ -7343,7 +7653,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191142,
       "name": "Y2K",
       "url": "https://open.spotify.com/track/0ibvFpKEOycfFjL9C6bIZo"

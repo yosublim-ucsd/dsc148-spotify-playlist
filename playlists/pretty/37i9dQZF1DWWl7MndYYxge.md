@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,349 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,631 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 6 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:54 |
 | 7 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
 | 8 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
-| 9 | [Maniac \- From "Flashdance"](https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 4:06 |
+| 9 | [Maniac \- From "Flashdance" Soundtrack](https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:07 |
 | 10 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
 | 11 | [L'aventurier](https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'aventurier](https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6) | 3:51 |
 | 12 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > The most flammable playlist ever\. J\. Cole spitting fire 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,160 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,166 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UNDERDOG SONG \(feat\. Lil Baby\)](https://open.spotify.com/track/7AJYW0SKABcwCW4HnsDIWh) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [YOUNG GENIUS](https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ) | 2:39 |
-| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 3 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
 | 4 | [fIT chECK fREEsTYle](https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [fIT chECK fREEsTYle](https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB) | 3:03 |
 | 5 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |

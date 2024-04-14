@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 41809,
+  "2024-04-14": 41814,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -4253,7 +4253,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
@@ -9965,6 +9965,24 @@
       "duration_ms": 176124,
       "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
+    },
+    {
+      "album": {
+        "name": "Flick",
+        "url": "https://open.spotify.com/album/3megJDbOyD8bQXwZc6A8Ug"
+      },
+      "artists": [
+        {
+          "name": "2Dee",
+          "url": "https://open.spotify.com/artist/30gGxd9KwSkQ8Vi7YJu6hV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123872,
+      "name": "Flick",
+      "url": "https://open.spotify.com/track/73EAyft1JgxgUNyQAq9EkL"
     },
     {
       "album": {
@@ -18788,6 +18806,24 @@
     },
     {
       "album": {
+        "name": "Lucrar",
+        "url": "https://open.spotify.com/album/5jxpjh3sQhqedYuz4OhdOB"
+      },
+      "artists": [
+        {
+          "name": "Gtea",
+          "url": "https://open.spotify.com/artist/1XEmBOKPZI2QJDGxebO8VA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107355,
+      "name": "Lucrar",
+      "url": "https://open.spotify.com/track/2aTKvAq1Qiqi5kL5eGsOX6"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -24796,6 +24832,28 @@
     },
     {
       "album": {
+        "name": "Rainy Day Man",
+        "url": "https://open.spotify.com/album/4ZL2KCxmMepK5v1reaAmxN"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Gabanizza",
+          "url": "https://open.spotify.com/artist/6Fg1ym1kW0i8l0X7Csl3BY"
+        },
+        {
+          "name": "Jeff Christie",
+          "url": "https://open.spotify.com/artist/2J93JE9r7UmFTYkxauGAGg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260422,
+      "name": "Rainy Day Man",
+      "url": "https://open.spotify.com/track/6ATo9NKXn7DTUKBl8lOsSH"
+    },
+    {
+      "album": {
         "name": "Plug Talk",
         "url": "https://open.spotify.com/album/0OLbdFREzyL9OTsNjCk7aw"
       },
@@ -28617,7 +28675,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -30223,6 +30281,24 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {
@@ -35511,7 +35587,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215823,
       "name": "\u00cd Fullri Hreinskilni",
       "url": "https://open.spotify.com/track/1L2n0OUfpO6DjvVS59Nc7e"

@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 99209,
+  "num_followers": 99244,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDlkY2NhYmM3ZmQ2NDllNmFiY2JhMTIzY2IzMTczYWFh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDM0MmIxODMwMjlhOWQ4MjkzNDBhMzY4N2MwOWFjMzVm",
   "tracks": [
     {
       "added_at": null,
@@ -499,58 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Summertime (Live)",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Hope You Realize It (Goodbye Again)",
-      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Sun",
         "url": "https://open.spotify.com/album/1bz0eLu507dD896Zj7zJIR"
       },
@@ -583,22 +531,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Time Blues",
-        "url": "https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l"
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
       "artists": [
         {
-          "name": "Orianthi",
-          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Hope You Realize It (Goodbye Again)",
+      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 227053,
-      "name": "First Time Blues",
-      "url": "https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna"
+      "duration_ms": 349573,
+      "name": "Summertime (Live)",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Woke Up Dreaming",
+      "url": "https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+        "name": "First Time Blues",
+        "url": "https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l"
       },
       "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Woke Up Dreaming",
-      "url": "https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp"
+      "duration_ms": 227053,
+      "name": "First Time Blues",
+      "url": "https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna"
     },
     {
       "added_at": null,

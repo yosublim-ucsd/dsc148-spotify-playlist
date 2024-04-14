@@ -1,6 +1,6 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70874,
+  "num_followers": 70884,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gimnasta",
-        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
-      },
-      "artists": [
-        {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Gimnasta",
-      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Orgullo",
         "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
       },
@@ -1287,6 +1267,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "TRAPPHONE",
         "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
       },
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+        "name": "Gimnasta",
+        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+      "duration_ms": 175476,
+      "name": "Gimnasta",
+      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 286767,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1859,26 +1859,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Duo Deleite",
-        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+        "name": "Percocet",
+        "url": "https://open.spotify.com/album/4mOUbpfQhFB1vCKeOvAI9J"
       },
       "artists": [
         {
-          "name": "Duo Deleite",
-          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
-        },
-        {
-          "name": "Gyanma",
-          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
-        },
-        {
-          "name": "Enyel C",
-          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 170000,
-      "name": "De Vogue",
-      "url": "https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh"
+      "duration_ms": 206837,
+      "name": "Percocet",
+      "url": "https://open.spotify.com/track/48R2Sww0UeFhqgiMHBZ2C7"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

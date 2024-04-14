@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-451 songs - 1 day 2 hr 56 min
+452 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 | 2023-09-08 |  |
 | [C'est Plus Comme Avant \- Version Acoustique](https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [C'est Plus Comme Avant \(Version Acoustique\)](https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA) | 2:46 | 2022-01-21 |  |
 | [C'est tout, c'est rien](https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [C'est tout, c'est rien](https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7) | 2:53 | 2021-01-03\* |  |
-| [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2022-07-08 |  |
+| [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2022-07-08 | 2024-04-14 |
 | [Californie](https://open.spotify.com/track/7lfazyv2rEYZpwVC5gGxyO) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/6eUYntcnw694NcOd1tEpmT) | 3:25 | 2021-01-15 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 | 2024-03-31 |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
@@ -257,6 +257,7 @@
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 |  |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2022-07-29 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 |  |
+| [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 |  |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 | 2024-04-13 |
 | [Loulou](https://open.spotify.com/track/0g28Z0SKGBVZZq6NB8NsEt) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Loulou](https://open.spotify.com/album/6f0reSlDkHWcTyELvgkYzA) | 3:34 | 2021-10-17 | 2021-11-16 |
 | [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 | 2024-03-18 |

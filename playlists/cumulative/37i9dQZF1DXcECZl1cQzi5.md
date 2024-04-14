@@ -4,7 +4,7 @@
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-109 songs - 5 hr 17 min
+110 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-10-23 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-10-23 |  |
 | [Dream Ripples](https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY) | [Lusunzi](https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE) | [Dream Ripples](https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF) | 2:28 | 2023-10-23 |  |
+| [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 |  |
 | [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 |  |
 | [Embedded Waves](https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Embedded Waves](https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO) | 2:42 | 2024-02-06 |  |
 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 | 2023-10-23 |  |
@@ -97,7 +98,7 @@
 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 | 2023-10-23 |  |
 | [Soothing Waves](https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [Soothing Waves](https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s) | 2:31 | 2023-10-23 |  |
 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-10-23 |  |
-| [Spectrum](https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014) | [Yogovic](https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3) | [Spectrum](https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5) | 2:16 | 2024-02-06 |  |
+| [Spectrum](https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014) | [Yogovic](https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3) | [Spectrum](https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5) | 2:16 | 2024-02-06 | 2024-04-14 |
 | [Summer Hibernation](https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Summer Hibernation](https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf) | 3:06 | 2023-10-23 |  |
 | [Sunrise Wave](https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Sunrise Wave](https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso) | 2:47 | 2023-10-23 |  |
 | [Sálmur \(Sound Bath\)](https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Sálmur \(Sound Bath\)](https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM) | 3:15 | 2023-10-23 |  |

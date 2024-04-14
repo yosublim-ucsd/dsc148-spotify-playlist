@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Only Murders in the Building, Flamin’ Hot, A Small Light, Tiny Beautiful Things, and FX's SHOGUN, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,949 likes - 94 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,903 likes - 94 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

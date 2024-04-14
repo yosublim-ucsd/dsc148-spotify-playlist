@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,401 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,561 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 33 | [Socio](https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 4:13 |
 | 34 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 |
 | 35 | [Especial](https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz Care Package](https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA) | 2:45 |
-| 36 | [Salgo a Buscarte](https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Salgo a Buscarte](https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV) | 3:21 |
-| 37 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 |
+| 36 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 |
+| 37 | [Salgo a Buscarte](https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Salgo a Buscarte](https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV) | 3:21 |
 | 38 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 |
 | 39 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 40 | [FUMETEO \- Remix](https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [FUMETEO \(Remix\)](https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD) | 3:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 48 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 |
 | 49 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDIzYmYxNjY0ZjFiN2U3YWM1NjEzZmJjZjc1Y2JjZTdl`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGI2NmJiOWExMzgxMWI5ZmRhODE5Nzc4NzIyMDZjMTgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,863 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,938 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 15 | [Aguanile \- Live Version](https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 6:28 |
 | 16 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
 | 17 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
-| 18 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
+| 18 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
 | 19 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 |
-| 20 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
+| 20 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 21 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
 | 22 | [Ella Es \- En Vivo](https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 4:56 |
 | 23 | [Valió La Pena \(feat\. Jose Alberto "El Canario", Cheo Feliciano, Andy Montañez & Nora\) \- Live Version](https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Nora](https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |

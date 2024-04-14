@@ -2,7 +2,7 @@
 
 ### [This Is Valentín Elizalde](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26EKuA)
 
-> This is Valentín Elizalde\. The essential tracks, all in one playlist.
+> This Is Valentín Elizalde\. Los temas esenciales, todos en una lista.
 
 69 songs - 3 hr 43 min
 
@@ -20,7 +20,7 @@
 | [Catarino Y Los Rurales](https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:30 | 2022-06-01 | 2022-11-28 |
 | [Clave Privada \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 6:43 | 2022-06-01 |  |
 | [Corazon De Oro](https://open.spotify.com/track/4mGuAAAyVlYdgORnfrTQpQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 2:20 | 2022-06-01 | 2023-02-11 |
-| [Cómo Me Duele](https://open.spotify.com/track/38jXCpkXh5h6rfrTmNNADe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:39 | 2022-06-01 | 2024-04-12 |
+| [Cómo Me Duele](https://open.spotify.com/track/38jXCpkXh5h6rfrTmNNADe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:39 | 2022-06-01 |  |
 | [Cómo Me Duele](https://open.spotify.com/track/4L6J4hgUDVH1ocO0QCE8o2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [El Vale Por Siempre \(Vol\. 2\)](https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p) | 3:41 | 2023-02-10 | 2023-10-05 |
 | [Ebrio De Amor](https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [15 Exitos](https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd) | 2:45 | 2022-06-01 |  |
 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 | 2022-12-02 |  |
@@ -51,7 +51,7 @@
 | [Los "Pajaros" \- Bonus Track](https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Sin Censura Su Último Concierto \(En Vivo Desde Los Angeles CA, 2006 / Componente 2\)](https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p) | 2:56 | 2022-06-01 |  |
 | [Mi Amante](https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Y Se Parece A Tí](https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo) | 3:31 | 2022-06-01 |  |
 | [Mi Gusto Es \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:04 | 2022-06-01 |  |
-| [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 | 2022-06-01 |  |
+| [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 | 2022-06-01 | 2024-04-14 |
 | [Nada](https://open.spotify.com/track/6HYzSzoRXH844SQbLYfNOS) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:43 | 2022-06-01 |  |
 | [Ni Dada La Quiero](https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:49 | 2022-06-02 |  |
 | [Pa' Que Son Pasiones](https://open.spotify.com/track/3efT4wg1RQG0nkKrN2zegl) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Pa' Que Son Pasiones](https://open.spotify.com/album/3PBwBac0AfDItVJ7qe4l9U) | 3:12 | 2022-07-15 | 2022-12-13 |

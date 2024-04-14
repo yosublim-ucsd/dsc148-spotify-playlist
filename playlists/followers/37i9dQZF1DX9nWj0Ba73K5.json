@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 33005,
+  "2024-04-14": 33013,
   "date_first_scraped": "2022-01-02",
   "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Nicolle Galyon\n",
   "name": "Country Songwriters",
@@ -3075,6 +3075,24 @@
       "duration_ms": 230413,
       "name": "Polyester",
       "url": "https://open.spotify.com/track/7i5VzJlK9dICTe6RENfmzz"
+    },
+    {
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
       "album": {

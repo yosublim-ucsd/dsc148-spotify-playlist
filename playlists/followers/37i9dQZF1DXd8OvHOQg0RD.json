@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 33551,
+  "2024-04-14": 33567,
   "date_first_scraped": "2023-09-04",
   "description": "a ti te qued\u00e9 grande y por eso est\u00e1s con una igualita que t\u00fa \ud83d\udd25 \ud83d\udc3a \ud83d\udc44",
   "name": "pov: eres la amiga que se dio cuenta",
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
@@ -831,10 +849,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175533,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+    },
+    {
+      "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/5urJPdx62YBXvdc1MXfi06"
     },
     {
       "album": {

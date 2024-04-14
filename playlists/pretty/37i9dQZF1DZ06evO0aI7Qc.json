@@ -1,12 +1,12 @@
 {
-  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 275969,
+  "description": "This Is Luis R Conriquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 276183,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDdmMjc3YTUwMDYxNjViNjFlNzE4NTZjOGZhYjc2ZmZi",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGZlOWViN2Y4Y2EyYjQzMjQ3ODkwZGM5MDhmYzNmYTEw",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 151957,
       "name": "Mala Leche",
       "url": "https://open.spotify.com/track/2eZmL5cT6dapzGGiJURZxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Derecho y Chueco (Remix)",
+        "url": "https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alianza Records",
+          "url": "https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Derecho y Chueco - Remix",
+      "url": "https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp"
     },
     {
       "added_at": null,

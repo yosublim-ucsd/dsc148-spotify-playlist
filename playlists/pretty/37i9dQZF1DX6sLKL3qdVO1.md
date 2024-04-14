@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Feid y Yandel en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,087 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,056 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 52 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
 | 53 | [Tacos Gucci](https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Tacos Gucci](https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5) | 3:27 |
 | 54 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 |
-| 55 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 |
+| 55 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 |
 | 56 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 57 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 |
 | 58 | [BAD BOY](https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 3:55 |

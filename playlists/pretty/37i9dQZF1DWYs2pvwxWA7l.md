@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  Ruger & Bnxn
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,682 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,857 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 51 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 52 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 53 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 54 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
-| 55 | [Jonzing Boy](https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:05 |
+| 54 | [Jonzing Boy](https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:05 |
+| 55 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 56 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 |
 | 57 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 58 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 |

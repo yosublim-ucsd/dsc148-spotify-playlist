@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 137210,
+  "2024-04-14": 137226,
   "date_first_scraped": "2022-03-24",
-  "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Mc Luanna, Danzo",
+  "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Druhh e Drehh",
   "name": "O Drip",
   "tracks": [
     {
@@ -1096,6 +1096,32 @@
     },
     {
       "album": {
+        "name": "Estilo Cachorro",
+        "url": "https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Anti Ayoa",
+          "url": "https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143494,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ"
+    },
+    {
+      "album": {
         "name": "SHH",
         "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
       },
@@ -2145,6 +2171,24 @@
       "duration_ms": 183478,
       "name": "Dias sem dormir",
       "url": "https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0"
+    },
+    {
+      "album": {
+        "name": "Meu Momento",
+        "url": "https://open.spotify.com/album/5rgYDyO3pOgkzNkm6m6jfc"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125961,
+      "name": "Dinheiro Sujo",
+      "url": "https://open.spotify.com/track/3CcFdGGRw7c2vBt6nee3P5"
     },
     {
       "album": {
@@ -6859,7 +6903,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140000,
       "name": "Perfil #91 - Fuck Fake",
       "url": "https://open.spotify.com/track/7jZEJM52xT7rO2ifFStYcJ"
@@ -7101,7 +7145,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210048,
       "name": "Poder Aquisitivo",
       "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"

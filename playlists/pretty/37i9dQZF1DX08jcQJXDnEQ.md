@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: KoRn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,676 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,257 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 48 | [Ænema](https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 6:39 |
 | 49 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 |
 | 50 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 51 | [Last Man Standing](https://open.spotify.com/track/18S33odAheWBHbVAefiRLM) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Any Means Necessary](https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju) | 4:30 |
-| 52 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
+| 51 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
+| 52 | [Last Man Standing](https://open.spotify.com/track/18S33odAheWBHbVAefiRLM) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Any Means Necessary](https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju) | 4:30 |
 | 53 | [Got The Time](https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 2:44 |
 | 54 | [Wherever I May Roam \(Remastered\)](https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:44 |
 | 55 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 72 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 |
 | 73 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
 | 74 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
-| 75 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
-| 76 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
+| 75 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
+| 76 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 77 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 78 | [Charlotte](https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:59 |
 | 79 | [Welcome To Planet Motherfucker/ Psychoholic Slag](https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 6:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,205 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,202 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 19 | [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 |
 | 20 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 |
 | 21 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 22 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
+| 22 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 |
 | 23 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
 | 24 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 |
 | 25 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 |

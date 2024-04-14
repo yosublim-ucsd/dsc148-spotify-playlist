@@ -4,7 +4,7 @@
 
 > Lo que suena in the lone star state\. Texas\. Cover: Hermanos Espinoza
 
-158 songs - 8 hr 4 min
+159 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 | 2023-10-24 |  |
 | [Power](https://open.spotify.com/track/1hSrp2LyVkM94tHCjgXFcP) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu) | [Power](https://open.spotify.com/album/5KwcQ04KPcKSG5EJD0RHtj) | 3:37 | 2023-01-20 | 2023-03-11 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-03-31 | 2023-10-25 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-10-24 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-10-24 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-12 |  |
 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 | 2023-05-26 | 2023-10-25 |
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2023-05-26 | 2023-10-25 |
 | [Prueba De Fuego](https://open.spotify.com/track/3pr7Km3C87u8fLwdSCXosy) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/6uKXucI9pipi5LysfKkoU9) | 3:51 | 2023-03-10 | 2023-04-01 |

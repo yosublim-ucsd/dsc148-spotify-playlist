@@ -1,13 +1,29 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2575,
+  "num_followers": 2574,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGNmZmMzZTdjYWNlNzc4YzA2ZDgyYmVhODk0OWNkY2Ux",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDhkZjhjYmZlOGQzMzRkODNjZDBhNTdlNGM3ODZjMzNh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+    },
     {
       "added_at": null,
       "album": {
@@ -367,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hula Girl",
-        "url": "https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1"
-      },
-      "artists": [
-        {
-          "name": "Spawnbreezie",
-          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 195790,
-      "name": "Hula Girl",
-      "url": "https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Place",
         "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
       },
@@ -415,6 +411,26 @@
       "duration_ms": 188368,
       "name": "We Make It Look Easy",
       "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hula Girl",
+        "url": "https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1"
+      },
+      "artists": [
+        {
+          "name": "Spawnbreezie",
+          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 195790,
+      "name": "Hula Girl",
+      "url": "https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 187376,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN"
     },
     {
       "added_at": null,
@@ -519,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easier (Jr Blender RMX)",
         "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 198779,
       "name": "Easier - Jr Blender RMX",
       "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
     },
     {
       "added_at": null,
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 356906,
-      "name": "Come over (Live)",
-      "url": "https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR"
+      "duration_ms": 241862,
+      "name": "Walk on Water (Live)",
+      "url": "https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k"
     },
     {
       "added_at": null,
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 241862,
-      "name": "Walk on Water (Live)",
-      "url": "https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k"
+      "duration_ms": 356906,
+      "name": "Come over (Live)",
+      "url": "https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR"
     },
     {
       "added_at": null,

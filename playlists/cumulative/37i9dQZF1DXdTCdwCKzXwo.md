@@ -4,7 +4,7 @@
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-177 songs - 12 hr 11 min
+178 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 | 2022-05-26 |  |
 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 | 2022-05-26 |  |
 | [Autumn Sweater](https://open.spotify.com/track/4R7kumtHnf5SsKyPYrVO5r) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:18 | 2018-12-14 | 2022-07-29 |
-| [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 | 2018-12-14 |  |
+| [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 | 2018-12-14 | 2024-04-14 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-05-26 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m) | 9:36 | 2019-12-17 | 2022-07-29 |
 | [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 | 2018-12-14 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [People Are Strange \- New Stereo Mix](https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 2:10 | 2018-12-14 | 2022-07-29 |
 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 | 2018-12-14 |  |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2022-05-26 | 2024-04-13 |
+| [Personal Jesus \- Single Version](https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:44 | 2024-02-22 |  |
 | [Pocket Calculator \- 2009 Remaster](https://open.spotify.com/track/6bDRVbdZEyBnmOX0Yjh5rf) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/07BPkQfT4B5xjDwjCxRiN2) | 4:56 | 2022-05-26 | 2022-06-16 |
 | [Pretty in Pink](https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [The Psychedelic Furs Superhits](https://open.spotify.com/album/4sdhLZRcO9DQmrs889H0tl) | 3:59 | 2018-12-14 | 2022-07-25 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2018-12-14 |  |

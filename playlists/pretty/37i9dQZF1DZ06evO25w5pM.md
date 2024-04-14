@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 ### [This Is Deuter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM)
 
-> This is Deuter\. Todos os maiores hits em uma só playlist.
+> This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,511 likes - 50 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,512 likes - 50 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 |
-| 2 | [Uno](https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 5:54 |
+| 1 | [Uno](https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 5:54 |
+| 2 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 |
 | 3 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 |
 | 4 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 |
-| 5 | [Lovesong from the Mountains](https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 7:58 |
-| 6 | [Olive Grove](https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 8:28 |
+| 5 | [Olive Grove](https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 8:28 |
+| 6 | [Lovesong from the Mountains](https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 7:58 |
 | 7 | [Morning Light Silhouettes 1](https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:31 |
 | 8 | [Coucher de Lune](https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 4:45 |
-| 9 | [Sound of Invisible Waters](https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 9:32 |
-| 10 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 |
+| 9 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 |
+| 10 | [Sound of Invisible Waters](https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 9:32 |
 | 11 | [Four](https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 7:00 |
 | 12 | [Kyoto Garden](https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 5:49 |
-| 13 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 |
-| 14 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 |
+| 13 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 |
+| 14 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 |
 | 15 | [Kiss of a Rose](https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 8:08 |
-| 16 | [Morning Light Silhouettes 2](https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:21 |
-| 17 | [Escape from Gravity](https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:20 |
-| 18 | [Joyful Path](https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Buddha Nature](https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu) | 2:52 |
+| 16 | [Unknown Doors](https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:49 |
+| 17 | [Joyful Path](https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Buddha Nature](https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu) | 2:52 |
+| 18 | [Escape from Gravity](https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:20 |
 | 19 | [Traveling the Stars](https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Empty Sky](https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn) | 8:55 |
-| 20 | [Unknown Doors](https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:49 |
-| 21 | [Koyasan](https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:34 |
-| 22 | [East of the Full Moon](https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 8:33 |
+| 20 | [Morning Light Silhouettes 2](https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 5:21 |
+| 21 | [East of the Full Moon](https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 8:33 |
+| 22 | [Koyasan](https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:34 |
 | 23 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
 | 24 | [Love's Winged Messenger](https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:13 |
 | 25 | [Drei](https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:34 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 28 | [Still Stones of Silence](https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 8:06 |
 | 29 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 |
 | 30 | [Huit](https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 8:42 |
-| 31 | [Mystic Voyage](https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 8:41 |
-| 32 | [Schein und Widerschein](https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 9:26 |
+| 31 | [Schein und Widerschein](https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 9:26 |
+| 32 | [Mystic Voyage](https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 8:41 |
 | 33 | [Marfa Lights 2](https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 3:24 |
 | 34 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 |
 | 35 | [Moving Seagrass](https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Dream Time](https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP) | 6:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [Silent Stories](https://open.spotify.com/track/7lkFXR2yz0vo78zu7UYFAq) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 3:56 |
 | 50 | [Seashell](https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 10:25 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDkxNzUxZGI4OTA5MzViMzFmNjFkNWI1MDEwZjM3NmJm`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGQwZGY4MmI5NmRkNTMzNDU2MzkzYWQxZWI0NTIxMDBh`

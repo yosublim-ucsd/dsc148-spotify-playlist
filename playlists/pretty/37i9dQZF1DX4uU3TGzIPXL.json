@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 567659,
+  "num_followers": 567829,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 298666,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 202583,
       "name": "Boom, Boom, Boom, Boom!!",
       "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 294986,
-      "name": "Smooth (feat. Rob Thomas)",
-      "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+      "duration_ms": 241133,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
+      "duration_ms": 294986,
+      "name": "Smooth (feat. Rob Thomas)",
+      "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 253295,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2023-06-16 18:37:43",

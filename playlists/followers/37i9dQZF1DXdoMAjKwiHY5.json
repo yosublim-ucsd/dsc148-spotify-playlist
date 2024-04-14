@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 6423,
+  "2024-04-14": 6436,
   "date_first_scraped": "2023-06-09",
   "description": "Got Fray-fever? Or craving some DeGraw-delights? Get on the Train-train and enjoy these pop/rock classics. Cover: Train",
   "name": "Jupiter",
@@ -1295,10 +1295,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 250666,
       "name": "What Matters Most",
       "url": "https://open.spotify.com/track/10Kylccyddh80NzTunQIlW"
+    },
+    {
+      "album": {
+        "name": "What Matters Most",
+        "url": "https://open.spotify.com/album/4vHxLvztgqDt1Jq4XgnMkG"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "What Matters Most",
+      "url": "https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM"
     },
     {
       "album": {

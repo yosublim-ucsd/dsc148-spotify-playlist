@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. Cover \- Badshah\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
+> Home to the Desi Pop Bops\. Cover \- Babar Mangi, Noman Ali Rajper, Marvi Sahibaan\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-208 songs - 11 hr 9 min
+209 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 | 2022-07-19 |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 | 2022-07-19 |
 | [Desi Lehenga](https://open.spotify.com/track/4V2xNfVwrjgYIHmkEogu9R) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Desi Lehenga](https://open.spotify.com/album/6BLGMYQoApaBvOT8fXYSdz) | 2:24 | 2023-04-21 | 2024-02-23 |
-| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-02-22 |  |
+| [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 | 2024-04-14 |  |
+| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-02-22 | 2024-04-14 |
 | [Dhundhala](https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/0RS1ikVCpsD3UHxxpbvpSg) | 3:02 | 2023-09-01 | 2024-02-23 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-18 | 2023-10-22 |
 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/7HPM13Xek5XoRWxRzHfvkB) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Shardul Rathod](https://open.spotify.com/artist/7sHlKGTwriTbRtSKthhQFt) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/3IVKZaNM28VJVl74XDSKpR) | 4:33 | 2024-02-22 |  |

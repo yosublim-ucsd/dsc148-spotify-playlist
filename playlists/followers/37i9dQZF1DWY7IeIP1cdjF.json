@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 10815363,
+  "2024-04-14": 10816225,
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Chencho Corleone, Peso Pluma. Feid, KAROL G, and more.\ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Young Miko, Feid, KAROL G, Anitta and more.\ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -105,6 +105,24 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
     },
     {
       "album": {
@@ -919,6 +937,28 @@
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "album": {
@@ -1773,7 +1813,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 145000,
       "name": "curita",
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
@@ -2279,7 +2319,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -2890,6 +2930,28 @@
     },
     {
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
+    },
+    {
+      "album": {
         "name": "Feliz Cumplea\u00f1os Ferxxo",
         "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
       },
@@ -3019,6 +3081,56 @@
       "duration_ms": 175788,
       "name": "Fiera",
       "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
+    },
+    {
+      "album": {
+        "name": "The Academy: Segunda Misi\u00f3n",
+        "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
+      },
+      "artists": [
+        {
+          "name": "The Academy: Segunda Misi\u00f3n",
+          "url": "https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233099,
+      "name": "FLOWHOT (feat. Arc\u00e1ngel, De La Ghetto, Randy)",
+      "url": "https://open.spotify.com/track/617mNvfkXLMu1NisQfvYF2"
     },
     {
       "album": {
@@ -3887,7 +3999,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
@@ -4385,6 +4497,28 @@
       "duration_ms": 296906,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
+    },
+    {
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "album": {
@@ -5641,7 +5775,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -6641,7 +6775,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159253,
       "name": "Perdi\u00f3 Este Culo",
       "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
@@ -6993,6 +7127,24 @@
       "duration_ms": 204827,
       "name": "Por El Alcohol",
       "url": "https://open.spotify.com/track/2ZeT6783LAgIqWCyAh85fO"
+    },
+    {
+      "album": {
+        "name": "Por Ti Conoc\u00ed el Amor",
+        "url": "https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Por Ti Conoc\u00ed el Amor",
+      "url": "https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL"
     },
     {
       "album": {
@@ -7373,7 +7525,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
@@ -7855,7 +8007,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
@@ -8279,7 +8431,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216000,
       "name": "Te Colaboro",
       "url": "https://open.spotify.com/track/2ja1QIx9ZkqAMteiqfvvcA"

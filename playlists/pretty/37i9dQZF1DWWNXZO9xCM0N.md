@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,981 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,051 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 33 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
 | 34 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 35 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
-| 36 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 |
+| 36 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 37 | [Ausencia](https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:06 |
-| 38 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
+| 38 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 |
 | 39 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
 | 40 | [Lejos De Ti](https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD) | 4:15 |
 | 41 | [Yambeque](https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Determination](https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK) | 6:23 |

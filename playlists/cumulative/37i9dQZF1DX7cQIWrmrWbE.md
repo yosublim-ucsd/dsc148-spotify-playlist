@@ -4,7 +4,7 @@
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-115 songs - 6 hr 32 min
+116 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-05-09 | 2023-11-23 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-04 |  |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-05-09 |  |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-11-22 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-11-22 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-03-04 |  |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-11-22 |  |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-05-09 | 2024-03-05 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-03-04 |  |

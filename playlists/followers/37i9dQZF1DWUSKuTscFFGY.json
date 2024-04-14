@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 233735,
+  "2024-04-14": 233752,
   "date_first_scraped": "2023-07-29",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Sia",
   "name": "Nouveaut\u00e9s Pop",
@@ -2527,6 +2527,24 @@
       "duration_ms": 159360,
       "name": "I Do",
       "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
+    },
+    {
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
     },
     {
       "album": {

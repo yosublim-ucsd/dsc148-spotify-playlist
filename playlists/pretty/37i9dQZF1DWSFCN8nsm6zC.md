@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 
 > Rock for the road\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,254 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,266 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 36 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
 | 37 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 38 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
-| 39 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
+| 39 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
 | 40 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
-| 41 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
+| 41 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 42 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
 | 43 | [Molly's Chambers](https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:14 |
 | 44 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |

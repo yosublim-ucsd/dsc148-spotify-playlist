@@ -4,7 +4,7 @@
 
 > Buen indie rock para contar historietas...
 
-77 songs - 4 hr 27 min
+78 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2023-10-23 |  |
 | [Honey](https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:33 | 2023-10-23 |  |
 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 | 2023-10-23 |  |
-| [Jeannie Becomes A Mom](https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:21 | 2023-10-23 |  |
+| [Jeannie Becomes A Mom](https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:21 | 2023-10-23 | 2024-04-14 |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-10-23 |  |
 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 | 2023-10-23 |  |
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-10-23 |  |
@@ -52,6 +52,7 @@
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2023-10-23 |  |
 | [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 | 2023-10-23 |  |
 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-10-23 |  |
+| [Model Village](https://open.spotify.com/track/5Xr8dO5ALeh0r2LQv9kL8H) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7) | 3:54 | 2023-10-23 |  |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2023-10-23 |  |
 | [Need Your Love](https://open.spotify.com/track/7sMn5JJ7rzgl9MmgucEXsZ) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 3:51 | 2023-10-23 |  |
 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-10-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Feid & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,171 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,368 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 29 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 |
 | 30 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 31 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
-| 32 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 |
+| 32 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 33 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
 | 34 | [GODIVA](https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GODIVA](https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9) | 3:39 |
 | 35 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |

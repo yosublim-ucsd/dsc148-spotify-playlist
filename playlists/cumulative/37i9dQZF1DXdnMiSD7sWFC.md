@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-173 songs - 10 hr 33 min
+174 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2022-01-12 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-01-12 | 2024-04-13 |
-| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2022-01-12 |  |
+| [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 | 2023-11-10 |  |
+| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2022-01-12 | 2024-04-14 |
 | [Keep Going \- Desert Island Version](https://open.spotify.com/track/0JAUUAKbxhmcQvTAdavrHt) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Keep Going \(Desert Island Version\)](https://open.spotify.com/album/2BlwYmIaSj4QquvoYYIUS9) | 6:37 | 2022-01-12 | 2022-07-29 |
 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 | 2022-01-12 |  |
 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:08 | 2023-02-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,894 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,066 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 81 | [Solo Un Día](https://open.spotify.com/track/0bpsiH7FNdX74qFdzaBdxl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 3:06 |
 | 82 | [Si Me Dieras un Minuto](https://open.spotify.com/track/13hdQ6af8q1jzaz7y91yVF) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Literalmente](https://open.spotify.com/album/3yfJPovIvlchEsO7tbgPky) | 3:11 |
 | 83 | [He Bebido](https://open.spotify.com/track/6gLVwXlxgygLPre6PTsKYT) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre](https://open.spotify.com/album/0JgQOB2Xr0s6qa9i0hN7my) | 3:14 |
-| 84 | [Opaco Y Sensible](https://open.spotify.com/track/7usBdueYd7WFYWcYxMNTjv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:30 |
-| 85 | [Contacto Cero \(Mariachi\)](https://open.spotify.com/track/3l6CI829WfuY1O32CdgGBY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero \(Mariachi\)](https://open.spotify.com/album/2ARWjieFr7P3ZRfrMYHLXp) | 2:54 |
+| 84 | [Contacto Cero \(Mariachi\)](https://open.spotify.com/track/3l6CI829WfuY1O32CdgGBY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero \(Mariachi\)](https://open.spotify.com/album/2ARWjieFr7P3ZRfrMYHLXp) | 2:54 |
+| 85 | [Opaco Y Sensible](https://open.spotify.com/track/7usBdueYd7WFYWcYxMNTjv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:30 |
 | 86 | [Belleza Pura](https://open.spotify.com/track/6nn27SuUIvUP6BoCF3wLkC) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/0Uwwu94n5PorWVnc0fo5Vr) | 3:32 |
 | 87 | [Imborrable](https://open.spotify.com/track/7MJvwGCVlF7vsLZCb8rUrl) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Imborrable](https://open.spotify.com/album/3AhGP2UTMzMdGhlxEAyPY4) | 3:18 |
 | 88 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/5yuww0GWcvb6KsqUbbsT1W) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:54 |

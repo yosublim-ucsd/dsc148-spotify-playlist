@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-843 songs - 2 day 5 hr 9 min
+845 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-11 |  |
 | [Forever and ever](https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Forever and ever](https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8) | 4:19 | 2023-06-08 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-24 |  |
+| [Forever Yours](https://open.spotify.com/track/1z4BtplYdzK2YDqSLJpnvd) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Forever Yours](https://open.spotify.com/album/1Mu3jAcHRiLymCVjAI6svJ) | 2:58 | 2024-04-10 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-11 |  |
 | [Four And Moment](https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Four And Moment](https://open.spotify.com/album/6LDXCpzKWZdz5xuI4MrHBh) | 2:53 | 2023-06-01 |  |
 | [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 |  |
@@ -417,7 +418,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-06-01 |  |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-06-01 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-01-26 |  |
-| [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-01 |  |
+| [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-01 | 2024-04-14 |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-23 |  |
@@ -719,6 +720,7 @@
 | [The Peacocks \- Remastered](https://open.spotify.com/track/2R1ySjvT4QYc4InNTaHRaA) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/4wRlW4dwNOMa408LaTpG9n) | 6:01 | 2021-12-16 | 2022-07-29 |
 | [The Peacocks \- Remastered 2003](https://open.spotify.com/track/5shKp4VqCY5SoV3rIt0jpr) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 6:01 | 2022-06-29 | 2022-11-11 |
 | [The Pleasure Is Mine \- Remastered](https://open.spotify.com/track/3nWEttymk24YffcxB3DeCb) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 4:03 | 2022-01-13 | 2022-10-13 |
+| [The Promise of Spring](https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [The Promise of Spring](https://open.spotify.com/album/4DGprWZfEGxxxHU0HLmxiG) | 5:18 | 2024-04-10 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2023-06-01 |  |
 | [The Single Petal Of A Rose](https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 3:20 | 2022-05-18 |  |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-06-01 |  |
@@ -744,7 +746,7 @@
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 | 2022-11-11 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 | 2024-04-14 |
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2022-06-29 | 2022-11-11 |
 | [Till There Was You](https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Three Little Words](https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD) | 7:12 | 2022-05-13 | 2022-07-29 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |

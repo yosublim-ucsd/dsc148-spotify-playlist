@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,378 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,382 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 15 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 16 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
 | 17 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 18 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
-| 19 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
+| 18 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
+| 19 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
 | 20 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 21 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 |
 | 22 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |

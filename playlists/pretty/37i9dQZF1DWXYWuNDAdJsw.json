@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 839620,
+  "num_followers": 839633,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -607,22 +611,18 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174482,
       "name": "TUS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "Otro Nivel de M\u00fasica",
         "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
     },
     {
       "added_at": "2024-01-19 05:21:58",

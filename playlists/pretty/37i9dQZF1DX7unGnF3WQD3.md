@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > tírate un paso y saca los prohibidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,337 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,387 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 35 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
 | 36 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
 | 37 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
-| 38 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
-| 39 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
+| 38 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
+| 39 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
 | 40 | [Inocente](https://open.spotify.com/track/7uosdMQ8IXjcs6t72NTTDq) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/5X988Kfh1BWfczNEfKHwwv) | 5:10 |
 | 41 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
 | 42 | [Ya Fue](https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Ya Fue](https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa) | 3:13 |

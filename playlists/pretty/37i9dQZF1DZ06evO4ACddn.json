@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1058,
+  "num_followers": 1060,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGNlZWEwM2E5NWFhNDZhMzVkZTVkNTk3ZmRhNGRkODll",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGE0OTJlNWExOThhYzMwYzE1NDVjOWJjZTg5N2MzY2E4",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+      "duration_ms": 174729,
+      "name": "Things Will Matter",
+      "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 174729,
-      "name": "Things Will Matter",
-      "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,

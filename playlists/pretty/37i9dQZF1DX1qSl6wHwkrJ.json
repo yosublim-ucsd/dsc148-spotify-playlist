@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Christmas",
-      "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The Best Of Lightnin' Hopkins",
         "url": "https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 195745,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/6XsoEbKIVrLnR8tR9G42YR"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Christmas",
+      "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Best of Street New Orleans Xmas",
+        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
+      },
+      "artists": [
+        {
+          "name": "Yes Maam",
+          "url": "https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl"
+        },
+        {
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Dirty Ol' Christmas Blues",
+      "url": "https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 181053,
       "name": "Santa Claus Go Straight To The Ghetto",
       "url": "https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Best of Street New Orleans Xmas",
-        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
-      },
-      "artists": [
-        {
-          "name": "Yes Maam",
-          "url": "https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl"
-        },
-        {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Dirty Ol' Christmas Blues",
-      "url": "https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Stony Plain's Christmas Blues",
+        "url": "https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rhodes",
+          "url": "https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl"
+        }
+      ],
+      "duration_ms": 367400,
+      "name": "Christmas 9-1-1",
+      "url": "https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "The Alligator Records Christmas Collection",
         "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 216560,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Stony Plain's Christmas Blues",
-        "url": "https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rhodes",
-          "url": "https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl"
-        }
-      ],
-      "duration_ms": 367400,
-      "name": "Christmas 9-1-1",
-      "url": "https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Dave Hole",
-          "url": "https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "Fattening Up The Turkey",
-      "url": "https://open.spotify.com/track/0fOsnjGID1a3D6LrfygqeG"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Happy Xmas",
         "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 231146,
       "name": "Lonesome Christmas",
       "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Dave Hole",
+          "url": "https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Fattening Up The Turkey",
+      "url": "https://open.spotify.com/track/0fOsnjGID1a3D6LrfygqeG"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Southern Rock Christmas",
-        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
-      },
-      "artists": [
-        {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
-        }
-      ],
-      "duration_ms": 292023,
-      "name": "It's Bad to Have the Blues (At Christmas Time)",
-      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "An Austin Rhythm And Blues Christmas",
         "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Southern Rock Christmas",
+        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        }
+      ],
+      "duration_ms": 292023,
+      "name": "It's Bad to Have the Blues (At Christmas Time)",
+      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "The Big Night",
         "url": "https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Merry Blue Christmas",
-        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Williams",
-          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
-        }
-      ],
-      "duration_ms": 130532,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Justin Time for Christmas, Vol. 3",
         "url": "https://open.spotify.com/album/0Bx64iuZOHwoTW1AxDsesc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 348040,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/2MmByherqjfgXrmEcslkox"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Merry Blue Christmas",
+        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Williams",
+          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
+        }
+      ],
+      "duration_ms": 130532,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Santa's Got Mojo 2 - An Electro-Fi Christmas Blues Celebration",
+        "url": "https://open.spotify.com/album/1RZNDuCkBFLuwtIOsTdLnx"
+      },
+      "artists": [
+        {
+          "name": "Mel Brown And The Homewreckers",
+          "url": "https://open.spotify.com/artist/3ShAeLpSGXkjNLKHkYveGz"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "Merry Christmas Baby - Special Bonus Track",
+      "url": "https://open.spotify.com/track/0OI7TVMEcudGu3pyuAxnTX"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Christmas Blues: Savoy Jazz Christmas Album",
         "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 201760,
       "name": "Far Away Christmas Blues",
       "url": "https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Santa's Got Mojo 2 - An Electro-Fi Christmas Blues Celebration",
-        "url": "https://open.spotify.com/album/1RZNDuCkBFLuwtIOsTdLnx"
-      },
-      "artists": [
-        {
-          "name": "Mel Brown And The Homewreckers",
-          "url": "https://open.spotify.com/artist/3ShAeLpSGXkjNLKHkYveGz"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "Merry Christmas Baby - Special Bonus Track",
-      "url": "https://open.spotify.com/track/0OI7TVMEcudGu3pyuAxnTX"
     },
     {
       "added_at": "2023-11-22 12:51:56",

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 156888,
+  "num_followers": 156936,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Ele Continua Sendo Deus",
+        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 174098,
+      "name": "V\u00ea Se Vigia",
+      "url": "https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
         "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 243495,
       "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
       "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ele Continua Sendo Deus",
-        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 174098,
-      "name": "V\u00ea Se Vigia",
-      "url": "https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Templo Soul",
-        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Caixa D'\u00e1gua",
-      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
         "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Haja Luz",
-        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
+        "name": "Templo Soul",
+        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
       },
       "artists": [
         {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
         }
       ],
-      "duration_ms": 246906,
-      "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
+      "duration_ms": 237493,
+      "name": "Caixa D'\u00e1gua",
+      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+        "name": "Haja Luz",
+        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
         }
       ],
-      "duration_ms": 349500,
-      "name": "Eu N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV"
+      "duration_ms": 246906,
+      "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 181956,
       "name": "Nada Se Compara",
       "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 349500,
+      "name": "Eu N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Oh Gl\u00f3ria, Aleluia",
-      "url": "https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Tome a Decis\u00e3o",
         "url": "https://open.spotify.com/album/5mE14i5eods7RRbp1tkNza"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232573,
       "name": "Vamos Celebrar",
       "url": "https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Oh Gl\u00f3ria, Aleluia",
+      "url": "https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat"
-      },
-      "artists": [
-        {
-          "name": "Leandro Luz",
-          "url": "https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "Me Curou - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Por Amor a Ti",
         "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat"
+      },
+      "artists": [
+        {
+          "name": "Leandro Luz",
+          "url": "https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "Me Curou - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Te Adorar",
         "url": "https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 234985,
       "name": "Louvarei",
       "url": "https://open.spotify.com/track/1HolPI1xldNL8COYPtj1Id"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "C\u00e2ntico Novo",
-        "url": "https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        }
-      ],
-      "duration_ms": 174023,
-      "name": "C\u00e2ntico Novo",
-      "url": "https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 209946,
       "name": "Livre Sou",
       "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "C\u00e2ntico Novo",
+        "url": "https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "duration_ms": 174023,
+      "name": "C\u00e2ntico Novo",
+      "url": "https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Soul Gospel",
-        "url": "https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3"
-      },
-      "artists": [
-        {
-          "name": "Thalita Pertuzatti",
-          "url": "https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg"
-        }
-      ],
-      "duration_ms": 191204,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Um Mover",
+        "url": "https://open.spotify.com/album/6VPPd5S0byGY4056iwRVMx"
+      },
+      "artists": [
+        {
+          "name": "Oseas Silva",
+          "url": "https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Um Mover",
+      "url": "https://open.spotify.com/track/4CPSxZXYSURvwqOvwchHNH"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Multiforme",
         "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Um Mover",
-        "url": "https://open.spotify.com/album/6VPPd5S0byGY4056iwRVMx"
+        "name": "Bem Perto",
+        "url": "https://open.spotify.com/album/4l4dUmC4oAvXBu8zsryg6m"
       },
       "artists": [
         {
-          "name": "Oseas Silva",
-          "url": "https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh"
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Um Mover",
-      "url": "https://open.spotify.com/track/4CPSxZXYSURvwqOvwchHNH"
+      "duration_ms": 273237,
+      "name": "Eu Grito",
+      "url": "https://open.spotify.com/track/70jq7l150CJa2RjGXLXtO4"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Bem Perto",
-        "url": "https://open.spotify.com/album/4l4dUmC4oAvXBu8zsryg6m"
+        "name": "Soul Gospel",
+        "url": "https://open.spotify.com/album/28Ae90hKeEu4egrlY4Mxek"
       },
       "artists": [
         {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+          "name": "Thalita Pertuzatti",
+          "url": "https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg"
         }
       ],
-      "duration_ms": 273237,
-      "name": "Eu Grito",
-      "url": "https://open.spotify.com/track/70jq7l150CJa2RjGXLXtO4"
+      "duration_ms": 191204,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/2gdItz93EHBKPTxXg3ZgDp"
     },
     {
       "added_at": "2023-12-22 03:00:00",

@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 39 min
+61 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Paso Lento](https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:44 | 2023-11-10 |  |
 | [Agua Bendita](https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Agua Bendita](https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N) | 3:30 | 2023-11-10 | 2024-03-15 |
 | [Andrómeda](https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:55 | 2023-11-10 |  |
+| [Anticonceptivos](https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Anticonceptivos](https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd) | 3:12 | 2024-04-14 |  |
 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 | 2023-11-10 | 2024-01-30 |
 | [Aquí Todo Esta Bien](https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 4:01 | 2023-11-10 |  |
 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 | 2024-02-08 |  |

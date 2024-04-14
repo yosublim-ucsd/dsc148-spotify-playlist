@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,443 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,464 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 8 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 9 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 10 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
-| 11 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
-| 12 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
+| 11 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
+| 12 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 13 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 14 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
 | 15 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 41 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 |
 | 42 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
 | 43 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
-| 44 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
-| 45 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
+| 44 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
+| 45 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 | 46 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 |
 | 47 | [Cuando Tus Ojos Me Ven](https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y) | [uni](https://open.spotify.com/artist/6jeR6yw4TRocXdVOj603mW) | [Cuando Tus Ojos Me Ven](https://open.spotify.com/album/6lfXpaBMaT6JMBqFXOeAoR) | 2:58 |
-| 48 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
-| 49 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
-| 50 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
+| 48 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
+| 49 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
+| 50 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
 
 Snapshot ID: `MTcxMjg5MDgwMCwwMDAwMDAwMGE0MWJjMmJmMDAwYjZlNGJmZDc0OGM1YWMzODJhN2I4`

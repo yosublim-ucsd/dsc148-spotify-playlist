@@ -2,7 +2,7 @@
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. The essential tracks, all in one playlist.
+> This is The Cure\. Track\-track unggulan, semuanya dalam satu playlist.
 
 71 songs - 5 hr 13 min
 

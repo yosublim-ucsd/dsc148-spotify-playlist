@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,743 likes - 84 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,752 likes - 84 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 6 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
 | 7 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 8 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 9 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 9 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 10 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 11 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
 | 12 | [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 |

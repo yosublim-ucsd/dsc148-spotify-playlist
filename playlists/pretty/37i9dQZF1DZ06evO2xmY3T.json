@@ -1,29 +1,13 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 670206,
+  "num_followers": 670257,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGI1ZmI4OGE4MTRhMzNmNTkzZTZmMTlmNjVhYTc0M2Vh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGFjZjUzZGQwZTc5NTliZDAxMGQ5MzJlMjMzOTVmNDVl",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
-    },
     {
       "added_at": null,
       "album": {
@@ -67,6 +51,22 @@
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
     },
     {
       "added_at": null,

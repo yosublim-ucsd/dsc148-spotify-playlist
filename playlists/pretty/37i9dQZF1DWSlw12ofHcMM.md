@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,006 likes - 112 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,057 likes - 112 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 96 | [Long Live](https://open.spotify.com/track/5EEa9SITrIRlpj5yFn72iO) | [Devan DuBois](https://open.spotify.com/artist/7mFPzPaMTA7CHdNAWuAUIx) | [Le Fou](https://open.spotify.com/album/63EFCjfsEZqsXfK0PBKqu7) | 3:14 |
 | 97 | [Courage for Love](https://open.spotify.com/track/13bRDQE3zLg7JX6zoZQP6u) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 2:34 |
 | 98 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
-| 99 | [When God Comes Back](https://open.spotify.com/track/2EvUjCWg5zeaeKxGeOaHPh) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/4ViTtcecbZ1kjNAkZ4BYNh) | 3:33 |
+| 99 | [When God Comes Back](https://open.spotify.com/track/3z1JRPIgYUoiIySKdPKJpM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/0cnaB1TFkjeoV5MGY5DctG) | 3:33 |
 | 100 | [Diggin' for the Devil](https://open.spotify.com/track/1mCmYWH9S7M7DY4JruPAve) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/08h2w1hvwWYFaf9wG47pCw) | 3:04 |
 | 101 | [Heavy Is the Head](https://open.spotify.com/track/5GYFgz8QsRssKk2ONcvnpo) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:59 |
 | 102 | [I Think I'll Be Their God](https://open.spotify.com/track/2j1MqPxhji70CuWKGIXfVX) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Flatlands](https://open.spotify.com/album/3nT6KSqGMRP9JxPx60uRbm) | 3:37 |

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-714 songs - 1 day 18 hr 57 min
+715 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2022-12-15 |  |
 | [gaucherie](https://open.spotify.com/track/4P0gWxtEvf7apvG5qlyrjh) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [gaucherie](https://open.spotify.com/album/1agej49fTgkqT8peeoNaZS) | 2:57 | 2024-02-27 | 2024-03-01 |
 | [Genuine](https://open.spotify.com/track/0oc9vttTtk0Yv0856GYwzw) | [Tsukasa Inoue](https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn), [大神:OHGA](https://open.spotify.com/artist/3vJfeYxL12SXLvPMwBY25d), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Genuine](https://open.spotify.com/album/2S5UhMvmBlRAInHflPAM7t) | 4:43 | 2022-10-27 | 2022-11-30 |
-| [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-10-20 |  |
+| [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-10-20 | 2024-04-14 |
 | [Getaway \(feat\. Phum Viphurit\)](https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Getaway \(feat\. Phum Viphurit\)](https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7) | 4:07 | 2024-02-22 | 2024-03-01 |
 | [Girlfriend](https://open.spotify.com/track/7vfRSHJyOY8qUZ0XXSEbBr) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [Girlfriend](https://open.spotify.com/album/0q4Y4pXndd7NxFIwG5yInO) | 2:23 | 2023-10-19 | 2023-12-23 |
 | [GIVE MINE](https://open.spotify.com/track/6s88qhU19OYs0MXb58LgwQ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [GIVE MINE](https://open.spotify.com/album/5bhUSxacVDGCApH4qcc3SH) | 2:28 | 2023-06-20 | 2023-07-19 |
@@ -359,6 +359,7 @@
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 |  |
 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 | 2024-01-10 |  |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-10-20 | 2023-02-10 |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-04-12 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-10-20 | 2023-05-21 |
 | [Natural Sense](https://open.spotify.com/track/0vMiyLLjZvXFYlCaREHPKD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Natural Sense](https://open.spotify.com/album/25lgonaEBfB4QRKzwH80bF) | 2:46 | 2024-01-30 | 2024-03-01 |
 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-06-30 | 2024-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,470 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,464 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 24 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 25 | [Panic](https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 3:20 |
 | 26 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 27 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
-| 28 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
-| 29 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 27 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 28 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
+| 29 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
 | 30 | [Holy Roller](https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 2:53 |
 | 31 | [The Safety of Disbelief](https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:33 |
 | 32 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 33 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
-| 34 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
+| 33 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
+| 34 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 35 | [Right Now](https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:45 |
 | 36 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
 | 37 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 44 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
 | 45 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 |
 | 46 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
-| 47 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
-| 48 | [Black Honey](https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 3:59 |
+| 47 | [Black Honey](https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 3:59 |
+| 48 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
 | 49 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
-| 50 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
-| 51 | [Bones Exposed](https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R) | 4:15 |
+| 50 | [Bones Exposed](https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R) | 4:15 |
+| 51 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 52 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 53 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
 | 54 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 67 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 | 68 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 69 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
-| 70 | [Human](https://open.spotify.com/track/4y4tpeSlNThWItcGZTUqNX) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/7JEmohpfbrZVszNXBskJUc) | 3:33 |
+| 70 | [Aftermath](https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 4:58 |
 
 Snapshot ID: `MTY4NjkxODkzNCwwMDAwMDAwMGUxOTQyYjU2MGMzNzJkNGU0ZTdiMWE5NTUzYWYzMTZi`

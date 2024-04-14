@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-722 songs - 1 day 15 hr 5 min
+724 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Destiny](https://open.spotify.com/track/6Zb1htTWhtrLwqHRWCHjeS) | [Fury Rapsters](https://open.spotify.com/artist/0D1OHCuWTi4UP2tkVWSsBd), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ), [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ) | [Destiny](https://open.spotify.com/album/2kxsCmoaTo3LFxhl2mtH3q) | 4:00 | 2022-10-26 | 2022-11-18 |
 | [Destiny](https://open.spotify.com/track/7ooCc5c3bSZdcGvj6NiOUT) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot), [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U), [Shehroz](https://open.spotify.com/artist/3TqqstbDuFqLxPwFcLutOE) | [Destiny](https://open.spotify.com/album/7MEKEjMgnU9OnXah5SEPXL) | 4:32 | 2023-10-20 | 2023-11-11 |
 | [dhalte nahi](https://open.spotify.com/track/2S4GAgm0P0itooYa3lIvyV) | [Haider Omar](https://open.spotify.com/artist/3IMy2LO7SvsZRz9xwa309o), [Hashim Omar](https://open.spotify.com/artist/7f2WQiIPQj3xuWRZcTwIPM) | [dhalte nahi](https://open.spotify.com/album/4cZ4mYHjLebEF2nOAD1iu5) | 4:46 | 2022-11-17 | 2022-12-01 |
-| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 |  |
+| [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 | 2024-04-12 |  |
+| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 | 2024-04-14 |
 | [Dholna](https://open.spotify.com/track/3oFG1Y2Bsf4emH82duKQwK) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Dholna](https://open.spotify.com/album/3nlbRKAOzDJXAV0URmw1au) | 3:19 | 2022-11-30 | 2023-01-11 |
 | [Dholna](https://open.spotify.com/track/51BRrCkxlAp9UICm33Id8F) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [Dholna](https://open.spotify.com/album/44q2GLetKZ3Za5sFMGimwV) | 4:15 | 2023-07-01 | 2023-08-01 |
 | [DIFFERENT](https://open.spotify.com/track/3SSFL50rhG0JosTZnTMnmL) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [DIFFERENT](https://open.spotify.com/album/0lCIGj9nFbafWKTEdVIF4T) | 2:40 | 2022-08-27 | 2023-01-11 |
@@ -711,7 +712,8 @@
 | [Woh Aur Mein](https://open.spotify.com/track/3MUZzOLXKZ98xh4MPS4SOl) | [ProdByHanan](https://open.spotify.com/artist/02NnzLutNdylnx6uTmNHQM), [Dynaxty](https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco), [Talha Khan](https://open.spotify.com/artist/716C08J4oEdhtkZXyCVy5m) | [Woh Aur Mein](https://open.spotify.com/album/0GgD5nvCM8hpzy8s5XNjw5) | 2:42 | 2023-07-14 | 2023-09-02 |
 | [Won't You Stay?](https://open.spotify.com/track/5ghPQYmYxGJi0Fe1M4R31u) | [Salah](https://open.spotify.com/artist/6gsSqRlSCysGjavfEOwUew) | [In Another Time](https://open.spotify.com/album/6NaAFT2uZ3cQK2T1Fmtynr) | 4:26 | 2022-09-23 | 2023-01-11 |
 | [Yaad](https://open.spotify.com/track/0cdaaZMv2wKic76qw3xjOg) | [Abeer Nomani](https://open.spotify.com/artist/45wayB3R3lVfU5AtZhF5Ux), [Ammar Khaled](https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et) | [Yaad](https://open.spotify.com/album/45ll5dfe5BvmdYhnVsNpEk) | 2:05 | 2023-09-15 | 2023-10-13 |
-| [Yaadein](https://open.spotify.com/track/4emyBB1y2yRUKWdNjHxwzD) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Yaadein](https://open.spotify.com/album/4J3iaWvJORN2fQbYARI2sb) | 3:06 | 2024-02-23 |  |
+| [Yaadein](https://open.spotify.com/track/2zS2ty3KwAMBOHmWKyrZmJ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Yaadein](https://open.spotify.com/album/23vZO2UdIwzL5RlTBLQ9dI) | 3:06 | 2024-04-12 |  |
+| [Yaadein](https://open.spotify.com/track/4emyBB1y2yRUKWdNjHxwzD) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Yaadein](https://open.spotify.com/album/4J3iaWvJORN2fQbYARI2sb) | 3:06 | 2024-02-23 | 2024-04-14 |
 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 | 2024-01-04 |  |
 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 | 2024-01-12 |  |
 | [Yaar Daadhi](https://open.spotify.com/track/79aKn6laRblyFXS5UhL6h7) | [Ahsan Pervaiz Mehdi](https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon), [Shaan Shahid](https://open.spotify.com/artist/2j2YkcYpS7C5SvAPeZtFLc) | [Yaar Daadhi](https://open.spotify.com/album/0xxhz0nCJB1VCF72VitAll) | 2:54 | 2023-09-01 | 2023-10-24 |

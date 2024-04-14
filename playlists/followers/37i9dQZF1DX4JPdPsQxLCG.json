@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 83503,
+  "2024-04-14": 83517,
   "date_first_scraped": "2022-06-02",
   "description": "Classic tunes for the open road. ",
   "name": "Canadian Road Trip",
@@ -1043,6 +1043,24 @@
       "duration_ms": 305413,
       "name": "Comin' Home",
       "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "album": {
@@ -3835,7 +3853,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189277,
       "name": "On A Different Night",
       "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"

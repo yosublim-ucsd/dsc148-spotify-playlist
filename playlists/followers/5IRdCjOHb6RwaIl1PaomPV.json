@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 50874,
+  "2024-04-14": 50873,
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New music from Bennett Coast, plus the latest cuts from Omar Souleyman, John Glacier and more.",
+  "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers plus the latest cuts from Omar Souleyman, DJ_Dave and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -152,6 +152,36 @@
     },
     {
       "album": {
+        "name": "40 (Dj Ess Mix)",
+        "url": "https://open.spotify.com/album/1WyMw8WTwFn0kIeTFkrgbT"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81658,
+      "name": "40 - Dj Ess Mix",
+      "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz"
+    },
+    {
+      "album": {
         "name": "The Final Nail In The Coffin",
         "url": "https://open.spotify.com/album/4NgnuZTn5V7CucGFB8b1tS"
       },
@@ -203,6 +233,24 @@
       "duration_ms": 229764,
       "name": "96 Degrees",
       "url": "https://open.spotify.com/track/7qaaJBg1kEyUk27KRyoLXv"
+    },
+    {
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
     },
     {
       "album": {
@@ -1960,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "Daddy Vaquero",
+        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Daddy Vaquero",
+      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
+    },
+    {
+      "album": {
         "name": "Dance For You (Blue Hawaii and DJ Kirby Remix)",
         "url": "https://open.spotify.com/album/0TWtR6w6CC5Xs64UQWJImq"
       },
@@ -2137,6 +2203,28 @@
       "duration_ms": 204159,
       "name": "Different Life",
       "url": "https://open.spotify.com/track/7LIFs6DXS2QlErkxfGatF2"
+    },
+    {
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
       "album": {
@@ -3286,6 +3374,28 @@
     },
     {
       "album": {
+        "name": "Fuetazo (feat. Villano Antillano)",
+        "url": "https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Fuetazo (feat. Villano Antillano)",
+      "url": "https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k"
+    },
+    {
+      "album": {
         "name": "Gemmy Juice (feat. Sarah Bonito)",
         "url": "https://open.spotify.com/album/5sFFMHWlhiujDMZXzbfwIp"
       },
@@ -4134,6 +4244,24 @@
     },
     {
       "album": {
+        "name": "Live Life Brazenly",
+        "url": "https://open.spotify.com/album/1bM9UNyri3Rtv4FV9uLjFD"
+      },
+      "artists": [
+        {
+          "name": "Dyltwosix",
+          "url": "https://open.spotify.com/artist/00J6Tan9XAjt4RDwcWUqmj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Ice Cold Beer",
+      "url": "https://open.spotify.com/track/5hCbconkTD6gB5LwYHIbv3"
+    },
+    {
+      "album": {
         "name": "Ice Cream (Remixes)",
         "url": "https://open.spotify.com/album/4XPUW6nDXnbCVUwDKu1c9u"
       },
@@ -4201,6 +4329,24 @@
       "duration_ms": 190822,
       "name": "Ija - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -5440,6 +5586,32 @@
     },
     {
       "album": {
+        "name": "MYCELiUM (UTOPIA Remixes)",
+        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183007,
+      "name": "Mine O' Mine - P-rallel Remix",
+      "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
+    },
+    {
+      "album": {
         "name": "miss me",
         "url": "https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG"
       },
@@ -6498,6 +6670,24 @@
     },
     {
       "album": {
+        "name": "Police Scanner",
+        "url": "https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142456,
+      "name": "Police Scanner",
+      "url": "https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY"
+    },
+    {
+      "album": {
         "name": "Polly Armour",
         "url": "https://open.spotify.com/album/7n4OYjNT0lQQEhN4jalOq2"
       },
@@ -7308,6 +7498,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free, I'm an Animal",
+        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Set Me Free, I\u2019m an Animal",
+      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
+    },
+    {
+      "album": {
         "name": "Set The Roof",
         "url": "https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty"
       },
@@ -7602,6 +7810,24 @@
     },
     {
       "album": {
+        "name": "So What If I'm A Freak",
+        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
+    },
+    {
+      "album": {
         "name": "Social Suicide",
         "url": "https://open.spotify.com/album/73jmV69w0lGAk3xaTlF8Bx"
       },
@@ -7733,6 +7959,24 @@
       "duration_ms": 109241,
       "name": "STANDIN ON SHIT",
       "url": "https://open.spotify.com/track/2HbJnyqsrMHo4uUUUUnZz1"
+    },
+    {
+      "album": {
+        "name": "Sd-1",
+        "url": "https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Starzzz",
+      "url": "https://open.spotify.com/track/7GUQgcc7VnAS9Y57CKocq4"
     },
     {
       "album": {
@@ -8224,6 +8468,68 @@
     },
     {
       "album": {
+        "name": "harry houdini",
+        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "the life and death of a dog",
+      "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
+    },
+    {
+      "album": {
+        "name": "the rothschild party",
+        "url": "https://open.spotify.com/album/7qrb3IexTpCYPsid6E79DG"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Dubyshkin",
+          "url": "https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332857,
+      "name": "the rothschild party",
+      "url": "https://open.spotify.com/track/1V8X59zPaadLB4fsmmUfQJ"
+    },
+    {
+      "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
+    },
+    {
+      "album": {
         "name": "MYCELiUM",
         "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
       },
@@ -8384,6 +8690,24 @@
     },
     {
       "album": {
+        "name": "Tiny Dancer",
+        "url": "https://open.spotify.com/album/1FkKpFNNxxvGTRWVe1xmW4"
+      },
+      "artists": [
+        {
+          "name": "Dyltwosix",
+          "url": "https://open.spotify.com/artist/00J6Tan9XAjt4RDwcWUqmj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/1iY9T6EcBS3SrfyDAirpoQ"
+    },
+    {
+      "album": {
         "name": "To Last",
         "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
       },
@@ -8473,7 +8797,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -9132,6 +9456,24 @@
     },
     {
       "album": {
+        "name": "World's Hardest Game",
+        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208967,
+      "name": "World's Hardest Game",
+      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
+    },
+    {
+      "album": {
         "name": "Wyrdo",
         "url": "https://open.spotify.com/album/7LMz2KwpTJA0HfwLXog3cd"
       },
@@ -9209,6 +9551,24 @@
       "duration_ms": 142343,
       "name": "Ya, So What",
       "url": "https://open.spotify.com/track/69qvzWqTypV47Wj8xL4Np2"
+    },
+    {
+      "album": {
+        "name": "Erbil",
+        "url": "https://open.spotify.com/album/12kpVIlrWxmOJV7wX4JL8M"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "Yal Harak Qalbe",
+      "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"
     },
     {
       "album": {

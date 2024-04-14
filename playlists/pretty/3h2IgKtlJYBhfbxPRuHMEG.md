@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 485 likes - 103 songs - 5 hr 50 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 486 likes - 103 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

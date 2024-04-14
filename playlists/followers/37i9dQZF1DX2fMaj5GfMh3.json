@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 97283,
+  "2024-04-14": 97296,
   "date_first_scraped": "2023-02-25",
-  "description": "Benson Boone op de cover van Fresh Pop! ",
+  "description": "Perrie op de cover van Fresh Pop! ",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168786,
       "name": "Coming of Age (feat. Melle)",
       "url": "https://open.spotify.com/track/7Did4KpyQRorJo0L3k8zx5"
@@ -2544,6 +2544,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -3068,6 +3086,24 @@
     },
     {
       "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
+    },
+    {
+      "album": {
         "name": "That! Feels Good!",
         "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
       },
@@ -3097,7 +3133,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173400,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
@@ -3465,7 +3501,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
@@ -4794,6 +4830,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3UteN8apwzmsGK7rhHjTXY"
       },
@@ -5253,7 +5307,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173933,
       "name": "Lead Me On",
       "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
@@ -6096,6 +6150,24 @@
     },
     {
       "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
+    },
+    {
+      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -6371,6 +6443,24 @@
       "duration_ms": 160949,
       "name": "No Room 4 U",
       "url": "https://open.spotify.com/track/6oqnGzKVZ6UAw2qRLxCIco"
+    },
+    {
+      "album": {
+        "name": "Nobody (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153626,
+      "name": "Nobody - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
     },
     {
       "album": {
@@ -7751,7 +7841,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
@@ -8473,7 +8563,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -8733,7 +8823,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165607,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7"
@@ -9739,7 +9829,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
@@ -10029,7 +10119,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi - NL",
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"

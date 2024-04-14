@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,819 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,837 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 35 | [泡と文學](https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:55 |
 | 36 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 37 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
-| 38 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
+| 38 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
 | 39 | [Hardin](https://open.spotify.com/track/2wc7oHFR9KTsfLVm53Kokn) | [Kayl Garcia](https://open.spotify.com/artist/2b9sNBOKOO52limWBKI84i) | [Hardin](https://open.spotify.com/album/1JYul6dcetZLNknw8P9lVG) | 5:05 |
-| 40 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
+| 40 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
 | 41 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 42 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
 | 43 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 52 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 53 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 54 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
-| 55 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
-| 56 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
+| 55 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
+| 56 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 57 | [Pictures of You](https://open.spotify.com/track/2cAZ6Pxbq34h5rgUr7hZKC) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:09 |
 | 58 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 59 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
-| 60 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
+| 60 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 |
 
 Snapshot ID: `MTcxMjkyODY2MiwwMDAwMDAwMDliZGQ1MjQ1OTZlMzA3NjE5MmU1MGQ4NzEwM2E1YjY0`

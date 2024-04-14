@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 151939,
+  "num_followers": 152009,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1021,24 +1021,20 @@
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
     },
     {
-      "added_at": "2024-03-01 11:54:01",
+      "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Counting (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
         }
       ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+      "duration_ms": 182068,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1061,20 +1057,24 @@
       "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3itZ3OkLhQwzwxvSwKBtOw"
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
       "artists": [
         {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
         },
         {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
         }
       ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
+      "duration_ms": 133793,
+      "name": "Stubborn",
+      "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT"
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
       },
       "artists": [
         {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         },
         {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
         }
       ],
-      "duration_ms": 133793,
-      "name": "Stubborn",
-      "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1243,6 +1243,30 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1317,6 +1341,22 @@
       "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "Circus Four",
@@ -1339,22 +1379,6 @@
       "duration_ms": 231724,
       "name": "Bigger Than Bad",
       "url": "https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 134305,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1417,6 +1441,26 @@
       "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Out & About",
+        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
+      },
+      "artists": [
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Out & About",
+      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
+    },
+    {
       "added_at": "2024-03-01 11:54:01",
       "album": {
         "name": "Downers (Rework)",
@@ -1455,26 +1499,6 @@
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Out & About",
-        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
-      },
-      "artists": [
-        {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Out & About",
-      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1575,26 +1599,6 @@
       "duration_ms": 187112,
       "name": "Party President",
       "url": "https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Let U Know (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160498,
-      "name": "Let U Know (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
     }
   ],
   "unique_name": "Proper Naughty ",

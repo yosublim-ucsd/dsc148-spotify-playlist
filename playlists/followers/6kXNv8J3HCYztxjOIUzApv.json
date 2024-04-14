@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 60455,
+  "2024-04-14": 60476,
   "date_first_scraped": "2022-06-10",
   "description": "Rock out while you work out! Follow for updates!",
   "name": "Hard Rock Workout",
@@ -2357,6 +2357,32 @@
       "duration_ms": 194506,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/6EaGa19IlwQoB28FXba3GU"
+    },
+    {
+      "album": {
+        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263161,
+      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
     },
     {
       "album": {

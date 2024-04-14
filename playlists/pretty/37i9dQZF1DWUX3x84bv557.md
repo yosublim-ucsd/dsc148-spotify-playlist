@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Danique
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,102 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,112 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [waarom met haar](https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [in vertrouwen](https://open.spotify.com/album/3ro70qeSO0Liu4kZ3Vldsy) | 3:23 |
-| 2 | [Naakt Zien](https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Life After Daddy](https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC) | 3:12 |
-| 3 | [Geen Afscheid](https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Afscheid](https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne) | 3:02 |
-| 4 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
+| 2 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
+| 3 | [Naakt Zien](https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Life After Daddy](https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC) | 3:12 |
+| 4 | [Geen Afscheid](https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Afscheid](https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne) | 3:02 |
 | 5 | [Verder Gaan](https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Verder Gaan](https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu) | 2:59 |
 | 6 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 |
 | 7 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Duizend Lichtjes \- Radio Edit](https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Duizend Lichtjes \(Radio Edit\)](https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl) | 2:31 |
 | 60 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
 
-Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMDE4Mjc4MzdiZThhNDY0MmMzMDc1MDM0MzliZTdkY2Q3`
+Snapshot ID: `MTcxMzAzMDIyNywwMDAwMDAwMGNmOWVlMWJiZTM3MmE2ODI0ZGY5NGQzOTc0ODI0MTFj`

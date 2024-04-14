@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Delatorvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,620 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,619 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 5 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |
 | 6 | [5 STAR](https://open.spotify.com/track/5OShJm40L8YRqPoDzkL5eB) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [5 STAR](https://open.spotify.com/album/21C4kT2jZ1GzmY9FcWGjGo) | 2:38 |
 | 7 | [Doente de Amor](https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Doente de Amor](https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx) | 2:01 |
-| 8 | [ESPANHA](https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [DH](https://open.spotify.com/artist/3RfmWFWahUOknifSXyWMGm) | [ESPANHA](https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV) | 3:30 |
+| 8 | [ESPANHA](https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [DH](https://open.spotify.com/artist/5aDGIEuKdKB7k4XvilmVCe) | [ESPANHA](https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV) | 3:30 |
 | 9 | [King Kong](https://open.spotify.com/track/18nleMBgPh7tGyLX11pcOB) | [Bernard](https://open.spotify.com/artist/6vuZce8K6ak3o7LhRKKUqH) | [King Kong](https://open.spotify.com/album/413UNUmMkdBd0RcGJdphsK) | 1:33 |
 | 10 | [Caixa Postal](https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM) | [Estilo Cachorro](https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja) | 2:23 |
 | 11 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 |

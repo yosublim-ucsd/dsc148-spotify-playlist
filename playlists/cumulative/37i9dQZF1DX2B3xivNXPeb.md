@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-349 songs - 21 hr 9 min
+350 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 | 2022-02-14 | 2022-12-28 |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2022-02-14 | 2022-07-23 |
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2022-02-14 | 2022-12-28 |
+| [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-11 |  |
 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 | 2022-12-28 | 2023-01-11 |
 | [Let Me Let You Go](https://open.spotify.com/track/5uFKO19VWXkT5FgdrKnKRB) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let Me Let You Go](https://open.spotify.com/album/3HzMam8I1NUVU4yC4aBaCk) | 2:50 | 2022-02-14 | 2022-12-28 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-12-28 | 2023-01-11 |
@@ -252,7 +253,7 @@
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2023-01-10 | 2023-06-17 |
 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 | 2022-02-14 | 2022-12-28 |
 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-02-23 |  |
-| [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 | 2023-01-10 |  |
+| [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 | 2023-01-10 | 2024-04-14 |
 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 | 2022-02-14 | 2022-12-28 |
 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 | 2022-02-14 | 2022-11-13 |
 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 | 2022-02-14 | 2022-12-28 |

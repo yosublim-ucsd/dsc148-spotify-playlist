@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1566581,
+  "num_followers": 1566845,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag (2006 Remastered Version)",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 157360,
       "name": "Mannequin - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag (2006 Remastered Version)",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
       },
       "artists": [
         {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1167,6 +1151,22 @@
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Crack",
         "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 155186,
       "name": "Babylon's Burning",
       "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
     },
     {
       "added_at": "2022-11-28 15:26:19",

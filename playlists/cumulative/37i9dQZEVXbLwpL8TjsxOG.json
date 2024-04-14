@@ -4147,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
       },
@@ -10498,7 +10516,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 252746,
       "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
@@ -15152,6 +15170,24 @@
       "duration_ms": 200162,
       "name": "\u9006\u6642\u8eca\u7ad9",
       "url": "https://open.spotify.com/track/2EU1uVEUCgSA5aiBiHJDAk"
+    },
+    {
+      "album": {
+        "name": "\u9047\u4e0a\u4f60\u4e4b\u524d\u7684\u6211",
+        "url": "https://open.spotify.com/album/4hLW7QtnkluNqvZv6nv8ZF"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215947,
+      "name": "\u9047\u4e0a\u4f60\u4e4b\u524d\u7684\u6211",
+      "url": "https://open.spotify.com/track/0zKILlXrocz7TS4EJ16rPt"
     },
     {
       "album": {

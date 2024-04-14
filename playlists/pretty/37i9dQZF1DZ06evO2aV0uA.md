@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,156 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,179 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 30 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
 | 31 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
 | 32 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 |
-| 33 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 33 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 |
 | 34 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
 | 35 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
 | 36 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
-| 37 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 |
+| 37 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
 | 38 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
 | 39 | [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 |
 | 40 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 | 50 | [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDk3YzYxM2UzMjU3NWVjYzMwYzlkYzk0MDYzZWRiYWQw`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGJkNjQ2NzMyZDJlOTE2ODAxZDBiZjg2M2EwNWYyZDI0`

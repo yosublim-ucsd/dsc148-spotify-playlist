@@ -4,7 +4,7 @@
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-107 songs - 6 hr 23 min
+108 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,11 +44,12 @@
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 | 2024-03-26 |
 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 | 2023-04-21 |  |
 | [I Saw You in the Blue](https://open.spotify.com/track/5ub9HfLeox5yJamTvYY1yo) | [People in Dreams](https://open.spotify.com/artist/2NS92kmIbk2cHK4NqhIewu) | [I Saw You in the Blue](https://open.spotify.com/album/2MBVu7t8kW1tjmDOtM7rgY) | 5:42 | 2023-08-10 |  |
-| [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 | 2023-04-21 |  |
+| [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 | 2023-04-21 | 2024-04-14 |
 | [In Your Dreams](https://open.spotify.com/track/5TdDevaXlEl6EEaMNStiVk) | [Million Eyes](https://open.spotify.com/artist/2sXnk24vARe4jxHbd1HbEq) | [In the Wind](https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW) | 1:48 | 2024-03-25 |  |
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2023-04-21 |  |
 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 | 2024-03-25 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-04-21 | 2024-04-13 |
+| [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 | 2024-03-25 |  |
 | [Kaer Morhen](https://open.spotify.com/track/761SMhVKJlJlUCUveNcq1m) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 2:35 | 2024-03-25 |  |
 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 | 2023-04-21 | 2024-03-26 |
 | [Laridé](https://open.spotify.com/track/1L2uumDuOxndZvcBWrQ64w) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 2:03 | 2024-03-25 |  |

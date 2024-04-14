@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,713 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,730 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

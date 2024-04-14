@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 43222,
+  "num_followers": 43242,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDRiODdlNWE1ZjM4MWQ3ZmY3YzdhYzZkYmY3YjgxYTA5",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGQ2YmVlOTA0MWU0OTg1ZTVkMTIzNWQxOGU0OGI4MzE3",
   "tracks": [
     {
       "added_at": null,
@@ -281,7 +281,7 @@
         }
       ],
       "duration_ms": 365706,
-      "name": "Otra Cancio\u0301n Larga",
+      "name": "Otra Canci\u00f3n Larga",
       "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
     },
     {
@@ -354,6 +354,10 @@
         {
           "name": "Aerophon",
           "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        },
+        {
+          "name": "Ecks One",
+          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
         }
       ],
       "duration_ms": 280200,
@@ -370,15 +374,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
     },
     {
       "added_at": null,
@@ -442,11 +442,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
     },
     {
       "added_at": null,
@@ -629,7 +633,7 @@
         }
       ],
       "duration_ms": 230000,
-      "name": "El Salo\u0301n de la Injusticia",
+      "name": "El Sal\u00f3n de la Injusticia",
       "url": "https://open.spotify.com/track/5KCegoON1Q2cvb2ECIuZsa"
     },
     {

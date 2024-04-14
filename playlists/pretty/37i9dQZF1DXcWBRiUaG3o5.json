@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1269822,
+  "num_followers": 1269796,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 336760,
       "name": "Into Dust",
       "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 351309,
-      "name": "Imagining My Man",
-      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Before the Sun",
-        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
+      "duration_ms": 351309,
+      "name": "Imagining My Man",
+      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Before the Sun",
+        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Bare",
+      "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 241946,
       "name": "Silk (feat. Thelma Plum)",
       "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Bare",
-      "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tragedy Reel",
         "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 201028,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sweet Return",
-        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
       "artists": [
         {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 135077,
-      "name": "Sweet Return",
-      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
+      "duration_ms": 198313,
+      "name": "Ain't No Grave (Sparse)",
+      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
     }
   ],
   "unique_name": "Evening Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,682 likes - 86 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,701 likes - 86 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

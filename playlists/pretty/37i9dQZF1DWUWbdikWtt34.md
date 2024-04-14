@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,016 likes - 82 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,056 likes - 82 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

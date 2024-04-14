@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,949 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,003 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 40 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 41 | [Tuesday's Gone](https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 9:05 |
 | 42 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
-| 43 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
-| 44 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
+| 43 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
+| 44 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
 | 45 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 46 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
 | 47 | [Change \(In the House of Flies\) \- Acoustic; 2005 Remaster](https://open.spotify.com/track/0ovy04t3RUHvnkijp62ITq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 5:16 |

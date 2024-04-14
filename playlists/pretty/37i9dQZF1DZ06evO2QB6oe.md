@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This Is Pedro Capó\. Los temas esenciales, todos en una lista.
+> This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,427 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,437 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 11 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 |
 | 12 | [Una Vez Más](https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:08 |
 | 13 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 |
-| 14 | [Himalaya](https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Himalaya](https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk) | 2:48 |
-| 15 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
+| 14 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
+| 15 | [Himalaya](https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Himalaya](https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk) | 2:48 |
 | 16 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
 | 17 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
 | 18 | [5 y 3](https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:34 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 39 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 |
 | 40 | [La Tierra del Olvido \- Find Your Voice](https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Find Your Voice Episode 4: Pedro Capó](https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6) | 1:50 |
 | 41 | [Qué Fuimos \(feat\. Matisse\)](https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:29 |
-| 42 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
-| 43 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
+| 42 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
+| 43 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 44 | [Would You Let Me Go](https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:40 |
 | 45 | [Vivo](https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 4:14 |
 | 46 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Jíbaro](https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:09 |
 | 50 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDA2NWFlMWIwOTg2MzAzMDkxZWQ0NjkwNzYwNGE1ZTU2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGUzYzY2YjEzN2UxMTVhYjEwMmY0ZDVhMjJlMzViNjFm`

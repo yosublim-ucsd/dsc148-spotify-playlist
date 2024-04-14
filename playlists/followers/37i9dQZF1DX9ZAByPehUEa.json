@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 320626,
+  "2024-04-14": 320677,
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
@@ -1622,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Dr. Beat",
+        "url": "https://open.spotify.com/album/7as2R7CC8eDfGGKDwRHnK8"
+      },
+      "artists": [
+        {
+          "name": "Our Anthem",
+          "url": "https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Dr. Beat",
+      "url": "https://open.spotify.com/track/4LGqR3c46NOvbzy0dByfZW"
+    },
+    {
+      "album": {
         "name": "Drowning In Your Love (feat. Jem Cooke)",
         "url": "https://open.spotify.com/album/36YT5gZk5ceqW9DwkxOHad"
       },
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236730,
       "name": "Finally Ready (feat. Billy Porter)",
       "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
@@ -2010,6 +2028,32 @@
     },
     {
       "album": {
+        "name": "Funky And You Know It (Myd Remix)",
+        "url": "https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX"
+      },
+      "artists": [
+        {
+          "name": "Shakedown",
+          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Funky And You Know It - Myd Remix",
+      "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1txMhOhhxpc1qUTusPPU7P"
       },
@@ -2061,6 +2105,24 @@
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
+    },
+    {
+      "album": {
+        "name": "Girl U Got Me",
+        "url": "https://open.spotify.com/album/7HJwfCi0QKm0JgrQt0OVOy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249124,
+      "name": "Girl U Got Me",
+      "url": "https://open.spotify.com/track/4S0iArYbLxLqMff1bFxQvM"
     },
     {
       "album": {
@@ -3609,7 +3671,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
@@ -3711,6 +3773,24 @@
       "duration_ms": 194754,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
+    },
+    {
+      "album": {
+        "name": "Love, Lust & Lofi",
+        "url": "https://open.spotify.com/album/3IjRz2DL6iBGq7CZy8BvXR"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Love, Lust & Lofi",
+      "url": "https://open.spotify.com/track/4rOH5fB52sxSQtNOtKC7Zu"
     },
     {
       "album": {
@@ -4123,7 +4203,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159590,
       "name": "Move Ya",
       "url": "https://open.spotify.com/track/0ef2lnYxjH5R1gIiEb4R6r"
@@ -4307,6 +4387,28 @@
       "duration_ms": 190659,
       "name": "My Angel (feat. Electric Enemy)",
       "url": "https://open.spotify.com/track/3D9se1Wqlrk50LIFtaOEF5"
+    },
+    {
+      "album": {
+        "name": "My Heart Belongs To You (Groove Assassin Remix)",
+        "url": "https://open.spotify.com/album/7s7KBoeDIbP9H4ccn2Enki"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        },
+        {
+          "name": "Groove Assassin",
+          "url": "https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "My Heart Belongs To You - Groove Assassin Remix",
+      "url": "https://open.spotify.com/track/3xPU77RGXHBBqKdWqsqOlK"
     },
     {
       "album": {
@@ -4816,6 +4918,24 @@
     },
     {
       "album": {
+        "name": "Only Tonight",
+        "url": "https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM"
+      },
+      "artists": [
+        {
+          "name": "Karl Wolf",
+          "url": "https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181709,
+      "name": "Only Tonight",
+      "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
+    },
+    {
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/4zRo3cAuIsTTGoSeOJSdGG"
       },
@@ -5067,7 +5187,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -5125,7 +5245,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164699,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/2D3ZdABEh408yqY8Q3lPdO"

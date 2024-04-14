@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Dua Lipa",
-  "num_followers": 373120,
+  "num_followers": 373166,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -62,6 +62,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,

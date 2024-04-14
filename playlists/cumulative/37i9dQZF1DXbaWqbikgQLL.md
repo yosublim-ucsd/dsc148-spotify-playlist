@@ -4,7 +4,7 @@
 
 > Antes de entrar, permita salir.
 
-158 songs - 10 hr 59 min
+159 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Pa Que Me Llames](https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Amor de Locos](https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF) | 4:48 | 2023-11-09 |  |
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2023-11-09 |  |
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2023-11-09 |  |
-| [Perdidos en Pantitlán](https://open.spotify.com/track/3UuQ86ZmedOeHlHJ8d16Y7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:32 | 2023-11-09 |  |
+| [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 | 2023-11-09 |  |
+| [Perdidos en Pantitlán](https://open.spotify.com/track/3UuQ86ZmedOeHlHJ8d16Y7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:32 | 2023-11-09 | 2024-04-14 |
 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2023-11-09 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2023-11-09 |  |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2023-11-09 |  |

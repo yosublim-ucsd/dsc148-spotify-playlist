@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: The Birthday",
-  "num_followers": 282270,
+  "num_followers": 282286,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
-      },
-      "artists": [
-        {
-          "name": "My Hair is Bad",
-          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "\u70c8\u706b",
-        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "\u70c8\u706b",
-      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
       },
       "artists": [
         {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 238543,
-      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 223269,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
         "name": "\u767d\u3044\u30de\u30d5\u30e9\u30fc",
         "url": "https://open.spotify.com/album/1zZMAnL9iu7aydiQGGP0sF"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "kaleido proud fiesta",
-        "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
-      },
-      "artists": [
-        {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "kaleido proud fiesta",
-      "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "miss you",
-        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+        "name": "kaleido proud fiesta",
+        "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
       },
       "artists": [
         {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
         }
       ],
-      "duration_ms": 223269,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
+      "duration_ms": 222666,
+      "name": "kaleido proud fiesta",
+      "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
-      },
-      "artists": [
-        {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "OMOIDE IN MY HEAD 1 ~BEST & B-SIDES~",
         "url": "https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 176173,
       "name": "\u9244\u98a8 \u92ed\u304f\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/1wVMKOP4Gv0hqUE3HgP2ZG"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "Fantasista",
-        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Fantasista",
-      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "Chicken Zombies",
         "url": "https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 276640,
       "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "Fantasista",
+        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Fantasista",
+      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1543,6 +1543,22 @@
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1583,22 +1599,6 @@
       "duration_ms": 342951,
       "name": "I miss your fire",
       "url": "https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
-        "name": "I'M A RAT",
-        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 124719,
-      "name": "I'M A RAT",
-      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
     },
     {
       "added_at": "2024-04-03 14:13:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,536 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,691 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

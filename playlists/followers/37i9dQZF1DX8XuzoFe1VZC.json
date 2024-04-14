@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 525622,
+  "2024-04-14": 525646,
   "date_first_scraped": "2023-04-07",
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
   "name": "Buen D\u00eda :)",
@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -577,6 +595,24 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "album": {
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "bien",
+      "url": "https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482"
     },
     {
       "album": {
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181043,
       "name": "IConic.mp3",
       "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
@@ -1999,6 +2035,24 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -3099,7 +3153,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
@@ -3301,7 +3355,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"

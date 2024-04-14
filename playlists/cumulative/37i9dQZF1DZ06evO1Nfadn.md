@@ -2,9 +2,9 @@
 
 ### [This Is Banda Maguey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Nfadn)
 
-> This Is Banda Maguey\. Los temas esenciales, todos en una lista.
+> This is Banda Maguey\. The essential tracks, all in one playlist.
 
-115 songs - 5 hr 32 min
+116 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Como La Luna](https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 3:01 | 2023-11-10 |  |
 | [Corazon Corazoncito](https://open.spotify.com/track/6rd0Dpq4bZrb5V9ZQhkjar) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:22 | 2022-07-13 | 2022-09-10 |
 | [Corazon De Oro](https://open.spotify.com/track/1Z1zgVs2cRnfigMGvITbzQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 3:25 | 2022-06-01 | 2023-11-11 |
+| [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 | 2024-04-14 |  |
 | [Corazón de Oro](https://open.spotify.com/track/2MBMZ97gVM4TImShPZ23Ey) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 3:22 | 2024-01-09 | 2024-02-17 |
 | [Cumbia Cusinela](https://open.spotify.com/track/2mDmVHxoKuy9S0GUE1GeiW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:20 | 2022-06-01 | 2022-09-29 |
 | [Cuánto Te Quiero](https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 3:09 | 2022-06-01 |  |
@@ -115,7 +116,7 @@
 | [Tu Eterno Enamorado](https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 3:40 | 2023-11-10 |  |
 | [Tu Precio](https://open.spotify.com/track/2pe9uTpq1nSkdOgRmCml8u) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:49 | 2023-11-10 | 2024-03-15 |
 | [Tu Precio](https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:52 | 2022-06-05 | 2023-11-11 |
-| [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 | 2024-04-06 |  |
+| [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 | 2024-04-06 | 2024-04-14 |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 | 2022-06-01 | 2024-02-10 |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:33 | 2024-02-09 |  |
 | [Tumbando Caña \- Live Version](https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:09 | 2023-11-10 |  |

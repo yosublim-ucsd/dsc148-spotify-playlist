@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
-  "num_followers": 167817,
+  "num_followers": 167829,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "S\u00f3 por Hoje",
+        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
+      },
+      "artists": [
+        {
+          "name": "Papu",
+          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "S\u00f3 por Hoje",
+      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Victoria's Secrets",
         "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "S\u00f3 por Hoje",
-        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
-      },
-      "artists": [
-        {
-          "name": "Papu",
-          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "S\u00f3 por Hoje",
-      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -687,30 +687,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Voz De Um Querubim",
-        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
-      },
-      "artists": [
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Canguru",
-          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
-        },
-        {
-          "name": "Macena288",
-          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Voz De Um Querubim",
-      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 218048,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Voz De Um Querubim",
+        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
+      },
+      "artists": [
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Canguru",
+          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
+        },
+        {
+          "name": "Macena288",
+          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Voz De Um Querubim",
+      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s"
       },
       "artists": [
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
         }
       ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s"
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
       "artists": [
         {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI"
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1383,6 +1383,26 @@
       "duration_ms": 153371,
       "name": "Pode Ir",
       "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Daqui pra Frente - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Daqui pra Frente - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1491,26 +1511,6 @@
       "duration_ms": 145573,
       "name": "O Brilho Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Daqui pra Frente - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Daqui pra Frente - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
     },
     {
       "added_at": "2024-04-12 03:01:00",

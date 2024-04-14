@@ -2,9 +2,9 @@
 
 ### [This Is Banda Bostik](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr)
 
-> This is Banda Bostik\. The essential tracks, all in one playlist.
+> This Is Banda Bostik\. Los temas esenciales, todos en una lista.
 
-60 songs - 4 hr 29 min
+61 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [El Adiós de un Alcohólico](https://open.spotify.com/track/7cBzB83d9uSfzaHjQ9LJzj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:00 | 2023-01-14 |  |
 | [El o Ella](https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 4:37 | 2023-01-14 |  |
 | [El Sexo Opuesto y Su Realidad](https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:19 | 2023-01-14 |  |
+| [El Vigilante](https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 4:01 | 2024-04-14 |  |
 | [Exceso de Droga](https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:46 | 2023-01-14 |  |
 | [Exceso de Drogas \- En Vivo](https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 1](https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD) | 6:30 | 2023-01-14 |  |
 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 | 2023-01-14 |  |
@@ -36,7 +37,7 @@
 | [Jesús de Nazaret](https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 7:12 | 2023-01-14 |  |
 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 | 2023-01-14 |  |
 | [La Calle y Yo](https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:36 | 2023-01-14 |  |
-| [La Llorona](https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:59 | 2023-01-14 |  |
+| [La Llorona](https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:59 | 2023-01-14 | 2024-04-14 |
 | [Leyenda Viviente](https://open.spotify.com/track/2G8x0YmrQKLCqsG57QtURS) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viva México Cab..., Vol\. 1](https://open.spotify.com/album/1v4EHHcvOU73UE4zUKX3zh) | 5:41 | 2023-01-14 | 2023-01-26 |
 | [Llamarada de Petate](https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:19 | 2023-01-14 |  |
 | [Malas Noticias](https://open.spotify.com/track/69RxGJRqsvpR92VnkETnNq) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:43 | 2023-01-14 | 2024-03-01 |

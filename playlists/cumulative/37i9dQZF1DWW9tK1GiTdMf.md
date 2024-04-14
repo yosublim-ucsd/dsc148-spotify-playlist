@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Sillyelly, GionnyScandal, AleXX iSt4r in cover
 
-891 songs - 1 day 17 hr 5 min
+892 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,7 +604,8 @@
 | [PAZZI](https://open.spotify.com/track/6JTpvkizylDkub8S8SQC6e) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [PAZZI](https://open.spotify.com/album/7h21UJ5KrTtdXYWqhh88bA) | 2:51 | 2024-04-11 |  |
 | [PEGGIO X ME](https://open.spotify.com/track/4wf7JDYqfgerUSm7o5D5Xj) | [LIL CIU](https://open.spotify.com/artist/1gIo0q3Sj8MHi9DRqiOJlW) | [PEGGIO X ME](https://open.spotify.com/album/0Ty4csTDjqi50rfMUECSR4) | 2:16 | 2023-12-14 | 2024-01-19 |
 | [penso a te](https://open.spotify.com/track/7jvDfz3I1JZYOaW4c5plrc) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [penso a te](https://open.spotify.com/album/1ezAixItQx43roebtin0Bc) | 2:22 | 2022-09-22 | 2023-01-13 |
-| [Pepsi & Coca](https://open.spotify.com/track/0RWIowbjnc4RkIGLkR0N9h) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/6VHmqfHzv5ln7pHg11TWQd) | 2:04 | 2024-02-15 |  |
+| [Pepsi & Coca](https://open.spotify.com/track/0RWIowbjnc4RkIGLkR0N9h) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/6VHmqfHzv5ln7pHg11TWQd) | 2:04 | 2024-02-15 | 2024-04-14 |
+| [Pepsi & Coca](https://open.spotify.com/track/3dGhOC4QbPjAGHdUaOCP3Q) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D) | 2:04 | 2024-04-11 |  |
 | [Per te](https://open.spotify.com/track/0QRls3tUqyFiJ91HYeNDzK) | [Rcode](https://open.spotify.com/artist/3CqesCrl4ZiZznwKhlR1UO) | [DOVREI SMETTERLA](https://open.spotify.com/album/5hAJBqhDbifamw6HP2Imxz) | 2:38 | 2022-09-09 | 2022-12-24 |
 | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF) | 2:22 | 2023-01-19 | 2023-09-15 |
 | [Perdonami Lacie](https://open.spotify.com/track/0IMInGP8WJKzYnriAbIYJJ) | [Nessie](https://open.spotify.com/artist/3TLxw4MtyKKz9Gl8aWLR74) | [Perdonami Lacie](https://open.spotify.com/album/5hV9INuNkuC9BMXef78I4O) | 3:01 | 2024-01-04 | 2024-01-12 |

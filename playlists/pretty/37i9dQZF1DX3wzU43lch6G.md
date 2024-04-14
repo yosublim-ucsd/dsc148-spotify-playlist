@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,062 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,064 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 14 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 |
 | 15 | [AHŞAP DÜŞLERİM](https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 2:40 |
 | 16 | [Güneşe Dokundum](https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Tepeler](https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z) | 2:53 |
-| 17 | [Sakın Gelme](https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [M.V.A.B](https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W) | 2:49 |
-| 18 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |
+| 17 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |
+| 18 | [Sakın Gelme](https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [M.V.A.B](https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W) | 2:49 |
 | 19 | [Gidenlerden](https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gölgede Aynı](https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT) | 3:56 |
 | 20 | [Bu Böyle](https://open.spotify.com/track/5pTksaP35b9wuqxKtDtSsi) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Rengarenk](https://open.spotify.com/album/2Olkwck5v3eQcUxFfSV6AI) | 4:48 |
 | 21 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 34 | [Yalnız Ölmek](https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO) | [Can Güngör](https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN) | [Yalnız Ölmek](https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh) | 3:47 |
 | 35 | [Dedikodu](https://open.spotify.com/track/4JVVy6F29ms0u0MBDQsfRN) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 4:52 |
 | 36 | [Şarkı Söylemek Lazım](https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Şarkı Söylemek Lazım](https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU) | 4:20 |
-| 37 | [Selam](https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw) | 4:25 |
-| 38 | [Tutamıyorum Zamanı](https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Ex Aşkım](https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL) | 3:57 |
+| 37 | [Tutamıyorum Zamanı](https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Ex Aşkım](https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL) | 3:57 |
+| 38 | [Selam](https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw) | 4:25 |
 | 39 | [Aşk Yeniden](https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR) | [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3) | [Her Dem Yeni \(Yirmi Seçilmiş Şarkı\)](https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX) | 2:49 |
 | 40 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |
 | 41 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |

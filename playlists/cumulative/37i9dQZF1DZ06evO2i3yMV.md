@@ -2,7 +2,7 @@
 
 ### [This Is TOKiMONSTA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2i3yMV)
 
-> This Is TOKiMONSTA\. Los temas esenciales, todos en una lista.
+> This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
 118 songs - 6 hr 41 min
 
@@ -76,7 +76,7 @@
 | [Naked](https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT) | 3:38 | 2023-05-02 | 2024-02-05 |
 | [NO WAY](https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [NO WAY](https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x) | 3:24 | 2024-02-10 |  |
 | [NO WAY \(feat\. Isaiah Rashad, Joey Purp & Ambré\)](https://open.spotify.com/track/5p4drVwua5J1BYgqhrMwWa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:24 | 2023-05-02 | 2024-02-11 |
-| [Nxt Msg \- Deletion Mix](https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:51 | 2023-12-13 |  |
+| [Nxt Msg \- Deletion Mix](https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:51 | 2023-12-13 | 2024-04-14 |
 | [One Day](https://open.spotify.com/track/49yOipgBqVcy12sDicoaa3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:30 | 2024-03-09 | 2024-03-12 |
 | [Penny](https://open.spotify.com/track/0fDwiIESCD4DHUiZ7N7EwP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:05 | 2023-05-02 | 2023-08-10 |
 | [Penny](https://open.spotify.com/track/7HK2Wxzxn7PIDTpYRJbkh1) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:05 | 2024-02-29 | 2024-04-06 |
@@ -106,7 +106,7 @@
 | [Soul to Seoul](https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:29 | 2023-05-02 | 2024-01-05 |
 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 | 2024-01-19 |  |
 | [Starlight Lace](https://open.spotify.com/track/6sB4yuAwsgiWSgOpheHtjI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:15 | 2023-05-02 | 2023-06-09 |
-| [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 | 2024-03-03 | 2024-04-13 |
+| [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 | 2024-03-03 |  |
 | [Steal My Attention](https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 4:20 | 2024-02-08 |  |
 | [Steal My Attention](https://open.spotify.com/track/3F2Vq9ZHzNZmHMBuaf4LcP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 4:20 | 2023-05-02 | 2024-02-09 |
 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 | 2023-05-02 |  |

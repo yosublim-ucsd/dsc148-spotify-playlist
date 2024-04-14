@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,837 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,021 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 30 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 |
 | 31 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 32 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
-| 33 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
-| 34 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
+| 33 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 |
+| 34 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
 | 35 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 36 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 |
 | 37 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |

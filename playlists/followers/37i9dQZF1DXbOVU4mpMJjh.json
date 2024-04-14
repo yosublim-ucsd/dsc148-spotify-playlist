@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 811454,
+  "2024-04-14": 811478,
   "date_first_scraped": "2022-04-20",
   "description": "Relax to gentle vocal and instrumental Jazz.",
   "name": "Jazz Relax",
@@ -5732,6 +5732,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Dreams",
+        "url": "https://open.spotify.com/album/16MmXj3fiV9bMQIsjS8ePq"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372670,
+      "name": "Follow Your Dreams",
+      "url": "https://open.spotify.com/track/01bEWq2e6LPEn8pJIZabCo"
+    },
+    {
+      "album": {
         "name": "Food is the dream",
         "url": "https://open.spotify.com/album/5yzCocNQq9wnxBlQ6YFcOq"
       },
@@ -7765,7 +7783,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 323749,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE"
@@ -12037,7 +12055,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 283429,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/7zLJoMkTqAZMfQOfRorCEc"
@@ -17080,6 +17098,24 @@
     },
     {
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/03pR8vKHBYoHJaiaEUzh3d"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4g7dvHTmHnsr4buNGeAwOJ"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa"
       },
@@ -17708,6 +17744,24 @@
     },
     {
       "album": {
+        "name": "The Lights of Macau",
+        "url": "https://open.spotify.com/album/1GwNlrl01klcC23K1fTWHR"
+      },
+      "artists": [
+        {
+          "name": "George Kuntz Four",
+          "url": "https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "The Lights of Macau",
+      "url": "https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l"
+    },
+    {
+      "album": {
         "name": "Suite for Siena",
         "url": "https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx"
       },
@@ -17875,7 +17929,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 223086,
       "name": "The Old Days",
       "url": "https://open.spotify.com/track/1YdjDIUhPv0YlyDOzGv8cN"
@@ -17915,6 +17969,24 @@
       "duration_ms": 170928,
       "name": "The Party's Over",
       "url": "https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP"
+    },
+    {
+      "album": {
+        "name": "The Promise of Spring",
+        "url": "https://open.spotify.com/album/4DGprWZfEGxxxHU0HLmxiG"
+      },
+      "artists": [
+        {
+          "name": "West Village Trio",
+          "url": "https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318107,
+      "name": "The Promise of Spring",
+      "url": "https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7"
     },
     {
       "album": {
@@ -18193,7 +18265,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1GnvtqOpLvbQsw1nP71TP3"

@@ -1,6 +1,6 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1037252,
+  "num_followers": 1037278,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1095,6 +1075,26 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1591,22 +1607,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "THIS IS... ICONA POP",
-        "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "I Love It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "We See The Same Sun",
         "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 218733,
       "name": "Coco Jamboo",
       "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Songs From Dawson's Creek, Vol. II",
-        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Heavy Metal Love",
         "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 132000,
       "name": "Heavy Metal Love",
       "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Narcotic",
         "url": "https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 236150,
       "name": "Narcotic - Radio Edit",
       "url": "https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2024-01-08 09:47:24",

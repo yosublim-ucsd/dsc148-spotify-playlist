@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Rina Sawayama & CHANMINA, XG, OneRepublic, aiko and more! cover: Rina Sawayama & CHANMINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,735 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,801 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 2 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
 | 3 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
-| 4 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 4 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 5 | [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 |
 | 6 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 |
 | 7 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |

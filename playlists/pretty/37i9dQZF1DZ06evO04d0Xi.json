@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 71357,
+  "num_followers": 71362,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGQ3ODM1OGNiYTQ4MTAzY2RkNjg1NzhjMWNjZGIxMWUy",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDYwNTcxZTVkZDA3N2YzNDEyM2ZkMmMxNzYyM2FiY2Fk",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 301255,
-      "name": "Rasgando o Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apenas um Toque",
         "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 420234,
       "name": "Apenas um Toque",
       "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 301255,
+      "name": "Rasgando o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
     },
     {
       "added_at": null,
@@ -735,6 +735,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Thyago Fersil",
+          "url": "https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Marquinhos Menezes",
+          "url": "https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2"
+        },
+        {
+          "name": "Lilian Azevedo",
+          "url": "https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N"
+        },
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Emerson Pinheiro",
+          "url": "https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Pastor",
+      "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
       },
@@ -803,70 +867,6 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Thyago Fersil",
-          "url": "https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta"
-        },
-        {
-          "name": "Jairo Bonfim",
-          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        },
-        {
-          "name": "Cleyde Jane",
-          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
-        },
-        {
-          "name": "Marquinhos Menezes",
-          "url": "https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2"
-        },
-        {
-          "name": "Lilian Azevedo",
-          "url": "https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N"
-        },
-        {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        },
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Emerson Pinheiro",
-          "url": "https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw"
-        },
-        {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Pastor",
-      "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
     },
     {
       "added_at": null,

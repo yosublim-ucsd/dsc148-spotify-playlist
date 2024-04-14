@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 193004,
+  "2024-04-14": 193009,
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: HYBS.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: The Marias.",
   "name": "borderless",
   "tracks": [
     {
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "A Tu Modo",
+        "url": "https://open.spotify.com/album/1BjksGyN9EwHWXsTm36uzC"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180245,
+      "name": "A Tu Modo",
+      "url": "https://open.spotify.com/track/4gW9sb9atLvjzNA0BUDX71"
+    },
+    {
+      "album": {
         "name": "A veces caigo",
         "url": "https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd"
       },
@@ -413,6 +431,28 @@
       "duration_ms": 163413,
       "name": "Action Figures Fighting",
       "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2qbRiJO6Qi4kJ7RNIcGfCQ"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160100,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7Lsf0sutIM9n4D0qXnEKWN"
     },
     {
       "album": {
@@ -747,7 +787,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155750,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
@@ -1079,7 +1119,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183480,
       "name": "Arrivera",
       "url": "https://open.spotify.com/track/1V8NxnKF9QwScfcDD5TyBk"
@@ -1947,7 +1987,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224347,
       "name": "cansada de ti",
       "url": "https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3"
@@ -2523,6 +2563,24 @@
       "duration_ms": 193224,
       "name": "Ciudad Espanto",
       "url": "https://open.spotify.com/track/1LaVxGRKECxCucel5Gs8tt"
+    },
+    {
+      "album": {
+        "name": "Clair-obscur",
+        "url": "https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ"
+      },
+      "artists": [
+        {
+          "name": "En St\u00e9r\u00e9o",
+          "url": "https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Clair-obscur",
+      "url": "https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT"
     },
     {
       "album": {
@@ -3251,7 +3309,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229250,
       "name": "Deep Water",
       "url": "https://open.spotify.com/track/4R6UhWHF43JrvSa7B69iEU"
@@ -4860,6 +4918,24 @@
     },
     {
       "album": {
+        "name": "Fana",
+        "url": "https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS"
+      },
+      "artists": [
+        {
+          "name": "Bank",
+          "url": "https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254015,
+      "name": "Fana",
+      "url": "https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD"
+    },
+    {
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/4jEBsdVo24FkbfSlctvoJI"
       },
@@ -4977,6 +5053,24 @@
       "duration_ms": 207272,
       "name": "FEBRER // AGOST",
       "url": "https://open.spotify.com/track/2P4prMGJNim5CC6pJlvxXl"
+    },
+    {
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "album": {
@@ -8754,6 +8848,24 @@
     },
     {
       "album": {
+        "name": "Matcha Queen",
+        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190761,
+      "name": "Matcha Queen",
+      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
+    },
+    {
+      "album": {
         "name": "Mavrud",
         "url": "https://open.spotify.com/album/1lmD2vPPJhASKWkRiGc7oG"
       },
@@ -9396,7 +9508,7 @@
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148250,
+      "duration_ms": 146551,
       "name": "Mrs. Valentine",
       "url": "https://open.spotify.com/track/5wDjQFHYkPL8q8lFWzvVLf"
     },
@@ -11029,7 +11141,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 267625,
       "name": "Perfect Dream",
       "url": "https://open.spotify.com/track/6XeNeGPxqh4zd2SMyCy5EO"
@@ -11384,6 +11496,28 @@
     },
     {
       "album": {
+        "name": "Pretense",
+        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Pretense",
+      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
+    },
+    {
+      "album": {
         "name": "Primer encuentro",
         "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
       },
@@ -11659,7 +11793,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189694,
       "name": "Quiet [from the Netflix Film \u2018Heart of Stone\u2019]",
       "url": "https://open.spotify.com/track/0ir6hnTJdwudrna8HJSHPN"
@@ -11677,7 +11811,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185421,
       "name": "Qu\u00e9 tal? Yo igual",
       "url": "https://open.spotify.com/track/02eIIs3O0G6xY7JbYYJqHY"
@@ -12295,7 +12429,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 134036,
       "name": "Sadie Hawkins Prom",
       "url": "https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h"
@@ -12317,7 +12451,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217849,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
@@ -13019,7 +13153,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161081,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0LLsfeo4VRuHHlaWkNVpBI"
@@ -13996,6 +14130,28 @@
     },
     {
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T"
+      },
+      "artists": [
+        {
+          "name": "Daveny",
+          "url": "https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3"
+        },
+        {
+          "name": "tugi ndichu",
+          "url": "https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252017,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
+    },
+    {
+      "album": {
         "name": "Tamte Dni",
         "url": "https://open.spotify.com/album/2AKkXkmdts8cgaDNhC5DoG"
       },
@@ -14309,7 +14465,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 248916,
       "name": "The Gentleman",
       "url": "https://open.spotify.com/track/696ZECw5HJSy9nMpMhkB9n"
@@ -15065,6 +15221,24 @@
       "duration_ms": 142997,
       "name": "T\u00fa y Yo, un Barco y el Mar",
       "url": "https://open.spotify.com/track/47xL1NHsaK0FzEpKe7jUiZ"
+    },
+    {
+      "album": {
+        "name": "u should be here",
+        "url": "https://open.spotify.com/album/5YkiZSNGP3vVbkJpOIphV1"
+      },
+      "artists": [
+        {
+          "name": "Tamir",
+          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "u should be here",
+      "url": "https://open.spotify.com/track/13o1kBv29mYQGdAY5vrMDH"
     },
     {
       "album": {

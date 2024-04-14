@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 151168,
+  "2024-04-14": 151231,
   "date_first_scraped": "2022-05-26",
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
   "name": "Amor Tropical",
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205480,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
@@ -2033,6 +2033,28 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+    },
+    {
+      "album": {
+        "name": "Retrom\u00e1ntico",
+        "url": "https://open.spotify.com/album/6TkAh6TSdd1N2cHOmN8NMh"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267465,
+      "name": "Vamos a Romper la Noche (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/63gMNTJiJpf0MNceQaoZWL"
     },
     {
       "album": {

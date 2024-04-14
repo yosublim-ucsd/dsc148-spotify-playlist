@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 34941,
+  "2024-04-14": 34967,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 420559,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 341200,
       "name": "Are We Dreaming",
       "url": "https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC"
@@ -909,6 +909,24 @@
       "duration_ms": 255483,
       "name": "Collide",
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
+    },
+    {
+      "album": {
+        "name": "Come Right Back EP",
+        "url": "https://open.spotify.com/album/5RokEMqMKMwoN7F4mFA4IF"
+      },
+      "artists": [
+        {
+          "name": "Nick Curly",
+          "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400187,
+      "name": "Come Right Back",
+      "url": "https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj"
     },
     {
       "album": {
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 138750,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
@@ -2092,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "For The Music, Pt. 2",
+        "url": "https://open.spotify.com/album/5V6ltIRpsRzqYsgxnRYWlu"
+      },
+      "artists": [
+        {
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Hooky - LDN Dub Mix",
+      "url": "https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg"
+    },
+    {
+      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -2455,6 +2491,46 @@
       "duration_ms": 178609,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
+      "album": {
+        "name": "Lay Back EP",
+        "url": "https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB"
+      },
+      "artists": [
+        {
+          "name": "AG Swifty",
+          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
+        },
+        {
+          "name": "Brad Brunner",
+          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234492,
+      "name": "Lay Back",
+      "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
+    },
+    {
+      "album": {
+        "name": "One Hundred",
+        "url": "https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303149,
+      "name": "Lezzgo",
+      "url": "https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE"
     },
     {
       "album": {
@@ -3463,7 +3539,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
@@ -4320,6 +4396,32 @@
     },
     {
       "album": {
+        "name": "Snap, Crackle & Pop",
+        "url": "https://open.spotify.com/album/038YicJOoNn0WR1e9WbJbb"
+      },
+      "artists": [
+        {
+          "name": "Mallin",
+          "url": "https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv"
+        },
+        {
+          "name": "Sam Dexter",
+          "url": "https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty"
+        },
+        {
+          "name": "Tom Savage",
+          "url": "https://open.spotify.com/artist/6mTbAkUgtIjaYiqHIpxwRd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148005,
+      "name": "Snap, Crackle & Pop",
+      "url": "https://open.spotify.com/track/7hXec0ZsWTIyyKRqj6EDbM"
+    },
+    {
+      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
       },
@@ -4545,6 +4647,24 @@
       "duration_ms": 379218,
       "name": "street knowledge.",
       "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+    },
+    {
+      "album": {
+        "name": "Strictly Ruffneck (Come Again)",
+        "url": "https://open.spotify.com/album/6GP5G8aPWZgBmyOf5Wv7rJ"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344674,
+      "name": "Strictly Ruffneck (Come Again)",
+      "url": "https://open.spotify.com/track/2tMKcXPjZ99DvFYBUd7k1t"
     },
     {
       "album": {
@@ -4809,7 +4929,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
@@ -5545,7 +5665,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 315721,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/4etgCTIbvjFIJn4KpXjn75"
@@ -5607,7 +5727,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
@@ -5843,7 +5963,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"

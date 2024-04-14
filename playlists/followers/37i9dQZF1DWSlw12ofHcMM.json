@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1348006,
+  "2024-04-14": 1348057,
   "date_first_scraped": "2021-12-21",
   "description": "Bold tracks packing some serious swagger.",
   "name": "Swagger",
@@ -1501,10 +1501,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 218778,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2"
+    },
+    {
+      "album": {
+        "name": "Little Seeds",
+        "url": "https://open.spotify.com/album/1riYBXP7CjURNDdbltWjpF"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218778,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7ABX92bwePPIXzUyESWznM"
     },
     {
       "album": {
@@ -1937,10 +1955,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214266,
       "name": "LUCKY PENNY",
       "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
+    },
+    {
+      "album": {
+        "name": "UNDIVIDED HEART & SOUL",
+        "url": "https://open.spotify.com/album/4tqTkXi6AvexkQU5qEB2eJ"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "LUCKY PENNY",
+      "url": "https://open.spotify.com/track/5szOfM7kagFfpqaqBZdq9y"
     },
     {
       "album": {
@@ -2489,6 +2525,24 @@
     {
       "album": {
         "name": "All Or Nothin'",
+        "url": "https://open.spotify.com/album/6tqZCVnzKF30h3qnIdD0aa"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/0uav8CsdDPNfe4SibmsMbK"
+    },
+    {
+      "album": {
+        "name": "All Or Nothin'",
         "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
       },
       "artists": [
@@ -2499,7 +2553,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"

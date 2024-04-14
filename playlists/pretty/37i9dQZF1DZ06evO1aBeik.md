@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652,397 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652,643 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 50 | [Joy](https://open.spotify.com/track/4kD3OqYqX2kJCUTEscRBxO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN \(Bonus\)](https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC) | 4:47 |
 | 51 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDI2MGI2NjkyYTE4NWU5YmQ4N2I5OTM1ZTU0MmUzNDQ1`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDM0MDNjNDFhMTQ0NDVjY2MxMThmYWM4YjhmMmI4ODkw`

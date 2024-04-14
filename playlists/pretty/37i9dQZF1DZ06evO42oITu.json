@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eric Clapton. Los temas esenciales, todos en una lista.",
-  "num_followers": 346637,
+  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
+  "num_followers": 346708,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGVmOGY1NmQ5OThlMzhlNTQ3ODhkYmJlODY2MDRkMTMw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDlkOTA3YjQ4ZjZjNjkwMjUwMTU3NmExYmVjMGYwOGI5",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+        "name": "B.B. King & Friends - 80",
+        "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
       },
       "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+      "duration_ms": 301453,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8"
     },
     {
       "added_at": null,
@@ -379,48 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.B. King & Friends - 80",
-        "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301453,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
       "artists": [
         {
@@ -428,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 186534,
-      "name": "They Call Me The Breeze",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
     },
     {
       "added_at": null,
@@ -451,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 186534,
+      "name": "They Call Me The Breeze",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -464,29 +444,9 @@
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Your Love (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "For Your Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
     },
     {
       "added_at": null,
@@ -523,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 471546,
+      "name": "Old Love - Acoustic Live",
+      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -536,25 +512,9 @@
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 471546,
-      "name": "Old Love - Acoustic Live",
-      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+      "duration_ms": 516533,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     },
     {
       "added_at": null,
@@ -611,6 +571,26 @@
       "duration_ms": 332773,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
     },
     {
       "added_at": null,
@@ -963,6 +943,26 @@
       "duration_ms": 206466,
       "name": "Please Be With Me",
       "url": "https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3"
     }
   ],
   "unique_name": "This Is Eric Clapton",

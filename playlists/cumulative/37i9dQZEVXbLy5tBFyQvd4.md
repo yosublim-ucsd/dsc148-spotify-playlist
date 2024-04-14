@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-758 songs - 1 day 18 hr 25 min
+759 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,8 @@
 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 | 2023-04-17 | 2023-04-23 |
 | [PRC](https://open.spotify.com/track/0cNSq9T5l8gZnpY14rsTR2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:04 | 2023-07-01 | 2023-12-26 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-01-28 | 2023-07-02 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-05-20 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-05-20 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-13 |  |
 | [PROBLEMA](https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PROBLEMA](https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ) | 3:04 | 2021-03-27\* | 2021-04-03 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-01-15 | 2022-04-11 |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2022-01-02 | 2022-01-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 17629,
+  "2024-04-14": 17659,
   "date_first_scraped": "2021-12-29",
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA\">Prime Circle</a>",
   "name": "SA Rock ",
@@ -3105,7 +3105,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238403,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau"
@@ -5647,6 +5647,24 @@
       "duration_ms": 333382,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf"
+    },
+    {
+      "album": {
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
       "album": {

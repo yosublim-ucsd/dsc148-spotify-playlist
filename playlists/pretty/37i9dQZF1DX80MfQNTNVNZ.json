@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 178707,
+  "num_followers": 178793,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -1091,26 +1091,22 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         },
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -1143,22 +1139,26 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         },
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     }
   ],
   "unique_name": "aloe",

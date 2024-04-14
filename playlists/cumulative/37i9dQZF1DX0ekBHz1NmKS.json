@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 195351,
       "name": "Always Ballin",
       "url": "https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm"
@@ -4340,7 +4340,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195488,
-      "name": "Dr\u00f6mf\u00e5ngare",
+      "name": "DR\u00d6MF\u00c5NGARE",
       "url": "https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO"
     },
     {
@@ -8657,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "H\u00e5ll om mig",
+        "url": "https://open.spotify.com/album/7dFZX0d5gXDqDygckfzdNj"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126270,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/1LfdHoC7x7kECo4I9CGzzT"
+    },
+    {
+      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -10140,7 +10158,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 199090,
       "name": "Kanske blir b\u00e4st",
       "url": "https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT"
@@ -14248,7 +14266,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 213320,
       "name": "Parking Lot Sunset",
       "url": "https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX"
@@ -14461,6 +14479,24 @@
     },
     {
       "album": {
+        "name": "Poor Symmetry / Cities",
+        "url": "https://open.spotify.com/album/624PNGP795hhIwigo5ixXg"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121760,
+      "name": "Poor Symmetry",
+      "url": "https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX"
+    },
+    {
+      "album": {
         "name": "Poppade en till",
         "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
       },
@@ -14548,6 +14584,28 @@
       "duration_ms": 206026,
       "name": "Psykopat",
       "url": "https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/12TTHRtAWiupn7QvztX3Wz"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "Punch Drunk",
+      "url": "https://open.spotify.com/track/1mqShE89njPhEE5HzxMOKU"
     },
     {
       "album": {

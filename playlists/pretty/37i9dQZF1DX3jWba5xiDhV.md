@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,602 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,937 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 9 | [I Like Chopin](https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Portrait](https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I) | 4:51 |
 | 10 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 |
 | 11 | [Faces \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/7zUkx37JJ7iz3ru4Y7Zd26) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Faces \(2020 Remaster\)](https://open.spotify.com/album/35u7IKBpYEhxpKO86BVZmn) | 5:40 |
-| 12 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
-| 13 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 |
+| 12 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 |
+| 13 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 14 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 |
 | 15 | [Insieme](https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Insieme](https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm) | 3:05 |
 | 16 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |

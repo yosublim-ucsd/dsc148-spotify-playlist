@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 390289,
+  "num_followers": 390385,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
       "artists": [
         {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
         }
       ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1079,34 +1079,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+        "name": "There's a Light",
+        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
       },
       "artists": [
         {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
         }
       ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
+      "duration_ms": 277675,
+      "name": "Empty Me Out",
+      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2024-03-01 05:00:00",

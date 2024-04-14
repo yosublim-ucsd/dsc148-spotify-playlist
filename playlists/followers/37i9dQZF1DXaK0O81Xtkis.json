@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 214280,
+  "2024-04-14": 214295,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: Glass Animals",
   "name": "soda",
@@ -3868,6 +3868,24 @@
     },
     {
       "album": {
+        "name": "the lows",
+        "url": "https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213577,
+      "name": "dive bar",
+      "url": "https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX"
+    },
+    {
+      "album": {
         "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
         "url": "https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4"
       },
@@ -6871,6 +6889,24 @@
       "duration_ms": 143573,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
+    },
+    {
+      "album": {
+        "name": "Heron",
+        "url": "https://open.spotify.com/album/75FDoESZuozw9thPEuevA0"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179073,
+      "name": "how well do you know your feelings?",
+      "url": "https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz"
     },
     {
       "album": {
@@ -10012,6 +10048,24 @@
     },
     {
       "album": {
+        "name": "Mile Away",
+        "url": "https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206112,
+      "name": "Mile Away",
+      "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
+    },
+    {
+      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8"
       },
@@ -12005,6 +12059,24 @@
       "duration_ms": 236416,
       "name": "Play With Fire (feat. Frances Forever)",
       "url": "https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t"
+    },
+    {
+      "album": {
+        "name": "Player Two (From \"Don't Tell Mom The Babysitter's Dead\")",
+        "url": "https://open.spotify.com/album/0GxnxrbsXmDiAnUcM1hGwI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158057,
+      "name": "Player Two - From \"Don't Tell Mom The Babysitter's Dead\"",
+      "url": "https://open.spotify.com/track/2k9cIkCVD4zotzFL6xj6hg"
     },
     {
       "album": {
@@ -16712,6 +16784,24 @@
     },
     {
       "album": {
+        "name": "When I\u2019m Leavin\u2019",
+        "url": "https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152073,
+      "name": "When I\u2019m Leavin\u2019",
+      "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
+    },
+    {
+      "album": {
         "name": "When The World Was Mine",
         "url": "https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M"
       },
@@ -17279,6 +17369,42 @@
       "duration_ms": 174196,
       "name": "Yard Sale",
       "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
+    },
+    {
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
+    },
+    {
+      "album": {
+        "name": "Yellow Dresser",
+        "url": "https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204136,
+      "name": "Yellow Dresser",
+      "url": "https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj"
     },
     {
       "album": {

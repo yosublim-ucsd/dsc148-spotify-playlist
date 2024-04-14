@@ -4,7 +4,7 @@
 
 > Le meilleur des années 80 en 80 titres.
 
-94 songs - 6 hr 30 min
+95 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2023-08-18 |  |
 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 | 2023-08-18 |  |
 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 | 2023-11-16 |  |
-| [Maniac \- From "Flashdance"](https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 4:06 | 2023-08-18 |  |
+| [Maniac \- From "Flashdance"](https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 4:06 | 2023-08-18 | 2024-04-14 |
+| [Maniac \- From "Flashdance" Soundtrack](https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:07 | 2024-01-17 |  |
 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 | 2023-08-18 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-08-18 | 2023-11-17 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2023-11-16 |  |

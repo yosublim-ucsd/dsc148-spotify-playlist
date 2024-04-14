@@ -2,7 +2,7 @@
 
 ### [This Is Sergio Vega "El Shaka"](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z)
 
-> This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
+> This Is Sergio Vega "El Shaka"\. Los temas esenciales, todos en una lista.
 
 73 songs - 3 hr 57 min
 
@@ -10,14 +10,14 @@
 |---|---|---|---|---|---|
 | [Alineando Cabrones \- En Vivo](https://open.spotify.com/track/7dvkjvHPjiKhVoZrl7HfQo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [En Vivo \- Fiesta Privada](https://open.spotify.com/album/59BaFl2GHwAHNkkdvOvhAc) | 5:04 | 2024-01-09 | 2024-01-13 |
 | [Amiga](https://open.spotify.com/track/7supUJMhpPfMQHMUBPvXsl) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:18 | 2022-08-07 | 2022-12-17 |
-| [Arcoiris](https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Plaza Nueva](https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7) | 3:38 | 2024-04-09 |  |
+| [Arcoiris](https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Plaza Nueva](https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7) | 3:38 | 2024-04-09 | 2024-04-14 |
 | [Atraves de la Luna](https://open.spotify.com/track/3jvqC6Y2Ory7D6ijAOj6MP) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 3:33 | 2022-06-01 | 2024-01-07 |
 | [Cartera Perdida](https://open.spotify.com/track/4EZFnkhOnDCxnSbw6tM8w8) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 2:56 | 2022-06-01 | 2024-01-07 |
 | [Como la Lluvia](https://open.spotify.com/track/0KHmN9FByUeQ0FEKbmOPPF) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:52 | 2024-01-06 |  |
 | [Con Olor a Hierba](https://open.spotify.com/track/3ER1xaSXSAjfOrbBYlXll7) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 3:37 | 2022-06-01 | 2024-01-07 |
 | [Contigo o Sin Ti](https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Con Tuba, Guitarras y Accordeon](https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE) | 3:24 | 2022-06-01 |  |
 | [Corazón de Oropel](https://open.spotify.com/track/38vsB0FOAILEKHDwXgERIT) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Dueño De Tí...Lo Mejor De El Shaka](https://open.spotify.com/album/5eSL5zx5C2yRTUR0P6GQMm) | 2:42 | 2022-06-01 |  |
-| [Cosas del Amor](https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:19 | 2022-06-01 | 2024-04-09 |
+| [Cosas del Amor](https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:19 | 2022-06-01 |  |
 | [Cosas Raras](https://open.spotify.com/track/2wOk4s5MjR44Yat4DTTGHi) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:25 | 2022-06-01 |  |
 | [Cuando el Sol Salga Al Revés](https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:07 | 2022-06-01 |  |
 | [Cuando Te Lavas la Cara](https://open.spotify.com/track/4VJ6ZbZphPJ57aiIKh6g3R) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:19 | 2022-06-01 | 2022-06-08 |

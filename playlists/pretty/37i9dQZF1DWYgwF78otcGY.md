@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,957 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,958 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 24 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 |
 | 25 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
 | 26 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
-| 27 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
-| 28 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
+| 27 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
+| 28 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 29 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
 | 30 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 31 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 41 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
 | 42 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 43 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
-| 44 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
-| 45 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 44 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 45 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
 | 46 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
 | 47 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
 | 48 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |

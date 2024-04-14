@@ -4,11 +4,12 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-68 songs - 6 hr 16 min
+69 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 | 2023-06-16 |  |
+| [A Man Called Cory](https://open.spotify.com/track/0ThxTOnrmRXc44u4dkNsR2) | [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [Escola da Rua](https://open.spotify.com/album/5KyTwDNDcc7IbZbobI8MxT) | 5:09 | 2023-11-10 |  |
 | [A Man Called Cory](https://open.spotify.com/track/7eJCJWjhGtTdk6gwoDdZLk) | [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [Escola da Rua](https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R) | 5:09 | 2023-06-16 | 2023-09-01 |
 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 | 2023-06-16 |  |
 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 | 2023-06-16 | 2023-11-22 |
@@ -30,7 +31,7 @@
 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 | 2023-06-16 | 2023-11-05 |
 | [Energy Sync \- Club Mix](https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F) | 6:37 | 2023-10-06 |  |
 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 | 2023-06-16 |  |
-| [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 | 2023-10-06 |  |
+| [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 | 2023-10-06 | 2024-04-14 |
 | [Feel Me \- Original mix](https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5) | [Aninha](https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf) | [Feel Me](https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW) | 5:51 | 2023-06-16 |  |
 | [Festa](https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 3:58 | 2023-06-16 | 2023-07-30 |
 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 | 2023-06-16 | 2024-02-25 |

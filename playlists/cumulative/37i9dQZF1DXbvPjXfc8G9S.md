@@ -4,7 +4,7 @@
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Feid & Yandel
 
-218 songs - 11 hr 52 min
+219 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Poco a Poco](https://open.spotify.com/track/4wTXGVoFvKjqvFZNgHuioe) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Poco a Poco](https://open.spotify.com/album/50WDuqdT6FQkjnVTNx9MiE) | 4:12 | 2023-04-13 | 2023-04-15 |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-15 | 2023-08-18 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-04-20 | 2023-06-30 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-11 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-11 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-04 |  |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2023-02-16 | 2023-09-22 |
 | [PROVENZA](https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:27 | 2023-03-17 | 2024-03-29 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-02-16 | 2023-03-18 |

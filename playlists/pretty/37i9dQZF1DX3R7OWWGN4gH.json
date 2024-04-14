@@ -1,6 +1,6 @@
 {
   "description": "Entering my reputation era...",
-  "num_followers": 1274867,
+  "num_followers": 1275293,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 185122,
-      "name": "If I Killed Someone For You",
-      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Marvin's Marvelous Mechanical Museum",
         "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 160613,
       "name": "The Bidding",
       "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 185122,
+      "name": "If I Killed Someone For You",
+      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 246294,
-      "name": "EVIL",
-      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "The Golden Age",
         "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 213266,
       "name": "Run Boy Run",
       "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 246294,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1455,42 +1455,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Build a Bitch",
-        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 122772,
-      "name": "Build a Bitch",
-      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -1519,6 +1483,42 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 122772,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Class Fight",
-      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 158666,
       "name": "Emperor's New Clothes",
       "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Class Fight",
+      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
     },
     {
       "added_at": "2024-02-22 03:52:54",

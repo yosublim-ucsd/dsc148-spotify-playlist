@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Clara Rockmore. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
   "name": "This Is Clara Rockmore",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 153026,
       "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5vPIY9UAHmOux60VpRV26j"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 424453,
       "name": "Bachianas brasileiras No. 5, W389: I. \u00c1ria (Arr. for Theremin & Cello Ensemble)",
       "url": "https://open.spotify.com/track/3uXjk6sfXIC9oLLCjrmNtM"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 242960,
       "name": "Pastorale (Arr. for Theremin, Piano & Cello Ensemble)",
       "url": "https://open.spotify.com/track/2aGCyYGpPlHrn0ydGqDZgz"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"

@@ -4,7 +4,7 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 4 min
+68 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 | 2023-03-24 |  |
 | [Quisiera](https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Quisiera](https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc) | 3:08 | 2023-12-24 |  |
 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 | 2023-11-10 |  |
+| [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 | 2024-04-14 |  |
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2023-03-24 |  |
 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 | 2023-03-24 |  |
 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 | 2023-03-24 |  |
@@ -74,6 +75,6 @@
 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 | 2023-03-24 | 2023-07-06 |
 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 | 2023-03-24 | 2024-02-24 |
 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 | 2023-03-24 |  |
-| [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 | 2023-06-26 |  |
+| [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 | 2023-06-26 | 2024-04-14 |
 
 \*This playlist was first scraped on 2023-03-25. Prior content cannot be recovered.

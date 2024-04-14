@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 ### [This Is Shania Twain](https://open.spotify.com/playlist/37i9dQZF1DZ06evO34wsE0)
 
-> This Is Shania Twain\. Los temas esenciales, todos en una lista.
+> This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,181 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,220 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 50 | [Amneris' Letter](https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 1:41 |
 | 51 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGQzMTAwOWIwNmMzOTc0YTQ0NWM1MjllOWQzZTNjNDkx`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGRmNzg0ZTE0OGYyMzM4MTk3YmZmYWY3YmUxYzNlYmVh`

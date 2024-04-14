@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pabllo Vittar. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 276001,
+  "description": "This is Pabllo Vittar. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 276023,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDlhMmJjMWJiYjExZGUyY2FiNjllMTQ2NTIzYjg5OTk1",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGIzYjhjYzg2YWMxN2QwMTQ4MjIzZTZmZjIxNDg0OGE4",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 320800,
       "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
       "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 132983,
-      "name": "Triste com T",
-      "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Zap Zum",
+      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -311,26 +327,6 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAL",
-        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SAL",
-      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+        "name": "SAL",
+        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
       },
       "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 167502,
-      "name": "Zap Zum",
-      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+      "duration_ms": 120000,
+      "name": "SAL",
+      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEREIA",
-        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 140968,
       "name": "Fun Tonight - Pabllo Vittar Remix",
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        }
+      ],
+      "duration_ms": 170649,
+      "name": "Corpo Sensual (feat. Mateus Carrilho)",
+      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+        "name": "SEREIA",
+        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
         },
         {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 170649,
-      "name": "Corpo Sensual (feat. Mateus Carrilho)",
-      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 121638,
       "name": "Cavalgada",
       "url": "https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
     },
     {
       "added_at": null,

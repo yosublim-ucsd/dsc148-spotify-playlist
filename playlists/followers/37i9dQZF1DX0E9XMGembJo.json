@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1141103,
+  "2024-04-14": 1141439,
   "date_first_scraped": "2021-12-30",
   "description": "your daily dose of dopamine ",
   "name": "DOPAMINE",
@@ -8392,6 +8392,24 @@
     },
     {
       "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "album": {
         "name": "Chip Chrome & The Mono-Tones (Deluxe)",
         "url": "https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ"
       },
@@ -10169,7 +10187,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"

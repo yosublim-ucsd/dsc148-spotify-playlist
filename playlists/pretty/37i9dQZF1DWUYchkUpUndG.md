@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=qKQwfB1lSJ2l9wiSy8YSiA>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,073 likes - 104 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,095 likes - 104 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 10 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 |
 | 11 | [All Of A Sudden \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [All Of A Sudden / Another One](https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI) | 7:55 |
 | 12 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 |
-| 13 | [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:40 |
+| 13 | [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:26 |
 | 14 | [The Lion](https://open.spotify.com/track/4vVe0CI9YMZR0bQkIdf7ZC) | [Jessica Joshua](https://open.spotify.com/artist/2YJWRkzp2NvZvqPrGg1qW7), [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL), [Nifemi Olawande](https://open.spotify.com/artist/3tapU982m08HRhCaZKGJkg) | [The Lion](https://open.spotify.com/album/6R7pgW7CVx7ksm2pKph2SD) | 11:43 |
 | 15 | [Abundance \(Good Things\)](https://open.spotify.com/track/6PwRatY8YFLb77BgOJfpgS) | [Wedeline Casimir](https://open.spotify.com/artist/4idfnzrMuzNxuZUpa0ELCp), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Abundance \(Good Things\)](https://open.spotify.com/album/3xLmjAZtiuwWYI7HjjXGsv) | 3:31 |
 | 16 | [Idara \(Joy\)](https://open.spotify.com/track/7yojVO5X79MMf4XAp7UvHk) | [Bobby Friga](https://open.spotify.com/artist/75g79mcfuq8wkIHNcJklHX), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Idara \(Joy\)](https://open.spotify.com/album/2oj0Tl1KFo9eZckFbdkj4x) | 4:50 |

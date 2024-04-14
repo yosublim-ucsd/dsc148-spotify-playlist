@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,101 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,231 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 10 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
 | 11 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 12 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
-| 13 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
-| 14 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
+| 13 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
+| 14 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
 | 15 | [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 |
 | 16 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 |
 | 17 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
 | 18 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 19 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
-| 20 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
+| 20 | [Join the Riot](https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu) | 3:09 |
 | 21 | [What's Left of the Flag](https://open.spotify.com/track/5dDDlK2uYeRo0DmvJGfIDW) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:38 |
-| 22 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
-| 23 | [Join the Riot](https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu) | 3:09 |
+| 22 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
+| 23 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 24 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 25 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
 | 26 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:54 |

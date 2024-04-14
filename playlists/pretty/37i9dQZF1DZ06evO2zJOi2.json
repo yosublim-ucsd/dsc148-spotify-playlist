@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 590351,
+  "num_followers": 590640,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGM5MzVhODE1ZGFmN2IxMDBmNjcyYmFhOGJiN2NjM2Vh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGI5NTc1ZWZmNTcxYzM5ZjYwMGQ0ZTU0Mzk3ZDZkNDlk",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamaw's House",
-        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+        "name": "7220 (Reloaded)",
+        "url": "https://open.spotify.com/album/1ImQBMrMvxZZqwTnFSRvhT"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 187269,
-      "name": "Mamaw's House",
-      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7qTaDOcld0VmBWXnkbUj45"
     },
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Reloaded)",
-        "url": "https://open.spotify.com/album/1ImQBMrMvxZZqwTnFSRvhT"
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Broadway Girls (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7qTaDOcld0VmBWXnkbUj45"
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Bandaid On A Bullet Hole",
-      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
+      "duration_ms": 199946,
+      "name": "This Side Of A Dust Cloud",
+      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 199946,
-      "name": "This Side Of A Dust Cloud",
-      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
+      "duration_ms": 234333,
+      "name": "Bandaid On A Bullet Hole",
+      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
     },
     {
       "added_at": null,

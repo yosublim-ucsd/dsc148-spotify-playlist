@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 227689,
+  "num_followers": 227814,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -1227,22 +1247,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "A Bailar Huapangos",
         "url": "https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg"
       },
@@ -1255,6 +1259,22 @@
       "duration_ms": 252055,
       "name": "El P\u00e1vido N\u00e1vido",
       "url": "https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1287,26 +1307,6 @@
       "duration_ms": 178293,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Martin Ramos",
-          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Norte\u00f1o, Vol. 2",
         "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
       },
@@ -1787,22 +1767,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 145400,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
@@ -1815,6 +1779,22 @@
       "duration_ms": 193440,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1899,6 +1879,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El wiri wiri",
+        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 158165,
+      "name": "El wiri wiri",
+      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Nuestra Historia Musical (Volumen 1)",
         "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
@@ -1915,18 +1911,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "El wiri wiri",
-        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+        "name": "La Banda Del Carro Rojo",
+        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
       },
       "artists": [
         {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 158165,
-      "name": "El wiri wiri",
-      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
+      "duration_ms": 188906,
+      "name": "La Yaquecita",
+      "url": "https://open.spotify.com/track/6oWUM4OHFV1F6tft35yzPt"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1959,22 +1955,6 @@
       "duration_ms": 211626,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "La Banda Del Carro Rojo",
-        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "La Yaquecita",
-      "url": "https://open.spotify.com/track/6oWUM4OHFV1F6tft35yzPt"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2227,22 +2207,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Comenzando Nuestra Historia",
-        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "El Mariachi",
-      "url": "https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Los \u00danicos del Huapango Michoacano",
         "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
       },
@@ -2255,6 +2219,22 @@
       "duration_ms": 148375,
       "name": "Lucesita",
       "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Comenzando Nuestra Historia",
+        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 208378,
+      "name": "El Mariachi",
+      "url": "https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2275,18 +2255,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
         }
       ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+      "duration_ms": 230471,
+      "name": "La Cuichi",
+      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2311,18 +2291,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
       "artists": [
         {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
         }
       ],
-      "duration_ms": 230471,
-      "name": "La Cuichi",
-      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2411,26 +2391,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Mujer Alegre",
-        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Mujer Alegre",
-      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "El Baile de la Iguana (En Vivo)",
         "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
       },
@@ -2463,6 +2423,26 @@
       "duration_ms": 204337,
       "name": "CARALUNA",
       "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Mujer Alegre",
+        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Mujer Alegre",
+      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2527,6 +2507,26 @@
       "duration_ms": 199880,
       "name": "Zapateado Encabronado #2",
       "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
     }
   ],
   "unique_name": "Cumbias, Huapangos & Zapateados",

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 55310,
+  "2024-04-14": 55343,
   "date_first_scraped": "2023-05-19",
   "description": "Explore the Romantic side of Tamil Indie! \n\nCover: Stephen Zechariah, Priya Jerson",
   "name": "Tamil Indie : Romance",
@@ -577,7 +577,7 @@
     {
       "album": {
         "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
-        "url": "https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO"
+        "url": "https://open.spotify.com/album/3Yt9ODAktNpEBbSL5YuYSp"
       },
       "artists": [
         {
@@ -596,6 +596,32 @@
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224470,
+      "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
+      "url": "https://open.spotify.com/track/28xBzzDqiX1oieW4RTxtZ5"
+    },
+    {
+      "album": {
+        "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
+        "url": "https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO"
+      },
+      "artists": [
+        {
+          "name": "Shameshan Mani Maran",
+          "url": "https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM"
+        },
+        {
+          "name": "Yuwaji",
+          "url": "https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 224470,
       "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
       "url": "https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd"

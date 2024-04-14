@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 214987,
       "name": "Brother To You",
       "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
@@ -3470,6 +3470,24 @@
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
+    },
+    {
+      "album": {
+        "name": "Pure Serotonin",
+        "url": "https://open.spotify.com/album/3tqL1cqH0EyDDntHkU0qTE"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/0C51lHdZ9TQ8mS9ETwWgft"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 605569,
+  "2024-04-14": 605731,
   "date_first_scraped": "2022-03-01",
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4VMYDCV2IEDYJArk749S6m\">Daddy Yankee</a>",
   "name": "\u00c9xitos Cristianos",
@@ -1919,6 +1919,28 @@
       "duration_ms": 159531,
       "name": "Champion",
       "url": "https://open.spotify.com/track/05Nv9lIMEtxcKuFoIC3C23"
+    },
+    {
+      "album": {
+        "name": "Chuvas",
+        "url": "https://open.spotify.com/album/7qo5mcEMgXfEno6fve5svr"
+      },
+      "artists": [
+        {
+          "name": "MIMY",
+          "url": "https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK"
+        },
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312354,
+      "name": "Chuvas",
+      "url": "https://open.spotify.com/track/6tyn38PlOFo0ga9SyivTnB"
     },
     {
       "album": {
@@ -3927,7 +3949,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 333267,
       "name": "El Rey Jud\u00edo",
       "url": "https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p"
@@ -4088,6 +4110,24 @@
     },
     {
       "album": {
+        "name": "En Hora Buena",
+        "url": "https://open.spotify.com/album/3DiinkzXINjkCE0oFRhvxK"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196668,
+      "name": "En Hora Buena",
+      "url": "https://open.spotify.com/track/06fsPaXoYro5HIhlgcNsWC"
+    },
+    {
+      "album": {
         "name": "En Ti Esperamos",
         "url": "https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG"
       },
@@ -4217,6 +4257,24 @@
       "duration_ms": 290536,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/17k5Ei92l8Hrw4e32lSZSj"
+    },
+    {
+      "album": {
+        "name": "Eres Grande",
+        "url": "https://open.spotify.com/album/2c30lDtKlhRqrfjaBdPBD7"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224258,
+      "name": "Eres Grande",
+      "url": "https://open.spotify.com/track/00THd4snJCmh5hjKDY14dO"
     },
     {
       "album": {
@@ -8037,6 +8095,28 @@
       "duration_ms": 143577,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/1qgTb6NDWkpyQLt4pQT9iJ"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/68onMdEK5YRDd1X5wIf5Fi"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "LUISFER",
+          "url": "https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418951,
+      "name": "Otra vez",
+      "url": "https://open.spotify.com/track/7adfK4ymN04aDhjfBW1IJ6"
     },
     {
       "album": {

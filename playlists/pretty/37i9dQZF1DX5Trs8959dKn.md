@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,650 likes - 50 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,702 likes - 50 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 40 | [Mma Mma](https://open.spotify.com/track/2oyOtn2qKET1Uut1rGw8H3) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited Verse 2](https://open.spotify.com/album/7KIxqTGuiCHJFmIYIsUojq) | 4:41 |
 | 41 | [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 |
 | 42 | [Father](https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 4:45 |
-| 43 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 |
-| 44 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
-| 45 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 |
-| 46 | [Prophetic Worship \- Live at The Liberty Church Global, London](https://open.spotify.com/track/3gtjbYJLficOBVt7K0jdwN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Prophetic Worship \(Live at The Liberty Church Global, London\)](https://open.spotify.com/album/5HnqGoWF4SAV3tpiilHyie) | 28:16 |
+| 43 | [Prophetic Worship \- Live at The Liberty Church Global, London](https://open.spotify.com/track/3gtjbYJLficOBVt7K0jdwN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Prophetic Worship \(Live at The Liberty Church Global, London\)](https://open.spotify.com/album/5HnqGoWF4SAV3tpiilHyie) | 28:16 |
+| 44 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 |
+| 45 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
+| 46 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 |
 | 47 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
 | 48 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 |
 | 49 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,281 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,449 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 33 | ["Il y a"](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
 | 34 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 |
 | 35 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 36 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 36 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 37 | [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 |
 | 38 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 |
 | 39 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |

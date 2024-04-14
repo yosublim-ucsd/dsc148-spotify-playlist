@@ -4,7 +4,7 @@
 
 > El soundtrack del verano 2024 🏝️ Cover: Rvssian, Rauw Alejandro & Ayra Starr
 
-280 songs - 15 hr 17 min
+281 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-24 | 2023-03-29 |
 | [Crazy](https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Crazy](https://open.spotify.com/album/1cdOlSvJDZJdVvXyiSWb8H) | 4:03 | 2022-06-14 | 2022-08-31 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-23 | 2023-12-14 |
-| [CUANDO BAJE EL SOL](https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:46 | 2023-07-11 |  |
+| [CUANDO BAJE EL SOL](https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:46 | 2023-07-11 | 2024-04-14 |
 | [Cuando la noche arriba](https://open.spotify.com/track/4h8G92N79vf7w3RGzdDhLI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Cuando la noche arriba](https://open.spotify.com/album/3I5cBoDLQMAymTGPlDeo1O) | 2:59 | 2022-03-16 | 2022-06-15 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-03-28 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-06-08 | 2024-04-06 |
@@ -103,6 +103,7 @@
 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 | 2024-03-15 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2021-11-10 | 2023-06-09 |
 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 | 2021-11-10 | 2023-06-09 |
+| [Fecha](https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:08 | 2024-04-11 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-11-10 |  |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-06-08 | 2023-07-12 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-07-25 | 2022-10-14 |

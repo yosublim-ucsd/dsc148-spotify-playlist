@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
@@ -2736,6 +2736,24 @@
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Monkey House",
+        "url": "https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "We Used To Be Friends",
+      "url": "https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 37750,
+  "num_followers": 37751,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Colter Wall & The Scary Prairie Boys",
-        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Bob Fudge",
-      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Okay, Crawdad",
         "url": "https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 180033,
       "name": "Rather Low",
       "url": "https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -389,10 +389,10 @@
       "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Los Chicos Tristes",
-      "url": "https://open.spotify.com/track/1ty2x08emLE57NrhHIw1gS"
+      "duration_ms": 181745,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Luke Bell",
-        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Where Ya Been?",
-      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Dead Don't Die",
         "url": "https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Luke Bell",
+        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Where Ya Been?",
+      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Old No. 1",
         "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
       },
@@ -519,6 +519,26 @@
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR"
+      },
+      "artists": [
+        {
+          "name": "Lionlimb",
+          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
+        },
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 237727,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -539,6 +559,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Los Chicos Tristes",
+      "url": "https://open.spotify.com/track/1ty2x08emLE57NrhHIw1gS"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -551,22 +587,6 @@
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 181745,
-      "name": "Until We Meet Again",
-      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -587,22 +607,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "The Gilded Palace Of Sin",
-        "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Hot Burrito #1",
-      "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "No Glory in the West",
         "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
       },
@@ -615,6 +619,22 @@
       "duration_ms": 253586,
       "name": "No Glory in the West",
       "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "The Gilded Palace Of Sin",
+        "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Hot Burrito #1",
+      "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -649,24 +669,20 @@
       "url": "https://open.spotify.com/track/7DK9shWJm361lm1ks32axt"
     },
     {
-      "added_at": "2024-04-12 04:01:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Dream of You",
-        "url": "https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR"
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
       },
       "artists": [
         {
-          "name": "Lionlimb",
-          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
-        },
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 237727,
-      "name": "Dream of You",
-      "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -799,18 +815,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Speed, Sound, Lonely KV (ep)",
-        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+        "name": "Plus de Sauce",
+        "url": "https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        },
+        {
+          "name": "Emily Gimble",
+          "url": "https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK"
         }
       ],
-      "duration_ms": 394520,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
+      "duration_ms": 146571,
+      "name": "We Shouldn\u2019t Talk About It (feat. Emily Gimble)",
+      "url": "https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -831,22 +851,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Plus de Sauce",
-        "url": "https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942"
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
       },
       "artists": [
         {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
-        },
-        {
-          "name": "Emily Gimble",
-          "url": "https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 146571,
-      "name": "We Shouldn\u2019t Talk About It (feat. Emily Gimble)",
-      "url": "https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG"
+      "duration_ms": 394520,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "American Love Song",
-        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
       },
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Roped In",
         "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
       },
@@ -943,6 +959,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/6IYqvk4buGbKUpnfFdhQy9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1135,6 +1167,30 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/57H3WWiMSVqGlwbEwscbcL"
+      },
+      "artists": [
+        {
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 235617,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2Sub2r3YIAjrVUy4dVf7lJ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1167,6 +1223,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Send The Sun",
+      "url": "https://open.spotify.com/track/3elR7QAPM98BgNv08Y4sUC"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "The Happiest Times I Ever Ignored",
         "url": "https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9"
       },
@@ -1179,70 +1251,6 @@
       "duration_ms": 318000,
       "name": "Looking at the Fish",
       "url": "https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Southern Gentleman",
-        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
-      },
-      "artists": [
-        {
-          "name": "Dee White",
-          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Toshiba Sky",
-        "url": "https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Toshiba Sky",
-      "url": "https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 225461,
-      "name": "Happy Birthday, Baby",
-      "url": "https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Lubbock (on everything)",
-        "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
-      },
-      "artists": [
-        {
-          "name": "Terry Allen",
-          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "Rendezvous USA",
-      "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
     }
   ],
   "unique_name": "Cosmic Country",

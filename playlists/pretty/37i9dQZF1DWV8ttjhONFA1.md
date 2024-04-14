@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: doppel gangs
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,846 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,877 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 37 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 |
 | 38 | [Vale Todo](https://open.spotify.com/track/40Za1VS1b5mkWSHrlSu6Db) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Facundo Castaño Montoya](https://open.spotify.com/artist/4dXtpo9qIdpfR8renHkzqW) | [Deseo](https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz) | 2:46 |
 | 39 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 |
-| 40 | [Luminosidad](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 |
+| 40 | [Luminosidad \- Remix](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 |
 | 41 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 |
 | 42 | [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 |
 | 43 | [tu mejor pesadilla](https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [tu mejor pesadilla](https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa) | 3:32 |

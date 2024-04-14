@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 37767,
+  "2024-04-14": 37820,
   "date_first_scraped": "2023-10-03",
   "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito con FERXXO",
   "name": "Reggaet\u00f3n Colombia",
@@ -596,6 +596,32 @@
     },
     {
       "album": {
+        "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA"
+      },
+      "artists": [
+        {
+          "name": "ONIKX",
+          "url": "https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222115,
+      "name": "En todas partes",
+      "url": "https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN"
+    },
+    {
+      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
       },
@@ -911,7 +937,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241333,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/6E8nqsc7pOshr6NvEY3FaA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,402 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,403 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 9 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
 | 10 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 11 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
-| 12 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
-| 13 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
+| 12 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
+| 13 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
 | 14 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
 | 15 | [Too Drunk To Drive Drunk](https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hellfire](https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA) | 3:56 |
 | 16 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 |

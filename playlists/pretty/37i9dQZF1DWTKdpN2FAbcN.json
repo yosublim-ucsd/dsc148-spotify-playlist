@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 141454,
+  "num_followers": 141663,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182566,
-      "name": "imperfect for you",
-      "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182566,
+      "name": "imperfect for you",
+      "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 236133,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 68522,
       "name": "Marlboro Nights",
       "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
     },
     {
       "added_at": "2024-03-22 04:00:00",

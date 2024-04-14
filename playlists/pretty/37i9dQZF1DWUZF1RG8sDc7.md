@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,273 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,424 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 39 | [Tan Natural](https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:12 |
 | 40 | [Te Perdone](https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [La Invitación](https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W) | 4:43 |
 | 41 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 |
-| 42 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
-| 43 | [A Pesar de Todo](https://open.spotify.com/track/54YvbepGr0JTm8rKyTkNIV) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 4:32 |
+| 42 | [A Pesar de Todo](https://open.spotify.com/track/54YvbepGr0JTm8rKyTkNIV) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 4:32 |
+| 43 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
 | 44 | [Me Mata La Melancolia](https://open.spotify.com/track/2pqNaWWVKvkJ1A5B4WHbee) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:53 |
 | 45 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
 | 46 | [Mi Diosa Humana](https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:46 |

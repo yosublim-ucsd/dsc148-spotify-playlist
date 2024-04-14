@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 76975,
+  "num_followers": 77065,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -251,22 +271,6 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "False God",
-      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -287,22 +291,18 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "Hell N Back (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+      "duration_ms": 200306,
+      "name": "False God",
+      "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
+        "name": "Alone In Iz World",
+        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
-        "name": "Alone In Iz World",
-        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
-      },
-      "artists": [
-        {
-          "name": "Israel Kamakawiwo'ole",
-          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 216026,
       "name": "Holy Roller (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-04-12 04:46:08",

@@ -4,7 +4,7 @@
 
 > Secouez vos pieds, bougez les jambes, levez les bras sur ces tubes pour toute la famille
 
-62 songs - 4 hr 0 min
+63 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 | 2021-04-13 |  |
 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 | 2021-04-13 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2021-04-13 |  |
-| [Release Me](https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 | 2021-04-13 |  |
+| [Release Me](https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 | 2021-04-13 | 2024-04-14 |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2021-04-13 |  |
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2021-04-13 |  |
 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 | 2021-04-13 |  |
@@ -64,6 +64,7 @@
 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 | 2021-04-13 |  |
 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 | 2021-04-13 |  |
 | [The Rubberband Man](https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Rubberband Man / Now That We're Together](https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW) | 3:33 | 2021-04-13 |  |
+| [Twist And Shout](https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT) | 2:35 | 2021-04-13 |  |
 | [Video](https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:09 | 2021-04-13 |  |
 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 | 2021-04-13 |  |
 | [Why Can't We Be Friends](https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:50 | 2021-04-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,830 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,920 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 68 | [Con Ganas](https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Con Ganas](https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep) | 2:35 |
 | 69 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
 | 70 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
-| 71 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
-| 72 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
+| 71 | [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 |
+| 72 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
 | 73 | [Ya Estuvo Bueno](https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [La Casa Invita](https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W) | 3:19 |
 | 74 | [Pudo](https://open.spotify.com/track/1ISmBDtScU204NHserbuHP) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo) | 3:19 |
 | 75 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 96 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
 | 97 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |
 | 98 | [Préstamela a Mí](https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:33 |
-| 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
-| 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
+| 99 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
+| 100 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 
 Snapshot ID: `MTY4NjkxODY3MCwwMDAwMDAwMDY1OTdjOGUzMGY3MWM3ZWU1OGJkNjdiOWI4NzhmNTI2`

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 288550,
+  "num_followers": 288586,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
       },
       "artists": [
         {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 146666,
-      "name": "There Stands The Glass",
-      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+      "duration_ms": 173453,
+      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
+      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
-      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
+      "duration_ms": 146666,
+      "name": "There Stands The Glass",
+      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -635,22 +635,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Sings the Songs that Made Him Famous",
-        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
           "name": "Johnny Cash",
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 151338,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
+      "duration_ms": 182666,
+      "name": "Don't Take Your Guns to Town",
+      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -679,22 +675,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Sixteen Tons",
         "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
       },
@@ -707,6 +687,22 @@
       "duration_ms": 155007,
       "name": "The Shot Gun Boogie",
       "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2024-03-18 20:17:22",

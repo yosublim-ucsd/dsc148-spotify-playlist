@@ -4,7 +4,7 @@
 
 > Dale play y dejá que la música te lleve.
 
-136 songs - 8 hr 39 min
+137 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Don't Leave Me This Way \(with Sarah Jane Morris\)](https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT), [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o) | [Communards](https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3) | 4:31 | 2023-12-07 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 | 2023-12-07 |  |
 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 | 2023-12-07 |  |
+| [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 | 2024-04-12 |  |
 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2024-04-12 |  |
 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 | 2024-01-04 | 2024-02-04 |
 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2023-12-07 |  |
@@ -78,7 +79,7 @@
 | [Listen To Your Heart](https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 5:28 | 2023-12-07 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2023-12-07 |  |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-12-07 |  |
-| [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 | 2024-04-09 |  |
+| [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 | 2024-04-09 | 2024-04-14 |
 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 | 2023-12-07 |  |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 | 2023-12-07 |  |
 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 | 2023-12-07 | 2024-03-02 |

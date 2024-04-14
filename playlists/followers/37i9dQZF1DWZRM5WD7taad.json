@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 59538,
+  "2024-04-14": 59552,
   "date_first_scraped": "2022-01-21",
   "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. La Esmeralda en Portada ",
   "name": "Femcees",
@@ -554,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/4oEEYBI8Ge2f73CnFHOzOW"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/64KQlZiuTcnh3IdZUMn48r"
+    },
+    {
+      "album": {
         "name": "Beefsito",
         "url": "https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM"
       },
@@ -811,7 +833,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189037,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/63YCy9xvMq2ILUIsF4xfdy"
@@ -4556,6 +4578,28 @@
     },
     {
       "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/3BYPPpFZ5PLIp1H0K2WLfU"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        },
+        {
+          "name": "Frida Lagarto",
+          "url": "https://open.spotify.com/artist/3chJqlLTvlra2vRTPM9edK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118073,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/13DWRxHcQ0rRKOZ0nUpiww"
+    },
+    {
+      "album": {
         "name": "Simulaci\u00f3n",
         "url": "https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433"
       },
@@ -4851,7 +4895,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189230,
       "name": "Tendos",
       "url": "https://open.spotify.com/track/0l2OgTgQIjmkCk1sEjdxGY"

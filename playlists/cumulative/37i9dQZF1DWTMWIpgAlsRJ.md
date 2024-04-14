@@ -4,7 +4,7 @@
 
 > The 100 greatest FIFA tracks of all time
 
-125 songs - 7 hr 43 min
+126 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 | 2022-11-07 |  |
 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 | 2022-11-07 |  |
 | [Magrela Fever](https://open.spotify.com/track/0yV3VUsztavBnG7iKjs06T) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/2Hs9YfmASINO0UlHPVqjgb) | 4:11 | 2022-11-07 |  |
-| [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 | 2022-11-07 |  |
+| [Malemolencia](https://open.spotify.com/track/4yOCbdjfT2zCSImNhTvDq9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 2:54 | 2022-11-07 |  |
+| [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 | 2022-11-07 | 2024-04-14 |
 | [Mean Demeanor](https://open.spotify.com/track/3EVwyzb6Q83NHhj1OKV6H4) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mean Demeanor](https://open.spotify.com/album/2VhGMNbiE4aWgUUYT1MV94) | 3:01 | 2022-11-07 |  |
 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 | 2022-11-07 |  |
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-11-07 |  |

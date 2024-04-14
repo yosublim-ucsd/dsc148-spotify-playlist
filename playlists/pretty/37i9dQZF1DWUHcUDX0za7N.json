@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ajebo Hustelrs",
-  "num_followers": 46472,
+  "num_followers": 46530,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -725,7 +725,7 @@
         }
       ],
       "duration_ms": 174038,
-      "name": "DOLLERZ (feat. Odumodublvck)",
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -883,26 +883,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+        "name": "Sere (feat. Tega boi dc)",
+        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Evil Beast",
+          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
         },
         {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 229440,
-      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
-      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
+      "duration_ms": 130873,
+      "name": "Sere (feat. Tega boi dc)",
+      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -927,22 +923,26 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Sere (feat. Tega boi dc)",
-        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
       "artists": [
         {
-          "name": "Evil Beast",
-          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 130873,
-      "name": "Sere (feat. Tega boi dc)",
-      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
+      "duration_ms": 229440,
+      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
+      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "BOYAHNAH",
-        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
-      },
-      "artists": [
-        {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
-        }
-      ],
-      "duration_ms": 124069,
-      "name": "P.P.P (Puff Puff Pass)",
-      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Oppress",
         "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 222857,
       "name": "Oppress",
       "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "BOYAHNAH",
+        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
+      },
+      "artists": [
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        }
+      ],
+      "duration_ms": 124069,
+      "name": "P.P.P (Puff Puff Pass)",
+      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
-      },
-      "artists": [
-        {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39095,
+  "num_followers": 39132,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
-        "name": "H\u00e4schenparty",
-        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+        "name": "N\u00f6 mit \u00d6",
+        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
       },
       "artists": [
         {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+          "name": "Giraffenaffen Gang",
+          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
         }
       ],
-      "duration_ms": 168200,
-      "name": "H\u00e4schenparty",
-      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+      "duration_ms": 185573,
+      "name": "Dschungelparty",
+      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
+        "name": "H\u00e4schenparty",
+        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+    },
+    {
+      "added_at": "2024-04-02 07:42:48",
+      "album": {
         "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
         "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 143732,
       "name": "Yammi Yammi",
       "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
-    },
-    {
-      "added_at": "2024-04-02 07:42:48",
-      "album": {
-        "name": "N\u00f6 mit \u00d6",
-        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
-      },
-      "artists": [
-        {
-          "name": "Giraffenaffen Gang",
-          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Dschungelparty",
-      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -467,22 +467,22 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
+        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
       "artists": [
         {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+          "name": "Jasmin Wagner",
+          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
         },
         {
           "name": "Giraffenaffen",
           "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+      "duration_ms": 148560,
+      "name": "Vogelhochzeit",
+      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -511,22 +511,22 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
-        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
-        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
       "artists": [
         {
-          "name": "Jasmin Wagner",
-          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
         },
         {
           "name": "Giraffenaffen",
           "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 148560,
-      "name": "Vogelhochzeit",
-      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
-      },
-      "artists": [
-        {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Der Fr\u00fchling hat sich eingestellt",
-      "url": "https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI"
-    },
-    {
-      "added_at": "2024-04-02 07:42:48",
-      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+      },
+      "artists": [
+        {
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Der Fr\u00fchling hat sich eingestellt",
+      "url": "https://open.spotify.com/track/6CtgiSvOrfxfNc76pY7RgI"
+    },
+    {
+      "added_at": "2024-04-02 07:42:48",
+      "album": {
         "name": "015/Abends im Walde",
         "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 123320,
       "name": "Fr\u00fchlingslied",
       "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2024-04-02 07:42:48",
-      "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Fr\u00fchling!",
-      "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -919,6 +903,22 @@
       "duration_ms": 136705,
       "name": "Summ, summ, summ",
       "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"
+    },
+    {
+      "added_at": "2024-04-02 07:42:48",
+      "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Fr\u00fchling!",
+      "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
     },
     {
       "added_at": "2024-04-02 07:42:48",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-04-02 07:42:48",
       "album": {
-        "name": "Karel",
-        "url": "https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR"
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
       "artists": [
         {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Die Biene maja",
-      "url": "https://open.spotify.com/track/37Ya452sNHfucQVaKPM522"
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

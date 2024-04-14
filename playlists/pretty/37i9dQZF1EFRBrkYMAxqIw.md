@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 33 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
 | 34 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
 | 35 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
-| 36 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
-| 37 | [Loyal to myself](https://open.spotify.com/track/2e4kWV07RgzyJa9YWTEQpH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1) | 2:27 |
+| 36 | [Loyal to myself](https://open.spotify.com/track/2e4kWV07RgzyJa9YWTEQpH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1) | 2:27 |
+| 37 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 38 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
 | 39 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
 | 40 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 93 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 94 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjg1NDk1ODAsMDAwMDAwMDAxNmJiMzY3OWQzNTkyMjkxMDBlNjI0Y2QzYmQ4NTcyYg==`
+Snapshot ID: `Mjg1NTEwODIsMDAwMDAwMDBhNjdhMzEzODdhNzcwNDFlNmU1NzU3MjQ4YTlkNDUxYQ==`

@@ -4,7 +4,7 @@
 
 > let's get it on
 
-92 songs - 4 hr 56 min
+93 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-03-15 |  |
 | [Close friends ☆](https://open.spotify.com/track/0GIdaVAY3go0PhjNFmAyfA) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 2:06 | 2023-08-30 |  |
 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 | 2023-02-06 |  |
-| [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 | 2023-02-06 |  |
+| [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 | 2023-02-06 | 2024-04-14 |
 | [CORONE](https://open.spotify.com/track/1A7rUacip28yYERtzuQZ55) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:42 | 2023-02-06 |  |
 | [CUANDO HACEMOS EL AMOR](https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:34 | 2023-02-06 |  |
 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 | 2023-06-14 |  |
@@ -78,6 +78,7 @@
 | [Para Estar](https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:56 | 2023-02-06 |  |
 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 | 2023-03-22 |  |
 | [Piel](https://open.spotify.com/track/7vIKLjaoOL1CHihygxcs34) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Selvas](https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW) | 1:15 | 2023-08-30 | 2024-02-11 |
+| [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 | 2024-04-12 |  |
 | [PROMESA](https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:16 | 2023-07-07 |  |
 | [Quédate](https://open.spotify.com/track/3Ci9L1hytziZxJ1LzU5wHg) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [3:33](https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK) | 2:54 | 2023-08-30 | 2023-12-02 |
 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 | 2023-02-06 |  |

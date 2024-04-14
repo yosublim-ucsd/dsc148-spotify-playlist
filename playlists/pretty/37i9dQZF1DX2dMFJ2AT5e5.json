@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 93082,
+  "num_followers": 93234,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
-    },
-    {
-      "added_at": "2024-04-12 18:37:23",
-      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2024-04-12 18:37:23",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-04-12 18:37:23",
+      "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2024-04-12 18:37:23",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2024-04-12 18:37:23",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2024-04-12 18:37:23",
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "ARRANC\u00c1RMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 183547,
-      "name": "ARRANC\u00c1RMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+      "duration_ms": 207849,
+      "name": "Read your Mind",
+      "url": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+        "name": "ARRANC\u00c1RMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 207849,
-      "name": "Read your Mind",
-      "url": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
+      "duration_ms": 183547,
+      "name": "ARRANC\u00c1RMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
-        "name": "Back to Front (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
-      },
-      "artists": [
-        {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
-    },
-    {
-      "added_at": "2024-04-12 18:37:23",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 162493,
       "name": "Nunca Estoy",
       "url": "https://open.spotify.com/track/6N4ioa3XSbvjmwdVEERl8F"
+    },
+    {
+      "added_at": "2024-04-12 18:37:23",
+      "album": {
+        "name": "Back to Front (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
+      },
+      "artists": [
+        {
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
     },
     {
       "added_at": "2024-04-12 18:37:23",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-04-12 18:37:23",
       "album": {
+        "name": "buenos aires",
+        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
+    },
+    {
+      "added_at": "2024-04-12 18:37:23",
+      "album": {
         "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
         "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 285400,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW"
-    },
-    {
-      "added_at": "2024-04-12 18:37:23",
-      "album": {
-        "name": "buenos aires",
-        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "buenos aires",
-      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
     },
     {
       "added_at": "2024-04-12 18:37:23",

@@ -4871,6 +4871,36 @@
     },
     {
       "album": {
+        "name": "Ballaatha Jaathi",
+        "url": "https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Ballaatha Jaathi",
+      "url": "https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN"
+    },
+    {
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -12192,7 +12222,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182906,
       "name": "DOPO LE 4 (feat. Bresh & Tedua)",
       "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
@@ -23996,6 +24026,28 @@
     {
       "album": {
         "name": "LAST NIGHT VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR"
+      },
+      "artists": [
+        {
+          "name": "DJ BIEL PRADO",
+          "url": "https://open.spotify.com/artist/3ynR38jCIVmxY6RVrL35SN"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "LAST NIGHT VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde"
+    },
+    {
+      "album": {
+        "name": "LAST NIGHT VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/40WIrQ8JDPwgxvI42lQEqz"
       },
       "artists": [
@@ -24010,7 +24062,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 169384,
       "name": "LAST NIGHT VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/4M1ev40SxAwDYStgWfTNYu"
@@ -30112,7 +30164,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 183260,
       "name": "My Queen",
       "url": "https://open.spotify.com/track/13rpNJeBF33EgVtQDoItKk"
@@ -33588,7 +33640,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "Pantropiko",
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"

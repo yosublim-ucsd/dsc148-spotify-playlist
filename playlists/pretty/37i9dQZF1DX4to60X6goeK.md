@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Disrupta
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,290 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,320 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 34 | [Sundown](https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g) | 4:28 |
 | 35 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
 | 36 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
-| 37 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
-| 38 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 37 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 38 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
 | 39 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
 | 40 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 41 | [Somebody Else, Pt\. 2](https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else, Pt\. 2](https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl) | 3:17 |

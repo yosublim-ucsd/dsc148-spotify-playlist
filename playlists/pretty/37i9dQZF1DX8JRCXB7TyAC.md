@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,095 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,128 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 43 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
 | 44 | [Jaat](https://open.spotify.com/track/7JGrjPpKep3LJdiEHQ4N0K) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Jaat](https://open.spotify.com/album/290kPIm8AJR2pAZXiiH4PZ) | 2:57 |
 | 45 | [Death Row](https://open.spotify.com/track/4hPYkpuhzgPA233YwHDCYz) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/4DX584ppaGZQum0rD8Xmdc) | 3:41 |
-| 46 | [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 |
+| 46 | [Up Se](https://open.spotify.com/track/1RubYJKQPCo6D28pvVKrW2) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/6iRnvYs4LzjbD0LfTl1InG) | 3:37 |
 | 47 | [Ram Ram Karke](https://open.spotify.com/track/6naLIL2jVbE6uyUpUKtnAH) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Ram Ram Karke](https://open.spotify.com/album/5YjykDAdQ5OWVFc9b7PqaI) | 3:26 |
 | 48 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 49 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |

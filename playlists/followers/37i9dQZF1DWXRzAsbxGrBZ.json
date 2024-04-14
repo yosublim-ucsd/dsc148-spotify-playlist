@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 50679,
+  "2024-04-14": 50797,
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
   "name": "Deep House Session",
@@ -604,6 +604,28 @@
     },
     {
       "album": {
+        "name": "Falling outta love often",
+        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261428,
+      "name": "Falling outta love often - Radio Edit",
+      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
+    },
+    {
+      "album": {
         "name": "False Facade",
         "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
       },
@@ -1049,7 +1071,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 323245,
       "name": "Joker",
       "url": "https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX"
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 518599,
       "name": "Mend It - Stimming Remix",
       "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
@@ -2259,6 +2281,32 @@
       "duration_ms": 405447,
       "name": "Unprepared",
       "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
+    },
+    {
+      "album": {
+        "name": "Usangikhumbula (Fka Mash Glitch Dub)",
+        "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359750,
+      "name": "Usangikhumbula - Fka Mash Glitch Dub",
+      "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
     },
     {
       "album": {

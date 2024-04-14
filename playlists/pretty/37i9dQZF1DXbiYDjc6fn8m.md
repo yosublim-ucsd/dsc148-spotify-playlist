@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,119 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,136 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 35 | [Take Over Control \(feat\. Eva Simons\) \- Radio Edit](https://open.spotify.com/track/5DdDbJvoaT8fqQMJkiGg4T) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Take Over Control \(feat\. Eva Simons\) \[Radio Edit\]](https://open.spotify.com/album/720C2Wgilz2KBQtk3Sjq85) | 3:28 |
 | 36 | [Like A G6](https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC) | 3:36 |
 | 37 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
-| 38 | [Shining star \(Gianluca Motta edit\)](https://open.spotify.com/track/3shPyqaRtM5pisiQMjsx0I) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q) | [Shining star](https://open.spotify.com/album/0mkPmNkLEdZXRbqitaIUzO) | 3:40 |
+| 38 | [Shining Star \- Gianluca Motta Edit](https://open.spotify.com/track/2VMxUaruqkrEVRzCUgmrUy) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q) | [Shining Star](https://open.spotify.com/album/7bnmeEp0k9uronATYwYzhh) | 3:40 |
 | 39 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 40 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |
 | 41 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |

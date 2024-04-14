@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Mimi Webb
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,889,229 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,889,754 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 39 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 |
 | 40 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
 | 41 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 |
-| 42 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 42 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 43 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 | 44 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 | 45 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |

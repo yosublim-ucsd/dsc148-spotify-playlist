@@ -4,7 +4,7 @@
 
 > The best uptempo pop for the workout girlies
 
-357 songs - 19 hr 0 min
+358 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-03-11 | 2022-04-09 |
 | [Cry \(with John Martin\)](https://open.spotify.com/track/1TF8rXy87zrnpBlS9TLykA) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Cry \(with John Martin\)](https://open.spotify.com/album/4GlaRJyGOcHqTSxOJf7efu) | 3:38 | 2022-01-28 | 2022-05-27 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-01-28 | 2022-07-29 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-04-12 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-09-05 | 2024-04-07 |
 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 | 2022-03-24 | 2022-07-28 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 |  |
@@ -175,7 +176,7 @@
 | [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 | 2022-01-28 | 2022-04-21 |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2022-10-11 | 2023-02-24 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-10-11 | 2022-12-28 |
-| [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-12-27 |  |
+| [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-12-27 | 2024-04-14 |
 | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Studio Killers](https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL) | 3:35 | 2022-03-24 | 2022-04-18 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-10-11 | 2022-12-28 |

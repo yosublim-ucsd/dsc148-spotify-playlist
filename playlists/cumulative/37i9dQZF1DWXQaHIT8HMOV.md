@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz
 
-272 songs - 14 hr 8 min
+273 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Mufaliso](https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ), [Kodish](https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X) | [Mufaliso](https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6) | 3:41 | 2023-07-13 | 2024-02-03 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
 | [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 | 2024-04-05 |  |
-| [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 |  |
+| [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 | 2024-04-14 |
 | [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 | 2024-04-13 |
 | [My Year](https://open.spotify.com/track/3xiP1k0UCCt3DOAZZsM673) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [My Year](https://open.spotify.com/album/09X07wSK0uumo1qEi4dh8C) | 3:17 | 2024-03-15 | 2024-04-06 |
 | [Nakumala](https://open.spotify.com/track/5Wxilr2SmYiGqMzscPXtir) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [Grenade Official](https://open.spotify.com/artist/4t41SFTGtJALbIGWkD0V6t) | [Nakumala](https://open.spotify.com/album/1V60wHj8CpDD3L55ixnRM6) | 3:04 | 2023-01-26 | 2023-02-27 |
@@ -238,6 +238,7 @@
 | [Slow Dancing](https://open.spotify.com/track/759HuejW0i5nhYZkgvBEW0) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Slow Dancing](https://open.spotify.com/album/5pGcnzqu54k8jnMoQoEyoY) | 3:22 | 2024-03-15 | 2024-04-06 |
 | [So](https://open.spotify.com/track/2hkp6EYhYTK2PsPudbVCln) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [So](https://open.spotify.com/album/4sfnKwliqQwTGUpmO3SM1l) | 3:01 | 2024-02-02 | 2024-02-10 |
 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 | 2023-02-03 | 2023-09-13 |
+| [Sumagiza](https://open.spotify.com/track/5TGDdmSgCybtcm4u2vFkfk) | [JLAKug](https://open.spotify.com/artist/6PIbmNxv4RzozuFvX1uOGh), [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ) | [Sumagiza](https://open.spotify.com/album/62EA7ktWVkqJSodSQgxtv8) | 3:28 | 2024-04-12 |  |
 | [Summer Bae](https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:24 | 2023-10-12 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2024-02-03 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |

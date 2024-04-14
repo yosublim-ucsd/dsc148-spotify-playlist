@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-343 songs - 19 hr 46 min
+344 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alice Hyatt](https://open.spotify.com/track/2zvOgRsHsfl75hgnTXKDSC) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Alice Hyatt](https://open.spotify.com/album/1aa8VzI2W50X3cD8ZMwpJQ) | 2:42 | 2022-04-07 | 2022-04-21 |
 | [Alma Mía \(feat\. Los Macorinos\)](https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:19 | 2021-12-09 | 2022-10-28 |
 | [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 | 2021-12-09 |  |
-| [Amor Arrayano](https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Arrayano](https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK) | 3:40 | 2021-12-09 |  |
+| [Amor Arrayano](https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Arrayano](https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK) | 3:40 | 2021-12-09 | 2024-04-14 |
 | [Amor de Barricada](https://open.spotify.com/track/6jeARvnnjf2rGkixopI5zT) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Amor de Barricada](https://open.spotify.com/album/3KC3ZRq7ZDwFwjnMx3hTK1) | 3:24 | 2022-04-07 | 2022-04-20 |
 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 | 2021-12-09 |  |
 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 | 2021-12-09 | 2022-10-28 |
@@ -104,6 +104,7 @@
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2022-04-07 |  |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 | 2024-04-10 |
+| [desde que estas en mi vida](https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT) | 3:22 | 2024-03-14 |  |
 | [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2021-12-09 | 2023-07-17 |
 | [Diablo De Un Segundo](https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Diablo De Un Segundo](https://open.spotify.com/album/14FFsLvG1NLDm2pK0Jc14c) | 2:07 | 2021-12-09 | 2022-07-24 |
 | [Distancia](https://open.spotify.com/track/1I4Tj5GjMBFOGd6HpwqSUF) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Ambivalente](https://open.spotify.com/album/4ZXeVhvevhngnTB8UxB0sK) | 3:19 | 2022-04-07 | 2022-04-21 |

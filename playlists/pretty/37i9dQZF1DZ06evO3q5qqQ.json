@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
-  "num_followers": 107373,
+  "num_followers": 107394,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDVlMjUwYTkzMzNjYWYyM2VlODM0OTA4MzlmMzMzYzMw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDZjMjMxMTgwOWNmYmZkNWYxNGY0MjAxYTU2NDJiMTQ1",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Avion",
         "url": "https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd"
       },
@@ -63,22 +47,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
       "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": null,
@@ -167,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa (En Vivo)",
-      "url": "https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 149951,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "La Linea Directa (En Vivo)",
+      "url": "https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Belicones (En vivo)",
-        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "Bien Belicones (En vivo)",
-      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -343,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
+        "name": "Bien Belicones (En vivo)",
+        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
+      "duration_ms": 150200,
+      "name": "Bien Belicones (En vivo)",
+      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
       "duration_ms": 208927,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/6lXe0TGUsy16Z4zEKqp1aD"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Benjam\u00edn",
         "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 180990,
       "name": "Soy Benjam\u00edn",
       "url": "https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 175673,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
     },
     {
       "added_at": null,

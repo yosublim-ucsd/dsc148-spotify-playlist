@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 68866,
+  "num_followers": 68899,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MTY4Njg0NzI1NywwMDAwMDAwMGExN2JmYWQyZTUxMzI0Y2EyMDI0YjdkNmM4NzJjMjBh",
   "tracks": [
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
-    },
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
@@ -75,22 +59,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "EL FINAL",
-        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 232283,
-      "name": "EL FINAL",
-      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Acr\u00f3stico (Milan + Sasha)",
         "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
@@ -103,6 +71,22 @@
       "duration_ms": 170785,
       "name": "Acr\u00f3stico - Milan + Sasha",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "EL FINAL",
+        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 232283,
+      "name": "EL FINAL",
+      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -135,6 +119,22 @@
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -175,38 +175,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -227,6 +195,22 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+      "duration_ms": 210893,
+      "name": "Ayer Me Dijo un Ave",
+      "url": "https://open.spotify.com/track/6gpsPg8kaMbc8rcuHw7t1i"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 210893,
-      "name": "Ayer Me Dijo un Ave",
-      "url": "https://open.spotify.com/track/6gpsPg8kaMbc8rcuHw7t1i"
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Pel\u00edcula Muda, Pt. 2",
         "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 231200,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 247959,
+      "name": "Sabr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 247959,
-      "name": "Sabr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -871,22 +855,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 233346,
       "name": "Si Alguna Vez",
       "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 240298,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Se Me Va A Quemar El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Se Me Va A Quemar El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "El Primer Rayo de Sol - EP",
         "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 289893,
       "name": "Me Haces Existir",
       "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Se Me Va A Quemar El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
+      "duration_ms": 197186,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Navegar",
-        "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 188654,
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Ch\u00e9ni (Miedo)",
         "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
       },
@@ -1467,6 +1435,22 @@
       "duration_ms": 228400,
       "name": "Ch\u00e9ni (Miedo)",
       "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Navegar",
+        "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 188654,
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1651,26 +1635,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Helecho",
-        "url": "https://open.spotify.com/album/30S6Nlvv8ovvgsDkwP9h2W"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Helecho",
-      "url": "https://open.spotify.com/track/2Mbem8HiUJodif6c4a6tLL"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "La Casita De La Selva",
         "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
       },
@@ -1703,6 +1667,26 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Helecho",
+        "url": "https://open.spotify.com/album/30S6Nlvv8ovvgsDkwP9h2W"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Helecho",
+      "url": "https://open.spotify.com/track/2Mbem8HiUJodif6c4a6tLL"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Noches De Bohemia",
         "url": "https://open.spotify.com/album/1asI6AIxYR6zLzH20RZ46h"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 145000,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/1FNL149Oyeb9KA6tVyToEA"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "added_at": "2023-06-15 16:40:57",

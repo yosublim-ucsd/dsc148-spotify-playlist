@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Con todo el sabor de la vitamina G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,273 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,518 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 19 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 |
 | 20 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
 | 21 | [Prom](https://open.spotify.com/track/0NyFr5f8nJlfTkkFeZvdpm) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Prom](https://open.spotify.com/album/4CC4GJrDNZ8WDCyAlu6Omk) | 2:22 |
-| 22 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
+| 22 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
 | 23 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
 | 24 | [A Chillar a otra parte](https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [A Chillar a otra parte](https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW) | 3:33 |
 | 25 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 94 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 |
 | 95 | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 2:36 |
 | 96 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
-| 97 | [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 |
+| 97 | [Un Cariño Como Tu \(En Vivo\)](https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 2:45 |
 | 98 | [Mujer De Piedra](https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:53 |
 | 99 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 100 | [En Mi Defensa](https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Mi Defensa](https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W) | 3:06 |

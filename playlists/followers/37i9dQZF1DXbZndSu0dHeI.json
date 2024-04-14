@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 217206,
+  "2024-04-14": 217294,
   "date_first_scraped": "2021-12-30",
   "description": "Have the loveliest little day.",
   "name": "The Lovely Little Playlist",
@@ -1023,6 +1023,24 @@
       "duration_ms": 249604,
       "name": "Camden",
       "url": "https://open.spotify.com/track/4w3vwDfM8CYyXlw3TWiCDV"
+    },
+    {
+      "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "album": {
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 282794,
       "name": "Headlands",
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
@@ -5807,7 +5825,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
@@ -6871,6 +6889,24 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "album": {
+        "name": "Tired Boy",
+        "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
     },
     {
       "album": {

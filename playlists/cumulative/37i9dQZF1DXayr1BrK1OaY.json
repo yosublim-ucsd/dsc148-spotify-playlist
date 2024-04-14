@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
@@ -5080,10 +5080,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/4sHXKCcNR8CSifCNUhYwuW"
     },
     {
       "album": {
@@ -5586,7 +5612,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 200000,
       "name": "THERE 4 U",
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"

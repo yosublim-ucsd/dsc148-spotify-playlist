@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,418 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,426 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 42 | [Realist In It \(feat\. Gucci Mane & Offset\)](https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:42 |
 | 43 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 | 44 | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2) | 3:55 |
-| 45 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
-| 46 | [Girls Gone Wild](https://open.spotify.com/track/2D7diy0xyUWvXZCQGoTqNu) | [Mike G](https://open.spotify.com/artist/3VB8y1z7TlJIzklaN3mJ1m), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Girls Gone Wild](https://open.spotify.com/album/6As7lrex6rWK9Drjj88pAJ) | 2:48 |
+| 45 | [Girls Gone Wild](https://open.spotify.com/track/2D7diy0xyUWvXZCQGoTqNu) | [Mike G](https://open.spotify.com/artist/3VB8y1z7TlJIzklaN3mJ1m), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Girls Gone Wild](https://open.spotify.com/album/6As7lrex6rWK9Drjj88pAJ) | 2:48 |
+| 46 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 47 | [Lick](https://open.spotify.com/track/4W9XGjEUVG9junR70FOLii) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:24 |
 | 48 | [Rich \(feat\. D Block Europe & Offset\)](https://open.spotify.com/track/0YTXcXihG2qpxb3U3LbPfc) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Plug Talk](https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa) | 4:05 |
 | 49 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 | 50 | [SLOPES](https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SLOPES](https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ) | 2:42 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDdiZTk3M2UzZjUyODkwNDU3NWQ4ZWQ4M2IzM2I4YjVl`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGM3ODhlMzljMjhkMWNiZmQ1MGEwOGZlNWMxMmQyNDNm`

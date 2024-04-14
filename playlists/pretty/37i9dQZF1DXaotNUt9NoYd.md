@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,220 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,227 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,23 +29,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 19 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 20 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 21 | [Daydream \(feat\. Ashwin Srinivasan\)](https://open.spotify.com/track/0TOVfRtYXE7D2CZw0fx9NU) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Last Days of Meaning](https://open.spotify.com/album/7y8rmswg8Pe40v100gtICN) | 1:55 |
-| 22 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 |
-| 23 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
+| 22 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
+| 23 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 |
 | 24 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
 | 25 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
 | 26 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
 | 27 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
 | 28 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
-| 29 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
-| 30 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
+| 29 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
+| 30 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
 | 31 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 32 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 33 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 34 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 35 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 36 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
-| 37 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
-| 38 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
+| 37 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
+| 38 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 39 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 40 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |
 | 41 | [Pineal Gland Activation \- 936hz Alpha Meditation](https://open.spotify.com/track/7tfvDpUhhR6cgFHo2Xx8CE) | [Source Vibrations](https://open.spotify.com/artist/7vHvQ5bkLPByiTInz0mTfV) | [Pineal Gland Activation \(936hz Alpha Meditation\)](https://open.spotify.com/album/4CSIGBGMketZ2NlG1lphoZ) | 22:04 |

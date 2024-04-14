@@ -4,7 +4,7 @@
 
 > The best dance songs from around the world of 2023\. Cover: Peggy Gou
 
-330 songs - 18 hr 5 min
+331 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2021-12-01 | 2022-12-01 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/4hngQBMVv6VPYTXQcySo9f) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/096L7a6gi4EblwclmcvPKf) | 2:37 | 2021-12-01 | 2022-07-29 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-11-30 | 2023-11-30 |
+| [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 | 2023-11-29 |  |
 | [Baby again..](https://open.spotify.com/track/4W4QNwe6Cm4BKDk46nuofO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 5:19 | 2023-11-29 | 2024-03-06 |
-| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2023-11-29 |  |
+| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2023-11-29 | 2024-04-14 |
 | [Baby again..](https://open.spotify.com/track/6dVgCHMZrWG0tQ4HPeu4aw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 5:19 | 2023-11-29 | 2023-12-21 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-11-29 |  |
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2021-12-01 | 2022-12-01 |

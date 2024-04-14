@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of "The Catalyst."
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,273 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,325 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 50 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 |
 | 51 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
 | 52 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
-| 53 | [Fight the Tide](https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Fight the Tide](https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h) | 3:26 |
-| 54 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
+| 53 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
+| 54 | [Fight the Tide](https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Fight the Tide](https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h) | 3:26 |
 | 55 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 56 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 57 | [Femme Fatale](https://open.spotify.com/track/4XmejrQR5ZU1qTa8Mo1GSg) | [Exit Eden](https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j) | [Femmes Fatales](https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85) | 4:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 62 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
 | 63 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 |
 | 64 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
-| 65 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 |
-| 66 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
+| 65 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
+| 66 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 |
 | 67 | [Dismantled](https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Nekonomicon](https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ) | 3:57 |
 | 68 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 69 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 77 | [Krigsherren](https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Krigsherren](https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl) | 3:29 |
 | 78 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
 | 79 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
-| 80 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
+| 80 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
 
 Snapshot ID: `MTcwODY2NDQwMCwwMDAwMDAwMDc4NWFhYzg5MThmMWNhNTkyZGFmODBhOGMxMGY4ZDYy`

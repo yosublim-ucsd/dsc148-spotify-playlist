@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 20307,
+  "2024-04-14": 20364,
   "date_first_scraped": "2022-04-19",
   "description": "New releases for the kids. Cover: Sam Tsui & Casey Breves",
   "name": "New Kids Music",
@@ -21,6 +21,24 @@
       "duration_ms": 192600,
       "name": "...Baby One More Time (from Kung Fu Panda 4)",
       "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
+    },
+    {
+      "album": {
+        "name": "10 In The Bed (Roll Over)",
+        "url": "https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166915,
+      "name": "10 In The Bed (Roll Over)",
+      "url": "https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk"
     },
     {
       "album": {
@@ -293,6 +311,24 @@
       "duration_ms": 141339,
       "name": "Baby Bot's ABC",
       "url": "https://open.spotify.com/track/0YnmWV2VolT9FbH7xIpEjR"
+    },
+    {
+      "album": {
+        "name": "Plim Plim Nursery Rhymes Vol. 8",
+        "url": "https://open.spotify.com/album/5J38jHcJL26an9trrhuZsY"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Baby Shark (Animals)",
+      "url": "https://open.spotify.com/track/0CC3N7mdE7gfk8wPyfwSPj"
     },
     {
       "album": {
@@ -726,6 +762,24 @@
     },
     {
       "album": {
+        "name": "A Day Out with Bob The Train, Vol. 2",
+        "url": "https://open.spotify.com/album/4s2FUJZ3jp3KTovHgEEhwV"
+      },
+      "artists": [
+        {
+          "name": "Bob The Train",
+          "url": "https://open.spotify.com/artist/47MIDwQv4al2sMgO2KKQQp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145733,
+      "name": "Bug Bugs",
+      "url": "https://open.spotify.com/track/27hfQMdyMYwbcnet3CdRXR"
+    },
+    {
+      "album": {
         "name": "Building Better for Everyone",
         "url": "https://open.spotify.com/album/5GjSaIN3iOisxbi1j3pdi8"
       },
@@ -986,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "D is for Dancing",
+        "url": "https://open.spotify.com/album/31V8naTOvlvBh7Tk3OQ6PE"
+      },
+      "artists": [
+        {
+          "name": "Brady Rymer and the Little Band That Could",
+          "url": "https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186579,
+      "name": "D Is For Dancing",
+      "url": "https://open.spotify.com/track/7rttMaviADSTAAlVrNB0UV"
+    },
+    {
+      "album": {
         "name": "Dance Mode!",
         "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
       },
@@ -1236,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "DORA (Official Theme Song)",
+        "url": "https://open.spotify.com/album/4pBGVll4G2uyVjEtX6pQSr"
+      },
+      "artists": [
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31693,
+      "name": "DORA - Official Theme Song",
+      "url": "https://open.spotify.com/track/4JonSsKEXsSukG5wAOieEw"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -1375,6 +1469,28 @@
       "duration_ms": 152440,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1ONGzVWyVsahvw7uRUxFFC"
+    },
+    {
+      "album": {
+        "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
+        "url": "https://open.spotify.com/album/4iYo93eRPtEJKQGBovj4ys"
+      },
+      "artists": [
+        {
+          "name": "DJ Pon-3",
+          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134896,
+      "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
+      "url": "https://open.spotify.com/track/45Sf1KIaTrumntl36nV8Qe"
     },
     {
       "album": {
@@ -3136,6 +3252,28 @@
     },
     {
       "album": {
+        "name": "Let It Roll (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Let It Roll - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
+    },
+    {
+      "album": {
         "name": "Funk The Earth",
         "url": "https://open.spotify.com/album/3Yxv92kSQjYLLIuUtHNJfV"
       },
@@ -3384,6 +3522,24 @@
     },
     {
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/2aLgkkHYhwZ6y7e2fyI1wq"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5HJ3W41D8Hn27i5xh0smRF"
+    },
+    {
+      "album": {
         "name": "Let Love Be Your Guide",
         "url": "https://open.spotify.com/album/29YQcKWonRl02h3pypRui6"
       },
@@ -3483,6 +3639,24 @@
       "duration_ms": 145384,
       "name": "Loon",
       "url": "https://open.spotify.com/track/0T5r5FKRfVQMqkDmhcAeGP"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190855,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS"
     },
     {
       "album": {
@@ -4367,6 +4541,24 @@
       "duration_ms": 174746,
       "name": "Revolting Children",
       "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1z3S0gdCbTfQawClHMHTQ5"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218079,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/3uSkMumeDPJtIrXVIBJVqY"
     },
     {
       "album": {
@@ -5795,6 +5987,24 @@
       "duration_ms": 181101,
       "name": "Unicorn Song",
       "url": "https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N"
+    },
+    {
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/5Oua50zMy3OcjFo76evedh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165163,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/33FDL5RB2mDnVnSCOAuUWG"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 382689,
+  "2024-04-14": 382792,
   "date_first_scraped": "2023-07-29",
-  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
+  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
   "name": "This Is Jamiroquai",
   "tracks": [
     {
@@ -717,7 +717,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 237866,
       "name": "Seven Days in Sunny June",
       "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
@@ -811,6 +811,24 @@
       "duration_ms": 386973,
       "name": "Space Cowboy",
       "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311413,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/3pY7e7SrjgmWgyDfeZMrDD"
     },
     {
       "album": {

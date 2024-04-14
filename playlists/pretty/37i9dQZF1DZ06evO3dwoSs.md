@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 ### [This Is Five Finger Death Punch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dwoSs)
 
-> This is Five Finger Death Punch\. The essential tracks, all in one playlist.
+> This Is Five Finger Death Punch\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,882 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,952 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 50 | [No One Gets Left Behind](https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:23 |
 | 51 | [Burn MF](https://open.spotify.com/track/0QTpLHFixtmJCU9o0ZIShg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 3:37 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGY3MzViM2YyYzQ3ODliY2ZkOTFmNDcyOTZkYmIyNWU5`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDljODFkYmUzYjk2MDhkZDYyZjZhMTM3MzU1M2Y3YzMx`

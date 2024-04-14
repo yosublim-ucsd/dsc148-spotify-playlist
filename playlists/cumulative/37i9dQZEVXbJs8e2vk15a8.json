@@ -8071,6 +8071,36 @@
     },
     {
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/4V1XBfXlZsJxOduPutlN9D"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "THAT",
+          "url": "https://open.spotify.com/artist/2A4ZByna3TWY1gzmLIHCvN"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Damelo (feat. DrefQuila y THAT)",
+      "url": "https://open.spotify.com/track/43ZwcFkQGxvpTVbVHi3MRF"
+    },
+    {
+      "album": {
         "name": "Dance Dance Dance Merlina (Remix)",
         "url": "https://open.spotify.com/album/4IJJGlEerUEw0BJVcibKvm"
       },
@@ -10890,6 +10920,10 @@
         {
           "name": "DrefQuila",
           "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "date_added": "2024-03-19",
@@ -11223,28 +11257,6 @@
     },
     {
       "album": {
-        "name": "Los Rompecorazones, Vol. 2",
-        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "date_added": "2024-03-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154462,
-      "name": "Ese Guille",
-      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
-    },
-    {
-      "album": {
         "name": "Ese Guille",
         "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
       },
@@ -11264,6 +11276,32 @@
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Ese Guille",
+      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
     },
     {
       "album": {
@@ -14136,7 +14174,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 136923,
       "name": "HAMI",
       "url": "https://open.spotify.com/track/44K0rxxJXiH0lPwT87gOZm"
@@ -16402,6 +16440,24 @@
       "duration_ms": 172960,
       "name": "Kilo De Amigas",
       "url": "https://open.spotify.com/track/5p3zexHZc07e8ASsMI63Rz"
+    },
+    {
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh"
+      },
+      "artists": [
+        {
+          "name": "Downstait",
+          "url": "https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210894,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
     },
     {
       "album": {
@@ -21456,7 +21512,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 232653,
       "name": "Minnie <3",
       "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
@@ -22856,7 +22912,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 205217,
       "name": "Nena Sad",
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
@@ -27842,7 +27898,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 149341,
       "name": "Que Brille Sola",
       "url": "https://open.spotify.com/track/3BNZIHUF5B0dHbdbv0zlr0"
@@ -29512,7 +29568,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 292909,
       "name": "SATIROS",
       "url": "https://open.spotify.com/track/4yvTAGLY2MnZDTo7tFkkmu"
@@ -31038,7 +31094,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
@@ -31886,7 +31942,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 298293,
       "name": "Sue\u00f1os Perdidos - Remix",
       "url": "https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK"
@@ -33268,6 +33324,28 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {
@@ -35773,6 +35851,24 @@
     },
     {
       "album": {
+        "name": "+Xqa",
+        "url": "https://open.spotify.com/album/3HejJLtUAvnu1KVY5APP7P"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182047,
+      "name": "Vea Pues",
+      "url": "https://open.spotify.com/track/3lk2gB6wZfFCTiKL1CMbyK"
+    },
+    {
+      "album": {
         "name": "Vegas (I Wanna Ride)",
         "url": "https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa"
       },
@@ -37204,7 +37300,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

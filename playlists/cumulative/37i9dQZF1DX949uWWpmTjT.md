@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,017 songs - 2 day 17 hr 53 min
+1,018 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,7 +706,7 @@
 | [Rhythm of the City](https://open.spotify.com/track/2lIBvRZeHGoxpQlh8Mc3Jr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rhythm of the City](https://open.spotify.com/album/4DNMzms3jYncztKWhUVAQL) | 3:02 | 2023-08-10 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-18 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-10 |  |
-| [Ritual](https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Ritual](https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX) | 4:02 | 2024-03-22 |  |
+| [Ritual](https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Ritual](https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX) | 4:02 | 2024-03-22 | 2024-04-14 |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-26 |  |
 | [Rosey](https://open.spotify.com/track/1ZxuVJTWcXxN92s6EXjusu) | [Duane Eubanks](https://open.spotify.com/artist/371h9y9TkJSNXcTzHW6b3u) | [The Now](https://open.spotify.com/album/666jMtRc4Xb29ONpUxv3ql) | 5:02 | 2021-12-03 | 2022-07-29 |
 | [Round Midnight](https://open.spotify.com/track/0ZXeZe8avZyPZIhfGJdt4I) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Justin Kauflin](https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU) | [Standards](https://open.spotify.com/album/2ZBNoT9NQK9zv6xFDuk2z8) | 7:25 | 2021-12-03 | 2024-03-24 |
@@ -864,6 +864,7 @@
 | [The Old Days](https://open.spotify.com/track/1YdjDIUhPv0YlyDOzGv8cN) | [Joost Zoeteman](https://open.spotify.com/artist/3KttZtDvN07umfla28NQqq) | [The Old Days](https://open.spotify.com/album/3MRdBb44ud0YmXZlIK3gCB) | 3:43 | 2024-01-26 | 2024-02-25 |
 | [The Only One Was Me](https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [The Only One Was Me](https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W) | 4:17 | 2023-08-10 |  |
 | [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 | 2023-02-23 |  |
+| [The Promise of Spring](https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [The Promise of Spring](https://open.spotify.com/album/4DGprWZfEGxxxHU0HLmxiG) | 5:18 | 2024-04-10 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2023-02-02 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [The Shadow of Your Smile](https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC) | 2:35 | 2023-10-13 |  |
 | [The Sun Forgot To Shine This Morning](https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Lonely Lovers](https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD) | 2:40 | 2021-12-03 | 2023-03-03 |

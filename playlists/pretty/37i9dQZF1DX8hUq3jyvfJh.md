@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,215 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,318 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Carrossel](https://open.spotify.com/track/0UdNZYAdu4OhGBwF8xjAej) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Carrossel](https://open.spotify.com/album/6HX2UuIXOHTMP5Wrijn1xo) | 2:47 |
 | 27 | [Medusa](https://open.spotify.com/track/0HK7bfg1m4bAQLR5B0wruC) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Medusa](https://open.spotify.com/album/3HcXOQpyZOzWFJXxd9rETo) | 2:42 |
 | 28 | [Trapo \- Ao Vivo](https://open.spotify.com/track/4tiEwmV6AbwvEBsAda5Kxf) | [Larissa e Mariana](https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO), [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Trapo \(Ao Vivo\)](https://open.spotify.com/album/0behvZdnNJOhhebvHOH1GT) | 2:52 |
-| 29 | [Diz Que Vai Voltar](https://open.spotify.com/track/25amKsUPWWiKLLXzV9Rk1T) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Diz Que Vai Voltar](https://open.spotify.com/album/5u8BClV4porBu85VOrtHbi) | 3:06 |
-| 30 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 29 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 30 | [Diz Que Vai Voltar](https://open.spotify.com/track/25amKsUPWWiKLLXzV9Rk1T) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Diz Que Vai Voltar](https://open.spotify.com/album/5u8BClV4porBu85VOrtHbi) | 3:06 |
 | 31 | [Te Beijo Chorando \- Ao Vivo](https://open.spotify.com/track/0BXgEu3thuTAUPo7LmzwJw) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Bar da Priscila Senna, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/4ukla1l6L7PBGNwSPTKf8l) | 3:57 |
 | 32 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/4zoTqRUlqqlB1uX5qp6qCH) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 4:25 |
 | 33 | [Pulseira Da Pandora](https://open.spotify.com/track/6SepFfVRDxH0kfOhdPu8T1) | [Vitória Freitas](https://open.spotify.com/artist/1iaeAoN04tK7CK0UHppzAI), [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v) | [Pulseira Da Pandora](https://open.spotify.com/album/5D7WN5k0KoDaki3t0DXxpq) | 2:23 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [Carinho E Respeito](https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:40 |
 | 37 | [Paracetamal \- Ao Vivo](https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Paracetamal \(Ao Vivo\)](https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8) | 2:50 |
 | 38 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
-| 39 | [Um Ex Amor](https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Um Ex Amor](https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL) | 3:00 |
-| 40 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
+| 39 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
+| 40 | [Um Ex Amor](https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Um Ex Amor](https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL) | 3:00 |
 | 41 | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs) | [Alinne Rosa](https://open.spotify.com/artist/6jrXjOgvZxar7qULTgJ9xd) | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6) | 2:34 |
 | 42 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |
 | 43 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |

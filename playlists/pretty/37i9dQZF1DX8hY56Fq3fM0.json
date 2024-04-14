@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 12858,
+  "num_followers": 3232,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MTcxMjc2Mjk1NSwwMDAwMDAwMDgyNTY4ODIzZTI1NzUwMDFiZTA4N2M4MmZhNmNkODVj",
   "tracks": [
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 147062,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 192789,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 147062,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Picture Show",
-        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everybody Talks",
-      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Picture Show",
+        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everybody Talks",
+      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -359,22 +359,6 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 160886,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 191529,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 249382,
       "name": "Fire and the Flood",
       "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Fitz and The Tantrums (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Work This Body",
+      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -1467,38 +1483,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Work This Body",
-      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "What Did You Expect from The Vaccines?",
-        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Post Break-Up Sex",
-      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "What Did You Expect from The Vaccines?",
+        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Post Break-Up Sex",
+      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "We Are Only What We Feel",
         "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1595,22 +1611,6 @@
       "duration_ms": 191933,
       "name": "Found What I've Been Looking For",
       "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     }
   ],
   "unique_name": "Energy Booster: Indie",

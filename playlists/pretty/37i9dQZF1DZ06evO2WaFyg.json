@@ -1,12 +1,12 @@
 {
-  "description": "This Is Young Thug. Los temas esenciales, todos en una lista.",
-  "num_followers": 227920,
+  "description": "This is Young Thug. The essential tracks, all in one playlist.",
+  "num_followers": 227971,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDQ5OTQzZjA3MmIxM2JkOTY3ODg4ZGY1MDExNWVkOGQ0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDgxZTcwODUwZmM0OThiMmNiZTYxNGUzMTNjZWVkODll",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": null,
@@ -431,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -447,22 +483,6 @@
       "duration_ms": 149040,
       "name": "Bad Bad Bad (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": null,
@@ -563,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 162778,
       "name": "Bless (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
     },
     {
       "added_at": null,
@@ -847,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 218596,
+      "name": "Droppin Jewels",
+      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -863,22 +899,6 @@
       "duration_ms": 250271,
       "name": "ON GOD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 218596,
-      "name": "Droppin Jewels",
-      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
     },
     {
       "added_at": null,
@@ -1091,26 +1111,6 @@
       "duration_ms": 207007,
       "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
       "url": "https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Want Me Dead (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
     }
   ],
   "unique_name": "This Is Young Thug",

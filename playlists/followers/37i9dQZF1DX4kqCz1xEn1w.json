@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 73862,
+  "2024-04-14": 73858,
   "date_first_scraped": "2022-03-01",
   "description": "Victory over death has been won today, forever!",
   "name": "Easter Worship",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 262573,
       "name": "Afraid To Say (feat. Lauren Walters)",
       "url": "https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh"
@@ -2917,7 +2917,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 287933,
       "name": "Our God Is Alive",
       "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"

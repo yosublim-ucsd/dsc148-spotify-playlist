@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Ways & Means",
+        "url": "https://open.spotify.com/album/7zLZFCEwnUtggPXZIzxfUv"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "Five Year Plan",
+      "url": "https://open.spotify.com/track/60LGMrVughUAlnjolZjHac"
+    },
+    {
+      "album": {
         "name": "Five Year Plan",
         "url": "https://open.spotify.com/album/2WjAuapN0BqnMPyUaKAkZ7"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 213533,
       "name": "Five Year Plan",
       "url": "https://open.spotify.com/track/42mtQzrzAd3BZjIKzH2FXb"
@@ -2632,10 +2650,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 206933,
       "name": "When You're Away",
       "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"
+    },
+    {
+      "album": {
+        "name": "Texas Piano Man",
+        "url": "https://open.spotify.com/album/7CuBiJKKimeOE5VfDNHmnQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "When You're Away",
+      "url": "https://open.spotify.com/track/7a29dQPnEtuw9K4u1sLnle"
     },
     {
       "album": {

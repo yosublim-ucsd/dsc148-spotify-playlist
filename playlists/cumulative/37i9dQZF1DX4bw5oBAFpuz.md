@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-417 songs - 1 day 0 hr 8 min
+418 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Head Over Heels](https://open.spotify.com/track/3StL2jKfcfZBD1oc1tm25j) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Head Over Heels](https://open.spotify.com/album/4FlcewSj4imHL8Fjc3lJbb) | 2:32 | 2023-02-23 |  |
 | [Heart And Soul](https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up) | 2:54 | 2023-04-06 |  |
 | [Heartbeat \- Acoustic Version](https://open.spotify.com/track/7ktXVuy3bi3Dd2WMmN4UTt) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat \(Acoustic Version\)](https://open.spotify.com/album/6SpveBzKj1xeTK4vTS9SKu) | 3:22 | 2023-03-09 | 2024-03-14 |
+| [Heavy](https://open.spotify.com/track/0G1eL9g083NCOyvB7tXwZC) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Heavy](https://open.spotify.com/album/0BvwpL6wdl6FacJayiN1GK) | 3:28 | 2024-04-11 |  |
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-29 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-02 |  |
 | [Here With You \- Acoustic](https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Y O U](https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr) | 3:41 | 2023-04-25 | 2024-04-07 |
@@ -197,7 +198,7 @@
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2023-02-23 |  |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2023-02-23 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-06 |  |
-| [Lay Your Weapons Down \- Acoustic](https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Lay Your Weapons Down \(Acoustic\)](https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m) | 3:25 | 2023-04-25 |  |
+| [Lay Your Weapons Down \- Acoustic](https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Lay Your Weapons Down \(Acoustic\)](https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m) | 3:25 | 2023-04-25 | 2024-04-14 |
 | [Leave a Light On](https://open.spotify.com/track/4iVVU8DyQvOVsKafv3KWIF) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:05 | 2023-02-23 | 2023-04-26 |
 | [Let Go](https://open.spotify.com/track/1VsltuFeMjASOFW8lIvmcr) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Lovestruck Puzzles](https://open.spotify.com/album/5CYzxWpyxi1vePhH4Jlq6h) | 3:30 | 2023-02-23 | 2024-03-22 |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2023-02-23 | 2023-04-26 |

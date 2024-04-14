@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 17 min
+93 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca) | 3:18 | 2022-10-28 | 2023-10-11 |
 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2022-10-28 |  |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-10-10 |  |
-| [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2023-07-15 |  |
+| [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2023-07-15 | 2024-04-14 |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2022-10-28 |  |
 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 | 2022-10-28 |  |
 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 | 2022-10-28 |  |
@@ -100,5 +100,6 @@
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2022-10-28 |  |
 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 | 2022-10-28 |  |
 | [YAKWTFGO \(feat\. Kali Uchis\)](https://open.spotify.com/track/6rrP1mBTbBkJCP7FsBe0SM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:42 | 2022-10-28 | 2023-10-11 |
+| [Yeah \(with BIA\)](https://open.spotify.com/track/3ta5gWGwyiJMzBmhae0nip) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Yeah \(with BIA\)](https://open.spotify.com/album/3q1IbjXMfuOo8pqy5ANphP) | 2:20 | 2024-04-14 |  |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

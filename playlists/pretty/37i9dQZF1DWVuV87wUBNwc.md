@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Beyoncé au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,251,400 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,251,996 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 16 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/0V584xEQYJ1NTIdGH7hDVg) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/0JjAge9evodP8avsLsqidc) | 2:35 |
 | 17 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
 | 18 | [SEMPRE / JAMAIS \(feat\. Angèle\)](https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 3:12 |
-| 19 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 19 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 20 | [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 |
 | 21 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 22 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 |

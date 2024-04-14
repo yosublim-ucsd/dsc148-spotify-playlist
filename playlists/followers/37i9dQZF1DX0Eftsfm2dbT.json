@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 133561,
+  "2024-04-14": 133602,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: LEX & LANA",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -7048,6 +7048,24 @@
     },
     {
       "album": {
+        "name": "Maldoror",
+        "url": "https://open.spotify.com/album/36MGzpmB31aUlUTXC3cyhl"
+      },
+      "artists": [
+        {
+          "name": "ID",
+          "url": "https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215486,
+      "name": "Maldoror",
+      "url": "https://open.spotify.com/track/1fH209kMTqMxRaN2DMYDd5"
+    },
+    {
+      "album": {
         "name": "SCRAP",
         "url": "https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh"
       },
@@ -9067,7 +9085,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171440,
       "name": "paypay",
       "url": "https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ"
@@ -9107,6 +9125,24 @@
       "duration_ms": 138486,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up"
+    },
+    {
+      "album": {
+        "name": "Phenomeno",
+        "url": "https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165244,
+      "name": "Phenomeno",
+      "url": "https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR"
     },
     {
       "album": {
@@ -10311,7 +10347,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163477,
       "name": "SHOT!",
       "url": "https://open.spotify.com/track/4pfRPgtnvdfp9ePO87LSiD"
@@ -11603,7 +11639,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144500,
       "name": "TYO LDN BROS",
       "url": "https://open.spotify.com/track/0qAcVDEhXIHDJAgVNtXMho"

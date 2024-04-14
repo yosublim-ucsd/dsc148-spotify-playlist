@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 522836,
+  "2024-04-14": 522900,
   "date_first_scraped": "2022-05-23",
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
   "name": "La Troca",
@@ -7211,7 +7211,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
@@ -7599,6 +7599,28 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+    },
+    {
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
     },
     {
       "album": {

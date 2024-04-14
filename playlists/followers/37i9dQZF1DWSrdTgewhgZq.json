@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1114160,
+  "2024-04-14": 1114166,
   "date_first_scraped": "2022-01-24",
   "description": "The most flammable playlist ever. J. Cole spitting fire \ud83d\udd25",
   "name": "DOPE.",
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
@@ -1069,6 +1069,36 @@
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "album": {
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
     },
     {
       "album": {
@@ -1672,6 +1702,28 @@
     },
     {
       "album": {
+        "name": "fIT chECK fREEsTYle",
+        "url": "https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183429,
+      "name": "fIT chECK fREEsTYle",
+      "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
+    },
+    {
+      "album": {
         "name": "Flatline (feat. Kenny Mason)",
         "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
       },
@@ -1757,7 +1809,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
@@ -2855,7 +2907,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195428,
       "name": "Lemonade (feat. NAV)",
       "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
@@ -5402,6 +5454,28 @@
     },
     {
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
@@ -5516,6 +5590,28 @@
     },
     {
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
+    },
+    {
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/7gugs0djxoCY7kzXegHA40"
       },
@@ -5549,7 +5645,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"

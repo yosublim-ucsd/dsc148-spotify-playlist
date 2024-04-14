@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-491 songs - 1 day 1 hr 29 min
+492 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 |  |
-| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 |  |
+| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 | 2024-04-14 |
 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 | 2022-07-22 | 2022-11-17 |
 | [Focus](https://open.spotify.com/track/4g1Ec6coJ3tGrsua8B2yio) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/33oXw6C7qblh1spcJDsved) | 2:44 | 2021-12-16 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 | 2022-10-27 | 2023-01-13 |
@@ -478,6 +478,7 @@
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2023-09-14 | 2023-09-29 |
 | [Whispers](https://open.spotify.com/track/1axwmTbryAGBoMy9OOnlB0) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Whispers](https://open.spotify.com/album/4KYgpnfISyOhm5iUYvkEQx) | 3:23 | 2021-12-16 | 2023-01-13 |
 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 | 2023-03-23 | 2023-11-17 |
+| [Why Remix](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why Remix](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 | 2024-04-11 |  |
 | [Why We Love](https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Why We Love](https://open.spotify.com/album/3CXMLXwgCKKpF9GV8dqqvf) | 3:09 | 2021-12-16 | 2023-01-13 |
 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 | 2023-09-23 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 | 2023-09-21 | 2023-09-29 |

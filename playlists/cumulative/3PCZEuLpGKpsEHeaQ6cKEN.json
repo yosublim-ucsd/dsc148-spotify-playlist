@@ -12731,6 +12731,32 @@
     },
     {
       "album": {
+        "name": "Now Love Will Begin",
+        "url": "https://open.spotify.com/album/2jKYB8a9NJJgwWwOlV9eaZ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Now Love Will Begin",
+      "url": "https://open.spotify.com/track/6F25FmoNZ2ESMPmYWMbsIG"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/5gjhdgT90wzs9QeDRpEdrB"
       },

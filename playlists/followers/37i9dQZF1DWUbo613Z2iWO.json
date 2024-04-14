@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 50102,
+  "2024-04-14": 50115,
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Taner\u00e9lle",
+  "description": "R&B of the moment by the artists of the future. Cover: Jean Deaux",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -979,7 +979,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
@@ -3835,7 +3835,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157799,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB"
@@ -6158,6 +6158,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK"
       },
@@ -6299,6 +6317,24 @@
       "duration_ms": 170000,
       "name": "History",
       "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
+    },
+    {
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "album": {
@@ -7039,6 +7075,24 @@
       "duration_ms": 135999,
       "name": "In 2 Deep",
       "url": "https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6"
+    },
+    {
+      "album": {
+        "name": "In and Out (Interlude)",
+        "url": "https://open.spotify.com/album/10w2moUbaxbVqLKttAIcH1"
+      },
+      "artists": [
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73452,
+      "name": "In and Out (Interlude)",
+      "url": "https://open.spotify.com/track/6Y6UL4vqEnoPUbG1qVTgG4"
     },
     {
       "album": {
@@ -8539,7 +8593,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156000,
       "name": "Love",
       "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
@@ -9719,6 +9773,24 @@
       "duration_ms": 164810,
       "name": "New Moves",
       "url": "https://open.spotify.com/track/1Cby5mB1MumgWZb3zBwXgl"
+    },
+    {
+      "album": {
+        "name": "Paradigm Shift",
+        "url": "https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143543,
+      "name": "NEXT CHAPTER",
+      "url": "https://open.spotify.com/track/2bXMwqj4qwHU6dFc1lAuox"
     },
     {
       "album": {
@@ -14366,6 +14438,28 @@
     },
     {
       "album": {
+        "name": "nowhere, fast",
+        "url": "https://open.spotify.com/album/1oEDfMIpHpl9pVZsqhFo2L"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209310,
+      "name": "Thinkin",
+      "url": "https://open.spotify.com/track/7wYlWR1wYGY6Yllrvrb1VA"
+    },
+    {
+      "album": {
         "name": "Thinkin' Bout You",
         "url": "https://open.spotify.com/album/0mgyacC2aoBaFxSEVc48s8"
       },
@@ -14787,7 +14881,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"

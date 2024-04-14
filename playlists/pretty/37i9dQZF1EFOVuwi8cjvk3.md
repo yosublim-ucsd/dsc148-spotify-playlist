@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 228 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 45 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 |
 | 46 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
 | 47 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
-| 48 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
-| 49 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/5KE9b4x7Zj2A8XtbkqhqTe) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:48 |
+| 48 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/5KE9b4x7Zj2A8XtbkqhqTe) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:48 |
+| 49 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
 | 50 | [Right Hand](https://open.spotify.com/track/3lSR267IJfT54p0Gfuw7mi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Right Hand](https://open.spotify.com/album/6qIBaopvx9STCAa7ud8PRZ) | 3:10 |
 | 51 | [Privilege](https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 2:50 |
 | 52 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 |
@@ -233,7 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 223 | [Unity](https://open.spotify.com/track/1NdDipM0qj6Iq3Czj2ZRIS) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf) | [Mutual Attraction Vol\. 3](https://open.spotify.com/album/3Vi51GqR8LbsEuamSmhgEU) | 5:35 |
 | 224 | [Love Yourself](https://open.spotify.com/track/58yjWR5cDeQcGSlvuKV684) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Mirror Story \(Deluxe\)](https://open.spotify.com/album/69VeigGVK8AIxInfneOccn) | 3:28 |
 | 225 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
-| 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
-| 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
+| 226 | [GOATED](https://open.spotify.com/track/3Z4RvoEgCtreDHrk4i4S0F) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [GOATED](https://open.spotify.com/album/0eYW7vog7TmXgeJ4QndHfX) | 2:55 |
+| 227 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
+| 228 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg1NDk2MjAsMDAwMDAwMDAzMDg2NjBmOWY0NWY5MzY5NjI0YjBiMWU2ZmUyZjhmMw==`
+Snapshot ID: `Mjg1NTEwNjcsMDAwMDAwMDA3YTlmOTEyN2NmMjQ4MWRhMmQ1MTQzZjMyNWU3Zjg3YQ==`

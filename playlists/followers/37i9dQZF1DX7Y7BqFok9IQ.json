@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 200728,
+  "2024-04-14": 200870,
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Slash",
   "name": "Modern Blues Rock",
@@ -1481,7 +1481,7 @@
     {
       "album": {
         "name": "ATW",
-        "url": "https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC"
+        "url": "https://open.spotify.com/album/4CTIdxGlMTpg8VCzBADuvw"
       },
       "artists": [
         {
@@ -1492,6 +1492,24 @@
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Half-Tongue",
+      "url": "https://open.spotify.com/track/0zuZit0pFlvRaI7D24VUus"
+    },
+    {
+      "album": {
+        "name": "ATW",
+        "url": "https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 275200,
       "name": "Half-Tongue",
       "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 258653,
       "name": "Killing Floor feat. Brian Johnson",
       "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
@@ -2919,6 +2937,28 @@
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
+    },
+    {
+      "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
     },
     {
       "album": {
@@ -3901,10 +3941,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173253,
       "name": "Suit in the Back",
       "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
+    },
+    {
+      "album": {
+        "name": "QCNH",
+        "url": "https://open.spotify.com/album/3RqzS1i0EjYgPr25RLZcfB"
+      },
+      "artists": [
+        {
+          "name": "Quaker City Night Hawks",
+          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "Suit in the Back",
+      "url": "https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU"
     },
     {
       "album": {
@@ -4081,7 +4139,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227798,
       "name": "The Deep and the Dirty",
       "url": "https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF"
@@ -4099,7 +4157,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 227798,
       "name": "The Deep And The Dirty",
       "url": "https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR"

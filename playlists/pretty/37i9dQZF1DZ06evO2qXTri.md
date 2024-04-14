@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 ### [This Is Kirk Franklin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qXTri)
 
-> This is Kirk Franklin\. Todos os maiores hits em uma só playlist.
+> This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,433 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,451 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 30 | [A God Like You](https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:18 |
 | 31 | [Lose My Soul \- Afterparty Interlude](https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Portable Sounds \(With Bonus Remixes\)](https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl) | 6:15 |
 | 32 | [OK](https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 3:56 |
-| 33 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 34 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
+| 33 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
+| 34 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 35 | [Melodies From Heaven \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 3:22 |
 | 36 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 | 37 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Don't Cry \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:08 |
 | 50 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDRmYjhiZDI2NjBjMGE4NzMzMDg4MmUxY2NlMDM1MDZk`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDFkYTUyYmI0NWRiYzZmNjZkYzdkMzUzNTI3MTU4MTEy`

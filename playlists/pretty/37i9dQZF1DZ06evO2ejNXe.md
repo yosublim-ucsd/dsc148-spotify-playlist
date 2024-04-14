@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 41 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
 | 42 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
 | 43 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
-| 44 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
-| 45 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
+| 44 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
+| 45 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 | 46 | [Oh Mi Nena](https://open.spotify.com/track/3CcvrZonEbz9TjM5R3TlM0) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:13 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGYyNzBkMDg4ZDIxYWZhMjhjODI5NGUxMTY1ZTA4ZDlm`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDlkNTg2YTkxOTJiNDI5NzM2ZjAxNjg5NTg2MjVjMzMx`

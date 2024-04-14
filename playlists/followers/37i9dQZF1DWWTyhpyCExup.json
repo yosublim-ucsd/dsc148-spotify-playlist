@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 9602,
+  "2024-04-14": 9603,
   "date_first_scraped": "2021-12-28",
   "description": "New folk & americana driving the current, every week. Cover: Kara Jackson ",
   "name": "Folk Frequency",
@@ -1391,10 +1391,28 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201480,
       "name": "New Day",
       "url": "https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw"
+    },
+    {
+      "album": {
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2ycdTpQgwmCmxSvnwGn4JH"
     },
     {
       "album": {

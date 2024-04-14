@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,120 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,172 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 44 | [Te Vez Buena \- En Vivo](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 |
 | 45 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 |
 | 46 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 |
-| 47 | [La Flechita \- En Vivo](https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' La Raza \(En Vivo\)](https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q) | 2:14 |
-| 48 | [Bajo El Agua](https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Bajo El Agua](https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg) | 3:12 |
-| 49 | [Pídeme](https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:27 |
+| 47 | [Pídeme](https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:27 |
+| 48 | [La Flechita \- En Vivo](https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' La Raza \(En Vivo\)](https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q) | 2:14 |
+| 49 | [Bajo El Agua](https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Bajo El Agua](https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg) | 3:12 |
 | 50 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 |
 | 51 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 |
 | 52 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 62 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 |
 | 63 | [Y Me Da Vergüenza](https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo) | 2:49 |
 | 64 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |
-| 65 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 |
-| 66 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
+| 65 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
+| 66 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 |
 | 67 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 |
 | 68 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
 | 69 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 71 | [No Confíes en Mí](https://open.spotify.com/track/20Aju7Cbpq4D25P3seooun) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Confíes en Mí](https://open.spotify.com/album/6quSFU1RDVfyOKVdSTkaVL) | 3:03 |
 | 72 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
 | 73 | [La Ética](https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [A La Caza](https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4) | 2:53 |
-| 74 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
-| 75 | [El Pávido Návido](https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT) | [Los Igualados](https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj) | [A Bailar Huapangos](https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg) | 4:12 |
+| 74 | [El Pávido Návido](https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT) | [Los Igualados](https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj) | [A Bailar Huapangos](https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg) | 4:12 |
+| 75 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
 | 76 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
 | 77 | [San Lucas](https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que Nos Paso?](https://open.spotify.com/album/4hvvrwkfzjZgePbesL0k6d) | 2:39 |
 | 78 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 |

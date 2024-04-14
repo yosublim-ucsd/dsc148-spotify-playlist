@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,401 likes - 40 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,407 likes - 40 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 27 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 28 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 |
 | 29 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
-| 30 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
-| 31 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
+| 30 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
+| 31 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
 | 32 | [Tous Ces Détails](https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD) | 2:50 |
 | 33 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 34 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 36 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
 | 37 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 38 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
-| 39 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
-| 40 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
+| 39 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
+| 40 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
 
 Snapshot ID: `MTcxMjM3NjAwMCwwMDAwMDAwMDg3MTViNjY5YjFjMDRlNDZlODEwZTc0NjkxYzIyNzU4`

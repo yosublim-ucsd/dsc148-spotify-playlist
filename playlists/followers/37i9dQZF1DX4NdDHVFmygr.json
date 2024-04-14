@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 251654,
+  "2024-04-14": 251858,
   "date_first_scraped": "2021-12-28",
   "description": "Les hits marocains du moment. Cover: DYSTINCT",
   "name": "Maroc Hits",
@@ -2433,6 +2433,24 @@
       "duration_ms": 211891,
       "name": "Houwa",
       "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
+    },
+    {
+      "album": {
+        "name": "HWASI",
+        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223278,
+      "name": "HWASI",
+      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
       "album": {
@@ -6853,7 +6871,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201600,
       "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 - Cover libianca people - 2023 - nouveaut\u00e9",
       "url": "https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39"

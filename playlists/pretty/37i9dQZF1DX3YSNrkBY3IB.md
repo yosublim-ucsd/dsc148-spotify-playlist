@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,095 likes - 40 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,152 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 28 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 |
 | 29 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 | 30 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
-| 31 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
-| 32 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
+| 31 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
+| 32 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 33 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
 | 34 | [Slow Jamz](https://open.spotify.com/track/6lxyoqQJXYpUXM3hc46zX4) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [The College Dropout](https://open.spotify.com/album/3lQePoIm6iNQIiZkCYxCy0) | 5:16 |
 | 35 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
 | 36 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
 | 37 | [Nuthin’ But A "G" Thang](https://open.spotify.com/track/2eBjbrAXdb5WETSm6RNZ6X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Very Best of Death Row](https://open.spotify.com/album/1lqD5GnInmcLPiRMfRVS22) | 3:58 |
 | 38 | [We Got Our Own Thang](https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 3:52 |
-| 39 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
-| 40 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
+| 39 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
+| 40 | [Monie in the Middle](https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:44 |
 
 Snapshot ID: `MTcwNzg0MTE1NCwwMDAwMDAwMDIyZGFlZDI4MTg2Zjk2ZjNiY2M5ZDVmNDU5ZGVjYTRk`

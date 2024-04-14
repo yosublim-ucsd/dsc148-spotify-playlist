@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,486 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,495 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 10 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 |
 | 11 | [You Didn't Break It](https://open.spotify.com/track/2Ycuoq1f8APFihfIK7qTzu) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 4:52 |
 | 12 | [Nothing Else](https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm) | 4:24 |
-| 13 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
-| 14 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 |
+| 13 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 |
+| 14 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
 | 15 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 |
 | 16 | [Love](https://open.spotify.com/track/5dU3p2ia4wDvODpA04g50e) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:48 |
 | 17 | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX) | 3:07 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 41 | [Face to Face](https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 3:57 |
 | 42 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 |
 | 43 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
-| 44 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
+| 44 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 |
 | 45 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
-| 46 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 |
+| 46 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
 | 47 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 48 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
 | 49 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 54 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 55 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 |
 | 56 | [Meet Me There](https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:14 |
-| 57 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
-| 58 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 |
+| 57 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 |
+| 58 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
 | 59 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 60 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 |
-| 61 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
+| 60 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
+| 61 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 |
 | 62 | [Safe Place](https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:10 |
 | 63 | [Loved by You](https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Mystery](https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto) | 4:52 |
 | 64 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 67 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
 | 68 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
 | 69 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
-| 70 | [Dreaming of Eden](https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Dreaming of Eden](https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT) | 4:14 |
+| 70 | [Safe Place \- Acoustic](https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place \(Acoustic\)](https://open.spotify.com/album/4AM1TkaWF2RRoHhgQ4i4te) | 2:58 |
 
 Snapshot ID: `MTY4NjkyMDAxNCwwMDAwMDAwMGUzMDY3MzZmNmE2OTJlYTM2ZGUwNjMyYTBjMWM2NTFm`

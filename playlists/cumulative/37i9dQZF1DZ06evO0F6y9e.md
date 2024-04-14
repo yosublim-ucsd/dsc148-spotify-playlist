@@ -2,9 +2,9 @@
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
+> This is Grupo Firme\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 52 min
+68 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Juro por Dios \- En Vivo](https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Juro por Dios \(En Vivo\)](https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF) | 3:22 | 2023-08-08 | 2023-12-18 |
 | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG) | 3:52 | 2024-03-25 |  |
 | [Lujos y Secretos](https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v) | 2:45 | 2023-08-08 | 2024-03-26 |
+| [Mala Hierba](https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mala Hierba](https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v) | 2:47 | 2024-04-14 |  |
 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 | 2023-08-08 |  |
 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 | 2023-11-10 |  |
 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 | 2023-08-08 |  |

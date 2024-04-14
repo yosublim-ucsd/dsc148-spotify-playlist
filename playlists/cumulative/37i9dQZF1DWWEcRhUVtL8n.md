@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: girl in red
 
-1,824 songs - 4 day 0 hr 7 min
+1,825 songs - 4 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,7 @@
 | [JPA989](https://open.spotify.com/track/2zZamOTUSQBF9HMY0NYIpG) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [JPA989](https://open.spotify.com/album/2gIRQ8aZF5aTZ8ex83pY70) | 2:56 | 2021-03-01 | 2021-05-26 |
 | [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-06-30 | 2023-10-17 |
 | [july](https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [july](https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea) | 2:37 | 2023-07-28 | 2023-09-30 |
-| [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-08 |  |
+| [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-08 | 2024-04-14 |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-29 | 2022-06-30 |
 | [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 | 2023-09-22 | 2023-12-11 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-02-24 | 2021-05-25 |
@@ -1105,6 +1105,7 @@
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/track/6qomQtETB8ovqxCJzwJS74) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sarah Barthel](https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/album/1CsySBcBQluO4aoT5uuTx5) | 3:34 | 2020-10-13\* | 2021-03-30 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\] \- Icarus Better Daze Mix](https://open.spotify.com/track/6cb6DR6i07ZA0I0B1qnpQi) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram \[Icarus Better Daze Mix\]](https://open.spotify.com/album/5KGWv4VGrZkJYDYkEHhllt) | 4:26 | 2020-11-20 | 2021-01-15 |
 | [My Boy](https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [My Boy](https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX) | 2:55 | 2022-03-18 | 2022-04-15 |
+| [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-12 |  |
 | [My House](https://open.spotify.com/track/69cOm540NYGkZpL4Jx2mUx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House](https://open.spotify.com/album/3bC63CIq5bU9HnE7AnYtQF) | 3:42 | 2021-02-22 | 2021-05-28 |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-08 |  |
 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 | 2020-10-20 | 2021-05-28 |

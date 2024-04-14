@@ -4,7 +4,7 @@
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Sam Smith & Kim Petras
 
-145 songs - 9 hr 30 min
+146 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cry For You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry For You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 | 2022-06-01 | 2022-07-29 |
 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 | 2021-06-01 | 2023-12-17 |
 | [Dancing On My Own](https://open.spotify.com/track/7lItUx11Vl9heRR9H68h2M) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk pt\. 1](https://open.spotify.com/album/3t690oEm4uYWd9dsxaDDbj) | 4:48 | 2021-06-01 | 2022-07-29 |
-| [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 | 2021-06-01 |  |
+| [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 | 2021-06-01 | 2024-04-14 |
 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 | 2021-06-01 | 2022-07-29 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-06-01 |  |
 | [Dancing Queen](https://open.spotify.com/track/1dzhHqVUv3rHQfaXoxDhq2) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [songs that lowkey slap](https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4) | 3:51 | 2021-06-01 | 2022-11-13 |
@@ -69,6 +69,7 @@
 | [I Will Survive \- Single Version](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) | 3:18 | 2021-06-01 |  |
 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 | 2021-06-01 |  |
 | [I'm Every Woman](https://open.spotify.com/track/2M55R2A9IAhLdsCGFj8r8k) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:09 | 2021-06-01 | 2022-07-29 |
+| [I'm Too Sexy](https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up \(Special Edition\)](https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez) | 2:50 | 2023-06-08 |  |
 | [I'm Too Sexy](https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 2:50 | 2021-06-01 | 2023-02-16 |
 | [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 | 2023-06-08 | 2024-03-02 |
 | [If You Could Read My Mind](https://open.spotify.com/track/4l4s3IARxPjby8OOaRrFbg) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [If You Could Read My Mind](https://open.spotify.com/album/6QPlCJYRLy7l8xZxyJ4DrV) | 3:26 | 2022-06-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-790 songs - 1 day 9 hr 14 min
+791 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Always Be Mine](https://open.spotify.com/track/3ZNTziffuR64dmdeUW7MUm) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Always Be Mine](https://open.spotify.com/album/25JlVcp9yswRjYpzsllnzB) | 2:20 | 2022-05-27 | 2022-09-24 |
 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-09 |  |
 | [Am Leipzig Zeit](https://open.spotify.com/track/2qVvVAJvZegbHkYciOlnts) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [Am Leipzig Zeit](https://open.spotify.com/album/1Yz0G7wyJMMVQcq2eCfsPG) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Amble](https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Amble](https://open.spotify.com/album/4EU2EZj2ocsJTYEgCAUAVA) | 2:36 | 2022-05-27 |  |
+| [Amble](https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Amble](https://open.spotify.com/album/4EU2EZj2ocsJTYEgCAUAVA) | 2:36 | 2022-05-27 | 2024-04-14 |
 | [Amitié éternelle](https://open.spotify.com/track/7Kcs72BhrZBttmuwt2g77K) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amitié éternelle](https://open.spotify.com/album/3WFkYJ4WoNs0SXUz3vcF3R) | 2:15 | 2022-05-27 | 2022-09-24 |
 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-02 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-05-27 | 2023-01-21 |
@@ -463,7 +463,7 @@
 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 | 2023-02-27 | 2023-11-21 |
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-05-27 | 2022-07-29 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-05-27 | 2023-05-28 |
-| [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-05-27 |  |
+| [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-05-27 | 2024-04-14 |
 | [No More](https://open.spotify.com/track/45cLs8T0cgOn6ZEd4ionkG) | [Jenifer Quai](https://open.spotify.com/artist/69UqTKITQsxxESVj6AaC1C) | [No More](https://open.spotify.com/album/6MGJbUTXoEUAwZgOJY5XvE) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [No One Can Tell](https://open.spotify.com/track/2MJoNW4Ek6QnyPLWpuOT25) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [No One Can Tell](https://open.spotify.com/album/7mCXlOYcgDy2G7MUOthADC) | 2:42 | 2023-06-19 |  |
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-05-27 | 2022-09-24 |
@@ -511,7 +511,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-05-27 | 2022-07-21 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2022-05-27 | 2023-01-21 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2022-05-27 | 2023-03-28 |
-| [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 | 2024-03-03 |
+| [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 |  |
 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 | 2023-02-20 | 2023-10-21 |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-09 |  |
 | [Patina](https://open.spotify.com/track/3FjHvK6O7529qNnCqDEaFc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Arvid Holst](https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl) | [Patina](https://open.spotify.com/album/03JOXrUPxpvaAsxJ4kTa4X) | 2:02 | 2024-03-18 |  |
@@ -774,6 +774,7 @@
 | [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 | 2024-03-25 |  |
 | [Whatever Begins, Also Ends](https://open.spotify.com/track/2rPnJ16EtULbPM6c3MeNhP) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Revive](https://open.spotify.com/album/1siXATJWy2U7z27d92lVzW) | 2:43 | 2022-05-27 | 2022-09-24 |
 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-01-29 |  |
+| [When I look at you](https://open.spotify.com/track/4Pp19M88QCTYhHSlt9GFmB) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [When I look at you](https://open.spotify.com/album/1tWBD3z06MedKPwvKThkUx) | 2:28 | 2024-04-09 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-05-27 | 2023-05-17 |
 | [Whenever You're With Me](https://open.spotify.com/track/37svGyFPieAZ9D89ejymzG) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Whenever You're With Me](https://open.spotify.com/album/6Zi81juw9l7a13KmNMJjQb) | 1:53 | 2022-05-27 | 2022-09-24 |
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-27 | 2022-09-24 |

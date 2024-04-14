@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758 likes - 32 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 770 likes - 33 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 25 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
 | 26 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
 | 27 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
-| 28 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
-| 29 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
-| 30 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 31 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 32 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
+| 28 | [I Said](https://open.spotify.com/track/72bR8Uy5Ou5QVUu1JMcIEH) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Holden](https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw) | 4:40 |
+| 29 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
+| 30 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
+| 31 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
+| 32 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 33 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
 
-Snapshot ID: `MTcxMjkzNDAwMCwwMDAwMDAwMDZlZTcyNWViOTEyMjE1NmYyZWQwODIyNGNhOTUyMmM0`
+Snapshot ID: `MTcxMzAyMDQwMCwwMDAwMDAwMDVkYWRhMDBkOTIyZTE2NTc3ZTUwMGU5YzlkMGI0YzY4`

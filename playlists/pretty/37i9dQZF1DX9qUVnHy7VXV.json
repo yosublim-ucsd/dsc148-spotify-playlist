@@ -1,6 +1,6 @@
 {
   "description": "Hit del passato e nuovi brani per la tua giornata perfetta.",
-  "num_followers": 186753,
+  "num_followers": 186795,
   "original_name": "La vita \u00e8 bella!",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
+        "name": "Version",
+        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "added_at": "2024-03-19 08:25:42",
+      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2024-03-19 08:25:42",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -503,22 +507,18 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
-        "name": "Version",
-        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
-      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2024-03-19 08:25:42",
+      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-03-19 08:25:42",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2024-03-19 08:25:42",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2024-03-19 08:25:42",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2024-03-19 08:25:42",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-03-19 08:25:42",
       "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2024-03-19 08:25:42",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2024-03-19 08:25:42",
-      "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
-      },
-      "artists": [
-        {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2024-03-19 08:25:42",

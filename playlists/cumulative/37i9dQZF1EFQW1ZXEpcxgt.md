@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 58 min
+123 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 | 2022-06-04 |  |
 | [Is It Just Me](https://open.spotify.com/track/7dEztoOcmsafZLM2GSPbna) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 | 2022-06-04 |  |
 | [Lay Your Head on Me](https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Lay Your Head on Me](https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A) | 3:01 | 2022-06-04 | 2023-02-04 |
-| [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 | 2023-02-03 |  |
+| [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 | 2023-02-03 | 2024-04-14 |
+| [Lay Your Head On Me](https://open.spotify.com/track/6ToFgoFy8Lx5T5OOpdJFZa) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Olé el viaje de Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW) | 3:16 | 2024-04-13 |  |
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2022-06-04 |  |
 | [Lost](https://open.spotify.com/track/4uDXJSGlet5KBJQHPKVxGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lost](https://open.spotify.com/album/10uiCzkT1939NyhrD2Rl55) | 3:07 | 2023-12-18 | 2024-02-01 |
 | [Love You Different \(feat\. BEAM\)](https://open.spotify.com/track/27UcQ6dAvQrgH9C880rCM3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:06 | 2022-06-04 |  |

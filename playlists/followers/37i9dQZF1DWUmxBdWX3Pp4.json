@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1056531,
+  "2024-04-14": 1056814,
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Bryant Myers, Jhayco & Luar La L.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Peso Pluma y Arc\u00e1ngel ",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241250,
       "name": "CARAMELO",
       "url": "https://open.spotify.com/track/709tF8goudzArSN5WGINe8"
@@ -6087,7 +6087,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 310893,
       "name": "Mu\u00f1eca - Remix",
       "url": "https://open.spotify.com/track/4nCFetlMi0TgG6bwbORg8B"
@@ -7369,6 +7369,28 @@
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
+    },
+    {
+      "album": {
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
     },
     {
       "album": {

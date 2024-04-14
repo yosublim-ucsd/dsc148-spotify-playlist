@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 7699297,
+  "2024-04-14": 7701025,
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: George Henrique & Rodrigo, Guilherme & Benuto",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Hugo & Guilherme, Maiara & Mara\u00edsa",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Fortaleza, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167391,
+      "name": "Dedo do Meio - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
+    },
+    {
+      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX"
       },
@@ -1875,6 +1893,24 @@
       "duration_ms": 155284,
       "name": "Gatilho - Ao Vivo",
       "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "album": {
@@ -2925,7 +2961,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170599,
       "name": "O Destino",
       "url": "https://open.spotify.com/track/0iEaFZq4pD3p5HyJZelAGq"
@@ -3355,7 +3391,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162865,
       "name": "Quem t\u00e1 Pegando",
       "url": "https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD"

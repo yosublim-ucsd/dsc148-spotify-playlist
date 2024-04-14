@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81587,
+  "num_followers": 81586,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGQxMjY0Nzk5MjNlMjllMjEwODlhNzA3YjEzYmM1ZWE5",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDdlODA4YTg4NTg4M2U1YzlmZGM1NjA4YjI0MTJkMDQx",
   "tracks": [
     {
       "added_at": null,
@@ -1023,18 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+        "name": "Ch\u00e3o de Vidro",
+        "url": "https://open.spotify.com/album/6rOgL3alQJ2UQj8BkfZW4r"
       },
       "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
+      "duration_ms": 135322,
+      "name": "Ch\u00e3o de Vidro",
+      "url": "https://open.spotify.com/track/3TkVm1xeOfmc0M7ZAkXeT7"
     },
     {
       "added_at": null,
@@ -1063,22 +1067,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch\u00e3o de Vidro",
-        "url": "https://open.spotify.com/album/6rOgL3alQJ2UQj8BkfZW4r"
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
       "artists": [
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 135322,
-      "name": "Ch\u00e3o de Vidro",
-      "url": "https://open.spotify.com/track/3TkVm1xeOfmc0M7ZAkXeT7"
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,

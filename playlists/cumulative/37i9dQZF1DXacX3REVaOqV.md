@@ -4,7 +4,7 @@
 
 > The best in house music
 
-423 songs - 1 day 5 hr 25 min
+424 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-03-09 |  |
 | [Petu \- Masalo Remix](https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Nonku Phiri](https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Petu EP](https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70) | 6:05 | 2022-04-14 | 2023-04-07 |
 | [Pick Up](https://open.spotify.com/track/3FKMngtZtIZCNKYexhGrVD) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up](https://open.spotify.com/album/1jIpoJDNdPF0LPM11T402r) | 6:38 | 2022-04-28 | 2022-11-19 |
+| [Pick Up The Pieces](https://open.spotify.com/track/0AFWgdVAOq0hG0hYhzclhN) | [Doche](https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf) | [Pick Up The Pieces](https://open.spotify.com/album/6jE9BNnlGqQjJ9DZIXXxkf) | 2:09 | 2024-04-13 |  |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-17 | 2024-03-26 |
 | [PRAY](https://open.spotify.com/track/2yfBO8K26U04vEP8vHrqgE) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK), [SABRI](https://open.spotify.com/artist/79fc2VCR2SzS8evACaiaSv) | [PRAY](https://open.spotify.com/album/6cMdeBfnyXRCcJWx80653Y) | 3:14 | 2022-04-14 | 2022-06-04 |
 | [Prize Is Rite](https://open.spotify.com/track/7ssKlWmZGC3NP5xpxcQvbR) | [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Back To The 00s](https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a) | 3:01 | 2023-12-28 |  |
@@ -359,7 +360,7 @@
 | [Supposed To Do](https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Supposed To Do](https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B) | 2:48 | 2022-12-22 |  |
 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 | 2022-06-22 | 2023-02-03 |
 | [Take Me Higher \- Original Mix](https://open.spotify.com/track/56gkSicj4dcPgZ3jw5IiRC) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Take Me Higher EP](https://open.spotify.com/album/7EtAS0HMbCUm95xmfJbyZT) | 5:49 | 2022-05-05 | 2022-07-19 |
-| [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 |  |
+| [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 | 2024-04-14 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-14 | 2024-03-01 |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 | 2024-03-21 |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > La bola se va, se va, se va y se fue\. ¡Home run! ⚾️🏟🧢
 
-178 songs - 10 hr 20 min
+179 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 | 2022-09-07 |  |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2022-09-07 | 2024-03-12 |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2022-09-07 |  |
-| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2024-03-11 |  |
+| [Un Cariño Como Tu \(En Vivo\)](https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 2:45 | 2024-03-11 |  |
+| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2024-03-11 | 2024-04-14 |
 | [Venimos del Desierto](https://open.spotify.com/track/7fBJbfwWRSCje16iboEAF7) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Fierro por la 300](https://open.spotify.com/album/42V73H8DCTe6LZIRKaO9ii) | 3:10 | 2022-09-07 | 2024-03-12 |
 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 | 2022-09-07 | 2024-03-12 |
 | [Vestido Rojo](https://open.spotify.com/track/3Uitq3sF1gNMOGDMCbolhh) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [20 Éxitos](https://open.spotify.com/album/1qPiKFJw97JSrDCrv0U6oe) | 4:17 | 2022-09-07 |  |

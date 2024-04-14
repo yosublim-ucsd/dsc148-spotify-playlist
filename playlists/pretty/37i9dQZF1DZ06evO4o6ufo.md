@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,650 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,729 likes - 37 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 34 | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK) | 8:16 |
 | 35 | [Casi se les hizo \(En Vivo\)](https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:00 |
 | 36 | [Y Van A Hablar](https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:30 |
+| 37 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDAwNDY4YTljM2U0ZTY0OWVkMmNlYWIyNzQyZDMwZGMy`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGZjNDc4MTlhMzdhZDhlYWYzMDdjNjI2OTEyNzk4MDc0`

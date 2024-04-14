@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,895 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,904 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 32 | [DUALQ](https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [DUALQ](https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ) | 3:55 |
 | 33 | [Viajante](https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 3:52 |
 | 34 | [Hijos De La Tierra](https://open.spotify.com/track/58tRMABfrG0aWsOtHR32R6) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Hijos De La Tierra](https://open.spotify.com/album/3J2zjgISIvNFv5te5f5MWT) | 5:36 |
-| 35 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
-| 36 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 |
+| 35 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 |
+| 36 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
 | 37 | [La Colina de la Vida \(feat\. Chancha Vía Circuito\)](https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:11 |
 | 38 | [El 34](https://open.spotify.com/track/2PRinPnrt1LQwCjFq6uan5) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:23 |
 | 39 | [Coplita](https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:49 |

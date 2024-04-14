@@ -4,7 +4,7 @@
 
 > canciones para chillear.
 
-125 songs - 6 hr 50 min
+126 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,10 @@
 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 | 2023-10-17 | 2024-03-30 |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-10-17 | 2024-03-30 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-10-17 |  |
-| [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2023-10-17 |  |
+| [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2023-10-17 | 2024-04-14 |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-10-17 | 2023-11-18 |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-19 |  |
+| [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 |  |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2023-10-17 | 2024-04-13 |
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-10-17 | 2024-03-30 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2023-10-17 |  |

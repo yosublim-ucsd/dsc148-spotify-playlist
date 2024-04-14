@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > ¡Ponte las que más sonaron en 2023! ¡Ponte lo mejor de La Reina! Eslabon Armado y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,885 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,927 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 8 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
 | 9 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 |
 | 10 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
-| 11 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 |
+| 11 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 12 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 |
 | 13 | [PRC](https://open.spotify.com/track/0cNSq9T5l8gZnpY14rsTR2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:04 |
 | 14 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 30 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
 | 31 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
 | 32 | [BYE](https://open.spotify.com/track/6f8wbdo8KU5ETWJA7lapgS) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
-| 33 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
+| 33 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
 | 34 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
 | 35 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 |
 | 36 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |

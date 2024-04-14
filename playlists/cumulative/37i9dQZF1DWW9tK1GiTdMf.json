@@ -11968,10 +11968,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 124417,
       "name": "Pepsi & Coca",
       "url": "https://open.spotify.com/track/0RWIowbjnc4RkIGLkR0N9h"
+    },
+    {
+      "album": {
+        "name": "La dolce vita",
+        "url": "https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D"
+      },
+      "artists": [
+        {
+          "name": "Danien & The\u00f8",
+          "url": "https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124417,
+      "name": "Pepsi & Coca",
+      "url": "https://open.spotify.com/track/3dGhOC4QbPjAGHdUaOCP3Q"
     },
     {
       "album": {

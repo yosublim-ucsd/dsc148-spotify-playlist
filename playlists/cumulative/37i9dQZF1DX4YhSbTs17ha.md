@@ -4,7 +4,7 @@
 
 > Las canciones de pop más exitosas en México\. Matisse en portada.
 
-460 songs - 1 day 0 hr 47 min
+462 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,8 @@
 | [Nada Particular](https://open.spotify.com/track/3Jl4RyjzfYPje7e8kAf18T) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Nada Particular](https://open.spotify.com/album/0PbIsShhwbdpI5kEuEz7gW) | 5:31 | 2022-02-04 | 2022-02-19 |
 | [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 | 2022-06-28 |
 | [Necesito un Favor](https://open.spotify.com/track/4DhWnnCpbKNmpZ4hVYKjNc) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Necesito un Favor](https://open.spotify.com/album/3pIK5Xn2CZ1rSJ6j0jSwy6) | 2:55 | 2023-08-11 |  |
-| [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-05-19 |  |
+| [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:49 | 2024-04-12 |  |
+| [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-05-19 | 2024-04-14 |
 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 | 2024-04-12 |  |
 | [No Puede Ser \- with Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(with Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-02-04 | 2022-02-12 |
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-02-17 | 2024-04-13 |
@@ -342,7 +343,8 @@
 | [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-01-13 | 2023-02-11 |
 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 | 2023-12-01 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 |  |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-05-19 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-12 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-05-19 | 2024-04-14 |
 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 | 2023-02-03 | 2023-04-19 |
 | [Propiedad Privada](https://open.spotify.com/track/1vFXQiHX2L19gNxs5E0Pwl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Propiedad Privada](https://open.spotify.com/album/0S3QVocKE5mN0EODWCGbCZ) | 2:46 | 2023-06-30 | 2023-07-22 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-22 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 58 min
+38 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [La 701](https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:59 | 2024-03-01 |  |
 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 | 2024-01-29 |  |
 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 | 2024-01-29 |  |
+| [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 | 2024-04-14 |  |
 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 | 2024-01-29 |  |
 | [Pa' Morir Nacimos](https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Division del Terror](https://open.spotify.com/album/50IBkx5CBHsoge1jLv3z6L) | 2:37 | 2024-01-29 |  |
 | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK) | 8:16 | 2024-01-29 |  |

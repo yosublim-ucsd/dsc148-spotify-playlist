@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 2562,
+  "2024-04-14": 2582,
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -1147,6 +1147,24 @@
       "duration_ms": 176170,
       "name": "Clock",
       "url": "https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL"
+    },
+    {
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk"
     },
     {
       "album": {
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
@@ -3117,7 +3135,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210000,
       "name": "My Date",
       "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
@@ -4011,6 +4029,24 @@
       "duration_ms": 184778,
       "name": "Pause",
       "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
+    },
+    {
+      "album": {
+        "name": "Pepepepe",
+        "url": "https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199175,
+      "name": "Pepepepe",
+      "url": "https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9"
     },
     {
       "album": {

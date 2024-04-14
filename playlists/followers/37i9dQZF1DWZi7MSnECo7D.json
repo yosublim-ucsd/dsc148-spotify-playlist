@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 394935,
+  "2024-04-14": 394941,
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Bruno Berle",
+  "description": "Novidades e destaques do indie nacional. Foto: Papisa",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -1365,6 +1365,36 @@
       "duration_ms": 274932,
       "name": "Bicho Solto",
       "url": "https://open.spotify.com/track/7xKocq5r0niCRi1J0tM3kG"
+    },
+    {
+      "album": {
+        "name": "Blefe, Prova, Posse",
+        "url": "https://open.spotify.com/album/453naU4zUHH08BMlHdPdYC"
+      },
+      "artists": [
+        {
+          "name": "Apeles",
+          "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
+        },
+        {
+          "name": "Jair Naves",
+          "url": "https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai"
+        },
+        {
+          "name": "Lena Platonos",
+          "url": "https://open.spotify.com/artist/0sCJq0aWIAWwGsNujLLnYV"
+        },
+        {
+          "name": "Helio Flandres",
+          "url": "https://open.spotify.com/artist/2OD6cVeCQanWOcP4m2fkcg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Blefe, Prova, Posse",
+      "url": "https://open.spotify.com/track/2vywnLvUFVsqA9KhuKsn0p"
     },
     {
       "album": {
@@ -5520,6 +5550,24 @@
     },
     {
       "album": {
+        "name": "Mergulho",
+        "url": "https://open.spotify.com/album/1KrVnGcU93HKOu4basKojz"
+      },
+      "artists": [
+        {
+          "name": "ninamarina",
+          "url": "https://open.spotify.com/artist/36FyHOBBQtVGUHfVmB7pzc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192572,
+      "name": "Mergulho",
+      "url": "https://open.spotify.com/track/5aCQreCtig33n2exJZTOdQ"
+    },
+    {
+      "album": {
         "name": "Mete Dance",
         "url": "https://open.spotify.com/album/2QesnpT4w22aWEup9ian9w"
       },
@@ -7051,6 +7099,28 @@
       "duration_ms": 152536,
       "name": "Pare",
       "url": "https://open.spotify.com/track/12aSXMAvxEOGocRJWKhOXP"
+    },
+    {
+      "album": {
+        "name": "partida (eu corro lo-fi mix)",
+        "url": "https://open.spotify.com/album/5DuDxH1O5A008Bp0onUhWx"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        },
+        {
+          "name": "Qumma",
+          "url": "https://open.spotify.com/artist/4FzMoW9tx9zfyW91EbHrkv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105018,
+      "name": "partida - eu corro lo-fi mix",
+      "url": "https://open.spotify.com/track/5zMnl2vbs28HyE5PHat3pz"
     },
     {
       "album": {
@@ -10204,6 +10274,24 @@
     },
     {
       "album": {
+        "name": "Amor Delirio",
+        "url": "https://open.spotify.com/album/2JsFn6O8KPEX5UL2KSFugn"
+      },
+      "artists": [
+        {
+          "name": "Papisa",
+          "url": "https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189829,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/4kjGJky3RBDFK2CiVC2wM3"
+    },
+    {
+      "album": {
         "name": "vai/fica",
         "url": "https://open.spotify.com/album/7iGZTI4eHlpjJYPLwbQF04"
       },
@@ -10525,6 +10613,24 @@
       "duration_ms": 195200,
       "name": "Voc\u00ea",
       "url": "https://open.spotify.com/track/3b6IgM70DasoHSQ2NQbgfR"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Me Deu a M\u00e3o",
+        "url": "https://open.spotify.com/album/5fXUFmz3UWZprhEIZ1spyy"
+      },
+      "artists": [
+        {
+          "name": "Rafa Martins",
+          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154178,
+      "name": "Voc\u00ea Me Deu a M\u00e3o",
+      "url": "https://open.spotify.com/track/1oOrihudjA8uPLlYK7KsV0"
     },
     {
       "album": {

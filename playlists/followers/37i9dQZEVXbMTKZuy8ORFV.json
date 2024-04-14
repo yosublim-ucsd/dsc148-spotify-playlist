@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 12799,
+  "2024-04-14": 12800,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 365583,
       "name": "Ahora Sufre",
       "url": "https://open.spotify.com/track/5yyig9sXF0ZNAApIusdwqd"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
@@ -2538,6 +2538,32 @@
     },
     {
       "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
+    },
+    {
+      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua"
       },
@@ -2575,7 +2601,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -2733,7 +2759,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187087,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
@@ -3355,7 +3381,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 205217,
       "name": "Nena Sad",
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
@@ -4479,7 +4505,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

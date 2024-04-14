@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-43 songs - 1 hr 50 min
+44 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Basic](https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 1:51 | 2022-10-28 |  |
 | [Big FlexHer](https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:35 | 2022-10-28 |  |
 | [BIRTHDAY FREESTYLE](https://open.spotify.com/track/5ac7sJvoNJePsYd6AmOE3E) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [BIRTHDAY FREESTYLE](https://open.spotify.com/album/4LqEhKLTVXwXUy3kTviW2d) | 1:37 | 2024-03-08 | 2024-03-10 |
+| [Bitch Duh \(Remix\)](https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh \(Remix\)](https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i) | 2:52 | 2024-04-14 |  |
 | [Brand New \(feat\. Layton Green\)](https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:46 | 2022-10-28 |  |
 | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Distractions](https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe) | 1:45 | 2022-10-28 |  |
 | [Check \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:52 | 2022-10-28 |  |

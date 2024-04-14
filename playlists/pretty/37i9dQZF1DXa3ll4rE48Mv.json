@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 190085,
+  "num_followers": 190162,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "The Royal They",
         "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 183994,
       "name": "Full Metal Black",
       "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
       "added_at": "2023-05-25 14:38:53",

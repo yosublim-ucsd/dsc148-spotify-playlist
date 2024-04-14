@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,808 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,819 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

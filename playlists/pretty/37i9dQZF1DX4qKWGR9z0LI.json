@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Victor Manuelle",
-  "num_followers": 1812656,
+  "num_followers": 1812712,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -31,18 +31,18 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -67,18 +67,18 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2024-04-12 14:17:23",
-      "album": {
         "name": "Mi Musica",
         "url": "https://open.spotify.com/album/2jEEoXy1jY7qzWbjWzAI7o"
       },
@@ -559,22 +543,6 @@
       "duration_ms": 344626,
       "name": "Como Te Hago Entender",
       "url": "https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My"
-    },
-    {
-      "added_at": "2024-04-12 14:17:23",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -599,6 +567,38 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2024-04-12 14:17:23",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
+    },
+    {
+      "added_at": "2024-04-12 14:17:23",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2024-04-12 14:17:23",
-      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2024-04-12 14:17:23",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
+        "name": "Monedita",
+        "url": "https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "Monedita",
+      "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
+    },
+    {
+      "added_at": "2024-04-12 14:17:23",
+      "album": {
         "name": "Arriba Siempre - De Pura Sangre",
         "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2024-04-12 14:17:23",
-      "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2024-04-12 14:17:23",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-04-12 14:17:23",
       "album": {
-        "name": "Monedita",
-        "url": "https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT"
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
         }
       ],
-      "duration_ms": 160773,
-      "name": "Monedita",
-      "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2024-04-12 14:17:23",

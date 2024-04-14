@@ -2,9 +2,9 @@
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This is Luis R Conriquez\. The essential tracks, all in one playlist.
+> This Is Luis R Conriquez\. Los temas esenciales, todos en una lista.
 
-148 songs - 7 hr 25 min
+149 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [De Seattle Hasta San Diego](https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Seattle Hasta San Diego](https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f) | 3:22 | 2022-06-01 | 2022-10-13 |
 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 | 2022-06-01 | 2023-03-14 |
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-08 |  |
+| [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 | 2024-04-14 |  |
 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 | 2022-10-17 | 2023-06-24 |
 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 | 2023-03-13 | 2024-01-08 |
 | [El 2](https://open.spotify.com/track/41kC1zrv2t2Tb683qkSUQz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:18 | 2024-03-21 | 2024-04-13 |

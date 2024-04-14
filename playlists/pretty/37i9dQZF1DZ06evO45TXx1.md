@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
+> This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,487 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 18 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 19 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 20 | [Rude](https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:43 |
-| 21 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 |
+| 21 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 |
 | 22 | [Última Vez](https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 1:50 |
-| 23 | [iPhone 12](https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Trap de Quebra](https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0) | 2:47 |
+| 23 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 |
 | 24 | [Surtada](https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Jhonks](https://open.spotify.com/artist/2CGJLBZFsTvboRvWoH4bu5) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:44 |
-| 25 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 |
+| 25 | [iPhone 12](https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Trap de Quebra](https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0) | 2:47 |
 | 26 | [DEPOIS DO BAILE](https://open.spotify.com/track/2j15gcfNgGBgfvjQXCTqhg) | [FyeBwoii](https://open.spotify.com/artist/1TqnOc6Peow4jowVNp4DZm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:00 |
 | 27 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 |
 | 28 | [Atacante](https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JayP](https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Kit Rosa](https://open.spotify.com/track/3IHVQZgAcmWJq7PqKBvBqV) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rimura](https://open.spotify.com/artist/1jiDZPnZHiAZUgg911r419) | [Kit Rosa](https://open.spotify.com/album/5XLsxpXP4MhGzBDEOydcnn) | 3:17 |
 | 50 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDM2MDRlYjQzY2JlYzIzMTU3NmRlMTNmNmI0YzBlMzVm`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGZmMmRjZDI0NzJhMzc3NjM0ZTUyMjBjZTE4MzZiMTU5`

@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 62448,
+  "num_followers": 62630,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMDg4NTA5Zjk4YTg3OWU0ZjQzZWZlMTJmMDhkN2MwZTk5",
+  "snapshot_id": "MTcxMzAyMDI4MSwwMDAwMDAwMGRlNzMxNTBjYTEwZWY0MjU0OTQwNzc1OGRhMDcxOTM2",
   "tracks": [
     {
       "added_at": "2024-04-11 22:00:00",
@@ -199,6 +199,26 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-04-13 14:58:01",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/00ygWYIcvbGpkFHvx6hNx5"
+      },
+      "artists": [
+        {
+          "name": "xust.",
+          "url": "https://open.spotify.com/artist/2Y2UOYYwgQJjRWAA71cJRf"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 110551,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/7IyYnCxzBvrwf73Xau44AO"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1705,7 +1725,7 @@
       "artists": [
         {
           "name": "Zerb",
-          "url": "https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR"
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
           "name": "Sofiya Nzau",

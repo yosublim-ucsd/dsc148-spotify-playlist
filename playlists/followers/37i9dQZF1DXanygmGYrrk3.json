@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 295286,
+  "2024-04-14": 295430,
   "date_first_scraped": "2022-05-23",
-  "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Alejandro Fern\u00e1ndez & Alfredo Olivas",
+  "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Christian Nodal & Peso Pluma",
   "name": "Las Favoritas",
   "tracks": [
     {
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170720,
       "name": "Eres Una Ni\u00f1a",
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
@@ -2799,7 +2799,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
@@ -5582,6 +5582,24 @@
     },
     {
       "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
+    },
+    {
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -5641,7 +5659,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
@@ -6097,7 +6115,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
@@ -6503,7 +6521,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
@@ -6615,7 +6633,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 246131,
       "name": "Tu - En Vivo",
       "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
@@ -6669,10 +6687,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174000,
       "name": "Tu Perfume",
       "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+    },
+    {
+      "album": {
+        "name": "Tutorial Para Olvidar",
+        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197265,
+      "name": "Tutorial Para Olvidar",
+      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
     },
     {
       "album": {

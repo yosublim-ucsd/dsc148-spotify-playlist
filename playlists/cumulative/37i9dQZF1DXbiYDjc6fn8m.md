@@ -4,7 +4,7 @@
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-80 songs - 5 hr 28 min
+81 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2020-04-29 |  |
 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 | 2020-04-29 |  |
 | [Saturday Night \- DJ F.R.A.N.K's UK Radio Edit](https://open.spotify.com/track/3AuXkWjFWfvBzZMEdkQ7Dw) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb), [DJ F.R.A.N.K](https://open.spotify.com/artist/43oo61fsxzzG7EyojMiDBl) | [Saturday Night \- The UK Mixes](https://open.spotify.com/album/12FGrFz8BKa6qelKnK6WwN) | 3:36 | 2020-04-29 |  |
-| [Shining star \(Gianluca Motta edit\)](https://open.spotify.com/track/3shPyqaRtM5pisiQMjsx0I) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q) | [Shining star](https://open.spotify.com/album/0mkPmNkLEdZXRbqitaIUzO) | 3:40 | 2020-04-29 |  |
+| [Shining star \(Gianluca Motta edit\)](https://open.spotify.com/track/3shPyqaRtM5pisiQMjsx0I) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q) | [Shining star](https://open.spotify.com/album/0mkPmNkLEdZXRbqitaIUzO) | 3:40 | 2020-04-29 | 2024-04-14 |
+| [Shining Star \- Gianluca Motta Edit](https://open.spotify.com/track/2VMxUaruqkrEVRzCUgmrUy) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Gianluca Motta](https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q) | [Shining Star](https://open.spotify.com/album/7bnmeEp0k9uronATYwYzhh) | 3:40 | 2020-04-29 |  |
 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 | 2020-04-29 |  |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2020-04-29 |  |
 | [Summer Jam \- Remake](https://open.spotify.com/track/5ANQcP9cHO6rC53lEWPnqq) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r) | [Summer Jam \- Remake](https://open.spotify.com/album/6FFy8NzLR5YFGqwcwqbSNg) | 3:01 | 2020-04-29 |  |

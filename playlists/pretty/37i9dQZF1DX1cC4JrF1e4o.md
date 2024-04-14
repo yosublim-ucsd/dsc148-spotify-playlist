@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,196 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,354 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 11 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
 | 12 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
 | 13 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 |
-| 14 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
-| 15 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
+| 14 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
+| 15 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
 | 16 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 |
-| 17 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
-| 18 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
+| 17 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
+| 18 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 19 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 20 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 |
 | 21 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
-  "num_followers": 205588,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 205609,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDg0ODRlMTNjNTJiMWE5MWUxZTk0NDFkZmRiOWQ2MGY2",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRhMzQ0MDNhYWM4YzE5MDM2MGEyNmQ4YTc2ZWJmNTQx",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
-      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papito (Deluxe)",
         "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 225373,
       "name": "Morenam\u00eda (Dueto 2007)",
       "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
+      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Oleada",
+      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar Dulce",
         "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218920,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Oleada",
-      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,

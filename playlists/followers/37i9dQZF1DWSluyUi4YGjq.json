@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 158112,
+  "2024-04-14": 158264,
   "date_first_scraped": "2022-05-11",
   "description": "20 new tracks added by Wisp to celebrate her new EP Pandora. ",
   "name": "Shoegaze Now",
@@ -2052,6 +2052,28 @@
     },
     {
       "album": {
+        "name": "colonthree",
+        "url": "https://open.spotify.com/album/5BK4RdkaH5CrpzreqZxNQY"
+      },
+      "artists": [
+        {
+          "name": "Photographic Memory",
+          "url": "https://open.spotify.com/artist/64x3JwG14gkRHW8lVDvvSV"
+        },
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139340,
+      "name": "colonthree",
+      "url": "https://open.spotify.com/track/0h02WpRNz7E3pAGelLGCEZ"
+    },
+    {
+      "album": {
         "name": "coma",
         "url": "https://open.spotify.com/album/0G0FpaE92mPvnBpEnaimyg"
       },
@@ -2063,7 +2085,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166406,
       "name": "coma",
       "url": "https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu"
@@ -3183,7 +3205,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175447,
       "name": "drown",
       "url": "https://open.spotify.com/track/3CGM4X26XQf8J9PI30o1VB"
@@ -4475,7 +4497,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 287214,
       "name": "Happy Medium",
       "url": "https://open.spotify.com/track/6kNN5kQNZ2IzF6G6tSMQVR"
@@ -6426,6 +6448,24 @@
     },
     {
       "album": {
+        "name": "lover's spit plays in the background",
+        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "lover's spit plays in the background",
+      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
+    },
+    {
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/1VezLfXQD0isfO7BJv97aa"
       },
@@ -7169,6 +7209,24 @@
       "duration_ms": 130326,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/2X2moPOG9suNlRdefbhDKq"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
+      },
+      "artists": [
+        {
+          "name": "Idaho",
+          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190731,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"
     },
     {
       "album": {
@@ -8293,7 +8351,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 239586,
       "name": "Scapa Flow",
       "url": "https://open.spotify.com/track/4oaLvyUUF7poPuAZSKnNT9"
@@ -8777,6 +8835,24 @@
       "duration_ms": 184598,
       "name": "Soft Fall",
       "url": "https://open.spotify.com/track/6ThKjKr31pQA2odkt8J2Ev"
+    },
+    {
+      "album": {
+        "name": "Softer Skin",
+        "url": "https://open.spotify.com/album/1rLWutvkrtoYT4I6XvDVQA"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Softer Skin",
+      "url": "https://open.spotify.com/track/7v8G52La90RrxGmly92ua9"
     },
     {
       "album": {

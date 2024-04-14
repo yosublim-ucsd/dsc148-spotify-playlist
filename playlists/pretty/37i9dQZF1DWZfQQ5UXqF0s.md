@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 
 > ¡Nuestros amados 90 los recordamos así!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,319 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,459 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 | 45 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
 | 46 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 |
 | 47 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
-| 48 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
-| 49 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
+| 48 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
+| 49 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
 | 50 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
 | 51 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 |
 | 52 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 | 56 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 | 57 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
 | 58 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
-| 59 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
-| 60 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 61 | [Nubes](https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:34 |
+| 59 | [Nubes](https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:34 |
+| 60 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
+| 61 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 62 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 63 | [Desesperada](https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 3:47 |
 | 64 | [Estés Donde Estés](https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 4:01 |
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfQQ5UXqF0s.md) - [plain]
 | 73 | [Así Fue \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/6nOJ1EJYDa5QCI6RGBuozw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 7:24 |
 | 74 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
 | 75 | [Bocanada](https://open.spotify.com/track/12uaDRCVrgu4O6AyOZLrxG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:06 |
-| 76 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
-| 77 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 76 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 77 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
 | 78 | [Formas De Amor](https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf) | 4:02 |
 | 79 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
 | 80 | [Zoom \- Remasterizado 2007](https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:26 |
 | 81 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 |
 | 82 | [Entre dos tierras](https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 6:08 |
-| 83 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
-| 84 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
+| 83 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
+| 84 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
 | 85 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 86 | [Macarena](https://open.spotify.com/track/6mhw2fEPH4fMF0wolNm96e) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Hits Of The 90s](https://open.spotify.com/album/5hiQZaZeGH7HWy2VjDwTcZ) | 3:42 |
 | 87 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 
 > Whale song from the deep underwater world of the oceans
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,175 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,269 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 | 44 | [Underwater Orchestra](https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe) | [The Marine Mammals](https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ) | [Underwater Orchestra](https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD) | 2:18 |
 | 45 | [Abyss Whales](https://open.spotify.com/track/6EH7wcBsac2lV6eXa0m2Vs) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 3:12 |
 | 46 | [Sound Of Whales](https://open.spotify.com/track/0G2IIsgdeGXJILYswYwbbe) | [Studio Sea](https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58) | [Sound Of Whales](https://open.spotify.com/album/3soWTJQvoO7bSV4ToPWxfL) | 2:54 |
-| 47 | [Whale Song I](https://open.spotify.com/track/1200m91gtne5JWrxvRaslI) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whale Songs](https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr) | 3:16 |
-| 48 | [Whale Sphere](https://open.spotify.com/track/67SL1isR1tpsy0RK5dpeXl) | [Calm 'N' Cosy](https://open.spotify.com/artist/5eFohrmBdEOenrovwK5UZb) | [Whale Sphere](https://open.spotify.com/album/42oHqXDgCOIQzCNyx2EzYa) | 2:30 |
+| 47 | [Whale Sphere](https://open.spotify.com/track/67SL1isR1tpsy0RK5dpeXl) | [Calm 'N' Cosy](https://open.spotify.com/artist/5eFohrmBdEOenrovwK5UZb) | [Whale Sphere](https://open.spotify.com/album/42oHqXDgCOIQzCNyx2EzYa) | 2:30 |
+| 48 | [Whale Song I](https://open.spotify.com/track/1200m91gtne5JWrxvRaslI) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whale Songs](https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr) | 3:16 |
 | 49 | [Whales in the Sea II](https://open.spotify.com/track/6eO4YceIq0yZFphCJ7ca57) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Whales in the Sea](https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW) | 3:12 |
 | 50 | [Black Water Whales](https://open.spotify.com/track/4lCwll0aDIchTg9qd7njC4) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 2:54 |
 

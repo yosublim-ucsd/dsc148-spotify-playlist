@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,650 likes - 44 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,660 likes - 44 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 36 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 37 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
 | 38 | [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 |
-| 39 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
-| 40 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
+| 39 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
+| 40 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
 | 41 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
 | 42 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
-| 43 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
-| 44 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 |
+| 43 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 |
+| 44 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 
 Snapshot ID: `MTcxMjI3NTI2MCwwMDAwMDAwMDFiZTFmYzliMDA4MTMwZDI4NGU0MzVhOGRkZDcyNGJh`

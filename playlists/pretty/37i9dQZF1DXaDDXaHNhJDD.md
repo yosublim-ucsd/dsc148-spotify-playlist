@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Manjummel Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,150 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,269 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

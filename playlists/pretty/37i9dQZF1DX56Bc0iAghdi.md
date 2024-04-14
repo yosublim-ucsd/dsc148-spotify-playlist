@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,271 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,294 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 29 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 |
 | 30 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 31 | [Brighter](https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Brighter](https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q) | 4:39 |
-| 32 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
-| 33 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 |
+| 32 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 |
+| 33 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
 | 34 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
 | 35 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
-| 36 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
-| 37 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
+| 36 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
+| 37 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
 | 38 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
 | 39 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 40 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |

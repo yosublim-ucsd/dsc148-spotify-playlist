@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 54095,
+  "2024-04-14": 54113,
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators. Currently curated by FONTINE.",
+  "description": "A free space for Indigenous creators. Currently curated by Florent Vollant.",
   "name": "Indigenous",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226500,
       "name": "'Nii Wila Waalt",
       "url": "https://open.spotify.com/track/4CPPB1reRJWKVjOePcCbIW"
@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "album": {
         "name": "Yarrow Lover",
         "url": "https://open.spotify.com/album/5xvA5UBWlnkwaKUqKMWgyU"
       },
@@ -107,7 +125,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154420,
       "name": "4AM",
       "url": "https://open.spotify.com/track/3RqJZ6jrqxNzCYVAKShiqg"
@@ -277,10 +295,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170081,
       "name": "Adult Swim",
       "url": "https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD"
+    },
+    {
+      "album": {
+        "name": "AIAMIEU",
+        "url": "https://open.spotify.com/album/21gQTPoUz7nPidsyDwHB5L"
+      },
+      "artists": [
+        {
+          "name": "DJ UNPIER",
+          "url": "https://open.spotify.com/artist/03NRcwTsOiqNIr0ND9wfWB"
+        },
+        {
+          "name": "Ninan",
+          "url": "https://open.spotify.com/artist/3ERXkMlI9khEvuU4DJTRgG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285818,
+      "name": "AIAMIEU",
+      "url": "https://open.spotify.com/track/3VAmyUS72bTrluIqoWaD6j"
     },
     {
       "album": {
@@ -479,7 +519,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 310946,
       "name": "Always Have What We Had",
       "url": "https://open.spotify.com/track/0IZ7ls2pATNpqd6lo0x9qH"
@@ -689,6 +729,24 @@
       "duration_ms": 286213,
       "name": "Asanaqigavit/Du Er S\u00e5 K\u00e6rlig",
       "url": "https://open.spotify.com/track/38jd4iEZaefLbxIrDFoHIW"
+    },
+    {
+      "album": {
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187129,
+      "name": "Ashuapami",
+      "url": "https://open.spotify.com/track/5Ohkd33e5crDYb6O87n0Nt"
     },
     {
       "album": {
@@ -1131,7 +1189,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212183,
       "name": "Bobtail Road",
       "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
@@ -1149,7 +1207,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204407,
       "name": "Bologna Girl",
       "url": "https://open.spotify.com/track/3L5lcaZZh8WIc1Eue3HBpP"
@@ -1175,6 +1233,24 @@
       "duration_ms": 245588,
       "name": "Boogity",
       "url": "https://open.spotify.com/track/46thOmnfUy0uGIPS721ceB"
+    },
+    {
+      "album": {
+        "name": "Gilles C. Sioui & The Midnight Riders",
+        "url": "https://open.spotify.com/album/2Oj9r5DJuAepHnE8rPkbpZ"
+      },
+      "artists": [
+        {
+          "name": "Gilles C. Sioui",
+          "url": "https://open.spotify.com/artist/4xuTr2AQ1m0aCqaZrHHBw7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408053,
+      "name": "Bound For A Change ( Letter To Dolly )",
+      "url": "https://open.spotify.com/track/4vUQTMrkyOXBheBEhncQfr"
     },
     {
       "album": {
@@ -1570,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245411,
+      "name": "Cold wind",
+      "url": "https://open.spotify.com/track/3GJ4zpI26MiyYAXkP36YGa"
+    },
+    {
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -1773,7 +1867,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172135,
       "name": "Dancing with Sue",
       "url": "https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw"
@@ -2167,7 +2261,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 218265,
       "name": "Eka Patshitenimu",
       "url": "https://open.spotify.com/track/3MlZfcV2aXIEwii8aYJ6eK"
@@ -2761,7 +2855,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211903,
       "name": "Fox (feat. Johnny Griffin)",
       "url": "https://open.spotify.com/track/5RtVuxs0ciPmU1pnh8iAeE"
@@ -2877,6 +2971,24 @@
       "duration_ms": 230467,
       "name": "Gaagige - Single Edit",
       "url": "https://open.spotify.com/track/5N63wxCYRKpT72lNmiNQyg"
+    },
+    {
+      "album": {
+        "name": "Qama'si",
+        "url": "https://open.spotify.com/album/6qZ7GCyl17q98BtutNA0sk"
+      },
+      "artists": [
+        {
+          "name": "Q052",
+          "url": "https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244909,
+      "name": "Gespeg",
+      "url": "https://open.spotify.com/track/7FVtgWoiZZCTl2eKfCw0Zs"
     },
     {
       "album": {
@@ -3418,6 +3530,24 @@
     },
     {
       "album": {
+        "name": "Watin",
+        "url": "https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237520,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/3bJRSK6LGmabDz91waHWWS"
+    },
+    {
+      "album": {
         "name": "P\u00eecic\u00eewin - Cree Round Dance Songs",
         "url": "https://open.spotify.com/album/2zzJxqdbhH21xWvl4Zq5EG"
       },
@@ -3563,10 +3693,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180527,
       "name": "Homemaker",
       "url": "https://open.spotify.com/track/5J49qx8DeBQGi173ikPMoA"
+    },
+    {
+      "album": {
+        "name": "Honor Song",
+        "url": "https://open.spotify.com/album/4MnyNUzWm0sJv1QTgI4Ue8"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200272,
+      "name": "Honor Song",
+      "url": "https://open.spotify.com/track/0hSNRXVi3GODbTigjYJzNQ"
     },
     {
       "album": {
@@ -3951,7 +4099,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 186766,
       "name": "Icpimik - Le sommet, vers le haut",
       "url": "https://open.spotify.com/track/1rROz5NF2Qw5PObSbimfaK"
@@ -4171,7 +4319,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 211489,
       "name": "Immutaa",
       "url": "https://open.spotify.com/track/5Q9v0cy6iqc4VvCtDpUnPk"
@@ -4287,6 +4435,24 @@
       "duration_ms": 200779,
       "name": "Inkblot",
       "url": "https://open.spotify.com/track/1UlbB08629uQox8FbeGAyk"
+    },
+    {
+      "album": {
+        "name": "Innu auass",
+        "url": "https://open.spotify.com/album/0ncykYuyqzbIhI1kmk7qS8"
+      },
+      "artists": [
+        {
+          "name": "Ninan",
+          "url": "https://open.spotify.com/artist/3ERXkMlI9khEvuU4DJTRgG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245950,
+      "name": "Innu-auass",
+      "url": "https://open.spotify.com/track/2iqlC5fMZeZuXvFLoOAiXe"
     },
     {
       "album": {
@@ -4518,6 +4684,24 @@
     },
     {
       "album": {
+        "name": "Tshi nashkumitinan On vous remercie Thank you (Compilation)",
+        "url": "https://open.spotify.com/album/2Zt8HjqoI2dLKMOpd8jfWk"
+      },
+      "artists": [
+        {
+          "name": "Petapan",
+          "url": "https://open.spotify.com/artist/5XimImrLy6ye73MRPjMWuF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255216,
+      "name": "Kanatuut",
+      "url": "https://open.spotify.com/track/0xe8BltGrL4HqoDRnsgiWP"
+    },
+    {
+      "album": {
         "name": "Natukun",
         "url": "https://open.spotify.com/album/3zhLQ4IDmwmKcACbRU9zNW"
       },
@@ -4646,6 +4830,24 @@
     },
     {
       "album": {
+        "name": "Nikamu Mamuitun - Chansons Rassembleuses",
+        "url": "https://open.spotify.com/album/1rNZ6hEOEgntjXqIUwKnm1"
+      },
+      "artists": [
+        {
+          "name": "Nikamu Mamuitun - Chansons Rassembleuses",
+          "url": "https://open.spotify.com/artist/7MHVMBQK55O8QBWFobRr0A"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249144,
+      "name": "Kir Neshimesh",
+      "url": "https://open.spotify.com/track/6ClW07DTu0jzBsaflDaRcA"
+    },
+    {
+      "album": {
         "name": "Mikwanak Kam\u00f4sakinat",
         "url": "https://open.spotify.com/album/6HyqJkZFWQNAD1tiuh8QVe"
       },
@@ -4675,7 +4877,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185000,
       "name": "La lune",
       "url": "https://open.spotify.com/track/67Vl5uu19ebqQK3yqti6Bl"
@@ -5003,7 +5205,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 271973,
       "name": "Look How the Stars Shine for You",
       "url": "https://open.spotify.com/track/6RUKTjMQPviIJ3PsuiUVek"
@@ -5413,7 +5615,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 245666,
       "name": "Mikwetc",
       "url": "https://open.spotify.com/track/2tKrw6MfcXTlol3HOMcjoe"
@@ -5695,7 +5897,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202474,
       "name": "Native Tongue",
       "url": "https://open.spotify.com/track/7AwFPHpQYxLfjJIP86FCFV"
@@ -5735,6 +5937,24 @@
       "duration_ms": 231636,
       "name": "Nature Song for the Time Being",
       "url": "https://open.spotify.com/track/5ebGwcGY1imEg1hWHU5lfs"
+    },
+    {
+      "album": {
+        "name": "Nanto",
+        "url": "https://open.spotify.com/album/4mxHLloJiV7XWTN6F1TYMD"
+      },
+      "artists": [
+        {
+          "name": "Pako",
+          "url": "https://open.spotify.com/artist/7DnmzJG2D5iYhmLjr9579C"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Ni coriawoc",
+      "url": "https://open.spotify.com/track/7vaMWsw0vZD0GIJZUYwo73"
     },
     {
       "album": {
@@ -5793,7 +6013,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187491,
       "name": "Niiyo Biboonagizi",
       "url": "https://open.spotify.com/track/41rlFaW0JBFx8ABkEdRi7k"
@@ -5913,7 +6133,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 216926,
       "name": "Nitepuatauat",
       "url": "https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2"
@@ -5953,7 +6173,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 228306,
       "name": "No More",
       "url": "https://open.spotify.com/track/3E30YgPiMEzcOKEzxhX0HK"
@@ -6091,6 +6311,24 @@
       "duration_ms": 257933,
       "name": "O Siem",
       "url": "https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg"
+    },
+    {
+      "album": {
+        "name": "This Child",
+        "url": "https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ"
     },
     {
       "album": {
@@ -6303,7 +6541,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 247694,
       "name": "Ota",
       "url": "https://open.spotify.com/track/5d8Rw7RD8Gh3zXTscXZU9r"
@@ -6441,6 +6679,24 @@
       "duration_ms": 182733,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2BmNV0lBwhUaehpe1TyPQc"
+    },
+    {
+      "album": {
+        "name": "Uapen Nuta / Terre de nos a\u00efeux",
+        "url": "https://open.spotify.com/album/3fmzmf0oxOOggNGcmMEq0r"
+      },
+      "artists": [
+        {
+          "name": "Katia Rock",
+          "url": "https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229269,
+      "name": "Peik Tshishek",
+      "url": "https://open.spotify.com/track/7B8MSmoAMzBVFcU3Xmwtx5"
     },
     {
       "album": {
@@ -6751,7 +7007,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 259435,
       "name": "qaumajuapik",
       "url": "https://open.spotify.com/track/2yyFJti9vmhHFwqgfC37zv"
@@ -6787,7 +7043,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188373,
       "name": "Qaumariaq",
       "url": "https://open.spotify.com/track/0l7aujB6vAnhJQ8YvD4ZhN"
@@ -6937,7 +7193,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 213002,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/57jJgUYf4HsjWL0wMDnSdv"
@@ -7205,7 +7461,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 256866,
       "name": "River",
       "url": "https://open.spotify.com/track/4Ap6iKHnyE5dSLNZlQ7stS"
@@ -7329,6 +7585,24 @@
       "duration_ms": 181712,
       "name": "Run for Cover",
       "url": "https://open.spotify.com/track/43kZmT655a87D1YQwIF8Q2"
+    },
+    {
+      "album": {
+        "name": "THE 27A's",
+        "url": "https://open.spotify.com/album/4m3jcbKcelHXuz8BnttWk9"
+      },
+      "artists": [
+        {
+          "name": "Native Mafia Family",
+          "url": "https://open.spotify.com/artist/5CptimURU8kFnYEWYynLPp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/22nWc5p2nCsjrhypkfc9Lt"
     },
     {
       "album": {
@@ -7798,6 +8072,28 @@
     },
     {
       "album": {
+        "name": "Rez Road (Powwow)",
+        "url": "https://open.spotify.com/album/1zXjPmkstwROUd25gFtvfZ"
+      },
+      "artists": [
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+        },
+        {
+          "name": "A Tribe Called Red",
+          "url": "https://open.spotify.com/artist/4S0ovGmM3YEeWE4VBNhX1v"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263160,
+      "name": "Single Feather Remix (feat. Tribe Called Red)",
+      "url": "https://open.spotify.com/track/052gVPbCvTq1ILJe6e6z7H"
+    },
+    {
+      "album": {
         "name": "Inuktitut",
         "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
@@ -7917,7 +8213,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 271394,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/4H3ZlQrNRbqVXyJxHOrksT"
@@ -7975,7 +8271,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 316800,
       "name": "Snakehold - Boogey the Beat Remix",
       "url": "https://open.spotify.com/track/2sl8aplQ2yJR3aRrCUx4S5"
@@ -7993,7 +8289,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 230693,
       "name": "Snowblind",
       "url": "https://open.spotify.com/track/4F6C1k9TfEEzCo86m4K1Bu"
@@ -8072,6 +8368,24 @@
     },
     {
       "album": {
+        "name": "Music Is the Medicine",
+        "url": "https://open.spotify.com/album/3rKd1eacDBKToUM2yJUnfW"
+      },
+      "artists": [
+        {
+          "name": "Derek Miller",
+          "url": "https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Someone Call an Angel Down",
+      "url": "https://open.spotify.com/track/6Uvn68XWVZqCMzvNCmE7WM"
+    },
+    {
+      "album": {
         "name": "nipiy",
         "url": "https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT"
       },
@@ -8083,7 +8397,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196760,
       "name": "somnambulist",
       "url": "https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb"
@@ -8473,7 +8787,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 280524,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/1zi5fVwdccC7K33py9xyfI"
@@ -8517,6 +8831,28 @@
       "duration_ms": 195173,
       "name": "Sunstreams",
       "url": "https://open.spotify.com/track/6lG9rQwEfqKidsZbWwef8S"
+    },
+    {
+      "album": {
+        "name": "Face \u00e0 soi-m\u00eame",
+        "url": "https://open.spotify.com/album/6daOlew1CMzbQgNEvGg0PL"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        },
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Sur le dos d'une tortue",
+      "url": "https://open.spotify.com/track/6EzHzaKGUdLYAowkAmY9aM"
     },
     {
       "album": {
@@ -8919,7 +9255,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238250,
       "name": "Thanksgiving Day",
       "url": "https://open.spotify.com/track/3KOnJuIOPEUq0ckGrZ4lHU"
@@ -9287,7 +9623,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215857,
       "name": "There I Wander",
       "url": "https://open.spotify.com/track/4VOrdRpCaxWjFPo6XZyILP"
@@ -9420,6 +9756,24 @@
     },
     {
       "album": {
+        "name": "Mukuuin",
+        "url": "https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn"
+      },
+      "artists": [
+        {
+          "name": "Claude McKenzie",
+          "url": "https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250580,
+      "name": "Tipatshimun",
+      "url": "https://open.spotify.com/track/5kw33L21hMi37Lz2NnZtfH"
+    },
+    {
+      "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
@@ -9507,7 +9861,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 269207,
       "name": "Tour du monde",
       "url": "https://open.spotify.com/track/4IGi6riZQdMJTKoT44CLbZ"
@@ -9543,7 +9897,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215469,
       "name": "Tropical Sour Candy - Golden Hour Version",
       "url": "https://open.spotify.com/track/21w6McGPy3LBOIXgwkiZDJ"
@@ -9583,6 +9937,86 @@
       "duration_ms": 190680,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4VbffBUFxJ960bNtvCBbiE"
+    },
+    {
+      "album": {
+        "name": "Tshe minupunanu",
+        "url": "https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        },
+        {
+          "name": "Scott-Pien Picard",
+          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
+        },
+        {
+          "name": "Maten",
+          "url": "https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230581,
+      "name": "Tshe minupunanu",
+      "url": "https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC"
+    },
+    {
+      "album": {
+        "name": "Natukun",
+        "url": "https://open.spotify.com/album/3zhLQ4IDmwmKcACbRU9zNW"
+      },
+      "artists": [
+        {
+          "name": "Shauit",
+          "url": "https://open.spotify.com/artist/7yWp3RPwRrklkXYWINFqBc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301750,
+      "name": "tshishpetenitakushin",
+      "url": "https://open.spotify.com/track/3CIqHFIkxqmnKN07KJAvS1"
+    },
+    {
+      "album": {
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203935,
+      "name": "Tshitatau",
+      "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
+    },
+    {
+      "album": {
+        "name": "Karen Pinette-Fontaine",
+        "url": "https://open.spotify.com/album/13PIwmxrdA5g1XuuHzh4iQ"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128584,
+      "name": "Tshukain",
+      "url": "https://open.spotify.com/track/0mioZQKSrmTNuRwKWRFoak"
     },
     {
       "album": {
@@ -9641,7 +10075,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 255030,
       "name": "Uauitamaku",
       "url": "https://open.spotify.com/track/2hWfPT1EduI2nmQjmNGuW4"
@@ -9767,7 +10201,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 238288,
       "name": "Uummati Attanarsimat (Heart of Glass)",
       "url": "https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI"
@@ -10443,7 +10877,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 261058,
       "name": "Yarrow Lover",
       "url": "https://open.spotify.com/track/739fZQMhI9vGz2v9FVTWkk"
@@ -10519,7 +10953,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208173,
       "name": "You Were Born",
       "url": "https://open.spotify.com/track/5sa7peZT4N6VJqpaPqM9u4"
@@ -10559,7 +10993,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166226,
       "name": "YOY",
       "url": "https://open.spotify.com/track/5WWAUoiBmNds2osjhOVFsv"

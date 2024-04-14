@@ -4,7 +4,7 @@
 
 > Les plus belles chansons d'amour de la variété française.
 
-88 songs - 5 hr 27 min
+89 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2023-10-11 | 2023-12-07 |
 | [Amour toujours](https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:27 | 2023-08-24 |  |
 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 | 2023-10-11 | 2024-03-04 |
+| [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 | 2023-10-11 |  |
 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 | 2023-08-24 |  |
 | [Belle \(with Patrick Fiori & Garou\)](https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM), [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Notre Dame de Paris \- Studio](https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs) | 4:37 | 2023-08-24 |  |
 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 | 2023-08-24 |  |
@@ -56,7 +57,7 @@
 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 | 2023-08-24 |  |
 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 | 2023-08-24 |  |
 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 | 2023-08-24 |  |
-| [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 | 2023-08-24 |  |
+| [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 | 2023-08-24 | 2024-04-14 |
 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 | 2023-08-24 |  |
 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 | 2023-08-24 |  |
 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 | 2023-08-24 |  |

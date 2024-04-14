@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 446945,
+  "2024-04-14": 446963,
   "date_first_scraped": "2023-06-02",
   "description": "Los cl\u00e1sicos no pasan de moda. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
   "name": "Flow Leyenda",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 218044,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229680,
       "name": "Me Estas Tentando",
       "url": "https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"

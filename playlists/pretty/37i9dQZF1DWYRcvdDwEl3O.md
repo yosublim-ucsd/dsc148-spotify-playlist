@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,812 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,851 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 14 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 |
 | 15 | [Serenity](https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [Serenity](https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz) | 2:39 |
 | 16 | [Out of Square](https://open.spotify.com/track/3I677uFtjzjCPbjkBvL67F) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Formations](https://open.spotify.com/album/4vrGFv7AlhdrYTK1UmHVPx) | 3:23 |
-| 17 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
+| 17 | [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 |
 | 18 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 |
 | 19 | [Healing as a Family](https://open.spotify.com/track/0fs8CepANvhFGee0M6P5AW) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 1:22 |
 | 20 | [歩風](https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 4:19 |

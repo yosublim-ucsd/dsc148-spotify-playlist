@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 121885,
+  "2024-04-14": 121910,
   "date_first_scraped": "2023-06-18",
   "description": "Keep your finger on the pulse of pop. Sabrina Carpenter",
   "name": "Pop n' Fresh",
@@ -7493,6 +7493,24 @@
       "duration_ms": 183109,
       "name": "i don\u2019t sleep as good as i used to",
       "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
+    },
+    {
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
     },
     {
       "album": {

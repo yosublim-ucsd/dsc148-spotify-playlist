@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,503 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,517 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 63 | [No Time](https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 3:49 |
 | 64 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 65 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 |
-| 66 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
-| 67 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
+| 66 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
+| 67 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
 | 68 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
 | 69 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
 | 70 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 72 | [99 Nights](https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:56 |
 | 73 | [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 |
 | 74 | [American Woman \- 7" Single Version](https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Platinum & Gold Collection](https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg) | 3:51 |
-| 75 | [Sweet Surrender](https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:00 |
+| 75 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 |
 
 Snapshot ID: `MTcxMjk0NjQ2OSwwMDAwMDAwMDk2MDAwOWQ3ODA5YWU0OGU2MTI0YzM4ZmFlMzMyNDMy`

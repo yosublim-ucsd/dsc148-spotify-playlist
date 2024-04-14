@@ -1,12 +1,12 @@
 {
-  "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 291230,
+  "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
+  "num_followers": 291305,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDBjNWM3NzBiNjIyMmQ4MDZlZTAwMWQ3ODA3OTkxZDM0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGNiZDYwMTRhNzhiZjQwY2I4MWE1ZTA4ZTViZmVjNjdm",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 148654,
+      "name": "Ela N\u00e3o - Ao vivo",
+      "url": "https://open.spotify.com/track/3B7aR5W9WNzo9FeIsdGxI1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ningu\u00e9m Merece Amar Sozinho",
         "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 227720,
       "name": "Ningu\u00e9m Merece Amar Sozinho",
       "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 148654,
-      "name": "Ela N\u00e3o - Ao vivo",
-      "url": "https://open.spotify.com/track/3B7aR5W9WNzo9FeIsdGxI1"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 222362,
-      "name": "Cigana - Ao Vivo",
-      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 220004,
       "name": "Amor Dif\u00edcil - Ao vivo",
       "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Cigana - Ao Vivo",
+      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sintomas de Prazer",
+      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 201301,
       "name": "Sinais de fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sintomas de Prazer",
-      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160027,
-      "name": "Eu estive Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160027,
+      "name": "Eu estive Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
     },
     {
       "added_at": null,

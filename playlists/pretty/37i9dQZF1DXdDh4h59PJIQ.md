@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,588 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,011 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 36 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M) | 2:13 |
 | 37 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 | 38 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
-| 39 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 39 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 40 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 | 41 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 |
 | 42 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |

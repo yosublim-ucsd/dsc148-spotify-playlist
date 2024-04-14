@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,647 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,643 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 17 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
 | 18 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
 | 19 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 |
-| 20 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 |
-| 21 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 |
+| 20 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 |
+| 21 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 |
 | 22 | [Someday At Christmas](https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:48 |
 | 23 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
 | 24 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 36 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 37 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
 | 38 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:57 |
-| 39 | [Christmas Dreaming](https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:58 |
-| 40 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
+| 39 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
+| 40 | [Christmas Dreaming](https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:58 |
 | 41 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 42 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 43 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |

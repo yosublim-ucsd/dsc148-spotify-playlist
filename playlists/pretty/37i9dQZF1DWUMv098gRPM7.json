@@ -1,6 +1,6 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: PARTYNEXTDOOR",
-  "num_followers": 9705,
+  "num_followers": 9710,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-04-12 14:58:30",
       "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 170366,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
-    },
-    {
-      "added_at": "2024-04-12 14:58:30",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ"
+    },
+    {
+      "added_at": "2024-04-12 14:58:30",
+      "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 170366,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
     },
     {
       "added_at": "2024-04-12 14:58:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-04-12 14:58:30",
       "album": {
+        "name": "Memory Springs",
+        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 127059,
+      "name": "Potent",
+      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
+    },
+    {
+      "added_at": "2024-04-12 14:58:30",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2024-04-12 14:58:30",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2024-04-12 14:58:30",
-      "album": {
-        "name": "Memory Springs",
-        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 127059,
-      "name": "Potent",
-      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
-    },
-    {
-      "added_at": "2024-04-12 14:58:30",
-      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 132537,
       "name": "It's You (feat. BIA)",
       "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": "2024-04-12 14:58:30",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2024-04-12 14:58:30",

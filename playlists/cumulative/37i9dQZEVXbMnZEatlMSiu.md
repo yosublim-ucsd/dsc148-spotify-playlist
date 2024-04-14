@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-841 songs - 2 day 2 hr 4 min
+843 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2023-03-05 | 2023-04-16 |
 | [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 | 2023-10-05 | 2024-03-22 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-13 | 2023-10-06 |
+| [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-04-13 |  |
 | [一千萬次的淚水](https://open.spotify.com/track/4gQLLI4oii6Dt4IpBwIxn6) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:08 | 2022-07-05 | 2022-07-09 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2021-06-04 | 2021-06-10 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
@@ -588,7 +589,8 @@
 | [哪里都是你](https://open.spotify.com/track/3QP3cYE3qnplFueLKNVsbM) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [哪里都是你](https://open.spotify.com/album/6C7UyN1fTxNKDeU6X4fYsH) | 3:42 | 2022-06-01 | 2022-06-08 |
 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 | 2023-10-06 | 2023-11-02 |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2021-03-27\* | 2023-02-23 |
-| [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-10 |  |
+| [善良的我們](https://open.spotify.com/track/4pKP9CQMrspu58JW0SUrSS) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 3:55 | 2024-04-13 |  |
+| [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-10 | 2024-04-14 |
 | [喜歡你](https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [喜歡你](https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb) | 2:22 | 2023-12-10 |  |
 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 | 2021-10-02 | 2023-08-28 |
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2024-01-20 | 2024-01-25 |
@@ -728,7 +730,7 @@
 | [毒药](https://open.spotify.com/track/60PL1vtOCFBXwwZeQlVHN9) | [周星星](https://open.spotify.com/artist/21G0EtHm49HAvOa0Au4PMp) | [毒药](https://open.spotify.com/album/6h13XN1vwTxWQTaxuWogGg) | 3:35 | 2023-09-15 | 2024-02-13 |
 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 | 2022-04-27 | 2022-05-28 |
 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 | 2022-05-18 | 2024-02-21 |
-| [沉溺\(你让我的心不再结冰\)](https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq) | [邹沛沛](https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S), [Pank](https://open.spotify.com/artist/2kzAAkLOfSYyOqPIfqT4He) | [沉溺\(你让我的心不再结冰\)](https://open.spotify.com/album/3erMutM4R4j8HXNo988pk4) | 3:13 | 2024-03-15 |  |
+| [沉溺\(你让我的心不再结冰\)](https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq) | [邹沛沛](https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S), [Pank](https://open.spotify.com/artist/2kzAAkLOfSYyOqPIfqT4He) | [沉溺\(你让我的心不再结冰\)](https://open.spotify.com/album/3erMutM4R4j8HXNo988pk4) | 3:13 | 2024-03-15 | 2024-04-14 |
 | [沒有人想念沒離開的人](https://open.spotify.com/track/1ybDBYsAIOO7Xbstm8AbqW) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/2idz2ndbhkZXYc1deg3CO3) | 3:09 | 2022-09-14 | 2022-09-18 |
 | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 3:26 | 2022-03-10 | 2022-03-18 |
 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-06-29 | 2022-08-06 |

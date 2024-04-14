@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-554 songs - 1 day 7 hr 7 min
+556 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2021-03-27\* | 2022-05-08 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-23 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 | 2023-05-14 |
-| [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-12-14 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-12-14 | 2024-04-14 |
+| [El Amor De Mi Vida](https://open.spotify.com/track/3pCkC3Ahgl7MShJbafchZz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Se Agradece](https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO) | 3:04 | 2024-04-13 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-08-31 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-26 | 2023-09-01 |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-05-22 |
@@ -399,7 +400,8 @@
 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 | 2022-03-25 | 2022-03-27 |
 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 | 2023-05-13 | 2023-07-30 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-05-16 | 2023-06-07 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-22 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-22 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-13 |  |
 | [PROBLEMA](https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PROBLEMA](https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ) | 3:04 | 2021-03-27\* | 2021-06-16 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-01-18 | 2022-05-08 |
 | [Promise](https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A) | 2:31 | 2023-03-07 | 2023-03-10 |

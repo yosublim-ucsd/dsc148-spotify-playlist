@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 212681,
+  "num_followers": 212737,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGUxZGVmY2RhNzdhZThkNjE5Mzg0YzkxNWIzZWJkODRm",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDg0N2E3NjM2NGExOTY5ZjEzMTc1OWQ5ZGNkYzg3MGY0",
   "tracks": [
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Por Existir",
-        "url": "https://open.spotify.com/album/2Xdby9NkJLVGD5eBBC9Y35"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 232080,
-      "name": "Gracias por Existir",
-      "url": "https://open.spotify.com/track/1OoJSOXUn67BOzoMHUqfO7"
+      "duration_ms": 192666,
+      "name": "No Me Vayas a Dejar",
+      "url": "https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

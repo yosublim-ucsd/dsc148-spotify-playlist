@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: DANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,120 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,551 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 4 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 5 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 6 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
-| 7 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
+| 7 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 8 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 9 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
+| 9 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 10 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 11 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 12 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 | 25 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 26 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
-| 27 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
-| 28 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
+| 27 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
+| 28 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
 | 29 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 |
 | 30 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 |
 | 31 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Bababababy](https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Bababababy](https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg) | 2:51 |
 | 41 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
 | 42 | [spokojnie panowie](https://open.spotify.com/track/7Kpmwt7NQSQDxbddneO3Zu) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [spokojnie panowie](https://open.spotify.com/album/4Z6T3q35NEsuheaJ7JYwWQ) | 2:31 |
-| 43 | [Maszkulin](https://open.spotify.com/track/3eY3fsCbnAh3eJSxMfC9Ij) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [Maszkulin](https://open.spotify.com/album/0FGOwv9A28AhfP9wygC1EG) | 3:25 |
-| 44 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
+| 43 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
+| 44 | [Maszkulin](https://open.spotify.com/track/3eY3fsCbnAh3eJSxMfC9Ij) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [Maszkulin](https://open.spotify.com/album/0FGOwv9A28AhfP9wygC1EG) | 3:25 |
 | 45 | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/track/06QKELTP9ofe04C9rpcL0V) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/album/5ATDeLganeKXkR7KETJmfx) | 4:20 |
 | 46 | [Дурепа](https://open.spotify.com/track/3wdbIA9Yb6O8Mj2yLzUMqt) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Дурепа](https://open.spotify.com/album/2v6qxZ3Er00xmRjw3kGajP) | 3:08 |
 | 47 | [What If](https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0) | 3:38 |

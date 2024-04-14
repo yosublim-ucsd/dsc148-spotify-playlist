@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 29529,
+  "2024-04-14": 29532,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -3204,6 +3204,24 @@
     },
     {
       "album": {
+        "name": "Torch / Pearl of Hail",
+        "url": "https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110166,
+      "name": "Pearl of Hail",
+      "url": "https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26"
       },
@@ -3451,7 +3469,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 133000,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206099,
       "name": "softscars",
       "url": "https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF"
@@ -4933,6 +4951,24 @@
       "duration_ms": 364165,
       "name": "You Need Me",
       "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
+    },
+    {
+      "album": {
+        "name": "Your Skin",
+        "url": "https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246823,
+      "name": "Your Skin",
+      "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"
     },
     {
       "album": {

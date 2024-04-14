@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Blusher is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,443 likes - 73 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,445 likes - 73 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 5 | [anecdote](https://open.spotify.com/track/5MCsp3D3WSoZX81VIUDdNa) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [anecdote](https://open.spotify.com/album/6pNck0w5RaNBVZrIOdVVJj) | 2:49 |
 | 6 | [Through The Trees](https://open.spotify.com/track/0bmuiRqdjPBtFmCIcb4uCR) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Through The Trees](https://open.spotify.com/album/2rP1TqqHpwQZE8WqFONuDF) | 3:08 |
 | 7 | [1, 2, 3 \(with Topic\)](https://open.spotify.com/track/0ELy9afthy6LVjF43Yw47l) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [1, 2, 3 \(with Topic\)](https://open.spotify.com/album/7nBfkzrJ7wG5Jjoyru5dvu) | 2:11 |
-| 8 | [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 |
+| 8 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 |
 | 9 | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 |
 | 10 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
 | 11 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 17 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 18 | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mess Around \(feat\. EARTHGANG\)](https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL) | 3:50 |
 | 19 | [Terrible News](https://open.spotify.com/track/1Fq62so6JYiEizTz8o1aVW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:52 |
-| 20 | [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 |
+| 20 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 |
 | 21 | [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 |
 | 22 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
 | 23 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 46 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 47 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 |
 | 48 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 |
-| 49 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
+| 49 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 |
 | 50 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 |
 | 51 | [Godless](https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Godless](https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj) | 2:58 |
 | 52 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |

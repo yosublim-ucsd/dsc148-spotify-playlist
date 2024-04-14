@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 860740,
+  "2024-04-14": 860760,
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Brijean",
+  "description": "The best indie dance tracks of the moment. Cover: 1tbsp",
   "name": "metropolis",
   "tracks": [
     {
@@ -2148,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "beggin' u 2",
+        "url": "https://open.spotify.com/album/6XVxghf2IpjjCW05hdnUQc"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "beggin' u 2",
+      "url": "https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q"
+    },
+    {
+      "album": {
         "name": "Begin Again (Joe Goddard Remix)",
         "url": "https://open.spotify.com/album/3SAhg9lUwKbeCHuNo5KNZs"
       },
@@ -3753,7 +3771,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157209,
       "name": "Celestial Kiss",
       "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
@@ -5601,7 +5619,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155492,
       "name": "Don't You",
       "url": "https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg"
@@ -6547,7 +6565,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152346,
       "name": "Everything + Nothing (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/6WPTuvAWWhCG7WhvSy4qTp"
@@ -6619,7 +6637,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208023,
       "name": "Everything We Tried (feat. valentina cy)",
       "url": "https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc"
@@ -8465,7 +8483,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 141346,
       "name": "Gold On Me",
       "url": "https://open.spotify.com/track/2ZwaqyX98bvpxSwikLDJ59"
@@ -8686,6 +8704,28 @@
     },
     {
       "album": {
+        "name": "Gravity (feat. ALLKNIGHT)",
+        "url": "https://open.spotify.com/album/2pH5xR9bZtJYGCcFbyu5ab"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220203,
+      "name": "Gravity (feat. ALLKNIGHT)",
+      "url": "https://open.spotify.com/track/3iMkKRoe7RET14nRHia1A4"
+    },
+    {
+      "album": {
         "name": "Green Line",
         "url": "https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6"
       },
@@ -8799,6 +8839,24 @@
       "duration_ms": 222857,
       "name": "Had2Go",
       "url": "https://open.spotify.com/track/6NbnMPtOzr9qSLGWf9LLaU"
+    },
+    {
+      "album": {
+        "name": "Half Asleep",
+        "url": "https://open.spotify.com/album/0tbs4xecIFHPCfeHO1N6A2"
+      },
+      "artists": [
+        {
+          "name": "Leyya",
+          "url": "https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209769,
+      "name": "Half Asleep",
+      "url": "https://open.spotify.com/track/5gyq4DZgDBNG2zZWQ6LWUl"
     },
     {
       "album": {
@@ -9257,7 +9315,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193426,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv"
@@ -9829,6 +9887,24 @@
       "duration_ms": 167639,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "album": {
@@ -10875,6 +10951,28 @@
       "duration_ms": 242356,
       "name": "iiwannabe",
       "url": "https://open.spotify.com/track/5NK7SxC2OhSDvuB2ueSbq4"
+    },
+    {
+      "album": {
+        "name": "ILIKEU",
+        "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "ILIKEU",
+      "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
     },
     {
       "album": {
@@ -15027,6 +15125,24 @@
       "duration_ms": 173346,
       "name": "Nandakke?",
       "url": "https://open.spotify.com/track/3lgPLaan7Kt1KGfNGdtMO8"
+    },
+    {
+      "album": {
+        "name": "When all you want to do is be the fire part of fire",
+        "url": "https://open.spotify.com/album/5WY2kfCRa7jPmqI9150cjR"
+      },
+      "artists": [
+        {
+          "name": "UTO",
+          "url": "https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248054,
+      "name": "Napkin",
+      "url": "https://open.spotify.com/track/6PQ7eauPtCs5PTX63rghQQ"
     },
     {
       "album": {
@@ -19727,7 +19843,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244554,
       "name": "somethingsgonnaworkout",
       "url": "https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM"
@@ -19799,7 +19915,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173648,
       "name": "SPEAKING OUT LOUD",
       "url": "https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn"
@@ -19980,6 +20096,24 @@
     },
     {
       "album": {
+        "name": "Starchitect",
+        "url": "https://open.spotify.com/album/2thczCCrMjW9lNSHJURsbq"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166059,
+      "name": "Starchitect",
+      "url": "https://open.spotify.com/track/0SS6bzzAh8e2wkEkvqAPVS"
+    },
+    {
+      "album": {
         "name": "Staring at the Ceiling",
         "url": "https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5"
       },
@@ -20039,6 +20173,28 @@
       "duration_ms": 228773,
       "name": "Starstruck - Vegyn Remix",
       "url": "https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Slackin Beats",
+          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212566,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E"
     },
     {
       "album": {
@@ -21023,7 +21179,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170997,
       "name": "teh guitar beat",
       "url": "https://open.spotify.com/track/0V0QaCbNq1NkO6dSeo0lFa"
@@ -22800,6 +22956,24 @@
     },
     {
       "album": {
+        "name": "Type of Girl",
+        "url": "https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd"
+      },
+      "artists": [
+        {
+          "name": "Teilz",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Type of Girl",
+      "url": "https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4"
+    },
+    {
+      "album": {
         "name": "U Already Know",
         "url": "https://open.spotify.com/album/67zbNHgYUej6u9dNUlV4Gr"
       },
@@ -24301,7 +24475,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 303028,
       "name": "Y o Y - PPJ Remix",
       "url": "https://open.spotify.com/track/7hCtoyYEcCB6fusKMJBsmo"
@@ -24713,6 +24887,24 @@
       "duration_ms": 180413,
       "name": "Your Love (feat. House Gospel Choir) (Coco & Breezy Remix)",
       "url": "https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi"
+    },
+    {
+      "album": {
+        "name": "Your Skin",
+        "url": "https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246823,
+      "name": "Your Skin",
+      "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"
     },
     {
       "album": {

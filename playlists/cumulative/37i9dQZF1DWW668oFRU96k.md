@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY
 
-992 songs - 2 day 1 hr 21 min
+993 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,8 +75,9 @@
 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 | 2024-03-21 |  |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-09-07 | 2023-11-10 |
 | [Babe Ruth](https://open.spotify.com/track/424LrLYs7WnTu0pmTEdrCJ) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [exported\_file\_3](https://open.spotify.com/album/3TJkSdCPkoF8S16CjPFefr) | 3:39 | 2023-12-21 | 2024-01-26 |
+| [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 | 2024-04-11 |  |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-03-16 | 2023-08-04 |
-| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2024-04-11 |  |
+| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2024-04-11 | 2024-04-14 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 | 2023-05-19 |
 | [Back Home](https://open.spotify.com/track/4JYEsiHuJHKroD6LzPSVdE) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Prime Punk](https://open.spotify.com/artist/3hieXs8GqdGwv2X3jYsqlf) | [Back Home](https://open.spotify.com/album/7qF2Fg2BIUQXxch4NF360b) | 3:04 | 2023-06-29 | 2023-08-18 |
 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 | 2023-07-14 | 2023-08-18 |

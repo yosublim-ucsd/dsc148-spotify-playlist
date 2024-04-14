@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,007 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,109 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

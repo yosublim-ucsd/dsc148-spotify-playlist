@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-300 songs - 19 hr 5 min
+301 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Quicklime](https://open.spotify.com/track/3BpT0RYpDTBvMLoIXa3udo) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Obstacle](https://open.spotify.com/album/7e94WnlPTcX85liEG8FcYM) | 4:51 | 2021-12-15 | 2022-07-28 |
 | [R.I.P\. In Peace](https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau) | 4:38 | 2022-06-30 |  |
 | [R.I.P\. in Peace](https://open.spotify.com/track/238vQOEsppkBCz57hy3mag) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/0thTKN8gt2QXBxHF7CfAvR) | 4:38 | 2021-12-15 | 2022-07-29 |
+| [RAVENOUS](https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [RAVENOUS](https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w) | 4:13 | 2024-02-28 |  |
 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 | 2021-12-15 |  |
 | [REQUIN MAKO](https://open.spotify.com/track/4qTYigArkxHtrICjMTZ8aX) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/34wdBVVO2E8XsnVOPQH5mC) | 2:44 | 2022-04-17 | 2022-07-24 |
 | [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 | 2023-07-23 |  |
@@ -304,7 +305,7 @@
 | [What?](https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr) | [Big Mountain County](https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm) | [What?](https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S) | 3:13 | 2021-12-15 | 2023-06-19 |
 | [Wrong Side](https://open.spotify.com/track/2CsOL9FYV76uI055yruZP3) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Evol'](https://open.spotify.com/album/7nF02J94or6lPZirx6MxE4) | 4:33 | 2021-12-15 |  |
 | [You Suck Dude](https://open.spotify.com/track/4QpTAGLsHj7iXT2VlRwc5R) | [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [You Suck Dude](https://open.spotify.com/album/47qPZfTscKx7zKxWC2aSpG) | 2:44 | 2022-04-17 | 2022-09-10 |
-| [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 | 2021-12-30 |  |
+| [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 | 2021-12-30 | 2024-04-14 |
 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 | 2021-12-30 | 2022-07-25 |
 | [Zone 51](https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT) | 4:23 | 2023-07-23 | 2024-01-20 |
 | [Zone 51](https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:23 | 2023-06-29 | 2023-07-09 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 0,
+  "2024-04-14": 0,
   "date_first_scraped": "2023-12-29",
   "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more",
   "name": "Chill Mix",
@@ -1337,6 +1337,24 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "album": {
+        "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
+        "url": "https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA"
+      },
+      "artists": [
+        {
+          "name": "Lynk Lee",
+          "url": "https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222314,
+      "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
+      "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
     },
     {
       "album": {
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
@@ -6661,7 +6679,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194157,
       "name": "Navajo",
       "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
@@ -6799,7 +6817,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 391256,
       "name": "Night Trouble",
       "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
@@ -10733,7 +10751,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Wait",
       "url": "https://open.spotify.com/track/70OhoWldJxT2YAyi5eE8QZ"
@@ -11289,7 +11307,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192545,
       "name": "Your Last Song",
       "url": "https://open.spotify.com/track/0dzEeQcN5jL4KNx33BTfSE"

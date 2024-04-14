@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,542 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,543 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 79 | [Our Hearts Are Wrong](https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps) | [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Tell Me](https://open.spotify.com/album/61X8msx06YFzh8cKZosD5X) | 3:06 |
 | 80 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
 | 81 | [The Rabbit, the Bat, & the Reindeer](https://open.spotify.com/track/5e9KwKFSuVt6QKRIu534zH) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:29 |
-| 82 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 |
+| 82 | [When You're Away](https://open.spotify.com/track/7a29dQPnEtuw9K4u1sLnle) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/7CuBiJKKimeOE5VfDNHmnQ) | 3:26 |
 | 83 | [Perfect Strangers](https://open.spotify.com/track/0liTze0q4fiYc8gRcivbmG) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/6iuJMbV0qfVZtj3Ede8yy0) | 3:07 |
 | 84 | [Feed The Fire](https://open.spotify.com/track/0dq6hRNyNRXCDIfzk6UFJF) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:57 |
 | 85 | [Somebody That I Used to Know](https://open.spotify.com/track/1cnvv6E1MiOtGs5R5i4FJn) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW), [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Somebody That I Used to Know](https://open.spotify.com/album/4oJkTaoIe7wG4cMOsOjzKd) | 2:23 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 89 | [It's So Good](https://open.spotify.com/track/16MkvkwXqgzDPMUuYtAiWq) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [It's So Good](https://open.spotify.com/album/41rdI7qcq10ipkknp2HiwY) | 4:49 |
 | 90 | [To Begin](https://open.spotify.com/track/5l3Vp4N0QBoJAZqO6GhX7J) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Alela Diane & Wild Divine](https://open.spotify.com/album/19xwIGENVoraexrpDPk4le) | 3:33 |
 | 91 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 |
-| 92 | [Five Year Plan](https://open.spotify.com/track/42mtQzrzAd3BZjIKzH2FXb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Five Year Plan](https://open.spotify.com/album/2WjAuapN0BqnMPyUaKAkZ7) | 3:33 |
+| 92 | [Five Year Plan](https://open.spotify.com/track/60LGMrVughUAlnjolZjHac) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Ways & Means](https://open.spotify.com/album/7zLZFCEwnUtggPXZIzxfUv) | 3:33 |
 | 93 | [Silver Sun](https://open.spotify.com/track/4Gcff8064YUEXrLLBfugIi) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [No Guts, No Glory](https://open.spotify.com/album/7rZcDVAEC81v1vCvE5oQrK) | 9:41 |
 | 94 | [I Woke Up Today](https://open.spotify.com/track/4va645L73FmWWMpMGSHcyw) | [Port O'Brien](https://open.spotify.com/artist/7xMkS2osPSe4lWFBnvE12A) | [All We Could Do Was Sing](https://open.spotify.com/album/0mKMdRe9tlevVyOZUpNEgE) | 3:21 |
 | 95 | [Nothing No\. 1](https://open.spotify.com/track/4l9VMZjlMEb6tmlAAPid8m) | [Skyway Man](https://open.spotify.com/artist/5QaXPOeFBhSwhLxrmU2ghj), [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Nothing No\. 1](https://open.spotify.com/album/6srxOnrouewRU6qafieOTF) | 3:56 |

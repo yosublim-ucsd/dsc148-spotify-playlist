@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,289 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 17 | [BEBÉ](https://open.spotify.com/track/4dkarkP4MpqmFrRCroG3eE) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [BEBÉ](https://open.spotify.com/album/4zjv9fDWWTMhAv6FHxwgMG) | 2:13 |
 | 18 | [Te e Me](https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Te e Me](https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ) | 2:40 |
 | 19 | [Cento Occhi](https://open.spotify.com/track/2OmhL0qs4wUWApqZ31qPI8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Sangue](https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO) | 2:24 |
-| 20 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 |
+| 20 | [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 |
 | 21 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 | 22 | [NORMALE](https://open.spotify.com/track/3QCQSvsySCZpqFkkFrKMd9) | [LUNA LIAS](https://open.spotify.com/artist/2SHKobhACxOoqb7xramKdA) | [Neotenìa EP](https://open.spotify.com/album/0dvxBEhhdrzMbEwfCes6d0) | 3:22 |
 | 23 | [via del corso](https://open.spotify.com/track/12FjpTJOg7jcMxLWQLN8qr) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [via del corso](https://open.spotify.com/album/4GO76UOACWotLYEMePUTzp) | 2:42 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 75 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
 | 76 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 |
 | 77 | [Everything](https://open.spotify.com/track/2Y199dcM6W8zYWxLZ1BXpq) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh) | [Exhale](https://open.spotify.com/album/6bq1ihCArnubiL6mrpjLxT) | 3:19 |
-| 78 | [Nei](https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/6TlflAkiu0xSDE9ByfQlGr) | 2:40 |
+| 78 | [Nei](https://open.spotify.com/track/3t7k2We7bIjP0EQkgETjGF) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/1Gkv3szNA77Fw6pCTJbQms) | 2:40 |
 | 79 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 80 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 

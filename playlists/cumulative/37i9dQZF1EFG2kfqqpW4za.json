@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Fruto do Jogo",
+        "url": "https://open.spotify.com/album/4jGgvTXTFX1V9TGdWubhdn"
+      },
+      "artists": [
+        {
+          "name": "Start Rap",
+          "url": "https://open.spotify.com/artist/0ID7bamr7fhqeETHBZoCFl"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229916,
+      "name": "Chapa Chapa",
+      "url": "https://open.spotify.com/track/5L5oPJYh8WeXAhcNM99PHH"
+    },
+    {
+      "album": {
         "name": "Conscientiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI"
       },
@@ -398,6 +420,10 @@
         {
           "name": "WC no Beat",
           "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
         },
         {
           "name": "H\u00e9lio Bentes",

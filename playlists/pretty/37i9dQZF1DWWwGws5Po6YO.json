@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 35185,
+  "num_followers": 35201,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 390720,
-      "name": "The Unquestioned Answer",
-      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Sacrificial Code",
         "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 390720,
+      "name": "The Unquestioned Answer",
+      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Selected Works II",
-        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 335402,
-      "name": "A Woman Escapes Cue 4",
-      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works II",
+        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 335402,
+      "name": "A Woman Escapes Cue 4",
+      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "Moon View",
-      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Meditations Mixtape Vol.1",
         "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Moon View",
+      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2023-09-08 14:04:07",

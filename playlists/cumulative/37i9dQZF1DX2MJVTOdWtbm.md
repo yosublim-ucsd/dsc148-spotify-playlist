@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Chicocurlyhead
 
-392 songs - 20 hr 29 min
+393 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,8 @@
 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 | 2022-02-11 | 2022-09-07 |
 | [Pegao](https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:49 | 2022-02-11 | 2022-08-06 |
 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 | 2023-02-24 |  |
-| [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 | 2022-08-17 |  |
+| [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/2ETUk2aGu5fHNXfsR14maE) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/2inYOON82Aiiambp6w9GmO) | 2:41 | 2024-03-29 |  |
+| [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 | 2022-08-17 | 2024-04-14 |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-20 |  |
 | [Por ti](https://open.spotify.com/track/1dHcEAIWUzou2udyajJqTm) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Por ti](https://open.spotify.com/album/64lqoB0guQb5b8bArbwXze) | 2:52 | 2022-02-11 | 2022-05-20 |
 | [Potion](https://open.spotify.com/track/3agEscWdLfv8XEttP6OZMP) | [Jarline](https://open.spotify.com/artist/1DMtxSXoLR9Nmo0HisvlpC) | [Potion](https://open.spotify.com/album/4oq3z64mnf0l3GHLJHsvFk) | 2:55 | 2022-07-26 | 2022-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,659 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,048 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 13 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 |
 | 14 | [Sous le ciel de Paris](https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Le Paris De ..\. Montand](https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK) | 2:54 |
 | 15 | [L'ombre et la lumière](https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 4:08 |
-| 16 | [Un jour de différence](https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:23 |
-| 17 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 |
+| 16 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 |
+| 17 | [Un jour de différence](https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:23 |
 | 18 | [J'ai Deux Amours](https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 2:56 |
 | 19 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 20 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 23 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
 | 24 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 |
 | 25 | [Où est la fantaisie ?](https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW) | [Daphné](https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q) | [La fauve](https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS) | 3:47 |
-| 26 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:47 |
+| 26 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:52 |
 | 27 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
 | 28 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
 | 29 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |

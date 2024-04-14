@@ -2,7 +2,7 @@
 
 ### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This is Central Cee\. The essential tracks, all in one playlist.
+> This is Central Cee。アーティストの代表曲をひとつのプレイリストに。
 
 58 songs - 3 hr 1 min
 

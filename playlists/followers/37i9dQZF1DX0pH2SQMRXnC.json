@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1287868,
+  "2024-04-14": 1288195,
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
@@ -954,6 +954,32 @@
     },
     {
       "album": {
+        "name": "Big City Life (BassWar & CaoX Remix)",
+        "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Big City Life - BassWar & CaoX Remix",
+      "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
       },
@@ -1555,7 +1581,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195200,
       "name": "Call Me A Spaceman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/01s9faleC0omVs2oEFzCyp"
@@ -2203,7 +2229,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178500,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
@@ -5286,6 +5312,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217532,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
+    },
+    {
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/1WZz6GbvaWU1RX1t3RUJuR"
       },
@@ -5641,7 +5685,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
@@ -6259,6 +6303,32 @@
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Down (feat. Miss Geist)",
+        "url": "https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Miss Geist",
+          "url": "https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168876,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
     },
     {
       "album": {
@@ -8099,7 +8169,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182709,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
@@ -8297,7 +8367,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 141375,
       "name": "MF KING",
       "url": "https://open.spotify.com/track/3UcOEZC3LorrVAq9OiTZHC"
@@ -9961,7 +10031,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 310776,
       "name": "Path Of The Warrior (Defqon.1 2023 Anthem)",
       "url": "https://open.spotify.com/track/7DpG8lVap8vg8mCGuX61i9"
@@ -11858,6 +11928,28 @@
     },
     {
       "album": {
+        "name": "Speed Of Light (feat. Noubya)",
+        "url": "https://open.spotify.com/album/6axtLeXNtG3CzReNkPp4kI"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Noubya",
+          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274064,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/5NaBBKxdsS6SvpcqFxWWdW"
+    },
+    {
+      "album": {
         "name": "Spinning Silver",
         "url": "https://open.spotify.com/album/3nIjjrnmJMH6SAn7lQBvQT"
       },
@@ -12690,6 +12782,24 @@
     },
     {
       "album": {
+        "name": "TECHNOBOTS",
+        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142463,
+      "name": "TECHNOBOTS",
+      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
+    },
+    {
+      "album": {
         "name": "Temporary High",
         "url": "https://open.spotify.com/album/6Sc1ya2ilJP2zOLXcdAAqP"
       },
@@ -13113,6 +13223,32 @@
       "duration_ms": 153870,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/31q4Bx8xOt4bdSHZnV7kvF"
+    },
+    {
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
     },
     {
       "album": {
@@ -13845,7 +13981,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188800,
       "name": "Turn The Tide Revisited",
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
@@ -14859,6 +14995,28 @@
       "duration_ms": 224667,
       "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
       "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
     },
     {
       "album": {

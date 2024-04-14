@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Leon Leiden en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,621 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,629 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 38 | [¿Qué Me Dices?](https://open.spotify.com/track/3cnxEc8YNPt82RjqaUXPu8) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo Normal](https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh) | 2:33 |
 | 39 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
 | 40 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
-| 41 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 |
+| 41 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 42 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 |
-| 43 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
+| 43 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 |
 | 44 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 45 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 46 | [Ahí Estaré](https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Ahí Estaré](https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX) | 4:00 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 50 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 |
 | 51 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 52 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
-| 53 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
-| 54 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
+| 53 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
+| 54 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
 | 55 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
 | 56 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
 | 57 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 71 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 72 | [Déjalo Ir](https://open.spotify.com/track/1K0a8DT9cwPzZXr8V9m8Um) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Déjalo Ir](https://open.spotify.com/album/0fxEdaqKtiWSSnVzdtZFZq) | 3:45 |
 | 73 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
-| 74 | [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 |
+| 74 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 | 75 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 
 Snapshot ID: `MTcxMjkwMTYwMCwwMDAwMDAwMDcxOTUwYTkyY2Y4ZTBhMjMzZGZiNGI3MWFkZDMxNjIw`

@@ -4,7 +4,7 @@
 
 > Los temas que nunca paras de escuchar\. En portada: Andy Rivera
 
-114 songs - 7 hr 16 min
+115 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Pasarela](https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:47 | 2022-04-06 | 2023-08-15 |
 | [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2022-04-06 | 2022-07-29 |
 | [Persia \- Remix](https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Persia \(Remix\)](https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W) | 4:10 | 2022-04-06 | 2022-07-24 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-14 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-14 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2023-08-14 |  |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2022-04-06 |  |
 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 | 2022-04-06 |  |
 | [Rojo](https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:30 | 2022-04-06 | 2022-07-28 |

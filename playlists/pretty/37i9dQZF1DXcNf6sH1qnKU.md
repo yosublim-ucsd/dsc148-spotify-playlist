@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,608 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,774 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 26 | [The Book Lovers](https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j) | 4:49 |
 | 27 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
 | 28 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
-| 29 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
-| 30 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
+| 29 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
+| 30 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
 | 31 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 |
 | 32 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 |
 | 33 | [In Your Room](https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy) | 9:26 |

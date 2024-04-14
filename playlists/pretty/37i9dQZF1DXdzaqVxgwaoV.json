@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 125117,
+  "num_followers": 125108,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Pegame Tu Vicio",
-        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Pegame Tu Vicio",
+        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 288493,
+      "name": "S\u00f3lo Para Ti",
+      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 191400,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo Para Ti",
-      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Esto Si Es Amor",
+        "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
+      },
+      "artists": [
+        {
+          "name": "El Combo De Las Estrellas",
+          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Te Conquistar\u00e9",
+      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Esto Si Es Amor",
-        "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
-      },
-      "artists": [
-        {
-          "name": "El Combo De Las Estrellas",
-          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Te Conquistar\u00e9",
-      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "The Afrosound Of Colombia, Vol. 3",
+        "url": "https://open.spotify.com/album/7lvGda7Ft342WlhlPyBDCk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salcedo Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/7diM9Jal2nOMuDlVif49Yw"
+        }
+      ],
+      "duration_ms": 160050,
+      "name": "La Pollera Colora",
+      "url": "https://open.spotify.com/track/5aR6lC6PrUv9wwOboa5SJ8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "The Afrosound Of Colombia, Vol. 3",
-        "url": "https://open.spotify.com/album/7lvGda7Ft342WlhlPyBDCk"
+        "name": "El Sonido Original",
+        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
       },
       "artists": [
         {
-          "name": "Pedro Salcedo Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/7diM9Jal2nOMuDlVif49Yw"
+          "name": "Emir Bosc\u00e1n y los Tomasinos",
+          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
         }
       ],
-      "duration_ms": 160050,
-      "name": "La Pollera Colora",
-      "url": "https://open.spotify.com/track/5aR6lC6PrUv9wwOboa5SJ8"
+      "duration_ms": 143917,
+      "name": "Cubita La Bella",
+      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1007,22 +1023,6 @@
       "duration_ms": 259880,
       "name": "Adios Amor",
       "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Sonido Original",
-        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
-      },
-      "artists": [
-        {
-          "name": "Emir Bosc\u00e1n y los Tomasinos",
-          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
-        }
-      ],
-      "duration_ms": 143917,
-      "name": "Cubita La Bella",
-      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "El Arenal",
+        "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
+      },
+      "artists": [
+        {
+          "name": "Super Combo Los Tropicales",
+          "url": "https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D"
+        }
+      ],
+      "duration_ms": 163761,
+      "name": "Caim\u00e1n Y Gallinazos",
+      "url": "https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "De Peligro",
         "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Arenal",
-        "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
-      },
-      "artists": [
-        {
-          "name": "Super Combo Los Tropicales",
-          "url": "https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D"
-        }
-      ],
-      "duration_ms": 163761,
-      "name": "Caim\u00e1n Y Gallinazos",
-      "url": "https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8"
     },
     {
       "added_at": "2023-12-20 18:46:33",

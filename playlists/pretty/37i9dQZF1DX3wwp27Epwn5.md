@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,229 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,252 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 35 | [Party All Night](https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Boss](https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep) | 4:42 |
 | 36 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 37 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
-| 38 | [Jawan Title Track](https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:08 |
-| 39 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
+| 38 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
+| 39 | [Jawan Title Track](https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:08 |
 | 40 | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) | 3:50 |
 | 41 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 |
 | 42 | [Brothers Anthem](https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:53 |

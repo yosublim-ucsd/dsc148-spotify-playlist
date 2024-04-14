@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,224 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,304 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 44 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
 | 45 | [Show Me Your Mind](https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Show Me Your Mind](https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM) | 3:33 |
 | 46 | [MSQ No\-Extra](https://open.spotify.com/track/4KPv9BQVlUJSt8QVi5Jf4x) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [A Different Arrangement](https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG) | 4:16 |
-| 47 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
-| 48 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
+| 47 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
+| 48 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
 | 49 | [Strange Time](https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:20 |
 | 50 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 51 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 61 | [Burn Out](https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Let Them In](https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou) | 3:53 |
 | 62 | [Head Over Heels](https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Head Over Heels](https://open.spotify.com/album/2E708oixNbIE32J644UTEj) | 3:57 |
 | 63 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
-| 64 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
-| 65 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
+| 64 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
+| 65 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 66 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
 | 67 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
-| 68 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
-| 69 | [Flood](https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:57 |
-| 70 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
+| 68 | [Flood](https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:57 |
+| 69 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
+| 70 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
 | 71 | [Sleeping In Your Garden](https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Sleeping In Your Garden](https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX) | 3:24 |
 | 72 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |
 | 73 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 86 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 87 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 88 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
-| 89 | [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 |
-| 90 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 |
+| 89 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 |
+| 90 | [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 |
 | 91 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
 | 92 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 |
 | 93 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 96 | [Nightmares on Repeat](https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 4:39 |
 | 97 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 98 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
-| 99 | [The Wetlands](https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h) | 3:57 |
-| 100 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 99 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
+| 100 | [The Wetlands](https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h) | 3:57 |
 
 Snapshot ID: `MTcwODAzNjEzNiwwMDAwMDAwMGJiMTliODI5OGMyODhjNGY0ODM0MWNjOTZlN2MwOTNh`

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 46109,
+  "2024-04-14": 46107,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
@@ -935,6 +935,24 @@
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
+    },
+    {
+      "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
     },
     {
       "album": {
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 145272,
       "name": "DOING IT AGAIN BABY",
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209202,
       "name": "FYS",
       "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
@@ -2089,6 +2107,24 @@
       "duration_ms": 263859,
       "name": "Girl With No Face",
       "url": "https://open.spotify.com/track/0EQJc4WYegeTU1VDaiI8Tj"
+    },
+    {
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175565,
+      "name": "Go Girlfriend",
+      "url": "https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW"
     },
     {
       "album": {
@@ -2522,6 +2558,24 @@
     },
     {
       "album": {
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN"
       },
@@ -2697,6 +2751,24 @@
       "duration_ms": 130547,
       "name": "I'm a Rat",
       "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
+    },
+    {
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "album": {
@@ -2879,7 +2951,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150266,
       "name": "just love",
       "url": "https://open.spotify.com/track/4E1bjtzgqwOhRGe2nzrin2"
@@ -2977,6 +3049,24 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
     },
     {
       "album": {
@@ -3417,6 +3507,24 @@
       "duration_ms": 187258,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+    },
+    {
+      "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
     },
     {
       "album": {
@@ -4095,7 +4203,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162863,
       "name": "one more night",
       "url": "https://open.spotify.com/track/6c8gf4UJ2Od8uKUiCYdf5a"
@@ -5003,7 +5111,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
@@ -5043,7 +5151,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165139,
       "name": "Socials",
       "url": "https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ"
@@ -6151,6 +6259,28 @@
       "duration_ms": 200255,
       "name": "Water - Remix",
       "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {

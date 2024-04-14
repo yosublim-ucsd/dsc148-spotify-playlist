@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,572 likes - 42 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,616 likes - 42 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 9 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 |
 | 10 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 |
 | 11 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
-| 12 | [Baazi](https://open.spotify.com/track/21jdKUCgXSukh8jRRxIObL) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 7:14 |
+| 12 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 |
 | 13 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 |
 | 14 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram \(Coke Studio Season 8\)](https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl) | 10:16 |
 | 15 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 |

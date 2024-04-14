@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 364820,
+  "num_followers": 364864,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-28 01:52:06",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
-    },
-    {
-      "added_at": "2024-02-28 01:52:06",
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+    },
+    {
+      "added_at": "2024-02-28 01:52:06",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2024-02-28 01:52:06",

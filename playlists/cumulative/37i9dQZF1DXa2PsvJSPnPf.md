@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-227 songs - 14 hr 7 min
+228 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-05-16 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-11-19 | 2022-07-29 |
 | [Just Want To Be Loved](https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:16 | 2021-11-19 |  |
-| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2021-11-19 |  |
+| [Kathy's Song](https://open.spotify.com/track/3t0eH5POGNY4hw06Ne8jEw) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY) | 3:43 | 2024-01-18 |  |
+| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2021-11-19 | 2024-04-14 |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 | 2022-05-16 |  |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/5OXrQDOfnEp52MvMnAk7pp) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shut up and Sing](https://open.spotify.com/album/5XLbgFB2qMD77ww4zaSaPQ) | 2:43 | 2021-11-19 | 2022-07-29 |
 | [Lay Me Down Easy](https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Dandelion](https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46) | 3:49 | 2021-11-19 |  |

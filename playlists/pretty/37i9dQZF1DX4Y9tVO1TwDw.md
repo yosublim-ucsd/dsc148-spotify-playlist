@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,049 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 16 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 |
 | 17 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 18 | [Esperando](https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Esperando](https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO) | 2:21 |
-| 19 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
-| 20 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
+| 19 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
+| 20 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 21 | [Been That](https://open.spotify.com/track/3K9CIK6QbiIpOV3SkhxtW0) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Been That](https://open.spotify.com/album/0IqzERcAhNU3TqoxnT1Lj5) | 1:56 |
 | 22 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 |
 | 23 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 28 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 29 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 | 30 | [Cuéntame](https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cuéntame](https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS) | 2:56 |
-| 31 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
-| 32 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
+| 31 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
+| 32 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
 | 33 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
 | 34 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
 | 35 | [Agradecido](https://open.spotify.com/track/0ZHiVXwpcteAbqEJmFYBdy) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Agradecido](https://open.spotify.com/album/58g9KaWSWjKq81CVyIsv9z) | 2:41 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 48 | [Luces De La Calle](https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:09 |
 | 49 | [Si Se Siente](https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Si Se Siente](https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9) | 3:04 |
 | 50 | [HOLY WATER](https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [HOLY WATER](https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y) | 3:27 |
-| 51 | [Corazón Dañado](https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:04 |
-| 52 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
+| 51 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
+| 52 | [Corazón Dañado](https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:04 |
 | 53 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
 | 54 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 

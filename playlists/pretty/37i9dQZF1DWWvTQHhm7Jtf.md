@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,538 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,550 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 60 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
 | 61 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
 | 62 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 |
-| 63 | [The Loss of Wilderness](https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4k2tdCSF0SRtUPZySYmKhB) | 5:57 |
-| 64 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
+| 63 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
+| 64 | [The Loss of Wilderness](https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4k2tdCSF0SRtUPZySYmKhB) | 5:57 |
 | 65 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
 | 66 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
 | 67 | [1/2 SCULPTURE](https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P) | 8:11 |
 | 68 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
 | 69 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
-| 70 | [Malinalli Koatl](https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6) | [Xochimoki](https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG) | [Temple Of The New Sun](https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R) | 4:07 |
+| 70 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
 
 Snapshot ID: `MTcxMTA2MzgyNCwwMDAwMDAwMDEyNzM1YWEzZWFkMThmNDgzOTZlMjNjNmJjMTZhMGI5`

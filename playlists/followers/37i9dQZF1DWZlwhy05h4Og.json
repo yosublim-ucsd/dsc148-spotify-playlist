@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 51919,
+  "2024-04-14": 51943,
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: ILLIT",
+  "description": "The sweetest bops. Cover: XG",
   "name": "SUGAR",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "album": {
+        "name": "99 boys",
+        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146317,
+      "name": "99 boys",
+      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
     },
     {
       "album": {
@@ -205,7 +223,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216440,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
@@ -343,6 +361,24 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "album": {
+        "name": "Caught in Your Love",
+        "url": "https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138117,
+      "name": "Caught in Your Love",
+      "url": "https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370"
     },
     {
       "album": {
@@ -624,6 +660,24 @@
     },
     {
       "album": {
+        "name": "DIRTY LITTLE FANTASY",
+        "url": "https://open.spotify.com/album/6QMuvYDuJ6LJbFsdAjKhBb"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124582,
+      "name": "DIRTY LITTLE FANTASY",
+      "url": "https://open.spotify.com/track/6n9e5YQaVZVwjGVwkeiVP0"
+    },
+    {
+      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -653,7 +707,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -729,6 +783,24 @@
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -903,7 +975,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
@@ -1224,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
       },
@@ -1365,7 +1455,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178133,
       "name": "Life's Too Short (English Version)",
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
@@ -1477,7 +1567,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188053,
       "name": "Love So Sweet",
       "url": "https://open.spotify.com/track/0Z2DbHevn9qtSKAWcYB2tM"
@@ -1499,7 +1589,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211857,
       "name": "Love Story (Taylor's Version) - Elvira Remix",
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
@@ -1607,7 +1697,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
@@ -1899,7 +1989,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185914,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/165zBGOKD78nTRSVT3tYjh"
@@ -2043,7 +2133,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -2061,7 +2151,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207849,
       "name": "Read your Mind",
       "url": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
@@ -2450,6 +2540,28 @@
     },
     {
       "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -2501,7 +2613,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175893,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4"

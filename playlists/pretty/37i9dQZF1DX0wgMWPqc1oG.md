@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,596 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,617 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 61 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 62 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
 | 63 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
-| 64 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
+| 64 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
 | 65 | [Siete Ocho \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Judgment \(Remastered 2003 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f) | 8:58 |
 | 66 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
 | 67 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
 | 68 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
-| 69 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
+| 69 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
 | 70 | [French Spice \- Remaster 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 8:02 |
 | 71 | [Head Start \- Rudy Van Gelder Edition / 2006 Digital Remaster](https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Happenings](https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi) | 5:14 |
 | 72 | [Pumpkin](https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J) | 5:23 |

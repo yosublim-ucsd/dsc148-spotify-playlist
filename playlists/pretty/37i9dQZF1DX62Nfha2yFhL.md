@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,912 likes - 115 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,004 likes - 115 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

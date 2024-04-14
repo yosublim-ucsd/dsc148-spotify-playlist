@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,257 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,291 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 46 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
 | 47 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
-| 48 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
-| 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 48 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 49 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 50 | [月刊配信野郎](https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [月刊配信野郎](https://open.spotify.com/album/0v7UHezk6yvbSXptBElqBA) | 3:27 |
 
 Snapshot ID: `MTcxMjA3MDAwMCwwMDAwMDAwMDJkOTI0ZTNkYWJlMzNhMTFmODQ2OTUwMGFjMzU3MGY4`

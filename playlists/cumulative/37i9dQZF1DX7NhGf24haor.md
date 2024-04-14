@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: The Partysquad & Kalibwoy
 
-854 songs - 1 day 22 hr 21 min
+855 songs - 1 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,8 @@
 | [From Star To Stardust](https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [From Star To Stardust](https://open.spotify.com/album/0K7QlZSUAyNh5NDt7Hnd9H) | 2:55 | 2023-02-23 | 2023-04-14 |
 | [Frontrow](https://open.spotify.com/track/4KMWGXZnrn4GSKdBOo9hQR) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/1USRYjIm1mWDY6ZUtpQPwY) | 3:54 | 2023-09-01 | 2023-09-16 |
 | [Frontrow](https://open.spotify.com/track/6utKoO8KYpFWBnnu4ymJrS) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/5knZBXHk1XLTAAKVFqbL9F) | 3:54 | 2023-05-25 | 2023-09-03 |
-| [Frozen Tears](https://open.spotify.com/track/7w0Qt1Bw9DHqT7DE7mp3zW) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Frozen Tears](https://open.spotify.com/album/7jnc3csiDWdj5h2r7DeR7t) | 2:47 | 2023-12-14 |  |
+| [Frozen Tears](https://open.spotify.com/track/12vhZOumkhvZdoPyG2c4fv) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [The Enlightenment](https://open.spotify.com/album/1lgcbB1XtebCbd5JlbEAiZ) | 2:47 | 2024-04-12 |  |
+| [Frozen Tears](https://open.spotify.com/track/7w0Qt1Bw9DHqT7DE7mp3zW) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Frozen Tears](https://open.spotify.com/album/7jnc3csiDWdj5h2r7DeR7t) | 2:47 | 2023-12-14 | 2024-04-14 |
 | [Gabber Style](https://open.spotify.com/track/2PZgHAuKdSVxtGY5WkKTAL) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Gabber Style](https://open.spotify.com/album/5cfi9mCr5KXpp00c7MnKi4) | 2:25 | 2023-04-13 | 2023-05-26 |
 | [Gangster](https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Gangster](https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO) | 2:16 | 2023-05-18 | 2023-06-02 |
 | [Gates To Kingdom](https://open.spotify.com/track/4ULxFof2axxEJyJ4QBHsVw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Gates To Kingdom](https://open.spotify.com/album/1iUdLVGkaL34i2oFamQfwt) | 4:25 | 2023-03-09 | 2023-03-25 |

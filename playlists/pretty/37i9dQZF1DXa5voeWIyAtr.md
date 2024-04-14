@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,787 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,910 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 23 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
 | 24 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
 | 25 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 |
-| 26 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
+| 26 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 27 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
 | 28 | [Peonia](https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Peonia](https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5) | 2:25 |
 | 29 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 31 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 |
 | 32 | [UNA CERVEZA](https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 4:39 |
 | 33 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 |
-| 34 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
+| 34 | [No Es Por Acá](https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:47 |
 | 35 | [Decide Tú](https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Decide Tú](https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW) | 3:52 |
 | 36 | [El Papel Cambio \(Bonus Track\)](https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde El Nokia](https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK) | 3:07 |
 | 37 | [Con La Novedad](https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:59 |

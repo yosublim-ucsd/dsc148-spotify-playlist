@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,858 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,891 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 45 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
 | 46 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
 | 47 | [Multi\-Love](https://open.spotify.com/track/1XKAeevAbxSSMuTcRT0APS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:10 |
-| 48 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
-| 49 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
+| 48 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
+| 49 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
 | 50 | [Birch Tree](https://open.spotify.com/track/0BPKqNWOKQam19tKWoZQwu) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:21 |
 | 51 | [Dizzy On the Comedown](https://open.spotify.com/track/3vkj94FiLgUz3ysZcmIXPx) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 4:15 |
 | 52 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 59 | [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 |
 | 60 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
 | 61 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |
-| 62 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
+| 62 | [UGH!](https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:00 |
 | 63 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
-| 64 | [UGH!](https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:00 |
+| 64 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
 | 65 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
 | 66 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
 | 67 | [White Blood](https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 4:17 |
 | 68 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
 | 69 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
-| 70 | [Love Me](https://open.spotify.com/track/5hRzAbY2AAO258hL6oqsqO) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:42 |
-| 71 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
+| 70 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
+| 71 | [Love Me](https://open.spotify.com/track/5hRzAbY2AAO258hL6oqsqO) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:42 |
 | 72 | [The Wolf](https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
 | 73 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 74 | [Without You](https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:44 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 91 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
 | 92 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/1dr1B13MHzq77BC5d4zko9) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/4U0hmoTGpAKJEOIrAnQJws) | 4:40 |
 | 93 | [Can't Deny My Love](https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [The Desired Effect](https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4) | 3:42 |
-| 94 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
-| 95 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
+| 94 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
+| 95 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
 | 96 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
 | 97 | [Drive](https://open.spotify.com/track/35yXXEpfr1QDWIdIYTvSGz) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2TLBNF34cFJak3E99FM9DY) | 3:07 |
-| 98 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
-| 99 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 |
+| 98 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 |
+| 99 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
 | 100 | [Stockholm](https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [Inanimate Objects](https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39) | 3:11 |
 
 Snapshot ID: `MTcxMDc2ODI5MiwwMDAwMDAwMGMwZDYxZmFhMzBhNzI5NTFlNTFlMWM5ODM1YTM1MjVh`

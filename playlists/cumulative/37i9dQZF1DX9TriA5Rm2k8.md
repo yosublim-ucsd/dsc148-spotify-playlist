@@ -4,7 +4,7 @@
 
 > Just good energy
 
-162 songs - 8 hr 26 min
+163 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2023-03-30 | 2023-10-19 |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-04-04 |  |
 | [Motive](https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Motive](https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4) | 2:49 | 2024-02-29 | 2024-03-08 |
+| [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-04 |  |
 | [My Tempo](https://open.spotify.com/track/0IyJuazWXzIUdELXMTNrRh) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [K.I.M](https://open.spotify.com/artist/4z3mDPZOgSE37zJhMQFD0K) | [My Tempo](https://open.spotify.com/album/3L29SB4ILgRVeRgmWP6OZ0) | 2:40 | 2024-03-14 | 2024-03-29 |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-02-29 | 2024-03-18 |
 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2023-06-22 |  |
@@ -131,7 +132,7 @@
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-06-22 | 2023-08-17 |
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-28 |  |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-03-07 |  |
-| [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 | 2023-03-30 |  |
+| [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 | 2023-03-30 | 2024-04-14 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 |  |
 | [Spicy Margarita \- R3HAB Remix](https://open.spotify.com/track/0njNPrUm5K7kmEC5gOi7o7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Spicy Margarita \(R3HAB Remix\)](https://open.spotify.com/album/3Fguc01648nZdb10np44hU) | 2:44 | 2024-03-07 | 2024-03-10 |
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |

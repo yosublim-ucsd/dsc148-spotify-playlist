@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5T3bEdkDNnvnAjPdA5dH6M">ROSALÍA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,342 likes - 72 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343 likes - 72 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 60 | [LA KILIÉ](https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:11 |
 | 61 | [LAX](https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 1:29 |
 | 62 | [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 |
-| 63 | [En Mí \(Interlude\)](https://open.spotify.com/track/1CU1MTRABcra8xqqT12jYq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 0:53 |
-| 64 | [La Hija De Juan Simón](https://open.spotify.com/track/2iCuj1KMxtGU5rP2GY9VaP) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:09 |
+| 63 | [La Hija De Juan Simón](https://open.spotify.com/track/2iCuj1KMxtGU5rP2GY9VaP) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:09 |
+| 64 | [En Mí \(Interlude\)](https://open.spotify.com/track/1CU1MTRABcra8xqqT12jYq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 0:53 |
 | 65 | [Día 14 De Abril](https://open.spotify.com/track/623kdaD0Wi2L0L6GyZvXUP) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 6:06 |
 | 66 | [Por Mi Puerta No Lo Pasen](https://open.spotify.com/track/2gp9YVRrqL5N9MgjTwunux) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:39 |
 | 67 | [Por Castigarme Tan Fuerte](https://open.spotify.com/track/5bu6hDqiYju5JPcBUxGTjC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 2:08 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 71 | [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 |
 | 72 | [Mil Razones](https://open.spotify.com/track/21gOeRf8D8rLN4xbkwNgTY) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mil Razones](https://open.spotify.com/album/0IV1SE6tUNzoLDdBSSVBdT) | 2:46 |
 
-Snapshot ID: `Mjg1NDk2MjAsMDAwMDAwMDA1NDJlYTEwNzM1OTlkYzc5MGYzNzYyNTQxN2QxZGVjOA==`
+Snapshot ID: `Mjg1NTEwNjAsMDAwMDAwMDBkYWY1YzdiYjk1ZTczM2RhYThjMWEzYjAwMWM4Y2MwMQ==`

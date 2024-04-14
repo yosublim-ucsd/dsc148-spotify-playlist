@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > bolsa birkin me pegué un tiro pa comprarla, tu vales eso y más ❤️‍🔥💐✨💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,808 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,091 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 23 | [Baby \(Version Norteña\)](https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby \(Version Norteña\)](https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK) | 3:18 |
 | 24 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 |
 | 25 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
-| 26 | [Quiero Presumirte](https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl) | [Picasso](https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja) | [Quiero Presumirte](https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ) | 4:02 |
+| 26 | [Quiero Presumirte](https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl) | [Picassoo](https://open.spotify.com/artist/6cfn7Sh5kVexAfCwUc54IW) | [Quiero Presumirte](https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ) | 4:02 |
 | 27 | [La Mejor de Todas](https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:28 |
 | 28 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 |
 | 29 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 70 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
 | 71 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
 | 72 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
-| 73 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 |
+| 73 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 74 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
 | 75 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 |
 | 76 | [Alguien Mejor](https://open.spotify.com/track/5D9bNDHnGzL8ZcwBty5db4) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:39 |

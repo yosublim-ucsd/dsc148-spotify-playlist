@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,147 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,146 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 51 | [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC) | 2:15 |
 | 52 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
 | 53 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
-| 54 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
-| 55 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
+| 54 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
+| 55 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 56 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 57 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 58 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 64 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
 | 65 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 66 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
-| 67 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
-| 68 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
+| 67 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
+| 68 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 69 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
 | 70 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |
 | 71 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
 | 72 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 | 73 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 |
-| 74 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 |
-| 75 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
+| 74 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
+| 75 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 
 Snapshot ID: `MTcwMDIxMDExMywwMDAwMDAwMDA1ZjQ3ZWEyMTg3MjNmNWU3NWJmMWRlNjY2YjkwYzlh`

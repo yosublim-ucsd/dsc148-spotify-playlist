@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 567052,
+  "2024-04-14": 567250,
   "date_first_scraped": "2022-01-02",
-  "description": "Imagine Dragons along with the hottest alternative songs right now.",
+  "description": "girl in red along with the hottest alternative songs right now.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -477,7 +477,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
@@ -2331,7 +2331,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
@@ -3214,6 +3214,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -3337,7 +3355,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211693,
       "name": "Habits - Radio Edit",
       "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198761,
       "name": "Impressively Average",
       "url": "https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP"
@@ -4551,7 +4569,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
@@ -4839,7 +4857,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
@@ -5357,7 +5375,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/2oneWrwEcphxoHzOUyod7e"
@@ -6494,6 +6512,24 @@
     },
     {
       "album": {
+        "name": "Panoramic View",
+        "url": "https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG"
+    },
+    {
+      "album": {
         "name": "Paper Machete",
         "url": "https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM"
       },
@@ -7184,6 +7220,24 @@
     },
     {
       "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI"
+    },
+    {
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -7415,6 +7469,24 @@
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Dcz7Zg0I9Zu88QCQfQmmO"
+    },
+    {
+      "album": {
+        "name": "All Out of Good Days",
+        "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179255,
+      "name": "Sick of Being Young",
+      "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
     },
     {
       "album": {
@@ -9269,10 +9341,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
     },
     {
       "album": {
@@ -9695,6 +9785,24 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
+    },
+    {
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "album": {

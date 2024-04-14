@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nia Archives \(pictured\), Dua Lipa, Perrie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,316 likes - 126 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,378 likes - 126 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 8 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
 | 9 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 |
 | 10 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 |
-| 11 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 11 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 12 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
 | 13 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 14 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 |

@@ -1,12 +1,12 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1190,
+  "num_followers": 1191,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGI1ODNmZTY2ZTAwZjMxZmUxYmUyNmFhNTc3NmE1YzQw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRmNjdiNGNmM2FkZDllYmFlOTFhZTVkMDU3YmQxYTIy",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 131101,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+      "duration_ms": 70529,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 70529,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
+      "duration_ms": 131101,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
     },
     {
       "added_at": null,

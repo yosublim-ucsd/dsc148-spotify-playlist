@@ -4,7 +4,7 @@
 
 > ¡Los reyes del jaripeo!
 
-174 songs - 9 hr 51 min
+175 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [El Pistolero Huapango](https://open.spotify.com/track/7xBc26YdipyJNptDXX6UMx) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Puro Huapanguito Bonito](https://open.spotify.com/album/4g6CNo1Wp0FbSBUWL5W4xJ) | 3:45 | 2022-01-25 | 2022-07-29 |
 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 | 2022-01-25 |  |
 | [El Rezado](https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 | 2024-03-19 |  |
-| [El Rezado \- En Vivo](https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Rezado \(En Vivo\)](https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES) | 4:21 | 2022-12-30 |  |
+| [El Rezado \(En Vivo\)](https://open.spotify.com/track/4RckLlIgqJJ8n7M2gfzQfY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Rezado \(En Vivo\)](https://open.spotify.com/album/5gMEzkOGgHP3piQxAiEMXo) | 4:21 | 2024-03-19 |  |
+| [El Rezado \- En Vivo](https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Rezado \(En Vivo\)](https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES) | 4:21 | 2022-12-30 | 2024-04-14 |
 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 | 2022-01-25 |  |
 | [El Sinaloense](https://open.spotify.com/track/2Oz3xXgX6mUWO2DfL8Iosp) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Sinaloense](https://open.spotify.com/album/3ADj9FieNVX8JaJj3GX99S) | 4:24 | 2022-09-12 | 2022-12-31 |
 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 | 2022-01-25 |  |

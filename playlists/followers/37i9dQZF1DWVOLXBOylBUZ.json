@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 516824,
+  "2024-04-14": 516867,
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Santa Fe Klan y Nicky Jam.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Darell.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -4072,6 +4072,28 @@
     },
     {
       "album": {
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189771,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9"
+    },
+    {
+      "album": {
         "name": "0000",
         "url": "https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT"
       },
@@ -5091,7 +5113,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174251,
       "name": "Derrumb\u00e1ndome",
       "url": "https://open.spotify.com/track/3oy9KuES1OB6lUeGrA3slD"
@@ -9857,7 +9879,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158229,
       "name": "logout",
       "url": "https://open.spotify.com/track/5coctz0BOqnal0m5IKeN6K"
@@ -14184,6 +14206,24 @@
     },
     {
       "album": {
+        "name": "Por Ti Conoc\u00ed el Amor",
+        "url": "https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Por Ti Conoc\u00ed el Amor",
+      "url": "https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL"
+    },
+    {
+      "album": {
         "name": "Porno",
         "url": "https://open.spotify.com/album/0Dp74xfozM7vHilpd0BlZU"
       },
@@ -15655,7 +15695,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222911,
       "name": "Sex XXX (feat. Jey F)",
       "url": "https://open.spotify.com/track/2aXPqBrjQxb6jnptRkXhA3"
@@ -18197,7 +18237,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171000,
       "name": "UNA VEZ",
       "url": "https://open.spotify.com/track/5tIuJ0gnSiuo0yzNeUKru7"
@@ -18347,6 +18387,28 @@
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
+    },
+    {
+      "album": {
+        "name": "Vergazo",
+        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Vergazo",
+      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
     },
     {
       "album": {
@@ -19419,6 +19481,28 @@
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 11",
+        "url": "https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186450,
+      "name": "\u00d1ero Session 11",
+      "url": "https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp"
     },
     {
       "album": {

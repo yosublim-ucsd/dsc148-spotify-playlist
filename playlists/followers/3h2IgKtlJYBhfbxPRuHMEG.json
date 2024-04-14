@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 485,
+  "2024-04-14": 486,
   "date_first_scraped": "2023-12-14",
   "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Nia Archives",
   "name": "Bass Drop",
@@ -763,6 +763,28 @@
       "duration_ms": 222219,
       "name": "CUT ME OUT",
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
+    },
+    {
+      "album": {
+        "name": "The Vault, Volume 1",
+        "url": "https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "Dance Alone - Vault Mix",
+      "url": "https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT"
     },
     {
       "album": {

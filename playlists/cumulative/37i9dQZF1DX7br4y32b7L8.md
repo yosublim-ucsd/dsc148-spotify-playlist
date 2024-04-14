@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-413 songs - 20 hr 54 min
+414 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Een Aperolletje](https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM) | [De Offsiders](https://open.spotify.com/artist/5H7tPK4zehUJwM5K8czsDz), [Andy Van Der Meijde](https://open.spotify.com/artist/4HVTe60HStIQsAlofkW9Ff), [Wesley Sneijder](https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Een Aperolletje](https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB) | 4:03 | 2023-05-29 | 2023-09-07 |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-24 | 2023-12-15 |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2024-01-10 | 2024-02-15 |
+| [Eenie Meenie](https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 | 2024-04-13 |  |
 | [Elke Traan / Every Tear](https://open.spotify.com/track/3lBrb94xeS2J9RMzyJk67g) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Elke Traan / Every Tear](https://open.spotify.com/album/7KP4pADsFmOYFSIZG3Yx7N) | 2:50 | 2024-03-19 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-20 | 2023-09-01 |
 | [En Die Dingen Daar](https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [En Die Dingen Daar](https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2) | 2:13 | 2023-03-24 | 2023-07-05 |
@@ -151,7 +152,7 @@
 | [Het Fluitlied \- Uit De Amazon Original Serie LOL: Last One Laughing](https://open.spotify.com/track/5t1fL0fLCfDUvWnftRhGoh) | [Bas Hoeflaak](https://open.spotify.com/artist/3p0Geu5lSPEr8Z8rLopaTg) | [Het Fluitlied \(Uit De Amazon Original Serie LOL: Last One Laughing\)](https://open.spotify.com/album/3qU8G5qLcyDrg91GAjRqyt) | 3:00 | 2023-02-23 | 2023-04-12 |
 | [Het Goede Leven](https://open.spotify.com/track/0iBEI6GLlJ9ru9qZwObsbG) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 4:07 | 2023-12-27 | 2024-02-09 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-02-23 | 2023-04-12 |
-| [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2023-02-23 | 2023-04-12 |
+| [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2023-02-23 |  |
 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2023-02-23 | 2023-11-10 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-06 |  |
 | [Hosselen](https://open.spotify.com/track/3pupFhUH3n5CfXQ8KO70S0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Gewoon BOEF](https://open.spotify.com/album/3vJ9aTYd6r9klB1SsMcpqr) | 3:28 | 2023-05-24 | 2023-11-10 |
@@ -247,7 +248,7 @@
 | [Mozer Is Nijba](https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O) | [Keess](https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Mozer Is Nijba](https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui) | 2:25 | 2023-07-06 | 2023-07-18 |
 | [Mulala](https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH) | [Sabri](https://open.spotify.com/artist/1BcQY5zmqzlHgEYIXwOopx), [Reboir](https://open.spotify.com/artist/0l6ghsW3fNY4iMtwgFq4i1) | [Mulala](https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH) | 2:22 | 2023-06-26 | 2023-12-30 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-03 |  |
-| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-16 |  |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-16 |  |
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2023-06-19 | 2023-07-19 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2024-02-08 | 2024-03-15 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-28 | 2023-11-30 |

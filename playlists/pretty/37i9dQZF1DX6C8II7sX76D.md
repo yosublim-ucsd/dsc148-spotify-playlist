@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,814 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,862 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 7 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 |
 | 8 | [MARLBORO CLUB](https://open.spotify.com/track/2AlFZH3uIA6IYesRZUby7k) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4) | [MARLBORO CLUB](https://open.spotify.com/album/3AxeTR1TMBjD46yIcPwKd0) | 1:48 |
 | 9 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
-| 10 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 10 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 11 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 12 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 13 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 45 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 |
 | 46 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 47 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
-| 48 | [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 |
-| 49 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
-| 50 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
+| 48 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 49 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
+| 50 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 
 Snapshot ID: `MTcxMjkzODUyNywwMDAwMDAwMGY4ODA0MzQ4MjRiYmFjOWEzZjRmZmFjZThiMzc1Mjg2`

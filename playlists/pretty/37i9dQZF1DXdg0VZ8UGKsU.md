@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,157 likes - 85 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,251 likes - 85 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 75 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 76 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
 | 77 | [All at Once](https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:28 |
-| 78 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
-| 79 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 |
+| 78 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 |
+| 79 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
 | 80 | [I'll Be Loving You \(Forever\)](https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
 | 81 | [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 |
 | 82 | [Almost Over You](https://open.spotify.com/track/5mKqa89zAVKXMRY92haT6p) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Best Kept Secret](https://open.spotify.com/album/3H7htkjBX3E1pMkxnJKKq2) | 3:41 |

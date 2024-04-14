@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 82739,
+  "2024-04-14": 82791,
   "date_first_scraped": "2022-04-19",
   "description": "Some of the most beautiful love songs in French.",
   "name": "Je t'aime",
@@ -1425,10 +1425,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
     },
     {
       "album": {

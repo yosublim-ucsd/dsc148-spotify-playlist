@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-184 songs - 11 hr 7 min
+185 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 | 2021-11-17 |  |
 | [El Zorro De Ojinaga](https://open.spotify.com/track/6WjPPtUzYfZwckWmFFz9SP) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:38 | 2021-11-17 |  |
 | [Elegance](https://open.spotify.com/track/5vaQ9tEbohLSv6f7Jcv2CH) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Tender Emotions](https://open.spotify.com/album/6RQJkrZ2FtyeTNCnAhFkSW) | 2:54 | 2021-11-17 |  |
-| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-11-17 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 | 2021-11-17 |  |
+| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-11-17 | 2024-04-14 |
 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 | 2021-11-17 |  |
 | [Feel Me](https://open.spotify.com/track/0DZlGFqY7WSvQ92Ivf6J3E) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 5:05 | 2021-11-17 |  |
 | [Fiel Enamorado](https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:35 | 2021-11-17 | 2024-03-17 |

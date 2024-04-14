@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 299683,
+  "2024-04-14": 299668,
   "date_first_scraped": "2022-06-10",
   "description": "happy | vibes | feel good | music | mood boost | happy hits | clean pop | positive vibes | dopamine | serotonin | high vibes | happy summer | positive affirmation | upbeat | drive | windows down | good vibes | indie | pop | rock | alternative | feelin' good | healing | rise | smile",
   "name": "Feel Good \ud83e\udd29 Happy Hits",
@@ -2024,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA"
       },
@@ -2771,6 +2789,24 @@
       "duration_ms": 189173,
       "name": "I'll Be Lovin' You",
       "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
+    },
+    {
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "album": {
@@ -4923,6 +4959,24 @@
       "duration_ms": 172314,
       "name": "That Drink (feat. Neal McCoy)",
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+    },
+    {
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
       "album": {

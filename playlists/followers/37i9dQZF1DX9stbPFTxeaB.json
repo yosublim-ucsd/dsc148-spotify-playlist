@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 841302,
+  "2024-04-14": 841330,
   "date_first_scraped": "2021-12-21",
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
   "name": "Funky Heavy Bluesy",
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227680,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/34s9HDYhfFQW3LrSIP2ePh"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 227680,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA"

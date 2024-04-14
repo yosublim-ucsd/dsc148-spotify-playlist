@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 352477,
+  "num_followers": 352797,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 219575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 246733,
       "name": "Symphony Of Destruction",
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -739,34 +739,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The War to End All Wars",
-        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stormtroopers",
-      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -963,34 +963,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "The Heart from Your Hate",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 220765,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "The Heart from Your Hate",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Please End Me",
+        "url": "https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 191744,
+      "name": "Please End Me",
+      "url": "https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Please End Me",
-        "url": "https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 191744,
-      "name": "Please End Me",
-      "url": "https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 225278,
       "name": "Creature",
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Inhumane",
-      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 167509,
       "name": "Mama Said Knock You Out",
       "url": "https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Inhumane",
+      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 388778,
+  "num_followers": 388832,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Hey Papi",
-        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 158859,
-      "name": "Hey Papi - Edit",
-      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "New Fires",
-        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 251591,
-      "name": "New Fires",
-      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+      "duration_ms": 225272,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+        "name": "New Fires",
+        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 225272,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4"
+      "duration_ms": 251591,
+      "name": "New Fires",
+      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Howl (Chill Mix)",
         "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1015,6 +999,42 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 411147,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1043,22 +1063,18 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 411147,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1079,22 +1095,6 @@
       "duration_ms": 233644,
       "name": "Must Be Dreaming",
       "url": "https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
     },
     {
       "added_at": "2024-03-14 13:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-17",
-  "description": "This Is Kidz Bop Kids. Los temas esenciales, todos en una lista.",
+  "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
   "name": "This Is Kidz Bop Kids",
   "tracks": [
     {
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190855,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Ultimate Playlist",
         "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 206413,
       "name": "Party In The USA - Redo Version",
       "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"

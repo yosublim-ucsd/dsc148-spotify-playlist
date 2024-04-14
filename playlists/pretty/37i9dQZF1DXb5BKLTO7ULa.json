@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Chef'Special",
-  "num_followers": 260498,
+  "num_followers": 260522,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5ODc2OSwwMDAwMDAwMDM5MjRjMDk4M2M1Y2QxMWIwNGQ0NTFkYzg2MmFkNjll",
+  "snapshot_id": "MTcxMzAyOTc1NiwwMDAwMDAwMGRlMTExNzFlNjU2N2QwODk4MzM0MTc0YjBiMmVhNjE2",
   "tracks": [
     {
       "added_at": "2024-04-12 05:12:49",
@@ -182,6 +182,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,

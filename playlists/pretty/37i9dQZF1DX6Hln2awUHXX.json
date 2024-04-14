@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 98322,
+  "num_followers": 98344,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
+        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
+      "url": "https://open.spotify.com/track/1h1ypKTi53NeU94O8xdBzI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Das Rheingold, WWV 86A",
         "url": "https://open.spotify.com/album/5QgIRR2Ilw8dZ3OotAbiRV"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 105360,
       "name": "Das Rheingold, WWV 86A, Scene 4: Scene 4: Abendlich strahlt der Sonne Auge (Wotan)",
       "url": "https://open.spotify.com/track/0R5AmHvOSbLhn4UNgjVbbB"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
-        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
-      "url": "https://open.spotify.com/track/1h1ypKTi53NeU94O8xdBzI"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -743,30 +743,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Siegfried, WWV 86C, Act I: Prelude",
-      "url": "https://open.spotify.com/track/1wMmEouKNGgAWlCUwf1FMf"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Orchestral Highlights From Operas",
         "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 441000,
       "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
       "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Siegfried, WWV 86C, Act I: Prelude",
+      "url": "https://open.spotify.com/track/1wMmEouKNGgAWlCUwf1FMf"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,30 +919,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
-        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
-      "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Essentials",
         "url": "https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 510844,
       "name": "Lohengrin, WWV 75: Mein lieber Schwan!",
       "url": "https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
+        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
+      "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
-      "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Tristan Und Isolde",
         "url": "https://open.spotify.com/album/3QFEjUpjMSqxl4XGsQrVUu"
       },
@@ -1323,6 +1291,38 @@
       "duration_ms": 329146,
       "name": "Tristan und Isolde: Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/0spYUmbD692XiXXJvYEmIj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
+        },
+        {
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
+      "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
     },
     {
       "added_at": "2022-06-28 08:58:25",

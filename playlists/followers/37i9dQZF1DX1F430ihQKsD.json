@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 109853,
+  "2024-04-14": 109861,
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Rau_Ze",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Peter Peter",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -105,7 +105,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 299293,
       "name": "20k heures de solitude",
       "url": "https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ"
@@ -1457,6 +1457,24 @@
       "duration_ms": 193432,
       "name": "Choker",
       "url": "https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH"
+    },
+    {
+      "album": {
+        "name": "\u00c9ther",
+        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "Ciel",
+      "url": "https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff"
     },
     {
       "album": {
@@ -3006,6 +3024,24 @@
     },
     {
       "album": {
+        "name": "hana",
+        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
+    },
+    {
+      "album": {
         "name": "Hard to Let Go",
         "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
       },
@@ -4345,6 +4381,24 @@
       "duration_ms": 186578,
       "name": "levels",
       "url": "https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O"
+    },
+    {
+      "album": {
+        "name": "Lisbonne, Paris la Sorbonne",
+        "url": "https://open.spotify.com/album/4oyJLq9CnOCpwvjMZbRFzx"
+      },
+      "artists": [
+        {
+          "name": "Grand Public",
+          "url": "https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Lisbonne, Paris la Sorbonne",
+      "url": "https://open.spotify.com/track/4nB7Z6mGzUQ4rDlqkJU2FQ"
     },
     {
       "album": {
@@ -6569,7 +6623,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 262184,
       "name": "RIVI\u00c8RE",
       "url": "https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy"
@@ -6977,7 +7031,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164360,
       "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
       "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,213 likes - 52 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,323 likes - 52 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 34 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 35 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
 | 36 | [R8](https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:13 |
-| 37 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
-| 38 | [Luna](https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r) | 3:18 |
+| 37 | [Luna](https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r) | 3:18 |
+| 38 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
 | 39 | [PA QUE CONMIGO](https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [PA QUE CONMIGO](https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy) | 2:56 |
 | 40 | [Vuelo](https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Vuelo](https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC) | 3:28 |
 | 41 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 51 | [Maldita Tentación](https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [RAZZ](https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Maldita Tentación](https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl) | 4:17 |
 | 52 | [Infiel](https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Infiel](https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS) | 3:42 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDA0ODM2MDgwOThjMjcwZDM0MTI4NDYzODY2ODZiYTM4`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGQ0YjU5ZWM0ODA4M2FjOGQzMDFmOWQxOTVkMjg1ZWZh`

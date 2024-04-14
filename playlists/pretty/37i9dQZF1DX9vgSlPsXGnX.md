@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,332 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,395 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 61 | [Mi Manera De Amar](https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 4:11 |
 | 62 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
 | 63 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 |
-| 64 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
-| 65 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 64 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 65 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
 | 66 | [Nuestro Juramento](https://open.spotify.com/track/0cGYk1dJWiA0fUSgQuAGpY) | [Los Jefes](https://open.spotify.com/artist/2yCqVZMT1Q1rCz86KiKQUp) | [Los Jefes Interpretan al Inmortal Julio Jaramillo](https://open.spotify.com/album/3SjcynTYHXUywEqdpv2KFA) | 3:26 |
 | 67 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |
 | 68 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
 | 69 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 70 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
 | 71 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
-| 72 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
-| 73 | [Siempre en Mi Corazón \(2019 \- Remaster\)](https://open.spotify.com/track/1kFRo0Pi2hPaxCxBme55Sl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 3:39 |
-| 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
+| 72 | [Siempre en Mi Corazón \(2019 \- Remaster\)](https://open.spotify.com/track/1kFRo0Pi2hPaxCxBme55Sl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\) \(2019 Remaster\)](https://open.spotify.com/album/2u9pOUyXvLInVwya0I4hcJ) | 3:39 |
+| 73 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
+| 74 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 | 75 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 
 Snapshot ID: `MTcxMjE2MzE3MywwMDAwMDAwMDUzNDFmZTQ1OWU4NGUyMDUwODIyZTM0ZTkyNWMxYzEz`

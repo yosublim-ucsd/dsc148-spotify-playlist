@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Chicocurlyhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,274 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,303 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 39 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 40 | [NO TE DEJO EN VISTO](https://open.spotify.com/track/7G3uxNsW5iRcO7ITwFf9YO) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NO TE DEJO EN VISTO](https://open.spotify.com/album/3bLyFrD9ik2NoFSqty1f07) | 2:56 |
 | 41 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 |
-| 42 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
+| 42 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/2ETUk2aGu5fHNXfsR14maE) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/2inYOON82Aiiambp6w9GmO) | 2:41 |
 | 43 | [Truth Is \(Spanish Version\)](https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:45 |
 | 44 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 45 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 |

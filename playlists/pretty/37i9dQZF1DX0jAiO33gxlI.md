@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: 3030
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,613 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,610 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amanhã](https://open.spotify.com/track/2SFv0KNd4UUWnFZS0X9CUT) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Amanhã](https://open.spotify.com/album/6ugfJZBcwwvdwqRqwPH5LX) | 3:45 |
 | 2 | [Nuvem Negra](https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Nuvem Negra](https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd) | 2:41 |
 | 3 | [Gênesis](https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Gênesis](https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB) | 4:00 |
-| 4 | [LARARÁ](https://open.spotify.com/track/1e8HlCspDNf04JKn2Y1PkO) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [LARARÁ](https://open.spotify.com/album/4ldhzypS6POi4buhoZC2iS) | 3:10 |
+| 4 | [LARARÁ](https://open.spotify.com/track/1e8HlCspDNf04JKn2Y1PkO) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [LARARÁ](https://open.spotify.com/album/4ldhzypS6POi4buhoZC2iS) | 3:15 |
 | 5 | [Tinky Winky](https://open.spotify.com/track/3wua0ArgugXXWhURSFfJtI) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Tinky Winky](https://open.spotify.com/album/1wZUskef25Q6eL0uFAKv28) | 2:34 |
 | 6 | [SOLD OUT](https://open.spotify.com/track/7hEhMyXNNVlwD0XlVO8xyH) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [Frugi](https://open.spotify.com/artist/6pnILCpyHaqMnMASeLtpd8) | [SOLD OUT](https://open.spotify.com/album/0xpOemSi2A9EUgNKN8P8Lj) | 2:28 |
 | 7 | [Tonelada](https://open.spotify.com/track/7w9sOIJlDHAO8PQSGwGfjf) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Tonelada](https://open.spotify.com/album/2z4HGVkmC3Yh5hmqYEbQLV) | 2:35 |

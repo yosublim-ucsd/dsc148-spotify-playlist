@@ -8604,7 +8604,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -10981,6 +10981,28 @@
     },
     {
       "album": {
+        "name": "Eurosport",
+        "url": "https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Eurosport",
+      "url": "https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -13148,7 +13170,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
@@ -15868,6 +15890,24 @@
       "duration_ms": 183785,
       "name": "Il Filosofo",
       "url": "https://open.spotify.com/track/3NrquRxXPbErpB6h3AlNwS"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -25411,6 +25451,24 @@
     },
     {
       "album": {
+        "name": "PRETTY LIL SHAWTY",
+        "url": "https://open.spotify.com/album/2gwcLxt9EWRoFltgOeK4m5"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "PRETTY LIL SHAWTY",
+      "url": "https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy"
+    },
+    {
+      "album": {
         "name": "Estava No Abismo Mas Dei Um Passo Em Frente",
         "url": "https://open.spotify.com/album/7wLBlDCN5tEBpbhhHmLJ8J"
       },
@@ -30192,7 +30250,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -34639,6 +34697,32 @@
     },
     {
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
+    },
+    {
+      "album": {
         "name": "We Too Deep",
         "url": "https://open.spotify.com/album/77i1SEBqUyYo4D4Lapp4iN"
       },
@@ -35146,7 +35230,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"

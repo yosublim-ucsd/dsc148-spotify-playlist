@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 285293,
+  "2024-04-14": 285374,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -415,6 +415,24 @@
       "duration_ms": 288026,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/4v0zx9bnE0Y33QfVE9RPv3"
+    },
+    {
+      "album": {
+        "name": "Rebel Moon \u2014 Part Two: The Scargiver (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3ei7cP8CR25l9mgzMZC8Qw"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251847,
+      "name": "Auguries of Innocence",
+      "url": "https://open.spotify.com/track/3KWPNzOY4hYY9jPYp2sSUY"
     },
     {
       "album": {
@@ -2628,6 +2646,24 @@
     },
     {
       "album": {
+        "name": "Our Living World (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5bYwy9SM7MrGzi2uWoDh1F"
+      },
+      "artists": [
+        {
+          "name": "Pinar Toprak",
+          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245013,
+      "name": "Life Blood",
+      "url": "https://open.spotify.com/track/4df0C9ncdvxy4rZ6kQWtA6"
+    },
+    {
+      "album": {
         "name": "A Journal for Jordan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4lnVivEoRcH4Hh7e38vmdn"
       },
@@ -4651,6 +4687,24 @@
       "duration_ms": 79103,
       "name": "Symphony Brew Redux",
       "url": "https://open.spotify.com/track/1B6A8WRAW8T4pTH4ziNzDE"
+    },
+    {
+      "album": {
+        "name": "Fallout (Original Amazon Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202209,
+      "name": "T-60",
+      "url": "https://open.spotify.com/track/2k7aqEBYFVKKYiELSCp3y0"
     },
     {
       "album": {

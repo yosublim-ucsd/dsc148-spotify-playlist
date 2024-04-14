@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 391806,
+  "2024-04-14": 391903,
   "date_first_scraped": "2022-04-19",
   "description": "Wind down in moments of stress with these chilled songs for the whole family.",
   "name": "Calm Kids",
@@ -89,10 +89,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 111371,
       "name": "Beautiful Dreamer",
       "url": "https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111371,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/2bhH3Wi4cyvRqBaYrPzFv7"
     },
     {
       "album": {
@@ -1499,6 +1517,24 @@
     {
       "album": {
         "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115877,
+      "name": "La La Lu",
+      "url": "https://open.spotify.com/track/3D7htYHGMGk9fOCeCNTxVU"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
         "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
       },
       "artists": [
@@ -1509,7 +1545,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 115877,
       "name": "La La Lu",
       "url": "https://open.spotify.com/track/7Gc86khLjIENRGdMrrxd1B"

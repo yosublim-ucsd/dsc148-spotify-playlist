@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-129 songs - 7 hr 49 min
+130 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 |  |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
-| [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 | 2023-12-01 |  |
+| [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 | 2023-12-01 | 2024-04-14 |
 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 | 2023-09-22 | 2024-01-30 |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 | 2023-09-07 |  |
@@ -78,6 +78,7 @@
 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 | 2023-02-23 | 2023-06-13 |
 | [Love in the Dark](https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE) | [Abe Partridge](https://open.spotify.com/artist/1RQeZdPAK7c7QakzTfcA2q) | [Love in the Dark](https://open.spotify.com/album/1BQwxISegVx89NtVEb2Umm) | 4:07 | 2023-05-12 | 2023-06-01 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-07 | 2024-04-13 |
+| [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-04-11 |  |
 | [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 | 2023-10-05 | 2024-01-03 |
 | [Love You So](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 | 2023-03-16 | 2023-04-28 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 | 2023-10-06 |

@@ -10065,6 +10065,28 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3Is4r8XBx21xiueH23N8Vj"
+      },
+      "artists": [
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        },
+        {
+          "name": "Former",
+          "url": "https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5oNAbbhAuoz6xrEPWo3U0M"
+    },
+    {
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll"
       },
@@ -10860,7 +10882,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 348072,
       "name": "Wisdom",
       "url": "https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9"

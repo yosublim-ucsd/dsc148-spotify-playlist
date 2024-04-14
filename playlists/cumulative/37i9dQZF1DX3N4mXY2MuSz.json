@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Cup of Cheer (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6TbA8AzpmI44P4IxOyXXih"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190017,
+      "name": "When Snow Falls",
+      "url": "https://open.spotify.com/track/2QG3NpGPXfssvQ7XXTeXKP"
+    },
+    {
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"

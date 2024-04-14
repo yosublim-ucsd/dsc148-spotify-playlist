@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> cover: lizzy mcalpine
+> cover: chappell roan's infamous set from the desert 🐆
 
-2,711 songs - 6 day 1 hr 59 min
+2,714 songs - 6 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-06-22 |
 | [Dance Like U](https://open.spotify.com/track/1xCwzlJ0pXrAQfh5B09eZ3) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 2:50 | 2022-05-31 | 2022-06-16 |
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-08-16 |
+| [Dance, Dance, Dance](https://open.spotify.com/track/68s9Rkn9dyuonMXZXkKvWo) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:41 | 2024-04-13 |  |
 | [dancefloor](https://open.spotify.com/track/18pa8bezpm5gRKLI7kKkZX) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/14JBNBCOzUUt96BtB7ak0k) | 3:18 | 2019-11-16 | 2020-02-05 |
 | [Dancing in My Room](https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/0dwXkSf1hMjZgqKUkeoR4l) | 3:00 | 2020-10-30 | 2021-12-02 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 | 2023-06-24 |
@@ -644,6 +645,7 @@
 | [Dog Eat](https://open.spotify.com/track/6kyNaZJgV2ngQA6c0mvt5y) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Dog Eat](https://open.spotify.com/album/4tp2NihDQ78g1BHJMxN3zW) | 2:47 | 2020-05-28 | 2020-08-20 |
 | [dog eat dog](https://open.spotify.com/track/00UDY0dZ0ZBjZzAL7J7RP8) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:51 | 2021-07-17 | 2021-11-13 |
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30\* | 2019-09-27 |
+| [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 |  |
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2020-01-17 | 2020-02-20 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-04 | 2021-04-02 |
@@ -1802,6 +1804,7 @@
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-03-06 | 2021-08-28 |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-03 |  |
 | [picnic](https://open.spotify.com/track/1Ry0wBREk2niZzLB9OfbdG) | [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT) | [picnic](https://open.spotify.com/album/4J0nenGo3AyImS1oeMOVA7) | 3:59 | 2021-12-10 | 2022-03-05 |
+| [Picture](https://open.spotify.com/track/2fqqw29nKkLUd4qACp0WOV) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:04 | 2024-04-13 |  |
 | [Picture Book](https://open.spotify.com/track/3goYNmDLv0HXUXyJ1XQX99) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Picture Book](https://open.spotify.com/album/1uNWkGs5yvLStN7PzCjPB1) | 2:52 | 2020-10-20 | 2020-11-14 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2022-10-29 |
 | [Picture Of You](https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Picture Of You](https://open.spotify.com/album/7oqxbjrUn7rnoAnozLLC6w) | 4:18 | 2022-08-12 | 2023-01-28 |

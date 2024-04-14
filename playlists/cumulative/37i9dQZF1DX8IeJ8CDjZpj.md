@@ -4,7 +4,7 @@
 
 > bien inventadas 💅🏼✨
 
-100 songs - 5 hr 35 min
+101 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2023-01-25 |  |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2023-01-25 |  |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2023-01-25 |  |
-| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-01-25 |  |
+| [No Es Por Acá](https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:47 | 2023-01-25 |  |
+| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-01-25 | 2024-04-14 |
 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 | 2023-01-25 |  |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-01-25 |  |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-01-25 |  |

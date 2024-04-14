@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,264 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,261 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
 | 2 | [Monday Loop](https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL) | 1:31 |
-| 3 | [m i s t](https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 1:58 |
-| 4 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 |
+| 3 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 |
+| 4 | [m i s t](https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 1:58 |
 | 5 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
 | 6 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 7 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 10 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
 | 11 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 |
 | 12 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
-| 13 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
-| 14 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
-| 15 | [Interstellar](https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Interstellar](https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl) | 2:44 |
-| 16 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 |
+| 13 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
+| 14 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
+| 15 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 |
+| 16 | [Interstellar](https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Interstellar](https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl) | 2:44 |
 | 17 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
 | 18 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
 | 19 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 30 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
 | 31 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 32 | [nagashi](https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:49 |
-| 33 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |
-| 34 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
+| 33 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
+| 34 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |
 | 35 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
 | 36 | [i love being with you](https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:36 |
 | 37 | [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 55 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
 | 56 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
 | 57 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
-| 58 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
-| 59 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
+| 58 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
+| 59 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
 | 60 | [Pick Ur Love](https://open.spotify.com/track/0ioSIb7KgickIu5YlAIQfo) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Pick Ur Love](https://open.spotify.com/album/3OKWzFoMxvdcPtqzrxVwOA) | 2:40 |
 | 61 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 |
 | 62 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 72 | [Tick Tock](https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:13 |
 | 73 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
 | 74 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
-| 75 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
+| 75 | [Leave My Home](https://open.spotify.com/track/7kMKUH92AiChpAN3dxLY5c) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/71y9TvXQwd3YN2UKH8FhaY) | 3:41 |
 
 Snapshot ID: `MTcxMDI1Mzk4OCwwMDAwMDAwMDE0NmNmOGNiOTNhYTJiZTJmNTQxYTNkODFjNjEwMWYw`

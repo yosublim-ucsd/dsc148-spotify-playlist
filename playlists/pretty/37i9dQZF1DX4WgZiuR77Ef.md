@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,723 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,742 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 70 | [Baby Get Down](https://open.spotify.com/track/6qJkfU8aHK5NGmpAL6Nfq3) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Baby Get Down](https://open.spotify.com/album/6S4OFrzckKTRRWg6T6vgUv) | 3:52 |
 | 71 | [Groove for the Ques](https://open.spotify.com/track/2XarYi1aq7MvLQPkYvwPrs) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Groove for the Ques](https://open.spotify.com/album/3jSyt4UEGu3gUaeaGpt4pO) | 4:47 |
 | 72 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 |
-| 73 | [Juice](https://open.spotify.com/track/4ID3iACsnvHL6F5ER140Oo) | [Thomas Atlas](https://open.spotify.com/artist/6JmjdmUmKCrzq0CqDt0vB6) | [Thomas Atlas](https://open.spotify.com/album/1hn0OhkwxNmIbdcjxy4aTv) | 2:51 |
+| 73 | [Juice](https://open.spotify.com/track/5JJjXx0PCTGLabGrLDruap) | [Thomas Atlas](https://open.spotify.com/artist/6JmjdmUmKCrzq0CqDt0vB6) | [Thomas Atlas](https://open.spotify.com/album/2PB9nzvPkMH340fOB30fkm) | 2:51 |
 | 74 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 |
 | 75 | [Funk Is My Religion](https://open.spotify.com/track/0MUfqhh2wepeXY3xn9O64O) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/4l1PPZ7MgVuTACORe0vaFz) | 4:50 |
 | 76 | [Journey](https://open.spotify.com/track/17bXySNIfVmyYBZnXoxFm5) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Journey](https://open.spotify.com/album/6rXDUFPDscd0L9j8IG0lOq) | 5:32 |

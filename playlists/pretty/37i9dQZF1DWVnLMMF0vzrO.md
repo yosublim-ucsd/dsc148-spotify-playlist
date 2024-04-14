@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,407 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,409 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 18 | [Un Mal Paso](https://open.spotify.com/track/6WOcBPFPFC1Od55wbkB9IH) | [Blanca Iris Villafañe](https://open.spotify.com/artist/3XCYSTDdeKWmRty7TvNEr7) | [Vol\. 3](https://open.spotify.com/album/3Sae50fIHMwPbNyBMOu2gO) | 2:51 |
 | 19 | [Guadalajara](https://open.spotify.com/track/0S9gwUtZ043acKBlnBJ2gr) | [Pepe Guizar](https://open.spotify.com/artist/5Mbijzqv3VXBgrGxdrWcbZ) | [Mariachi Mexicanisimo \(Instrumental\)](https://open.spotify.com/album/4MQ4xJY17z50t0wmT3vqgC) | 3:38 |
 | 20 | [Upside Down \- Full Power Dj Mix](https://open.spotify.com/track/2McGIhRnxJrpoxfxhBqrnG) | [Coo Coo](https://open.spotify.com/artist/3YOu1G9bKY1IDCd2eIhRZA) | [Upside Down](https://open.spotify.com/album/5wZ1LrhgpZM1Wz7eGCRGKy) | 7:51 |
-| 21 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 21 | [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 |
 | 22 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
 | 23 | [Maria Luisa](https://open.spotify.com/track/1ENQifGWL12IyWzq2JKrQ2) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:52 |
 | 24 | [Aurora](https://open.spotify.com/track/6uUmofdoXLelV2SQ0gSiBs) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/6sr1T6Do5ktnDvzGXlyW65) | 2:26 |

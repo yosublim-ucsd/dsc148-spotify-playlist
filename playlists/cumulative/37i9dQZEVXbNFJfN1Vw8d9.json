@@ -3979,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/4iyoO6tOGnEaR2CYrUmukL"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Contento",
+      "url": "https://open.spotify.com/track/4xuxWQbprzIOE3BGRULn75"
+    },
+    {
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -6713,6 +6731,28 @@
     },
     {
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
+    },
+    {
+      "album": {
         "name": "FEEL ME??",
         "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
       },
@@ -7970,7 +8010,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
@@ -9695,6 +9735,24 @@
     },
     {
       "album": {
+        "name": "LA SEVILLANA",
+        "url": "https://open.spotify.com/album/7iBCB7gUErJyeuY7kPenGX"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "LA SEVILLANA",
+      "url": "https://open.spotify.com/track/6jsX9MWN6QAchvWZvZKmdR"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -11114,7 +11172,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
@@ -12944,7 +13002,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
@@ -14486,6 +14544,32 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "album": {
@@ -19694,7 +19778,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"

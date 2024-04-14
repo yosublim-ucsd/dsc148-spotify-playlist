@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-460 songs - 1 day 0 hr 12 min
+462 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-15 |  |
 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-09-23 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2022-04-29 | 2023-03-11 |
+| [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 |  |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2023-05-24 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-04-28 |  |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-04-29 | 2023-01-29 |
@@ -358,7 +359,7 @@
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-05-20 | 2023-03-11 |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2022-04-29 | 2022-08-27 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
-| [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-05 |  |
+| [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-05 | 2024-04-14 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-26 |  |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-17 | 2023-01-29 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-23 |  |
@@ -401,10 +402,11 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-04-29 | 2022-06-18 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2022-12-17 |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-07-28 | 2023-09-16 |
+| [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 | 2023-03-11 |
 | [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 | 2024-03-22 | 2024-04-06 |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2022-04-29 |  |
-| [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-10 |  |
+| [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-10 | 2024-04-14 |
 | [THE WAY IT WAS](https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [THE WAY IT WAS](https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT) | 3:17 | 2022-05-20 | 2022-07-29 |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2022-04-29 | 2023-04-01 |
 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 | 2022-04-29 | 2022-06-18 |

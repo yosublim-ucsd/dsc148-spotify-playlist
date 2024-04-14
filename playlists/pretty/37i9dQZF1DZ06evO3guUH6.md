@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,912 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,358 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 30 | [Y Porque No](https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:40 |
 | 31 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
 | 32 | [Villana De Cuento](https://open.spotify.com/track/0HK1L6iSv2x6xtDvnJuwLf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 2:59 |
-| 33 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
+| 33 | [A Estas Horas](https://open.spotify.com/track/7hiFcSUWRVotWd2pxhRIDJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Estas Horas](https://open.spotify.com/album/0n49nTkrVzzZY6hv6cfJCv) | 4:15 |
 | 34 | [Cuando Valgas La Pena \- Versión Mariachi](https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:37 |
 | 35 | [La Danza Del Venado](https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:26 |
-| 36 | [A Estas Horas](https://open.spotify.com/track/7hiFcSUWRVotWd2pxhRIDJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Estas Horas](https://open.spotify.com/album/0n49nTkrVzzZY6hv6cfJCv) | 4:15 |
+| 36 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
 | 37 | [El Cuestionario](https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 | 38 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 39 | [La Supuesta Cita](https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:05 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 47 | [Tres Tiros](https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:29 |
 | 48 | [El Tonny](https://open.spotify.com/track/79FNFHz8idALaHXxYGJVGB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 4:10 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDgwZmM2M2U1MGY3ODcxMDM5Y2EyYWUzOGE5MmYwZjg2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGE2OGM5Mzc3Mzg3OWNmNmM1ZmI1NjI3MjY1MmE2ZmM2`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This Is Mike Bahía\. Los temas esenciales, todos en una lista.
+> This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,625 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,637 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 8 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 |
 | 9 | [Si Dios Fuera Poeta](https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:27 |
 | 10 | [Serenata](https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:26 |
-| 11 | [Buscándote](https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz) | 4:01 |
-| 12 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
+| 11 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
+| 12 | [Buscándote](https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz) | 4:01 |
 | 13 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
 | 14 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 |
 | 15 | [Locos Dementes](https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:35 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 39 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od) | 3:21 |
 | 40 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
 | 41 | [A Dónde Te Me Fuiste](https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
-| 42 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
-| 43 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 |
+| 42 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 |
+| 43 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
 | 44 | [La Muñeca](https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Muñeca](https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ) | 3:18 |
 | 45 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 |
 | 46 | [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 49 | [Tarde](https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tarde](https://open.spotify.com/album/5tkNolbHmwahGRepiHrold) | 3:31 |
 | 50 | [Sola Bonita](https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Soy](https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f) | 3:03 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDYwZDY3M2RjNDRhOWIzZWQyYzcxNmI1M2IzYTU0ZTc1`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDE5NDQ3ZmVlNjgzNzJlNjc5YjNkMGQwMThmZTgxYmU3`

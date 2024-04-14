@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Friedberg
 
-560 songs - 1 day 7 hr 32 min
+562 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-13 | 2023-01-15 |
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-07-16 | 2022-08-19 |
 | [FML](https://open.spotify.com/track/46Nr71GAHoSO5aqtUMUXT6) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Keep On Truckin'](https://open.spotify.com/album/4nl662iBk0IbnefmRYBGcI) | 2:49 | 2021-10-15 | 2022-08-19 |
-| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 |  |
+| [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-03-15 |  |
+| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 | 2024-04-14 |
 | [Focus](https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Focus](https://open.spotify.com/album/69QkIjxgLwRUFibhVxRKpA) | 2:41 | 2022-09-29 | 2022-11-19 |
 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 |  |
 | [Forever](https://open.spotify.com/track/2cmDPqRq97ivaQcjUo8erq) | [Repenter](https://open.spotify.com/artist/4sFVHlvgogxZ41szbq6wip) | [Forever](https://open.spotify.com/album/5AGEqq97zCOGgd0PfjbujC) | 4:10 | 2021-03-09 | 2022-01-17 |
@@ -240,7 +241,7 @@
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-06 | 2023-05-04 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-27 | 2023-11-21 |
 | [I Wanna Dance With You](https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [I Wanna Dance With You](https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA) | 2:54 | 2023-01-13 | 2023-04-04 |
-| [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 | 2023-03-17 |  |
+| [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 | 2023-03-17 | 2024-04-14 |
 | [I Want To Be You](https://open.spotify.com/track/5ZMN6Zhr1A90CpaeDwL4GY) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [I Want To Be You](https://open.spotify.com/album/4P1b1Y2VBeqQEtKOYYYVkw) | 2:33 | 2023-11-17 | 2024-01-26 |
 | [I Want You To Know Me](https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [I Want You To Know Me](https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0) | 3:37 | 2024-01-12 |  |
 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-18 | 2022-12-01 |
@@ -394,6 +395,7 @@
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 | 2024-03-15 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
+| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 |  |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-11 | 2023-12-21 |
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 | 2023-01-14 |
 | [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 | 2022-09-01 | 2022-11-18 |
@@ -449,7 +451,7 @@
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-08-18 |  |
 | [Snowflake Suzie](https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Snowflake Suzie](https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm) | 3:40 | 2023-11-24 | 2024-01-12 |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-05-25 | 2023-10-01 |
-| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-17 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-17 | 2024-04-14 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-05 | 2023-04-03 |
 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 | 2023-09-29 |
 | [Someone Up There](https://open.spotify.com/track/2nORt1E3rcZX5CUueWSGgv) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [The WAEVE](https://open.spotify.com/album/2Pu5xQUV8wjHdUmWJnkA93) | 2:40 | 2023-02-10 | 2023-03-04 |
@@ -472,7 +474,7 @@
 | [Stranger Days](https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger Days](https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT) | 4:11 | 2022-02-04 | 2022-08-19 |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-18 |  |
 | [Street Justice](https://open.spotify.com/track/3s1Lfb2qxTL9r2apOFfIYD) | [Death Valley Girls](https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9) | [Street Justice](https://open.spotify.com/album/7ApxyIBdLgZad3CsKwHhQp) | 2:40 | 2021-03-09 | 2022-01-17 |
-| [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 | 2023-01-20 | 2024-04-13 |
+| [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 | 2023-01-20 |  |
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2023-11-17 |
 | [Superblue](https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Superblue](https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4) | 3:19 | 2022-11-25 | 2022-12-20 |
 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 | 2023-03-03 | 2023-08-07 |

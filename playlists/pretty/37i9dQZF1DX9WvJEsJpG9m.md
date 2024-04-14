@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 
 > Rock from the aughts to fuel your ride\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,872 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,924 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

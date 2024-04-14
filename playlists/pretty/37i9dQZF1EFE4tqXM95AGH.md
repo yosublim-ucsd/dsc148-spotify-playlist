@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 165 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076 likes - 165 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 48 | [Love Me Wrong](https://open.spotify.com/track/6OIpGjctdltVSI6ERlirIq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:12 |
 | 49 | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/track/00JYHDGMCHtMnCw3iqBxkY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/album/7ex8A5McEuRHMwynXZgONx) | 2:35 |
 | 50 | [Someone Else](https://open.spotify.com/track/28HfRT3Zjmt1KgIZFjlWlW) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:04 |
-| 51 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
-| 52 | [What's The Time Where You Are?](https://open.spotify.com/track/0sYM4OmgrRYaHq6DV7obq1) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:23 |
-| 53 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
+| 51 | [What's The Time Where You Are?](https://open.spotify.com/track/0sYM4OmgrRYaHq6DV7obq1) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:23 |
+| 52 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
+| 53 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 54 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
 | 55 | [Ugly](https://open.spotify.com/track/28RluRGmXQFTG2oSgFtR5u) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Ugly](https://open.spotify.com/album/2g0mf8XRHOMpGcTeyMGJpE) | 3:21 |
 | 56 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 107 | [Open Book](https://open.spotify.com/track/61A57xxAea7lkLFClsCVOn) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/4pwckZgqySwVgWj7EGlo9d) | 4:48 |
 | 108 | [Lights](https://open.spotify.com/track/3DEM3WifNrig0sVrFb22ac) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:02 |
 | 109 | [Warmer](https://open.spotify.com/track/0J1dghZvW89xWai1COnPdT) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:05 |
-| 110 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 |
-| 111 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 110 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 111 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 |
 | 112 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
 | 113 | [Whole Heart](https://open.spotify.com/track/4gbTxDPmg2KOUpfp727PGT) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:11 |
 | 114 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 164 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 165 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDA3ODBmYWZkZGE4NGJhZjdhNTc1ZjYxMzUzZDI3NmRlMw==`
+Snapshot ID: `Mjg1NTEwNzksMDAwMDAwMDAxZjljNGVlMWMxYzhiZjUxYjk4ZGJmNWYxNWM0NjE2OA==`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
-  "num_followers": 224441,
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "num_followers": 224489,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGJhZGE1YmI2OGQ2M2Y0YTRjNmQyM2RiN2UyYmNkMjE4",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDgwNmQwNGI5NjFhZGIzN2I1YzNhM2YyZDVhMTIwMjYw",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
+      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hay Vida",
         "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
       },
@@ -503,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 234493,
-      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
-      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
+      "duration_ms": 191013,
+      "name": "Vita Ce N'\u00e8",
+      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
     },
     {
       "added_at": null,
@@ -535,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vita Ce N'\u00e8",
-        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
       "artists": [
         {
@@ -544,9 +560,25 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 191013,
-      "name": "Vita Ce N'\u00e8",
-      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+      "duration_ms": 253053,
+      "name": "Una Historia Importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Ama",
+      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
     },
     {
       "added_at": null,
@@ -599,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Una Historia Importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Ogni Senso",
         "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 264026,
       "name": "Amarti \u00e8 l'immenso per me",
       "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Battito Infinito",
-        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Ama",
-      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stilelibero",
-        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Un angelo non \u00e9",
-      "url": "https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 240760,
       "name": "Ahora Tu - Remastered 2021",
       "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Un angelo non \u00e9",
+      "url": "https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,167 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,830 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 18 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
 | 19 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 |
 | 20 | [El 24 \- Corrido](https://open.spotify.com/track/0drX7yWD6MSa2G82wqmVJk) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Las Retro Chingonas](https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB) | 1:46 |
-| 21 | [Ando Bien Pedo](https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:24 |
-| 22 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
+| 21 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
+| 22 | [Ando Bien Pedo](https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:24 |
 | 23 | [Mi Padrino el Diablo](https://open.spotify.com/track/0z07OSWiapGp0I8ttzgXo1) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 2:44 |
 | 24 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 |
 | 25 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDk3NmI3ZTNiYmRkMjVmZDkzZmE3OWZhY2E4MmU2NGNk",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDczYWY3ZDhmNjFjZmU4NDE1OGYyMjIxYjc4MzgyMjJj",
   "tracks": [
     {
       "added_at": null,
@@ -150,6 +150,10 @@
         {
           "name": "MC Xenon",
           "url": "https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
         }
       ],
       "duration_ms": 114045,
@@ -435,6 +439,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Leo Lg",
+          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
       },
@@ -471,34 +503,6 @@
       "duration_ms": 153545,
       "name": "Papo 10",
       "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Dj Leo Lg",
-          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
-        },
-        {
-          "name": "DJ JOAO DA INESTAN",
-          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
     },
     {
       "added_at": null,
@@ -739,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu & Elas",
         "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
       },
@@ -763,22 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+        "name": "Recebi Meu Salario",
+        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
       },
       "artists": [
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+          "name": "Mc Mr. Bim",
+          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
         }
       ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+      "duration_ms": 147691,
+      "name": "Recebi Meu Salario",
+      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
     },
     {
       "added_at": null,
@@ -799,6 +827,26 @@
       "duration_ms": 157000,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -831,78 +879,6 @@
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recebi Meu Salario",
-        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
-      },
-      "artists": [
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Mr. Bim",
-          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
-        }
-      ],
-      "duration_ms": 147691,
-      "name": "Recebi Meu Salario",
-      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Acontece L\u00e1 na Favela",
-        "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
-      },
-      "artists": [
-        {
-          "name": "DJ IGOR SANCHEZ",
-          "url": "https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO"
-        },
-        {
-          "name": "Daan Mc",
-          "url": "https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Vitin LC",
-          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
-        }
-      ],
-      "duration_ms": 123664,
-      "name": "Tudo Acontece L\u00e1 na Favela",
-      "url": "https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T"
     },
     {
       "added_at": null,
@@ -940,9 +916,37 @@
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Acontece L\u00e1 na Favela",
+        "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
+      },
+      "artists": [
+        {
+          "name": "DJ IGOR SANCHEZ",
+          "url": "https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO"
+        },
+        {
+          "name": "Daan Mc",
+          "url": "https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Vitin LC",
+          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
+        }
+      ],
+      "duration_ms": 123664,
+      "name": "Tudo Acontece L\u00e1 na Favela",
+      "url": "https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T"
     },
     {
       "added_at": null,
@@ -1095,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADIES NIGHT",
-        "url": "https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "LADIES NIGHT",
-      "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tira a Roupa sua Louca Vs Ele Carrega Minha Bolsa",
         "url": "https://open.spotify.com/album/7CtLXWiHSbTmb5elDBX7ug"
       },
@@ -1155,6 +1139,26 @@
       "duration_ms": 206564,
       "name": "Medley",
       "url": "https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADIES NIGHT",
+        "url": "https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "LADIES NIGHT",
+      "url": "https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

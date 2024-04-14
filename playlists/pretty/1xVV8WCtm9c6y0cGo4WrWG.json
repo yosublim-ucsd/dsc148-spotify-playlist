@@ -1,6 +1,6 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring J. Cole, ScHoolboy Q, Yeat, Ice Spice, Drake and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more. Cover: GloRilla",
-  "num_followers": 23503,
+  "num_followers": 23501,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
@@ -174,6 +174,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,

@@ -4,7 +4,7 @@
 
 > The greatest Alternative Rock songs through the decades\. Cover: Gorillaz
 
-397 songs - 1 day 1 hr 22 min
+398 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Formed a Band](https://open.spotify.com/track/2xbbSGG1gmurW5jncFgeZ5) | [Art Brut](https://open.spotify.com/artist/1gxXzfykdtDuod56hPkYyr) | [Bang Bang Rock & Roll \(Remastered\)](https://open.spotify.com/album/3wX4loyNH7gmjqqqoFLypJ) | 2:57 | 2022-05-30 | 2022-11-13 |
 | [Formed a Band](https://open.spotify.com/track/0ct4ws55SFBY6BcrEfTdz4) | [Art Brut](https://open.spotify.com/artist/1gxXzfykdtDuod56hPkYyr) | [Top Of The Pops](https://open.spotify.com/album/6OpbN5EheYOVPBiZANRPRQ) | 3:00 | 2020-07-23 | 2022-07-29 |
 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 | 2020-07-23 |  |
-| [Glycerine](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 | 2020-07-23 |  |
+| [Glycerine \- 2014 Remastered](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 | 2020-07-23 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-05-30 |  |
 | [Golden Skans](https://open.spotify.com/track/5RsafHN45Azq79aJ6IG9Ck) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future \(Exclusive to specific BPs\)](https://open.spotify.com/album/3X36TxPDnlK0Ie61NLMYwy) | 2:45 | 2020-07-23 | 2022-07-29 |
 | [Golden Skans](https://open.spotify.com/track/0I5rSYakGDYXkXxKTLbygE) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Indie Rock Essentials](https://open.spotify.com/album/4DYRVOIktetGjV0pYQuEHm) | 2:47 | 2022-05-30 | 2022-11-12 |
@@ -190,7 +190,8 @@
 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 | 2022-05-30 |  |
 | [Just](https://open.spotify.com/track/4aSAA0QQSUUX3YUiXsdtbn) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/6Lmj92VLXz7Z5xcsjXBMSC) | 3:54 | 2020-07-23 | 2022-07-29 |
 | [Just Because](https://open.spotify.com/track/3k6L0H08zSY5yRDgqI8fqx) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:51 | 2020-07-23 |  |
-| [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2022-05-30 |  |
+| [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2024-02-07 |  |
+| [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2022-05-30 | 2024-04-14 |
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2020-07-23 | 2022-07-29 |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2022-05-30 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2020-07-23 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-248 songs - 14 hr 42 min
+249 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [GHETTO GODS](https://open.spotify.com/track/0EocJQHVyGDM5vrf0CNhS7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 2:46 | 2023-12-13 |  |
 | [Gimme Gimme](https://open.spotify.com/track/6m8uAsdrrL4dgsdYBqlRss) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7) | [Step Brothers](https://open.spotify.com/album/3fPVpa5c6VFluIWqn176sV) | 2:40 | 2023-12-13 |  |
 | [Go Gina](https://open.spotify.com/track/6Vmow8PuUaU7W1T2WWLZk2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 2:41 | 2023-12-13 |  |
+| [GOATED](https://open.spotify.com/track/3Z4RvoEgCtreDHrk4i4S0F) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [GOATED](https://open.spotify.com/album/0eYW7vog7TmXgeJ4QndHfX) | 2:55 | 2024-04-13 |  |
 | [Groundhog Day](https://open.spotify.com/track/1SCl4Y5tTalU4q8Yp5ywWC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2](https://open.spotify.com/album/1UiPHgFputxSUssPibAVxc) | 4:53 | 2023-12-13 |  |
 | [Growing Pains III](https://open.spotify.com/track/4OMKQBq51PnjZz042AghkR) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:06 | 2023-12-13 |  |
 | [Hamburg](https://open.spotify.com/track/7A4fgIoGHXViGO8aD0TEiH) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Smith & Wesson](https://open.spotify.com/artist/6XIVSItA4ieQMxvkSRG4Rt) | [Late Nights: Europe](https://open.spotify.com/album/7fA1iHkq1YpylDaZewt65w) | 3:26 | 2023-12-13 |  |

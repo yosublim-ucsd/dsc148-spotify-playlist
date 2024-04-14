@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 175 likes - 200 songs - 10 hr 16 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 176 likes - 200 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 3 | [Break It Off \(CubeNatural Flip\)](https://open.spotify.com/track/1ns4JqTOEfpzYcADZbjJK0) | [CubeNatural](https://open.spotify.com/artist/7eCVr77vjtJyaZLTjyTx22) | [Break It Off \(CubeNatural Flip\)](https://open.spotify.com/album/6NxfYAhS6JGTMxxxcsWO7U) | 2:54 |
 | 4 | [GENESIS \- JIN BOOTLEG](https://open.spotify.com/track/4xIehqMuu8xXSsFBxsjfBJ) | [Nedaj](https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU), [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV) | [ENDPOINT BOOTLEGS](https://open.spotify.com/album/3Han3sNI22KUR96dz1SV2q) | 4:13 |
 | 5 | [inpeace](https://open.spotify.com/track/2PAhPATUF07B08bxUs4xwH) | [prettycvnt](https://open.spotify.com/artist/5L4gNFIM9n5jZchekW8TTn), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Ｉｎｆａｔｕａｔｉｏｎ　゙ゟヶ](https://open.spotify.com/album/07HQ23u3emIMkzKpZlPKR6) | 5:05 |
-| 6 | [Romancing the darkness](https://open.spotify.com/track/2pguyd51QNQKmr0NrAVKDh) | [Chemid](https://open.spotify.com/artist/0z8JXKOZnHMLyBjy3TJLlk), [vmrrobotic](https://open.spotify.com/artist/0Z0A0b5hIuSBhRQBSQkXHA), [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU), [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [My Tomagachi died](https://open.spotify.com/album/56XeVgsBIfmOgihqdzirEv) | 2:06 |
+| 6 | [Romancing the darkness](https://open.spotify.com/track/2pguyd51QNQKmr0NrAVKDh) | [Chemid](https://open.spotify.com/artist/0z8JXKOZnHMLyBjy3TJLlk), [vmrrobotic](https://open.spotify.com/artist/0Z0A0b5hIuSBhRQBSQkXHA) | [My Tomagachi died](https://open.spotify.com/album/56XeVgsBIfmOgihqdzirEv) | 2:06 |
 | 7 | [neo\-tokyo\-junglist](https://open.spotify.com/track/3XDZTAJ7OwNSDEYdxNmXqa) | [psychoangel](https://open.spotify.com/artist/5iIvrUXROq2zE44JkrtoBO) | [rave gundam revolution](https://open.spotify.com/album/66Wy6XH0whbS3L8J21GW2B) | 7:52 |
 | 8 | [sym3](https://open.spotify.com/track/5VNJW1ngdPC0YTWT3yO5Mp) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N), [amphy](https://open.spotify.com/artist/1cMyXhZh6o1xppobDjffOi) | [sym3](https://open.spotify.com/album/1gUMGl2zORqpkEcHQChEcq) | 4:17 |
 | 9 | [In too deep](https://open.spotify.com/track/1c90L9VnapJPOvgCPSJgHe) | [Cvmpliant](https://open.spotify.com/artist/5sd2fxErtIZ9P48K4hyy5Q) | [In too deep](https://open.spotify.com/album/30iYbSemKcRGOGMdYp2iFa) | 5:15 |

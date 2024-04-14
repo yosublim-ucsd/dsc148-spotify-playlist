@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 23048,
+  "2024-04-14": 23049,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "album": {
         "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
         "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
       },
@@ -1894,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Millionnaire",
+        "url": "https://open.spotify.com/album/5fsU9tJKeWm9gt7ptK1ZJa"
+      },
+      "artists": [
+        {
+          "name": "Black Mamba",
+          "url": "https://open.spotify.com/artist/4jy5Hzh99hVqmyIsPVrjSI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "Ghetto Millionnaire",
+      "url": "https://open.spotify.com/track/4umILaHHpP1jgkpl6BUK9j"
+    },
+    {
+      "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
       },
@@ -1959,7 +1995,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155448,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
@@ -2432,6 +2468,24 @@
     },
     {
       "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "album": {
         "name": "Ik Sta Altijd Voor Je Klaar",
         "url": "https://open.spotify.com/album/6Xu2TWS223BQ9QSy9x3Dtr"
       },
@@ -2469,7 +2523,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
@@ -2815,7 +2869,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -4531,7 +4585,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -5271,7 +5325,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174117,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/2Anpk7AihEt38POoMEDqRb"

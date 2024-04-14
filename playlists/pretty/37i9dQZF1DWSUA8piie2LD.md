@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,442 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,524 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 13 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
 | 14 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
 | 15 | [Blue Water](https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8) | 4:14 |
-| 16 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
-| 17 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
-| 18 | [100 Ways](https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:53 |
+| 16 | [100 Ways](https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:53 |
+| 17 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
+| 18 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
 | 19 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 |
 | 20 | [Ain't No Sunshine](https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 3:58 |
 | 21 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 39 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 40 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 41 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
-| 42 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
-| 43 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
+| 42 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
+| 43 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 44 | [I Wanna Be Where You Are](https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Dennis Johnson](https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y), [Armando Marçal](https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:46 |
 | 45 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
 | 46 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 54 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
 | 55 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
 | 56 | [Somethin' Bout Love](https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Somethin' Bout Love](https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb) | 4:45 |
-| 57 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
-| 58 | [The Ride](https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Someone To Love You](https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B) | 4:50 |
+| 57 | [The Ride](https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Someone To Love You](https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B) | 4:50 |
+| 58 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
 | 59 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
 | 60 | [Get Here](https://open.spotify.com/track/4VmammPhpmq60VnL6s0xOE) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 4:27 |
 | 61 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |

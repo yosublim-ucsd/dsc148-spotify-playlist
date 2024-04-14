@@ -4,7 +4,7 @@
 
 > Planta de la bugambilia que me cubres y me matas.
 
-176 songs - 10 hr 54 min
+177 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Piel Canela](https://open.spotify.com/track/6giLMzQSzjxQ7T2kmRhlVb) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Piel Canela](https://open.spotify.com/album/4LZIwHEvfRBNmEyT9rBduh) | 3:32 | 2022-03-04 | 2022-12-08 |
 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 | 2022-03-04 |  |
 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 | 2022-12-07 |  |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-15 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-15 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2023-06-15 |  |
 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 | 2022-03-04 |  |
 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 | 2022-03-04 | 2022-07-29 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas: 30 Exitos](https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse) | 3:24 | 2022-03-04 |  |

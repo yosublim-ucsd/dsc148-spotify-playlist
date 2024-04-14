@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Tigres del Norte en portada.",
-  "num_followers": 477885,
+  "num_followers": 477985,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "El Sr. Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        }
+      ],
+      "duration_ms": 153377,
+      "name": "El Sr. Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "El Sr. Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        },
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
-        }
-      ],
-      "duration_ms": 153377,
-      "name": "El Sr. Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "900 Cigarros",
         "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164680,
-      "name": "Neta Que No",
-      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Lo Que La Gente Estaba Esperando",
         "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
       },
@@ -1303,22 +1287,34 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 204956,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1339,6 +1335,26 @@
       "duration_ms": 173975,
       "name": "Te Ves Tan Bien",
       "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1431,50 +1447,18 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 163359,
-      "name": "Fuga Del Jefe",
-      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1499,18 +1483,50 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 167131,
       "name": "Me Rehuso",
       "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": "2024-03-22 06:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 169471,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
         "name": "Saxy",
         "url": "https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 169813,
       "name": "Que La Envidia Los Mate",
       "url": "https://open.spotify.com/track/4VvfmLUMpEiPqSOOFFl1tm"
+    },
+    {
+      "added_at": "2024-03-22 06:00:00",
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 169471,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
     },
     {
       "added_at": "2024-03-22 06:00:00",

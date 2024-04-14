@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 217452,
+  "2024-04-14": 217522,
   "date_first_scraped": "2022-01-25",
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
   "name": "Music for Plants",
@@ -5955,7 +5955,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160515,
       "name": "Solo, Op. 1: No. 1",
       "url": "https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd"
@@ -6237,6 +6237,24 @@
       "duration_ms": 135903,
       "name": "summer (shade)",
       "url": "https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg"
+    },
+    {
+      "album": {
+        "name": "Warmth",
+        "url": "https://open.spotify.com/album/7hdw0jlLtEBsNs3R6KY05z"
+      },
+      "artists": [
+        {
+          "name": "Two Sleepy",
+          "url": "https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "summer (shade)",
+      "url": "https://open.spotify.com/track/7BDHpvLArUvn4SJADth5AM"
     },
     {
       "album": {

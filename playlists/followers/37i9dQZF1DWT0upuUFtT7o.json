@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 214586,
+  "2024-04-14": 214632,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024",
   "name": "Fresh Finds Indie",
@@ -31837,6 +31837,24 @@
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
+    },
+    {
+      "album": {
+        "name": "Sedona",
+        "url": "https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74"
+      },
+      "artists": [
+        {
+          "name": "Riley Whittaker",
+          "url": "https://open.spotify.com/artist/01M042tT419btz6wpqGoZE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204890,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er"
     },
     {
       "album": {

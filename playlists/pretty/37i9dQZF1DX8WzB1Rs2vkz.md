@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,168 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,231 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 36 | [Burbujas de Amor](https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:10 |
 | 37 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
 | 38 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
-| 39 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
+| 39 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 40 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
 | 41 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
 | 42 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 43 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
 | 44 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
-| 45 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 45 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 46 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 |
 | 47 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
 | 48 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 65 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
 | 66 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
 | 67 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
-| 68 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
-| 69 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 |
+| 68 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 |
+| 69 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
 | 70 | [COMO YO TE QUIERO](https://open.spotify.com/track/40skUFI0ICkDoRLbJNUT9O) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:30 |
 | 71 | [DJ Bachata](https://open.spotify.com/track/5UDHsuQFqklYGe6qzWGU3y) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:29 |
 | 72 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |

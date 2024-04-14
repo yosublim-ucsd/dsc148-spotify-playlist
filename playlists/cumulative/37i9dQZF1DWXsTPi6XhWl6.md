@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-150 songs - 10 hr 11 min
+152 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Father Mountain](https://open.spotify.com/track/2pYHFktjBq3CYdiWO02GAQ) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Years to Burn](https://open.spotify.com/album/20K8u0Rc42L2SPy3DxTGRe) | 2:54 | 2022-06-17 |  |
 | [Father Mountain](https://open.spotify.com/track/78b7cCkXG4QLh0nimwu7uK) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Years to Burn](https://open.spotify.com/album/3InGlpjjfAvSi7fa7Vkuf0) | 2:54 | 2020-01-14 | 2022-07-29 |
 | [Feed The Fire](https://open.spotify.com/track/0dq6hRNyNRXCDIfzk6UFJF) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:57 | 2020-01-14 |  |
-| [Five Year Plan](https://open.spotify.com/track/42mtQzrzAd3BZjIKzH2FXb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Five Year Plan](https://open.spotify.com/album/2WjAuapN0BqnMPyUaKAkZ7) | 3:33 | 2022-06-17 |  |
+| [Five Year Plan](https://open.spotify.com/track/60LGMrVughUAlnjolZjHac) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Ways & Means](https://open.spotify.com/album/7zLZFCEwnUtggPXZIzxfUv) | 3:33 | 2024-03-28 |  |
+| [Five Year Plan](https://open.spotify.com/track/42mtQzrzAd3BZjIKzH2FXb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Five Year Plan](https://open.spotify.com/album/2WjAuapN0BqnMPyUaKAkZ7) | 3:33 | 2022-06-17 | 2024-04-14 |
 | [Fool for Love](https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Fool for Love](https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp) | 4:34 | 2020-01-14 |  |
 | [Fool's Errand](https://open.spotify.com/track/2OC6drvbkFDGyPs6e1B2WF) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 4:48 | 2020-01-14 |  |
 | [From Now On](https://open.spotify.com/track/3NMEeXOpFQ9xuFl5FiNWd5) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 3:09 | 2020-01-14 |  |
@@ -150,7 +151,8 @@
 | [When My Time Comes](https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z) | 5:08 | 2022-06-17 |  |
 | [When My Time Comes](https://open.spotify.com/track/6y9Jj7NVcBOCsnn9Ps2CPN) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/3ca8rTTGzriBOcq2JnHchZ) | 5:08 | 2022-06-17 | 2022-08-01 |
 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 | 2022-03-08 |  |
-| [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2020-01-14 |  |
+| [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2020-01-14 | 2024-04-14 |
+| [When You're Away](https://open.spotify.com/track/7a29dQPnEtuw9K4u1sLnle) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/7CuBiJKKimeOE5VfDNHmnQ) | 3:26 | 2022-06-17 |  |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2024-03-28 |  |
 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 | 2022-06-17 |  |
 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/6e7TwT8TUE3BHN7aokBKfq) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i) | 2:30 | 2020-01-14 | 2022-07-07 |

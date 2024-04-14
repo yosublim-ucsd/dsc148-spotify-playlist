@@ -1,12 +1,12 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMGQwOGUyYzE0NDczYWI3NjZlMGI1ODQzNWJhYWIxNGE0",
+  "snapshot_id": "MCwwMDAwMDAwMDM1NmM3MDI5MTc5OTVmYTNkMGZkYzQ3MTg1MzgxODcy",
   "tracks": [
     {
       "added_at": null,
@@ -43,34 +43,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i'm closing my eyes",
-        "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
-      },
-      "artists": [
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
         {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 118302,
-      "name": "i'm closing my eyes",
-      "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": null,
@@ -159,6 +147,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kukira Kau Rumah",
+        "url": "https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT"
+      },
+      "artists": [
+        {
+          "name": "Pendarra",
+          "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
+        }
+      ],
+      "duration_ms": 206711,
+      "name": "Kukira Kau Rumah",
+      "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "tape for when i'm sad",
         "url": "https://open.spotify.com/album/1EeYJrmjXcqx5PCZWu6WV1"
       },
@@ -183,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -211,38 +215,6 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kukira Kau Rumah",
-        "url": "https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT"
-      },
-      "artists": [
-        {
-          "name": "Pendarra",
-          "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Kukira Kau Rumah",
-      "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resah Jadi Luka",
-        "url": "https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL"
-      },
-      "artists": [
-        {
-          "name": "Daun Jatuh",
-          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Resah Jadi Luka",
-      "url": "https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb"
     },
     {
       "added_at": null,
@@ -263,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt for Me",
-        "url": "https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Where\u2019s My Love - Alternate Version",
-      "url": "https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Different Age",
         "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
       },
@@ -291,6 +247,22 @@
       "duration_ms": 334901,
       "name": "Become the Warm Jets",
       "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt for Me",
+        "url": "https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Where\u2019s My Love - Alternate Version",
+      "url": "https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H"
     },
     {
       "added_at": null,
@@ -359,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Cares",
-        "url": "https://open.spotify.com/album/5d28vbmvMndrlHpdaPJZwZ"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "Nobody Cares",
-      "url": "https://open.spotify.com/track/4l2soLCGAoYvSKGyqFtsbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -391,18 +347,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+        "name": "Nobody Cares",
+        "url": "https://open.spotify.com/album/5d28vbmvMndrlHpdaPJZwZ"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
         }
       ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+      "duration_ms": 175253,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/4l2soLCGAoYvSKGyqFtsbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion & Confusion",
+        "url": "https://open.spotify.com/album/5unak64thjeLQpZqSONKqz"
+      },
+      "artists": [
+        {
+          "name": "Timmies",
+          "url": "https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 123891,
+      "name": "Tell Me Why I'm Waiting",
+      "url": "https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y"
     },
     {
       "added_at": null,
@@ -423,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion & Confusion",
-        "url": "https://open.spotify.com/album/5unak64thjeLQpZqSONKqz"
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
       "artists": [
         {
-          "name": "Timmies",
-          "url": "https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 117916,
-      "name": "Loosing Interest",
-      "url": "https://open.spotify.com/track/2DIFiLjzVxSUc7YY2k7WDA"
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": null,
@@ -475,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -503,6 +459,42 @@
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion & Confusion",
+        "url": "https://open.spotify.com/album/5unak64thjeLQpZqSONKqz"
+      },
+      "artists": [
+        {
+          "name": "Timmies",
+          "url": "https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 117916,
+      "name": "Loosing Interest",
+      "url": "https://open.spotify.com/track/2DIFiLjzVxSUc7YY2k7WDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": null,
@@ -523,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C"
       },
@@ -555,34 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": null,
@@ -599,46 +559,6 @@
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        }
-      ],
-      "duration_ms": 176971,
-      "name": "Love Is Gone - Acoustic",
-      "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past Lives",
-        "url": "https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI"
-      },
-      "artists": [
-        {
-          "name": "sapientdream",
-          "url": "https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP"
-        },
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
     },
     {
       "added_at": null,
@@ -667,6 +587,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "duration_ms": 176971,
+      "name": "Love Is Gone - Acoustic",
+      "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire Within",
         "url": "https://open.spotify.com/album/0r94AFhRLvpfXvha7vx2dK"
       },
@@ -679,22 +651,6 @@
       "duration_ms": 252106,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1D4XFKolp63mNqqMXJJL1V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Tongues (Deluxe)",
-        "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 202102,
-      "name": "Will He",
-      "url": "https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN"
     },
     {
       "added_at": null,
@@ -715,18 +671,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+        "name": "Thbk.",
+        "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
       },
       "artists": [
         {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Papithbk",
+          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+      "duration_ms": 95680,
+      "name": "Why Am I Waiting",
+      "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Tongues (Deluxe)",
+        "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 202102,
+      "name": "Will He",
+      "url": "https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing Interest",
+        "url": "https://open.spotify.com/album/1LULALExwEe3TsUkWfPVEC"
+      },
+      "artists": [
+        {
+          "name": "Stract",
+          "url": "https://open.spotify.com/artist/5q6W2V8zwYbrEA0SSEg0IX"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/3RbNcjVnQixKa1sULcwd2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
     },
     {
       "added_at": null,
@@ -763,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 202340,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -775,22 +815,6 @@
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
     },
     {
       "added_at": null,
@@ -811,34 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         }
       ],
-      "duration_ms": 87560,
-      "name": "I Don't Wanna Do This Anymore",
-      "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     }
   ],
   "unique_name": "Moody Mix",

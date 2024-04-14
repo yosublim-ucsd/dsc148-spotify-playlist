@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,638 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,646 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 30 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
 | 31 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
 | 32 | [Addicted](https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:42 |
-| 33 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
-| 34 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 33 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 34 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
 | 35 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 36 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
 | 37 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 38 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 |
-| 39 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
-| 40 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
-| 41 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
-| 42 | [45](https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 4:10 |
+| 39 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
+| 40 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
+| 41 | [45](https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 4:10 |
+| 42 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
 | 43 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
 | 44 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
 | 45 | [Wasteland](https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp) | 3:49 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 57 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 58 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
 | 59 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
-| 60 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
+| 60 | [Comedown \- 2014 Remastered](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
 | 61 | [For You](https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 3:26 |
 | 62 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 63 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 |

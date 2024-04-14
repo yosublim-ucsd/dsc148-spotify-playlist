@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,001 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,101 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 90 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 |
 | 91 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 |
 | 92 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/72DefuF22C6aPKrWhRFCBS) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:42 |
-| 93 | [Matty Groves](https://open.spotify.com/track/6PANXCHzEANzajOgtwLMnN) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/505zw4fKgpk8HXqyw3BMFq) | 8:09 |
+| 93 | [Matty Groves](https://open.spotify.com/track/1RU9IjayNNnMibiXKp5Hxs) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/1FrW2Bbq6IXkyPM5wznMPD) | 8:08 |
 | 94 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 95 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 96 | [Chilly Winds \- Live](https://open.spotify.com/track/17vXaFnZxB8GD9IWiqjXYE) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Years](https://open.spotify.com/album/7JLbOcsGsFxEsWV65vGcA8) | 2:38 |

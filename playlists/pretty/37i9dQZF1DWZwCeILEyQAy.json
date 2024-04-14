@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Sexyy Red",
-  "num_followers": 490161,
+  "num_followers": 490172,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Blick (feat. NLE Choppa) [Remix]",
-        "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 188421,
-      "name": "Blick (feat. NLE Choppa) - Remix",
-      "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "LVL5 P2",
         "url": "https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 174473,
       "name": "SHAKIN IT (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Blick (feat. NLE Choppa) [Remix]",
+        "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 188421,
+      "name": "Blick (feat. NLE Choppa) - Remix",
+      "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
     },
     {
       "added_at": "2024-04-12 04:00:00",

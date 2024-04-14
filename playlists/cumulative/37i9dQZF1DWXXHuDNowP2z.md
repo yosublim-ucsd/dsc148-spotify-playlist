@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-303 songs - 16 hr 58 min
+304 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,8 @@
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:33 | 2023-12-01 |  |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/1p4f2Gu3ZW8YPqka0LQKQ6) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [12 Éxitos](https://open.spotify.com/album/7fr4dw7dUXCiBbDQB4eITu) | 2:34 | 2023-08-08 | 2023-11-04 |
 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 |  |
-| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2022-12-16 |  |
+| [Un Cariño Como Tu \(En Vivo\)](https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 2:45 | 2024-03-15 |  |
+| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2022-12-16 | 2024-04-14 |
 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 | 2022-04-08 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-21 |  |
 | [Vanidosa](https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:43 | 2022-04-08 | 2023-12-02 |

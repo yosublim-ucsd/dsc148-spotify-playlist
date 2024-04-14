@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 86614,
+  "num_followers": 86653,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
+        "name": "Gen Bagay",
+        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
+      },
+      "artists": [
+        {
+          "name": "Yani Martelly",
+          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Gen Bagay",
+      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
-        "name": "Gen Bagay",
-        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
-      },
-      "artists": [
-        {
-          "name": "Yani Martelly",
-          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
-        },
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Gen Bagay",
-      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
+        "name": "Map Rap Ak Ke Kontan",
+        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Veye Priye",
+      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -763,18 +779,22 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
-        "name": "Map Rap Ak Ke Kontan",
-        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
       "artists": [
         {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
         }
       ],
-      "duration_ms": 138333,
-      "name": "Veye Priye",
-      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -799,26 +819,6 @@
       "duration_ms": 195000,
       "name": "Liki Tiki",
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
       },
       "artists": [
         {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
         }
       ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -1515,22 +1531,6 @@
       "duration_ms": 218191,
       "name": "Se Ou M Chwazi",
       "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
-        "name": "Way Too Nice",
-        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
-      },
-      "artists": [
-        {
-          "name": "Eyo-E",
-          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Way Too Nice",
-      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
+        "name": "Li Cho",
+        "url": "https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Li Cho",
+      "url": "https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
-        "name": "Li Cho",
-        "url": "https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Li Cho",
-      "url": "https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI"
     },
     {
       "added_at": "2024-04-12 12:54:04",

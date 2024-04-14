@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-870 songs - 2 day 5 hr 33 min
+873 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2021-01-19 |  |
 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 | 2023-05-25 |  |
 | [Golden Trunks](https://open.spotify.com/track/0U6Vg6RUmzADUO0Y9fVKft) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 2:53 | 2022-05-10 |  |
-| [Golden Veins](https://open.spotify.com/track/4tg4b3aKdT1gthXegZyEra) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 4:15 | 2024-04-04 |  |
+| [Golden Veins](https://open.spotify.com/track/4tg4b3aKdT1gthXegZyEra) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 4:15 | 2024-04-04 | 2024-04-14 |
 | [goldfish](https://open.spotify.com/track/7A8YnjMhMrTfVqMRRfayv7) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Frailty](https://open.spotify.com/album/6rO7DlLYSHabzSsD7Gpe14) | 3:01 | 2022-09-19 |  |
 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-09 |  |
 | [Gone Gone](https://open.spotify.com/track/7r5LPOSD61hU7cxmtQCQaN) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to](https://open.spotify.com/album/7ucLe0eL8tclCz3FekcYyn) | 1:54 | 2022-08-17 |  |
@@ -347,6 +347,7 @@
 | [Hurricane \- Live](https://open.spotify.com/track/45ypYpAdgoneWcBT0Wba3p) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Live At SoFi Stadium](https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92) | 2:07 | 2023-03-19 |  |
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2021-09-17 |  |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-28 |  |
+| [hypochondriac](https://open.spotify.com/track/0tocRPyNlOEk74o27EYGFe) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 2:42 | 2024-04-13 |  |
 | [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x) | 3:51 | 2022-08-26 |  |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2022-08-26 |  |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-20 |  |
@@ -380,6 +381,7 @@
 | [Instant Destiny](https://open.spotify.com/track/6WCXBUFa0z3l9DoOY3k5Xe) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:14 | 2022-04-15 |  |
 | [Interlude](https://open.spotify.com/track/2NJu5JtZLPmmuZF7Lr4Arr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 1:39 | 2023-04-04 |  |
 | [Intro](https://open.spotify.com/track/4Tqro5z3Uj9cDOWKOPaqMD) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 1:22 | 2023-03-23 |  |
+| [introvert](https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 6:14 | 2024-04-13 |  |
 | [Invited](https://open.spotify.com/track/6pFVxZ67ktMSxDx8Z3EPNN) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 2:41 | 2022-06-05 |  |
 | [iRobot](https://open.spotify.com/track/0BcaPJXzQf0uU8XeXdvvgd) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:28 | 2022-05-06 |  |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2020-02-13 |  |
@@ -833,6 +835,7 @@
 | [WAY TOO MANY FRIENDS](https://open.spotify.com/track/75xlyjSobeN7XQCdBFdzTL) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:07 | 2024-02-16 |  |
 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 |  |
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-04-02 |  |
+| [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-13 |  |
 | [We're Just Making It Worse](https://open.spotify.com/track/0An092SY8oMh1yOZKVGGfB) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr), [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [We're Just Making It Worse](https://open.spotify.com/album/35eStzoyAzXknYTrsn8xp9) | 4:04 | 2022-08-08 |  |
 | [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 | 2022-03-08 |  |
 | [Web](https://open.spotify.com/track/5AwYKIFP390CdH7XAS4k8z) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 2:06 | 2022-06-05 |  |

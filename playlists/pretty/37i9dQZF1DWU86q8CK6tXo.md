@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,586 likes - 41 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,538 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 30 | [Parking Lot](https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:03 |
 | 31 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 32 | [If the World Was a House](https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Mind, Man, Medicine](https://open.spotify.com/album/7u6SrRvhJLkIc3TIhjgHRy) | 4:26 |
-| 33 | [INSANE](https://open.spotify.com/track/3zyPKGiLhdw9SpBTCuffNW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:13 |
-| 34 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 |
+| 33 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 |
+| 34 | [INSANE](https://open.spotify.com/track/3zyPKGiLhdw9SpBTCuffNW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:13 |
 | 35 | [Hot Dad](https://open.spotify.com/track/0qxQ9DltFW338AF9yKYKNp) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Hot Dad](https://open.spotify.com/album/5uzhDex7buzldzMyTB7aFL) | 3:24 |
 | 36 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 |
 | 37 | [Someone to Follow](https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Someone to Follow](https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5) | 4:46 |

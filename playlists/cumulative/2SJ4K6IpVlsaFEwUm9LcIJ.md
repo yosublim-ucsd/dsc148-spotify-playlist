@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-115 songs - 6 hr 0 min
+120 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,10 @@
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 | 2024-03-10 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 |  |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 |  |
+| [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 | 2024-04-13 |  |
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 |  |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 |  |
+| [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 |  |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 |  |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
@@ -67,6 +69,7 @@
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
+| [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 |  |
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 |  |
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 |  |
@@ -83,6 +86,7 @@
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 |  |
+| [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 |  |
 | [Nothing Stays the Same](https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [The Menace](https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9) | 2:44 | 2024-01-13 | 2024-03-10 |
 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 | 2024-03-20 |  |
 | [On Returning \- 2006 Remastered Version](https://open.spotify.com/track/4JILOKNjlAzjCFlJlR6ouI) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [154 \(2006 Remastered Version\)](https://open.spotify.com/album/2ajuLWJSuzHFeTceC1A4bW) | 2:06 | 2024-01-15 | 2024-03-10 |
@@ -98,6 +102,7 @@
 | [Qi Velocity](https://open.spotify.com/track/4jwqOfpGkR0OdiASvDj4OB) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:27 | 2024-01-29 | 2024-03-10 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
 | [Shikako Maru Ten](https://open.spotify.com/track/3NCzYu2GXu4iJE286d7x6T) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Shikako Maru Ten](https://open.spotify.com/album/5Y0rxm6JM2RAqm1k5aam2Y) | 3:18 | 2024-01-31 | 2024-03-10 |
+| [Shipwrecked](https://open.spotify.com/track/1xg8d98qGB9fLfiOOWxffX) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [KO EP](https://open.spotify.com/album/5WR6HST1bxLuH5kcI4H5Pg) | 2:38 | 2024-04-13 |  |
 | [Shirt No.7](https://open.spotify.com/track/01kxM787BeH0WqdmCIw8jJ) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 2:30 | 2024-01-31 | 2024-03-10 |
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2024-01-05 | 2024-03-10 |
 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 | 2024-04-05 |  |

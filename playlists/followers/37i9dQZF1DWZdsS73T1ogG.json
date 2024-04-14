@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 510624,
+  "2024-04-14": 510680,
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Renn y Yexel ",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Lyanno & Rauw Alejandro ",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "444",
+      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "album": {
         "name": "48 Horas",
         "url": "https://open.spotify.com/album/5uHCibcnxRyGMoVFde36jq"
       },
@@ -567,6 +589,24 @@
       "duration_ms": 186976,
       "name": "A Poca Luz",
       "url": "https://open.spotify.com/track/0lhb2aQ5RwGHa4ZutUyKFs"
+    },
+    {
+      "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
     },
     {
       "album": {
@@ -1961,6 +2001,28 @@
       "duration_ms": 169285,
       "name": "BAD INTENCIONES",
       "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
+    },
+    {
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "album": {
@@ -5829,7 +5891,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214041,
       "name": "DOSiS",
       "url": "https://open.spotify.com/track/45hMdaPF4b47baFQHgI5Mj"
@@ -6475,7 +6537,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209655,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
@@ -7383,6 +7445,28 @@
       "duration_ms": 150606,
       "name": "Fashion Freak",
       "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
     },
     {
       "album": {
@@ -8545,7 +8629,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 256875,
       "name": "Glopeta",
       "url": "https://open.spotify.com/track/1u4mQJwFSZ1a6Cl8fLKBqA"
@@ -8993,7 +9077,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179345,
       "name": "Historia",
       "url": "https://open.spotify.com/track/7zHZTHScVaGQ7ETXBiuHRH"
@@ -9957,7 +10041,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 153786,
       "name": "KE LA CASTIGUEN",
       "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
@@ -10629,6 +10713,28 @@
       "duration_ms": 150143,
       "name": "La M\u00e1s Real de las Bebes",
       "url": "https://open.spotify.com/track/1e8yaOoBX0z7xHLB9nWsrY"
+    },
+    {
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "album": {
@@ -13020,6 +13126,40 @@
     },
     {
       "album": {
+        "name": "Mil Palabras",
+        "url": "https://open.spotify.com/album/1S6Ov2XL6a6diQs0MONDx5"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228102,
+      "name": "Mil Palabras",
+      "url": "https://open.spotify.com/track/1K1dMtO3LT8kHFLuXxT3ST"
+    },
+    {
+      "album": {
         "name": "Milagrosa",
         "url": "https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t"
       },
@@ -13411,7 +13551,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212480,
       "name": "MULTIVERSO",
       "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
@@ -14423,7 +14563,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158400,
       "name": "NOCHES DE M\u00c1S",
       "url": "https://open.spotify.com/track/1l1pPdqaINEgZDE0nVV2ED"
@@ -16798,6 +16938,24 @@
     },
     {
       "album": {
+        "name": "Por Ti Conoc\u00ed el Amor",
+        "url": "https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Por Ti Conoc\u00ed el Amor",
+      "url": "https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL"
+    },
+    {
+      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
@@ -18835,7 +18993,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
@@ -20602,6 +20760,24 @@
     },
     {
       "album": {
+        "name": "F.O.M.O.",
+        "url": "https://open.spotify.com/album/3iVwVLIa1BSz076ObR5zvy"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182838,
+      "name": "Tike",
+      "url": "https://open.spotify.com/track/1BduzhmAYCXjKNdl6a7baR"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -21782,6 +21958,24 @@
     },
     {
       "album": {
+        "name": "Una Noche",
+        "url": "https://open.spotify.com/album/2mu4vhFe6W6WQU1wnw2RLc"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Una Noche",
+      "url": "https://open.spotify.com/track/0PByhmyCwq9MCyc0MRJ0IV"
+    },
+    {
+      "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
       },
@@ -21837,7 +22031,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200000,
       "name": "UNA NOTi",
       "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"

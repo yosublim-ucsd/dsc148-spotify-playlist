@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: D\-Block Europe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,178 likes - 79 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,319 likes - 79 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

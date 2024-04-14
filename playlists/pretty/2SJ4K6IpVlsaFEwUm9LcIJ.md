@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,199 likes - 50 songs - 2 hr 38 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,211 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 48 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 |
 | 49 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 |
 | 50 | [Aaron & Maria](https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 3:10 |
+| 51 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 |
+| 52 | [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 |
+| 53 | [Shipwrecked](https://open.spotify.com/track/1xg8d98qGB9fLfiOOWxffX) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [KO EP](https://open.spotify.com/album/5WR6HST1bxLuH5kcI4H5Pg) | 2:38 |
+| 54 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 |
+| 55 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 |
 
-Snapshot ID: `MjYyMCwzNjYyZTY2OWIyYmMyYzU1OGU3ZDVkZTVlZTY2MmUwMmEyZmU1NTlk`
+Snapshot ID: `MjYyNSxmY2NmNmViNmUxNTA3MTE5NTJjMzJkODk4YWExMGYxMjA1MTFjZjMy`

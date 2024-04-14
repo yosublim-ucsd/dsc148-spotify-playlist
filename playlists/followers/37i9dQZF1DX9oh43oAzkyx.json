@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 2601328,
+  "2024-04-14": 2601912,
   "date_first_scraped": "2021-12-28",
   "description": "Energy tracks to get your beast mode on.",
   "name": "Beast Mode Hip-Hop",
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204387,
       "name": "Cut U Off",
       "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
@@ -4633,6 +4633,28 @@
       "duration_ms": 204148,
       "name": "No Weakness",
       "url": "https://open.spotify.com/track/6kwz9zbK7jHImhFwy25yn2"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Nobody Knows My Struggle",
+      "url": "https://open.spotify.com/track/7nQXU7lu0RhVOSmsa3teKj"
     },
     {
       "album": {

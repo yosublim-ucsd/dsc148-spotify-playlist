@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 647592,
+  "2024-04-14": 647682,
   "date_first_scraped": "2022-01-12",
-  "description": "This is The Doors. The essential tracks, all in one playlist.",
+  "description": "This Is The Doors. Los temas esenciales, todos en una lista.",
   "name": "This Is The Doors",
   "tracks": [
     {
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Soul Kitchen",
       "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 151666,
       "name": "Twentieth Century Fox",
       "url": "https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "Unhappy Girl",
       "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180573,
       "name": "You're Lost Little Girl",
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"

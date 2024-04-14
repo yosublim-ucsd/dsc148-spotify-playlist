@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: RAMPAGE from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,409 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,404 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 28 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 |
 | 29 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 |
 | 30 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
-| 31 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
-| 32 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 31 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 32 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
 | 33 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 |
 | 34 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 |
 | 35 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 |

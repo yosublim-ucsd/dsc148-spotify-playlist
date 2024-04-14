@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 30015,
+  "2024-04-14": 30043,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
@@ -813,6 +813,24 @@
       "duration_ms": 383826,
       "name": "Enjoy the Ride",
       "url": "https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252160,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
     },
     {
       "album": {
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 532666,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
@@ -2903,6 +2921,24 @@
     {
       "album": {
         "name": "Native Sons",
+        "url": "https://open.spotify.com/album/1uqu7aUJh1qONoGAI0Sd23"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513070,
+      "name": "The World Is A Ghetto",
+      "url": "https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN"
+    },
+    {
+      "album": {
+        "name": "Native Sons",
         "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
       },
       "artists": [
@@ -2913,7 +2949,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"

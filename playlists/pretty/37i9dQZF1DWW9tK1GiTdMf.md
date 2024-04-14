@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Sillyelly, GionnyScandal, AleXX iSt4r in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,295 likes - 82 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,301 likes - 82 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NON LO SAI](https://open.spotify.com/track/3Uq9Ev3UM8X1LfsMjZcZxd) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:58 |
-| 2 | [Pepsi & Coca](https://open.spotify.com/track/0RWIowbjnc4RkIGLkR0N9h) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/6VHmqfHzv5ln7pHg11TWQd) | 2:04 |
+| 2 | [Pepsi & Coca](https://open.spotify.com/track/3dGhOC4QbPjAGHdUaOCP3Q) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D) | 2:04 |
 | 3 | [2009](https://open.spotify.com/track/7qq9oWPzXTZitqVtEY8G6W) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2), [AleXX iSt4R](https://open.spotify.com/artist/60wyuNaDX2w5A6ClibUTc8), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [2009](https://open.spotify.com/album/2Ino2VE8DpRaYQUYSvrrXI) | 2:40 |
 | 4 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 |
 | 5 | [Bugia \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6iuaBigoAAaxkEYTREs4Nu) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [TILT](https://open.spotify.com/album/7fbhaflR4GnmiYsVEiTqr2) | 2:21 |

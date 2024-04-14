@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,494 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,554 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 73 | [Doing The Best That I Can](https://open.spotify.com/track/4ev5BVuQ2q9mc4kujCsLB0) | [Mem Shannon](https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH) | [Memphis In The Morning](https://open.spotify.com/album/5eVriUjPCiONlS9svvBO0l) | 3:40 |
 | 74 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
 | 75 | [Thank God For Fools](https://open.spotify.com/track/691rJaC2NcDMjZCD636LcF) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 4:14 |
-| 76 | [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 |
+| 76 | [Who's Still in Love](https://open.spotify.com/track/6vRZO4rUcPfPZCJw0K06no) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/1ICWqyGn0nVLmYE4KZ7GFb) | 3:09 |
 | 77 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 |
 | 78 | [Going to the Shack](https://open.spotify.com/track/1hpX0MfjBsfsva8S0AxemB) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/1meZevHXaZSjtaDrDpQrLq) | 4:15 |
 | 79 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |

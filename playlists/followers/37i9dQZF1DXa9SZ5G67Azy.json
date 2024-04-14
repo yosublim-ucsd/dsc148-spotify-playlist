@@ -1,8 +1,8 @@
 {
-  "2024-04-13": 30391,
+  "2024-04-14": 30492,
   "date_first_scraped": "2023-12-22",
-  "description": "un poquito de esto, un poquito de lo otro.",
-  "name": "Techengue",
+  "description": "\ud83e\udd42\ud83c\udf7e\ud83e\uddfc\ud83e\udee7\ud83d\udec1",
+  "name": "Techengue ",
   "tracks": [
     {
       "album": {
@@ -444,6 +444,28 @@
     },
     {
       "album": {
+        "name": "Cono hielo",
+        "url": "https://open.spotify.com/album/0KCjVYbPKRy5Rp0axilRa8"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177806,
+      "name": "Cono hielo",
+      "url": "https://open.spotify.com/track/5SFlCuDJBOtpfrh1ue6uCt"
+    },
+    {
+      "album": {
         "name": "Contra Mi (Pyura Remix)",
         "url": "https://open.spotify.com/album/62LuC2mQWWa8dxCcwHYrAB"
       },
@@ -535,6 +557,32 @@
       "duration_ms": 140204,
       "name": "Dale Mecha - House Remix",
       "url": "https://open.spotify.com/track/5r0TYomlEGGY6eRLcyWwvO"
+    },
+    {
+      "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR"
     },
     {
       "album": {
@@ -1595,7 +1643,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 132283,
       "name": "Si La Calle Llama",
       "url": "https://open.spotify.com/track/3rQZqRXlTOVZfvbdQacDQk"
@@ -1793,7 +1841,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 153642,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv"

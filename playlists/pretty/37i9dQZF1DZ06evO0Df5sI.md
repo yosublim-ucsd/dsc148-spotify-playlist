@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,667 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,673 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Nose Over Tail](https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:37 |
 | 50 | [Dine, Dine My Darling](https://open.spotify.com/track/6ZaXbRtwY9oYGjxcZWAXyw) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction \(Deluxe Edition\)](https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj) | 2:58 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGM4N2I2YTMzY2ZiNzVmYzUxYjFmZTk5MTY4NjQzNzE0`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGNhMDZjM2I4ODViZWRhNzE4ZDc0OTRjNGFjYTcxZGJi`

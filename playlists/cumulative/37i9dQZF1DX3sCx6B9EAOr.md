@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-724 songs - 1 day 15 hr 46 min
+725 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 |  |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-12-07 | 2023-06-07 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-16 | 2024-04-08 |
+| [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 | 2024-03-27 |  |
 | [CØDE](https://open.spotify.com/track/4A6BplRJXLfp9GsDwzk3LV) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:14 | 2022-01-03 | 2022-04-18 |
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-12-07 | 2022-04-09 |
 | [Dailygram](https://open.spotify.com/track/3YC1vYd0ORoIx9blyHm8sN) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Dailygram](https://open.spotify.com/album/0nrNkbdILxMsvFfp50aJOn) | 2:47 | 2022-03-24 | 2022-04-15 |
@@ -288,7 +289,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-08 | 2023-11-04 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2022-01-03 | 2022-07-19 |
 | [HEAVEN](https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:31 | 2022-01-03 | 2022-07-07 |
-| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 |  |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 | 2024-04-14 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-07 |  |
 | [Hello, my self \(With Paper Brick\)](https://open.spotify.com/track/4Bloh4nVxZ0zsg4Kueyt5C) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Hello, my self \(With Paper Brick\)](https://open.spotify.com/album/3K1qBb1groBVCZWRELK5S0) | 4:34 | 2022-03-24 | 2022-03-30 |
 | [Her Fine Weather](https://open.spotify.com/track/0MiphDS5xfMLuxlHWSe141) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [She's Fine](https://open.spotify.com/album/7GfSkgEqNwSy8imCjkWKMd) | 2:31 | 2022-03-24 | 2022-04-14 |

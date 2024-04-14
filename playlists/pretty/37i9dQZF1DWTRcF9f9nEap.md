@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,967 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,017 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

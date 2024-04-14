@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,174 songs - 2 day 23 hr 28 min
+1,175 songs - 2 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,8 @@
 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 | 2022-01-19 |  |
 | [I Just Called to Say I Love You \- Recorded at RCA Studio A, Nashville](https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 4:07 | 2022-01-19 |  |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-18 |  |
-| [I Know \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fwwNsssLPQYOdFN17APIg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 3:29 | 2022-01-19 |  |
+| [I Know \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fwwNsssLPQYOdFN17APIg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 3:29 | 2022-01-19 | 2024-04-14 |
+| [I Know \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5mNDw4tOkjI1OfHHzfiUuw) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/0nBKg7hExs1PYBebT6chBJ) | 3:29 | 2023-10-02 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:22 | 2022-10-12 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2022-01-19 | 2022-10-13 |
 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 | 2022-01-19 |  |

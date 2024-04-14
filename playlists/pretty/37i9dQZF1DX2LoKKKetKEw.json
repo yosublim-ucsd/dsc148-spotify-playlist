@@ -1,6 +1,6 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 82664,
+  "num_followers": 82723,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,18 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+      "duration_ms": 205790,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -903,18 +899,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
       "artists": [
         {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 205790,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
-      },
-      "artists": [
-        {
-          "name": "Password",
-          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "The Word",
         "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 172208,
       "name": "The Word",
       "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
+      },
+      "artists": [
+        {
+          "name": "Password",
+          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/61GvROwCtOYr9ecZuyD4jg"
+      },
+      "artists": [
+        {
+          "name": "Nutty Josh",
+          "url": "https://open.spotify.com/artist/259gFVebrznddLh7C8Esth"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/4V57ZSgAxul9YBjU9pLpSg"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Amplify",
         "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 195789,
       "name": "Promesse",
       "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/61GvROwCtOYr9ecZuyD4jg"
-      },
-      "artists": [
-        {
-          "name": "Nutty Josh",
-          "url": "https://open.spotify.com/artist/259gFVebrznddLh7C8Esth"
-        },
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/4V57ZSgAxul9YBjU9pLpSg"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "By Design (Special Version)",
+        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "By Design - Special Version",
+      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na"
       },
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "By Design (Special Version)",
-        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
-      },
-      "artists": [
-        {
-          "name": "Echow Clay",
-          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "By Design - Special Version",
-      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
       },
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9"
+      },
+      "artists": [
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 183868,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Jesuferanmi",
         "url": "https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi"
       },
@@ -1543,22 +1563,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9"
+        "name": "Agba",
+        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
       },
       "artists": [
         {
-          "name": "Sammy Hart",
-          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         },
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
         }
       ],
-      "duration_ms": 183868,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
+      "duration_ms": 204434,
+      "name": "Agba",
+      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1595,26 +1615,6 @@
       "duration_ms": 179513,
       "name": "Legacy - Remix",
       "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Agba",
-        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        },
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "Agba",
-      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea"
+      },
+      "artists": [
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Keep it To Myself",
         "url": "https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 139320,
       "name": "Afurum Gi Nanya",
       "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea"
-      },
-      "artists": [
-        {
-          "name": "LC Beatz",
-          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "You Alone Art Worthy",
-        "url": "https://open.spotify.com/album/1st59u3QKaAuenP5mIbqpf"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 445424,
-      "name": "You Alone Art Worthy",
-      "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/3HRHoRu4p6fZ6pms3uC8oC"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 388675,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2UyiKKnsU8R3ESFeFlBm78"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "You Alone Art Worthy",
+        "url": "https://open.spotify.com/album/1st59u3QKaAuenP5mIbqpf"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 445424,
+      "name": "You Alone Art Worthy",
+      "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
     },
     {
       "added_at": "2024-02-23 09:40:22",

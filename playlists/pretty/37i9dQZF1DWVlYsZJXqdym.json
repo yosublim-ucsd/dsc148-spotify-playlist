@@ -1,6 +1,6 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 1088965,
+  "num_followers": 1088994,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-04-11 23:01:00",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -487,38 +487,6 @@
     {
       "added_at": "2024-04-11 23:01:00",
       "album": {
-        "name": "With YOU-th",
-        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ONE SPARK",
-      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -543,6 +511,54 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-04-11 23:01:00",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 160650,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -643,38 +659,18 @@
     {
       "added_at": "2024-04-11 23:01:00",
       "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
       "artists": [
         {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
-        "name": "On My Love",
-        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "On My Love",
-      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -695,18 +691,22 @@
     {
       "added_at": "2024-04-11 23:01:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -747,30 +747,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2024-04-11 23:01:00",
-      "album": {
-        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
       "added_at": "2024-04-11 23:01:00",
@@ -847,6 +823,30 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-04-11 23:01:00",
+      "album": {
+        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
       "added_at": "2024-04-11 23:01:00",

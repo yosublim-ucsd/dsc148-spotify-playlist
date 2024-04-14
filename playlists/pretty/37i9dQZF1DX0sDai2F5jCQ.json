@@ -1,6 +1,6 @@
 {
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: J. Cole",
-  "num_followers": 439573,
+  "num_followers": 439609,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,
@@ -118,6 +122,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
       "duration_ms": 414893,
@@ -358,6 +366,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
       "duration_ms": 213853,

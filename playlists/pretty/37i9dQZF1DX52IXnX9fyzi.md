@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,458 likes - 235 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,549 likes - 235 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

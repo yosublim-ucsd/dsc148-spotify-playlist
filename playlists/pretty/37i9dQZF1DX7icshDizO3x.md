@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 【STAYが選ぶスキズ楽曲ベスト】トップ32曲！さらに進化するのでMy Libraryに追加してお楽しみください！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,051 likes - 32 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,082 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

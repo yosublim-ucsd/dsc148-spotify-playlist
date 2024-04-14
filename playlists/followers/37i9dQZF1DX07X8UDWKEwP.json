@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 252835,
+  "2024-04-14": 252911,
   "date_first_scraped": "2022-01-10",
   "description": "Lo nuevo del mundo tropical. Cover: Camilo & Carin Leon",
   "name": "el nuevo tropical",
@@ -1595,10 +1595,32 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161897,
       "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+    },
+    {
+      "album": {
+        "name": "Retrom\u00e1ntico",
+        "url": "https://open.spotify.com/album/6TkAh6TSdd1N2cHOmN8NMh"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253172,
+      "name": "Cosas Del Amor (feat. Tito Nieves)",
+      "url": "https://open.spotify.com/track/42RY9VETwNoDlVlUDI5lTM"
     },
     {
       "album": {
@@ -2735,7 +2757,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233980,
       "name": "Eso es mondar",
       "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
@@ -5615,7 +5637,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 148381,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/6jqj7M2qGYfOh7tAfIzOJs"
@@ -6272,6 +6294,28 @@
     },
     {
       "album": {
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "Se Agradece",
+      "url": "https://open.spotify.com/track/0twUC3IFj8wtMUZVr7CLWM"
+    },
+    {
+      "album": {
         "name": "Te Lo Pido por Favor",
         "url": "https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu"
       },
@@ -6393,6 +6437,24 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "album": {
+        "name": "Shein",
+        "url": "https://open.spotify.com/album/3yTnlnrjcCWDDsmod9kQ9o"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151553,
+      "name": "Shein",
+      "url": "https://open.spotify.com/track/6DcW64MEKAUX0jzE26hxdv"
     },
     {
       "album": {

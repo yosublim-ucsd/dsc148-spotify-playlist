@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 319000,
+  "2024-04-14": 318995,
   "date_first_scraped": "2023-10-03",
   "description": "Los grandes hits y los sonidos emergentes de la m\u00fasica electr\u00f3nica latina est\u00e1n aqu\u00ed. Foto: Dezko",
   "name": "Electro Heat",
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -1311,6 +1311,32 @@
       "duration_ms": 135573,
       "name": "LAS FURIAS // NOS MIRAN",
       "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
+    },
+    {
+      "album": {
+        "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
+        "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284461,
+      "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
+      "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
     },
     {
       "album": {

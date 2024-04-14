@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. Todos os maiores hits em uma só playlist.
+> This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,153 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,299 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
 | 2 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 3 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
-| 4 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
+| 4 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
 | 5 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |
 | 6 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 |
-| 7 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 |
-| 8 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 |
+| 7 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 |
+| 8 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 9 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
 | 10 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
 | 11 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 |
 | 50 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGI3OTEyZTNiNzI2Y2I3Y2ZkOTc2OGNkNGRiYTVjMDZm`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDY0MWIyZWZjMWFiZmQ4YTQ4NGNlOTI4MTNmZThhNmRk`

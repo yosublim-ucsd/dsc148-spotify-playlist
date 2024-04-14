@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,902 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,969 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 23 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 24 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
 | 25 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
-| 26 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
-| 27 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
+| 26 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
+| 27 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
 | 28 | [Nesseit El Noum](https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg) | [Rida](https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp) | [Nesseit El Noum](https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688) | 4:50 |
 | 29 | [Ala El Aadid Ijtamaana](https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH) | [Ahmad Abdar](https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x) | [Sultan's of Al Tarab, Vol\. 4](https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65) | 2:15 |
 | 30 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 209139,
+  "num_followers": 209230,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -161,7 +161,7 @@
         }
       ],
       "duration_ms": 195488,
-      "name": "Dr\u00f6mf\u00e5ngare",
+      "name": "DR\u00d6MF\u00c5NGARE",
       "url": "https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO"
     },
     {
@@ -294,6 +294,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,

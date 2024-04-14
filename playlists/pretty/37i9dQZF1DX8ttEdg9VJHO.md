@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,540 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,592 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 7 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 8 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
 | 9 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
-| 10 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 |
-| 11 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 |
+| 10 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 |
+| 11 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 |
 | 12 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 |
 | 13 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 14 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 |
-| 15 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
-| 16 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 |
+| 15 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 |
+| 16 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
 | 17 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 18 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
 | 19 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 29 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 30 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
 | 31 | [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 |
-| 32 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
+| 32 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 33 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
-| 34 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
+| 34 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
 | 35 | [Habit](https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Habit](https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq) | 3:00 |
 | 36 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 | 37 | [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 66 | [Sweethoneylove](https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [Sweethoneylove](https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ) | 2:30 |
 | 67 | [Stay](https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Stay](https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb) | 2:52 |
 | 68 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
-| 69 | [Boys & Girls](https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [A Producer From Vienna](https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp) | 3:31 |
-| 70 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 70 | [Boys & Girls](https://open.spotify.com/track/0m28KN9Y8srHVJvutwJj5v) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [A Producer From Vienna](https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp) | 3:31 |
 
 Snapshot ID: `MTcxMTUzMDI1OSwwMDAwMDAwMGIxOTM3MzliZGRhMzBiNTI4MjdiZmNhNjcyZTgyYzg0`

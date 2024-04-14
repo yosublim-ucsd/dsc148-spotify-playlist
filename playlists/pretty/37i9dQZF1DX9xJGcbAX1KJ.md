@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,324 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,327 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 14 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 15 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 16 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
-| 17 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 |
-| 18 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 |
+| 17 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 |
+| 18 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 |
 | 19 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 20 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 |
 | 21 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 37 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
 | 38 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 39 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
-| 40 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
-| 41 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
+| 40 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
+| 41 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
 | 42 | [Walls](https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Walls](https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX) | 3:19 |
 | 43 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 |
 | 44 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 |

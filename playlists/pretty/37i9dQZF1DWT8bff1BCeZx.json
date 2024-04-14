@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 14816,
+  "num_followers": 14842,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -136,7 +136,7 @@
           "url": "https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc"
         }
       ],
-      "duration_ms": 220253,
+      "duration_ms": 206030,
       "name": "We Praise You",
       "url": "https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv"
     },
@@ -361,20 +361,24 @@
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -397,24 +401,20 @@
       "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
       "artists": [
         {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
           "name": "Dunsin Oyekan",
           "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
           "name": "Dunsin Oyekan",
           "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -861,20 +861,28 @@
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
       },
       "artists": [
         {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
         }
       ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -919,6 +927,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Bianule",
         "url": "https://open.spotify.com/album/5YZUj5SrZhgZqV9ORYHqPR"
       },
@@ -931,30 +955,6 @@
       "duration_ms": 285022,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/7iwRsEzkfIEEjPeKnviXBG"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "added_at": "2023-12-15 00:01:00",

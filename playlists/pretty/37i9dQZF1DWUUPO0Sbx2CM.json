@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 199288,
+  "num_followers": 199370,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "God Help Me",
         "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 157617,
       "name": "Love Is Everything We Need",
       "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+      },
+      "artists": [
+        {
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+        }
+      ],
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
-      },
-      "artists": [
-        {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
-        }
-      ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Step Into The Fight (Gregatron Remix)",
         "url": "https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 213868,
       "name": "Step Into The Fight - Gregatron Remix",
       "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+        "name": "You, Me, The Church, That's Us - Side B",
+        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
       },
       "artists": [
         {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+      "duration_ms": 188120,
+      "name": "Word - Live",
+      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "You, Me, The Church, That's Us - Side B",
-        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
       "artists": [
         {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
         }
       ],
-      "duration_ms": 188120,
-      "name": "Word - Live",
-      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
       },
       "artists": [
         {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "No Borders",
-        "url": "https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat"
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
       },
       "artists": [
         {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
         }
       ],
-      "duration_ms": 152520,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     }
   ],
   "unique_name": "Christian Dance Party",

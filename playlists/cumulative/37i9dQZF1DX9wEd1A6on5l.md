@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-400 songs - 19 hr 21 min
+401 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bankruptcy](https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:31 | 2023-07-28 | 2023-08-11 |
 | [Beautiful Song](https://open.spotify.com/track/4wYRLUhYqHgzxHlWSbk4JL) | [Starsamm](https://open.spotify.com/artist/1iBtMaom4KzYIK2oynJGXY), [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk) | [Beautiful Song](https://open.spotify.com/album/12eBsPwe1lf7gZLlGujZpW) | 4:36 | 2024-02-16 | 2024-03-22 |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-07-22 | 2022-09-26 |
-| [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 |  |
+| [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 | 2024-04-14 |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-21 | 2023-08-11 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-14 | 2023-02-04 |
 | [Better Time](https://open.spotify.com/track/46T7QV8rOaK6EfuRWhpG8z) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb), [Luigi Anywhere](https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK) | [Better Time](https://open.spotify.com/album/3hk2c0wMrFmRJddOzmeM61) | 3:49 | 2024-02-23 | 2024-03-22 |
@@ -136,6 +136,7 @@
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-09 |  |
 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 |  |
 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-14 | 2023-11-23 |
+| [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 | 2024-04-12 |  |
 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-24 | 2024-03-22 |
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 | 2024-03-22 |
 | [FADE AWAY](https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [FADE AWAY](https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb) | 2:48 | 2024-02-16 | 2024-03-22 |

@@ -4,7 +4,7 @@
 
 > Check out an exclusive voice message + related artist's tracks before the anime release date\. いよいよ4月13日放送。限定ボイスや作品世界を彩るアーティストたちの名曲を聴いて気分を高めよう！©防衛隊第３部隊 ©松本直也／集英社
 
-25 songs - 1 hr 1 min
+26 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Fireworks: Concerto for Piano and Orchestra, Scene 5: Burst, Pt\. 2](https://open.spotify.com/track/4gA1D6Y9RAAdNBPXfOy9Fw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [永野英樹](https://open.spotify.com/artist/1ch0mHyJqS0LlvGEKiZQ2m), [New Japan Philharmonic Orchestra](https://open.spotify.com/artist/0GlOFpRepnabV9byKzixRx), [杉山洋一](https://open.spotify.com/artist/1BT7qDWv85CB8qDosNfQ7x) | [Fireworks](https://open.spotify.com/album/4v7iaPhOECnymz5tp5huCP) | 5:37 | 2024-03-13 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2024-03-13 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2024-03-13 |  |
+| [Kaiju Rock from Kaiju No\. 8 \(Music from the Original TV Series\) \-Pre Release\-](https://open.spotify.com/track/4hb37PrK0myDUZPC2vPu0Y) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [佐々木貴之](https://open.spotify.com/artist/0wpZyhoX4YPPBzREJ4AjOj), [Kazuki Arai](https://open.spotify.com/artist/6NUySm8falLiv1bfAdmRv5), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Kaiju Rock from Kaiju No\. 8 \(Music from the Original TV Series\) \-Pre Release\-](https://open.spotify.com/album/5VgJfJ49jMQZG4vUohsU6i) | 1:19 | 2024-04-13 |  |
 | [Morse Code](https://open.spotify.com/track/67Pg038GgSB8UdmZBMCc4i) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Sakura To](https://open.spotify.com/artist/4b76KvWNvoqzg1v7sTmRYZ), [Kazumasa Ohya](https://open.spotify.com/artist/5JYNKJqGWfK25se9K7b1qV), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [Do Re Mi](https://open.spotify.com/album/20VJ2dp5xAafV9XqBAnCMc) | 1:07 | 2024-03-13 |  |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-11 |  |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2024-03-13 |  |

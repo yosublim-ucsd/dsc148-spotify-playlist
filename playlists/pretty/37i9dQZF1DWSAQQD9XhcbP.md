@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,082 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,081 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 62 | [Christmas in New York](https://open.spotify.com/track/7jCdK822bbHtDLSXKmNMd9) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Christmas in New York](https://open.spotify.com/album/4xq8uAmrX7wFF6thULGYhb) | 2:58 |
 | 63 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4krsMq8eb4WideabHW0fg8) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 4:30 |
 | 64 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
-| 65 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
+| 65 | [The Holidays With You](https://open.spotify.com/track/1jwqaB9Zf2IvrrdJrJOlMU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/5edIYITPKliEOK0kHqlnQ9) | 2:05 |
 | 66 | [Just Like Christmas](https://open.spotify.com/track/2QqXjUndwDYA3nEUyvprqo) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/4IWSjhF8wtYR7MVgMFrOkM) | 3:19 |
 | 67 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 |
 | 68 | [Christmas Eve](https://open.spotify.com/track/5QYZDXADCmEU69KXxfRxNX) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 3:21 |

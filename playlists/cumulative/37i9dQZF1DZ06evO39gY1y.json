@@ -97,6 +97,32 @@
     },
     {
       "album": {
+        "name": "Anticonceptivos",
+        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Anticonceptivos",
+      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Estoy Yo",
         "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
       },

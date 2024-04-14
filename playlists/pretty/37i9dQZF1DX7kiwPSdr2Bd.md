@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Mari Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,059 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,168 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 62 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 63 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
 | 64 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
-| 65 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
-| 66 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
+| 65 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
+| 66 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
 | 67 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
 | 68 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
 | 69 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,409 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,446 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 12 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
 | 13 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 14 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
-| 15 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
+| 15 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 16 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 17 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
 | 18 | [Dime Tú](https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dime Tú](https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M) | 3:40 |
-| 19 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 19 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 20 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
 | 21 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
 | 22 | [Amor Viejo](https://open.spotify.com/track/3W5h65cRwTaZ1FCvEw6Ltx) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Amor Viejo](https://open.spotify.com/album/5X9lk7ihH8XySmuhGGXRUN) | 2:17 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 62 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
 | 63 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
 | 64 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
-| 65 | [Aroma A Nostalgia \- Versión 2021](https://open.spotify.com/track/540QeUq2Xnf1gVwthgPZrH) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:38 |
-| 66 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 65 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
+| 66 | [Aroma A Nostalgia \- Versión 2021](https://open.spotify.com/track/540QeUq2Xnf1gVwthgPZrH) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:38 |
 | 67 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 |
 | 68 | [Elefante Rosado](https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:12 |
 | 69 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |

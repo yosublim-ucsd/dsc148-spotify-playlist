@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This Is Howlin' Wolf. Los temas esenciales, todos en una lista.",
+  "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 130000,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5MGDtPCUw8uJW8Fxd7aVl0"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 159373,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 163026,
       "name": "How Many More Years",
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 165906,
       "name": "Louise",
       "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 155360,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 179400,
       "name": "Tail Dragger",
       "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 133906,
       "name": "The Natchez Burnin'",
       "url": "https://open.spotify.com/track/3iAJLt1uT9K6BWsYWgJasT"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 147400,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"

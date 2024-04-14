@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 41 min
+128 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 | 2022-06-01 | 2024-04-06 |
 | [Contigo O Sin Ti \- Live](https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:39 | 2022-06-01 | 2023-06-07 |
 | [Coqueta \- Live](https://open.spotify.com/track/59UYyOnT5xZKVOaTZ6KdJ8) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:27 | 2022-06-01 | 2023-01-25 |
-| [Cuando Toca Mi Piel \- En Vivo](https://open.spotify.com/track/6z17iqYbnNFwUJ4wEsMbUE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Roy Rosas](https://open.spotify.com/artist/4UzNiMYOdbQhZ6KsOZSWQm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:23 | 2023-01-24 |  |
+| [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 | 2024-04-14 |  |
+| [Cuando Toca Mi Piel \- En Vivo](https://open.spotify.com/track/6z17iqYbnNFwUJ4wEsMbUE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Roy Rosas](https://open.spotify.com/artist/4UzNiMYOdbQhZ6KsOZSWQm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:23 | 2023-01-24 | 2024-04-14 |
 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2022-12-23 |  |
 | [Deja De Chingarme](https://open.spotify.com/track/1Uya8lQ4iNozpXJodcdbue) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:59 | 2023-05-26 |  |
 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 | 2022-06-01 | 2023-08-20 |
@@ -132,6 +133,7 @@
 | [Un Rinconcito En El Cielo \- Live](https://open.spotify.com/track/18RdaUB0nsdWCS5GadRumO) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 2:57 | 2022-06-01 | 2023-02-20 |
 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 | 2022-11-28 |  |
 | [Una Noche Más Contigo \- En Vivo](https://open.spotify.com/track/4GWAIhCLHU3Az9DwkINaWL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3) | 5:13 | 2024-01-30 |  |
+| [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 | 2024-04-14 |  |
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-10-20 | 2023-03-04 |
 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 | 2022-12-13 | 2023-12-14 |
 

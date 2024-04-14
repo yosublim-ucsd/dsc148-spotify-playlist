@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,510 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,547 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 23 | [Obsession](https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4) | [Bixi Blake](https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM), [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Obsession](https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl) | 3:20 |
 | 24 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 |
 | 25 | [Şampanya](https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Şampanya](https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF) | 4:13 |
-| 26 | [AYA](https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 3:16 |
+| 26 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 |
 | 27 | [Boş Yapma](https://open.spotify.com/track/3vjW60vUWX82R4SFcUlZk7) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Boş Yapma](https://open.spotify.com/album/6fXyjHXlM4V5kjiO97pC51) | 2:27 |
 | 28 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |
 | 29 | [Yangınlar](https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Sertan](https://open.spotify.com/artist/0LlV4LGUosenvcisOMC4Vs) | [Yangınlar](https://open.spotify.com/album/6KMkJMnKZ9Vqwy6GdKSTUN) | 2:57 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 31 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 |
 | 32 | [Goal](https://open.spotify.com/track/4QVEEOx7TeTA0vQfeP8tgN) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Goal](https://open.spotify.com/album/0sQ3MO1z5HTIKEUYu56aGo) | 3:14 |
 | 33 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
-| 34 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 |
+| 34 | [AYA](https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 3:16 |
 | 35 | [Güzelim](https://open.spotify.com/track/1xh4TN6flr8m751YFr2r9M) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Güzelim](https://open.spotify.com/album/5nYqLxjjZf7PVJfMtZH5yq) | 3:03 |
 | 36 | [Bu Ne Hava](https://open.spotify.com/track/4f20sgXTgd8oG9Ywmkxmay) | [Resit Kemal](https://open.spotify.com/artist/3xtQQsJvIjKcyaLT4uMsWz) | [Bu Ne Hava](https://open.spotify.com/album/71KkIbCxjd6tUuhvafpdCz) | 2:10 |
 | 37 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |

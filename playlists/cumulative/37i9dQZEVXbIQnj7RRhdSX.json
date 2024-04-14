@@ -1275,6 +1275,32 @@
     },
     {
       "album": {
+        "name": "Adrenalina (feat. BLANCO, Marracash)",
+        "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Adrenalina (feat. BLANCO, Marracash)",
+      "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
+    },
+    {
+      "album": {
         "name": "Blu Celeste",
         "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
       },
@@ -10568,7 +10594,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -10902,7 +10928,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 178064,
       "name": "Ex Angelo (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq"
@@ -15335,6 +15361,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -15460,7 +15504,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 245292,
       "name": "In Italia 2024 (feat. Emma & Baby Gang)",
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
@@ -19582,7 +19626,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 194999,
       "name": "LUMIERE \u1be4 (con Izi, Ernia, Tony Boy, Digital Astro)",
       "url": "https://open.spotify.com/track/4hGOZFnihN22IsswyRpueW"
@@ -21392,7 +21436,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 259186,
       "name": "METEORE \u2ce2 (con Gemitaiz, Izi, centomilacarie)",
       "url": "https://open.spotify.com/track/6gkj8ArfOiHKNHhQkzYv0Y"
@@ -29080,7 +29124,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 162684,
       "name": "ROSSOFUOCO",
       "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"

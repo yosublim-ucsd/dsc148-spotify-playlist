@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 24882,
+  "num_followers": 24904,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Stan Getz With Cal Tjader",
-        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 503013,
       "name": "Litha",
       "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Stan Getz With Cal Tjader",
+        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -275,22 +275,18 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
+      "duration_ms": 190360,
+      "name": "Cast Your Fate to the Wind",
+      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -311,18 +307,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Cast Your Fate to the Wind",
-      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Patti Cake",
+      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Patti Cake",
-      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
     },
     {
       "added_at": "2024-03-20 14:55:42",

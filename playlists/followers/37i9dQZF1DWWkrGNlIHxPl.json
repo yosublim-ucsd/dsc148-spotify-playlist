@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 154198,
+  "2024-04-14": 154291,
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Zeina",
+  "description": "Global crossovers by/with Arab artists. Cover: Elyanna",
   "name": "Arab X",
   "tracks": [
     {
@@ -781,6 +781,24 @@
       "duration_ms": 137110,
       "name": "Call Her Right Now",
       "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
+    },
+    {
+      "album": {
+        "name": "WOLEDTO",
+        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116492,
+      "name": "Callin' U (Tamally Maak)",
+      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
     },
     {
       "album": {
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208759,
       "name": "Fear Nothing",
       "url": "https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5"

@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-124 songs - 8 hr 14 min
+125 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
-| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 |  |
+| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 | 2024-04-14 |
 | [Ife](https://open.spotify.com/track/6zfQjiEITpwiTf5qragUNj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 5:52 | 2022-06-26 | 2022-10-17 |
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2023-02-23 |  |
 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 | 2021-12-28 |  |
@@ -107,6 +107,7 @@
 | [Senie](https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 1:53 | 2022-07-29 |  |
 | [Shekere](https://open.spotify.com/track/1unD6HbKuU0NIPDzEkYDbM) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/4ZXoplCIksnmgPXcJBYtQ7) | 3:06 | 2023-08-13 | 2023-10-11 |
 | [Shekere](https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Woman Of Steel](https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4) | 3:06 | 2021-12-28 | 2023-08-14 |
+| [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 | 2024-04-14 |  |
 | [Summertime](https://open.spotify.com/track/6ZoY4JuMpnTkQTLE8tYP5k) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep On Moving \- The Best Of](https://open.spotify.com/album/5HOH5XeVjMwmcbb6PLrhJW) | 3:32 | 2021-12-28 | 2022-05-17 |
 | [Summertime \- Live](https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Spirit Rising \(Live\)](https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038) | 4:04 | 2022-05-16 |  |
 | [Symphony No\. 12, "Lodger": I\. Fantastic Voyage](https://open.spotify.com/track/5A5LXIwszHMeXW4CKGIiZz) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Christian Schmitt](https://open.spotify.com/artist/5dj2TPLbKWFIMkfUgXdPul), [Filharmonie Brno](https://open.spotify.com/artist/7wkqgHCWQh885KiCSUvqH5), [Dennis Russell Davies](https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8) | [Philip Glass: Symphony No.12 "Lodger" \(from lyrics by David Bowie and Brian Eno\)](https://open.spotify.com/album/4do15U1IbTk9oZbmuIhvje) | 2:42 | 2022-02-02 | 2022-04-12 |

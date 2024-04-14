@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,550 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,551 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 42 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
 | 43 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 44 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
-| 45 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 |
-| 46 | [Magnolia](https://open.spotify.com/track/5I9T77pGZ9rikjJ9f8Cdrt) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/0rTwhxZVCiYqRkckGvUlvw) | 2:51 |
-| 47 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
-| 48 | [Oh Rosy](https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 3:44 |
+| 45 | [Magnolia](https://open.spotify.com/track/5I9T77pGZ9rikjJ9f8Cdrt) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/0rTwhxZVCiYqRkckGvUlvw) | 2:51 |
+| 46 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 |
+| 47 | [Oh Rosy](https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 3:44 |
+| 48 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
 | 49 | [Special](https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ) | [유빈](https://open.spotify.com/artist/54WmF0InV2ogQOVKnZJExd) | [Chocolate, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/79wBNq5XUF8BkdmNjPoxrO) | 3:32 |
 | 50 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
 

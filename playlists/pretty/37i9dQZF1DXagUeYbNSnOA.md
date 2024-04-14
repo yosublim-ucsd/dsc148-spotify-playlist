@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo performing at Fresh Finds Chicago March 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,284 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,289 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

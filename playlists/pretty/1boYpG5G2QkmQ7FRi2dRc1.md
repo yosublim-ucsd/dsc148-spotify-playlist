@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,276 likes - 30 songs - 1 hr 40 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,266 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bon Voyage](https://open.spotify.com/track/4oDiAylUIcWDQWXc1x2Ikh) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Bon Voyage \(feat\. Mingue\)](https://open.spotify.com/album/6uYbeO6iYfiC8stFuTi2ZY) | 2:40 |
 | 2 | [Breathe](https://open.spotify.com/track/4GLWZE30Oiv80d7GxcPmME) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Breathe](https://open.spotify.com/album/3hLvYf5CNeM50s4nPWK750) | 2:30 |
-| 3 | [I Got This](https://open.spotify.com/track/6n7eU8O4RaJ92qXdW8ncAo) | [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw) | [I Got This](https://open.spotify.com/album/4GBbH8vR6yNBSJwNCcZFOs) | 3:13 |
+| 3 | [I Got This](https://open.spotify.com/track/6n7eU8O4RaJ92qXdW8ncAo) | [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw) | [I Got This](https://open.spotify.com/album/4GBbH8vR6yNBSJwNCcZFOs) | 3:12 |
 | 4 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
 | 5 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 |
 | 6 | [Hands Up High](https://open.spotify.com/track/3D2AfP8wxx9YsBrY4dfgeC) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Hands Up High](https://open.spotify.com/album/3OpMwzZ60K9ck4qR6RpiIT) | 2:27 |

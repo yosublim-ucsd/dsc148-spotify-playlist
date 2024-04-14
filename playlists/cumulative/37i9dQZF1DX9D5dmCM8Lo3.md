@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-123 songs - 6 hr 1 min
+124 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [L41N](https://open.spotify.com/track/4VsT2A4GX2Ichk6PD5LeXs) | [Piff Paff Piffi](https://open.spotify.com/artist/2jKVs5nD7UCtKJKGWvyK77) | [L41N](https://open.spotify.com/album/0VdyPqxbI01I2wIzkw5gX2) | 3:49 | 2023-07-18 | 2023-11-17 |
 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 | 2022-03-02 |  |
 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 | 2022-04-01 | 2022-07-29 |
-| [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 | 2022-03-02 |  |
+| [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 | 2022-03-02 | 2024-04-14 |
 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/1qKJSTBYWQMuN4efzNuY2e) | 2:01 | 2023-07-18 |  |
 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 | 2022-03-02 | 2023-06-13 |
 | [Lovemall](https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Divinity](https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo) | 2:12 | 2022-03-02 | 2023-06-13 |
@@ -78,13 +78,14 @@
 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 | 2022-03-02 |  |
 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 | 2022-03-02 | 2024-04-12 |
 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 | 2022-03-11 | 2024-04-05 |
+| [My Head Hurts](https://open.spotify.com/track/4k1pRLWkbIxwlaUZ4GafHB) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/211ClMK0N3DjfrxFb1Aep0) | 3:06 | 2023-07-18 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2022-03-02 |  |
 | [Myztic Stage: Frost & Fire](https://open.spotify.com/track/5HZK5gSFHb0WBxKS6rsNH3) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Digimaiden](https://open.spotify.com/album/3HU9kKXZaaUK69KpAwZKvO) | 3:08 | 2022-03-02 | 2022-07-29 |
 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 | 2023-07-18 |  |
 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 | 2022-03-02 | 2023-10-16 |
 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 | 2022-03-02 |  |
 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 | 2022-03-02 | 2023-06-13 |
-| [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/7wwbjLs0cXSVT3jb33e95G) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2022-03-02 |  |
+| [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2022-03-02 |  |
 | [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 | 2022-03-02 |  |
 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 | 2023-06-12 | 2023-08-11 |
 | [paranoia](https://open.spotify.com/track/3WBy9a9yRLJc87p0kxlWBx) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/1BAT0nvR5OhUCOkZZ134J6) | 1:57 | 2023-07-18 | 2023-08-10 |

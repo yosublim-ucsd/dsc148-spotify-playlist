@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 69878,
+  "2024-04-14": 69905,
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Shreya Sharma",
+  "description": "Naye Indie gaano ka khazana! ",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -115,6 +115,32 @@
       "duration_ms": 196000,
       "name": "Aaftab",
       "url": "https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT"
+    },
+    {
+      "album": {
+        "name": "Aaghaaz",
+        "url": "https://open.spotify.com/album/5hKk5gTfnrNlCs9LQUkbfQ"
+      },
+      "artists": [
+        {
+          "name": "Moosa Saleem",
+          "url": "https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN"
+        },
+        {
+          "name": "Soham Mallick",
+          "url": "https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue"
+        },
+        {
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228909,
+      "name": "Aaghaaz",
+      "url": "https://open.spotify.com/track/4RGU0e3tMHMY9f12bmM5p1"
     },
     {
       "album": {
@@ -601,7 +627,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 122803,
       "name": "akele phir kyun?",
       "url": "https://open.spotify.com/track/2vufwcx0Zf6RCfbwqpWKAZ"
@@ -981,6 +1007,28 @@
       "duration_ms": 182769,
       "name": "Baat Kya Hai",
       "url": "https://open.spotify.com/track/0kPMVI2iVKarTWWcSi5Phc"
+    },
+    {
+      "album": {
+        "name": "Baat Takat Hun",
+        "url": "https://open.spotify.com/album/6Yp6GFWJLfvcOZcuPI2WhB"
+      },
+      "artists": [
+        {
+          "name": "Priyasi",
+          "url": "https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp"
+        },
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172101,
+      "name": "Baat Takat Hun",
+      "url": "https://open.spotify.com/track/2fQOhddanyytkxnmTE8Cjo"
     },
     {
       "album": {
@@ -1825,7 +1873,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215217,
       "name": "Chandni Si Raat - Reprise",
       "url": "https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ"
@@ -3260,6 +3308,28 @@
     },
     {
       "album": {
+        "name": "Haqeeqat ke pare",
+        "url": "https://open.spotify.com/album/4UP52gcocxTGDk9RdvZpkh"
+      },
+      "artists": [
+        {
+          "name": "Kapow!",
+          "url": "https://open.spotify.com/artist/6wcAvk3vwdgF03WziIJa6H"
+        },
+        {
+          "name": "Sana Arora",
+          "url": "https://open.spotify.com/artist/33Q40lJ8jvHRpaAS8sb0dJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "Haqeeqat ke pare",
+      "url": "https://open.spotify.com/track/4h6exJROqnGgi8geRMyCde"
+    },
+    {
+      "album": {
         "name": "Harjaiyaa",
         "url": "https://open.spotify.com/album/5jRHK2YNxGajVDjXcP2aiI"
       },
@@ -3311,7 +3381,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 319278,
       "name": "Hayal",
       "url": "https://open.spotify.com/track/1myfx5vlJpQZL3S8jBdoKZ"
@@ -3540,6 +3610,28 @@
     },
     {
       "album": {
+        "name": "Humse Wafaaein",
+        "url": "https://open.spotify.com/album/3ag5dn4E3mRsC3aTx9caia"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Sharib Hashmi",
+          "url": "https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Humse Wafaaein",
+      "url": "https://open.spotify.com/track/6wp9ybw0b5cvcVJjOC5e7g"
+    },
+    {
+      "album": {
         "name": "Husn",
         "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
       },
@@ -3665,7 +3757,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197349,
       "name": "Imtihaan",
       "url": "https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7"
@@ -3691,6 +3783,24 @@
       "duration_ms": 189839,
       "name": "In Your Eyes Only",
       "url": "https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ"
+    },
+    {
+      "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156256,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/4rin9gU1VxcCESXSGDWF7C"
     },
     {
       "album": {
@@ -4126,6 +4236,32 @@
     },
     {
       "album": {
+        "name": "Lafz",
+        "url": "https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165020,
+      "name": "Jiya Mera",
+      "url": "https://open.spotify.com/track/5aADfE5q0L9RXSxXNz0r2X"
+    },
+    {
+      "album": {
         "name": "Jogan / Preet",
         "url": "https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS"
       },
@@ -4327,7 +4463,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174750,
       "name": "Kahaani (feat. Lothika)",
       "url": "https://open.spotify.com/track/2LUpbowztkHYrtYvXc45Nt"
@@ -4415,6 +4551,24 @@
       "duration_ms": 245711,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
+    },
+    {
+      "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Kahaniyaan",
+      "url": "https://open.spotify.com/track/6XLgtXAkU6hCIEPkWDN9rB"
     },
     {
       "album": {
@@ -5151,7 +5305,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236500,
       "name": "Khwab Tum",
       "url": "https://open.spotify.com/track/2arB5aXk120mlqAyYIfNoj"
@@ -5321,7 +5475,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 143273,
       "name": "Kishmish",
       "url": "https://open.spotify.com/track/0y0PU8VFoud2NTXfkUmr7g"
@@ -6735,7 +6889,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217226,
       "name": "Muskaan",
       "url": "https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ"
@@ -7005,6 +7159,24 @@
       "duration_ms": 172000,
       "name": "Nee Venda",
       "url": "https://open.spotify.com/track/1JMQrzzFl21dKNZhlPYCNE"
+    },
+    {
+      "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Neendein",
+      "url": "https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP"
     },
     {
       "album": {
@@ -7437,7 +7609,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210125,
       "name": "Parwaaz",
       "url": "https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0"
@@ -7557,6 +7729,54 @@
       "duration_ms": 183272,
       "name": "Perfy",
       "url": "https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs"
+    },
+    {
+      "album": {
+        "name": "Phir Bhi Bekarar",
+        "url": "https://open.spotify.com/album/3HAcUjsJyp1BtHc043dycS"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        },
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Phir Bhi Bekarar",
+      "url": "https://open.spotify.com/track/3RBNus42uAT8P5GGUyINIq"
+    },
+    {
+      "album": {
+        "name": "Piya",
+        "url": "https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/7m6cZU7vZ820wck1T542vf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141715,
+      "name": "Piya",
+      "url": "https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T"
     },
     {
       "album": {
@@ -10815,7 +11035,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157009,
       "name": "YOURS TRULY",
       "url": "https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02"

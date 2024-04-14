@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174517,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg"
+    },
+    {
+      "album": {
         "name": "Don't Call Me - The 7th Album",
         "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
       },
@@ -5240,7 +5258,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"

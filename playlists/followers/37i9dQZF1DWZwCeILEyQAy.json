@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 490161,
+  "2024-04-14": 490172,
   "date_first_scraped": "2022-01-13",
   "description": "Real Rap. All Pressure. Cover: Sexyy Red",
   "name": "Pressure",
@@ -749,6 +749,24 @@
       "duration_ms": 129229,
       "name": "Back To The Basics",
       "url": "https://open.spotify.com/track/0zKpWmBCHseu9ewM1BUII7"
+    },
+    {
+      "album": {
+        "name": "BAD WEATHER",
+        "url": "https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112746,
+      "name": "BAD WEATHER",
+      "url": "https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk"
     },
     {
       "album": {
@@ -5175,7 +5193,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180742,
       "name": "IJWSM",
       "url": "https://open.spotify.com/track/71Vmg0nRrXGUwQfvd8ndKs"
@@ -6229,6 +6247,24 @@
       "duration_ms": 146490,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/41cmC5V2ilq3NxKMq2MZTn"
+    },
+    {
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/7wYjfl9torFVBrC0mBj2Df"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127067,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy"
     },
     {
       "album": {
@@ -7733,7 +7769,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164507,
       "name": "please.",
       "url": "https://open.spotify.com/track/2804oZAOB3Ulb97Yg3dclc"
@@ -9558,6 +9594,24 @@
     },
     {
       "album": {
+        "name": "Stacy's Chips",
+        "url": "https://open.spotify.com/album/5HVQN6oGyAjq4iVoH8WwqO"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Stacy's Chips",
+      "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
+    },
+    {
+      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
@@ -10785,7 +10839,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 116191,
       "name": "UP, LIT. FREESTYLE",
       "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
@@ -10935,7 +10989,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144961,
       "name": "Wassup Gway",
       "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"
@@ -11457,6 +11511,28 @@
       "duration_ms": 183834,
       "name": "Yea Yea (with Dreezy)",
       "url": "https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS"
+    },
+    {
+      "album": {
+        "name": "Yeah (with BIA)",
+        "url": "https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
     },
     {
       "album": {

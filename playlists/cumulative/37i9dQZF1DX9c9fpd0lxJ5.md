@@ -4,13 +4,13 @@
 
 > indie tunes to make you shine bby :\)
 
-231 songs - 12 hr 56 min
+232 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 | 2021-12-29 | 2023-10-27 |
 | [A la Madrugada](https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 4:22 | 2023-10-27 |  |
-| [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 | 2021-12-29 |  |
+| [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 | 2021-12-29 | 2024-04-14 |
 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 | 2024-02-23 |  |
 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 | 2021-12-29 | 2023-10-05 |
 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 | 2021-12-29 | 2022-12-03 |
@@ -48,13 +48,14 @@
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2023-03-03 |  |
 | [Desastre Comunal](https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Desastre Comunal](https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg) | 3:04 | 2021-12-29 | 2023-03-05 |
 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 | 2022-12-02 |  |
+| [Diamantes](https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Diamantes](https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8) | 4:03 | 2024-04-12 |  |
 | [Disco de Oro](https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:21 | 2023-03-03 |  |
 | [Disculpa](https://open.spotify.com/track/5OqYL1EiGTxt5TWdbPbSPP) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Disculpa](https://open.spotify.com/album/5WDPwq9M1NjVIaM22LHZfv) | 3:14 | 2021-12-29 | 2022-07-29 |
 | [Dolce Banana](https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9) | [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck), [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y), [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Mil Noches Sin Dormir](https://open.spotify.com/album/50h4K37IirTEjuZJlVn1Rg) | 2:22 | 2022-01-26 | 2022-12-03 |
 | [Domingo](https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc) | [Poi mp3](https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8) | [Domingo](https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv) | 3:26 | 2022-06-15 | 2022-12-03 |
 | [Domingo](https://open.spotify.com/track/5FgyIF4AvesAj5xws4gpdv) | [Poi mp3](https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8) | [Domingo](https://open.spotify.com/album/01kTCGJItkwSIK8jYMRxDV) | 3:26 | 2021-12-29 | 2022-07-29 |
 | [Dung Ding Dang](https://open.spotify.com/track/1ydRx4MddIKUmOg9yiMmOY) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/2qiP0BXVxiIEJvAoO5eKNv) | 4:15 | 2021-12-29 | 2022-07-29 |
-| [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 | 2022-06-15 |  |
+| [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 | 2022-06-15 | 2024-04-14 |
 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 | 2021-12-29 |  |
 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 | 2021-12-29 | 2022-12-03 |
 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 | 2023-04-28 |  |
@@ -173,7 +174,7 @@
 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 | 2021-12-29 |  |
 | [Provincia](https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:15 | 2021-12-29 |  |
 | [Pruébame a Ti](https://open.spotify.com/track/10rzSpg3kTFSr5e5tFy60A) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Tiempo Locura Todo](https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp) | 3:13 | 2021-12-29 | 2024-01-27 |
-| [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-12-29 | 2024-04-12 |
+| [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-12-29 |  |
 | [Puro Sentimiento](https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Puro Sentimiento](https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn) | 3:06 | 2022-12-02 |  |
 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2021-12-29 |  |
 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 | 2021-12-29 |  |

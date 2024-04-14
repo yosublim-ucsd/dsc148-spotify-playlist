@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > yiheeeeeeee
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,330 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,388 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 36 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 |
 | 37 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
 | 38 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
-| 39 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
-| 40 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
+| 39 | [Fresh Eyes](https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:18 |
+| 40 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
 
 Snapshot ID: `MTcwOTAwMjU3NCwwMDAwMDAwMDgwMzgwMTdlYjczOWYzYWY4MDZhZTk5ZmNkNDA5MDI0`

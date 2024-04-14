@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 63624,
+  "2024-04-14": 63627,
   "date_first_scraped": "2022-01-09",
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  Elifas Sonaru",
   "name": "Fresh Finds Indonesia",
@@ -14677,6 +14677,24 @@
       "duration_ms": 205714,
       "name": "Eat Drink Be Merry",
       "url": "https://open.spotify.com/track/4mEpp0LxdyWcEfc2OO0Fgt"
+    },
+    {
+      "album": {
+        "name": "Eclipse Of Enmity",
+        "url": "https://open.spotify.com/album/3bzwfMoYrSa0rcI5WuM75b"
+      },
+      "artists": [
+        {
+          "name": "MotherSoul*",
+          "url": "https://open.spotify.com/artist/2U4J5FLtMzlghc0iTfdnPy"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312166,
+      "name": "Eclipse Of Enmity",
+      "url": "https://open.spotify.com/track/5jocQg8CqoXS86ftOwoM2b"
     },
     {
       "album": {

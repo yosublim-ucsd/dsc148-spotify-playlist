@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,206 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,257 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
-| 2 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
-| 3 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
+| 1 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
+| 2 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
+| 3 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 4 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 |
 | 5 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
 | 6 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 49 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 |
 | 50 | [Red Barz](https://open.spotify.com/track/4Cukzh6moDDM0RVTgRYbog) | [araabMUZIK](https://open.spotify.com/artist/2iXdwLTWyFhlN1MQWIymvM), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Barz](https://open.spotify.com/album/4wWVZFVLaVdzo1tXylyKV0) | 2:00 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGI1ZmI4OGE4MTRhMzNmNTkzZTZmMTlmNjVhYTc0M2Vh`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGFjZjUzZGQwZTc5NTliZDAxMGQ5MzJlMjMzOTVmNDVl`

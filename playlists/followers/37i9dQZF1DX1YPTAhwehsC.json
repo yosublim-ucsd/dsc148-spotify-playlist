@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 454779,
+  "2024-04-14": 454820,
   "date_first_scraped": "2021-12-21",
   "description": "Up and down I-95. Cover: A Boogie Wit da Hoodie",
   "name": "State of Mind",
@@ -1556,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2 (Gag City PLUTO Edition)",
+        "url": "https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132799,
+      "name": "Barbie Dangerous",
+      "url": "https://open.spotify.com/track/1fZhfh94jCYssOEd9ywrYY"
+    },
+    {
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206666,
       "name": "Becky (feat. 41)",
       "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 239471,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/24b5TbtIBm5xRixapLABo7"
@@ -3169,7 +3187,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169565,
       "name": "BUT IM BACK",
       "url": "https://open.spotify.com/track/49Z2dsPmdG6dqXWvrqFT2F"
@@ -4322,6 +4340,36 @@
     },
     {
       "album": {
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "album": {
         "name": "Dead or Alive",
         "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
       },
@@ -4525,7 +4573,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 96923,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW"
@@ -5261,7 +5309,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162797,
       "name": "Don't Start Pt. 3",
       "url": "https://open.spotify.com/track/2FOGddqEgiiC0p6dw3HsfP"
@@ -6796,6 +6844,36 @@
     },
     {
       "album": {
+        "name": "Hall & Nash 2",
+        "url": "https://open.spotify.com/album/1e4OHAatj5TyFJLnrMIvdf"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "Fork In The Pot (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/0q0qdaQ8j80O3fB4hUiygn"
+    },
+    {
+      "album": {
         "name": "Hood Mona Lisa",
         "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
       },
@@ -7015,7 +7093,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
@@ -7329,7 +7407,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175078,
       "name": "Get a Chain",
       "url": "https://open.spotify.com/track/1z7dDacN6AUdmU9Kp2n3YK"
@@ -7410,6 +7488,24 @@
     },
     {
       "album": {
+        "name": "Philly Goats",
+        "url": "https://open.spotify.com/album/5kXDgdgqs9gqqKfcxZ9wVz"
+      },
+      "artists": [
+        {
+          "name": "Philly Goats",
+          "url": "https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178502,
+      "name": "Get Off The Wall",
+      "url": "https://open.spotify.com/track/6SlztBVfIbknPYVxJBGATZ"
+    },
+    {
+      "album": {
         "name": "Get Rich",
         "url": "https://open.spotify.com/album/6M0w1YaisEK7AOibfMV6u0"
       },
@@ -7425,6 +7521,42 @@
       "duration_ms": 214945,
       "name": "Get Rich",
       "url": "https://open.spotify.com/track/5T8gPoYJNngQIm6bCFCAjP"
+    },
+    {
+      "album": {
+        "name": "GET RIGHT!",
+        "url": "https://open.spotify.com/album/6S5whaO7WJY5OAG7nHkv9r"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117107,
+      "name": "GET RIGHT!",
+      "url": "https://open.spotify.com/track/0guHkjMcFsquBmnDsPgBu3"
+    },
+    {
+      "album": {
+        "name": "Get That Money",
+        "url": "https://open.spotify.com/album/2YpfrByX21bqohqSahSPH2"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/0ixNW92DDfzRYUO1uCx5hX"
     },
     {
       "album": {
@@ -8107,7 +8239,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 345297,
       "name": "Griselda Express (with Westside Gunn, Conway The Machine & Rick Hyde)",
       "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
@@ -8784,6 +8916,32 @@
     },
     {
       "album": {
+        "name": "How I'm Living (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/0qw50RqEJ1SyTOLtUMGXwE"
+      },
+      "artists": [
+        {
+          "name": "Maino",
+          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "How I'm Living (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1XFzgbEMehoiAgE76X6Pox"
+    },
+    {
+      "album": {
         "name": "How The Story Goes",
         "url": "https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv"
       },
@@ -9063,6 +9221,24 @@
       "duration_ms": 160940,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4"
+    },
+    {
+      "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/6eZ9QEFdKR68BWNqkDGwqr"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154689,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/6YKLF2OaLjxpiSqLVCCNO9"
     },
     {
       "album": {
@@ -11542,6 +11718,24 @@
     },
     {
       "album": {
+        "name": "Many Opps",
+        "url": "https://open.spotify.com/album/5grGljqDjJ2vr2HJvRku8m"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159712,
+      "name": "Many Opps",
+      "url": "https://open.spotify.com/track/2W137gWZoU4XiKhkRYS44g"
+    },
+    {
+      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
       },
@@ -11739,6 +11933,24 @@
       "duration_ms": 221468,
       "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
+    },
+    {
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/7wYjfl9torFVBrC0mBj2Df"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127067,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy"
     },
     {
       "album": {
@@ -14723,7 +14935,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 253333,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/3LUpZ1UXIp0xU5KZ8vIAcH"
@@ -15285,7 +15497,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173142,
       "name": "Put It In Her Back (feat. PGS Spence)",
       "url": "https://open.spotify.com/track/7isWrHNlbz1LfiMsvxyaec"
@@ -15303,7 +15515,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217224,
       "name": "Put Me On",
       "url": "https://open.spotify.com/track/2DW5fYkobgMLvnsHkswg2h"
@@ -17676,6 +17888,24 @@
     },
     {
       "album": {
+        "name": "SNA!",
+        "url": "https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128011,
+      "name": "SNA!",
+      "url": "https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq"
+    },
+    {
+      "album": {
         "name": "WORLD WIDE WHACK",
         "url": "https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq"
       },
@@ -19012,6 +19242,32 @@
     },
     {
       "album": {
+        "name": "Liberation 2",
+        "url": "https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "The Right To Love Us",
+      "url": "https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq"
+    },
+    {
+      "album": {
         "name": "The Rock",
         "url": "https://open.spotify.com/album/4jUfsuirfga7P3pM0eauSg"
       },
@@ -19780,6 +20036,24 @@
     },
     {
       "album": {
+        "name": "Tweakin",
+        "url": "https://open.spotify.com/album/3qFgq8N7K0wdOCakbgEjit"
+      },
+      "artists": [
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126786,
+      "name": "Tweakin",
+      "url": "https://open.spotify.com/track/66F2YDTvXpEORKPb0CNxKV"
+    },
+    {
+      "album": {
         "name": "Two in One",
         "url": "https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0"
       },
@@ -20039,7 +20313,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 333671,
       "name": "Vertino",
       "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
@@ -21539,7 +21813,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161400,
       "name": "You (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"

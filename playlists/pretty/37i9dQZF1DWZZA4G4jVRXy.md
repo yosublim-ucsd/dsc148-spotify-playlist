@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,599 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,613 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 24 | [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 |
 | 25 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
 | 26 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
-| 27 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
-| 28 | [Palmeras](https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:20 |
+| 27 | [Palmeras](https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:20 |
+| 28 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
 | 29 | [Hanalei Moon](https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX), [Amy Hānaialiʻi Gilliom](https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp) | 4:35 |
 | 30 | [Glow Worm Cha Cha Cha \- Remastered](https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD) | [Jackie Davis](https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ) | [Ultra\-Lounge: Fuzzy Retail Sampler](https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd) | 2:23 |
 | 31 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 59 | [Jivaro](https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Legend Of The Jivaro](https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7) | 2:54 |
 | 60 | [Mi Nei](https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 3:49 |
 | 61 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
-| 62 | [I Get a Kick Out Of You](https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6) | [Esquivel Orquesta y Coros](https://open.spotify.com/artist/2sywuKSPUHekcJMmU628S6) | [Grandes Orquestas](https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw) | 2:38 |
-| 63 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
+| 62 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
+| 63 | [I Get a Kick Out Of You](https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6) | [Esquivel Orquesta y Coros](https://open.spotify.com/artist/2sywuKSPUHekcJMmU628S6) | [Grandes Orquestas](https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw) | 2:38 |
 | 64 | [Baía](https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Infinity in Sound, Vol\. 2](https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc) | 2:51 |
 | 65 | [La Mar](https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS) | [Eden's Island \(Remastered\)](https://open.spotify.com/album/1zEXjYvmffHT5H3YMnR88Q) | 2:45 |
 | 66 | [Baia](https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [Soundproof](https://open.spotify.com/album/0TmGdwZXnFFgDpVFk0FGtY) | 2:47 |

@@ -966,6 +966,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "date_added": "2024-04-12",
@@ -13538,10 +13542,32 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 177174,
       "name": "QUIET TYPE",
       "url": "https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM"
+    },
+    {
+      "album": {
+        "name": "QUIET TYPE",
+        "url": "https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "donSMITH",
+          "url": "https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177174,
+      "name": "QUIET TYPE",
+      "url": "https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2"
     },
     {
       "album": {

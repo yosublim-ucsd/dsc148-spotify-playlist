@@ -4,7 +4,7 @@
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. Joss Favela, Gera MX en portada.
 
-268 songs - 14 hr 8 min
+269 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 | 2023-01-13 | 2023-06-24 |
 | [MIAMI EN MEDELLIN](https://open.spotify.com/track/39sJX8UOZ0ToyCDpzmfHMN) | [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [MIAMI EN MEDELLIN](https://open.spotify.com/album/3nGkdL9m2604ySrRJqkwlz) | 3:06 | 2023-10-27 | 2023-12-09 |
 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 | 2023-08-11 |  |
-| [Modo Insano](https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I) | 3:16 | 2023-10-27 |  |
+| [Modo Insano](https://open.spotify.com/track/2sgfqE6JytPiRy3fEVhgR4) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/03zykUqjYLUH4x5mYJjd1w) | 3:16 | 2024-04-12 |  |
+| [Modo Insano](https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I) | 3:16 | 2023-10-27 | 2024-04-14 |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2023-08-25 |  |
 | [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 | 2024-03-15 |  |
 | [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-04-14 | 2023-05-20 |

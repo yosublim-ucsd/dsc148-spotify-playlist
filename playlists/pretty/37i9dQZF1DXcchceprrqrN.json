@@ -1,6 +1,6 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 72575,
+  "num_followers": 72599,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+        "name": "Race",
+        "url": "https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 260355,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+      "duration_ms": 151578,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA"
     },
     {
       "added_at": "2024-03-09 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 259239,
       "name": "Crust Bucket",
       "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
-        "name": "Race",
-        "url": "https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "The Same",
-      "url": "https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA"
     },
     {
       "added_at": "2024-03-09 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "Freak of Nature",
-        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 202889,
-      "name": "Freak Of Nature",
-      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
         "name": "<COPINGMECHANISM>",
         "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174313,
       "name": "WHY?",
       "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
     },
     {
       "added_at": "2024-03-09 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,573 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,578 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,7 +273,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 263 | [Trancesizer](https://open.spotify.com/track/5K4trn2IYoHZTAuS1oZSNv) | [E\-bony](https://open.spotify.com/artist/6XznOPxK8736MxOoKyZBvA) | [Stray Cats](https://open.spotify.com/album/3C7vNh81bdzlDEgXhiP3II) | 5:48 |
 | 264 | [CNTRL US](https://open.spotify.com/track/6EkChOeB6ExGbNCTSaiKuO) | [FATA BOOM](https://open.spotify.com/artist/4GioeqLGgBkn9rRB12bor4) | [BOA](https://open.spotify.com/album/66d3YQ2FsyDW1oUTpoEe0Z) | 3:17 |
 | 265 | [Vanishing Act](https://open.spotify.com/track/6iQt4NLg66oW2WDtM4NlSc) | [The Serfs](https://open.spotify.com/artist/4hGBPA9OiMmKdflu3mJO8o) | [Sounds of Serfdom](https://open.spotify.com/album/4gFzLOHDSn4mkZHuWBKh8F) | 3:36 |
-| 266 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
+| 266 | [Como un Dragón](https://open.spotify.com/track/6ZFd535tXhQH3u9H0nicJh) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/5Oefg2jL0u2ivQMIw02bY9) | 2:50 |
 | 267 | [24/7](https://open.spotify.com/track/0HEzXmxtvdjHcPgJW4Hw1K) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Fox](https://open.spotify.com/artist/7j5cjlpkpQCMvEfhCxHpDn) | [24 / 7](https://open.spotify.com/album/4MjxsNYkG5oaoJWPcWX8YD) | 4:10 |
 | 268 | [Throw It Down](https://open.spotify.com/track/5HSncYIiSbQ7BQbhKBoHQh) | [Dominique Young Unique](https://open.spotify.com/artist/6e9YXVneoNtzARrkVUauiz) | [Throw It Down](https://open.spotify.com/album/288UGY9vHGwSEzz95hJYKp) | 3:16 |
 | 269 | [All In Place \(feat\. Bearcubs\) \(Nathan Fake Remix\)](https://open.spotify.com/track/0CBK22JtRADJszMrZSbnBD) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Giving Up Air \(Remixes\)](https://open.spotify.com/album/6TitMGZay7YyY7a0msiknE) | 6:24 |

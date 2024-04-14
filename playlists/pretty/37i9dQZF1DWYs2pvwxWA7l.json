@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ruger & Bnxn",
-  "num_followers": 554682,
+  "num_followers": 554857,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9"
     },
     {
       "added_at": "2024-04-12 00:01:00",

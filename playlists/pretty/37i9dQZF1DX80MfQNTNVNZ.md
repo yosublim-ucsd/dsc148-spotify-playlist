@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,707 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,793 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 51 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 |
 | 52 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 53 | [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 |
-| 54 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
+| 54 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
 | 55 | [I'm free](https://open.spotify.com/track/4dolgjnfj6gJgTqw8FyalQ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:18 |
-| 56 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
+| 56 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 57 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
-| 58 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
+| 58 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 |
 | 59 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
-| 60 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 |
+| 60 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 
 Snapshot ID: `MTcxMjkzMTAwNSwwMDAwMDAwMDU1NDgzMGZjYzk0NTFhNzQ2MWQyYjJkMDNkNDNiMGI0`

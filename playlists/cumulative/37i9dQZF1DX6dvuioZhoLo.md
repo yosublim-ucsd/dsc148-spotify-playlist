@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-228 songs - 13 hr 30 min
+229 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ashes](https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 4:34 | 2023-10-06 |  |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-11-12 | 2022-07-28 |
 | [Better to My Baby](https://open.spotify.com/track/5s18OgMbxObkcqjLYKmA9z) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Better to My Baby](https://open.spotify.com/album/62VwM9Z6qTwE1kkoGm2Z53) | 3:11 | 2021-11-12 | 2022-07-13 |
-| [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 | 2021-11-12 |  |
+| [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 | 2021-11-12 | 2024-04-14 |
 | [Black & Blue](https://open.spotify.com/track/529y37n9VZXubT1KlWM78i) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [Listening to the Music](https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO) | 3:10 | 2021-11-12 | 2023-06-08 |
 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 | 2021-11-12 |  |
 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 | 2021-11-12 |  |
@@ -80,7 +80,7 @@
 | [Heart of Somebody](https://open.spotify.com/track/1qSllfUSfvfH0oDHQqROoK) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 | 2022-04-01 |  |
 | [Heartbreak Blues](https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 4:07 | 2021-11-12 | 2022-07-29 |
-| [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 | 2023-10-06 | 2024-02-29 |
+| [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 | 2023-10-06 |  |
 | [Hell's Bells](https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3) | [Lauren Shera](https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R) | [Gold and Rust](https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T) | 4:47 | 2022-04-01 | 2022-04-20 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-21 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-18 | 2023-04-30 |
@@ -88,6 +88,7 @@
 | [High Rise](https://open.spotify.com/track/26r7ckzM27o17eV3soHYWN) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/17pqCR4Q5CInYKj4VizvD8) | 4:49 | 2021-11-12 | 2022-07-29 |
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2021-11-12 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 | 2021-11-12 | 2024-04-13 |
+| [Holy Ghost Fire](https://open.spotify.com/track/6IYqvk4buGbKUpnfFdhQy9) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2) | 3:59 | 2023-10-06 |  |
 | [Honky Tonks and Taverns](https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 2:19 | 2022-04-01 | 2024-01-28 |
 | [Honky Tonks and Taverns](https://open.spotify.com/track/7A57mX7GPbD0uycT0gl1W2) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Honky Tonks and Taverns](https://open.spotify.com/album/7jHhUfLqcnVkyGmjldatPX) | 2:19 | 2021-11-12 | 2022-07-28 |
 | [Hotel Amarillo](https://open.spotify.com/track/5SDvZaLLRx5vw22lur128q) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 4:00 | 2021-11-12 | 2022-07-29 |
@@ -235,6 +236,6 @@
 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 |  |
 | [You Never Can Tell \(C'est la Vie\) \- 2003 Remaster](https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 3:28 | 2022-04-01 |  |
 | [You're Leaving Me](https://open.spotify.com/track/3nIU8jZVOqFv88bQbMrrNF) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [You're Leaving Me](https://open.spotify.com/album/33hGtYb71bdoDzQoJ4RIYP) | 2:29 | 2022-02-18 | 2022-07-28 |
-| [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:49 | 2021-11-12 |  |
+| [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:49 | 2021-11-12 | 2024-04-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,798 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,987 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 7 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
 | 8 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 9 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
-| 10 | [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 |
+| 10 | [leavemealone](https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 3:42 |
 | 11 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 12 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 13 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |

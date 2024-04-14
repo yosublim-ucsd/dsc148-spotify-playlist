@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 37 | [Ngohlala Ngi Nje](https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:58 |
 | 38 | [Stay Away \(From My Man\)](https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 3:46 |
 | 39 | [Ngizobuya](https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:04 |
-| 40 | [Dikonyana](https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx) | [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Refe Matla](https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8) | 4:56 |
+| 40 | [Elakho Likhona \(La Hao Le Teng\)](https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:39 |
 | 41 | [Uyang'Embarasa](https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:50 |
-| 42 | [Elakho Likhona \(La Hao Le Teng\)](https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:39 |
+| 42 | [Dikonyana](https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx) | [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Refe Matla](https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8) | 4:56 |
 | 43 | [Jiva](https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 5:07 |
-| 44 | [Higher & Higher](https://open.spotify.com/track/1TChq1bavjewut0EeXOmRu) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mama](https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42) | 4:30 |
-| 45 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 |
-| 46 | [Hamba Sathane](https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:50 |
+| 44 | [Somlandela](https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:51 |
+| 45 | [Higher & Higher](https://open.spotify.com/track/1TChq1bavjewut0EeXOmRu) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mama](https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42) | 4:30 |
+| 46 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 |
 | 47 | [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 |
-| 48 | [Don't Follow Me I'm Married](https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 4:37 |
-| 49 | [Ngiyakusaba](https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 5:14 |
-| 50 | [Somlandela](https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:51 |
+| 48 | [Hamba Sathane](https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:50 |
+| 49 | [Don't Follow Me I'm Married](https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 4:37 |
+| 50 | [Ngiyakusaba](https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 5:14 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDY2NDRkODExM2MwZjMxZDVmNGZmN2JhODc5MGRhNjQw`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDdkNWNkYzhkMDdmNmM4Yjc1YjBkNDRlOWVjODZmNmI4`

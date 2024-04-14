@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 118660,
+  "2024-04-14": 118840,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Neeraj Madhav",
   "name": "Hip-Hop Malayalam",
@@ -3077,6 +3077,24 @@
     {
       "album": {
         "name": "Vaa",
+        "url": "https://open.spotify.com/album/7MRTS8Io28S5g4P4o6mqtb"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167790,
+      "name": "Vaa",
+      "url": "https://open.spotify.com/track/50I3sAWquG9d5m6nXzMmIR"
+    },
+    {
+      "album": {
+        "name": "Vaa",
         "url": "https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1"
       },
       "artists": [
@@ -3087,7 +3105,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167790,
       "name": "Vaa",
       "url": "https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig"

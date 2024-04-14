@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-108 songs - 6 hr 41 min
+109 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Her & the Sea](https://open.spotify.com/track/3fXIgil7Wu5SIuvwICY511) | [CLANN](https://open.spotify.com/artist/0YN64WuO9KaKCUbTx8hNd0) | [Kin Fables](https://open.spotify.com/album/0Uf6UV3INFgG210s3v0yKR) | 3:42 | 2022-01-10 | 2022-03-31 |
 | [Horizon](https://open.spotify.com/track/0AOnNl1SVzTFWovqKJoSKk) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Horizon](https://open.spotify.com/album/4CCfBKrtjWQrtfmhyxB4DV) | 4:55 | 2022-01-10 | 2022-07-12 |
 | [Hoxa Sound](https://open.spotify.com/track/7uKJyU2UuZDEb98ENxk4kq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm \(Variations & B\-sides\)](https://open.spotify.com/album/55JLt4kV1iMlDMBVba8sSb) | 2:03 | 2023-02-01 |  |
-| [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 | 2023-02-01 |  |
+| [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 | 2023-04-21 |  |
+| [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 | 2023-02-01 | 2024-04-14 |
 | [I'll see you in 21 days](https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [I'll see you in 21 days](https://open.spotify.com/album/6JQWU4rb25aKO5HuKsWdXi) | 3:50 | 2022-10-28 | 2023-02-02 |
 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 | 2023-02-01 |  |
 | [In Cold Light](https://open.spotify.com/track/140jZx69WlaEovptyTYevr) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:52 | 2022-01-10 | 2023-02-02 |

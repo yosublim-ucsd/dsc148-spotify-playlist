@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,133 likes - 47 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,182 likes - 47 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 22 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/0p9RXscosrY9vbQv12ZcLh) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:09 |
 | 23 | [Third Rock From The Sun \(feat\. Brooks & Dunn\)](https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 2:50 |
 | 24 | [AIN'T A BAD DAY](https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:22 |
-| 25 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 |
-| 26 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
+| 25 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
+| 26 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 |
 | 27 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 2:41 |
 | 28 | [AIN'T NO BETTER PLACE \(feat\. HARDY\)](https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BETTER DAYS](https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe) | 2:26 |
 | 29 | [Fire up the Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 46 | [Life Had Plans For Me \(feat\. Parker Diffie\)](https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Parker Diffie](https://open.spotify.com/artist/1z95cM4b7vRkIkk778TMS1) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:45 |
 | 47 | [Down to the Bar \(feat\. HARDY\)](https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:15 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGY2M2VhMjRiNGQ2Y2Q5OGI2M2I3ODFkZjVmMzk4OGNh`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDI0MTQyNTc3YWJjMGUwOGZlNjJjZmEyYTdjNzBmNzZm`

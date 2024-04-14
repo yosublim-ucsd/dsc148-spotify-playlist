@@ -1,6 +1,6 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 362552,
+  "num_followers": 362596,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Jupiter 4",
-      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 200303,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 200303,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 272230,
       "name": "Water Me Down",
       "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+        "name": "Impossible Weight",
+        "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+      "duration_ms": 202493,
+      "name": "Impossible Weight - feat. Sharon Van Etten",
+      "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Impossible Weight",
-        "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
       },
       "artists": [
         {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 202493,
-      "name": "Impossible Weight - feat. Sharon Van Etten",
-      "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "When You Walk A Long Distance You Are Tired",
-        "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
-      },
-      "artists": [
-        {
-          "name": "Mothers",
-          "url": "https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv"
-        }
-      ],
-      "duration_ms": 333514,
-      "name": "It Hurts Until It Doesn't",
-      "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Thirstier",
         "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "When You Walk A Long Distance You Are Tired",
+        "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
+      },
+      "artists": [
+        {
+          "name": "Mothers",
+          "url": "https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv"
+        }
+      ],
+      "duration_ms": 333514,
+      "name": "It Hurts Until It Doesn't",
+      "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Pompeii",
-        "url": "https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 244576,
-      "name": "Moderation",
-      "url": "https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Pompeii",
+        "url": "https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 244576,
+      "name": "Moderation",
+      "url": "https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG"
     },
     {
       "added_at": "2023-10-27 04:00:00",

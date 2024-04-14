@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 116461,
+  "2024-04-14": 116475,
   "date_first_scraped": "2024-01-20",
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Marcell",
   "name": "Naik Daun",
@@ -4105,6 +4105,24 @@
       "duration_ms": 253244,
       "name": "Tunggulah Sebentar",
       "url": "https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq"
+    },
+    {
+      "album": {
+        "name": "Waktu Untuk Bicara",
+        "url": "https://open.spotify.com/album/11Ixya5PDx6Wn9Yiyo2jW3"
+      },
+      "artists": [
+        {
+          "name": "Devano",
+          "url": "https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "Waktu Untuk Bicara",
+      "url": "https://open.spotify.com/track/7LS4TvGDTt7G5BYSeyq8mq"
     },
     {
       "album": {

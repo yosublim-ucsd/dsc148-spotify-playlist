@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 6666,
+  "num_followers": 6671,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDhlNzE3Nzg4MzFlM2EzNzQ1MmI2MDlkMmQ0OTQ1ZjEw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGZmZDc3NmQ3MGExMjJiNTcyMTJjZmE2ZjVlZmM2MzA1",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 188493,
-      "name": "bad blood",
-      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+      "duration_ms": 188493,
+      "name": "bad blood",
+      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 195383,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortune Favors The Bold",
         "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
+      "duration_ms": 195383,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 240733,
       "name": "Way of Nature Way of Grace",
       "url": "https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     },
     {
       "added_at": null,

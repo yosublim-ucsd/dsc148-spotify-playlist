@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,673 likes - 139 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,839 likes - 139 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

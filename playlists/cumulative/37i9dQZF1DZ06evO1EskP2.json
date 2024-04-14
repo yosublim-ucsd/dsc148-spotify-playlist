@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
+    },
+    {
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
       },

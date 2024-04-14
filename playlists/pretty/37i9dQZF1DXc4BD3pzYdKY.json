@@ -1,6 +1,6 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
-  "num_followers": 153067,
+  "num_followers": 153149,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "I REMEMBER",
+        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 109730,
+      "name": "I REMEMBER",
+      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Marvelous",
         "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "I REMEMBER",
-        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 109730,
-      "name": "I REMEMBER",
-      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Bought By The Blood",
+        "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Bought By The Blood",
+      "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/2PrGDmCg9YstrYMAzTUmJK"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 167038,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5L8AE3fSYDlxaHjyP6FMA9"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Bought By The Blood",
-        "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
-      },
-      "artists": [
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Bought By The Blood",
-      "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "VICIOUS CYCLE",
-        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "VICIOUS CYCLE",
-      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Stand By Me (feat. B. Stokes)",
         "url": "https://open.spotify.com/album/4R8OHGqeTWkbpQQobTfMyL"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "VICIOUS CYCLE",
+        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "VICIOUS CYCLE",
+      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
@@ -1243,42 +1243,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Summer TKE",
-        "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
-      },
-      "artists": [
-        {
-          "name": "TKE3",
-          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "RIVALS",
-        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "RIVALS",
-      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -1291,6 +1255,22 @@
       "duration_ms": 115434,
       "name": "HE BACK!",
       "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Summer TKE",
+        "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "RIVALS",
+        "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "RIVALS",
+      "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 186713,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
       "artists": [
         {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 167727,
       "name": "Check Me Out",
       "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Free Indeed",
+        "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 187135,
+      "name": "Free Indeed",
+      "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Free Indeed",
-        "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
       },
       "artists": [
         {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
         }
       ],
-      "duration_ms": 187135,
-      "name": "Free Indeed",
-      "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
+      "duration_ms": 163862,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 170859,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1503,26 +1503,6 @@
       "duration_ms": 215693,
       "name": "Love It Here - Remix",
       "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "yall need GOD",
-        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
-      },
-      "artists": [
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "yall need GOD",
-      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1555,6 +1535,26 @@
       "duration_ms": 172205,
       "name": "TIL ITS DONE",
       "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "yall need GOD",
+        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "yall need GOD",
+      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
-      },
-      "artists": [
-        {
-          "name": "J Vessel",
-          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
-        }
-      ],
-      "duration_ms": 193596,
-      "name": "REASON",
-      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/05EE4iCaUFejExwC1xY7gr"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 175558,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
+      },
+      "artists": [
+        {
+          "name": "J Vessel",
+          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
+        }
+      ],
+      "duration_ms": 193596,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
-      },
-      "artists": [
-        {
-          "name": "KJ Carter",
-          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
-        },
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        }
-      ],
-      "duration_ms": 135254,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 159200,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
+      },
+      "artists": [
+        {
+          "name": "KJ Carter",
+          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
+        },
+        {
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        }
+      ],
+      "duration_ms": 135254,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
     },
     {
       "added_at": "2024-04-05 04:00:00",

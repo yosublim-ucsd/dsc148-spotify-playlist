@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,611 likes - 142 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,800 likes - 142 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 35 | [Smoke \(Prod\. Dynamicduo, Padi\) \- Remix](https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5) | [Smoke \(Remix\)](https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk) | 4:43 |
 | 36 | [HUH?! \(feat\. j\-hope\)](https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:03 |
 | 37 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 |
-| 38 | [MY NAME IS \(Feat\. Tray B\)](https://open.spotify.com/track/7eMjdhp767PF9F8cAbIyJr) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Tray B](https://open.spotify.com/artist/42UC2FPFpWl0phKNeoDvtH) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 2:22 |
+| 38 | [MY NAME IS \(Feat\. Tray B\)](https://open.spotify.com/track/7eMjdhp767PF9F8cAbIyJr) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 2:22 |
 | 39 | [MOVING](https://open.spotify.com/track/2YXcHVVkT8zPcnrm5rIU4e) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MOVING](https://open.spotify.com/album/2ntq2amfKd4kykIV6f6ZSt) | 2:23 |
 | 40 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
 | 41 | [Ghost](https://open.spotify.com/track/1RomIFRvHC7GI484Mwpusl) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Ghost](https://open.spotify.com/album/2S26DTyEtqysktNNYLKZCb) | 3:08 |

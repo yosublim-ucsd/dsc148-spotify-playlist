@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 705607,
+  "2024-04-14": 705633,
   "date_first_scraped": "2022-05-09",
   "description": "",
   "name": "PARTY MODE",
@@ -5922,6 +5922,32 @@
     },
     {
       "album": {
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128024,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "album": {
         "name": "Million Ways (Remixes)",
         "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
       },
@@ -8227,7 +8253,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"

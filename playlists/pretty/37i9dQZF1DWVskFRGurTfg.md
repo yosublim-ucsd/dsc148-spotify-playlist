@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Bizarrap & Natanael Cano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335,298 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336,071 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 52 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
 | 53 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 |
 | 54 | [Lollipop \- Remix](https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Lollipop \(Remix\)](https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR) | 4:26 |
-| 55 | [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 |
+| 55 | [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 |
 | 56 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 57 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 |
 | 58 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |

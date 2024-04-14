@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 2656032,
+  "2024-04-14": 2656089,
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
   "name": "Classic Acoustic",
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 314080,
       "name": "It Ain't Over Yet",
       "url": "https://open.spotify.com/track/7GJlAXotjV4uNS1seUDcVE"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 252093,
       "name": "Long Time Comin'",
       "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"

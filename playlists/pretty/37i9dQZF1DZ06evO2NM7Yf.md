@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. The essential tracks, all in one playlist.
+> This is Meg Smith\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 19 songs - 56 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 19 songs - 56 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 11 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
 | 12 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 |
 | 13 | [Fuck Friday](https://open.spotify.com/track/2Pp6DTAzahkBjtQZvuunre) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD) | 3:08 |
-| 14 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
-| 15 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 |
-| 16 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
+| 14 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
+| 15 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
+| 16 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 |
 | 17 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
-| 18 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
-| 19 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
+| 18 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
+| 19 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDJlMzIxNjkzZjQ0ZTE2M2ZkZDEyMjYxMTgyMzhiZGY1`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDc5YTQxZTBjMzFlNjcwN2E4MzMyZGQxZGZlNWMzYWYw`

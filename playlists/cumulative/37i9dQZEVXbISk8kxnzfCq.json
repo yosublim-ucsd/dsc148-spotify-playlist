@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -8034,7 +8034,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -12220,10 +12220,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -12720,7 +12738,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
@@ -14260,7 +14278,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2FT0GRV9dOFe9rpwoZWgis"

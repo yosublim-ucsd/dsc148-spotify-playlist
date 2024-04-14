@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,221 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,599 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 14 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 15 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
 | 16 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
-| 17 | [Rhythm Is a Dancer](https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY) | 5:32 |
-| 18 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
+| 17 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
+| 18 | [Rhythm Is a Dancer](https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY) | 5:32 |
 | 19 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
 | 20 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 21 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 |
-| 22 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
-| 23 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 |
+| 22 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 |
+| 23 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
 | 24 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
 | 25 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 26 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |

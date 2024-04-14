@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 48499,
+  "num_followers": 48536,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
-      },
-      "artists": [
-        {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 225000,
       "name": "Later Alligator (See You Later, Alligator)",
       "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
+      },
+      "artists": [
+        {
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 188360,
       "name": "Slider",
       "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
       },
       "artists": [
         {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
       "artists": [
         {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
-      },
-      "artists": [
-        {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
-        }
-      ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 238315,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
       "artists": [
         {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -979,6 +963,22 @@
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1079,6 +1079,42 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
+        "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        },
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        },
+        {
+          "name": "Speckled Red",
+          "url": "https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV"
+        },
+        {
+          "name": "Little Brother Montgomery",
+          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
+        },
+        {
+          "name": "Jack Dupree",
+          "url": "https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn"
+        }
+      ],
+      "duration_ms": 131099,
+      "name": "Boyd's Boogie Woogie",
+      "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Hightower Boogie Woogie",
         "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
@@ -1123,42 +1159,6 @@
       "duration_ms": 165626,
       "name": "Twelfth St Boogie",
       "url": "https://open.spotify.com/track/3gxXvhQVvIHT2vbjP5UIjK"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
-        "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        },
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        },
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        },
-        {
-          "name": "Speckled Red",
-          "url": "https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV"
-        },
-        {
-          "name": "Little Brother Montgomery",
-          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
-        },
-        {
-          "name": "Jack Dupree",
-          "url": "https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn"
-        }
-      ],
-      "duration_ms": 131099,
-      "name": "Boyd's Boogie Woogie",
-      "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
     },
     {
       "added_at": "2023-09-15 11:42:58",

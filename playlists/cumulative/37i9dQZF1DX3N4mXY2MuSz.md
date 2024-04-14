@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks.
 
-197 songs - 10 hr 7 min
+198 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [West Coast Christmas](https://open.spotify.com/track/1nmmMpmT0QpNV8Uk7bLuwz) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless for the Holidays \- EP](https://open.spotify.com/album/2F1pjEHty0MRxnfPZy1KgD) | 3:14 | 2021-11-19 | 2022-07-29 |
 | [What Do the Lonely Do at Christmas?](https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy) | [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC), [GET TUFF](https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy) | [A Very Skatune Christmas](https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0) | 3:20 | 2021-11-19 | 2022-07-28 |
 | [When Snow Falls](https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [When Snow Falls](https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP) | 3:10 | 2021-11-19 | 2022-07-20 |
+| [When Snow Falls](https://open.spotify.com/track/2QG3NpGPXfssvQ7XXTeXKP) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6TbA8AzpmI44P4IxOyXXih) | 3:10 | 2023-11-18 |  |
 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 | 2021-11-19 |  |
 | [White Christmas](https://open.spotify.com/track/3UQOYpKeLqhvy2inGi9YIZ) | [Moonlight Social](https://open.spotify.com/artist/48PBERzNchz4E1ZYAiQWUa) | [White Christmas](https://open.spotify.com/album/73ifVn1xIZBAEW7RmoDVri) | 1:52 | 2021-11-19 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 | 2021-11-19 |  |
@@ -196,7 +197,7 @@
 | [Wonderful Christmastime](https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:45 | 2021-11-19 | 2022-11-13 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-11-19 |  |
 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 | 2021-11-19 | 2022-07-29 |
-| [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 | 2021-11-19 |  |
+| [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 | 2021-11-19 | 2024-04-14 |
 | [X\-mas Has Been X'ed](https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n) | 2:43 | 2021-11-19 | 2022-07-26 |
 | [X\-Mas in Texas](https://open.spotify.com/track/5UkZgMr850fF5mSzJXaGil) | [Driver Friendly](https://open.spotify.com/artist/4UVsgNJN4uOvnnItAllNcQ) | [Hopeless for the Holidays \- EP](https://open.spotify.com/album/2F1pjEHty0MRxnfPZy1KgD) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 | 2021-11-19 | 2022-07-29 |

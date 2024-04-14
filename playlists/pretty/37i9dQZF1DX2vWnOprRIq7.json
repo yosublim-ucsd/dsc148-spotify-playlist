@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 17915,
+  "num_followers": 17933,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174418,
       "name": "Amor de Verano - Remix",
       "url": "https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -497,28 +497,8 @@
         }
       ],
       "duration_ms": 208278,
-      "name": "Luminosidad",
+      "name": "Luminosidad - Remix",
       "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "No te sueltes",
-        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ubilla",
-          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
-        },
-        {
-          "name": "Felicia Morales",
-          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
-        }
-      ],
-      "duration_ms": 225002,
-      "name": "No te sueltes",
-      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -579,6 +559,42 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "No te sueltes",
+        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ubilla",
+          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+        },
+        {
+          "name": "Felicia Morales",
+          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+        }
+      ],
+      "duration_ms": 225002,
+      "name": "No te sueltes",
+      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Bajo la piel",
+        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 240113,
+      "name": "Bajo la piel",
+      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -783,22 +803,38 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Bajo la piel",
-        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+        "name": "LOGO",
+        "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
       },
       "artists": [
         {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
         },
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Franzizca",
+          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
         }
       ],
-      "duration_ms": 240113,
-      "name": "Bajo la piel",
-      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+      "duration_ms": 225000,
+      "name": "AMANECER (Remix)",
+      "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "BERLIN",
+        "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 257042,
+      "name": "BERLIN",
+      "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -827,26 +863,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
       },
@@ -863,38 +879,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "BERLIN",
-        "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
       },
       "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
         {
           "name": "FERMIN",
           "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 257042,
-      "name": "BERLIN",
-      "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "LOGO",
-        "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
-      },
-      "artists": [
-        {
-          "name": "planta",
-          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
-        },
-        {
-          "name": "Franzizca",
-          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "AMANECER (Remix)",
-      "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+      },
+      "artists": [
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 193149,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
-      },
-      "artists": [
-        {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
-        }
-      ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 254583,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Debilidad",
+        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        }
+      ],
+      "duration_ms": 263546,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Suave Vendaval (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 263013,
       "name": "Suave Vendaval - DJ TOI Remix",
       "url": "https://open.spotify.com/track/6TlD64R2Ltt54ZELepGpSZ"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Debilidad",
-        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
     },
     {
       "added_at": "2024-04-12 03:00:00",

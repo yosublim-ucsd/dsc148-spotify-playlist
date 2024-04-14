@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 ### [This Is Mariah Carey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w0gZW)
 
-> This Is Mariah Carey\. Los temas esenciales, todos en una lista.
+> This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,941 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,037 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 5 | [Obsessed](https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 4:02 |
 | 6 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 7 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 |
-| 8 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 |
-| 9 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
+| 8 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
+| 9 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
 | 10 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
-| 11 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
-| 12 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 |
+| 11 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 |
+| 12 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/1UjPANunXLp0G9hbQNyPh9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:34 |
 | 13 | [Bye Bye](https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:26 |
 | 14 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 |
 | 15 | [Heartbreaker \(feat\. Jay\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 49 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
 | 50 | [I Don't Wanna Cry](https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:48 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGM0MmMyNDc4MGY1YjZkNGUwMTg1MWY1NzBmZTY0Nzlj`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDM0NzIzNTkwY2I5OWFlYWIwZDgyOGViY2ZiZWU1NzE2`

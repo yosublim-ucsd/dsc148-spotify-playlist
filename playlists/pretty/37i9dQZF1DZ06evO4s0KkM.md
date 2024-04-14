@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,257 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,283 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 27 | [Finnegan's Wake](https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
 | 28 | [Walk Away](https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:51 |
 | 29 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 |
-| 30 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
-| 31 | [My Eyes Are Gonna Shine](https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:12 |
+| 30 | [My Eyes Are Gonna Shine](https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:12 |
+| 31 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
 | 32 | [Queen Of Suffolk County](https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:51 |
 | 33 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 34 | [\(F\)lannigan's Ball](https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [God Willing](https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:16 |
 | 50 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:25 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDgyZDgyZTQ1YzRlYWE0ZjRiOWViMmViOWUwYjg1MmZh`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDYyYTA3Y2IyNzExOGY0YTU0NzAwNzBkNWEzM2I3MTY4`

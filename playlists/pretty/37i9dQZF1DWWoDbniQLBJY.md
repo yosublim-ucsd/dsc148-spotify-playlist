@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,940,740 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,940,727 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 32 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
 | 33 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
 | 34 | [No Ha Parado de Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 |
-| 35 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
-| 36 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 |
+| 35 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 |
+| 36 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
 | 37 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
 | 38 | [El Embrujo](https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh) | [El Embrujo](https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7) | 3:58 |
 | 39 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 |
-| 40 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 |
-| 41 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
+| 40 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
+| 41 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 |
 | 42 | [7 Meses](https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [7 Meses](https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR) | 2:55 |
 | 43 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |
 | 44 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 73 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 |
 | 74 | [A Mí y a Nadie Más](https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [A Mí y a Nadie Más](https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P) | 2:37 |
 | 75 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
-| 76 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 |
-| 77 | [Pasajera](https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Pasajera](https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy) | 2:27 |
+| 76 | [Pasajera](https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Pasajera](https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy) | 2:27 |
+| 77 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 |
 | 78 | [Si hubieras querido \- Versión acústica](https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:15 |
 | 79 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 |
 | 80 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 94 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 |
 | 95 | [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 |
 | 96 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 97 | [plan \(acústico\)](https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan \(acústico\)](https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP) | 3:21 |
-| 98 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 |
+| 97 | [desde que estas en mi vida](https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT) | 3:22 |
+| 98 | [plan \(acústico\)](https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan \(acústico\)](https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP) | 3:21 |
 | 99 | [Dimos Tanto](https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dimos Tanto](https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo) | 3:09 |
-| 100 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 |
+| 100 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 |
 
 Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGIwOWYxMGE4MDYzOGU5MzA2ODM2ZTc5NTI5MGY4MDdj`

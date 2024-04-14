@@ -1,12 +1,12 @@
 {
-  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
-  "num_followers": 41512,
+  "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
+  "num_followers": 41522,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDg5ZmVhNjUyOWIwYTZmMDM2NzlmNWExZGFlNWY4MjE3",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRiMTZiMWMxN2MxZTQ3ZGE3YmVjOTM1MGU5MjE2ODFh",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": null,
@@ -1035,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goofy, Pt. 2 (Remix)",
-        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Goofy, Pt. 2 - Remix",
-      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9chalo Pa' Ca",
         "url": "https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 222911,
       "name": "\u00c9chalo Pa' Ca",
       "url": "https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goofy, Pt. 2 (Remix)",
+        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Goofy, Pt. 2 - Remix",
+      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
     },
     {
       "added_at": null,

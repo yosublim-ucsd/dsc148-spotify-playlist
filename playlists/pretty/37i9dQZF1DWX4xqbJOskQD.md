@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 32 | [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 2:37 |
 | 33 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
 | 34 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 |
-| 35 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
-| 36 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 |
+| 35 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 |
+| 36 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
 | 37 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
 | 38 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
 | 39 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1009095,
+  "2024-04-14": 1009194,
   "date_first_scraped": "2022-02-09",
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
   "name": "La + Chingona",
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202556,
       "name": "Estoy Perdiendo La Raz\u00f3n",
       "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
@@ -2087,6 +2087,28 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "album": {
@@ -4037,6 +4059,28 @@
       "duration_ms": 238809,
       "name": "V\u00edctimas",
       "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
+    },
+    {
+      "album": {
+        "name": "Whitexican",
+        "url": "https://open.spotify.com/album/7FyAzl9Gz0Jxj3myAaqCE3"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176878,
+      "name": "Whitexican",
+      "url": "https://open.spotify.com/track/5tmN9xtyTHnbr6mfEyclsU"
     },
     {
       "album": {

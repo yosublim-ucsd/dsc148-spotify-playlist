@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 22532,
+  "num_followers": 22537,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDAyM2NiMGQxZWVlOTBhMTRhNjY4MWE0YmZkYzNiMjg2",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGQwNTEyN2YyODRmZmQ0NGM3ODQzYzc5YmEwNjcwZDE5",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Old Time Country Halls",
-      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
+      "duration_ms": 195600,
+      "name": "Never Was At All",
+      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Never Was At All",
-      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
+      "duration_ms": 174773,
+      "name": "Old Time Country Halls",
+      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
-      },
-      "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        },
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -315,22 +295,6 @@
       "duration_ms": 271133,
       "name": "We've Done Us Proud",
       "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
     },
     {
       "added_at": null,
@@ -351,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 219493,
       "name": "Under The Spell Of Highway One",
       "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
     },
     {
       "added_at": null,

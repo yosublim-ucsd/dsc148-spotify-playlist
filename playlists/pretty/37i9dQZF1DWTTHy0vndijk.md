@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: woo!ah!\(우아!\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,899 likes - 57 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,968 likes - 57 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,25 +40,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 30 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
 | 31 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 |
 | 32 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 |
-| 33 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
-| 34 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
+| 33 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
+| 34 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
 | 35 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 36 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 37 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 38 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
-| 39 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
-| 40 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
-| 41 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 39 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
+| 40 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
+| 41 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
 | 42 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 43 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 |
 | 44 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
 | 45 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 46 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 47 | [Me Gustas Tu](https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:40 |
-| 48 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
-| 49 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
-| 50 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
-| 51 | [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 |
+| 48 | [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 |
+| 49 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
+| 50 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 |
+| 51 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
 | 52 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 | 53 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
 | 54 | [Y.O.Universe](https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [SeVit \(NEW LIGHT\)](https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak) | 2:34 |

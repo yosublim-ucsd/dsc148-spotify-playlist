@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 229565,
       "name": "Bring On Up Our Love",
       "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 370006,
       "name": "Dub 002",
       "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Rye Lane (Vol. 2 & 3)",
+        "url": "https://open.spotify.com/album/4i3630YAcy4KKcx4FeZ8Ea"
+      },
+      "artists": [
+        {
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143917,
+      "name": "Many Schools",
+      "url": "https://open.spotify.com/track/564xALv1R2GoLTiT2ZsO0s"
+    },
+    {
+      "album": {
         "name": "Golden Cage EP",
         "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 239249,
       "name": "Mercury Moments",
       "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
@@ -1842,6 +1860,28 @@
       "duration_ms": 131764,
       "name": "Midnight - Ambient Edit",
       "url": "https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY"
+    },
+    {
+      "album": {
+        "name": "Midnight in Peckham",
+        "url": "https://open.spotify.com/album/1FkRaulfd1pFzkwzB61vgE"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Isaac Aesili",
+          "url": "https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420919,
+      "name": "Midnight in Peckham",
+      "url": "https://open.spotify.com/track/1CzfZY7lXaysy84x3a2jix"
     },
     {
       "album": {
@@ -2950,7 +2990,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"

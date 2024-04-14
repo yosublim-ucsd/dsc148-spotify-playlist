@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 194726,
+  "num_followers": 194910,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 224016,
       "name": "Samba saravah",
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "Clear Skies",
+        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Clear Skies",
+      "url": "https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Clear Skies",
-        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Clear Skies",
-      "url": "https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Bossa Antigua",
-        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
         "name": "Cosme Velho",
         "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+        "name": "Bossa Antigua",
+        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
       },
       "artists": [
         {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+      "duration_ms": 282560,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1095,6 +1079,22 @@
       "duration_ms": 170418,
       "name": "Strangers in the Night",
       "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW"
+      },
+      "artists": [
+        {
+          "name": "The Cloud",
+          "url": "https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9"
+        }
+      ],
+      "duration_ms": 227678,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "Braziliana",
         "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 133093,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW"
-      },
-      "artists": [
-        {
-          "name": "The Cloud",
-          "url": "https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9"
-        }
-      ],
-      "duration_ms": 227678,
-      "name": "Beatriz",
-      "url": "https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
         "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
         "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 376440,
       "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Press\u00e1gio",
-        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 397571,
-      "name": "Press\u00e1gio",
-      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
         "name": "Seu Sorriso",
         "url": "https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs"
       },
@@ -1519,50 +1503,18 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
       },
       "artists": [
         {
-          "name": "Lighthouse Lounge Band",
-          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
         }
       ],
-      "duration_ms": 263536,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
-      },
-      "artists": [
-        {
-          "name": "Hiro Suzuki",
-          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
-        }
-      ],
-      "duration_ms": 420811,
-      "name": "Vespertine",
-      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "\u00c1guas Do Passado",
-        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
-      },
-      "artists": [
-        {
-          "name": "Sara Santos",
-          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
-        }
-      ],
-      "duration_ms": 142623,
-      "name": "\u00c1guas Do Passado",
-      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1583,6 +1535,54 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+      },
+      "artists": [
+        {
+          "name": "Hiro Suzuki",
+          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+        }
+      ],
+      "duration_ms": 420811,
+      "name": "Vespertine",
+      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Lounge Band",
+          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
+        }
+      ],
+      "duration_ms": 263536,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "\u00c1guas Do Passado",
+        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "duration_ms": 142623,
+      "name": "\u00c1guas Do Passado",
+      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 240072,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "Once Forgotten",
         "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 247711,
       "name": "Once Forgotten",
       "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Sobre o oceano",
-        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 170259,
-      "name": "Sobre o oceano",
-      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1691,6 +1675,22 @@
       "duration_ms": 207879,
       "name": "Call on me softly",
       "url": "https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Sobre o oceano",
+        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Sobre o oceano",
+      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Time Passes By",
-        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonzalez",
-          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
-        }
-      ],
-      "duration_ms": 151877,
-      "name": "Time Passes By",
-      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Time Passes By",
+        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "duration_ms": 151877,
+      "name": "Time Passes By",
+      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1971,8 +1971,8 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+        "name": "Just Chill and Breathe",
+        "url": "https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA"
       },
       "artists": [
         {
@@ -1980,9 +1980,9 @@
           "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
         }
       ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+      "duration_ms": 191156,
+      "name": "Just Chill and Breathe",
+      "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -1999,22 +1999,6 @@
       "duration_ms": 199875,
       "name": "Rio",
       "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2051,8 +2035,24 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Just Chill and Breathe",
-        "url": "https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA"
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
       },
       "artists": [
         {
@@ -2060,9 +2060,9 @@
           "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
         }
       ],
-      "duration_ms": 191156,
-      "name": "Just Chill and Breathe",
-      "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2079,6 +2079,22 @@
       "duration_ms": 160847,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2115,22 +2131,6 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Ondas Cintilantes",
-        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 178123,
-      "name": "Ondas Cintilantes",
-      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
         "name": "Praia \u00e0 noite",
         "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
       },
@@ -2143,6 +2143,22 @@
       "duration_ms": 180610,
       "name": "Praia \u00e0 noite",
       "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2175,22 +2191,6 @@
       "duration_ms": 233499,
       "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
-      },
-      "artists": [
-        {
-          "name": "Stockholm Whereabouts",
-          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
+        "name": "C\u00e9u Tropical",
+        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "C\u00e9u Tropical",
+      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
+    },
+    {
+      "added_at": "2024-04-10 10:48:24",
+      "album": {
         "name": "Standard Deviations",
         "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 292933,
       "name": "Voce Vai Ver",
       "url": "https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM"
-    },
-    {
-      "added_at": "2024-04-10 10:48:24",
-      "album": {
-        "name": "C\u00e9u Tropical",
-        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "C\u00e9u Tropical",
-      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
     },
     {
       "added_at": "2024-04-10 10:48:24",
@@ -2583,18 +2583,22 @@
     {
       "added_at": "2024-04-10 10:48:24",
       "album": {
-        "name": "Scintilla",
-        "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
+        "name": "O Pato",
+        "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
       "artists": [
         {
-          "name": "Gabriella Vargas Luna",
-          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
+          "name": "Nate Najar",
+          "url": "https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd"
+        },
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
         }
       ],
-      "duration_ms": 154137,
-      "name": "Scintilla",
-      "url": "https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw"
+      "duration_ms": 193253,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
     }
   ],
   "unique_name": "Bossa Chill",

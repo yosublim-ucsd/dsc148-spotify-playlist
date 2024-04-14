@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,997 likes - 27 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,036 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 17 | [i need to be alone.](https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY) | 2:56 |
 | 18 | [dead girl in the pool.](https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [dead girl in the pool.](https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo) | 3:06 |
 | 19 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
-| 20 | [say anything](https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [say anything](https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL) | 2:22 |
-| 21 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
-| 22 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc) | 2:53 |
+| 20 | [Phantom Pain](https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:51 |
+| 21 | [say anything](https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [say anything](https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL) | 2:22 |
+| 22 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
 | 23 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
-| 24 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
-| 25 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
-| 26 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
+| 24 | [A Night To Remember](https://open.spotify.com/track/0OAye4UT21h2iC72vGVuqC) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:50 |
+| 25 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc) | 2:53 |
+| 26 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
 | 27 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
+| 28 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
+| 29 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
+| 30 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
+| 31 | [Ugly Side](https://open.spotify.com/track/43bVi48NVZVDClxsXksTtC) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:54 |
+| 32 | [Pick Me](https://open.spotify.com/track/5ZNxEg7CJo2zSdOXLrv1kW) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 3:02 |
+| 33 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGFiYzAzYjI5OGNlMTNkOWI5ZjRiN2E5Mjc0YjU2MWU1`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGVmOTFlZDI1Zjg5OGUyZmU3OTZhZWEyZDRlMmRlMTRm`

@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 608712,
+  "num_followers": 609567,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDZlZGE2NGE2MTk2YzYyMjFhODEwMTViYjBmZjNiNDg1",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDBlNjgyZTM4YjYyMDczNDhmZDRhZTg0ZTQwNmI4ZTg1",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOU LOU",
-        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOU LOU",
+        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": null,
@@ -412,13 +412,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4"
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
     },
     {
       "added_at": null,
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
+      "duration_ms": 182666,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 40231,
+  "num_followers": 40280,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "Todo Lo Que Se Fue",
+        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Todo Lo Que Se Fue",
+      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "Ll\u00e9vame (Cultura Remix)",
         "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 264913,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "Todo Lo Que Se Fue",
-        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Todo Lo Que Se Fue",
-      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Parte de Mi",
-        "url": "https://open.spotify.com/album/0vvdJDTLfDihtP5T7E9dxh"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 175401,
-      "name": "Parte de Mi",
-      "url": "https://open.spotify.com/track/2PWFmOpcKb31Fu8QJj1STa"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 194981,
       "name": "Ay, Ay",
       "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Parte de Mi",
+        "url": "https://open.spotify.com/album/0vvdJDTLfDihtP5T7E9dxh"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 175401,
+      "name": "Parte de Mi",
+      "url": "https://open.spotify.com/track/2PWFmOpcKb31Fu8QJj1STa"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 259536,
-      "name": "Despertador Solar",
-      "url": "https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "C\u00f3mo Ver?",
         "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 308522,
       "name": "C\u00f3mo Ver?",
       "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 259536,
+      "name": "Despertador Solar",
+      "url": "https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Ilegal - En Vivo",
-      "url": "https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
@@ -1207,6 +1191,30 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     }
   ],
   "unique_name": "Atardecer en la playa",

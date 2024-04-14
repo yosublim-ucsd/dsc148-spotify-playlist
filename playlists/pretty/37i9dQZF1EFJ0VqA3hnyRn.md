@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 250 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 250 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 10 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 11 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 |
 | 12 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
-| 13 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
-| 14 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
+| 13 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
+| 14 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 15 | [I Don't Mind \(feat\. Juicy J\)](https://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [I Don't Mind \(feat\. Juicy J\)](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) | 4:11 |
 | 16 | [In My Head](https://open.spotify.com/track/5BoIP8Eha5hwmRVURkC2Us) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo](https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7) | 3:18 |
 | 17 | [Man Down](https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:27 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 100 | [Love Me Badder](https://open.spotify.com/track/3RtuzesB8hFETgOwj8ojzP) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:54 |
 | 101 | [You \(feat\. Remy Ma & French Montana\)](https://open.spotify.com/track/0yrRMqTTz5behxCQ8Elggf) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [11:11 Reset](https://open.spotify.com/album/7AXUeodoVqnIM9vvK5RYgm) | 3:53 |
 | 102 | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/track/4on9QW1gRc1etKGIubQzWn) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/album/0nmW7UfAZynPbnkff9gE9f) | 4:47 |
-| 103 | [Priceless](https://open.spotify.com/track/4Zw1r9tBYeD961hTGANm7v) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:52 |
-| 104 | [Sexy Beaches \(feat\. Chloe Angelides\)](https://open.spotify.com/track/4QjPFQa2qSqn1GKHwb976V) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:57 |
+| 103 | [Sexy Beaches \(feat\. Chloe Angelides\)](https://open.spotify.com/track/4QjPFQa2qSqn1GKHwb976V) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:57 |
+| 104 | [Priceless](https://open.spotify.com/track/4Zw1r9tBYeD961hTGANm7v) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:52 |
 | 105 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 106 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 |
 | 107 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 114 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 |
 | 115 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
 | 116 | [Rich \(feat\. August Alsina\)](https://open.spotify.com/track/2ISkefAz7mMFraeKHIYodY) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ), [Augusta Alsina](https://open.spotify.com/artist/3yf9M0BHlsSM7uhowQrdT3) | [Rich \(feat\. August Alsina\)](https://open.spotify.com/album/0ZHbSx4zEjHL0wGMLsUEQh) | 4:07 |
-| 117 | [Singing in the Rain](https://open.spotify.com/track/7zOs2hkIhTL8Bipkj9LZd0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Singing in the Rain](https://open.spotify.com/album/2aNzx5jwcCoZdZoQEFveRt) | 3:29 |
-| 118 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
+| 117 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
+| 118 | [Singing in the Rain](https://open.spotify.com/track/7zOs2hkIhTL8Bipkj9LZd0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Singing in the Rain](https://open.spotify.com/album/2aNzx5jwcCoZdZoQEFveRt) | 3:29 |
 | 119 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 |
 | 120 | [Massacre](https://open.spotify.com/track/35TzX56MU1bvVRhLuLeqzz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:26 |
 | 121 | [Personal Hell](https://open.spotify.com/track/42YK2C6gVonEJHpa7dGByb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:40 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 249 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 250 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1NDk1ODAsMDAwMDAwMDBmMDBkNWQ4MTEyZmI3MWU0NmM2OWQxNmIzNTE0ZTI3NA==`
+Snapshot ID: `Mjg1NTEwODQsMDAwMDAwMDBlNDM1MTg5NmEyZGMzODFmNDY2ODg1MmQ2ZjgzYjU5Yg==`

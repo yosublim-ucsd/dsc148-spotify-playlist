@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-107 songs - 5 hr 39 min
+108 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 | 2023-12-08 |  |
 | [El Pais de Alicia](https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Difícil Ser Humano](https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e) | 3:03 | 2023-12-08 |  |
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2023-12-08 |  |
-| [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 | 2023-12-08 |  |
+| [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 | 2023-12-08 | 2024-04-14 |
 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 | 2023-12-08 |  |
 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 | 2024-04-04 |  |
 | [Enamorado de la Muerte](https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB) | 3:49 | 2023-12-08 |  |
@@ -86,6 +86,7 @@
 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 | 2023-12-08 |  |
 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 | 2023-12-28 |  |
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
+| [Nuestra guerra](https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Nuestra guerra](https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf) | 5:05 | 2024-04-11 |  |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 |  |
 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 | 2023-12-08 |  |
 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 | 2024-01-18 |  |

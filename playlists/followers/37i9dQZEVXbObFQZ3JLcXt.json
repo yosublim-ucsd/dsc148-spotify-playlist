@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 753614,
+  "2024-04-14": 753881,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Indonesia.",
   "name": "Top 50 - Indonesia",
@@ -7243,7 +7243,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
@@ -8603,7 +8603,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

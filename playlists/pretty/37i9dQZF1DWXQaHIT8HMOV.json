@@ -1,6 +1,6 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz",
-  "num_followers": 2562,
+  "num_followers": 2582,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Salary",
+        "url": "https://open.spotify.com/album/2hseTT6MxZLw9PiuqwHoDQ"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Salary",
+      "url": "https://open.spotify.com/track/2Oz0WCiNMXnAtPbBf5Uzy9"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 230500,
       "name": "SHE WAAN",
       "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Salary",
-        "url": "https://open.spotify.com/album/2hseTT6MxZLw9PiuqwHoDQ"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        },
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Salary",
-      "url": "https://open.spotify.com/track/2Oz0WCiNMXnAtPbBf5Uzy9"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
+        "name": "Abeeyo",
+        "url": "https://open.spotify.com/album/3jApHQPhttpEFWxyx9OnaH"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Abeeyo",
+      "url": "https://open.spotify.com/track/1duc3xfXWOgV9nq2w7cBIN"
+    },
+    {
+      "added_at": "2024-04-12 12:19:17",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -663,22 +683,22 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Abeeyo",
-        "url": "https://open.spotify.com/album/3jApHQPhttpEFWxyx9OnaH"
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx"
       },
       "artists": [
         {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
         },
         {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+          "name": "Naava Grey",
+          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Abeeyo",
-      "url": "https://open.spotify.com/track/1duc3xfXWOgV9nq2w7cBIN"
+      "duration_ms": 225473,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -715,26 +735,6 @@
       "duration_ms": 180781,
       "name": "Kimugunyu",
       "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
-    },
-    {
-      "added_at": "2024-04-12 12:19:17",
-      "album": {
-        "name": "Found You",
-        "url": "https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Naava Grey",
-          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
-        }
-      ],
-      "duration_ms": 225473,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
     },
     {
       "added_at": "2024-04-12 12:19:17",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-04-12 12:19:17",
       "album": {
-        "name": "Muntu Wange",
-        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
+        "name": "Sumagiza",
+        "url": "https://open.spotify.com/album/62EA7ktWVkqJSodSQgxtv8"
       },
       "artists": [
         {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+          "name": "JLAKug",
+          "url": "https://open.spotify.com/artist/6PIbmNxv4RzozuFvX1uOGh"
+        },
+        {
+          "name": "Hatim and Dokey",
+          "url": "https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Muntu Wange",
-      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+      "duration_ms": 208800,
+      "name": "Sumagiza",
+      "url": "https://open.spotify.com/track/5TGDdmSgCybtcm4u2vFkfk"
     }
   ],
   "unique_name": "Made In Uganda",

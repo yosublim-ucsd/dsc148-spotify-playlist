@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1945988,
+  "num_followers": 1946014,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 194813,
       "name": "McKenzie",
       "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -575,6 +575,26 @@
       "duration_ms": 253733,
       "name": "I Need Never Get Old",
       "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Flight of the Crow",
+        "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Shape of Love",
+      "url": "https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -615,26 +635,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Flight of the Crow",
-        "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        },
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Shape of Love",
-      "url": "https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Passing Through",
         "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 215269,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Hey Julia",
+        "url": "https://open.spotify.com/album/4pLagd0VHyYyVc1daB8ELM"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 119590,
+      "name": "Hey Julia",
+      "url": "https://open.spotify.com/track/7DCYDSGbWgYEMNtXYAAroM"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Hey Julia",
-        "url": "https://open.spotify.com/album/4pLagd0VHyYyVc1daB8ELM"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 119590,
-      "name": "Hey Julia",
-      "url": "https://open.spotify.com/track/7DCYDSGbWgYEMNtXYAAroM"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Devarrow",
+          "url": "https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ"
         }
       ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+      "duration_ms": 195680,
+      "name": "Little Road",
+      "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Life's What You Make It",
         "url": "https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 186109,
       "name": "Life's What You Make It",
       "url": "https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
-      },
-      "artists": [
-        {
-          "name": "Devarrow",
-          "url": "https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Little Road",
-      "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1623,34 +1639,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+        "name": "Pure Serotonin",
+        "url": "https://open.spotify.com/album/3tqL1cqH0EyDDntHkU0qTE"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "New Mythology",
-        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 214987,
-      "name": "Brother To You",
-      "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/0C51lHdZ9TQ8mS9ETwWgft"
     }
   ],
   "unique_name": "Happy Folk",

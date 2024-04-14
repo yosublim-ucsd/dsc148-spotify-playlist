@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,262 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,275 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 13 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
 | 14 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
 | 15 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
-| 16 | [Don't Stop The Music](https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:27 |
-| 17 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 |
+| 16 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 |
+| 17 | [Don't Stop The Music](https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:27 |
 | 18 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 19 | [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 |
 | 20 | [Pump It](https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 3:33 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 32 | [My Humps](https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 5:26 |
 | 33 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 |
 | 34 | [Me Enamoré](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:46 |
-| 35 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
-| 36 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
+| 35 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
+| 36 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
 | 37 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
 | 38 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 39 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 141394,
+  "2024-04-14": 141418,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh rock from independent artists every Wednesday. Cover: Slow Joy",
   "name": "Fresh Finds Rock ",
@@ -21305,6 +21305,24 @@
     {
       "album": {
         "name": "Hometown Vampire",
+        "url": "https://open.spotify.com/album/75gCVc5enHhla8zBWqGRaV"
+      },
+      "artists": [
+        {
+          "name": "Elijah Johnston",
+          "url": "https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83404,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/1lGxw1hH4hYVXYVsBBQjHH"
+    },
+    {
+      "album": {
+        "name": "Hometown Vampire",
         "url": "https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3"
       },
       "artists": [
@@ -21315,7 +21333,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 83404,
       "name": "Syrup",
       "url": "https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx"

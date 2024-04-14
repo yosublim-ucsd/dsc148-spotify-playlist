@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,619,372 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,619,556 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
 | 2 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 3 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
-| 4 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
-| 5 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
+| 4 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
+| 5 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 6 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
 | 7 | [Nobody \(feat\. Athena Cage\)](https://open.spotify.com/track/4SF1747p541umnykBp352Q) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Athena Cage](https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:24 |
 | 8 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 21 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 22 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 | 23 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 |
-| 24 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
-| 25 | [This Is for the Lover in You](https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Three for Love](https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X) | 5:04 |
+| 24 | [This Is for the Lover in You](https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Three for Love](https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X) | 5:04 |
+| 25 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
 | 26 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 |
 | 27 | [Beauty](https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:32 |
 | 28 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 |

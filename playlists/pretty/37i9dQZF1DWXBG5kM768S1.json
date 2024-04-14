@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 73863,
+  "num_followers": 73876,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 253946,
       "name": "Gressholmen",
       "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
         }
       ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
     },
     {
       "added_at": "2024-04-11 22:00:00",

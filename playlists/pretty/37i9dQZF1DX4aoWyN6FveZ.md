@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,674 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,686 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 | 14 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 |
 | 15 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 16 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
-| 17 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 |
-| 18 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 |
+| 17 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 |
+| 18 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 |
 | 19 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 20 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
 | 21 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |

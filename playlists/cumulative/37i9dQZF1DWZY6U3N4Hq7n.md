@@ -4,7 +4,7 @@
 
 > Grab your leg warmers and spandex: let's get physical!
 
-202 songs - 14 hr 15 min
+203 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Can You Feel It](https://open.spotify.com/track/5HIDIRwU38XVBozdoQwCml) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:47 | 2021-12-22 | 2022-07-29 |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2021-12-22 |  |
 | [Celebration \- Single Version](https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w) | 3:35 | 2021-12-22 | 2022-07-29 |
-| [Celebration \- Single Version](https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:38 | 2021-12-22 |  |
+| [Celebration \- Single Version](https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:38 | 2021-12-22 | 2024-04-14 |
 | [Cruel Summer](https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 3:35 | 2021-12-22 |  |
 | [Dance Hall Days \(Re\-Recorded\)](https://open.spotify.com/track/41OIyMJsSFMjdjZjL4tHEx) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Best Of](https://open.spotify.com/album/1DzIw8WIJpOlUI5HhuezwO) | 3:58 | 2021-12-22 | 2022-07-29 |
 | [Danger Zone](https://open.spotify.com/track/2CJtimCSGAn8x6RE3irZFV) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Top Gun Deluxe Edition](https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg) | 3:36 | 2021-12-22 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 | 2021-12-22 | 2022-11-13 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/0chepvx95ZlIxsu3UdRjgj) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Hits Of The 80s](https://open.spotify.com/album/0zPUfMqIUwToTHyUzK7GUx) | 4:01 | 2021-12-22 | 2022-07-29 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2021-12-22 |  |
+| [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2024-03-19 |  |
 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/5gW8pmQV69okQ3cNz0RSKg) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:40 | 2021-12-22 | 2022-07-29 |
 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 | 2021-12-22 |  |
 | [Kids In America](https://open.spotify.com/track/0q4xWbV08szzUpGPhVsrcD) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [The Very Best Of Kim Wilde](https://open.spotify.com/album/0W8AprzSATgTr5urju5yYz) | 3:24 | 2021-12-22 | 2022-07-29 |

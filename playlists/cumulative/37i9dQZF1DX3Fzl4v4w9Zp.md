@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Marcus King
 
-653 songs - 1 day 16 hr 22 min
+654 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,7 +638,8 @@
 | [Workin' On A World](https://open.spotify.com/track/3oRtsritMRck27VJpy7gLr) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/3FZlD5JhglhV1LJKHQyGFD) | 3:49 | 2023-04-28 | 2024-02-24 |
 | [Workin' On A World](https://open.spotify.com/track/7iNIav1ARUCoXCj5bKAfvq) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World / Goin' Down To Sing In Texas](https://open.spotify.com/album/0eWjR6Bw5j7cBraXBVbAUF) | 3:49 | 2023-01-13 | 2023-04-30 |
 | [Workin' On A World](https://open.spotify.com/track/7yyGEv2aSNb2fdaS0Z08Xh) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/4U3WkH4IzvJM2FE6Ie40aZ) | 3:49 | 2023-03-17 | 2023-04-30 |
-| [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 | 2023-11-10 |  |
+| [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 | 2023-11-10 | 2024-04-14 |
+| [World Worth Keeping](https://open.spotify.com/track/2xt8NrvTSiliSBmu9XbP23) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:42 | 2024-03-29 |  |
 | [Worry 'Bout My Wandering](https://open.spotify.com/track/2UZ5QAynCXV3f2aja4bgpG) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering](https://open.spotify.com/album/6OWfvkLDLekKnwUsO2VUQq) | 3:06 | 2024-04-12 |  |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-12-17 | 2022-04-02 |
 | [Wouldn't Know You](https://open.spotify.com/track/1qSjMi8VqbytnNdEkYs6PL) | [Sarah Borges](https://open.spotify.com/artist/6Vu5c9m4WdJcjsLAWaExMH), [Eric Ambel](https://open.spotify.com/artist/1rXo0MAHZ3gkwNctFPcR4z), [Keith Voegele](https://open.spotify.com/artist/74W2mUs8utceZufCpqZujp) | [Together Alone](https://open.spotify.com/album/69mIss6NHmhcrOKk1xPSIh) | 3:14 | 2022-02-22 | 2022-09-24 |

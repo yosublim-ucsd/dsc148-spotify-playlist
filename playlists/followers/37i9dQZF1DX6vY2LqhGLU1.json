@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 78399,
+  "2024-04-14": 78393,
   "date_first_scraped": "2022-05-11",
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
   "name": "Christmas Worship",
@@ -2997,7 +2997,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214253,
       "name": "One Holy Night",
       "url": "https://open.spotify.com/track/05JQUrXeFXSsbayUCyXgPQ"
@@ -3117,6 +3117,28 @@
       "duration_ms": 227230,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1omPPso8Q4XPxYiq1fAGxm"
+    },
+    {
+      "album": {
+        "name": "Christmas Project",
+        "url": "https://open.spotify.com/album/0rucfIW1wbjRJMlNABTwcr"
+      },
+      "artists": [
+        {
+          "name": "Stefan Green",
+          "url": "https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO"
+        },
+        {
+          "name": "LIV Village",
+          "url": "https://open.spotify.com/artist/1Ek8IAtzWrHNCs9fs3cZ2Y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Remember Bethlehem",
+      "url": "https://open.spotify.com/track/1iL9haFbuUdqM6zeAAVKG5"
     },
     {
       "album": {

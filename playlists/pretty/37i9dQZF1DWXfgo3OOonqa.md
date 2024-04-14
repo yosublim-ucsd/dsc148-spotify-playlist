@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,419 likes - 98 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,464 likes - 98 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 30 | [AMSTERDAM](https://open.spotify.com/track/1Ouk8i5yWxd1YqAh0ncT8o) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [AMSTERDAM](https://open.spotify.com/album/1aoABq2Wnb0rr5eFgtV43B) | 2:43 |
 | 31 | [Growth](https://open.spotify.com/track/6HpbfGgTW5XM02eoaCxu0T) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Growth](https://open.spotify.com/album/4jubSQ4fw5ZKO8As8EJ4B6) | 2:46 |
 | 32 | [INGENMANSLAND](https://open.spotify.com/track/2BQmt4F5sljuRBGjy3z031) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [INGENMANSLAND](https://open.spotify.com/album/0623OHXfWOVDd74K8lrwO6) | 2:43 |
-| 33 | [KRIGSZON](https://open.spotify.com/track/1p6i2cNojYsiwt7VKNs4QR) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [KRIGSZON](https://open.spotify.com/album/7iLEI7SDwBp5m1ALRE75Ig) | 2:25 |
+| 33 | [KRIGSZON](https://open.spotify.com/track/1p6i2cNojYsiwt7VKNs4QR) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [KRIGSZON](https://open.spotify.com/album/7iLEI7SDwBp5m1ALRE75Ig) | 2:25 |
 | 34 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
 | 35 | [Another Life](https://open.spotify.com/track/2wiOlhShsbs9SkPKNcAmfP) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Another Life](https://open.spotify.com/album/13GFx5SvMb47nDweS6Vltt) | 2:46 |
 | 36 | [Tipsy](https://open.spotify.com/track/2xqhHTLMhve15V1WwRpQCf) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:27 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 39 | [Svalen till grammis](https://open.spotify.com/track/2SxOcZ9qTi8oRgViQFE4gF) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Svalen till grammis](https://open.spotify.com/album/4AqhSm1RxCLe3G6a5r5GHr) | 2:42 |
 | 40 | [Övertramp](https://open.spotify.com/track/0zihCT6mFDwiyi9oM6pZ1R) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Övertramp](https://open.spotify.com/album/7jwlYCv68I4dKrXsurASEJ) | 3:00 |
 | 41 | [Djungeln \(feat\. GULEED\)](https://open.spotify.com/track/7ryxRAMzW1MEC1grNhcTHp) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Djungeln \(feat\. GULEED\)](https://open.spotify.com/album/3AqQnBtOK6HtW2gpyyD6pw) | 1:52 |
-| 42 | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 |
+| 42 | [MINNS DU? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [MINNS DU? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 |
 | 43 | [LEGACY](https://open.spotify.com/track/6Oc6hi5JyL1Q4M3GruTr9H) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:30 |
 | 44 | [Skitz/Face ID](https://open.spotify.com/track/2vkuGMrfovItY96pmT5Dq8) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Skitz/Face ID](https://open.spotify.com/album/0aqHbgEnvWltvYclkRj2aa) | 2:09 |
 | 45 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 59 | [Kall värld](https://open.spotify.com/track/28Iaq4R297QtPW3Tm9F0da) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Kall värld](https://open.spotify.com/album/7i7r8kUXRWveVURz5P4Q2V) | 3:07 |
 | 60 | [MAMACITA](https://open.spotify.com/track/4vVucbd3TgLY9iMy9mZoJM) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [MAMACITA](https://open.spotify.com/album/6LUg01USLyu7uaciczVxHU) | 2:17 |
 | 61 | [007](https://open.spotify.com/track/0WWYoV3hnGOpSnmc8BL5ZQ) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [007](https://open.spotify.com/album/0ZgI6oOlIQ76n6mW8Nm5VY) | 2:15 |
-| 62 | [Svart Ferrari](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Svart Ferrari](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 |
+| 62 | [SVART FERRARI](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [SVART FERRARI](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 |
 | 63 | [STICKY](https://open.spotify.com/track/2TJHQcYJVjpHOYoa8NeumK) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [STICKY](https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6) | 2:36 |
 | 64 | [Likkle Boy](https://open.spotify.com/track/1Pbc670CnjRQT2z7W7WzDN) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Likkle Boy](https://open.spotify.com/album/6UoEY8gw0sUG1YReQCc1O7) | 2:00 |
 | 65 | [TSM](https://open.spotify.com/track/1qLHJiRgdNgJ3JB2cdM6sl) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 |

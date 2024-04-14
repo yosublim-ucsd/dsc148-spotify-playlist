@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1592884,
+  "2024-04-14": 1593055,
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:5WcisvYoq6332gCUX039Jd\">We Are Messengers</a> ",
+  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:1scVfBymTr3CeZ4imMj1QJ\">Forrest Frank</a> ",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236785,
       "name": "1000 Names",
       "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
@@ -57,6 +57,24 @@
       "duration_ms": 137150,
       "name": "A Four Chord Protest",
       "url": "https://open.spotify.com/track/4YXswxrwfmRRbpSLgnSJnA"
+    },
+    {
+      "album": {
+        "name": "A Great Awakening",
+        "url": "https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241928,
+      "name": "A Great Awakening",
+      "url": "https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887"
     },
     {
       "album": {
@@ -496,6 +514,50 @@
     },
     {
       "album": {
+        "name": "All Of A Sudden / Another One",
+        "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475718,
+      "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
+    },
+    {
+      "album": {
+        "name": "All Of My Days",
+        "url": "https://open.spotify.com/album/1w18hePhR6H40r1bvhegck"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "All Of My Days - Psalm 23",
+      "url": "https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx"
+    },
+    {
+      "album": {
         "name": "All Things",
         "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
       },
@@ -507,7 +569,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189799,
       "name": "All Things",
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
@@ -1783,7 +1845,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
@@ -2253,7 +2315,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206164,
       "name": "Darling Jesus - Special Version",
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
@@ -10010,6 +10072,28 @@
     },
     {
       "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
+    },
+    {
+      "album": {
         "name": "Paul & Silas (At Midnight) [Live]",
         "url": "https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM"
       },
@@ -13708,6 +13792,32 @@
     },
     {
       "album": {
+        "name": "To Hell With The Devil (RISE) [From the Inspired By Soundtrack \"Unsung Hero\"]",
+        "url": "https://open.spotify.com/album/77N6hkhoAC5Rp2SSPs49dC"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210767,
+      "name": "To Hell With The Devil (RISE) [From the Inspired By Soundtrack \"Unsung Hero\"]",
+      "url": "https://open.spotify.com/track/2G8V2smFvDr3EthQFL488i"
+    },
+    {
+      "album": {
         "name": "Always Only Jesus",
         "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
@@ -14967,7 +15077,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 303647,
       "name": "You Carried Me - Jekalyn's Version",
       "url": "https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj"

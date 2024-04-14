@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247164,
+  "num_followers": 247181,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "Ordinary Drugs",
+        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 421700,
+      "name": "These Are Just Places To Me Now",
+      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ordinary Drugs",
-        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 421700,
-      "name": "These Are Just Places To Me Now",
-      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Moving Men",
-      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/2Z2gj2b0aWREukQZtRGMR6"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 215768,
       "name": "Blackpool Boulevard - Edit",
       "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/2Z2gj2b0aWREukQZtRGMR6"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
         }
       ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+      "duration_ms": 192386,
+      "name": "Stay With You - Radio Version",
+      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Horchata",
         "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 322014,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2024-04-05 00:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 387214,
+  "2024-04-14": 387531,
   "date_first_scraped": "2021-12-21",
   "description": "Pop to fuel your gaming. Cover: Madge",
   "name": "Ultimate Pop Gaming",
@@ -423,7 +423,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170858,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"
@@ -6639,6 +6639,28 @@
       "duration_ms": 133509,
       "name": "UH OH! (feat. BENEE)",
       "url": "https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"
+    },
+    {
+      "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
     },
     {
       "album": {

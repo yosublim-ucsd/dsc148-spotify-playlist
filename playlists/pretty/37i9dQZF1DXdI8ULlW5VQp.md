@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,523 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,545 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 29 | [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 |
 | 30 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 | 31 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 |
-| 32 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
-| 33 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
+| 32 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
+| 33 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
 | 34 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
 | 35 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 | 36 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |

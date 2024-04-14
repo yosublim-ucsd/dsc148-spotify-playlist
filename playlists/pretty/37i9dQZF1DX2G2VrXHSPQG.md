@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,269 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,306 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 46 | [Desire](https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Sorry](https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd) | 4:44 |
 | 47 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 |
 | 48 | [Cardiac Arrest](https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9) | 3:02 |
-| 49 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
-| 50 | [Bummerland](https://open.spotify.com/track/11CuPgsnoErQX18rH4gXLM) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 3:09 |
+| 49 | [Bummerland](https://open.spotify.com/track/11CuPgsnoErQX18rH4gXLM) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 3:09 |
+| 50 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
 | 51 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
 | 52 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/0qPLNGJhvrhuuayoKhTR3B) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:05 |
 | 53 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |

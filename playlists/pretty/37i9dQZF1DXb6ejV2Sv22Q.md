@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > Raza..\. si dios me castigo con algo fue con dinero, nomás pa que sepan AHHHHH JA JA JAAAAA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,215 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,237 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 46 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
 | 47 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 |
 | 48 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
-| 49 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
-| 50 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
+| 49 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
+| 50 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 51 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
-| 52 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
-| 53 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 |
+| 52 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 |
+| 53 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 54 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
 | 55 | [ABRE LAS PATOTAS](https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [ABRE LAS PATOTAS](https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI) | 2:49 |
 | 56 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |

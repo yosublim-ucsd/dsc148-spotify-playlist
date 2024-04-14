@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 150846,
+  "2024-04-14": 150877,
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: wiranda johansen",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: doppel gangs",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -289,6 +289,32 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "album": {
+        "name": "Bailemos",
+        "url": "https://open.spotify.com/album/4dC3rGkZlJfEAQ7muyCRsN"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/3SAwclJKzyaTe435Xeu8vB"
     },
     {
       "album": {
@@ -667,7 +693,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195715,
       "name": "Dame",
       "url": "https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq"
@@ -1810,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Momento de Fe",
+        "url": "https://open.spotify.com/album/4RAQ1BWTyoy2213F8YlyCq"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168380,
+      "name": "Momento de Fe",
+      "url": "https://open.spotify.com/track/33G4Qp8lIYsLlj8HZ5Nf76"
+    },
+    {
+      "album": {
         "name": "Morena m\u00eda",
         "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
@@ -2543,7 +2587,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197790,
       "name": "Seremos Idiotas",
       "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
@@ -2845,6 +2889,28 @@
       "duration_ms": 143200,
       "name": "TLDMPDFDS",
       "url": "https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG"
+    },
+    {
+      "album": {
+        "name": "TODO & nada",
+        "url": "https://open.spotify.com/album/2AGVhIhJXLdyMdARFzDIQs"
+      },
+      "artists": [
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137041,
+      "name": "TODO & nada",
+      "url": "https://open.spotify.com/track/4y5iaAapB3yFa5fdY8ATXS"
     },
     {
       "album": {

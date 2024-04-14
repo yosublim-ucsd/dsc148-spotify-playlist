@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "never was much of a poet",
+        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
+      },
+      "artists": [
+        {
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138286,
+      "name": ":(",
+      "url": "https://open.spotify.com/track/7boo7kVLI2XCfKTXgNVOFy"
+    },
+    {
+      "album": {
         "name": "Smile Now Cry Never",
         "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 128431,
       "name": "Belong Together (Sped Up)",
       "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 126671,
       "name": "Carnival x Fein",
       "url": "https://open.spotify.com/track/1PjFe5afpVknL7VEsnXZQA"
@@ -7442,6 +7460,24 @@
       "duration_ms": 139764,
       "name": "CURSED",
       "url": "https://open.spotify.com/track/5kobhRGVKZeSvklVCr8zR6"
+    },
+    {
+      "album": {
+        "name": "never was much of a poet",
+        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
+      },
+      "artists": [
+        {
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117281,
+      "name": "cut your thighs",
+      "url": "https://open.spotify.com/track/5pjMc7ZAou73bEYt3TEvXR"
     },
     {
       "album": {
@@ -12076,7 +12112,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -17291,6 +17327,24 @@
     },
     {
       "album": {
+        "name": "Keby bola Boy",
+        "url": "https://open.spotify.com/album/4P4fHmud4VL3KfAQqgczS8"
+      },
+      "artists": [
+        {
+          "name": "TERA",
+          "url": "https://open.spotify.com/artist/6i81Cb6goDI8I6xo2VCYIP"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146264,
+      "name": "Keby bola Boy",
+      "url": "https://open.spotify.com/track/4q1gR3zxKeVOMtSyYpXaug"
+    },
+    {
+      "album": {
         "name": "O2H",
         "url": "https://open.spotify.com/album/2kfbPWfCU1pcyVJBL3SIg2"
       },
@@ -17392,7 +17446,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 114635,
       "name": "KETAMINE",
       "url": "https://open.spotify.com/track/4t7iX6xIg5HQE8ZNziM0Ev"
@@ -22718,7 +22772,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 184371,
       "name": "My Type",
       "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"

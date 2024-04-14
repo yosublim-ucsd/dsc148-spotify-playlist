@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 311235,
+  "num_followers": 311449,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 226324,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "100 A\u00f1os",
         "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 207360,
       "name": "Cu\u00e1ndo sale la luna",
       "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
-        "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
+        "name": "A Todas Las Que Am\u00e9",
+        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Inocente Pobre Amigo",
-      "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+      "duration_ms": 161426,
+      "name": "Una P\u00e1gina M\u00e1s",
+      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "A Todas Las Que Am\u00e9",
-        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
+        "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
+        "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
       "artists": [
         {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Una P\u00e1gina M\u00e1s",
-      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+      "duration_ms": 245133,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Taco Placero",
-        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Rata De Dos Patas",
-      "url": "https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "Eso Y M\u00e1s",
         "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
       },
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Rata De Dos Patas",
+      "url": "https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
         "name": "La Reina Canta A Mexico",
         "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
       },
@@ -1319,22 +1351,6 @@
       "duration_ms": 251666,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "La Coleccion Del Siglo - Federico Villa",
         "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 210453,
       "name": "Caminos de Michoac\u00e1n",
       "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Amarte A La Antigua",
-        "url": "https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Amarte A La Antigua",
-      "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -1591,6 +1559,38 @@
       "duration_ms": 233666,
       "name": "Asi Te Quiero - Con Mariachi",
       "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Amarte A La Antigua",
+        "url": "https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Amarte A La Antigua",
+      "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
     },
     {
       "added_at": "2024-04-08 23:07:12",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-04-08 23:07:12",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
-    },
-    {
-      "added_at": "2024-04-08 23:07:12",
-      "album": {
         "name": "Un Hombre Derecho",
         "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 203573,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
+    },
+    {
+      "added_at": "2024-04-08 23:07:12",
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2024-04-08 23:07:12",

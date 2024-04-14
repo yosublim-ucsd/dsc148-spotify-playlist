@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Picus
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,817 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,904 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 37 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 |
 | 38 | [Enredao](https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Enredao](https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7) | 2:52 |
 | 39 | [Wapo y Mamón](https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/3W7MWJVkuX7CWc7QT3Wr2A) | 2:16 |
-| 40 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
-| 41 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
+| 40 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
+| 41 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 42 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
 | 43 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 44 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 |

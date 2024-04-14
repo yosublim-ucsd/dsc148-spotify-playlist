@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-362 songs - 1 day 5 hr 20 min
+363 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Machete](https://open.spotify.com/track/68mXF4xBYqzdzqhTsJTuy1) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ) | 3:48 | 2021-12-24 |  |
 | [Mad Over Me](https://open.spotify.com/track/09YigjsvaBb24afspOfYfc) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Anthology: Young, Gifted and Yellow](https://open.spotify.com/album/6XnNBdFSYV3U1k8tkhfVNM) | 3:25 | 2021-12-24 |  |
 | [Make Believe Mambo](https://open.spotify.com/track/74V0PhSWlBtHvBQAMYMgsX) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Rei Momo](https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6) | 5:23 | 2022-04-01 |  |
-| [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 | 2023-04-12 |  |
+| [Malemolencia](https://open.spotify.com/track/4yOCbdjfT2zCSImNhTvDq9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 2:54 | 2023-04-12 |  |
+| [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 | 2023-04-12 | 2024-04-14 |
 | [Malukayi \(feat\. Konono N°1\)](https://open.spotify.com/track/2LVQqp4NLjGHu611rqZIQb) | [Mbongwana Star](https://open.spotify.com/artist/2zvrV2uB7FH9HAGsg93cMy), [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk) | [From Kinshasa](https://open.spotify.com/album/4jxadKQuiYYef3vwEenlZh) | 6:00 | 2021-12-24 | 2023-11-11 |
 | [Malukayi \(feat\. Konono Nº1\)](https://open.spotify.com/track/1vDOs3MwgSUuttYrfGHEH4) | [Mbongwana Star](https://open.spotify.com/artist/2zvrV2uB7FH9HAGsg93cMy), [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk) | [From Kinshasa](https://open.spotify.com/album/2mYTgzQ3GJ0GseYefPIwRl) | 6:02 | 2021-12-24 |  |
 | [Mambo Bado](https://open.spotify.com/track/2KFZhuHm34tRAJFdrgOvM0) | [Orchestra Makassy](https://open.spotify.com/artist/4zp34cpBPuvTnEnMQOEon3) | [Legends Of East Africa](https://open.spotify.com/album/4PszVdqCNrVmwlRV2WAiUk) | 5:26 | 2021-12-24 |  |

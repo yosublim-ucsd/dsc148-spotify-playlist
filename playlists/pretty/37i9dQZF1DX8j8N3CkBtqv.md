@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,878 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,905 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kahaniyaan](https://open.spotify.com/track/6XLgtXAkU6hCIEPkWDN9rB) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 2:19 |
 | 2 | [Phir Bhi Bekarar](https://open.spotify.com/track/3RBNus42uAT8P5GGUyINIq) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Phir Bhi Bekarar](https://open.spotify.com/album/3HAcUjsJyp1BtHc043dycS) | 2:33 |
-| 3 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/7m6cZU7vZ820wck1T542vf) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 |
+| 3 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 |
 | 4 | [Humse Wafaaein](https://open.spotify.com/track/6wp9ybw0b5cvcVJjOC5e7g) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Humse Wafaaein](https://open.spotify.com/album/3ag5dn4E3mRsC3aTx9caia) | 3:31 |
 | 5 | [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 |
 | 6 | [Haqeeqat ke pare](https://open.spotify.com/track/4h6exJROqnGgi8geRMyCde) | [Kapow!](https://open.spotify.com/artist/6wcAvk3vwdgF03WziIJa6H), [Sana Arora](https://open.spotify.com/artist/33Q40lJ8jvHRpaAS8sb0dJ) | [Haqeeqat ke pare](https://open.spotify.com/album/4UP52gcocxTGDk9RdvZpkh) | 2:40 |

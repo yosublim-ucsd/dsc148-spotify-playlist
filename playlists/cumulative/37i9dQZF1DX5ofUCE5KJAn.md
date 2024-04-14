@@ -4,7 +4,7 @@
 
 > Un surtido rico de canciones con sabor a México.
 
-279 songs - 15 hr 21 min
+280 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-09-19 |  |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2022-05-23 |  |
 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 | 2022-09-12 | 2023-11-30 |
+| [La Mushasha Shula](https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:46 | 2023-08-08 |  |
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-09-12 |  |
 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 | 2022-09-12 |  |
 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 | 2022-09-12 | 2022-09-18 |
@@ -159,8 +160,8 @@
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-09-19 | 2023-02-25 |
 | [No Es Justo X Él](https://open.spotify.com/track/1abq2ZMsFEU3YEfHzuf8cs) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:35 | 2022-05-23 | 2022-07-22 |
 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 | 2022-08-31 | 2023-08-24 |
-| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-08-08 |  |
-| [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 | 2023-08-08 | 2024-04-01 |
+| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-08-08 | 2024-04-14 |
+| [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 | 2023-08-08 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2022-09-12 | 2023-02-25 |
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2022-05-23 |  |
 | [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 | 2023-08-08 | 2024-02-24 |
@@ -197,7 +198,7 @@
 | [Por Mujeres Como Tu](https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mi Historia \- Pepe Aguilar](https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn) | 4:21 | 2022-05-23 | 2022-07-29 |
 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 | 2022-05-23 |  |
 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 | 2022-05-23 | 2022-09-01 |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 | 2024-04-14 |
 | [Prometiste](https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 3:36 | 2022-05-23 | 2022-09-01 |
 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 | 2023-02-24 | 2023-03-06 |
 | [Que No Quede Huella](https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ) | 2:56 | 2022-05-23 |  |

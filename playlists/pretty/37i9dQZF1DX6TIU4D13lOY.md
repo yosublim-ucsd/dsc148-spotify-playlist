@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,957 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,026 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 5 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
 | 6 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
 | 7 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
-| 8 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
-| 9 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 |
+| 8 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 |
+| 9 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 10 | [Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [On the Waters](https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7) | 3:12 |
 | 11 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 |
 | 12 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 23 | [The Things We Do For Love](https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Deceptive Bends](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) | 3:27 |
 | 24 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 25 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
-| 26 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
-| 27 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
+| 26 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
+| 27 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
 | 28 | [Sometimes When We Touch](https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW) | 4:12 |
 | 29 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
 | 30 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 31 | [I Just Want To Be Your Everything](https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Flowing Rivers](https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf) | 3:45 |
 | 32 | [How Long](https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z) | [Ace](https://open.spotify.com/artist/5zWjD9ZjC2Lo0BB1M9gSC4) | [Five\-A\-Side](https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh) | 3:24 |
 | 33 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
-| 34 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
-| 35 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
+| 34 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
+| 35 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
 | 36 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
 | 37 | [Your Smiling Face](https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 2:45 |
 | 38 | [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 |

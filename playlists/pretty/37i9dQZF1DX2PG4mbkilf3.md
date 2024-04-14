@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,401 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,445 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm You](https://open.spotify.com/track/5gdzZZkkk4KcBR7zFaGWhY) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:07 |
 | 2 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
-| 3 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
+| 3 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 4 | [Back For More](https://open.spotify.com/track/6V05qFS4oDAO7WjUSKh9tp) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Back For More](https://open.spotify.com/album/1iDvvvirRGmT74hyU0AsZt) | 2:43 |
 | 5 | [Lalalala](https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Lalalala](https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY) | 2:50 |
 | 6 | [USC](https://open.spotify.com/track/3RN2DysOt9NcUu0JUGeQPV) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [USC](https://open.spotify.com/album/5cfGuaVcSO8XL15VpKfgm8) | 2:11 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 60 | [Consume](https://open.spotify.com/track/1xfDL6kiwXdsbHyDCBImBr) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Consume](https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk) | 2:49 |
 | 61 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 |
 | 62 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 |
-| 63 | [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 |
+| 63 | [QUIET TYPE](https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V) | 2:57 |
 | 64 | [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 |
 | 65 | [Slow Down](https://open.spotify.com/track/4uti0PZJXWZheQCwzn381X) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Slow Down](https://open.spotify.com/album/7qMA7vSCMWaAeyDRIO2JOM) | 2:58 |
 | 66 | [U & I](https://open.spotify.com/track/2Y7vm5KiCXERuJ0iTT9Cok) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [U & I](https://open.spotify.com/album/5a2s9ithAdnKaFNNKqjQhk) | 2:45 |

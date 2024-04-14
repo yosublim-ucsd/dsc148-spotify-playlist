@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1312473,
+  "2024-04-14": 1312607,
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop Cover: Conan Gray",
+  "description": "next gen pop Cover: Sabrina Carpenter",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -920,6 +920,24 @@
     },
     {
       "album": {
+        "name": "99 boys",
+        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146317,
+      "name": "99 boys",
+      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
+    },
+    {
+      "album": {
         "name": "<maybe> it's my fault",
         "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
@@ -1689,6 +1707,24 @@
       "duration_ms": 209275,
       "name": "All Your Exes",
       "url": "https://open.spotify.com/track/2SDswD3RdceDWthkgCrCCU"
+    },
+    {
+      "album": {
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "album": {
@@ -3981,7 +4017,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 153016,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH"
@@ -4550,6 +4586,24 @@
     },
     {
       "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151738,
+      "name": "Bourgeoisieses",
+      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
+    },
+    {
+      "album": {
         "name": "Boy Next Door",
         "url": "https://open.spotify.com/album/7kl8zBNtKkeAE61yr3d4QM"
       },
@@ -4727,7 +4781,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 133887,
       "name": "boys beware",
       "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
@@ -8378,6 +8432,24 @@
     },
     {
       "album": {
+        "name": "the lows",
+        "url": "https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213577,
+      "name": "dive bar",
+      "url": "https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX"
+    },
+    {
+      "album": {
         "name": "Dividends",
         "url": "https://open.spotify.com/album/4hMKcJUFZ4FbMGiJ1L5N1L"
       },
@@ -9892,6 +9964,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "essential",
         "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
       },
@@ -10375,7 +10465,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
@@ -10709,7 +10799,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -13317,6 +13407,24 @@
       "duration_ms": 193354,
       "name": "Hailey",
       "url": "https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu"
+    },
+    {
+      "album": {
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
     },
     {
       "album": {
@@ -16508,6 +16616,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "in my head",
         "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
       },
@@ -17629,6 +17755,24 @@
       "duration_ms": 168951,
       "name": "karma",
       "url": "https://open.spotify.com/track/5SCBS0esfqeL54ZCw6Revb"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
     },
     {
       "album": {
@@ -19769,7 +19913,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140355,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
@@ -20511,7 +20655,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165756,
       "name": "maybe she was the one",
       "url": "https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg"
@@ -21028,6 +21172,24 @@
     },
     {
       "album": {
+        "name": "Mile Away",
+        "url": "https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206112,
+      "name": "Mile Away",
+      "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -21173,6 +21335,24 @@
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
+    },
+    {
+      "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
     },
     {
       "album": {
@@ -22331,7 +22511,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156008,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI"
@@ -25079,7 +25259,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182320,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/57mgEbIR86es2FBvQmxZ7t"
@@ -26445,7 +26625,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219584,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q"
@@ -33441,7 +33621,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"

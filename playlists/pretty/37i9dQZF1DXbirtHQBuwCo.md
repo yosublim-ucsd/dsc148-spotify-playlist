@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: BANG YEDAM, WINTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,334 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,321 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

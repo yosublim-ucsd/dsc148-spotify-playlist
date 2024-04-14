@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133059,
+  "num_followers": 133126,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Kind Reminder",
-        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Musta Been a Ghost",
-      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "High No More",
@@ -71,6 +55,22 @@
       "duration_ms": 198845,
       "name": "High No More",
       "url": "https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Kind Reminder",
+        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Musta Been a Ghost",
+      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Sonny Cleveland",
         "url": "https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 170816,
       "name": "You've Got Me Running in Circles",
       "url": "https://open.spotify.com/track/4zQXF5Ux8caEy8gNjhfFSe"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -559,6 +559,26 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 181361,
+      "name": "Good to Be Back Home",
+      "url": "https://open.spotify.com/track/10dqk0DIortXmB4hR1j9JG"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "That Was Yesterday",
         "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 181361,
-      "name": "Good to Be Back Home",
-      "url": "https://open.spotify.com/track/10dqk0DIortXmB4hR1j9JG"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "S/t",
-        "url": "https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs"
-      },
-      "artists": [
-        {
-          "name": "Diplomats of Solid Sound",
-          "url": "https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU"
-        },
-        {
-          "name": "The Diplomettes",
-          "url": "https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Soul Connection",
-      "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Schvitz",
@@ -1331,6 +1311,26 @@
       "duration_ms": 172607,
       "name": "All That\u2019s Left of Me Is You",
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "S/t",
+        "url": "https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs"
+      },
+      "artists": [
+        {
+          "name": "Diplomats of Solid Sound",
+          "url": "https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU"
+        },
+        {
+          "name": "The Diplomettes",
+          "url": "https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Soul Connection",
+      "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Tell 'Em What Your Name Is!",
         "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 247133,
       "name": "I'm Broke",
       "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "There's a Light",
+        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 277675,
+      "name": "Empty Me Out",
+      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Hit the Floor",
+        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "The Killion Floor",
         "url": "https://open.spotify.com/album/79qEi0Q67Pn3BY16kVba20"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 216333,
       "name": "Who Knows Who",
       "url": "https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Hit the Floor",
-        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 266186,
+      "name": "Come On Over feat. Afrodyete",
+      "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Medicine Man",
         "url": "https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 268040,
       "name": "The Wilhelm Scream (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 266186,
-      "name": "Come On Over feat. Afrodyete",
-      "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
     },
     {
       "added_at": "2021-07-13 21:11:09",

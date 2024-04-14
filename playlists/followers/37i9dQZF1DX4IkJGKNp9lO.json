@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 31308,
+  "2024-04-14": 31309,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Svensk Punk",
@@ -3522,6 +3522,24 @@
     },
     {
       "album": {
+        "name": "POSITIVE HARDCORE",
+        "url": "https://open.spotify.com/album/04LsMuEqEiRRqoNuTuLmhq"
+      },
+      "artists": [
+        {
+          "name": "Knifven",
+          "url": "https://open.spotify.com/artist/3XjDzkzNYvDrUU23wbQwYi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31000,
+      "name": "POSITIVE HARDCORE",
+      "url": "https://open.spotify.com/track/6UbdBdMpwo6oc69X8iaWhF"
+    },
+    {
+      "album": {
         "name": "Med is i magen",
         "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
       },
@@ -3875,7 +3893,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 92360,
       "name": "SD till Sk\u00e5ne",
       "url": "https://open.spotify.com/track/3ylfjH5EdN4KmYQd5DMxeV"

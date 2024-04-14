@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,234 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,238 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 77 | [Losing Interest](https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp) | [Kstan](https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i), [WiTTZ SG](https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx) | [Losing Interest](https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq) | 2:39 |
 | 78 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
 | 79 | [Different Man](https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 2:41 |
-| 80 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
-| 81 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
-| 82 | [Berlin Luv](https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [AD North](https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs) | [Berlin Luv](https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU) | 2:20 |
-| 83 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
-| 84 | [Broken Hearted Crook](https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [quantom 2](https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri) | 2:48 |
+| 80 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 81 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
+| 82 | [Broken Hearted Crook](https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [quantom 2](https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri) | 2:48 |
+| 83 | [Berlin Luv](https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [AD North](https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs) | [Berlin Luv](https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU) | 2:20 |
+| 84 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 85 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 86 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 87 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
-| 88 | [One Mic](https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [One Mic](https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw) | 2:01 |
-| 89 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
+| 88 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
+| 89 | [One Mic](https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [One Mic](https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw) | 2:01 |
 | 90 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 91 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 92 | [Drowning](https://open.spotify.com/track/4KX39Q6MDuzwYb4RWalM6o) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/2eJb5JmHCBNN4DWE7KGH6P) | 2:13 |

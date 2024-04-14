@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,724 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,736 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 12 | [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 |
 | 13 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 14 | [Sottosopra](https://open.spotify.com/track/2SsiTnPOUoemGqJfzastMl) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Sottosopra](https://open.spotify.com/album/0UyFZBTkSJLn4AoBoqH3qR) | 2:50 |
-| 15 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 15 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 16 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 |
 | 17 | [FoglieMorte \(feat\. Fabri Fibra\)](https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [FoglieMorte \(feat\. Fabri Fibra\)](https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb) | 2:57 |
 | 18 | [was wäre wenn](https://open.spotify.com/track/3VTSOMZBBbxKcSQHzQ8hys) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [was wäre wenn](https://open.spotify.com/album/1b0xhyr8Ft2V2cnoDOxcz0) | 2:53 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 ### [This Is Julieta Venegas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DZxp6)
 
-> This Is Julieta Venegas\. Los temas esenciales, todos en una lista.
+> This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,588 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,609 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 17 | [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 |
 | 18 | [Qué Más Da](https://open.spotify.com/track/0cCLgsNsyP4xu8RKRX8Qac) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Qué Más Da](https://open.spotify.com/album/0oqyR0ZtlHxmT4ddR16DDx) | 2:47 |
 | 19 | [Acaríñame](https://open.spotify.com/track/5wu3g9JQREsWHszKnKQHa4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [De Buenos Aires para el Mundo](https://open.spotify.com/album/32FV1RxcC38xWUP3gosMtJ) | 3:23 |
-| 20 | [Adoro \( Primera Fila \) \(feat\. Julieta Venegas\) \- En Vivo](https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Primera Fila](https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm) | 3:41 |
-| 21 | [Morenamía \(Dueto 2007\)](https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Papito \(Deluxe\)](https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5) | 3:45 |
+| 20 | [Morenamía \(Dueto 2007\)](https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Papito \(Deluxe\)](https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5) | 3:45 |
+| 21 | [Adoro \( Primera Fila \) \(feat\. Julieta Venegas\) \- En Vivo](https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Primera Fila](https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm) | 3:41 |
 | 22 | [Bien o Mal](https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:57 |
 | 23 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
 | 24 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 31 | [Abracadabras \(feat\. Julieta Venegas\)](https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:38 |
 | 32 | [Despedida](https://open.spotify.com/track/1aE6eXDmeZA9XQsQLuXsSE) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 3:23 |
 | 33 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
-| 34 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
-| 35 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
+| 34 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
+| 35 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
 | 36 | [Amores Platónicos](https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:34 |
 | 37 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
 | 38 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 50 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
 | 51 | [Saudade](https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Certa Manha Acordei De Sonhos Intranquilos](https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK) | 3:23 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDg0ODRlMTNjNTJiMWE5MWUxZTk0NDFkZmRiOWQ2MGY2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDRhMzQ0MDNhYWM4YzE5MDM2MGEyNmQ4YTc2ZWJmNTQx`

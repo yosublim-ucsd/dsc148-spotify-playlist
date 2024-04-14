@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,135 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,218 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 13 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 14 | [lippenblau](https://open.spotify.com/track/2mDJNAEekeLiMoHHtaRP7Y) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [lippenblau](https://open.spotify.com/album/4Bizq80zTpmpwNmkkcyaO6) | 1:56 |
 | 15 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
-| 16 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 16 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 17 | [JUCKT MICH \(NICHT\)](https://open.spotify.com/track/656OSAocDshwNE4Ktn1Zl9) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [JUCKT MICH \(NICHT\)](https://open.spotify.com/album/5MZAzsbehI8gqnm9rr34aR) | 2:05 |
 | 18 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
 | 19 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 20 | [Zartbitter Lindt](https://open.spotify.com/track/0eUF8D6PlisH3S4LxZB2UT) | [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [Skoob102](https://open.spotify.com/artist/3fPb08EzQhpNV5PWuEVBzj), [Addikt102](https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7) | [Zartbitter Lindt](https://open.spotify.com/album/6dd2cn25n36cuSKqOdCvcZ) | 2:42 |
 | 21 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 |
-| 22 | [MR.SWAG \(feat\. makko\)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [MR.SWAG \(feat\. makko\)](https://open.spotify.com/album/2N9RaXmZvgLMLYGj1pQV0E) | 2:39 |
+| 22 | [MR\. SWAG \(feat\. makko\)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [MR\. SWAG \(feat\. makko\)](https://open.spotify.com/album/2N9RaXmZvgLMLYGj1pQV0E) | 2:39 |
 | 23 | [Schietwetter & Korn](https://open.spotify.com/track/6FF0UToBUXyZcrhjtLCIkH) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schietwetter & Korn](https://open.spotify.com/album/2JqbZYnhpF2OeKtiyPhCdd) | 3:08 |
 | 24 | [Augenmaß \(feat\. Pashanim\)](https://open.spotify.com/track/4H1N6Ej2EcgDm58aQIsuvP) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Augenmaß \(feat\. Pashanim\)](https://open.spotify.com/album/0psblIHDZ6SDsjizzAUwpI) | 2:42 |
 | 25 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |

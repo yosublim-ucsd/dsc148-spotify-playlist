@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 181571,
+  "num_followers": 181554,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
         "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Linus n' Lucy (Theme from Peanuts)",
         "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 172207,
       "name": "Linus n' Lucy (Theme from Peanuts)",
       "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "baby jesus is nobody\u2019s baby now",
         "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 215065,
       "name": "baby jesus is nobody\u2019s baby now",
       "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "I Dream Of Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "I Dream Of Christmas",
-      "url": "https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "till christmas day",
         "url": "https://open.spotify.com/album/5Rs8yhcgqXAZmzWpM4e7nO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 169235,
       "name": "till christmas day",
       "url": "https://open.spotify.com/track/07uIDRgLGpRG4ro77Chm5p"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "I Dream Of Christmas",
+      "url": "https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "The White Season",
+      "url": "https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "The White Season",
-      "url": "https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc"
     },
     {
       "added_at": "2024-01-03 20:06:55",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-12-08 17:43:39",
       "album": {
-        "name": "Christmas in Prison (feat. John Prine)",
-        "url": "https://open.spotify.com/album/5nVgGDtBrNJyoPL3inGgk7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        },
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Christmas in Prison (feat. John Prine)",
-      "url": "https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl"
-    },
-    {
-      "added_at": "2023-12-08 17:43:39",
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2023-12-08 17:43:39",
+      "album": {
+        "name": "Christmas in Prison (feat. John Prine)",
+        "url": "https://open.spotify.com/album/5nVgGDtBrNJyoPL3inGgk7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "Christmas in Prison (feat. John Prine)",
+      "url": "https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl"
     }
   ],
   "unique_name": "Indie Christmas",

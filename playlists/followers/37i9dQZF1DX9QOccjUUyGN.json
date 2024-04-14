@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 16620,
+  "2024-04-14": 16619,
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Pedro Lotto",
+  "description": "tranquilo e calmo, no flow. Foto: Delatorvi\n",
   "name": "tamo flex",
   "tracks": [
     {
@@ -329,6 +329,32 @@
       "duration_ms": 190638,
       "name": "5 Minutos",
       "url": "https://open.spotify.com/track/24xhwQJsuDx8mmnny5wccp"
+    },
+    {
+      "album": {
+        "name": "5 STAR",
+        "url": "https://open.spotify.com/album/21C4kT2jZ1GzmY9FcWGjGo"
+      },
+      "artists": [
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "5 STAR",
+      "url": "https://open.spotify.com/track/5OShJm40L8YRqPoDzkL5eB"
     },
     {
       "album": {
@@ -1535,7 +1561,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 113658,
       "name": "Ballet",
       "url": "https://open.spotify.com/track/6VasN6Pv5tTRvuXqRNsoCL"
@@ -2415,6 +2441,32 @@
       "duration_ms": 167842,
       "name": "Cabulosa",
       "url": "https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr"
+    },
+    {
+      "album": {
+        "name": "Estilo Cachorro",
+        "url": "https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Anti Ayoa",
+          "url": "https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143494,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ"
     },
     {
       "album": {
@@ -4479,7 +4531,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155081,
       "name": "Duas Piranha",
       "url": "https://open.spotify.com/track/1c8rVE3m64ENfGkWniem0a"
@@ -4978,6 +5030,32 @@
     },
     {
       "album": {
+        "name": "ESPANHA",
+        "url": "https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "DH",
+          "url": "https://open.spotify.com/artist/3RfmWFWahUOknifSXyWMGm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "ESPANHA",
+      "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
+    },
+    {
+      "album": {
         "name": "Espelho Meu",
         "url": "https://open.spotify.com/album/5zLZ1RHhsbFopNls2yDPj7"
       },
@@ -5027,7 +5105,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 131832,
       "name": "Esquema",
       "url": "https://open.spotify.com/track/1s8rJaCYRsgZUHdnL9tGR2"
@@ -5569,6 +5647,28 @@
       "duration_ms": 197147,
       "name": "Fatos Reais",
       "url": "https://open.spotify.com/track/1Gdsh7Y72CqCy3as4hbnu3"
+    },
+    {
+      "album": {
+        "name": "Fauna Brasileira",
+        "url": "https://open.spotify.com/album/4aJDuO34biLD6AlRHqQmNh"
+      },
+      "artists": [
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Fauna Brasileira",
+      "url": "https://open.spotify.com/track/4PCYb27X4F5yedyBrXfwfi"
     },
     {
       "album": {
@@ -6843,7 +6943,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 279855,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/5MTWcFSTZgTT035W9E8oDy"
@@ -7183,6 +7283,32 @@
       "duration_ms": 144000,
       "name": "J\u00f3ias",
       "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
+    },
+    {
+      "album": {
+        "name": "J\u00f3ias Frias",
+        "url": "https://open.spotify.com/album/2rLIzC4NcZt3g76ZjTh7Zj"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Igunigga",
+          "url": "https://open.spotify.com/artist/7feIJCP0yCn3yoT2IDWsh6"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "J\u00f3ias Frias",
+      "url": "https://open.spotify.com/track/20LWpQzEbHjZ7Jef2A3XDO"
     },
     {
       "album": {
@@ -8107,7 +8233,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180000,
       "name": "Marcha",
       "url": "https://open.spotify.com/track/6BOfBqpqb4LLOxj4nAcrR7"
@@ -9773,6 +9899,32 @@
       "duration_ms": 190000,
       "name": "NOITE PAULISTA",
       "url": "https://open.spotify.com/track/2vcT8OFI7FfzrI4OGQaxT1"
+    },
+    {
+      "album": {
+        "name": "Nova Vadia",
+        "url": "https://open.spotify.com/album/66FZePfrqnOU8uj54QearK"
+      },
+      "artists": [
+        {
+          "name": "Mc Lullu",
+          "url": "https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD"
+        },
+        {
+          "name": "SMOKE P",
+          "url": "https://open.spotify.com/artist/0jIrG5vuzhEx5sjJD0FBn2"
+        },
+        {
+          "name": "Dreey",
+          "url": "https://open.spotify.com/artist/0o5ExKejzq5LNmUnE4gokW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177674,
+      "name": "Nova Vadia",
+      "url": "https://open.spotify.com/track/6gabkcablmWygvs5nhzHIj"
     },
     {
       "album": {
@@ -13309,7 +13461,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 143115,
       "name": "Surfista",
       "url": "https://open.spotify.com/track/6kvT2K9jzRCqZykCkgQuvT"

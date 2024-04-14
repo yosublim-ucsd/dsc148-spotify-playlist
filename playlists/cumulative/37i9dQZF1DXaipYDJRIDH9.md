@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-123 songs - 5 hr 13 min
+124 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2024-01-09 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-01-29 |  |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2024-01-09 |  |
+| [Look Up Into The Sky](https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Look Up Into The Sky](https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte) | 2:02 | 2024-04-09 |  |
 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2024-01-09 | 2024-03-20 |
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2024-01-09 | 2024-01-17 |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2024-01-09 | 2024-04-12 |
@@ -90,7 +91,7 @@
 | [Relief](https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Relief](https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ) | 2:38 | 2024-01-09 |  |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2024-01-09 | 2024-04-11 |
 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-02-27 |  |
-| [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2024-01-09 |  |
+| [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2024-01-09 | 2024-04-14 |
 | [Ripples of Moonlight](https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Ripples of Moonlight](https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY) | 2:11 | 2024-01-09 |  |
 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2024-01-09 |  |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2024-01-09 |  |

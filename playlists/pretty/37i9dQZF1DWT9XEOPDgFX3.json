@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
-  "num_followers": 94065,
+  "num_followers": 94111,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -313,10 +313,10 @@
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+      "duration_ms": 343360,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -469,10 +469,10 @@
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 343360,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 177104,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
       "artists": [
         {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
         }
       ],
-      "duration_ms": 176869,
-      "name": "Eye On The Bat",
-      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+      "duration_ms": 177104,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Soup Song",
-        "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Soup Song",
-      "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 218000,
       "name": "King Street",
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Soup Song",
+        "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Soup Song",
+      "url": "https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
-      },
-      "artists": [
-        {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
-        }
-      ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+      },
+      "artists": [
+        {
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+        }
+      ],
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+      "duration_ms": 202204,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
       },
       "artists": [
         {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 202204,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Set Me Free, I'm an Animal",
-        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Set Me Free, I\u2019m an Animal",
-      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Set Me Free, I'm an Animal",
+        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Set Me Free, I\u2019m an Animal",
+      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/5QV1QpqH1f97QaLnWYQECl"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
         }
       ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+      "duration_ms": 237794,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/3GLXZR9wgtNj11nqqD9twA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1503,34 +1503,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/5QV1QpqH1f97QaLnWYQECl"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "Marlon Funaki",
-          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 237794,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/3GLXZR9wgtNj11nqqD9twA"
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ribcage",
-        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
       },
       "artists": [
         {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
         }
       ],
-      "duration_ms": 177310,
-      "name": "Ribcage",
-      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
+      "duration_ms": 255400,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1563,6 +1563,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 177310,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/4LfyNvvAB2sTdiOlPhf3Dx"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/3I8gY1kGY1zRI7v0Qncq64"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Holdup (with Claud)",
         "url": "https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9"
       },
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/4LfyNvvAB2sTdiOlPhf3Dx"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/3I8gY1kGY1zRI7v0Qncq64"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Rare Feeling",
         "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 245849,
       "name": "Dear Mexico (Thank You for Joyce)",
       "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Blouse - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Blouse - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -1731,6 +1747,22 @@
       "duration_ms": 246946,
       "name": "For Months Now",
       "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Nutshell",
+        "url": "https://open.spotify.com/album/35XLFJy9hpu0UNA4x4GDnH"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 248790,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/0EUjfn3w3kX9RR28BTfTIf"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1781,22 +1813,6 @@
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Nutshell",
-        "url": "https://open.spotify.com/album/35XLFJy9hpu0UNA4x4GDnH"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 248790,
-      "name": "Nutshell",
-      "url": "https://open.spotify.com/track/0EUjfn3w3kX9RR28BTfTIf"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "As You Are",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Shell",
-        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 140145,
-      "name": "Shell",
-      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Sorceress",
         "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1991,22 +2007,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -2019,6 +2019,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2051,26 +2067,6 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Halfway (Acoustic) feat. Hotel Fiction",
-        "url": "https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        },
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Halfway (Acoustic) feat. Hotel Fiction",
-      "url": "https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo"
     }
   ],
   "unique_name": "Folk Arc",

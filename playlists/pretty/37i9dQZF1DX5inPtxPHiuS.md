@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,247 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,264 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 20 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 |
 | 21 | [Barco de Papel](https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:32 |
 | 22 | [No Sé Si Volverá \(2010\) \- En Vivo](https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sesiones 10.10 \(En Vivo\)](https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4) | 5:07 |
-| 23 | [Alquimia](https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Centésimo Humano](https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O) | 3:26 |
-| 24 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
+| 23 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
+| 24 | [Alquimia](https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Centésimo Humano](https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O) | 3:26 |
 | 25 | [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 |
 | 26 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
 | 27 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 53 | [Pimpinella](https://open.spotify.com/track/15wAbJ9CQRwQ1qjxaObWCk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 4:13 |
 | 54 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
 | 55 | [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 |
-| 56 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
-| 57 | [Fiesta Entre Demonios](https://open.spotify.com/track/4awW1AUIaS54DHzRpaJ1lC) | [Donkristobal](https://open.spotify.com/artist/4fixbG823SdZndhG2SYAlB) | [Vida](https://open.spotify.com/album/50VJQ09N278r3n743OzxT6) | 2:59 |
+| 56 | [Fiesta Entre Demonios](https://open.spotify.com/track/4awW1AUIaS54DHzRpaJ1lC) | [Donkristobal](https://open.spotify.com/artist/4fixbG823SdZndhG2SYAlB) | [Vida](https://open.spotify.com/album/50VJQ09N278r3n743OzxT6) | 2:59 |
+| 57 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
 | 58 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
 | 59 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
 | 60 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |

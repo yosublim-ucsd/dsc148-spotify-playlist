@@ -1,8 +1,8 @@
 {
-  "2024-04-13": 0,
+  "2024-04-14": 0,
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a> y m\u00e1s",
-  "name": "Mix de m\u00fasica melanc\u00f3lica",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
+  "name": "Moody Mix",
   "tracks": [
     {
       "album": {
@@ -751,7 +751,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
@@ -3421,7 +3421,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146520,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
@@ -4225,7 +4225,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 87560,
       "name": "I Don't Wanna Do This Anymore",
       "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
@@ -4399,7 +4399,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -4595,7 +4595,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 118302,
       "name": "i'm closing my eyes",
       "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
@@ -6989,7 +6989,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -7097,7 +7097,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
@@ -7191,7 +7191,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 153103,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
@@ -7555,7 +7555,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 290466,
       "name": "Resah Jadi Luka",
       "url": "https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb"
@@ -8103,7 +8103,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
@@ -8613,7 +8613,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -8963,7 +8963,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
@@ -9129,7 +9129,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 123891,
       "name": "Tell Me Why I'm Waiting",
       "url": "https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y"
@@ -9147,7 +9147,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
@@ -9821,7 +9821,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -10421,7 +10421,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 95680,
       "name": "Why Am I Waiting",
       "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
@@ -10691,7 +10691,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"

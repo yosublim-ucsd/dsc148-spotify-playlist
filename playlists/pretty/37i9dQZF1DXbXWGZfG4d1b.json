@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22144,
+  "num_followers": 22152,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Claro Ma",
-      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 206875,
       "name": "Perla",
       "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Claro Ma",
+      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -419,38 +419,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
-      },
-      "artists": [
-        {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
-        }
-      ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Bar de Playa",
-        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Bar de Playa",
-      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "Puedo ver el mar en tus ojos",
         "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
@@ -463,38 +431,6 @@
       "duration_ms": 181495,
       "name": "Puedo ver el mar en tus ojos",
       "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 216830,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Antes de que Olvide",
-      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -515,18 +451,66 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+        "name": "Bar de Playa",
+        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
       "artists": [
         {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Antes de que Olvide",
+      "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 216830,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -543,6 +527,22 @@
       "duration_ms": 196751,
       "name": "Olas Negras",
       "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Aeronostalgia",
+        "url": "https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "J",
+          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
+        }
+      ],
+      "duration_ms": 227778,
+      "name": "Aeronostalgia",
+      "url": "https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Aeronostalgia",
-        "url": "https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        },
-        {
-          "name": "J",
-          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
-        }
-      ],
-      "duration_ms": 227778,
-      "name": "Aeronostalgia",
-      "url": "https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "SUELO",
+        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 169387,
+      "name": "SUELO",
+      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 270566,
       "name": "Crucificame",
       "url": "https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "SUELO",
-        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 169387,
-      "name": "SUELO",
-      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Boca Seca",
+        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
+      },
+      "artists": [
+        {
+          "name": "Pow",
+          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Boca Seca",
+      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Nuevos miedos - Nadie va a decidir por vos",
         "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Boca Seca",
-        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
-      },
-      "artists": [
-        {
-          "name": "Pow",
-          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Boca Seca",
-      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2024-04-11 16:43:29",

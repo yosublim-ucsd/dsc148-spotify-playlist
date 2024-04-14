@@ -1,12 +1,12 @@
 {
   "description": "With Bryson Tiller, Sonder, Summer Walker and more",
-  "num_followers": 39094,
+  "num_followers": 39136,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk3NzAyNiwwMDAwMDAwMDU4NDllY2FmYmU2N2Q5ZDVhMWE3MmQ1M2E4OTViNjM3",
+  "snapshot_id": "MTcxMzA2NTE3NSwwMDAwMDAwMGQxNTA3MjdhYTljOWQ4ZTZlMDQxZjM3YzZmZWVhOGE5",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ooh Nah Nah (feat. Masego)",
-        "url": "https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ooh Nah Nah (feat. Masego)",
-      "url": "https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRU - LP",
         "url": "https://open.spotify.com/album/091JnKYEdqWQ6tyEbCgAEV"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 255640,
       "name": "Tru",
       "url": "https://open.spotify.com/track/058gdiBln6OADguG08GOaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": null,
@@ -127,18 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 55048,
-      "name": "i don't wanna fall in love, it's too late now",
-      "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLORIDA BABY",
-        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "FLORIDA BABY",
-      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
       },
@@ -207,34 +191,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+      "duration_ms": 185522,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 195046,
+      "name": "ball w/o you",
+      "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
     },
     {
       "added_at": null,
@@ -248,15 +248,15 @@
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 264242,
-      "name": "Searchin",
-      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
+      "duration_ms": 291448,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "MIDNIGHT MOTIONS",
-        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/5C3hbsQQcuLRh19o3QLWpy"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
         }
       ],
-      "duration_ms": 196923,
-      "name": "TWENTY NIGHTS",
-      "url": "https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr"
+      "duration_ms": 128000,
+      "name": "FAVORITE",
+      "url": "https://open.spotify.com/track/7v6Qfbr1oFbstzCjDUY0Su"
     },
     {
       "added_at": null,
@@ -291,34 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 195046,
-      "name": "ball w/o you",
-      "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": null,
@@ -339,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Into",
         "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
       },
@@ -348,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 164488,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+      "duration_ms": 264242,
+      "name": "Searchin",
+      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
     },
     {
       "added_at": null,
@@ -371,34 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HNDRXX",
-        "url": "https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X"
-      },
-      "artists": [
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 265996,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX"
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
     },
     {
       "added_at": null,
@@ -435,6 +427,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5U4deWruWEu8HcWXc1E7eY"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/2Sym6hOXUGlWUSR43cJkj3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 164488,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Rules",
+        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 233901,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
@@ -455,78 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/0QyJXG36Q3Kta662XS8GhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 194159,
-      "name": "Moment Of Your Life (feat. Coco Jones)",
-      "url": "https://open.spotify.com/track/4mYSL3RDHto3rcl7I57ndv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "PUFFIN ON ZOOTIEZ",
-      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283285,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sailing Soul(s)",
         "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
@@ -539,38 +511,6 @@
       "duration_ms": 262480,
       "name": "living room flow - Bonus",
       "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "x's n o's",
-      "url": "https://open.spotify.com/track/4U45epQ1T4gDdF1XOxo4B2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLAYBOY",
-        "url": "https://open.spotify.com/album/0ccEYmcKK8UKt5zZ0lGgJ7"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "And This is Just The Intro",
-      "url": "https://open.spotify.com/track/4sMmYKC0ot3GTbl2RzHw7T"
     },
     {
       "added_at": null,
@@ -591,18 +531,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 154531,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc"
+      "duration_ms": 146373,
+      "name": "x's n o's",
+      "url": "https://open.spotify.com/track/4U45epQ1T4gDdF1XOxo4B2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/0QyJXG36Q3Kta662XS8GhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric B for President: Term 1",
+        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Aroc!",
+          "url": "https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "G.O.A.T.",
+      "url": "https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617"
     },
     {
       "added_at": null,
@@ -647,50 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Normal Girl",
-      "url": "https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K"
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc"
     },
     {
       "added_at": null,
@@ -719,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "sink or swim (bonus)",
-      "url": "https://open.spotify.com/track/3X2pGJtD8KCwvVPe1vbKCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -751,6 +679,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "sink or swim (bonus)",
+      "url": "https://open.spotify.com/track/3X2pGJtD8KCwvVPe1vbKCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -763,6 +727,50 @@
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 188964,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 228602,
+      "name": "fue mejor",
+      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
     },
     {
       "added_at": null,
@@ -819,6 +827,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Love Letter To You 4",
+        "url": "https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 122706,
+      "name": "Leray",
+      "url": "https://open.spotify.com/track/3sitsgJXmK6cKT0XkfXuJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Fuck",
         "url": "https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf"
       },
@@ -835,22 +875,6 @@
       "duration_ms": 205489,
       "name": "First Fuck",
       "url": "https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

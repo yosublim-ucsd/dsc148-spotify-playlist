@@ -1,13 +1,33 @@
 {
-  "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
-  "num_followers": 843624,
+  "description": "This Is Joan Sebastian. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 843958,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDZhZTdkOTAzMjE2OTY0MDNmZDJiODAxYmQ3MDY5ZTFk",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGM1NzUwMzA4OWM0NTY2MjI5OWU5MzVkYTdjODcwZmI0",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
     {
       "added_at": null,
       "album": {

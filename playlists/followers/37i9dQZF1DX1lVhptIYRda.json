@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 7523812,
+  "2024-04-14": 7524674,
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Chayce Beckham",
+  "description": "Today's top country hits. Cover: Tyler Hubbard",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219303,
       "name": "BREAK IT IN A BAR",
       "url": "https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY"
@@ -5149,6 +5149,24 @@
       "duration_ms": 209109,
       "name": "Heartache Medication",
       "url": "https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m"
     },
     {
       "album": {
@@ -11985,7 +12003,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
@@ -12902,6 +12920,24 @@
     },
     {
       "album": {
+        "name": "Livin' My Best Life (Still)",
+        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "What He'll Never Have",
+      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
+    },
+    {
+      "album": {
         "name": "What If I Don't",
         "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
       },
@@ -13428,6 +13464,24 @@
     },
     {
       "album": {
+        "name": "Wind Up Missin' You",
+        "url": "https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Wind Up Missin' You",
+      "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
+    },
+    {
+      "album": {
         "name": "Wine Into Whiskey",
         "url": "https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma"
       },
@@ -13439,7 +13493,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"

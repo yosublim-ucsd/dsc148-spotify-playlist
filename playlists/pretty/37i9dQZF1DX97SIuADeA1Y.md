@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,516 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,570 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 27 | [Dance Again](https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC) | 2:32 |
 | 28 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
 | 29 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
-| 30 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
-| 31 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 30 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 31 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
 | 32 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 33 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
 | 34 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |

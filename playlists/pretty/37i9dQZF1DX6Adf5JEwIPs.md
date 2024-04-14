@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Luis Alfonso Partida El Yaki, Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,265 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,368 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 21 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
 | 22 | [Me Toco Ayudar](https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Toco Ayudar](https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg) | 3:15 |
 | 23 | [El Zutano \(Z26\) \[En Vivo\]](https://open.spotify.com/track/7fAkgdnRmnMA7uOuHYgo77) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [El Zutano \(Z26\) \[En Vivo\]](https://open.spotify.com/album/22IkKp6yRQGJ2vo2wEH4bi) | 2:53 |
-| 24 | [La Chica Perfecta](https://open.spotify.com/track/26L4702pMYGLYIMQvtVvDU) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Jorge Pérez](https://open.spotify.com/artist/3EbpgPQKciUZ5fq93MCjfi) | [La Chica Perfecta](https://open.spotify.com/album/5aqQTREa7SalN80y2fshqi) | 3:10 |
+| 24 | [La Chica Perfecta](https://open.spotify.com/track/26L4702pMYGLYIMQvtVvDU) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Chica Perfecta](https://open.spotify.com/album/5aqQTREa7SalN80y2fshqi) | 3:10 |
 | 25 | [Bemaste](https://open.spotify.com/track/4YiuckLW9XY7VrpMmWpKfc) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Bemaste](https://open.spotify.com/album/1jYScoHmO4DZUQYafSLkPU) | 3:24 |
 | 26 | [Mentira Que Me Quieres Mucho](https://open.spotify.com/track/3bR1WblcmJj11Vh8DoNuB4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Mentira Que Me Quieres Mucho](https://open.spotify.com/album/6jmuQBIqDXLtfG1AmpfGoZ) | 2:12 |
 | 27 | [Sigo Adelante](https://open.spotify.com/track/5qimhhDW64vHa3NKCFa4YW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Moreno Natural](https://open.spotify.com/album/5j83pTGuzBXFEDI7LWBmkO) | 3:48 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 43 | [Mi Credo \- En Vivo](https://open.spotify.com/track/0DrQek59xD0cZnjonWzAXg) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Mi Credo \(En Vivo\)](https://open.spotify.com/album/2lCoUvmOJBl2st2kWNOOYQ) | 3:42 |
 | 44 | [FIESTA MANZANITA](https://open.spotify.com/track/1X2PLSpFyTx68goUdhnWBl) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Sunday Funday](https://open.spotify.com/album/2FUyvSdkTzQdNPtqQwlApG) | 2:39 |
 | 45 | [Mundo Frio](https://open.spotify.com/track/74VmGNl1tRJiDEPno0dsml) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Mundo Frio](https://open.spotify.com/album/7DZEXc8BAjLDhyivYl1ObN) | 3:07 |
-| 46 | [Sin Ti](https://open.spotify.com/track/6goBQNQUuimGVQ8DXBYKDY) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [La Sinfonia](https://open.spotify.com/artist/0wlZbRgmyH7olg2b8qNrl8) | [Sin Ti](https://open.spotify.com/album/4DntxXmphE8MhEoY8mitQc) | 3:50 |
+| 46 | [Sin Ti](https://open.spotify.com/track/6goBQNQUuimGVQ8DXBYKDY) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [La Sinfonia](https://open.spotify.com/artist/0wlZbRgmyH7olg2b8qNrl8) | [Sin Ti](https://open.spotify.com/album/4DntxXmphE8MhEoY8mitQc) | 3:49 |
 | 47 | [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 |
 | 48 | [Vas A Quedarte](https://open.spotify.com/track/1cYQw73TkEbF5PRbBTjqEk) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Vas A Quedarte](https://open.spotify.com/album/55Y1NR9PsS7iJriQlfLwt8) | 3:54 |
 | 49 | [El Sera Y El Chavo \(En Vivo\)](https://open.spotify.com/track/5jLgewYLafUMtUrlw7sO5l) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6dxy3pwF7XdCqq6epojLsP) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-156 songs - 8 hr 5 min
+157 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,8 +104,9 @@
 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 | 2022-01-07 |  |
 | [Love For Sale](https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Jazz Queens of the 50's](https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q) | 2:44 | 2022-01-07 | 2022-07-29 |
 | [Love For Sale \- 1959 Version](https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 2:44 | 2022-06-29 | 2023-09-02 |
+| [Lullaby of Birdland](https://open.spotify.com/track/1Pj3QELCxsujh9ssmI58vn) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [In Person](https://open.spotify.com/album/7g28bkvAfYhqmjrgyMKkBK) | 2:29 | 2024-03-20 |  |
 | [Lullaby of Birdland](https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Songs Of New York](https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R) | 2:29 | 2022-06-02 | 2022-07-29 |
-| [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 | 2022-08-11 |  |
+| [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 | 2022-08-11 | 2024-04-14 |
 | [Lullaby of Broadway \(with Harry James & His Orchestra\) \- Version 2](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 | 2022-01-28 |  |
 | [Lulu's Back In Town](https://open.spotify.com/track/5lGjIW8egrayi9G3CpnUZK) | [Mel Tormé](https://open.spotify.com/artist/6e76kKD4R4HbbTGl3SD0kr) | [The Velvet Fog: The Very Best of Mel Torme](https://open.spotify.com/album/549hYDbssg8k0sGhLraZZh) | 3:07 | 2022-12-01 | 2022-12-16 |
 | [Lulu's Back In Town](https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [The Velvet Fog: The Very Best of Mel Torme](https://open.spotify.com/album/6M33HTGznZaqauVf3XTRWU) | 3:07 | 2022-06-29 | 2022-11-13 |

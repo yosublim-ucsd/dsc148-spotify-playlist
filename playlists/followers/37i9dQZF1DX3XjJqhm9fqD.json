@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 86614,
+  "2024-04-14": 86653,
   "date_first_scraped": "2021-12-21",
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
   "name": "Haitian Heat",
@@ -153,6 +153,24 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "album": {
+        "name": "6:45",
+        "url": "https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202134,
+      "name": "6:45",
+      "url": "https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz"
     },
     {
       "album": {
@@ -885,7 +903,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"

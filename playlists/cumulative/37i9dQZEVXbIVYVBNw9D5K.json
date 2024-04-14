@@ -4846,7 +4846,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 265800,
       "name": "D\u00fcld\u00fcl",
       "url": "https://open.spotify.com/track/6kbIemHzAcnM60eHdrUI4u"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 138640,
       "name": "Geri D\u00f6nemedim",
       "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
@@ -9912,6 +9912,24 @@
       "duration_ms": 235799,
       "name": "LACIVERT",
       "url": "https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO"
+    },
+    {
+      "album": {
+        "name": "LAF",
+        "url": "https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126014,
+      "name": "LAF",
+      "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
     },
     {
       "album": {
@@ -13729,6 +13747,32 @@
     },
     {
       "album": {
+        "name": "Say Goodbye 2.0",
+        "url": "https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210201,
+      "name": "Say Goodbye 2.0",
+      "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
+    },
+    {
+      "album": {
         "name": "Sa\u011flam Kal\u00e7a",
         "url": "https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk"
       },
@@ -14058,7 +14102,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 151059,
       "name": "Seni Yazd\u0131m",
       "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
@@ -14300,6 +14344,24 @@
       "duration_ms": 150004,
       "name": "Sevmi\u015f Gibi",
       "url": "https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo"
+    },
+    {
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
     },
     {
       "album": {

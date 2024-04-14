@@ -1,12 +1,12 @@
 {
-  "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 6401,
+  "description": "This Is Autechre. Los temas esenciales, todos en una lista.",
+  "num_followers": 6406,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDkyYmQ2NzMzMzczNzVhZGMwNjdkMjgzZTNmYzc1MTNi",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRmYThhODhiODBlMmExN2IwM2U3OGY1ZWI1NjcwMWQ4",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 220200,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"
+      "duration_ms": 364733,
+      "name": "Foil",
+      "url": "https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 364733,
-      "name": "Foil",
-      "url": "https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS"
+      "duration_ms": 220200,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Bronchus 2",
-      "url": "https://open.spotify.com/track/6vEQb99X3hWD1nENGR6IoR"
+      "duration_ms": 542106,
+      "name": "Eggshell",
+      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 542106,
-      "name": "Eggshell",
-      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
+      "duration_ms": 213373,
+      "name": "Bronchus 2",
+      "url": "https://open.spotify.com/track/6vEQb99X3hWD1nENGR6IoR"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPs 1991 - 2002 (Part 2)",
-        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Krib",
-      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
+      "duration_ms": 277440,
+      "name": "Crystel",
+      "url": "https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "EPs 1991 - 2002 (Part 2)",
+        "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 277440,
-      "name": "Crystel",
-      "url": "https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u"
+      "duration_ms": 191186,
+      "name": "Krib",
+      "url": "https://open.spotify.com/track/6iaABFW28kyH84OKufn5ha"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 201231,
-      "name": "gr4",
-      "url": "https://open.spotify.com/track/54PLdU0fHeun9jAeen3110"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 201231,
+      "name": "gr4",
+      "url": "https://open.spotify.com/track/54PLdU0fHeun9jAeen3110"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 166437,
-      "name": "DekDre Scap B",
-      "url": "https://open.spotify.com/track/3YNQhOapfzpPK2AScsuvMw"
+      "duration_ms": 223464,
+      "name": "marhide",
+      "url": "https://open.spotify.com/track/0KsOF2ur5AW8HHSty0zypX"
     },
     {
       "added_at": null,

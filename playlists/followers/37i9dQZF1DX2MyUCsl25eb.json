@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 976081,
+  "2024-04-14": 976073,
   "date_first_scraped": "2021-12-21",
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
   "name": "Morning Commute",
@@ -4501,7 +4501,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 301478,
       "name": "Follow The Moon",
       "url": "https://open.spotify.com/track/1azl0mAG86yUv8CCV6KrSB"
@@ -4909,6 +4909,28 @@
       "duration_ms": 243520,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs"
+    },
+    {
+      "album": {
+        "name": "Go To Bed Sober",
+        "url": "https://open.spotify.com/album/6PnYbnEhMBdIg53mTpN55z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "Go To Bed Sober",
+      "url": "https://open.spotify.com/track/2lLx6KEtmUDvRi4iWQyqRV"
     },
     {
       "album": {
@@ -5819,6 +5841,44 @@
       "duration_ms": 308404,
       "name": "Hood of My Car",
       "url": "https://open.spotify.com/track/2NBStpICFAoI4SVKOPHSwN"
+    },
+    {
+      "album": {
+        "name": "Hope in the Ashes",
+        "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154713,
+      "name": "Hope in the Ashes",
+      "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
     },
     {
       "album": {
@@ -7085,7 +7145,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177709,
       "name": "IT WAS GREAT AND WE DIDN'T EVEN KNOW",
       "url": "https://open.spotify.com/track/7doCPp2g3W4cZ3K66zDH2J"
@@ -13150,6 +13210,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/4TvZKVQAUSfTmZgrBj9sCU"
       },
@@ -13909,7 +13987,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180081,
       "name": "Waiting for God in the Garden",
       "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"

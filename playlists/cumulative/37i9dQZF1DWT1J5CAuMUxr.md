@@ -4,7 +4,7 @@
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Camila en portada.
 
-129 songs - 7 hr 6 min
+130 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Mentiroso \- Versión Mariachi](https://open.spotify.com/track/6n1eCxU7vkkK0BeUc2fKlG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 3:51 | 2022-03-16 | 2023-08-26 |
 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 | 2022-03-16 | 2022-09-24 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-03-01 |  |
-| [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 | 2023-03-31 |  |
+| [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 | 2023-03-31 | 2024-04-14 |
+| [Mil Maneras De Morir](https://open.spotify.com/track/2dc0cP069ZlIwMt7rvlTzR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:09 | 2024-03-01 |  |
 | [Morí](https://open.spotify.com/track/0d0dsknspK8uxPWTGXuOBH) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:46 | 2022-09-23 | 2023-08-26 |
 | [Necesito Un Segundo](https://open.spotify.com/track/5GNaL2WTTktz5QBFncqVHQ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:23 | 2023-10-27 |  |
 | [Niña Bonita](https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Niña Bonita](https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT) | 2:04 | 2023-04-14 | 2023-10-28 |

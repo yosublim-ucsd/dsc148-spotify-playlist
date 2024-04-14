@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,457 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,462 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,19 +29,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 19 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 20 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 21 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
-| 22 | [Abusadora](https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:39 |
-| 23 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 22 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:42 |
+| 23 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 24 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
-| 25 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
-| 26 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:42 |
+| 25 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 26 | [Abusadora](https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:39 |
 | 27 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 28 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 29 | [Mía](https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:41 |
-| 30 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
-| 31 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
-| 32 | [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 |
-| 33 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
-| 34 | [Desnúdate Mujer](https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Tú Me Vuelves Loco \(Baile Total\)](https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5) | 4:49 |
+| 30 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
+| 31 | [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 |
+| 32 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
+| 33 | [Desnúdate Mujer](https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Tú Me Vuelves Loco \(Baile Total\)](https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5) | 4:49 |
+| 34 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 35 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 36 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
 | 37 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |

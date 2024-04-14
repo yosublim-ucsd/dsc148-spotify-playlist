@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Nguyên Hà
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,411 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,417 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hồi Ức Thanh Xuân](https://open.spotify.com/track/6xM6zIUxIBszys0Lk6Duzr) | [Nguyên Hà](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH), [minhmin](https://open.spotify.com/artist/1Nym4K1ewbdN8mcp5lClSD) | [Hồi Ức Thanh Xuân](https://open.spotify.com/album/3pLMlm8TkW4xlKSbKBd4fB) | 4:18 |
 | 2 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
 | 3 | [hai mươi hai \(22\) \[feat\. AMEE\]](https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:58 |
-| 4 | [Cảm Nắng](https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7) | [Cảm Nắng](https://open.spotify.com/album/5x9Vf9SS1Rm6Mv59hp1IFl) | 3:48 |
+| 4 | [Cảm Nắng \(feat\. Rtee\)](https://open.spotify.com/track/0XhT3B0RgwYF11EiJqKlvN) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7) | [Cảm Nắng \(feat\. Rtee\)](https://open.spotify.com/album/7cxt7d8TuV1zmPdVrLryv4) | 3:48 |
 | 5 | [Nâng Chén Tiêu Sầu](https://open.spotify.com/track/4PCh6DAkUYKnEmvjV4ouOs) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Nâng Chén Tiêu Sầu](https://open.spotify.com/album/3zsEfVSC2agl1aev11Jpzs) | 3:05 |
 | 6 | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/track/06QKELTP9ofe04C9rpcL0V) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/album/5ATDeLganeKXkR7KETJmfx) | 4:20 |
 | 7 | [Cứ Để Cho Em](https://open.spotify.com/track/0WTuWbQb1TGNClJ56KUe4Z) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Cứ Để Cho Em](https://open.spotify.com/album/7GJ8C1rs7sXzs9R15uNwKR) | 3:48 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 15 | [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 |
 | 16 | [đen đá không đường](https://open.spotify.com/track/3clfEGdaeSmWM6pDekmZ2G) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:00 |
 | 17 | [Little Love \(But No Limit\)](https://open.spotify.com/track/7mA9oPfWSMXKOdPZqyow55) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Little Love \(But No Limit\)](https://open.spotify.com/album/2RZi0rxTOLwq3RZriuhq4W) | 3:58 |
-| 18 | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX) | 4:27 |
+| 18 | [Không Sao Mà, Em Đây Rồi \(feat\. Lou Hoàng\)](https://open.spotify.com/track/2z9d9zTBWW6eougVWmfucA) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi \(feat\. Lou Hoàng\)](https://open.spotify.com/album/3Z2EkqCx85eOAajRKycV7S) | 4:27 |
 | 19 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
 | 20 | [cô ấy của anh ấy](https://open.spotify.com/track/3Sx63dtDf3m5barUfoPjRJ) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr) | [không biết nên vui hay buồn](https://open.spotify.com/album/6dGz0gicZR4i1bzBWY4D42) | 4:34 |
 | 21 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/1U4zQAW8s2kAMftN3avXL0) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring ERNEST, Lainey Wilson, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,596 likes - 93 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,790 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 21 | [Life's Been Good Lately](https://open.spotify.com/track/51X5dy7V9ln0K21pFlIFoM) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Life's Been Good Lately](https://open.spotify.com/album/77CDMQAssF9BJl81ggQmXc) | 3:03 |
 | 22 | [Country Just Like Me](https://open.spotify.com/track/6s7EJkZNk7NJwCLgcUBS8b) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Country Just Like Me](https://open.spotify.com/album/5W9yEJAdiwccx9SFQrqOai) | 3:21 |
 | 23 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
-| 24 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
+| 24 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
 | 25 | [Road Dirt](https://open.spotify.com/track/5slEp5cmZSfirPOSvx3j6S) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Road Dirt](https://open.spotify.com/album/1YdaHCcR9nlsZPuahst61d) | 2:22 |
 | 26 | [Take It To The Country](https://open.spotify.com/track/1qcjsNLdP7D9RLx41TBOD4) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA) | [Take It To The Country](https://open.spotify.com/album/2HTMQHiALfWzN183lrWwaZ) | 2:25 |
 | 27 | [The Thing About Fences](https://open.spotify.com/track/4G0QxtnbJeoVZ8klydzW4V) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Painted Ponies](https://open.spotify.com/album/2ln2xLwxx6ew3hwpPukjud) | 3:21 |

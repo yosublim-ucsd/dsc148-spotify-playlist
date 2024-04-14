@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,076 likes - 97 songs - 4 hr 59 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,088 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
+| 1 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
 | 2 | [Colours](https://open.spotify.com/track/0daXcFL99EvGv8GqIBaQQH) | [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv) | [Colours](https://open.spotify.com/album/62yEnQgCgsQWkDaAwlLoZG) | 2:58 |
 | 3 | [Loads To Say](https://open.spotify.com/track/2tYoM7P0B49bLrvpdJwIRB) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Loads To Say](https://open.spotify.com/album/3bU1FSGnQlUz01CfKOZJU8) | 3:07 |
 | 4 | [Bye](https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Del Beast](https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq) | 2:15 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 13 | [skipping stones](https://open.spotify.com/track/1cJAcVuz8CU6Gu3kQwZSx8) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [skipping stones](https://open.spotify.com/album/6tig6iE6QEfk4Zqy07sSS4) | 3:47 |
 | 14 | [Come Proper](https://open.spotify.com/track/0jNiMd1CaVVAQFmbKwv85h) | [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Come Proper](https://open.spotify.com/album/2FuRApftXn8Az7jQzBxHLM) | 3:15 |
 | 15 | [Leave It To A Girl](https://open.spotify.com/track/68aFwK5xqqkeyMhISG9beY) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Leave It To A Girl](https://open.spotify.com/album/5vYwiVAWh4unZKT80TLr0f) | 3:04 |
-| 16 | [The Fourth Kind](https://open.spotify.com/track/2QE0LyZhfsp3c4ToX9PTgH) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Septembr](https://open.spotify.com/artist/6qGZUOBYmS6paPCyzGdnWI) | [The Fourth Kind](https://open.spotify.com/album/5IUIZYcm9AdQL28V5kMa4o) | 2:12 |
-| 17 | [Distractions](https://open.spotify.com/track/4Hz2PxJHKvnQRz27OaCP5J) | [Hannah Ray](https://open.spotify.com/artist/0X7JgNMZTsvIny5WFrBF8t) | [Distractions](https://open.spotify.com/album/3Xrebk9cdx8rs9K4aIg9SV) | 4:20 |
+| 16 | [The Fourth Kind](https://open.spotify.com/track/2QE0LyZhfsp3c4ToX9PTgH) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Sptmbr Yngstr.](https://open.spotify.com/artist/7tfik9YQJqV0qS8912EwZY) | [The Fourth Kind](https://open.spotify.com/album/5IUIZYcm9AdQL28V5kMa4o) | 2:12 |
+| 17 | [Distractions](https://open.spotify.com/track/4Hz2PxJHKvnQRz27OaCP5J) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg) | [Distractions](https://open.spotify.com/album/3Xrebk9cdx8rs9K4aIg9SV) | 4:20 |
 | 18 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
 | 19 | [I NEVER LIKED METAL](https://open.spotify.com/track/6Gll3tgarAvH9vQsowngdd) | [Ben Prophet](https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U) | [I NEVER LIKED METAL](https://open.spotify.com/album/4mZCYwbpslrLYyHeS5aOse) | 4:03 |
 | 20 | [Farmers Friend](https://open.spotify.com/track/245eMjIYHwih4C49V9RRLv) | [Pasiflorez](https://open.spotify.com/artist/1AoUutm6HXbWfMIvdF9QIm) | [Farmers Friend](https://open.spotify.com/album/15GbUNU5iXL4daD1NSiOaw) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,989 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,616 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 40 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 41 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
 | 42 | [T\-Bone Shuffle](https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 4:55 |
-| 43 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
-| 44 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
-| 45 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
+| 43 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
+| 44 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
+| 45 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 46 | [Dimples](https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [John Lee Hooker \- On Vee\-Jay 1955\-1958](https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx) | 2:13 |
 | 47 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 |
 | 48 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 50 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
 | 51 | [I Can't Quit You Baby](https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 6:39 |
 | 52 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 |
-| 53 | [I'm A Woman](https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Earthshaker](https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq) | 4:34 |
-| 54 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
+| 53 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
+| 54 | [I'm A Woman](https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Earthshaker](https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq) | 4:34 |
 | 55 | [Blues for Mama](https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 3:55 |
 | 56 | [Trouble No More](https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 3:47 |
 | 57 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
 | 58 | [Sadie](https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Nothing But The Truth](https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ) | 6:07 |
-| 59 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
-| 60 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
-| 61 | [She's A Sweet One](https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 3:01 |
+| 59 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
+| 60 | [She's A Sweet One](https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 3:01 |
+| 61 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
 | 62 | [Part Time Love](https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [This Is Clarence Carter](https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx) | 2:41 |
 | 63 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 64 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 67 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
 | 68 | [Short Dressed Woman](https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:12 |
 | 69 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
-| 70 | [Double Trouble](https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [The Essential Otis Rush](https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68) | 2:43 |
+| 70 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 
 Snapshot ID: `MTcxMTAzOTYxMiwwMDAwMDAwMGI2Zjc5MTc5YWQxZGFkYzQ3MTdjNzE3M2JjOTY2MTk1`

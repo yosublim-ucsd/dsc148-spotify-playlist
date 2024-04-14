@@ -2,9 +2,9 @@
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 
-> This Is Joan Sebastian\. Los temas esenciales, todos en una lista.
+> This Is Joan Sebastian\. Sus mejores éxitos, todos en una playlist.
 
-57 songs - 2 hr 54 min
+58 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Carrera A Muerte](https://open.spotify.com/track/2rJBndq82AOiGEEE84im02) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:39 | 2023-08-08 |  |
 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 | 2023-08-08 | 2023-12-16 |
 | [Como Tú Decidas](https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 3:07 | 2023-08-08 |  |
+| [De Ellas](https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Ellas](https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN) | 3:57 | 2024-04-14 |  |
 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 | 2023-08-08 |  |
 | [El Charro Viejo](https://open.spotify.com/track/4hFjUsE7zmtCk8SFUtm6VQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:52 | 2023-12-21 | 2023-12-23 |
 | [El Gallo Celoso](https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:56 | 2023-08-08 |  |

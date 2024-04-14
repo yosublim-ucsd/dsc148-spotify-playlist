@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,844 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,854 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 10 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 |
 | 11 | [Automóvil](https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Automóvil](https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu) | 2:39 |
 | 12 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 |
-| 13 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
+| 13 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 14 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 15 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 16 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
-| 17 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
+| 17 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 18 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 19 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 20 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 59 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 60 | [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 |
 | 61 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
-| 62 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
-| 63 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
+| 62 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
+| 63 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
 | 64 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 65 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
-| 66 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
-| 67 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
-| 68 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
+| 66 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
+| 67 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
+| 68 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
 | 69 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 70 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 |
 

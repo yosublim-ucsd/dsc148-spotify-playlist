@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-839 songs - 1 day 19 hr 23 min
+840 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2021-12-16 | 2022-07-28 |
 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-15 | 2022-10-20 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2022-02-03 | 2022-04-13 |
-| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-28 |  |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-28 | 2024-04-14 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2022-03-24 | 2022-04-21 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-07 | 2022-04-19 |
@@ -302,7 +302,7 @@
 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-03-24 | 2022-04-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-15 |  |
 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-07-07 | 2022-11-13 |
-| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-12-08 | 2024-04-12 |
+| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-12-08 |  |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-01-06 | 2022-07-29 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 |  |
 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 | 2021-12-16 | 2022-07-29 |
@@ -547,7 +547,7 @@
 | [Old Insecurities](https://open.spotify.com/track/3JRCle6ESV3KCRNaD7ajDu) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Old Insecurities](https://open.spotify.com/album/4QPmdSjskG1dugYEu45z0F) | 3:21 | 2022-03-24 | 2022-04-17 |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2022-01-13 | 2022-07-16 |
 | [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 | 2022-03-24 | 2022-04-14 |
-| [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-15 |  |
+| [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-15 | 2024-04-14 |
 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 | 2022-01-13 | 2022-04-21 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-12-16 | 2022-02-14 |
 | [One Day](https://open.spotify.com/track/53Urfby5c1QKQJFIQLm5SK) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/4hjASLcYCrKSIbBFoGCs1q) | 4:27 | 2022-03-24 | 2022-04-06 |
@@ -580,6 +580,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-18 | 2023-03-02 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-24 | 2022-04-07 |
 | [Playlist](https://open.spotify.com/track/14ojT1JUAKgUAfZu7tomIr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/6tSDdE4ynfCuAPjjcIvc87) | 3:19 | 2022-01-06 | 2022-01-29 |
+| [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-04-08 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-08 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-11 | 2023-08-18 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2022-03-24 | 2022-04-12 |

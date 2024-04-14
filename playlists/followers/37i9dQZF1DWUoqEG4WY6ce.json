@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1072030,
+  "2024-04-14": 1072160,
   "date_first_scraped": "2020-10-29",
   "description": "Hop in.",
   "name": "Indie Rock Road Trip",
@@ -753,6 +753,24 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "album": {
@@ -2425,7 +2443,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264813,
       "name": "Missed the Boat",
       "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
@@ -5152,6 +5170,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -5477,6 +5513,24 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "album": {
@@ -6089,7 +6143,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"

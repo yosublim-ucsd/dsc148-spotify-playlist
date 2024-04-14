@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This Is Nicki Minaj\. Los temas esenciales, todos en una lista.
+> This is Nicki Minaj\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,778 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,915 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 27 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 |
 | 28 | [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 |
 | 29 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
-| 30 | [Press Play \(feat\. Future\)](https://open.spotify.com/track/412SI13OfbJ6cpg2XYCtzz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 3:21 |
-| 31 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
+| 30 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
+| 31 | [Press Play \(feat\. Future\)](https://open.spotify.com/track/412SI13OfbJ6cpg2XYCtzz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 3:21 |
 | 32 | [The Night Is Still Young](https://open.spotify.com/track/4bBrKDo8rchikwZOtmXbIH) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:47 |
 | 33 | [Turn Me On \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:19 |
 | 34 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 51 | [Flawless Remix \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:54 |
 | 52 | [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDQzNjcwMGNiYTU0ZThhNTEwZTFlYWFkY2I3ZWU3ZTMz`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDM4NGFjM2EzYmYxNjEzNGY1MzczODdjM2M1YmVjZGU1`

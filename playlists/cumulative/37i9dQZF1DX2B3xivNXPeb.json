@@ -3305,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "let go of me slowly",
+        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207348,
+      "name": "let go of me slowly",
+      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
+    },
+    {
+      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 189566,
       "name": "Scream (Funk My Life Up)",
       "url": "https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd"

@@ -4,7 +4,7 @@
 
 > Con todo el sabor de la vitamina G.
 
-177 songs - 9 hr 50 min
+179 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Contigo No Fue](https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [La Cotorrisa](https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ), [Strecci](https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:49 | 2022-03-07 | 2023-11-07 |
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-03-07 |  |
 | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ) | 2:34 | 2022-03-07 |  |
-| [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2023-01-10 |  |
+| [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 | 2024-03-27 |  |
+| [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2023-01-10 | 2024-04-14 |
 | [De Contrabando](https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:06 | 2022-03-07 |  |
 | [De Uno y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 | 2023-01-10 |  |
 | [Después de Ti ¿Quién?](https://open.spotify.com/track/1UpX5ptkVw2axgCbWWXbvk) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2oK1yzbA7bV7jtiI8nIBSQ) | 3:54 | 2021-09-09 | 2022-07-29 |
@@ -161,7 +162,8 @@
 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 | 2022-03-07 |  |
 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 | 2024-03-27 |  |
 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 | 2024-03-27 |  |
-| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2023-01-10 |  |
+| [Un Cariño Como Tu \(En Vivo\)](https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 2:45 | 2024-03-27 |  |
+| [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2023-01-10 | 2024-04-14 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2022-03-07 |  |
 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 | 2023-01-10 | 2023-11-07 |
 | [Vas A Llorar Por Mí](https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:30 | 2021-09-09 |  |

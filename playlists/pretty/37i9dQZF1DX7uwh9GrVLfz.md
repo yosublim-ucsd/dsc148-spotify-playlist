@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,427 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,446 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 71 | [Every](https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 1:41 |
 | 72 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 73 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
-| 74 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 75 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 |
+| 74 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 |
+| 75 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 76 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 77 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
 | 78 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 |
@@ -90,21 +90,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 80 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
 | 81 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 82 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
-| 83 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
-| 84 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 83 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 84 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
 | 85 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
 | 86 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 87 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
 | 88 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
-| 89 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 |
-| 90 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
+| 89 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
+| 90 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 |
 | 91 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 92 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 93 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 94 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
 | 95 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
-| 96 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
-| 97 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
+| 96 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
+| 97 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 | 98 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 99 | [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 |
 | 100 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |

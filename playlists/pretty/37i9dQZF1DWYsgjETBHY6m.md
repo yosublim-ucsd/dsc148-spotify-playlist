@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,799 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,915 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 29 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 30 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 31 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
-| 32 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
-| 33 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
+| 32 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
+| 33 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
 | 34 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 35 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 36 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 46 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 |
 | 47 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 48 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
-| 49 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 50 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 49 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 50 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 
 Snapshot ID: `MTcxMjMxMTcwMSwwMDAwMDAwMDk3ZjBkMjM3Mjg1MGU4MjlhODQ3MTYyZDhlNmYwMDQy`

@@ -2,7 +2,7 @@
 
 ### [This Is Selena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YdXS8)
 
-> This Is Selena\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Selena\. The essential tracks, all in one playlist.
 
 86 songs - 5 hr 17 min
 

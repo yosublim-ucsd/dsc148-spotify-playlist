@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 304256,
+  "2024-04-14": 304272,
   "date_first_scraped": "2021-12-21",
   "description": "A playlist to get you through your whole workday.",
   "name": "Music for a Workday",
@@ -807,6 +807,24 @@
       "duration_ms": 174516,
       "name": "Better",
       "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218385,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
     },
     {
       "album": {
@@ -7439,7 +7457,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"

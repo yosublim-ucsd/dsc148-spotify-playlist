@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 51412,
+  "2024-04-14": 51556,
   "date_first_scraped": "2023-12-14",
   "description": "las mujeres ya no lloran \u2728 Shakira en portada.",
   "name": "Rica, Latina y Famosa",
@@ -43,6 +43,24 @@
       "duration_ms": 181426,
       "name": "AQYNE",
       "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
+    },
+    {
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
     },
     {
       "album": {
@@ -143,7 +161,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146086,
       "name": "Brinca",
       "url": "https://open.spotify.com/track/77z9iYnZxmx89VGgaKfbFh"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 113998,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
@@ -976,6 +994,42 @@
     },
     {
       "album": {
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/60Mgo3LnlAMy7TzhvVZUHA"
+    },
+    {
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1199,6 +1253,24 @@
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+    },
+    {
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "album": {

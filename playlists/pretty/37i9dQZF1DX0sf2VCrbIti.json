@@ -387,22 +387,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Intenso",
-        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "La Agarro Bajando",
-      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Aqui Esperandote (2022 Remastered)",
         "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 282693,
       "name": "A Dormir Juntitos - 2022 Remastered",
       "url": "https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Intenso",
+        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "La Agarro Bajando",
+      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Pegame Tu Vicio",
-        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Pegame Tu Vicio",
+        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Una Vida Buena",
         "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
       },
@@ -683,8 +683,8 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+        "name": "Mientras M\u00e1s Lo Pienso\u2026T\u00fa",
+        "url": "https://open.spotify.com/album/2NjuELUKBF6Uu0vIZX26Cg"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/7jizO2haWuR6oc0i9tprIb"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026T\u00fa",
-        "url": "https://open.spotify.com/album/2NjuELUKBF6Uu0vIZX26Cg"
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/7jizO2haWuR6oc0i9tprIb"
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2023-12-15 19:49:30",

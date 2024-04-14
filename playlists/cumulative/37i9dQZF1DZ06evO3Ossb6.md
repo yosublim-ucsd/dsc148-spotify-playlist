@@ -2,7 +2,7 @@
 
 ### [This Is Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ossb6)
 
-> This is Alejandro Fernández\. The essential tracks, all in one playlist.
+> This Is Alejandro Fernández\. Los temas esenciales, todos en una lista.
 
 56 songs - 3 hr 15 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [A Qué Sabe El Olvido](https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:13 | 2023-08-08 |  |
 | [Abrázame](https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 3:17 | 2023-08-08 |  |
-| [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 | 2023-08-08 |  |
+| [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 | 2023-08-08 | 2024-04-14 |
 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 | 2023-08-08 |  |
 | [Canta Corazón](https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:14 | 2023-08-08 |  |
 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 | 2023-08-08 |  |

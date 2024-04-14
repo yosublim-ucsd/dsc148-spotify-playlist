@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 661547,
+  "2024-04-14": 661550,
   "date_first_scraped": "2021-12-21",
   "description": "Zone in (or out) with ethereal, meditative instrumental indie folk and acoustic tracks.",
   "name": "Indie Folk for Focus",
@@ -201,10 +201,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146480,
       "name": "Angi",
       "url": "https://open.spotify.com/track/4C5fbvzeJQSDHQxUpsGq5G"
+    },
+    {
+      "album": {
+        "name": "Three Score & Ten - a Journey Back in Time",
+        "url": "https://open.spotify.com/album/2rsb5FYFtYSJBbj2gdiFyF"
+      },
+      "artists": [
+        {
+          "name": "Davy Graham",
+          "url": "https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Angi",
+      "url": "https://open.spotify.com/track/64dg17ieISWnXdeJFYtKqJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is U2. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1205982,
+  "description": "This is U2. The essential tracks, all in one playlist.",
+  "num_followers": 1206076,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDZhMDNkYTI1NGMxYThmMDMyZGE3MDMxZDc4ZDdhMDMw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDY5M2Q1NGI4NjQ0N2EyYzc0ZDE1MTVjMzdjNGVmZmNh",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Ordinary Love - Extraordinary Mix",
-      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+      "duration_ms": 227173,
+      "name": "Ordinary Love - Extraordinary Mix",
+      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
     },
     {
       "added_at": null,

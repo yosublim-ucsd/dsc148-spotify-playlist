@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,298 songs - 2 day 23 hr 33 min
+1,300 songs - 2 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [bajek deszcz](https://open.spotify.com/track/1b8OjWCdXUAs3V61qzyTPk) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [bajek deszcz](https://open.spotify.com/album/1pcpF9L9NwTxOTSv1OBi4U) | 2:34 | 2022-03-24 | 2022-04-18 |
 | [Banda](https://open.spotify.com/track/63H9EvG0JABQ1qTDdLBEnK) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Banda](https://open.spotify.com/album/4YNlaEpg2Nit8mKdjERxtz) | 3:43 | 2022-03-24 | 2022-04-19 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-10-06 |
+| [Bbye](https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:16 | 2024-04-12 |  |
 | [Be My Bagel](https://open.spotify.com/track/2nWvhCdzgFIHNCnhKZk24e) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Be My Bagel](https://open.spotify.com/album/22LXxmQKYgIKAXZx7WD12Z) | 2:13 | 2022-02-03 | 2022-03-18 |
 | [Be Okay](https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Be Okay](https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19) | 2:45 | 2022-06-29 | 2022-08-02 |
 | [BEAUTIFUL](https://open.spotify.com/track/406szmvIaQo0EATtjcf19k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/26fSKnWlEA0pohjSLBfeum) | 3:49 | 2022-02-03 | 2022-03-18 |
@@ -154,6 +155,7 @@
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-11-11 | 2023-05-31 |
 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-05 |  |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-05-30 | 2024-01-20 |
+| [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 |  |
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2022-04-07 | 2022-04-15 |
 | [Brodo](https://open.spotify.com/track/7CXwOsJN3XBiud3Z1eFeeW) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Brodo](https://open.spotify.com/album/7lZujMpNv1dJXSlTOGz4I8) | 3:37 | 2022-03-24 | 2022-08-02 |
 | [Broke Pop Kids](https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Broke Pop Kids](https://open.spotify.com/album/2x7EOR1xG27FUU8rAzjwgG) | 1:54 | 2022-06-17 | 2023-05-09 |
@@ -197,7 +199,7 @@
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-08-02 | 2022-08-12 |
 | [Chinatown](https://open.spotify.com/track/5qya0nU9vmMklKKjvltNPT) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Chinatown](https://open.spotify.com/album/1cQliCnbdYb2c2va7FU4qq) | 3:36 | 2022-03-24 | 2022-04-15 |
 | [CHING](https://open.spotify.com/track/6ZaGQezHQanrroD0TsgeMz) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 2:35 | 2022-02-03 | 2022-06-28 |
-| [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU) | 2:10 | 2023-11-23 |  |
+| [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU) | 2:10 | 2023-11-23 | 2024-04-14 |
 | [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 | 2023-12-07 |  |
 | [Chàng Trai Sơ Mi Hồng](https://open.spotify.com/track/6lhrQC5IvCv4ICCGs9IZfo) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Chàng Trai Sơ Mi Hồng](https://open.spotify.com/album/4IwlbWqMhVuzdUrcPdAXQf) | 4:52 | 2022-02-03 | 2022-08-02 |
 | [Chỉ Là Muốn Nói](https://open.spotify.com/track/1rzSPuqZ1SGGHyLB07LvuV) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k) | [Chỉ Là Muốn Nói](https://open.spotify.com/album/3ucLzMARHejSL4wfkrMTqd) | 4:46 | 2022-02-03 | 2022-12-15 |
@@ -1007,7 +1009,7 @@
 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 | 2022-03-24 | 2022-04-07 |
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-05-30 | 2023-08-19 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2022-02-03 | 2022-12-15 |
-| [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 | 2024-03-01 |  |
+| [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 | 2024-03-01 | 2024-04-14 |
 | [The Whole Story](https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 2:32 | 2024-02-09 | 2024-04-06 |
 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 | 2022-04-29 | 2022-05-15 |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-03-24 | 2023-04-18 |

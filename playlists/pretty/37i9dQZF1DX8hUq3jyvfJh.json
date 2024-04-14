@@ -1,6 +1,6 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com ",
-  "num_followers": 178215,
+  "num_followers": 178318,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Diz Que Vai Voltar",
-        "url": "https://open.spotify.com/album/5u8BClV4porBu85VOrtHbi"
-      },
-      "artists": [
-        {
-          "name": "Klessinha A baronesa",
-          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "Diz Que Vai Voltar",
-      "url": "https://open.spotify.com/track/25amKsUPWWiKLLXzV9Rk1T"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Cama de Solteiro",
         "url": "https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 199186,
       "name": "Cama de Solteiro",
       "url": "https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Diz Que Vai Voltar",
+        "url": "https://open.spotify.com/album/5u8BClV4porBu85VOrtHbi"
+      },
+      "artists": [
+        {
+          "name": "Klessinha A baronesa",
+          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Diz Que Vai Voltar",
+      "url": "https://open.spotify.com/track/25amKsUPWWiKLLXzV9Rk1T"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Um Ex Amor",
-        "url": "https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL"
-      },
-      "artists": [
-        {
-          "name": "Klessinha A baronesa",
-          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Um Ex Amor",
-      "url": "https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Rotina",
         "url": "https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188000,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Um Ex Amor",
+        "url": "https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL"
+      },
+      "artists": [
+        {
+          "name": "Klessinha A baronesa",
+          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Um Ex Amor",
+      "url": "https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe"
     },
     {
       "added_at": "2024-04-03 03:00:00",

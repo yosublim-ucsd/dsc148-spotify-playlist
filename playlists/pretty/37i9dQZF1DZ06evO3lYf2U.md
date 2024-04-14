@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 ### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This is Central Cee\. The essential tracks, all in one playlist.
+> This is Central Cee。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,762 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,862 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 15 | [Commitment Issues](https://open.spotify.com/track/0UCKUJU94sx8XBQnaNsRkB) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 |
 | 16 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
 | 17 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
-| 18 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
+| 18 | [Eurovision \(feat\. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone\)](https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [A2 Anti](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 4:03 |
 | 19 | [Day in the Life](https://open.spotify.com/track/1o6x7iRcDQPEEg8YPgLeVA) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
 | 20 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
 | 21 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
-| 22 | [Eurovision \(feat\. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone\)](https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [A2 Anti](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 4:03 |
+| 22 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
 | 23 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 24 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 |
 | 25 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 44 | [Anthracite](https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Anthracite](https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss) | 2:56 |
 | 45 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDU3ZDczNTUxYTE5Nzg2ZWJhYTQ3NzY1NWNkYWJiYTk5`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDRjMWEzNDY5MWRiN2FlYWE1YWViMjI5NTAxOWM0ZWE3`

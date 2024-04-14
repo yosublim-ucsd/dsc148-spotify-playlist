@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Hozier in his "Take Me To Church" era
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,917 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,008 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

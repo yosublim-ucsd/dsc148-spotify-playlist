@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-412 songs - 1 day 1 hr 49 min
+414 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-21 | 2023-01-23 |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2023-12-07 |  |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-10-03 | 2023-12-08 |
+| [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 | 2024-04-13 |  |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-12-26 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Myra](https://open.spotify.com/track/5wc4f6crkCzAvwNhoEeMhh) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Myra](https://open.spotify.com/album/5RnitWpsREQdooKLu9tSI0) | 4:15 | 2021-03-27\* | 2021-04-04 |
@@ -138,7 +139,7 @@
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-14 | 2023-11-28 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-05 | 2024-03-06 |
 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2021-03-27\* | 2021-06-22 |
-| [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-03-13 |  |
+| [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-03-13 | 2024-04-14 |
 | [Overdose](https://open.spotify.com/track/7b4fxkOA4NDr4tDylrb10K) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 3:14 | 2023-12-21 | 2024-01-14 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-19 | 2023-12-22 |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2021-06-02 | 2021-10-05 |
@@ -176,7 +177,7 @@
 | [sonna bitter na hanashi](https://open.spotify.com/track/2rKtVgSIlMM6SgMVcJk9mb) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [sonna bitter na hanashi](https://open.spotify.com/album/4OiEGYDKkZEY9iLwbu06ZR) | 4:36 | 2023-10-04 | 2023-10-08 |
 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 | 2022-12-13 | 2023-07-06 |
 | [Soranji](https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 5:43 | 2023-07-05 |  |
-| [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-14 |  |
+| [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-14 | 2024-04-14 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-10-04 | 2023-01-24 |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-30 | 2023-12-06 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-01 |  |
@@ -298,6 +299,7 @@
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-05-27 | 2023-09-10 |
 | [メリクリ](https://open.spotify.com/track/3fxaN9pj6g4crVCzMTqRd0) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:32 | 2022-12-25 | 2023-12-30 |
 | [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 | 2021-09-02 | 2022-07-06 |
+| [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-13 |  |
 | [ラブレター](https://open.spotify.com/track/0EzChFKeHX8U5jxerTIBLh) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:30 | 2021-12-04 | 2021-12-05 |
 | [ラブレター](https://open.spotify.com/track/0UcjHexmVrLkUOflxPefNe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:30 | 2021-12-03 | 2021-12-20 |
 | [ラブレター](https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ラブレター](https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA) | 3:32 | 2021-08-11 | 2021-12-03 |

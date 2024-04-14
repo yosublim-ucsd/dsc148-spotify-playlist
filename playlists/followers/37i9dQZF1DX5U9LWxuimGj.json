@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 20901,
+  "2024-04-14": 20937,
   "date_first_scraped": "2022-01-02",
   "description": "Country music with a Latin flair. Cover: Carin Leon & Kane Brown",
   "name": "Country Latino",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178356,
       "name": "1990s Drunk",
       "url": "https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z"
@@ -2403,6 +2403,24 @@
       "duration_ms": 167959,
       "name": "South Of The Border",
       "url": "https://open.spotify.com/track/1U42O036JuKJigXbvOG3Bb"
+    },
+    {
+      "album": {
+        "name": "South On Me",
+        "url": "https://open.spotify.com/album/1KesYtUzvUIhgTksXIQLh5"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "South On Me",
+      "url": "https://open.spotify.com/track/4DNhJNM7vu2fYWKJllUBeu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7707156,
+  "num_followers": 7707910,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -447,26 +455,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
       "artists": [
         {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "The Future Is Now - The Truth",
-        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Let You Down (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 149000,
       "name": "Let You Down (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Skip",
-        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Skip",
-      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Skip",
+        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "Skip",
+      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Everything You Have Done (Meduza Edit)",
-        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 156218,
-      "name": "Everything You Have Done - Meduza Edit",
-      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Rock My Body (with SASH!) [W&W x R3HAB VIP Remix]",
         "url": "https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 168461,
       "name": "Rock My Body (with Sash!) - W&W x R3HAB VIP Remix",
       "url": "https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
     }
   ],
   "unique_name": "Gym Hits",

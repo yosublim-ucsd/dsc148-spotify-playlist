@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,761 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,743 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 34 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 35 | [Counting Down Christmas](https://open.spotify.com/track/33f3uSgwn3G1HQUWOqFG4V) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:39 |
 | 36 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
-| 37 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
-| 38 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
+| 37 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:23 |
+| 38 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 39 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 40 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 41 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |

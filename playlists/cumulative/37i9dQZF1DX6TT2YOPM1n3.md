@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Hasan Raheem
+> Coke Studio's Aayi Aayi out now\. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan
 
-132 songs - 8 hr 30 min
+133 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Duur](https://open.spotify.com/track/7Ee3A2Q4UcHiUDrd3aGi6a) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Duur](https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4) | 3:39 | 2023-06-12 | 2023-09-09 |
 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 | 2023-05-04 | 2023-11-30 |
 | [Faaslay](https://open.spotify.com/track/0T9F7LqksEkxsDyHfqACv8) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Faaslay](https://open.spotify.com/album/688d5IzfEfCUCPDDdebMXP) | 3:23 | 2023-05-04 | 2023-08-01 |
-| [Faasle](https://open.spotify.com/track/5t0dDiEtorzHo7myp2Tt3q) | [Kaavish and Quratulain Balouch](https://open.spotify.com/artist/3kWXWAhuqNT4YdeFXamYsH) | [Coke Studio Season 10 \- Episode 2](https://open.spotify.com/album/0aCueEk7up6ZkTe89RIcNw) | 5:11 | 2023-12-21 |  |
+| [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 | 2024-04-14 |  |
+| [Faasle](https://open.spotify.com/track/5t0dDiEtorzHo7myp2Tt3q) | [Kaavish and Quratulain Balouch](https://open.spotify.com/artist/3kWXWAhuqNT4YdeFXamYsH) | [Coke Studio Season 10 \- Episode 2](https://open.spotify.com/album/0aCueEk7up6ZkTe89RIcNw) | 5:11 | 2023-12-21 | 2024-04-14 |
 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2023-05-04 | 2023-12-22 |
 | [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 | 2023-05-04 | 2023-12-22 |
 | [Ghalat Fehmi \- From "Superstar"](https://open.spotify.com/track/5mnvugwfFYnJm9zuyGkgqF) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Zenab Fatimah Sultan](https://open.spotify.com/artist/7xyGjFQhwVUrjYeGTzehMG) | [Ghalat Fehmi \(From "Superstar"\)](https://open.spotify.com/album/33syewuvoBtDNf93eSnnwj) | 4:46 | 2023-05-04 | 2024-01-13 |

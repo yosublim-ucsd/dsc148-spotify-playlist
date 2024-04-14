@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,646 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,649 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 13 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 14 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
 | 15 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
-| 16 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
-| 17 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 16 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
+| 17 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 18 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
 | 19 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 |
 | 20 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 42 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
 | 43 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 |
 | 44 | [NASA](https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [NASA](https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn) | 3:40 |
-| 45 | [Online ;\(](https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:42 |
-| 46 | [Tal Vez](https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 2:39 |
+| 45 | [Tal Vez](https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 2:39 |
+| 46 | [Online ;\(](https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:42 |
 | 47 | [El Fuego En El Cielo \(MASTER 1\)](https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [ESTO NO TIENE NADA QUE VER CON eduardo](https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj) | 2:52 |
 | 48 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 49 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 76 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 |
 | 77 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
 | 78 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:12 |
-| 79 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 80 | [Galerna](https://open.spotify.com/track/33N2srwtlb1xwPmlVXGFhr) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/2nP0osfNdXsf2la995d2db) | 3:08 |
+| 79 | [Galerna](https://open.spotify.com/track/33N2srwtlb1xwPmlVXGFhr) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/2nP0osfNdXsf2la995d2db) | 3:08 |
+| 80 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
 | 81 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 82 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 83 | [Sweat](https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 96 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 |
 | 97 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 98 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
-| 99 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 |
-| 100 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
+| 99 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
+| 100 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 |
 
 Snapshot ID: `MTcwOTI2OTIwMCwwMDAwMDAwMGNkOGE0MmM3NDllNmJiMWNiNWMzMjAxM2U5YmZhYmZi`

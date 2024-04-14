@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
+  "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
   "name": "This Is Valent\u00edn Elizalde",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 219493,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/38jXCpkXh5h6rfrTmNNADe"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 145853,
       "name": "Mi Virgencita",
       "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"

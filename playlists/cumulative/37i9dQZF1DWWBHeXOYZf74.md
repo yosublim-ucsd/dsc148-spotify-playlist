@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Caribou
 
-2,468 songs - 5 day 18 hr 38 min
+2,469 songs - 5 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2030,7 +2030,8 @@
 | [Stay High again..](https://open.spotify.com/track/2CRS1Nhp4D6ZTLVo3pfhkL) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Stay High again..](https://open.spotify.com/album/0Z09GqMFc38WlkAbw5cdrd) | 4:17 | 2021-03-06 | 2021-04-30 |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2020-08-07 | 2021-01-23 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 | 2022-12-03 |
-| [stayinit](https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:34 | 2024-03-01 |  |
+| [stayinit](https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:34 | 2024-03-01 | 2024-04-14 |
+| [stayinit](https://open.spotify.com/track/4sHXKCcNR8CSifCNUhYwuW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:34 | 2024-03-01 |  |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-07-24 | 2021-11-24 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2020-04-04 | 2020-10-30 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2023-01-28 |

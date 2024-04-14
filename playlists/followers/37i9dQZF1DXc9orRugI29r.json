@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 422149,
+  "2024-04-14": 422315,
   "date_first_scraped": "2022-02-10",
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "HOT NOW - Dua Lipa",
@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
       },
@@ -1171,6 +1189,24 @@
       "duration_ms": 192954,
       "name": "Buenas",
       "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
+        "name": "Buenota",
+        "url": "https://open.spotify.com/album/2W0eJfDSJg8zyNdahv6fvA"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Buenota",
+      "url": "https://open.spotify.com/track/70cz2qgJTe1vKJwPHvEBAR"
     },
     {
       "album": {
@@ -2801,7 +2837,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -3855,7 +3891,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"

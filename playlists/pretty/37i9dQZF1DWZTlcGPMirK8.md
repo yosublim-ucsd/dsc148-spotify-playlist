@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,248 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,247 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 61 | [We Run The Night](https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [We Run The Night](https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI) | 3:48 |
 | 62 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 63 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
-| 64 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
-| 65 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
-| 66 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 |
-| 67 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
+| 64 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
+| 65 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
+| 66 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
+| 67 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 |
 | 68 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
 | 69 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 70 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |

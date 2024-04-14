@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,143 likes - 120 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,174 likes - 120 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,15 +101,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 91 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
 | 92 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 93 | [Santa Fe](https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 4:14 |
-| 94 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
-| 95 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 |
+| 94 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 |
+| 95 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
 | 96 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 97 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
 | 98 | [No No No](https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [No No No](https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT) | 2:50 |
 | 99 | [Harlem River](https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 9:15 |
-| 100 | [Recording 15](https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 4:02 |
-| 101 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
-| 102 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry) | 3:33 |
+| 100 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry) | 3:33 |
+| 101 | [Recording 15](https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 4:02 |
+| 102 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
 | 103 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
 | 104 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 |
 | 105 | [Heavy](https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 4:24 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 111 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
 | 112 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 113 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
-| 114 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
-| 115 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
+| 114 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
+| 115 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
 | 116 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 117 | [Getting Ready to Get Down](https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sermon on the Rocks](https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH) | 3:16 |
 | 118 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |

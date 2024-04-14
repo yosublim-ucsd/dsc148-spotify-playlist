@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 890634,
+  "2024-04-14": 890665,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: k?d",
   "name": "Trap Mojito",
@@ -159,7 +159,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 157859,
       "name": "All Again",
       "url": "https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160000,
       "name": "Bellz",
       "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
@@ -681,6 +681,24 @@
       "duration_ms": 162375,
       "name": "Birdz (with Smokepurpp)",
       "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
+    },
+    {
+      "album": {
+        "name": "Bite Your Lip pt. 2",
+        "url": "https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Bite Your Lip pt. 2",
+      "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
     },
     {
       "album": {
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212571,
       "name": "check",
       "url": "https://open.spotify.com/track/5ESiHSn4ekJpwdCNiDas9K"
@@ -1633,6 +1651,28 @@
       "duration_ms": 155500,
       "name": "DDOKBOKKI",
       "url": "https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ"
+    },
+    {
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "album": {
@@ -2377,7 +2417,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 119172,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E"
@@ -3527,7 +3567,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180923,
       "name": "HOOLIGAN",
       "url": "https://open.spotify.com/track/3SR00E4UULH7jt6fRPjdPo"
@@ -4621,7 +4661,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
@@ -8035,7 +8075,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 151708,
       "name": "ULTRA 500",
       "url": "https://open.spotify.com/track/6s6n47vUI2unuvmQbDf1sB"
@@ -8185,6 +8225,28 @@
       "duration_ms": 163584,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/0N91uvPJK240UzyEmWlweb"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o"
+      },
+      "artists": [
+        {
+          "name": "UZ",
+          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
+        },
+        {
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J"
     },
     {
       "album": {

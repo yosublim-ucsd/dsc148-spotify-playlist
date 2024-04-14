@@ -4,7 +4,7 @@
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 4 min
+55 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2023-11-10 |  |
 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 | 2023-11-10 |  |
 | [Dinero](https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Dinero](https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S) | 3:33 | 2023-11-10 |  |
-| [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-16 |  |
+| [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-16 | 2024-04-14 |
+| [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 | 2024-04-14 |  |
 | [Finesse \- Remix; feat\. Cardi B](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) | 3:37 | 2023-11-10 |  |
 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 | 2023-11-10 |  |
 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 | 2023-11-10 |  |

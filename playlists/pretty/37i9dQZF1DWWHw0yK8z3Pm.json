@@ -535,22 +535,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Lavender Days",
-        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "The Otter",
-      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "Sudden Opera",
         "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 172840,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Lavender Days",
+        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "The Otter",
+      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "Evangelina",
         "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Pain Pills Or Pews EP",
-        "url": "https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 182392,
-      "name": "Ain't Dead Yet",
-      "url": "https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 253920,
       "name": "I'm Just a Clown",
       "url": "https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Pain Pills Or Pews EP",
+        "url": "https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 182392,
+      "name": "Ain't Dead Yet",
+      "url": "https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Working On My Tan",
-        "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
-      },
-      "artists": [
-        {
-          "name": "Alex Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        }
-      ],
-      "duration_ms": 263436,
-      "name": "Working On My Tan",
-      "url": "https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "A Heart of Gold Is Hard to Find",
         "url": "https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 140808,
       "name": "A Heart Of Gold Is Hard To Find",
       "url": "https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Working On My Tan",
+        "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "duration_ms": 263436,
+      "name": "Working On My Tan",
+      "url": "https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Rattlesnake",
-        "url": "https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 268622,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Damn Darlin'",
+      "url": "https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
       },
@@ -1491,18 +1507,34 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Invulnerable",
-        "url": "https://open.spotify.com/album/5B2TRYqyw8Q0zF0SaY7v6d"
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
       },
       "artists": [
         {
-          "name": "K-OS",
-          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Invulnerable",
-      "url": "https://open.spotify.com/track/1EiTjeKV7MTqI077jLu6pn"
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1523,6 +1555,22 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
+        "name": "Invulnerable",
+        "url": "https://open.spotify.com/album/5B2TRYqyw8Q0zF0SaY7v6d"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Invulnerable",
+      "url": "https://open.spotify.com/track/1EiTjeKV7MTqI077jLu6pn"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
       },
@@ -1535,22 +1583,6 @@
       "duration_ms": 242484,
       "name": "This Distance",
       "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Days Can Turn Around",
-        "url": "https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Days Can Turn Around",
-      "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "Dom Louis",
         "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
-        "name": "In Emerald",
-        "url": "https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI"
-      },
-      "artists": [
-        {
-          "name": "Wyatt C. Louis",
-          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
-        }
-      ],
-      "duration_ms": 210465,
-      "name": "In Emerald",
-      "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"
     }
   ],
   "unique_name": "Renegades",

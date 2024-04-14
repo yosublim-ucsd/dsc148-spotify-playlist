@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 413793,
+  "num_followers": 413867,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -795,22 +779,6 @@
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -835,18 +803,34 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -867,6 +851,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Writing's On The Wall",
-        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 278987,
-      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
-      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Writing's On The Wall",
+        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 278987,
+      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Aerial Ballet",
         "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163586,
       "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
       "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "The Man Who",
         "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Misread",
-      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1331,6 +1315,22 @@
       "duration_ms": 139986,
       "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
       "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Currency Of Man",
         "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 305265,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2024-02-05 15:46:10",

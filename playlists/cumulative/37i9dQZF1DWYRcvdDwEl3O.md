@@ -4,7 +4,7 @@
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-133 songs - 5 hr 45 min
+134 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Here We Go](https://open.spotify.com/track/1BqhM0JZNZ68LUw8ysyBUh) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Here We Go](https://open.spotify.com/album/4deigDJbU9ie9QD06ve7qi) | 2:06 | 2022-07-29 | 2022-11-08 |
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-11-07 |  |
 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 | 2022-11-07 |  |
-| [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 | 2022-11-07 |  |
+| [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 | 2022-11-18 |  |
+| [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 | 2022-11-07 | 2024-04-14 |
 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 | 2022-07-29 | 2022-11-08 |
 | [Images](https://open.spotify.com/track/4SbR6u5i7KCz4g4KJ2Xoxz) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Images](https://open.spotify.com/album/6bZUYd4BX8UNT5MJcJBBwO) | 2:11 | 2022-07-29 | 2022-11-08 |
 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 | 2022-11-07 |  |

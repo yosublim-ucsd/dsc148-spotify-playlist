@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,604 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,612 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 39 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 40 | [Undone](https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Magnified](https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR) | 4:27 |
 | 41 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
-| 42 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
-| 43 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 42 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 43 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
 | 44 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 45 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
 | 46 | [Parking Lot](https://open.spotify.com/track/0T4Gs697qQdHvaNLm24LcO) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/7tAXE0Z5GtVJf0NcJ7Qtp7) | 3:51 |

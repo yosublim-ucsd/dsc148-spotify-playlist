@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 530659,
+  "2024-04-14": 530757,
   "date_first_scraped": "2022-02-10",
-  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. Lorde en portada.",
+  "description": "Canciones que te pondr\u00e1n en el mejor mood ever. Sabrina Carpenter en portada.",
   "name": "Teen Spirit",
   "tracks": [
     {
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -1877,6 +1877,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -2940,6 +2958,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "iPad",
         "url": "https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp"
       },
@@ -3005,7 +3041,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu"
@@ -3574,6 +3610,24 @@
     },
     {
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
@@ -3621,7 +3675,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 266026,
       "name": "Mary Boone",
       "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
@@ -3997,7 +4051,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
@@ -5040,6 +5094,24 @@
     },
     {
       "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -5573,7 +5645,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 141639,
       "name": "Think U The Shit (Fart)",
       "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
@@ -5657,6 +5729,24 @@
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "album": {

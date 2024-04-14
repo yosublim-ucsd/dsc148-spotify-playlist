@@ -1,6 +1,6 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 342688,
+  "num_followers": 342918,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -347,30 +347,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "LADY GAGA",
-      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "LADY GAGA",
+      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Alch Si",
-        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153953,
-      "name": "Alch Si",
-      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Rompe La Dompe",
         "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 165634,
       "name": "Rompe La Dompe",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "CCC",
-        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 126081,
-      "name": "CCC",
-      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1411,18 +1391,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Qu\u00e9date Beb\u00e9",
-        "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 193258,
-      "name": "Qu\u00e9date Beb\u00e9",
-      "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date Beb\u00e9",
+        "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193258,
+      "name": "Qu\u00e9date Beb\u00e9",
+      "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala (Remix)",
-      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
-        }
-      ],
-      "duration_ms": 175532,
-      "name": "La Nena",
-      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+        }
+      ],
+      "duration_ms": 175532,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2255,26 +2255,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Baila Morena (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
       },
@@ -2299,18 +2279,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2355,6 +2339,22 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2024-03-15 06:00:00",

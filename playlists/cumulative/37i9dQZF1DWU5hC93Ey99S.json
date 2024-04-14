@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/00ygWYIcvbGpkFHvx6hNx5"
+      },
+      "artists": [
+        {
+          "name": "xust.",
+          "url": "https://open.spotify.com/artist/2Y2UOYYwgQJjRWAA71cJRf"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110551,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/7IyYnCxzBvrwf73Xau44AO"
+    },
+    {
+      "album": {
         "name": "BACK FOR MORE",
         "url": "https://open.spotify.com/album/4DE4QCn4le3BWkCt4OnMee"
       },
@@ -5641,7 +5663,7 @@
       "artists": [
         {
           "name": "Zerb",
-          "url": "https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR"
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
           "name": "Sofiya Nzau",

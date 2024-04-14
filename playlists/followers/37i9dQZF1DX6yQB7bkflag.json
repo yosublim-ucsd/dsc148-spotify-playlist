@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 117314,
+  "2024-04-14": 117324,
   "date_first_scraped": "2024-01-20",
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Sabrina Carpenter",
   "name": "Pop Rising Indonesia",
@@ -1789,6 +1789,24 @@
       "duration_ms": 264444,
       "name": "I Don\u2019t Wanna Go Back Home",
       "url": "https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h"
+    },
+    {
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
     },
     {
       "album": {
@@ -4725,7 +4743,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233177,
       "name": "Tak Pantas - From \"Ipar Adalah Maut\"",
       "url": "https://open.spotify.com/track/1G4tOVqycdkHk1Q9U1vsb0"
@@ -5430,6 +5448,24 @@
     },
     {
       "album": {
+        "name": "Waktu Untuk Bicara",
+        "url": "https://open.spotify.com/album/11Ixya5PDx6Wn9Yiyo2jW3"
+      },
+      "artists": [
+        {
+          "name": "Devano",
+          "url": "https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "Waktu Untuk Bicara",
+      "url": "https://open.spotify.com/track/7LS4TvGDTt7G5BYSeyq8mq"
+    },
+    {
+      "album": {
         "name": "Wanita Biasa",
         "url": "https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi"
       },
@@ -5797,6 +5833,24 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "album": {
+        "name": "you're my moon",
+        "url": "https://open.spotify.com/album/5yhf2O5NFeNgRCeZ9RksHJ"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "you're my moon",
+      "url": "https://open.spotify.com/track/565nq6yHIdPS05v42NpabQ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 72052,
+  "2024-04-14": 72061,
   "date_first_scraped": "2022-04-09",
   "description": "your guide for a peaceful night.",
   "name": "night light ",
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
@@ -2639,7 +2639,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
@@ -3109,7 +3109,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"

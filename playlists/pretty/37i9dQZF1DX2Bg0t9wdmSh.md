@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,885 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,897 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

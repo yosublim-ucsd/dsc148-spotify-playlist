@@ -3914,6 +3914,28 @@
     {
       "album": {
         "name": "Modo Insano",
+        "url": "https://open.spotify.com/album/03zykUqjYLUH4x5mYJjd1w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Modo Insano",
+      "url": "https://open.spotify.com/track/2sgfqE6JytPiRy3fEVhgR4"
+    },
+    {
+      "album": {
+        "name": "Modo Insano",
         "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
       },
       "artists": [
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196551,
       "name": "Modo Insano",
       "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"

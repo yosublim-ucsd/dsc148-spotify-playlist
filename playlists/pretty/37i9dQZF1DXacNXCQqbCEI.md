@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,206 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,220 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 50 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 |
 | 51 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
 | 52 | [Bogotá](https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Conciencia](https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc) | 3:30 |
-| 53 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
-| 54 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
+| 53 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
+| 54 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
 | 55 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 |
 | 56 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
 | 57 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |

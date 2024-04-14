@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Neffa e Fibra, Baby Gang, Vegas Jones e tanti altri!
 
-3,396 songs - 6 day 9 hr 26 min
+3,397 songs - 6 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3356,7 +3356,8 @@
 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 | 2022-06-23 | 2022-07-27 |
 | [X Sempre \(feat\. Giaime\)](https://open.spotify.com/track/2KmksBB8kXq0WP9nAQN8VU) | [Mastarais](https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [X Sempre \(feat\. Giaime\)](https://open.spotify.com/album/1JbhN4gm0h35yYOAU8sChj) | 2:53 | 2024-03-14 | 2024-03-29 |
 | [X\-ADV](https://open.spotify.com/track/2c7ikfs0Skm2IZvK1NPWPr) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [X\-ADV](https://open.spotify.com/album/1ZRW1uKdIDsSZ9Lf81o5pq) | 2:37 | 2023-04-20 | 2023-05-12 |
-| [X3](https://open.spotify.com/track/0sY1WsjtuhKWxgceHr7WaQ) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [X3](https://open.spotify.com/album/4lcWPHZbsReAnM2hQcRoNn) | 2:20 | 2024-04-11 |  |
+| [X3](https://open.spotify.com/track/0GRqqQDFlXtGSk5x4Q9WNo) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Scialla Semper](https://open.spotify.com/album/12U4mTUkgpioWEG0biy3GE) | 2:20 | 2024-04-11 |  |
+| [X3](https://open.spotify.com/track/0sY1WsjtuhKWxgceHr7WaQ) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [X3](https://open.spotify.com/album/4lcWPHZbsReAnM2hQcRoNn) | 2:20 | 2024-04-11 | 2024-04-14 |
 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 | 2022-05-10 | 2022-05-27 |
 | [Xagosto](https://open.spotify.com/track/1CVUCG2BNQafv6tLAcWcYz) | [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [Seconda Classe](https://open.spotify.com/album/0sT9gUqrHzHCO1ANhs0hPC) | 2:28 | 2022-08-18 | 2022-09-16 |
 | [Xanny](https://open.spotify.com/track/1XkAlztX4MGHQshbP37oun) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [Xanny](https://open.spotify.com/album/4zWM6NqhA9VUCaCi1opPIh) | 2:38 | 2023-02-09 | 2023-02-17 |

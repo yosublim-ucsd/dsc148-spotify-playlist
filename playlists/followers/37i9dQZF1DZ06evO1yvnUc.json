@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 98131,
+  "2024-04-14": 98194,
   "date_first_scraped": "2023-06-30",
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
   "name": "This Is PARTYNEXTDOOR",
@@ -473,6 +473,24 @@
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
+    },
+    {
+      "album": {
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
     },
     {
       "album": {

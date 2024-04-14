@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 390289,
+  "2024-04-14": 390385,
   "date_first_scraped": "2021-12-21",
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
   "name": "the new retro",
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 218386,
       "name": "Champagne Corolla",
       "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194533,
       "name": "CRYING\u2019S JUST A THING YOU DO",
       "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238802,
       "name": "Fine to Me",
       "url": "https://open.spotify.com/track/5zMxWgi2SJ8NMDj7J6WqSX"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS"
@@ -2391,10 +2391,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
     },
     {
       "album": {
@@ -3191,7 +3209,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
@@ -4115,7 +4133,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 197453,
       "name": "Swing That Thing",
       "url": "https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0"
@@ -4421,7 +4439,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 224200,
       "name": "Too Little, Too Late, Too Bad",
       "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
@@ -4511,7 +4529,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202320,
       "name": "Trouble Is",
       "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"

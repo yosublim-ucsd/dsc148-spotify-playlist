@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 536161,
+  "num_followers": 536179,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "La Bicyclette",
-        "url": "https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj"
+        "name": "Paroles\u2026 paroles\u2026",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
         }
       ],
-      "duration_ms": 162800,
-      "name": "\u00c0 bicyclette",
-      "url": "https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R"
+      "duration_ms": 245146,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -683,22 +687,18 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Paroles\u2026 paroles\u2026",
-        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+        "name": "La Bicyclette",
+        "url": "https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        },
-        {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 245146,
-      "name": "Paroles\u2026 paroles\u2026",
-      "url": "https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs"
+      "duration_ms": 162800,
+      "name": "\u00c0 bicyclette",
+      "url": "https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -755,22 +755,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -839,6 +823,22 @@
       "duration_ms": 247560,
       "name": "Nathalie",
       "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "L\u00e9o Ferr\u00e9",
-        "url": "https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Ferr\u00e9",
-          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Avec le temps",
-      "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494"
-    },
-    {
       "added_at": "2024-03-22 19:37:47",
       "album": {
         "name": "Parlez-moi d'amour",
@@ -1191,6 +1175,22 @@
       "duration_ms": 180640,
       "name": "Parlez-moi d'amour",
       "url": "https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "L\u00e9o Ferr\u00e9",
+        "url": "https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Avec le temps",
+      "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494"
     },
     {
       "added_at": "2024-03-22 19:37:47",

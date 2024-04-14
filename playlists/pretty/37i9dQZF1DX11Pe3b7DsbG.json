@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232707,
+  "num_followers": 232728,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2023-08-04 03:01:00",

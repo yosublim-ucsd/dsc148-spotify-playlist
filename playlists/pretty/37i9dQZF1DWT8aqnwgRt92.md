@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,015 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,498 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 21 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 22 | [守りたいもの](https://open.spotify.com/track/0QpwFmdAK6mXvXTqlDgva4) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [守りたいもの](https://open.spotify.com/album/2qsxXjpEqtc87WWJAQt8fj) | 4:26 |
 | 23 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
-| 24 | [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 |
+| 24 | [It's My Thing](https://open.spotify.com/track/7jqZTa51MkRE0pxEOZyVMq) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/0Y7PIYEeIWHkMXbnYTilSE) | 3:36 |
 | 25 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 26 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |
 | 27 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |

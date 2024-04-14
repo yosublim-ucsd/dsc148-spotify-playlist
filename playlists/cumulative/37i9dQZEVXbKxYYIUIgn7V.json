@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 179178,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/2iEjhnmySJ159VKUEH0AEv"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 103441,
       "name": "I LIKE THE WAY YOU KISS ME - TECHNO VERSION",
       "url": "https://open.spotify.com/track/21qbjqn61TFQ5BHkCkTMQk"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -4880,7 +4880,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 173026,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/0HuEswFp8jHbDaiNn0jV4f"
@@ -5222,6 +5222,24 @@
       "duration_ms": 145371,
       "name": "Tekk \u0421\u0442\u0438\u043b\u044c 175",
       "url": "https://open.spotify.com/track/1UNnuTemNJp1ejfSuWFmm1"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {
@@ -5876,6 +5894,24 @@
       "duration_ms": 185066,
       "name": "We Will Rave",
       "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "album": {

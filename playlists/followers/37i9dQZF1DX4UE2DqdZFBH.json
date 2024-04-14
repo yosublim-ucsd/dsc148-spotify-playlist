@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 47661,
+  "2024-04-14": 47670,
   "date_first_scraped": "2023-07-08",
   "description": "Unwind to the real beauty of Instrumentals!",
   "name": "Indie Instrumental",
@@ -183,7 +183,7 @@
     {
       "album": {
         "name": "Arabic Crown BGM",
-        "url": "https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf"
+        "url": "https://open.spotify.com/album/4nhhhtm9oABsEHKwlf44nu"
       },
       "artists": [
         {
@@ -194,6 +194,24 @@
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 113842,
+      "name": "Arabic Crown BGM",
+      "url": "https://open.spotify.com/track/5FhykoWbigkOFNflbNSKO5"
+    },
+    {
+      "album": {
+        "name": "Arabic Crown BGM",
+        "url": "https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 113842,
       "name": "Arabic Crown BGM",
       "url": "https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy"
@@ -2275,10 +2293,28 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 100137,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/0qgeMWjLSn8O4Lyy22E2Ye"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/4Uylp1WDZNYv75RknH5krr"
+      },
+      "artists": [
+        {
+          "name": "Karthick Iyer",
+          "url": "https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100137,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/7Hi5T3aBjAOIqVdEHM5yn8"
     },
     {
       "album": {

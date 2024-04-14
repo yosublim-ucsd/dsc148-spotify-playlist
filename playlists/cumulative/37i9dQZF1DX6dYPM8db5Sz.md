@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-703 songs - 1 day 16 hr 9 min
+705 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 | 2023-07-06 | 2023-08-20 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-02 | 2023-03-03 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2023-01-12 | 2023-02-24 |
-| [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 | 2024-03-22 |  |
+| [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 | 2024-03-22 | 2024-04-14 |
 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 | 2022-07-01 | 2022-11-25 |
 | [All I ask for](https://open.spotify.com/track/7cnK5RmaVkizAJZiJ772T4) | [Chicage](https://open.spotify.com/artist/3ifSLh9XOq2zWejn95G5KR) | [Silence, Please!](https://open.spotify.com/album/7gvkwz3Sl5xc0JvPH7WzyS) | 1:17 | 2022-09-29 | 2022-12-16 |
 | [ALL I GOT](https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [ALL I GOT](https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2) | 3:14 | 2023-03-09 | 2023-03-25 |
@@ -266,7 +266,7 @@
 | [Hold Me](https://open.spotify.com/track/3xRWTT9ouokK5wFAFCgs4Y) | [Love Jungle](https://open.spotify.com/artist/5WIZAH5FThf16VjKWaHG33) | [Double Moon](https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf) | 3:29 | 2023-04-21 | 2023-07-07 |
 | [Hold Me Down](https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Hold Me Down](https://open.spotify.com/album/5eENAlmncUhYojSv3POYj9) | 3:52 | 2023-03-02 | 2023-04-15 |
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
-| [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 |  |
+| [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 | 2024-04-14 |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-06 | 2023-08-05 |
 | [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 | 2024-04-13 |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |
@@ -366,8 +366,10 @@
 | [Lovely](https://open.spotify.com/track/3xY36zjy0lSZf6H5aTe5WD) | [Juda's Peak](https://open.spotify.com/artist/0cXbmR4mcRNkHa3eXA9uC6) | [Lovely](https://open.spotify.com/album/5K5weaJCO4Nno8yI2mm4Ev) | 3:21 | 2022-09-29 | 2022-12-16 |
 | [lowlife](https://open.spotify.com/track/3T4Li9ZHJHFFRwENTPiwfh) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [lowlife](https://open.spotify.com/album/5smoG58cCmW972wiwJMwwu) | 3:01 | 2023-03-23 | 2023-05-26 |
 | [Lucky](https://open.spotify.com/track/7C18nGbnjKfSYZfxNaNisK) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Subtle Affection](https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh) | 3:26 | 2022-09-09 | 2022-11-11 |
+| [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 | 2024-04-12 |  |
 | [Madonna](https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:03 | 2023-11-09 | 2023-12-22 |
 | [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 | 2022-12-15 | 2024-04-04 |
+| [magic](https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [magic](https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw) | 4:13 | 2024-04-12 |  |
 | [Magic in you](https://open.spotify.com/track/46T0G1ko3VSHSMv5UcqFFL) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Magic in you](https://open.spotify.com/album/4kbiIlmmzbdJd6MtwQhDRM) | 3:01 | 2023-10-06 | 2023-12-22 |
 | [maipfi](https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [maipfi](https://open.spotify.com/album/5OPMKtE4DAxDdwXPM1JUh1) | 4:30 | 2023-09-07 | 2023-12-01 |
 | [Manic Pixie Dream](https://open.spotify.com/track/64SrkyDiOaleVgq6SF5WLy) | [The Meister](https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH), [Louie Van Wolf](https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2), [LyndaWrighter](https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW) | [Mended Dreams](https://open.spotify.com/album/2qFn1tpZeMBN2JX8RM1l2j) | 3:19 | 2021-07-22 | 2022-11-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3372355,
+  "num_followers": 3372731,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Dig Your Roots",
-        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "May We All",
-      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "May We All",
+      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2024-03-22 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1048557,
+  "num_followers": 1048966,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 312219,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
         "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 266086,
       "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 312219,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
+        "name": "Ton Canta, Vol. 3",
+        "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 205282,
+      "name": "O Melhor De Deus",
+      "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
         "name": "Nem Um Segundo",
         "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 349333,
       "name": "Nem Um Segundo",
       "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
-        "name": "Ton Canta, Vol. 3",
-        "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 205282,
-      "name": "O Melhor De Deus",
-      "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Tudo por Causa de um Grande Amor",
         "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 171394,
       "name": "Isaias 53",
       "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2024-03-22 17:53:07",

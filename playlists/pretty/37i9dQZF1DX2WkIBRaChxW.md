@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Bryson Tiller.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,236 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,264 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
-| 2 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
+| 2 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 3 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
 | 4 | [Fever](https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:22 |
 | 5 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Darell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,824 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,867 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Por Ti Conocí el Amor](https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Por Ti Conocí el Amor](https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN) | 3:09 |
 | 2 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
 | 3 | [Continental](https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Continental](https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt) | 3:09 |
-| 4 | [La Fory, Heavy](https://open.spotify.com/track/2IQc7P5phkXztpft0zdBif) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:35 |
+| 4 | [La Fory, Heavy](https://open.spotify.com/track/2IQc7P5phkXztpft0zdBif) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:35 |
 | 5 | [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 |
 | 6 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/4G3noMmipB4pOuVwbjkbov) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/7HPtZ8XfUirtDilX4LZ9Cg) | 4:20 |
 | 7 | [Vergazo](https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Vergazo](https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA) | 2:58 |

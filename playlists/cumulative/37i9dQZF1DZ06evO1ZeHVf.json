@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "This Is CeCe Winans. Los temas esenciales, todos en una lista.",
+  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
   "name": "This Is CeCe Winans",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 300666,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 341986,
       "name": "My Tribute (To God Be The Glory)",
       "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"

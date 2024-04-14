@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/37mEUbghfsvFpeHUxhdnnu"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228773,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/2ev5SImg6KN3KfbbT1Xipu"
+    },
+    {
+      "album": {
         "name": "Black Sheep (Brie Larson Vocal Version)",
         "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
       },

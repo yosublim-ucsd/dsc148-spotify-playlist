@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 10992,
+  "num_followers": 10996,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDZmMzRiNGVhYjE2ZGNmNzY2YzIwMWM2ZTA2NDM4OWQ1",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGFjODA3OTAxZTJjNzdlNmU5MTA1NzQyNjIxNzZjMTcy",
   "tracks": [
     {
       "added_at": null,
@@ -255,38 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Que Yo A T\u00ed",
-      "url": "https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "jules",
-      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aroma A Nostalgia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
@@ -307,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 138866,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
+      "duration_ms": 267480,
+      "name": "jules",
+      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
     },
     {
       "added_at": null,
@@ -332,15 +300,15 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
+      "duration_ms": 208533,
+      "name": "Que Yo A T\u00ed",
+      "url": "https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
@@ -348,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 230386,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
+      "duration_ms": 138866,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
     },
     {
       "added_at": null,
@@ -375,6 +343,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "tuviste",
+      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chocolate y Nata",
         "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 202186,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0"
+      "duration_ms": 225493,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
+      "duration_ms": 202186,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
+      "duration_ms": 218546,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
+      "duration_ms": 187320,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,

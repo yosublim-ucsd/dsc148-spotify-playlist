@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,085 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,162 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 32 | [Word Salad](https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh) | 6:09 |
 | 33 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 34 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
-| 35 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
-| 36 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
+| 35 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
+| 36 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 37 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
 | 38 | [Fagetarian and Dyke](https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 2:45 |
 | 39 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |

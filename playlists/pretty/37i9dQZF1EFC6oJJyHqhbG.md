@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189 likes - 122 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190 likes - 122 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 73 | [Sleepwalker](https://open.spotify.com/track/0XjudwHx3iUrMlw52Lty59) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Sleepwalker](https://open.spotify.com/album/6lXSuoJYZwMaEdhATRzdw6) | 4:01 |
 | 74 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
 | 75 | [Kick Us Out](https://open.spotify.com/track/3h8cs808NAb6YZHtqZW7IR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF) | [Kick Us Out](https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38) | 3:29 |
-| 76 | [There Will Be Tears](https://open.spotify.com/track/6QbRxKNUQyDyPTwlihggXR) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 3:13 |
-| 77 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 76 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 77 | [There Will Be Tears](https://open.spotify.com/track/6QbRxKNUQyDyPTwlihggXR) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 3:13 |
 | 78 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 |
 | 79 | [California Winter](https://open.spotify.com/track/2akuQ9Xn81ItF0WmkdH1TJ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/4DJNjsg51k5nCZN4vQNfOV) | 4:05 |
 | 80 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
 | 81 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
 | 82 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 |
-| 83 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
-| 84 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
+| 83 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
+| 84 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
 | 85 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
 | 86 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
 | 87 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 121 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 122 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDA2ZTk4MmM5ZjQ0YjJiM2YzOGNmNTU2YThhNjRlODhmMA==`
+Snapshot ID: `Mjg1NTEwNzksMDAwMDAwMDBiMGYzMmU2MTdkZjYzY2UxMjlhN2M2NGMzODg3NmIxYQ==`

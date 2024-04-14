@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 191492,
+  "2024-04-14": 191983,
   "date_first_scraped": "2023-12-22",
-  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Salastkbron.",
+  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Gusty DJ, DobleP & Salastkbron.",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -65,7 +65,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197809,
       "name": "420 Rkt",
       "url": "https://open.spotify.com/track/4OayatXGjk7Uwg1PgCQMY9"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172806,
       "name": "A esa turra",
       "url": "https://open.spotify.com/track/2T26x8XinniFb6v6Zvr695"
@@ -2682,6 +2682,24 @@
     },
     {
       "album": {
+        "name": "BR SESSIONS",
+        "url": "https://open.spotify.com/album/1DshNjbtoJ6QcgK1FEMkm6"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122518,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6N96CfYBSGWa45O0P9galm"
+    },
+    {
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/1KrOBpDlJBC1AZDXmey9Cb"
       },
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 126281,
       "name": "Salimos Pa la Disco",
       "url": "https://open.spotify.com/track/4z4jJIU6DQKXEW1RPdY2T9"
@@ -3006,6 +3024,28 @@
     },
     {
       "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "SUELTA",
+      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
+    },
+    {
+      "album": {
         "name": "TAKI TAKI TA RKT (Remix)",
         "url": "https://open.spotify.com/album/2EDa15V0c0qzjwjpEhFC8w"
       },
@@ -3164,6 +3204,28 @@
     },
     {
       "album": {
+        "name": "Tirando Corte",
+        "url": "https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152709,
+      "name": "Tirando Corte",
+      "url": "https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x"
+    },
+    {
+      "album": {
         "name": "TITAN",
         "url": "https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i"
       },
@@ -3293,7 +3355,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178425,
       "name": "Tu Flaite",
       "url": "https://open.spotify.com/track/03jyAhC78tqfRqXPo73qBt"
@@ -3489,10 +3551,36 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158092,
       "name": "Ubicaci\u00f3n 6 Ahora Nuvo",
       "url": "https://open.spotify.com/track/00fwJ8HswfeZrmMFx6Ybv2"
+    },
+    {
+      "album": {
+        "name": "UH LA LA LA",
+        "url": "https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "UH LA LA LA",
+      "url": "https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF"
     },
     {
       "album": {

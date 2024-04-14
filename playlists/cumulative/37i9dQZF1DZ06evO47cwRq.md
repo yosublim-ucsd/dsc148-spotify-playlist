@@ -2,9 +2,9 @@
 
 ### [This Is Linkin Park](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47cwRq)
 
-> This Is Linkin Park\. Los temas esenciales, todos en una lista.
+> This is Linkin Park\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 26 min
+59 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Iridescent](https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:56 | 2023-04-08 |  |
 | [Jigga What / Faint](https://open.spotify.com/track/4pnFRnCOfaETea25g0YSvG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 3:31 | 2023-04-08 |  |
 | [Leave Out All The Rest](https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:29 | 2023-04-08 |  |
-| [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-04-08 | 2024-04-13 |
+| [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-04-08 |  |
 | [Lost \- PLZ Tethered Version](https://open.spotify.com/track/6mPBbL3WsTHy2xZ0A7l1Mq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Patrick Lawrence Zappia](https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf) | [Lost \(PLZ Tethered Version\)](https://open.spotify.com/album/30LrTt6t4su1DMqI5dTjyv) | 3:22 | 2023-06-11 | 2023-12-14 |
 | [LOST IN THE ECHO](https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:25 | 2023-04-08 |  |
 | [Lying from You](https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:55 | 2023-04-08 |  |
@@ -56,6 +56,7 @@
 | [Points of Authority](https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:20 | 2023-04-08 |  |
 | [Points of Authority / 99 Problems / One Step Closer](https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 4:55 | 2023-04-08 |  |
 | [POWERLESS](https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:44 | 2023-04-08 |  |
+| [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-14 |  |
 | [ROADS UNTRAVELED](https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:49 | 2023-04-08 |  |
 | [Runaway](https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:03 | 2024-01-10 | 2024-01-12 |
 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 | 2023-04-08 |  |

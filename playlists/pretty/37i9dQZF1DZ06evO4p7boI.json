@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 94684,
+  "num_followers": 94692,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDljYWFiZDg0OTIyNDU1ZmIwYmY0YjZkOWIyMTE4MTNj",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGUwZWU5ZDhlOGFkZDYyNzIzNTEwYjEyMWY2OWRkZGRl",
   "tracks": [
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 193575,
+      "name": "Pull Up (feat. NAV)",
+      "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painless 2 (with NAV feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 242368,
       "name": "Painless 2 (with NAV feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 193575,
-      "name": "Pull Up (feat. NAV)",
-      "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,120 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,166 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 2 | [BerwynGesaffNeighbours](https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 2:03 |
-| 3 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 3 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 4 | [I Forgive You](https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI) | 4:19 |
 | 5 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 6 | [Teenage Summer](https://open.spotify.com/track/2gdQp4SQKUjGRVjv1jynra) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Teenage Summer](https://open.spotify.com/album/0YIStaTnfAV92yqNOalHHM) | 3:39 |

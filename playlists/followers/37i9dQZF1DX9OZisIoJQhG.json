@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 400986,
+  "2024-04-14": 401026,
   "date_first_scraped": "2022-04-19",
   "description": "Uplifting classical melodies to help you rise and shine.",
   "name": "Morning Classical",
@@ -1669,6 +1669,28 @@
       "duration_ms": 185533,
       "name": "Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
       "url": "https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY"
+    },
+    {
+      "album": {
+        "name": "Stars of Sand (From \"Trigun\")",
+        "url": "https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209057,
+      "name": "Stars of Sand (From \"Trigun\")",
+      "url": "https://open.spotify.com/track/601dCT51AL4c6JdlRQYaRr"
     },
     {
       "album": {

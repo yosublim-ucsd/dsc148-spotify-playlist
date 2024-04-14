@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,005 likes - 32 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,016 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 2 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 |
 | 3 | [Mesytara](https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Mesytara](https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw) | 2:48 |
 | 4 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 |
-| 5 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
-| 6 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
+| 5 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 |
+| 6 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
 | 7 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
 | 8 | [اليوم الحلو ده](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اليوم الحلو ده](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 |
 | 9 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 16 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 |
 | 17 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/5PTcKJsd0jFJtSf5GhE6IF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة](https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn) | 2:47 |
 | 18 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
-| 19 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
+| 19 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 |
 | 20 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 |
-| 21 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 |
+| 21 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
 | 22 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 |
 | 23 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
 | 24 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 26 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 |
 | 27 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 |
 | 28 | [صباح العيد](https://open.spotify.com/track/5xACYeEFIdoB8K1in6iTeg) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [صباح العيد](https://open.spotify.com/album/4srluIRBROtYIfaWCzcEH6) | 5:42 |
-| 29 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 |
-| 30 | [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 |
+| 29 | [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 |
+| 30 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 |
 | 31 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 |
 | 32 | [الليله عيد](https://open.spotify.com/track/1zT7oSKe1kSNaBfMECfw6H) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [الليله عيد](https://open.spotify.com/album/33PqsLe5vDO5hK19lcGNHj) | 3:59 |
 

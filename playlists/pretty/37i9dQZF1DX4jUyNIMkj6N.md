@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,135 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,169 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 50 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 |
 | 51 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 | 52 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
-| 53 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
-| 54 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 53 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 54 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
 | 55 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
 | 56 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 57 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |

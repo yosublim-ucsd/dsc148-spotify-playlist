@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 109459,
+  "2024-04-14": 109586,
   "date_first_scraped": "2023-01-18",
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
   "name": "bossa pop",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173520,
       "name": "Amber",
       "url": "https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k"
@@ -1191,6 +1191,24 @@
       "duration_ms": 160427,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/7BxzMUwuPM09XnP1wTm2z8"
+    },
+    {
+      "album": {
+        "name": "Maybe One Day",
+        "url": "https://open.spotify.com/album/2E1qN8oySDGJnDqWeoW4l8"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213962,
+      "name": "Maybe One Day",
+      "url": "https://open.spotify.com/track/2qj2yLsir4HC5LnAos6bmE"
     },
     {
       "album": {

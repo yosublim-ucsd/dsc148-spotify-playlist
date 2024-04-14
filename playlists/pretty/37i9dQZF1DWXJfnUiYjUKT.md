@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,150 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,989 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
-| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 3 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 4 | [BerwynGesaffNeighbours](https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 2:03 |
 | 5 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 51 | [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 |
 | 52 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
 | 53 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |
-| 54 | [All Of My Days \- Psalm 23](https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [All Of My Days](https://open.spotify.com/album/1w18hePhR6H40r1bvhegck) | 4:00 |
+| 54 | [All Of My Days \- Psalm 23](https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [All of My Days](https://open.spotify.com/album/1w18hePhR6H40r1bvhegck) | 4:00 |
 | 55 | [I Know You Know](https://open.spotify.com/track/5OQ8VuPNOJm0UR3FGbGo6U) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb) | [I Know You Know](https://open.spotify.com/album/5VFYuCjCIBnYsMz9cTesXX) | 3:19 |
 | 56 | [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 |
 | 57 | [Insecurities \(feat\. Moses Sumney\)](https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Perceive Its Beauty, Acknowledge Its Grace](https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7) | 4:39 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 81 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 |
 | 82 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
 | 83 | [The Sink](https://open.spotify.com/track/24oox3jCx9x4DN7sv5iUqN) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [The Sink](https://open.spotify.com/album/5fELY0oQIgmdJcCldA81yo) | 3:01 |
-| 84 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
+| 84 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
 | 85 | [In and Out \(Interlude\)](https://open.spotify.com/track/6Y6UL4vqEnoPUbG1qVTgG4) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [In and Out \(Interlude\)](https://open.spotify.com/album/10w2moUbaxbVqLKttAIcH1) | 1:13 |
 | 86 | [Secluded](https://open.spotify.com/track/5Q8YhYqr8sZEeSwkpmUJM4) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Secluded](https://open.spotify.com/album/2mgt7cCwdRP6irlgmHWtT0) | 2:22 |
 | 87 | [000memories](https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [000memories](https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU) | 2:28 |

@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-650 songs - 1 day 12 hr 19 min
+651 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 | 2022-01-11 | 2022-03-08 |
 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 | 2022-04-11 | 2022-07-29 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-10-13 | 2024-01-28 |
+| [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-04-12 |  |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-04-11 | 2023-09-13 |
 | [All I Ever Wanted](https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [All I Ever Wanted](https://open.spotify.com/album/0CkXPeR6nuF5pgE2iNWMl2) | 3:23 | 2021-12-16 | 2022-03-30 |
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2021-12-16 | 2022-01-12 |
@@ -309,7 +310,7 @@
 | [Interiority](https://open.spotify.com/track/70i9RjTI1S9MQVHEMptpCS) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Interiority](https://open.spotify.com/album/7LBmddZ3BZWH3jNzvBhZbQ) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Into The Fire](https://open.spotify.com/track/7BPNnaH7sze0E9U6iy1jNp) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Into The Fire](https://open.spotify.com/album/2NpmzmO1cYg4xUGwQGX5Fi) | 3:14 | 2021-12-16 | 2022-07-24 |
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-10-03 | 2024-01-27 |
-| [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2023-10-13 |  |
+| [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2023-10-13 | 2024-04-14 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-16 | 2023-04-15 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-03-25 | 2022-10-22 |
 | [Jealous](https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Jealous](https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo) | 3:53 | 2022-03-08 | 2022-07-29 |

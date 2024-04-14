@@ -1,6 +1,6 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 240185,
+  "num_followers": 240228,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+      "duration_ms": 244172,
+      "name": "Something to Say",
+      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -723,18 +719,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
       "artists": [
         {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 244172,
-      "name": "Something to Say",
-      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "King of Victory",
         "url": "https://open.spotify.com/album/56V12Ppm9gzP0E4S8rFpY5"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 218853,
       "name": "King of Victory",
       "url": "https://open.spotify.com/track/6TWRgFPkaEQJrOSDissdhj"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1483,38 +1483,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "War Going On",
-        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
-      },
-      "artists": [
-        {
-          "name": "Port Duo",
-          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "War Going On",
-      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "W O U N D E D H E A R T",
-        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "W O U N D E D H E A R T",
-      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Natural Killer",
         "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
@@ -1547,6 +1515,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "War Going On",
+        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+      },
+      "artists": [
+        {
+          "name": "Port Duo",
+          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "War Going On",
+      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "W O U N D E D H E A R T",
+        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "W O U N D E D H E A R T",
+      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Keep Hopin'",
         "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 167076,
       "name": "Keep Hopin'",
       "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
       "added_at": "2022-12-16 05:02:00",

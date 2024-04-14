@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,289 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,310 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alibi](https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:48 |
+| 1 | [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 |
 | 2 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
 | 3 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 4 | [Keeping The Light On](https://open.spotify.com/track/4BXnNaxLDGU1i3PK3iaWns) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:43 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 35 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 36 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 |
 | 37 | [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 |
-| 38 | [Up All Night](https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 3:05 |
+| 38 | [Up All Night](https://open.spotify.com/track/6iXB2WnYMibrt2xJzEu7X0) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/57BjFoCbjQU3BJsihWwQFi) | 3:05 |
 | 39 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
 | 40 | [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 |
 | 41 | [Come What May](https://open.spotify.com/track/75xfI6mkO4352qCDcN95q4) | [Daisy O'Connor](https://open.spotify.com/artist/5mgASfRlHMBB97OZRD0bmC) | [Lightchasers](https://open.spotify.com/album/5jfpAKsqql4dsgW6GzosyU) | 3:14 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 154534,
+  "2024-04-14": 154564,
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Lil Nas X. Los temas esenciales, todos en una lista.",
+  "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
   "name": "This Is Lil Nas X",
   "tracks": [
     {
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"

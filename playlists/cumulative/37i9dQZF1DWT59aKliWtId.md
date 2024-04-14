@@ -4,7 +4,7 @@
 
 > a high\-quality alternative blend ft\. Marcus King
 
-1,022 songs - 2 day 14 hr 35 min
+1,023 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1015,7 +1015,8 @@
 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2024-01-05 | 2024-02-04 |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-01-22 |  |
 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 | 2022-04-08 | 2022-05-07 |
-| [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 | 2023-11-10 |  |
+| [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 | 2023-11-10 | 2024-04-14 |
+| [World Worth Keeping](https://open.spotify.com/track/2xt8NrvTSiliSBmu9XbP23) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:42 | 2024-04-05 |  |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-12-10 | 2022-04-09 |
 | [Wretched](https://open.spotify.com/track/1wmx1Icz0XuAfyU8Dgio74) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 3:49 | 2022-07-15 | 2023-06-24 |
 | [Write a List of Things to Look Forward To](https://open.spotify.com/track/78DrOVN5pMN6HtuOBzgcqr) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/0bHIgWK4Ay5lPjYvokxBpz) | 2:48 | 2021-12-10 | 2022-06-25 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 20790,
+  "2024-04-14": 20792,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -1121,6 +1121,24 @@
       "duration_ms": 191823,
       "name": "Best Part About You - camoufly Remix",
       "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
+    },
+    {
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/5BYdygO5E12koFAocSZQvQ"
+      },
+      "artists": [
+        {
+          "name": "Thorne",
+          "url": "https://open.spotify.com/artist/2v3NVhIerh7ksVRXbG9MOT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/4qd6nttH7VO67H42wbmdhh"
     },
     {
       "album": {

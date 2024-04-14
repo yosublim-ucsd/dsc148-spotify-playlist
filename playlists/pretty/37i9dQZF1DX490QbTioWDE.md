@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,112 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,470 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 96 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 |
 | 97 | [Como La Primera Vez](https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Como La Primera Vez](https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd) | 3:53 |
 | 98 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
-| 99 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
-| 100 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
+| 99 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
+| 100 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
 
 Snapshot ID: `MTcxMjg5MDgwMCwwMDAwMDAwMGIzNTViNjI1YmQ0NzgzODllOWVjZGI0Y2Q1MjlkNmQz`

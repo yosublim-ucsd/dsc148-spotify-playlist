@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,897 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,955 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Colloquially](https://open.spotify.com/track/7BbkXvDdCGofOR7cLlMP3s) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Colloquially](https://open.spotify.com/album/3ymtSnu23oE9Z6XjZmqWce) | 3:25 |
-| 2 | [La Chanson de vieux amants](https://open.spotify.com/track/4Yy7AuqNVD1Z4eDy1273u3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/3GCdtc3tXTlUbP9y5xBWdz) | 6:55 |
+| 2 | [La Chanson de vieux amants](https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sayonara Meu Amor](https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS) | 6:55 |
 | 3 | [Closer To Me](https://open.spotify.com/track/3yITpbC4M82v7kltuzIqE0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Run Your Race](https://open.spotify.com/album/13092Bs8jIFLW1bekwRpa2) | 4:12 |
 | 4 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 5 | [Sparrow \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Shadow](https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW) | 6:34 |

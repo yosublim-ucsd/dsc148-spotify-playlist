@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Sharam, Green Velvet,  Adam Beyer,  Layton Giordani
 
-994 songs - 2 day 5 hr 12 min
+995 songs - 2 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Nothing Left To Say](https://open.spotify.com/track/3MxZYK11pAciPApseszdNu) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Nothing Left To Say](https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP) | 2:53 | 2023-06-15 | 2023-12-14 |
 | [Nothing On Earth](https://open.spotify.com/track/09k78uaXYQnotaFQMRA8Ee) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Nothing On Earth](https://open.spotify.com/album/3cQoVOlWTBDstqDH4hCekX) | 3:12 | 2022-10-13 | 2023-01-13 |
 | [Notice You](https://open.spotify.com/track/0R76zl4HLfJwxFJhLEzaHY) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Notice You](https://open.spotify.com/album/2L5I59Kb6HAKhxuP0Tshs7) | 2:54 | 2023-07-20 | 2023-12-19 |
+| [Now Love Will Begin](https://open.spotify.com/track/6F25FmoNZ2ESMPmYWMbsIG) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Now Love Will Begin](https://open.spotify.com/album/2jKYB8a9NJJgwWwOlV9eaZ) | 2:40 | 2024-04-13 |  |
 | [Nowhere](https://open.spotify.com/track/0EirCpJC624b6ds5Miz3G0) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Love Therapy](https://open.spotify.com/album/5gjhdgT90wzs9QeDRpEdrB) | 4:01 | 2024-01-26 |  |
 | [Numb](https://open.spotify.com/track/4tey3ZOems3qlH1HN0QdoT) | [Stash Konig](https://open.spotify.com/artist/2BhSSiFfl7HHN969F0uEa6), [Morgan Harvill](https://open.spotify.com/artist/1rvXqFVZImWFWkuEoSwnud) | [Numb](https://open.spotify.com/album/1XQiOJ6iLZBMd30pAelLHk) | 2:49 | 2022-06-09 | 2022-07-15 |
 | [Oblivion](https://open.spotify.com/track/2pu6BYv9V4npbbutVoIPif) | [Sassa](https://open.spotify.com/artist/5F4BzYBqDOuJUMgVlOkwKB), [Jager](https://open.spotify.com/artist/7mkfCLc2d4OHqYfc0FMJ51) | [Oblivion](https://open.spotify.com/album/4KNUn0q60PcDCnXVypfdZ4) | 3:05 | 2023-09-21 | 2024-02-09 |

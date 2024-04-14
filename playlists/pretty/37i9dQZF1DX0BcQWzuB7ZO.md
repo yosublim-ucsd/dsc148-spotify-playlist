@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,867,502 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,868,439 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 4 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
 | 5 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 6 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
-| 7 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 7 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 8 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 9 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 | 10 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |

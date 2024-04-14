@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,902 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,011 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 54 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 |
 | 55 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
 | 56 | [Outra Vez \- Ao Vivo](https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Sol Lua Sol, ao Vivo em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla) | 4:17 |
-| 57 | [Boca Com Boca](https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:56 |
-| 58 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
+| 57 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
+| 58 | [Boca Com Boca](https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:56 |
 | 59 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 60 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
-| 61 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
-| 62 | [Onde A Gente Chegou](https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Onde A Gente Chegou](https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If) | 2:40 |
+| 61 | [Onde A Gente Chegou](https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Onde A Gente Chegou](https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If) | 2:40 |
+| 62 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 63 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
 | 64 | [Todas as Janelas](https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Saideira Acústico Sessions](https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC) | 4:27 |
 | 65 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 74 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 |
 | 75 | [Pijama \- Acústico](https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia 2 \(acústico\)](https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt) | 2:55 |
 | 76 | [Rei do Luau \- Infusão](https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 2:54 |
-| 77 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
-| 78 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
+| 77 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
+| 78 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
 | 79 | [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/6pY5YWYHk7CWxmf0IwD7RX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/6bB5V8MnfPZrUXVMZe75IE) | 3:01 |
 | 80 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
 | 81 | [Volta](https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Volta](https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH) | 3:39 |

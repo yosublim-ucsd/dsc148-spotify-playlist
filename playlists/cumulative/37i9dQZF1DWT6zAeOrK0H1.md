@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: Bleachers
 
-265 songs - 16 hr 3 min
+266 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-02-02 |  |
 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 | 2023-02-06 | 2024-02-03 |
 | [Famous \- Single Version](https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:23 | 2022-03-15 | 2024-02-03 |
-| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 |  |
+| [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-03-11 |  |
+| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 | 2024-04-14 |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-02-02 | 2024-04-08 |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-05-06 |  |
 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 | 2022-10-13 |  |
@@ -122,7 +123,7 @@
 | [It's good to be back](https://open.spotify.com/track/4ia6ACdtbVvoBgfixtaXFP) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:53 | 2022-03-15 | 2023-02-07 |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2022-10-13 | 2023-06-21 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-03-15 | 2022-11-03 |
-| [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2024-02-02 |  |
+| [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2024-02-02 | 2024-04-14 |
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-10-13 | 2023-10-12 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-11 | 2024-02-03 |
 | [Lost Track](https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE) | 2:22 | 2022-07-08 | 2024-02-03 |
@@ -255,7 +256,7 @@
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-03-15 |  |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-03-15 |  |
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-10-13 | 2023-04-30 |
-| [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 | 2023-03-16 | 2024-03-12 |
+| [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 | 2023-03-16 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-08-11 |  |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-15 | 2022-08-18 |
 | [Wild Stare](https://open.spotify.com/track/11cjKlgVaUvbBjEAAGv9MZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:14 | 2022-03-15 | 2022-07-29 |

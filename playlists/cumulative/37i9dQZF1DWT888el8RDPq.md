@@ -4,7 +4,7 @@
 
 > canzoni felici italiane e internazionali per una primavera presa bene
 
-359 songs - 18 hr 1 min
+360 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-09-02 | 2022-09-24 |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 | 2022-11-27 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2022-05-06 | 2022-09-03 |
+| [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2024-04-05 |  |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-05-06 | 2022-07-26 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-26 | 2022-10-15 |
 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 | 2023-11-16 | 2024-03-24 |
@@ -264,7 +265,7 @@
 | [Notti In Bianco](https://open.spotify.com/track/38UoVEHcZ85EGBo6k79643) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Notti In Bianco](https://open.spotify.com/album/6gnq480U8mvkVRMqKinsX6) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-05-06 |  |
 | [Nuova fissa](https://open.spotify.com/track/1PueyaeMdF96akBvyLr7X7) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Storia Breve](https://open.spotify.com/album/2MPwfObbvhMOyPxmFmb7WQ) | 2:45 | 2022-06-10 | 2022-07-29 |
-| [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 | 2022-11-08 |  |
+| [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 | 2022-11-08 | 2024-04-14 |
 | [Ode To NYC](https://open.spotify.com/track/3Ie1fWrYvi0sueYNwmr79X) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ode To NYC](https://open.spotify.com/album/45kDhJN2uStPevnVj9ZqjT) | 2:51 | 2022-05-16 | 2022-07-20 |
 | [Our Little World](https://open.spotify.com/track/1n8JThYIQZXrCBC5pODu1y) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Our Little World](https://open.spotify.com/album/6zouGkQjC4MMduqamE9j6V) | 3:29 | 2022-07-15 | 2022-07-19 |
 | [Panorama](https://open.spotify.com/track/7fBlPG0Yp0HDlosXjoQswL) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Panorama](https://open.spotify.com/album/6jtGpfZKBee8GtCpZeckPD) | 2:28 | 2024-03-28 |  |

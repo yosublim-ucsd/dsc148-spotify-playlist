@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8199,
+  "num_followers": 8200,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -531,30 +531,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "Como Um de N\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 168158,
       "name": "\u00c9 Natal",
       "url": "https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "Como Um de N\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 396266,
-      "name": "Noite Santa (Cantique de Noel)",
-      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 396266,
+      "name": "Noite Santa (Cantique de Noel)",
+      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
     },
     {
       "added_at": "2023-12-22 03:00:00",

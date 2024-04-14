@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 110244,
+  "2024-04-14": 110244,
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Adam Melchor",
+  "description": "Current indie tunes from Asia and around the world. Cover: Maggie Rogers",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -2858,6 +2858,24 @@
     },
     {
       "album": {
+        "name": "blame",
+        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
+    },
+    {
+      "album": {
         "name": "camp",
         "url": "https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX"
       },
@@ -3625,7 +3643,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 333166,
       "name": "Butterfly Net (feat. Weyes Blood)",
       "url": "https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW"
@@ -4029,7 +4047,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
@@ -4746,6 +4764,24 @@
     },
     {
       "album": {
+        "name": "Coming Back To Me Good",
+        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169568,
+      "name": "Coming Back To Me Good",
+      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
+    },
+    {
+      "album": {
         "name": "coming of age",
         "url": "https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5"
       },
@@ -4775,7 +4811,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231023,
       "name": "Common Blue",
       "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
@@ -6514,6 +6550,24 @@
     },
     {
       "album": {
+        "name": "Easy Lighter",
+        "url": "https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6"
+      },
+      "artists": [
+        {
+          "name": "N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d",
+          "url": "https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381750,
+      "name": "Easy Lighter",
+      "url": "https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3"
+    },
+    {
+      "album": {
         "name": "FUNFAIR",
         "url": "https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i"
       },
@@ -6669,7 +6723,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 223636,
       "name": "Ego",
       "url": "https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt"
@@ -7391,7 +7445,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202033,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D"
@@ -7907,7 +7961,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183970,
       "name": "Fell First, Fell Hard",
       "url": "https://open.spotify.com/track/4uBqMCNpMiSYxfQxYPmdbB"
@@ -10756,6 +10810,24 @@
     },
     {
       "album": {
+        "name": "How Can I Love Her More?",
+        "url": "https://open.spotify.com/album/4AflCecOU26ScUgd34omyk"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "How Can I Love Her More?",
+      "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
+    },
+    {
+      "album": {
         "name": "how sweet does this sound?",
         "url": "https://open.spotify.com/album/1itMip3QgwzDvtQjqGNS37"
       },
@@ -11211,6 +11283,24 @@
       "duration_ms": 179852,
       "name": "I Hope You're Happy",
       "url": "https://open.spotify.com/track/3hVsjwJWXLZDVi3SaOD7rU"
+    },
+    {
+      "album": {
+        "name": "I Just Killed a Spider",
+        "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149101,
+      "name": "I Just Killed a Spider",
+      "url": "https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY"
     },
     {
       "album": {
@@ -11881,6 +11971,24 @@
       "duration_ms": 191000,
       "name": "Intruder",
       "url": "https://open.spotify.com/track/2D20Br4n9YAucPqOZp027g"
+    },
+    {
+      "album": {
+        "name": "Invisible Woman",
+        "url": "https://open.spotify.com/album/4TOk292nzkehNxUkx3isMS"
+      },
+      "artists": [
+        {
+          "name": "The Baby Seals",
+          "url": "https://open.spotify.com/artist/6dPxlBjTjehWM4VRwl2bmw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "Invisible Woman",
+      "url": "https://open.spotify.com/track/2mtsPeNxe9SnEX0Owizdnq"
     },
     {
       "album": {
@@ -15190,6 +15298,24 @@
     },
     {
       "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "album": {
         "name": "My Golden Years",
         "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
       },
@@ -18151,7 +18277,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 256573,
       "name": "POP POP POP",
       "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
@@ -18649,6 +18775,24 @@
       "duration_ms": 218113,
       "name": "Radiosoul - Single Version",
       "url": "https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa"
+    },
+    {
+      "album": {
+        "name": "Rag",
+        "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142449,
+      "name": "Rag",
+      "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
     },
     {
       "album": {
@@ -21645,7 +21789,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233416,
       "name": "Spring Is Coming With A Strawberry In The Mouth",
       "url": "https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr"
@@ -23371,6 +23515,24 @@
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "album": {
@@ -27023,7 +27185,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198707,
       "name": "Your Apartment",
       "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"

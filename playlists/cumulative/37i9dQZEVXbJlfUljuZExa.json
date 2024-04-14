@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 219786,
       "name": "Aidilfitri",
       "url": "https://open.spotify.com/track/65SXgbhFSx3ptjqi182DFb"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 248373,
       "name": "Car's Outside",
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 225400,
       "name": "Dari Jauh Kupohon Maaf",
       "url": "https://open.spotify.com/track/6UTI3490SQ3rQdUfGXeKuc"
@@ -3948,7 +3948,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 171427,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
@@ -3984,7 +3984,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 163333,
       "name": "Dendang Perantau",
       "url": "https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh"
@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 247205,
       "name": "GADISKU",
       "url": "https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12"
@@ -5630,7 +5630,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6508,7 +6508,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -7109,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 273573,
       "name": "Indahnya Beraya Di Desa",
       "url": "https://open.spotify.com/track/1kfMvCj7gGd5zfqx5gtZPo"
@@ -8100,7 +8118,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 224786,
       "name": "Kepulangan Yang Di Nanti",
       "url": "https://open.spotify.com/track/2XIFe4OqegSIvWdyUNduXL"
@@ -8332,7 +8350,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 163413,
       "name": "Ku Pohon Restu Ayah & Ibu",
       "url": "https://open.spotify.com/track/73i60Qy5YEYab2DZZ0Xhdp"
@@ -9627,6 +9645,24 @@
     },
     {
       "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -10348,7 +10384,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 339080,
       "name": "Nazam Lebaran",
       "url": "https://open.spotify.com/track/1liq9fnB5siKzxqajo5hxm"
@@ -10474,7 +10510,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -11264,7 +11300,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 199760,
       "name": "Pejam Celik Hari Raya",
       "url": "https://open.spotify.com/track/11ZgYbFZQ16i3F3KGRLbkI"
@@ -11380,7 +11416,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -11710,6 +11746,40 @@
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
+        "name": "Semoga Dipermudahkan",
+        "url": "https://open.spotify.com/album/7Fj7rpcLtwQxFIzJDPgaGm"
+      },
+      "artists": [
+        {
+          "name": "53 UNIVERSE",
+          "url": "https://open.spotify.com/artist/4yGA6C1gdOHrpjrtERFfKI"
+        },
+        {
+          "name": "YBJ",
+          "url": "https://open.spotify.com/artist/51KyiLma2yvVRmm4wjvUyt"
+        },
+        {
+          "name": "Akkimwaru",
+          "url": "https://open.spotify.com/artist/2lrCZudusn6gGEh0MIgPd3"
+        },
+        {
+          "name": "DKyoumadethis",
+          "url": "https://open.spotify.com/artist/76A3LioaRCJyquWbYLoWfv"
+        },
+        {
+          "name": "Meorey",
+          "url": "https://open.spotify.com/artist/1tW7RdN7Tw5s0frgltx9e1"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163975,
+      "name": "PP at Bukit Tabur",
+      "url": "https://open.spotify.com/track/5nfej3nNDDdT7JHkfZXO0Z"
     },
     {
       "album": {
@@ -14638,7 +14708,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 190746,
       "name": "Suasana Riang Di Hari Raya",
       "url": "https://open.spotify.com/track/7uvKupP8xo3uq17ObZvbZz"
@@ -16570,7 +16640,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 288026,
       "name": "Warna Warni Aidilfitri",
       "url": "https://open.spotify.com/track/2NuXB2BK357vJ2yvLL7OB0"

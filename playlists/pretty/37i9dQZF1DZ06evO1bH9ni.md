@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This Is Los Dos Carnales\. Los temas esenciales, todos en una lista.
+> This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,064 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,128 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 25 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
 | 26 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 |
 | 27 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
-| 28 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
-| 29 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
+| 28 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
+| 29 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
 | 30 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 |
 | 31 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 |
 | 32 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [Disfruto el Momento](https://open.spotify.com/track/1SPLvy8C1kBaBQfXLsFmPp) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Disfruto el Momento](https://open.spotify.com/album/1XpgbryofDnJiNFwQgGKQj) | 3:03 |
 | 50 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGYxNzIwZTg2YjRjMjgxMTdhYWRkMzNmYzE4YjhlYjg4`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDRkMzEwOGIwYWMxOTY2NTAwOWZhYmFhY2JjNmQ0Yjcz`

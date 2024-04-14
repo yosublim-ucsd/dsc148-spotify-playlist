@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1355,
+  "2024-04-14": 1356,
   "date_first_scraped": "2024-01-30",
   "description": "Fresh takes- from new revisions and iconic covers to unexpected versions.",
   "name": "John Prine: Covered",
@@ -367,7 +367,7 @@
     {
       "album": {
         "name": "Dwight's Used Records",
-        "url": "https://open.spotify.com/album/5hizFwDzTF2OSYlvfJNn5S"
+        "url": "https://open.spotify.com/album/0P5a6jQe3VFcYX5fP6kDMX"
       },
       "artists": [
         {
@@ -378,6 +378,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 384146,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0bc2wW0upw8IQ8eqXXEUmX"
+    },
+    {
+      "album": {
+        "name": "Dwight's Used Records",
+        "url": "https://open.spotify.com/album/5hizFwDzTF2OSYlvfJNn5S"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 384146,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2c8tVl8WF1F81NhFkoDAq5"
@@ -457,7 +475,7 @@
     {
       "album": {
         "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/4V2559m7ZHIoqfoeqQ9gwO"
+        "url": "https://open.spotify.com/album/5IO30vnHbudsEKWyepEim1"
       },
       "artists": [
         {
@@ -468,6 +486,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Sam Stone - Live",
+      "url": "https://open.spotify.com/track/3pTkcyYQBTILa5PADESlmY"
+    },
+    {
+      "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/4V2559m7ZHIoqfoeqQ9gwO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 251040,
       "name": "Sam Stone - Live",
       "url": "https://open.spotify.com/track/4iHj6t1TKs8GxkXFEAChti"

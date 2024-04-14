@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,557 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,560 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 27 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
 | 28 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 29 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
-| 30 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
-| 31 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
-| 32 | [Spirit In The Sky](https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT) | 3:05 |
+| 30 | [Spirit In The Sky](https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT) | 3:05 |
+| 31 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
+| 32 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
 | 33 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 34 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 35 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 55 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
 | 56 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
 | 57 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
-| 58 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
-| 59 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
+| 58 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
+| 59 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
 | 60 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
 | 61 | [Shady Lady](https://open.spotify.com/track/0DHet9TdSsdouIbOjvLf3m) | [Ani Lorak](https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o) | [Солнце](https://open.spotify.com/album/3Be7rJ72wTrmE0W6oSUt32) | 2:58 |
 | 62 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 66 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
 | 67 | [My Star](https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3) | 3:03 |
 | 68 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
-| 69 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
-| 70 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
+| 69 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
+| 70 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
 | 71 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 73 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |

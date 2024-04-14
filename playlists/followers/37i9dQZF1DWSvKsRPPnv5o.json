@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 726830,
+  "2024-04-14": 726891,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: Mozzy",
   "name": "Westside Story",
@@ -175,7 +175,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 131764,
       "name": "1234",
       "url": "https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt"
@@ -1835,6 +1835,24 @@
       "duration_ms": 185924,
       "name": "Black Iverson",
       "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
+    },
+    {
+      "album": {
+        "name": "Blasphemy",
+        "url": "https://open.spotify.com/album/5c04iQtkacRr05igSQg46z"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170329,
+      "name": "Blasphemy",
+      "url": "https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0"
     },
     {
       "album": {
@@ -4422,6 +4440,24 @@
     },
     {
       "album": {
+        "name": "EVERYBODY",
+        "url": "https://open.spotify.com/album/2rG2pC1BqTmPrEHgXYuWbo"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "EVERYBODY",
+      "url": "https://open.spotify.com/track/7tToMKgUXVNMU54B2ruipf"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4Lzqq49mlEG2Hcsy8KST6C"
       },
@@ -4795,7 +4831,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
@@ -7278,6 +7314,24 @@
     },
     {
       "album": {
+        "name": "2093 (P2)",
+        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW"
+    },
+    {
+      "album": {
         "name": "SORRY 4 THA WAIT II",
         "url": "https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj"
       },
@@ -7315,6 +7369,24 @@
       "duration_ms": 177030,
       "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
       "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
+    },
+    {
+      "album": {
+        "name": "Imported Couches",
+        "url": "https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "Imported Couches",
+      "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
     },
     {
       "album": {
@@ -7589,7 +7661,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 243679,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5oRxL1xwkTVPZSQcaOkoSc"
@@ -7935,6 +8007,24 @@
       "duration_ms": 165957,
       "name": "Lamborghini Dreams (feat. 03 Greedo)",
       "url": "https://open.spotify.com/track/4oPLgP2Mkkpo5e7lU6OnN7"
+    },
+    {
+      "album": {
+        "name": "LAMELO FREESTYLE",
+        "url": "https://open.spotify.com/album/3KXN1ZXl4eOylKBV3yR8Q4"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157193,
+      "name": "LAMELO FREESTYLE",
+      "url": "https://open.spotify.com/track/2m8Sp1aCwXLNY827oGodXp"
     },
     {
       "album": {
@@ -8687,7 +8777,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188336,
       "name": "Long Live Free (feat. Mozzy)",
       "url": "https://open.spotify.com/track/4ZFacNfr35yagxS5v0NM4G"
@@ -10625,7 +10715,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169053,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n"
@@ -11019,7 +11109,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 102989,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/06KQ4k7nAuhWj3nr5Dk7MS"
@@ -12780,6 +12870,24 @@
     },
     {
       "album": {
+        "name": "She Sexy",
+        "url": "https://open.spotify.com/album/7hvhvTRHBlJ23NB84Uqat4"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "She Sexy",
+      "url": "https://open.spotify.com/track/6vbR1YuCZwMew0gajfEeMW"
+    },
+    {
+      "album": {
         "name": "Sheikh Talk",
         "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
@@ -13965,7 +14073,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165557,
       "name": "Taste (feat. Karrahbooo)",
       "url": "https://open.spotify.com/track/5dXneHqsjMuGYwdMtL7clA"
@@ -14531,7 +14639,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 141596,
       "name": "This Yo Song",
       "url": "https://open.spotify.com/track/0DI2azijIBAPh0IAxJHRhA"
@@ -14571,6 +14679,24 @@
       "duration_ms": 170363,
       "name": "Thru the Week",
       "url": "https://open.spotify.com/track/2sgoxBPUrgJHG7A31z9ZKn"
+    },
+    {
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/0XHLIKgXix4uyMsAEFewjX"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128951,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/2le9mdH7fVUDQFSO2cLlYh"
     },
     {
       "album": {
@@ -15581,6 +15707,24 @@
       "duration_ms": 169708,
       "name": "Where's Remble?",
       "url": "https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV"
+    },
+    {
+      "album": {
+        "name": "White Papers",
+        "url": "https://open.spotify.com/album/3DKkf6XMrYr2a0mEBlgSpl"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161808,
+      "name": "White Papers",
+      "url": "https://open.spotify.com/track/3FramRdzvBgTuF9W0CACwS"
     },
     {
       "album": {

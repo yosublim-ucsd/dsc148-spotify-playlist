@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 663942,
+  "2024-04-14": 664048,
   "date_first_scraped": "2021-12-21",
   "description": "Relive the good ol' days with these 60s and 70s classics.",
   "name": "Happy Days",
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
@@ -1395,6 +1395,24 @@
       "duration_ms": 145466,
       "name": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
       "url": "https://open.spotify.com/track/0hbC2CAJidLslKqJ39Lxh4"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "album": {

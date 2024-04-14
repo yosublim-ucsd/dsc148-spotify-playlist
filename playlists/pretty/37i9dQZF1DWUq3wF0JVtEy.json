@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938226,
+  "num_followers": 938288,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 154838,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2024-04-12 04:00:00",

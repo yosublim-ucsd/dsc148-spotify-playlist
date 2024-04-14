@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,100 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,102 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 49 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
 | 50 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Fischersund](https://open.spotify.com/artist/1bgRMYvqTqb7PLS7Sd2gFd), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 |
 | 51 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
-| 52 | [Lenz Pianoday 2022](https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL) | [Jan Sturm](https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm), [STURM](https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL) | [Lenz Pianoday 2022](https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19) | 2:19 |
-| 53 | [Crusoe Takes a Trip](https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 6:39 |
+| 52 | [Crusoe Takes a Trip](https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 6:39 |
+| 53 | [Lenz Pianoday 2022](https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL) | [Jan Sturm](https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm), [STURM](https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL) | [Lenz Pianoday 2022](https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19) | 2:19 |
 | 54 | [Man With The Movie Camera](https://open.spotify.com/track/33w6ijljyz6AChh6EQhMQW) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Every Day](https://open.spotify.com/album/1EUXHvyflL27HwOTQgaVuh) | 9:09 |
 | 55 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
 | 56 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 |
-| 57 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
-| 58 | [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 |
+| 57 | [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 |
+| 58 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
 | 59 | [Spring's Theme](https://open.spotify.com/track/6cF8Z623V1z9sovxUEdWYW) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:49 |
 | 60 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 |
 | 61 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 71 | [Lithuania](https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [A Living Room Hush](https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS) | 8:38 |
 | 72 | [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 |
 | 73 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
-| 74 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
-| 75 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
+| 74 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
+| 75 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
 
 Snapshot ID: `MTcxMjg4MjcyMywwMDAwMDAwMGI0YTAzOGE2ZmE2OWYxZGMzY2FmNGQ3MmY0OWYzOGNl`

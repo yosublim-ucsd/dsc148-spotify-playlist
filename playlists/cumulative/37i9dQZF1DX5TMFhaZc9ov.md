@@ -4,13 +4,14 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-181 songs - 11 hr 25 min
+183 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 | 2022-06-10 |  |
 | [14 Year Old Me](https://open.spotify.com/track/48jBzw9xQyddW036qQsREk) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/5oY4oozC9s6StQYjrblb9L) | 3:19 | 2021-06-01 | 2022-10-24 |
-| [Alibi](https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:48 | 2024-03-08 |  |
+| [Alibi](https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 2:48 | 2024-03-08 |  |
+| [Alibi](https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:48 | 2024-03-08 | 2024-04-14 |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 |  |
 | [All Apologies](https://open.spotify.com/track/1zX0Pv0l7GQUFlf0lNADqy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE) | 2:37 | 2021-06-01 | 2022-07-29 |
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2022-06-10 |  |
@@ -176,7 +177,8 @@
 | [Two Men In Love](https://open.spotify.com/track/33vDXztradlEuqKLz5BRRZ) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/762A3Z51nqkzTN4HgOY9Cs) | 6:26 | 2021-06-01 | 2022-07-29 |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-06-01 | 2023-02-02 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2022-12-02 |  |
-| [Up All Night](https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 3:05 | 2021-06-01 |  |
+| [Up All Night](https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 3:05 | 2021-06-01 | 2024-04-14 |
+| [Up All Night](https://open.spotify.com/track/6iXB2WnYMibrt2xJzEu7X0) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/57BjFoCbjQU3BJsihWwQFi) | 3:05 | 2024-03-08 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2021-06-01 | 2022-06-01 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-06-01 |  |
 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 | 2022-06-08 |  |

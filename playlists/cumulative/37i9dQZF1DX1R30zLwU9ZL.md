@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-73 songs - 3 hr 48 min
+74 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Double Negative \(Skeleton Milkshake\)](https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:06 | 2023-02-27 |  |
 | [Drumdown Mambo \(feat\. Jasiah\)](https://open.spotify.com/track/0ww5NVJt3quNKHp8Fn5wQK) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 1:39 | 2023-02-27 |  |
 | [Dylan](https://open.spotify.com/track/7y1zhOFReBxfaKuwufyfc0) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [Dylan](https://open.spotify.com/album/2abVbIIXfKpEXraN5Obthv) | 3:49 | 2023-02-27 |  |
-| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2023-02-27 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 | 2023-02-27 |  |
+| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2023-02-27 | 2024-04-14 |
 | [FAMILY > EVERYTHING](https://open.spotify.com/track/1KDoVMfY8xPWdInEQyxuoS) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [AUSSIE BLACKSTAR](https://open.spotify.com/album/7xbfaEWe6vd8HO5pKdBUtF) | 3:49 | 2023-02-27 |  |
 | [Fast \(Motion\)](https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast \(Motion\)](https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB) | 2:50 | 2023-02-27 |  |
 | [Finally We're Alone](https://open.spotify.com/track/3FDkWoE4P93P3Fz67WycUP) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Finally We're Alone](https://open.spotify.com/album/0kS3ANB5tY9d6mgpNA4ldB) | 3:14 | 2023-02-27 |  |

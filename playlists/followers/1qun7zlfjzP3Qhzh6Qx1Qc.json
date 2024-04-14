@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 34960,
+  "2024-04-14": 34958,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
   "name": "Country Smash Hits",
@@ -453,7 +453,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208901,
       "name": "Change The Game",
       "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231630,
       "name": "Completely, Sweetly",
       "url": "https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205568,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr"
@@ -1005,6 +1005,24 @@
       "duration_ms": 170000,
       "name": "Heavensville",
       "url": "https://open.spotify.com/track/69clAgwLp30lmH71RbRqae"
+    },
+    {
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192409,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH"
     },
     {
       "album": {
@@ -1843,6 +1861,24 @@
       "duration_ms": 186973,
       "name": "This Heart",
       "url": "https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf"
+    },
+    {
+      "album": {
+        "name": "Time to Love, Time to Kill",
+        "url": "https://open.spotify.com/album/3HCJ06Y0BsR66QzyTw6Puw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "Time to Love, Time to Kill",
+      "url": "https://open.spotify.com/track/5haqzzLVsTHG1iVvPTj1kM"
     },
     {
       "album": {

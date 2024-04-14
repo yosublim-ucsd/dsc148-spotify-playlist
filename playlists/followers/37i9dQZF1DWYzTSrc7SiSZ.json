@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 819790,
+  "2024-04-14": 819808,
   "date_first_scraped": "2022-05-26",
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
   "name": "chill latino",
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200727,
       "name": "Indirecta",
       "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
@@ -3243,6 +3243,24 @@
       "duration_ms": 199999,
       "name": "Ojos Negros",
       "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "album": {
+        "name": "OPPENHEIMER",
+        "url": "https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "OPPENHEIMER",
+      "url": "https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO"
     },
     {
       "album": {

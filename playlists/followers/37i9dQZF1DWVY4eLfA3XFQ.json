@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 616101,
+  "2024-04-14": 616398,
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Joshwa. 50% techno, 50% house",
+  "description": "Tech house technicians, featuring John Summit. 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -337,6 +337,24 @@
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+    },
+    {
+      "album": {
+        "name": "A Little Fun EP",
+        "url": "https://open.spotify.com/album/08DaiRJietHugD3s69qrhO"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194198,
+      "name": "A Little Fun",
+      "url": "https://open.spotify.com/track/5ED4Qj4sGvtkObXYXJ88L3"
     },
     {
       "album": {
@@ -4717,7 +4735,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
@@ -7809,7 +7827,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 259842,
       "name": "Dubplate 99 - VIP EDIT",
       "url": "https://open.spotify.com/track/4H4whJox6zbUy8CoYiynTh"
@@ -7893,6 +7911,24 @@
       "duration_ms": 206456,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
+    },
+    {
+      "album": {
+        "name": "EAT THE BASS",
+        "url": "https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "EAT THE BASS",
+      "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
     },
     {
       "album": {
@@ -10508,6 +10544,24 @@
     },
     {
       "album": {
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+    },
+    {
+      "album": {
         "name": "Ghost - Cloverdale Remix",
         "url": "https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW"
       },
@@ -12049,7 +12103,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222977,
       "name": "Horizon - Crusy Remix",
       "url": "https://open.spotify.com/track/3eTgSmPvLineyX2V39xaBM"
@@ -15261,6 +15315,24 @@
       "duration_ms": 112131,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
+    },
+    {
+      "album": {
+        "name": "Let's Get Jack",
+        "url": "https://open.spotify.com/album/6WH9b8YDdMxFwXTFqpaqIL"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "Let's Get Jack",
+      "url": "https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq"
     },
     {
       "album": {
@@ -22267,7 +22339,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159599,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4"
@@ -23912,6 +23984,24 @@
     },
     {
       "album": {
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+    },
+    {
+      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
       },
@@ -25057,7 +25147,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180952,
       "name": "Snare Thing",
       "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
@@ -26177,7 +26267,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202759,
       "name": "Super Model (feat. Dakota)",
       "url": "https://open.spotify.com/track/4cyLyKWXItFit1oelfxg2D"
@@ -27605,7 +27695,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192848,
       "name": "The Function",
       "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
@@ -28292,6 +28382,24 @@
     },
     {
       "album": {
+        "name": "This Is Test",
+        "url": "https://open.spotify.com/album/6H42cNi6CpjPdeUAbqM1CF"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "This Is Test",
+      "url": "https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z"
+    },
+    {
+      "album": {
         "name": "This Is The Sound",
         "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
       },
@@ -28865,6 +28973,28 @@
       "duration_ms": 217920,
       "name": "Toxic Trip",
       "url": "https://open.spotify.com/track/3j3qSyaPJt5Gnwu4MRqqZ0"
+    },
+    {
+      "album": {
+        "name": "Toys",
+        "url": "https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260194,
+      "name": "Toys",
+      "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
     },
     {
       "album": {
@@ -30220,6 +30350,24 @@
     },
     {
       "album": {
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/1kLWmRHqICUJVnoGpPClkB"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6KGOu625irUoNb0yzzq1Ca"
       },
@@ -30891,7 +31039,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200343,
       "name": "What I'm Sayin",
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
@@ -31142,6 +31290,28 @@
     },
     {
       "album": {
+        "name": "Whine Up",
+        "url": "https://open.spotify.com/album/7jf1fvzIVmG9hZmPeaKSVB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj"
+    },
+    {
+      "album": {
         "name": "Whisper (with James Yuill) [John Summit Remix]",
         "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
       },
@@ -31245,7 +31415,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170625,
       "name": "Wildstyle",
       "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"

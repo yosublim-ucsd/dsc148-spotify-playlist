@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+    },
+    {
+      "album": {
         "name": "6 mois",
         "url": "https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy"
       },
@@ -16596,7 +16614,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 216257,
       "name": "Guerres de pissenlits - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4fi4kG8OCPL1H8P2hEn8Bv"

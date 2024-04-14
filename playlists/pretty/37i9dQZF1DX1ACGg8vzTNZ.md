@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,531 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,574 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 10 | [For Leah](https://open.spotify.com/track/1PVSCJHI5Q0jAyvu0qSKXm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [For Leah](https://open.spotify.com/album/74tyKTLDk3ebFMoV0S16NL) | 3:13 |
 | 11 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 |
 | 12 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 |
-| 13 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
+| 13 | [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 |
 | 14 | [Éphémère](https://open.spotify.com/track/4LurYqydfPdLc9IN7eQxTF) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Nuit](https://open.spotify.com/album/6PSnEum2RrNY1uuj8goegP) | 1:43 |
 | 15 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Dear, Piano](https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u) | 4:31 |
 | 16 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 |

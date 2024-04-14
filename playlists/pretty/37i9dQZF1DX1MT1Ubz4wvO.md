@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Viniloversus en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,967 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,992 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Animal Temporal](https://open.spotify.com/track/4NUFc7YLF1bbpWVmYeccdq) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Animal Temporal](https://open.spotify.com/album/0naPZ6OeEMtHjLzz1saM82) | 3:08 |
 | 2 | [Miedo](https://open.spotify.com/track/05UGQrcv8Aq4eYweOr1iPw) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Miedo](https://open.spotify.com/album/0ZNhHQ0wMxzkEBkUkhzHXR) | 3:56 |
-| 3 | [Te he prometido](https://open.spotify.com/track/7h8WsXB9ps3LwQQpqOCH7V) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c), [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Playlist](https://open.spotify.com/album/2LmvNBblKqD2mdaIYE2CDz) | 3:31 |
+| 3 | [Te he prometido](https://open.spotify.com/track/7h8WsXB9ps3LwQQpqOCH7V) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Playlist](https://open.spotify.com/album/2LmvNBblKqD2mdaIYE2CDz) | 3:31 |
 | 4 | [Plan de Mierda](https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Diego Ibañez](https://open.spotify.com/artist/7k6NtcAJIqG7iiFPd7KdMo) | [Plan de Mierda](https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4) | 3:22 |
 | 5 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 |
 | 6 | [MADRID ME ATACA](https://open.spotify.com/track/6GYQTEEmk50F4dGOM033HW) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [MADRID ME ATACA](https://open.spotify.com/album/2T19X7C0k99uOLp4zVmSRJ) | 3:01 |

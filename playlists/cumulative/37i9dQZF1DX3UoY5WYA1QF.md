@@ -4,7 +4,7 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-104 songs - 5 hr 25 min
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,14 @@
 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 | 2023-04-10 |  |
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2023-04-10 |  |
 | [Mas Alto Que Las Aguilas](https://open.spotify.com/track/12Wt7BjwD9LGbX1tiL6weH) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 3:33 | 2023-04-10 |  |
-| [Mayra](https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:14 | 2023-04-10 |  |
+| [Mayra](https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:14 | 2023-04-10 | 2024-04-14 |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2023-04-10 |  |
 | [Medios Hermanos](https://open.spotify.com/track/64ipivlugGKqBdGRFbQmpm) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 3:32 | 2023-04-10 |  |
 | [Melodia Para Dos](https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 2:43 | 2023-04-10 |  |
 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 | 2023-04-10 |  |
 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 | 2023-04-10 |  |
 | [Mil Navajas](https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:00 | 2023-04-10 |  |
+| [Moriré Esperando](https://open.spotify.com/track/1c8e6seRfcgMHQ6azvXqbO) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:38 | 2023-04-10 |  |
 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 | 2023-04-10 |  |
 | [Nada De Ti](https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:06 | 2023-04-10 |  |
 | [Niña Hechicera](https://open.spotify.com/track/5z379KMiQxc4QIV6sD2pzf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:04 | 2023-04-10 |  |

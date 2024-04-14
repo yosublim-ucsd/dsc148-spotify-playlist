@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 271550,
+  "2024-04-14": 271600,
   "date_first_scraped": "2022-01-13",
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
   "name": "#SadCuhHours \ud83d\udc94",
@@ -598,6 +598,24 @@
     },
     {
       "album": {
+        "name": "Baby Please",
+        "url": "https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Baby Please",
+      "url": "https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG"
+    },
+    {
+      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/7vSPTce8LJvIcQGBLs2ARi"
       },
@@ -817,6 +835,28 @@
       "duration_ms": 221425,
       "name": "Carnalito Alegre",
       "url": "https://open.spotify.com/track/78GCN1wEe2XQp80GKihjFE"
+    },
+    {
+      "album": {
+        "name": "Cartas",
+        "url": "https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1"
+      },
+      "artists": [
+        {
+          "name": "whathedgar",
+          "url": "https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153827,
+      "name": "Cartas",
+      "url": "https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N"
     },
     {
       "album": {
@@ -1088,6 +1128,28 @@
     },
     {
       "album": {
+        "name": "Dame Amor (Remix)",
+        "url": "https://open.spotify.com/album/5jeAHqUbXmNPkgALTXex3a"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207875,
+      "name": "Dame Amor - Remix",
+      "url": "https://open.spotify.com/track/1tRogguj9jao4OQMrWoxzu"
+    },
+    {
+      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -1261,7 +1323,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 235152,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
@@ -1883,7 +1945,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198128,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
@@ -2021,6 +2083,24 @@
       "duration_ms": 237781,
       "name": "Est\u00e1s en M\u00ed Pasado",
       "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
+    },
+    {
+      "album": {
+        "name": "ETERNIDAD",
+        "url": "https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ"
+      },
+      "artists": [
+        {
+          "name": "Daren, Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1KZNhFjQLJwMxyUdWjELkf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175375,
+      "name": "ETERNIDAD",
+      "url": "https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD"
     },
     {
       "album": {
@@ -2874,6 +2954,28 @@
     },
     {
       "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr"
+      },
+      "artists": [
+        {
+          "name": "Mauro",
+          "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
+        },
+        {
+          "name": "Palm Street Music",
+          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU"
+    },
+    {
+      "album": {
         "name": "Lo Que Hiciste",
         "url": "https://open.spotify.com/album/6DATyBdgu9uVO0qZLjpBlD"
       },
@@ -3113,7 +3215,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206918,
       "name": "Me Hiciste un Loco",
       "url": "https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v"
@@ -3185,7 +3287,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 259493,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
@@ -3632,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -3827,6 +3947,32 @@
       "duration_ms": 200449,
       "name": "No Eres La Oficial",
       "url": "https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "album": {
@@ -4205,7 +4351,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195369,
       "name": "Olvidarte",
       "url": "https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs"
@@ -4721,7 +4867,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 242462,
       "name": "Que Me Fallo",
       "url": "https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX"
@@ -5081,7 +5227,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191005,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/4VYIjka3jU37abseXFmiDE"
@@ -5124,6 +5270,28 @@
     },
     {
       "album": {
+        "name": "RLUX",
+        "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "RLUX",
+      "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
+    },
+    {
+      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl"
       },
@@ -5157,6 +5325,28 @@
       "duration_ms": 230736,
       "name": "Sad Cuh Hours",
       "url": "https://open.spotify.com/track/363nkaf21Rl0I9co1ITG1D"
+    },
+    {
+      "album": {
+        "name": "Sal De Mi Mente",
+        "url": "https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175096,
+      "name": "Sal De Mi Mente",
+      "url": "https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk"
     },
     {
       "album": {
@@ -5687,7 +5877,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 260364,
       "name": "Superando",
       "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
@@ -6241,7 +6431,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220645,
       "name": "Tony",
       "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"

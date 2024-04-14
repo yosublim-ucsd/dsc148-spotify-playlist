@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 ### [This Is Panic! At The Disco](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18A72E)
 
-> This Is Panic! At The Disco\. Los temas esenciales, todos en una lista.
+> This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,578 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,606 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 31 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 |
 | 32 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 |
 | 33 | [Far Too Young to Die](https://open.spotify.com/track/4NTL7fT4eqfPao94lmqth2) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:17 |
-| 34 | [Nearly Witches \(Ever Since We Met...\)](https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:16 |
-| 35 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 34 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 35 | [Nearly Witches \(Ever Since We Met...\)](https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:16 |
 | 36 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 |
 | 37 | [C'mon \- Single Version](https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [C'mon](https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1) | 3:34 |
-| 38 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 |
-| 39 | [Middle Of A Breakup](https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:20 |
+| 38 | [Middle Of A Breakup](https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:20 |
+| 39 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 |
 | 40 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
 | 41 | [Bohemian Rhapsody](https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 6:03 |
-| 42 | [Always](https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 2:33 |
-| 43 | [Say It Louder](https://open.spotify.com/track/61aS3LDHi60ZZr3ZpHG2AP) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:30 |
+| 42 | [Say It Louder](https://open.spotify.com/track/61aS3LDHi60ZZr3ZpHG2AP) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:30 |
+| 43 | [Always](https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 2:33 |
 | 44 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
 | 45 | [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 |
 | 46 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGZhZmE0YmFjMzU5MDUzNTMwY2RjYTY5NTUxM2NjMTg2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGI0YzRkY2I4ZDljMTU0NGZjOWM3NzYxYmUwNTdlYmU5`

@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-133 songs - 7 hr 24 min
+134 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-12 | 2024-02-01 |
 | [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-12-13 | 2024-02-03 |
 | [The First Noel](https://open.spotify.com/track/7AI7NTvw4BlVnQBSfLDD1q) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [The First Noel](https://open.spotify.com/album/7iZnMSmamUsrqZqYKBVPBW) | 3:33 | 2022-11-12 |  |
-| [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 | 2021-12-23 |  |
+| [The Holidays With You](https://open.spotify.com/track/1jwqaB9Zf2IvrrdJrJOlMU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/5edIYITPKliEOK0kHqlnQ9) | 2:05 | 2023-12-13 |  |
+| [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 | 2021-12-23 | 2024-04-14 |
 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/0bJ8bS3aRtsA3zIIjr7Ool) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/5rp19EkSJSBvezc0b0Z2an) | 3:26 | 2021-12-23 | 2022-07-29 |
 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ) | 3:26 | 2021-12-23 |  |
 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 | 2021-12-23 |  |

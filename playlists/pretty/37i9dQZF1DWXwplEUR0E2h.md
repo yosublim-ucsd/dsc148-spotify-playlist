@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito con FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,767 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,820 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 4 | [Sueños Perdidos](https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Sueños Perdidos](https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI) | 4:16 |
 | 5 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 |
 | 6 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
-| 7 | [En todas partes](https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN) | [ONIKX](https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En Todas Partes](https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA) | 3:42 |
+| 7 | [En Todas Partes](https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN) | [ONIKX](https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En Todas Partes](https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA) | 3:42 |
 | 8 | [SORNERITO](https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:19 |
 | 9 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 |
 | 10 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 |

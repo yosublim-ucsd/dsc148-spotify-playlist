@@ -494,7 +494,7 @@
     {
       "album": {
         "name": "You Don't Own Me Anymore",
-        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+        "url": "https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY"
       },
       "artists": [
         {
@@ -505,6 +505,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/3t0eH5POGNY4hw06Ne8jEw"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-14",
       "duration_ms": 223586,
       "name": "Kathy's Song",
       "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"

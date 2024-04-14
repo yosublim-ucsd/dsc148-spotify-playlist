@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 27363,
+  "2024-04-14": 27370,
   "date_first_scraped": "2021-12-21",
   "description": "A collection of roots music and covers urging peace and calling for change. Cover: Tr\u00e9 Burt",
   "name": "Roots of Change",
@@ -21,10 +21,32 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203615,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU"
+    },
+    {
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/2zGecc53JxQEt94aPbokep"
+      },
+      "artists": [
+        {
+          "name": "Los Coast",
+          "url": "https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/3Vb9DTDS2UcHb3T8kLKcDh"
     },
     {
       "album": {

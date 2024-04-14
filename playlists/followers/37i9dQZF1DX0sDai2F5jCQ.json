@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 439573,
+  "2024-04-14": 439609,
   "date_first_scraped": "2023-09-23",
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: J. Cole",
   "name": "A1",
@@ -1637,8 +1637,8 @@
           "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
         },
         {
-          "name": "Day 1",
-          "url": "https://open.spotify.com/artist/18j2BXbBDMwiqU1AArpIl2"
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
         }
       ],
       "date_added": "2024-04-11",
@@ -3312,6 +3312,28 @@
     },
     {
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414893,
+      "name": "Red Leather",
+      "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -3601,6 +3623,28 @@
       "duration_ms": 165433,
       "name": "Shotta Flow 7",
       "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Show of Hands",
+      "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
     },
     {
       "album": {
@@ -4517,6 +4561,28 @@
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {

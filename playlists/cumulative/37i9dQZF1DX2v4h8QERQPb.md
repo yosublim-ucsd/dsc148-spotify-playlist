@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Oney1, Soui Uno & Neo Pistea.
 
-255 songs - 13 hr 1 min
+256 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-11-26 |  |
 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/4ggrH4V2eKpf2xDfHMuRrq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/44MB3M5UPDawANWNBaauw0) | 2:53 | 2022-09-22 |  |
 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/6tKzkBXT4H4991ZHErDdbB) | 2:53 | 2021-11-26 | 2022-10-02 |
+| [Deja de Hacerte la Cabeza](https://open.spotify.com/track/0lXPhUBG5yikApjP4X4zKE) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [JOACO SB](https://open.spotify.com/artist/7bXEq6s67s50UyrPb8QHFN), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Deja de Hacerte la Cabeza](https://open.spotify.com/album/3lJ4uJlSIwAOxJa0htRnAv) | 2:10 | 2024-04-12 |  |
 | [Delirio](https://open.spotify.com/track/6DlyZxhPa617E2yAnC2rC6) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Delirio](https://open.spotify.com/album/4FwTjWGjaVgyDbHCwY6G18) | 3:43 | 2021-11-26 | 2022-07-29 |
 | [Delirio](https://open.spotify.com/track/1wNvWt83hP0lnlIYxohlAU) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Delirio](https://open.spotify.com/album/5ZitIhgIzAQ6Q2YBywRx2U) | 3:51 | 2022-06-10 | 2023-06-10 |
 | [Demenciales](https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31) | [Demenciales](https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn) | 2:01 | 2024-04-05 |  |

@@ -4,7 +4,7 @@
 
 > Las rolas para escuchar mientras trabajas.
 
-399 songs - 21 hr 15 min
+401 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Junto a un Perro](https://open.spotify.com/track/2CJsDvwJIfVjpYbhR4u7wW) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Junto a un Perro](https://open.spotify.com/album/5uiArnIWQGEhATC5MYgpRn) | 3:20 | 2023-04-13 | 2023-05-16 |
 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 | 2023-10-06 |  |
 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2023-12-31 |  |
+| [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-12-31 |  |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-09-23 | 2023-03-09 |
 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 | 2022-05-05 | 2022-07-29 |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2022-05-05 |  |
@@ -252,7 +253,7 @@
 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 | 2022-05-05 | 2023-10-03 |
 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 | 2023-10-06 |  |
 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 | 2023-01-09 | 2023-08-24 |
-| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-06-15 |  |
+| [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-06-15 | 2024-04-14 |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-09-23 | 2022-11-19 |
 | [No Lo Beses \- Mariachi](https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Lo Beses \(Mariachi\)](https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw) | 3:23 | 2022-05-05 | 2022-07-28 |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2022-05-05 | 2023-10-07 |
@@ -283,7 +284,7 @@
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2022-05-05 | 2023-01-10 |
 | [Positivo \- Versión Banda](https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo \(Versión Banda\)](https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE) | 3:08 | 2022-05-05 | 2022-07-29 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-02-23 |  |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-10-06 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-10-06 | 2024-04-14 |
 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 | 2023-10-06 | 2024-02-03 |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2023-01-09 | 2023-11-11 |
 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 | 2022-05-05 | 2022-09-24 |
@@ -357,6 +358,7 @@
 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-05-05 |  |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-05-25 |  |
 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 | 2022-05-05 |  |
+| [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-12-31 |  |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-05-05 | 2023-08-09 |
 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 | 2022-05-05 |  |
 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5N1tsOIzgNiRPx34J23LBt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh) | 1:50 | 2022-09-23 | 2023-01-10 |

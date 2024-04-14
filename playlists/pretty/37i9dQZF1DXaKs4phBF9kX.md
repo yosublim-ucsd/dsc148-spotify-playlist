@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,254 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,260 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 48 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 3:47 |
 | 49 | [Legs \(2008 Remaster\)](https://open.spotify.com/track/11oBg7EA3BgPLWrIx4Rv7D) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:33 |
 | 50 | [Urgent](https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:31 |
-| 51 | [Dreams](https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 4:54 |
-| 52 | [Eyes Without A Face \- Remastered 1999](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 |
+| 51 | [Eyes Without A Face \- Remastered 1999](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 |
+| 52 | [Dreams](https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 4:54 |
 | 53 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |
 | 54 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 55 | [Fire Woman](https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV) | 5:07 |

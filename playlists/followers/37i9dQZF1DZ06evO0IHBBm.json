@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 29507,
+  "2024-04-14": 29506,
   "date_first_scraped": "2023-07-10",
   "description": "This is Damares. The essential tracks, all in one playlist.",
   "name": "This Is Damares",
@@ -1009,6 +1009,32 @@
       "duration_ms": 370520,
       "name": "Um novo Vencedor",
       "url": "https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G"
+    },
+    {
+      "album": {
+        "name": "Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116640,
+      "name": "Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
     },
     {
       "album": {

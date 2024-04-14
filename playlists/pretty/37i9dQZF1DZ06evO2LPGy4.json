@@ -1,12 +1,12 @@
 {
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 424755,
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 424841,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDkwMGU2NmE2ZTZjYzNhNTZmYjNmYmY2Y2MzN2E4MzZl",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDUwMmI5N2QyMzdiMmYyNTg0ZjdmMWU4NTI1MmE1ZDM1",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 161293,
       "name": "Y Me Besa",
       "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 de la Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 182465,
-      "name": "3 de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 161132,
       "name": "Ando Bien",
       "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 de la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 182465,
+      "name": "3 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
     },
     {
       "added_at": null,
@@ -587,26 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hola Coraz\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
       "artists": [
         {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
         }
       ],
-      "duration_ms": 185514,
-      "name": "Hola Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+      "duration_ms": 186773,
+      "name": "Moneda (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
     },
     {
       "added_at": null,
@@ -627,22 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+        "name": "Hola Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Moneda (feat. Gerardo Ortiz)",
-      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
+      "duration_ms": 185514,
+      "name": "Hola Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pelo Chino",
-        "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 180324,
-      "name": "El Pelo Chino",
-      "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comando del Diablo (En Vivo)",
         "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pelo Chino",
+        "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 180324,
+      "name": "El Pelo Chino",
+      "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
     },
     {
       "added_at": null,

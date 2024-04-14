@@ -4,7 +4,7 @@
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-111 songs - 7 hr 18 min
+112 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 | 2018-03-29 |  |
 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/1BtXmDNtpBY71E8hLzTYpG) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama The Complete Muscle Shoals Sessions \(Remastered Reissue\)](https://open.spotify.com/album/6c9t2iV2bpOMWqCc06dI99) | 3:01 | 2018-03-29 | 2022-07-29 |
 | [Don't Start Me To Talkin'](https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [Down And Out Blues](https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO) | 2:36 | 2020-01-15 | 2022-11-13 |
-| [Double Trouble](https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [The Essential Otis Rush](https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68) | 2:43 | 2020-01-15 |  |
+| [Double Trouble](https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [The Essential Otis Rush](https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68) | 2:43 | 2020-01-15 | 2024-04-14 |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2018-03-29 |  |
 | [Give Me Back My Wig](https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:35 | 2020-01-15 | 2024-03-22 |
 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 | 2021-06-18 | 2023-08-23 |
@@ -101,6 +101,7 @@
 | [Stone Crazy](https://open.spotify.com/track/0hORgg6aV6GgDn5VQfZpcl) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 7:13 | 2020-01-15 | 2022-11-12 |
 | [Stone Crazy](https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walkin' Through The Woods](https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk) | 7:14 | 2020-01-15 | 2022-07-29 |
 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 | 2018-03-29 |  |
+| [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 | 2024-03-21 |  |
 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 | 2024-03-21 |  |
 | [T\-Bone Shuffle](https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 4:55 | 2020-01-15 |  |
 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 | 2024-03-21 |  |

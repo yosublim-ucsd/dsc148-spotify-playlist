@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 119819,
+  "2024-04-14": 119837,
   "date_first_scraped": "2022-10-24",
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
   "name": "Midnight Chill",
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -1552,6 +1552,46 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+    },
+    {
+      "album": {
         "name": "Empty Lake (feat. Clara Mann)",
         "url": "https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi"
       },
@@ -2419,6 +2459,24 @@
       "duration_ms": 222653,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
+    },
+    {
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
     },
     {
       "album": {
@@ -5237,7 +5295,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169840,
       "name": "Slow Dancing (FRNK Remix)",
       "url": "https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk"
@@ -5339,7 +5397,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"

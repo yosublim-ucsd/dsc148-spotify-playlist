@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=Ehfcig4qQSOPvtSWy8E2uw\">EJ Newton</a>",
-  "num_followers": 8413,
+  "num_followers": 8438,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
+    },
+    {
       "added_at": "2024-02-09 00:01:00",
       "album": {
         "name": "Jabulani Sesingabantwana (Live At Cedarwoods of Sandton, 2023)",
@@ -271,22 +287,6 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Do to Me What You Want",
-        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 714119,
-      "name": "Do to Me What You Want",
-      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
-    },
-    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Amaram Onyewem (Live)",
@@ -571,6 +555,38 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Do to Me What You Want",
+        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 714119,
+      "name": "Do to Me What You Want",
+      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 142978,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -615,22 +631,6 @@
       "duration_ms": 867272,
       "name": "I Testify - Live",
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 142978,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -681,6 +681,30 @@
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Angel",
@@ -729,30 +753,6 @@
       "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Kumama Papa",
@@ -771,6 +771,22 @@
       "duration_ms": 157161,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "BBTNTL",
+        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
+      },
+      "artists": [
+        {
+          "name": "Xammie",
+          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "BBTNTL",
+      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -793,20 +809,40 @@
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "BBTNTL",
-        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
+        "name": "Dry Bones",
+        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
       },
       "artists": [
         {
-          "name": "Xammie",
-          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
         }
       ],
-      "duration_ms": 169621,
-      "name": "BBTNTL",
-      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
+      "duration_ms": 691541,
+      "name": "Dry Bones",
+      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -833,40 +869,20 @@
       "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+        "name": "Kukhona Amadlelo",
+        "url": "https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
         }
       ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Dry Bones",
-        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 691541,
-      "name": "Dry Bones",
-      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+      "duration_ms": 509999,
+      "name": "Kukhona Amadlelo",
+      "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -885,20 +901,20 @@
       "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Kukhona Amadlelo",
-        "url": "https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
       },
       "artists": [
         {
-          "name": "Ayanda Ntanzi",
-          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 509999,
-      "name": "Kukhona Amadlelo",
-      "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
+      "duration_ms": 157800,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -921,36 +937,24 @@
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
-      },
-      "artists": [
+          "name": "Chris Heaven",
+          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
+        },
         {
-          "name": "Ogocity",
-          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
+          "name": "Imani",
+          "url": "https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
+      "duration_ms": 210599,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
     }
   ],
   "unique_name": "Redeemed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,966 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,014 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 18 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
 | 19 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
 | 20 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
-| 21 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
-| 22 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
+| 21 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
+| 22 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 23 | [I Know Why](https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:50 |
 | 24 | [Just Can't Hate Enough](https://open.spotify.com/track/4ONnFr8aItCbbRCnTNeSJh) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH) | 1:44 |
 | 25 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 30 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
 | 31 | [Here to Stay](https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH) | 2:24 |
 | 32 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
-| 33 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
-| 34 | [Family Tree](https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:55 |
+| 33 | [Family Tree](https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR) | 2:55 |
+| 34 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
 | 35 | [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 |
 | 36 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
 | 37 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 42 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 43 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
 | 44 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
-| 45 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
-| 46 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
+| 45 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
+| 46 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
 | 47 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
 | 48 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 | 49 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |

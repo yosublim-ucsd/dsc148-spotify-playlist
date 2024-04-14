@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,623 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,626 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 |
-| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 2 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 3 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 |
 | 4 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
 | 5 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6405,
+  "num_followers": 6414,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGU4MjU2NDZiMDlkZjUzYTI0YTdiOTNlMTMwNWQwMDhi",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDYwMDgzNTQyYjU1OGJmODlkZGZhMzBmMjQ4YjQyY2Nk",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
-      },
-      "artists": [
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 280841,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chop Life",
         "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 145794,
       "name": "Chop Life",
       "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 280841,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on Duty",
-        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Man on Duty",
-      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mood and Ecstasy",
         "url": "https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f"
       },
@@ -355,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joko (feat. Shaggy)",
         "url": "https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py"
       },
@@ -371,26 +371,6 @@
       "duration_ms": 185294,
       "name": "Joko (feat. Shaggy)",
       "url": "https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
       "duration_ms": 199546,
       "name": "Iberibe",
       "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203000,
       "name": "Gra Gra",
       "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Givin Dem",
         "url": "https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x"
       },
@@ -831,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
       "artists": [
         {
@@ -840,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 178775,
       "name": "Get the Money",
       "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
     },
     {
       "added_at": null,

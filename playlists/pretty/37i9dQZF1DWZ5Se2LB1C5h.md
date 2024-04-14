@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 > Únete a la extravaganza del neón\. Fred Again en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,197 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,259 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 6 | [Endless](https://open.spotify.com/track/0AKsM62IUY8IaOqGtB0u8n) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Heaven](https://open.spotify.com/album/1TrdljUtzilxGZqXKXjRxh) | 3:37 |
 | 7 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
 | 8 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
-| 9 | [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 |
+| 9 | [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 |
 | 10 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 11 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 12 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 |

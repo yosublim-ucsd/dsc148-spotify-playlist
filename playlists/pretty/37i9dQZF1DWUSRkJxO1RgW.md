@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,387 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,469 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 44 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
 | 45 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
 | 46 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
-| 47 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |
-| 48 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
+| 47 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
+| 48 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |
 | 49 | [Amanece En La Ruta](https://open.spotify.com/track/29UOHJBpXY1L1QiWaZLY8o) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:51 |
 | 50 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 |
 | 51 | [Sin Hilo](https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 4:38 |
 | 52 | [Sucia Estrella](https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Ratones Paranoicos](https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq) | 3:22 |
-| 53 | [No Llores Por Mí, Argentina \(En Vivo\)](https://open.spotify.com/track/7nYOhcrbQmeetR6f4hMoVM) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 3:31 |
-| 54 | [Entregá el Marrón](https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 2:22 |
+| 53 | [Entregá el Marrón](https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 2:22 |
+| 54 | [No Llores Por Mí, Argentina \(En Vivo\)](https://open.spotify.com/track/7nYOhcrbQmeetR6f4hMoVM) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 3:31 |
 | 55 | [La Rubia Tarada](https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Sí o Sí \- Diario del Rock Argentino \- Sumo](https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm) | 3:42 |
 | 56 | [Lollipop](https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:31 |
 | 57 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,871 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,985 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 47 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 |
 | 48 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |
 | 49 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
-| 50 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
+| 50 | [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 |
 | 51 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 |
 | 52 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
 | 53 | [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 |

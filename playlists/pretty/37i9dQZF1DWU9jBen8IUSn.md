@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Faye Webster invites us into her world\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,505 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,513 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
-| 2 | [Perdido](https://open.spotify.com/track/316iLVPWlV8S7n8vcBIPkQ) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Sense Yourself](https://open.spotify.com/album/4Tz6HMLRqTj5v1nqXGNdrE) | 2:13 |
+| 2 | [Perdido](https://open.spotify.com/track/316iLVPWlV8S7n8vcBIPkQ) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Sense Yourself](https://open.spotify.com/album/4Tz6HMLRqTj5v1nqXGNdrE) | 2:11 |
 | 3 | [After Ur Gone](https://open.spotify.com/track/5BjwwMwWSp2Zv7O8oYrz8N) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [DSU](https://open.spotify.com/album/5vLZ3lKEpbRyjTIFPrdGwU) | 2:21 |
 | 4 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
 | 5 | [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 |

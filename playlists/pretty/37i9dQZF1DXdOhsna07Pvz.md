@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,007 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,053 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 30 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
 | 31 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 32 | [Fera Ferida](https://open.spotify.com/track/3aRpu8CzSJTeDCNwuqLfTB) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [As Canções Que Você Fez Pra Mim](https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6) | 3:29 |
-| 33 | [Ara Ketu Bom Demais](https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Bom Demais](https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz) | 3:59 |
-| 34 | [Não Vou Ficar](https://open.spotify.com/track/1hMZDDqL6ThRyJQ5rsLiB5) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 2:52 |
+| 33 | [Não Vou Ficar](https://open.spotify.com/track/1hMZDDqL6ThRyJQ5rsLiB5) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1971](https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A) | 2:52 |
+| 34 | [Ara Ketu Bom Demais](https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Bom Demais](https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz) | 3:59 |
 | 35 | [Aquele Abraço](https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilberto Gil \(1969\)](https://open.spotify.com/album/53eqd316Rs3te41yGRovYz) | 5:23 |
 | 36 | [Deixa A Gira Girar](https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 3:11 |
 | 37 | [Lenda das Sereias, Rainha do Mar \- Ao Vivo](https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte MM \(Ao Vivo\)](https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv) | 4:10 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 43 | [Pintura íntima \- Compacto](https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [2 é Demais](https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG) | 4:27 |
 | 44 | [Conversa Fiada](https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Conversa Fiada](https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm) | 3:16 |
 | 45 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
-| 46 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 47 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
+| 46 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
+| 47 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 48 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
 | 49 | [Alegria, Alegria \- Remastered 2006](https://open.spotify.com/track/0aoQV1TuaTrcpJaMfJ3wgj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso](https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf) | 2:48 |
 | 50 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |

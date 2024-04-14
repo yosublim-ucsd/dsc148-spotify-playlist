@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,039 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,026 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 17 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 |
 | 18 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
 | 19 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 |
-| 20 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
-| 21 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 |
+| 20 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 |
+| 21 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
 | 22 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 |
 | 23 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
 | 24 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |

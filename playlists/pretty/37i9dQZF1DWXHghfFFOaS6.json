@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 330754,
+  "num_followers": 330838,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
     },
     {
-      "added_at": "2024-03-26 13:55:21",
-      "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Free Your Mind",
@@ -831,6 +815,22 @@
       "duration_ms": 272733,
       "name": "We Have Love",
       "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "added_at": "2024-03-26 13:55:21",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Punch&Words",
-          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Block Episode",
-      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Punch&Words",
+          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Block Episode",
+      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
       "artists": [
         {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1343,6 +1327,22 @@
       "duration_ms": 241539,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Hasan Raheem
+> Coke Studio's Aayi Aayi out now\. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,840 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,882 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 22 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 |
 | 23 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 |
 | 24 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 |
-| 25 | [Faasle](https://open.spotify.com/track/5t0dDiEtorzHo7myp2Tt3q) | [Kaavish and Quratulain Balouch](https://open.spotify.com/artist/3kWXWAhuqNT4YdeFXamYsH) | [Coke Studio Season 10 \- Episode 2](https://open.spotify.com/album/0aCueEk7up6ZkTe89RIcNw) | 5:11 |
+| 25 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
 | 26 | [12 Saal](https://open.spotify.com/track/00KoecK1MTjqUamcy5Tm0l) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Twelve](https://open.spotify.com/album/2g6UjRDpyGzozySNDFtiqU) | 3:13 |
 | 27 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 |
 | 28 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 54 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 |
 | 55 | [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 |
 
-Snapshot ID: `MTcxMjU2OTU0OCwwMDAwMDAwMDFhYzYwYTk0MmUyMWY5YTUyNDIzNzc3YWU5MzgxZDRi`
+Snapshot ID: `MTcxMzA1Mjg2MCwwMDAwMDAwMDc0NzI0OGE1ZjAxYzQ3MjllNGFjY2QxMGQ5NGY4NmM3`

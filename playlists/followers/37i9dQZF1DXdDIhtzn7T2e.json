@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 82446,
+  "2024-04-14": 82441,
   "date_first_scraped": "2021-12-30",
   "description": "Let these country tunes light up your day",
   "name": "Greener Pastures",
@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "El Viejo",
+        "url": "https://open.spotify.com/album/74kf4FDvoAKiiI8NUv3W2J"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308491,
+      "name": "Old Familiar Drunken Feeling",
+      "url": "https://open.spotify.com/track/0ppYyjGcfagGMX29kMsMCZ"
+    },
+    {
+      "album": {
         "name": "Old Familiar Drunken Feeling",
         "url": "https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW"
       },
@@ -965,7 +983,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 308491,
       "name": "Old Familiar Drunken Feeling",
       "url": "https://open.spotify.com/track/2slmd60iUQz0tGUObmVX0d"
@@ -1447,10 +1465,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 303920,
       "name": "Up and Rolling",
       "url": "https://open.spotify.com/track/3DV89v9FL64amLAczhsLsN"
+    },
+    {
+      "album": {
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/6NtWoSCiQ5l08w49f2OmR6"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303920,
+      "name": "Up and Rolling",
+      "url": "https://open.spotify.com/track/7djpYBtiqxvuqTZluG5NXg"
     },
     {
       "album": {

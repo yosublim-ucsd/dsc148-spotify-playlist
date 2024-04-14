@@ -5244,6 +5244,28 @@
     {
       "album": {
         "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
@@ -5258,7 +5280,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"

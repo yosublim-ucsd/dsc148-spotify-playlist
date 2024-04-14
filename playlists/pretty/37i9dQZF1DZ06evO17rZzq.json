@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3207,
+  "num_followers": 3209,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDRiYTIwZTQ3MTAyMGE4YTVkNjNhZDhlYWMwOTk3MjI0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDU1NjQ4NDZkMTU2YTAxNmQ3YzBkZjY2Y2U0MTAxODFj",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chainzzz (feat. Muni Long)",
         "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 153847,
       "name": "Chainzzz (feat. Muni Long)",
       "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Groovy Psychedelic Downtempo & Chill out V9",
+        "url": "https://open.spotify.com/album/1uVvVydS1d6fZtFmXxCWAG"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 525586,
+      "name": "Dose, 1 or 2 Pills - Original Mix",
+      "url": "https://open.spotify.com/track/1jOibElEvP4hWxlJJygDbg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 191976,
       "name": "12",
       "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Groovy Psychedelic Downtempo & Chill out V9",
-        "url": "https://open.spotify.com/album/1uVvVydS1d6fZtFmXxCWAG"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 525586,
-      "name": "Dose, 1 or 2 Pills - Original Mix",
-      "url": "https://open.spotify.com/track/1jOibElEvP4hWxlJJygDbg"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
-        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 439436,
-      "name": "Story Teller - Original Mix",
-      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "StreetTape",
         "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Vs Aliens",
-        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
+        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
       },
       "artists": [
-        {
-          "name": "Dr. Ink",
-          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 226151,
-      "name": "Peakin'",
-      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
+      "duration_ms": 439436,
+      "name": "Story Teller - Original Mix",
+      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 219613,
       "name": "And\u011bl\u00e9 A D\u00e9moni",
       "url": "https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
     },
     {
       "added_at": null,

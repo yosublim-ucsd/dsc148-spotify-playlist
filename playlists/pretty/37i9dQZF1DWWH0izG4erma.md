@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Ole 60
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,503 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,618 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 51 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 52 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 53 | [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 |
-| 54 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
+| 54 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 55 | [Sleeve](https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 4:21 |
 | 56 | [Ramon Ayala](https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 2:48 |
 | 57 | [Pain Killer](https://open.spotify.com/track/5Jbl0Ha0N78bQCO3tngm4w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 2:47 |
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/3CNY9kgeeuOWrnJ5PAz9kD) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/2y7EyqGpyA7tqpvUsYTkar) | 3:18 |
 | 59 | [Tattoos on This Town](https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:22 |
 | 60 | [Midwest Rock & Roll](https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Midwest Rock & Roll](https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf) | 3:51 |
-| 61 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
+| 61 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
 | 63 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 64 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 86 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
 | 87 | [Excuses](https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:26 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
-| 89 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
-| 90 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
+| 89 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
+| 90 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
 | 91 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
 | 92 | [Year to Be Young 1994](https://open.spotify.com/track/5bfYMxQP2oRIe0ZGLRuOED) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 3:20 |
 | 93 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 |

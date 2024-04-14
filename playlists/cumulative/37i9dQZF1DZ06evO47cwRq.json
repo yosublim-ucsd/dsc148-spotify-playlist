@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-09",
-  "description": "This Is Linkin Park. Los temas esenciales, todos en una lista.",
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
   "name": "This Is Linkin Park",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -910,6 +910,24 @@
       "duration_ms": 224466,
       "name": "POWERLESS",
       "url": "https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI"
+    },
+    {
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
     },
     {
       "album": {

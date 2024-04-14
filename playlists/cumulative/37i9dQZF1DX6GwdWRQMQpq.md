@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla & Megan Thee Stallion
 
-495 songs - 22 hr 24 min
+496 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 | 2022-08-26 | 2023-03-18 |
 | [BIRTHDAY](https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BIRTHDAY](https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74) | 2:55 | 2023-07-28 | 2023-09-30 |
 | [Bitch Duh](https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Bitch Duh](https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x) | 2:16 | 2024-02-16 | 2024-03-16 |
+| [Bitch Duh \(Remix\)](https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh \(Remix\)](https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i) | 2:52 | 2024-04-13 |  |
 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 | 2022-07-08 | 2022-10-15 |
 | [Bitch Imma Star](https://open.spotify.com/track/2UrYTtcWsZNlkwXdLp0ZHY) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Bitch Imma Star](https://open.spotify.com/album/1Oi6OOxpwlDmEYXfKA80nY) | 1:52 | 2023-09-29 | 2023-10-21 |
 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 | 2022-03-04 | 2022-07-02 |

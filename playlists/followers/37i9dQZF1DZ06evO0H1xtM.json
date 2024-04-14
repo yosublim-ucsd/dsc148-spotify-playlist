@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 267486,
+  "2024-04-14": 267679,
   "date_first_scraped": "2023-08-09",
-  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
+  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
   "name": "This Is Grupo Marca Registrada",
   "tracks": [
     {
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 173653,
       "name": "El Paisa",
       "url": "https://open.spotify.com/track/5bihD1yhbA9NsIQRBxgcl1"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"

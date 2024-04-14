@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGE4MTY4NzgxZDhjZjgzNDIwNjVkM2E0Zjc0MzRkMDVh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGE3Mjc5NmUwMDVjMDAzZTQ0NTk0MzM5YmYwZDY4ZjNk",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 146160,
-      "name": "Uhuru",
-      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348097,
-      "name": "HORA DOURADA",
-      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348097,
+      "name": "HORA DOURADA",
+      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
       },
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+      "duration_ms": 146160,
+      "name": "Uhuru",
+      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Benedito",
-      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
@@ -591,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Benedito",
+      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o",
         "url": "https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4"
       },
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 194833,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
+      "duration_ms": 248213,
+      "name": "SALVE",
+      "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 248213,
-      "name": "SALVE",
-      "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
+      "duration_ms": 194833,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
     },
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
       "artists": [
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Monique Brito",
+          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 313714,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
+      "duration_ms": 319485,
+      "name": "TELA EM BRANCO",
+      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
       "artists": [
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Monique Brito",
-          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 319485,
-      "name": "TELA EM BRANCO",
-      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
+      "duration_ms": 313714,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
       "artists": [
         {
@@ -788,13 +788,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Manoela Fortuna",
-          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
+          "name": "Thiago Ticana",
+          "url": "https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs"
         }
       ],
-      "duration_ms": 263360,
-      "name": "Sem Distra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
+      "duration_ms": 143195,
+      "name": "SKIT (AZUL NEON)",
+      "url": "https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
       "artists": [
         {
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Thiago Ticana",
-          "url": "https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs"
+          "name": "Manoela Fortuna",
+          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
         }
       ],
-      "duration_ms": 143195,
-      "name": "SKIT (AZUL NEON)",
-      "url": "https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO"
+      "duration_ms": 263360,
+      "name": "Sem Distra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
     },
     {
       "added_at": null,

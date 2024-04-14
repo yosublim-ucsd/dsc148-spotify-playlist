@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte a jalar sin miedo al \u00e9xito!",
-  "num_followers": 123990,
+  "num_followers": 123995,
   "original_name": "Ponte Chulet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2023-07-04 19:35:29",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-07-04 19:35:29",
       "album": {
-        "name": "As\u00ed Toc\u00f3 Mi Vida",
-        "url": "https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "As\u00ed Toc\u00f3 Mi Vida",
-      "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
-    },
-    {
-      "added_at": "2023-07-04 19:35:29",
-      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2023-07-04 19:35:29",
+      "album": {
+        "name": "As\u00ed Toc\u00f3 Mi Vida",
+        "url": "https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "As\u00ed Toc\u00f3 Mi Vida",
+      "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
     },
     {
       "added_at": "2023-07-04 19:35:29",

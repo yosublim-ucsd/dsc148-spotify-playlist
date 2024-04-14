@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,315 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,345 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 4 | [800](https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [800](https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h) | 3:53 |
 | 5 | [Brave Shine](https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 3:53 |
 | 6 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 |
-| 7 | [Ref:rain](https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4:49 |
-| 8 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
+| 7 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
+| 8 | [Ref:rain](https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4:49 |
 | 9 | [星屑ビーナス](https://open.spotify.com/track/1CAhaSy2odeJoPIkFndCIB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 4:12 |
 | 10 | [蝶々結び](https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 5:05 |
 | 11 | [SPARK\-AGAIN](https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 4:02 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 37 | [思い出は奇麗で](https://open.spotify.com/track/3ei1nNNIVqST7wbZPUIjiK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:29 |
 | 38 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
 | 39 | [六等星の夜 Magic Blue ver.](https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 5:50 |
-| 40 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
-| 41 | [ninelie <cry\-v>](https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 5:05 |
+| 40 | [ninelie <cry\-v>](https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 5:05 |
+| 41 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 42 | [April Showers](https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:43 |
 | 43 | [Blind to you \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 4:41 |
 | 44 | [残響散歌 \-TV ver.\-](https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌 / 朝が来る](https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [グレースノート](https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 5:01 |
 | 50 | [群青色の空](https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 2:43 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDg3OWMxZmJmN2E3OGYwMTEyMjI1YjUxMzczNGU4Mzli`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDhlZWRkMzU2MThhODJlNzkxNzQ0YWE4ODU2MzQ4NTdj`

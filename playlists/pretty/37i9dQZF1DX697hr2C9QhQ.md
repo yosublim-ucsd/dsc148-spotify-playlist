@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,040 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,082 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 25 | [Comeback Girl](https://open.spotify.com/track/6BikNH6NZ8zYfexFiQGnxA) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:58 |
 | 26 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
 | 27 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
-| 28 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
-| 29 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
+| 28 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
+| 29 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
 | 30 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 |
 | 31 | [Crazy World](https://open.spotify.com/track/5akihxQPVtNGkZV2uAImMY) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Goodbye Charlie Moonhead](https://open.spotify.com/album/2fCCCqys40hYZqNktMAq3T) | 4:32 |
 | 32 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 36 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 | 37 | [You Made Me the Thief of Your Heart](https://open.spotify.com/track/4Kaactp7PdWvC8stpChpvK) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/5vonsv14EYnB77YMVlUxWJ) | 6:20 |
 | 38 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
-| 39 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
-| 40 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
+| 39 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
+| 40 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 41 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 |
 | 42 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
 | 43 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |

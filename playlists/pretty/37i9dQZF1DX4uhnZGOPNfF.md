@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2003\. Photo : Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,227 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,234 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 21 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 22 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 23 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
-| 24 | [Just Like a Pill](https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:56 |
+| 24 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 25 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
-| 26 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
+| 26 | [Just Like a Pill](https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:56 |
 | 27 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
 | 28 | [Hey Sexy Lady](https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Lucky Day](https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b) | 3:19 |
 | 29 | [Baby Boy \(feat\. Sean Paul\)](https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 55 | [Family Portrait](https://open.spotify.com/track/6VD5vEK2wVfTG7q84pJ6EO) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 4:56 |
 | 56 | [Come Undone](https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:38 |
 | 57 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
-| 58 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
-| 59 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
-| 60 | [All I Have](https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 4:14 |
+| 58 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
+| 59 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
+| 60 | [DJ](https://open.spotify.com/track/4D0dgZLZWkaWG25NBuxOfS) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Brut de femme](https://open.spotify.com/album/36WsF1tlYfQtOSiU3Tozb7) | 4:30 |
 
 Snapshot ID: `MTY4NjgzNTQ1OSwwMDAwMDAwMDdlZTNmMWEyNDE1YmRmZTM0N2E5NWM3OTdmYWQ1MmI5`

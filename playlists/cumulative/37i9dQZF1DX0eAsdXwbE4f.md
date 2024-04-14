@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Melodic Cityscape](https://open.spotify.com/track/31oMMrmvdxq4B7WYyBIp5T) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [A Melodic Cityscape](https://open.spotify.com/album/3QWXYpilgJTImx4GDfb1cQ) | 2:05 | 2023-06-20 |  |
+| [A Melodic Cityscape](https://open.spotify.com/track/31oMMrmvdxq4B7WYyBIp5T) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [A Melodic Cityscape](https://open.spotify.com/album/3QWXYpilgJTImx4GDfb1cQ) | 2:05 | 2023-06-20 | 2024-04-14 |
 | [A Song of the Wild](https://open.spotify.com/track/3ta4hndWzkHWKJedkjhrFb) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:14 | 2023-06-20 |  |
 | [After The Storm \(Birds And Rain\)](https://open.spotify.com/track/6rchW2k3MaAFvDXDgX6mbm) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:13 | 2023-06-20 | 2024-02-19 |
 | [American Crow In Rain](https://open.spotify.com/track/4JoECPt0bCLkrwSuvo9mkH) | [TAIOWA](https://open.spotify.com/artist/1Ch86YPeCu9LppuzxgpMF6) | [Morning Rain](https://open.spotify.com/album/1Bx8g7l4OILWFLnkYb4fvF) | 3:08 | 2021-11-11 |  |
@@ -111,7 +111,7 @@
 | [Rainy Busy Forest](https://open.spotify.com/track/3cIVjUmW1mlRi7TX6bhj43) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds and animals in the rain](https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn) | 2:00 | 2021-11-11 |  |
 | [Rainy Sunday](https://open.spotify.com/track/0rmaSZVKrwAjY9vo8atRHd) | [World Sounders](https://open.spotify.com/artist/1R1huZp3jOkL9f7UPwDZOL) | [Sounds of Rain](https://open.spotify.com/album/2SwDiPRPnxYIEFt5WQngaa) | 2:43 | 2021-11-11 |  |
 | [Rainy Woods](https://open.spotify.com/track/1ikgmjVBJrRR6dqstOpPFK) | [Relax, Bro](https://open.spotify.com/artist/2458EUzcZaoFEJInzQBRag) | [Totally Relaxed Rain](https://open.spotify.com/album/231fpoQIPhRRtmKLboGAXf) | 3:00 | 2021-11-11 |  |
-| [Red Iory Rain](https://open.spotify.com/track/6qIeToUmh9jQunxiF2Vbyh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Red Iory Rain](https://open.spotify.com/album/02W5Op73s3MSj0DzDvKoYW) | 3:03 | 2021-11-11 | 2024-04-08 |
+| [Red Iory Rain](https://open.spotify.com/track/6qIeToUmh9jQunxiF2Vbyh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Red Iory Rain](https://open.spotify.com/album/02W5Op73s3MSj0DzDvKoYW) | 3:03 | 2021-11-11 |  |
 | [Rich Rain Bird](https://open.spotify.com/track/48r69Zr1t0h6Y0yFWgHj9O) | [Natural Nature Makers](https://open.spotify.com/artist/1Rbya7c6FqWC3L0UBCXpbv) | [Rich Rain Bird](https://open.spotify.com/album/7MvrD43usHTvHwfo5FAgnc) | 2:42 | 2022-03-29 |  |
 | [Rich Raindrops](https://open.spotify.com/track/2CS1foD5CvZqEbrdeHjGeu) | [Rainspell](https://open.spotify.com/artist/0b4sTNmnPpWmMXt2164RXx) | [Rain Spell](https://open.spotify.com/album/3xvcpp8kX2YbQqxTAg2Lnn) | 2:40 | 2021-11-11 |  |
 | [River, Birds, Thunder](https://open.spotify.com/track/4ak2RQ5iErrBl2lj5RnaZ0) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Forest and Ocean Sounds](https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M) | 2:18 | 2021-11-11 |  |

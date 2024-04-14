@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 142289,
+  "2024-04-14": 142310,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical. Legit. Folk, Americana, and Singer-Songwriter music features LGBTQIA+ acts and allies. Cover: Izzy Heltai",
   "name": "Queer As Folk",
@@ -1796,6 +1796,28 @@
     },
     {
       "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        },
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256734,
+      "name": "Just A Woman",
+      "url": "https://open.spotify.com/track/29snCFDh5oCuIVG717rDUq"
+    },
+    {
+      "album": {
         "name": "Just A Woman",
         "url": "https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I"
       },
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 256734,
       "name": "Just A Woman",
       "url": "https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu"
@@ -2333,10 +2355,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205540,
       "name": "Pipe Dreams",
       "url": "https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/0iKUlriBGhJ9Fvnex5Xi7w"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205540,
+      "name": "Pipe Dreams",
+      "url": "https://open.spotify.com/track/7hKMa4UKhVhhLb9UUHlbIu"
     },
     {
       "album": {
@@ -2983,10 +3023,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 386773,
       "name": "Two Men in Love",
       "url": "https://open.spotify.com/track/2aStnqtcB9SCoxHj5hByX7"
+    },
+    {
+      "album": {
+        "name": "Two Men in Love",
+        "url": "https://open.spotify.com/album/23p4EyOaiLZizJjEd5YB4C"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386773,
+      "name": "Two Men in Love",
+      "url": "https://open.spotify.com/track/33doebdvJ82n6KoGmNLq5Y"
     },
     {
       "album": {

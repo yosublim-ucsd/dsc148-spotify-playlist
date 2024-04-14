@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd94\ucc9c\ub418\ub294 \ud799\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
-  "num_followers": 41799,
+  "num_followers": 41915,
   "original_name": "\ub108 \ud799 \ub3fc?",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-05 10:08:21",
       "album": {
-        "name": "Barely Holdin' On",
-        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Barely Holdin' On",
-      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
-    },
-    {
-      "added_at": "2024-04-05 10:08:21",
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193333,
       "name": "back to the moon",
       "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
+    },
+    {
+      "added_at": "2024-04-05 10:08:21",
+      "album": {
+        "name": "Barely Holdin' On",
+        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Barely Holdin' On",
+      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
     },
     {
       "added_at": "2024-04-05 10:08:21",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-04-05 10:08:21",
       "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2024-04-05 10:08:21",
+      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
-    },
-    {
-      "added_at": "2024-04-05 10:08:21",
-      "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
     }
   ],
   "unique_name": "\ub108 \ud799 \ub3fc?",

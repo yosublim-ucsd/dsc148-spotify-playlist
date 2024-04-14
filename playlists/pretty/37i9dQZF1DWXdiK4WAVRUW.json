@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 10th anniversary of Dan + Shay's debut album \"Where It All Began\" on 2010s Country! ",
-  "num_followers": 584925,
+  "num_followers": 585116,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -207,8 +207,8 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "It's America",
         "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 207040,
       "name": "Farmer's Daughter",
       "url": "https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "The Breaker",
         "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Get Closer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Long Hot Summer",
-      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 178986,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Get Closer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Long Hot Summer",
+      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Beat of the Music",
-      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 216266,
       "name": "Road Less Traveled",
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Beat of the Music",
+      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/6PcLI5dTPttZi5OrhqcBSA"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Every Storm (Runs Out Of Rain)",
-      "url": "https://open.spotify.com/track/6s3dgEQgen7G85NtYUTEbD"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 213183,
       "name": "Kiss Somebody",
       "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6PcLI5dTPttZi5OrhqcBSA"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Every Storm (Runs Out Of Rain)",
+      "url": "https://open.spotify.com/track/6s3dgEQgen7G85NtYUTEbD"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "I Hold On",
-      "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Lady Antebellum",
         "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
@@ -2875,6 +2859,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "I Hold On",
+      "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
         "name": "Bring You Back",
         "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
       },
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Mine Would Be You",
-      "url": "https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 182213,
       "name": "Save It for a Rainy Day",
       "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Mine Would Be You",
+      "url": "https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "A Woman Like You",
-      "url": "https://open.spotify.com/track/3oyMHCAAcnWFdcGuVgwfhd"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 215920,
       "name": "Hey Pretty Girl",
       "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "A Woman Like You",
+      "url": "https://open.spotify.com/track/3oyMHCAAcnWFdcGuVgwfhd"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -3035,6 +3035,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
+        "name": "SLOWHEART",
+        "url": "https://open.spotify.com/album/03hlPprQQU9VN1H4GaDWoi"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "More Girls Like You",
+      "url": "https://open.spotify.com/track/73WWkaWkIRSP3MYGZ14aY4"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
       },
@@ -3083,22 +3099,6 @@
       "duration_ms": 209586,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
-        "name": "SLOWHEART",
-        "url": "https://open.spotify.com/album/03hlPprQQU9VN1H4GaDWoi"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "More Girls Like You",
-      "url": "https://open.spotify.com/track/73WWkaWkIRSP3MYGZ14aY4"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Ignite the Night (Party Edition)",
-        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 214949,
-      "name": "Gonna Wanna Tonight",
-      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "10,000 Towns",
         "url": "https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 219213,
       "name": "Drunk Last Night",
       "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Ignite the Night (Party Edition)",
+        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 214949,
+      "name": "Gonna Wanna Tonight",
+      "url": "https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2"
     },
     {
       "added_at": "2024-04-01 14:50:59",

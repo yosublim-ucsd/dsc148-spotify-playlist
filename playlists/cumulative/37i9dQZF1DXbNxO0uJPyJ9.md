@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-250 songs - 1 day 2 hr 48 min
+251 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Don't You Want Me \- Special Extended Dance Mix](https://open.spotify.com/track/3PQHydf6mRMMYXV5LsLAiz) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Original Remixes & Rarities](https://open.spotify.com/album/28X6zmcFUzFrR6dqh7N4Or) | 7:29 | 2021-12-22 | 2022-07-23 |
 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 | 2021-12-22 |  |
 | [Désenchantée \- Remix Club](https://open.spotify.com/track/4Od7lFa9aSInsfUjYUxrCd) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [Thierry Rogen](https://open.spotify.com/artist/7gD38jXFEqEDizhBXxBzMX), [Laurent Boutonnat](https://open.spotify.com/artist/3dg3KOIgcEQhK9sVRANhmC) | [Dance Remixes](https://open.spotify.com/album/1gHGbM96L6SifqaKrcpUv0) | 8:13 | 2020-08-07 | 2022-07-27 |
+| [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 | 2024-02-06 |  |
 | [Enjoy The Silence \- 2006 Digital Remaster](https://open.spotify.com/track/3enkvSCLKtGCCXfRyEK9Fl) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator](https://open.spotify.com/album/1v6DV6Bt0kDsX1Vd1f7CEe) | 6:12 | 2020-08-07 | 2022-07-29 |
-| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2022-06-10 |  |
+| [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2022-06-10 | 2024-04-14 |
 | [Enola Gay \- 2003 Remastered Version](https://open.spotify.com/track/6nyFMutSEayGfomojw82CS) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Playlist: 80s Pop](https://open.spotify.com/album/52sxFPKbZRsZtuRZpHgOnd) | 3:29 | 2020-08-07 | 2022-07-29 |
 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 | 2022-06-10 |  |
 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3jyjiqS0gbhWsjrxrdFB8l) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [New Wave Hits \(80's Mix\)](https://open.spotify.com/album/4ePP0Wj5SBxFYowLgr7s8M) | 3:33 | 2022-06-10 | 2022-11-13 |

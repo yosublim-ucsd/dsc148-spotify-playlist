@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,909 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,960 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 21 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 |
 | 22 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
 | 23 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 24 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 24 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
 | 25 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
-| 26 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
+| 26 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
 | 27 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
 | 28 | [Barco Azul \- Remastered](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
 | 29 | [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 |

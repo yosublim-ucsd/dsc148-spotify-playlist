@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,857 likes - 57 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,905 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 48 | [À Francesa](https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Próxima Parada](https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP) | 4:07 |
 | 49 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
 | 50 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
-| 51 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
-| 52 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
+| 51 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
+| 52 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
 | 53 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 54 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
 | 55 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |

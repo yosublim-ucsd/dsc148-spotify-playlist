@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,982 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,035 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 75 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 |
 | 76 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 77 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
-| 78 | [Luxo](https://open.spotify.com/track/0sv8lIxCnWR1HCsrPBZqIA) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s), [Don G](https://open.spotify.com/artist/1sXcSpEYLDVaQSdKG4VWlb), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe), [Gutto](https://open.spotify.com/artist/2xTmseecOdW1wBsVicsOmg) | [V.I.B.E.S](https://open.spotify.com/album/4mEGo4tnHVU3AZDUBcc62V) | 4:57 |
+| 78 | [Morte Do Artista](https://open.spotify.com/track/1MlS996c4ea12zlMhqmW56) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/4S2BptKqkJtd8cnzk28NlP) | 3:27 |
 | 79 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
 | 80 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 

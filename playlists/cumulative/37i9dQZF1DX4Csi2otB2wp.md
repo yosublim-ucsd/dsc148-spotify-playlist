@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-242 songs - 13 hr 48 min
+243 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 | 2022-01-18 | 2023-05-15 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:58 | 2022-01-18 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-24 | 2023-02-03 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-02 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-02 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-02-23 |  |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-05-05 | 2023-06-03 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-29 | 2022-11-17 |
 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 | 2022-08-22 | 2022-09-09 |

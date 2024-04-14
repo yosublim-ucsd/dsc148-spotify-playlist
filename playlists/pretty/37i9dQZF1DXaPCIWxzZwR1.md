@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,473 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,607 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 41 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 |
 | 42 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 |
 | 43 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
-| 44 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
+| 44 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
 | 45 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 46 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
 | 47 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |

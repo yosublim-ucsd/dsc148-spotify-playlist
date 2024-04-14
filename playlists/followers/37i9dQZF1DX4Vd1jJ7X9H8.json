@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 312594,
+  "2024-04-14": 312682,
   "date_first_scraped": "2022-02-13",
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
   "name": "Soir\u00e9e",
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
@@ -4429,7 +4429,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
@@ -5683,7 +5683,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236335,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm"
@@ -7781,6 +7781,24 @@
       "duration_ms": 162480,
       "name": "Str8 Outta Mumbai",
       "url": "https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2"
+    },
+    {
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
     },
     {
       "album": {

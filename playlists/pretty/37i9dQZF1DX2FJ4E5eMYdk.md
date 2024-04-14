@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,455 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,507 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 44 | [Hippo](https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:20 |
 | 45 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 46 | [Island Time](https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Jamtown](https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL) | 3:55 |
-| 47 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
-| 48 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
+| 47 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
+| 48 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
 | 49 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
-| 50 | [Sing a Glad Song](https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU) | 4:22 |
-| 51 | [Kingfisher](https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu) | 6:58 |
+| 50 | [Kingfisher](https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu) | 6:58 |
+| 51 | [Sing a Glad Song](https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU) | 4:22 |
 | 52 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 53 | [Cecil Taylor](https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Fanfare](https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1) | 6:30 |
 | 54 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |

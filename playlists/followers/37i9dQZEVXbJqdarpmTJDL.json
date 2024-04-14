@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 107389,
+  "2024-04-14": 107786,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -11061,7 +11061,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204950,
       "name": "G63",
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
@@ -18205,7 +18205,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233066,
       "name": "Margarites",
       "url": "https://open.spotify.com/track/3V4uqxP0Jw4IK7WmyTNBGO"
@@ -24342,6 +24342,40 @@
     },
     {
       "album": {
+        "name": "Pou Isoun?",
+        "url": "https://open.spotify.com/album/4eK7fOMpc9Z8v9Fzdb1pCb"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Koraki",
+          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
+        },
+        {
+          "name": "Sativa",
+          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+        },
+        {
+          "name": "Tokesick",
+          "url": "https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191714,
+      "name": "Pou Isoun?",
+      "url": "https://open.spotify.com/track/0qGVPvhJCex0Mrm4troHBN"
+    },
+    {
+      "album": {
         "name": "POULAS",
         "url": "https://open.spotify.com/album/5qvIpFtdVEOgnY3qQrbj0X"
       },
@@ -25449,6 +25483,28 @@
       "duration_ms": 245333,
       "name": "Rendevouz",
       "url": "https://open.spotify.com/track/6YWBMAu8EGTp4a27pKUSQf"
+    },
+    {
+      "album": {
+        "name": "REPORTAGE",
+        "url": "https://open.spotify.com/album/36jvw8sOnb6dG6FSEcAy1y"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168749,
+      "name": "REPORTAGE",
+      "url": "https://open.spotify.com/track/7nD3EmNXEg6RI7kRS8Wjdu"
     },
     {
       "album": {

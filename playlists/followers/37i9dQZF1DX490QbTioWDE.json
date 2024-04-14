@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 704112,
+  "2024-04-14": 704470,
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & Ulises Bueno.",
   "name": "100% Cuarteto",
@@ -601,7 +601,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155223,
       "name": "Ara\u00f1azo",
       "url": "https://open.spotify.com/track/6GhErEuWV8XY7JPPFjhbNO"
@@ -3401,7 +3401,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
@@ -4458,6 +4458,28 @@
     },
     {
       "album": {
+        "name": "Mil Preguntas",
+        "url": "https://open.spotify.com/album/5pArplEHrE5U2foVlEnFfn"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "Mil Preguntas",
+      "url": "https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV"
+    },
+    {
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k"
       },
@@ -5001,6 +5023,24 @@
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
+    },
+    {
+      "album": {
+        "name": "NUNCA lo olvides",
+        "url": "https://open.spotify.com/album/5aMFcpQ6sQr16Uq2xowpIw"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203004,
+      "name": "NUNCA lo olvides",
+      "url": "https://open.spotify.com/track/7MH8M64IB8206JiDbnzM76"
     },
     {
       "album": {
@@ -5757,7 +5797,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227526,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4ouwsgugJWdjKmylerUxGb"
@@ -6609,7 +6649,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
@@ -6799,6 +6839,24 @@
       "duration_ms": 184661,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+    },
+    {
+      "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155990,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "album": {
@@ -7531,6 +7589,28 @@
       "duration_ms": 193000,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09"
+    },
+    {
+      "album": {
+        "name": "Tus Botellas",
+        "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Tus Botellas",
+      "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
     },
     {
       "album": {

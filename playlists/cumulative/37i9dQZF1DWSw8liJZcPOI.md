@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-478 songs - 1 day 9 hr 2 min
+479 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Circle 23 \- Slow Meadow Rework](https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Circle 23 \(Slow Meadow Rework\)](https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J) | 5:23 | 2021-11-09 |  |
 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Circle 26 \(Tom Ashbrook Rework\)](https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349) | 3:40 | 2021-10-14 |  |
 | [Circle 29](https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Circle 29](https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl) | 2:58 | 2022-11-25 |  |
-| [Circle, and Back](https://open.spotify.com/track/4hOTN35xtUkHToziwmzVKl) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Circle, and Back](https://open.spotify.com/album/5PQ1tnHvMck7dHa9pnxVaI) | 3:51 | 2024-03-01 |  |
+| [Circle, and Back](https://open.spotify.com/track/4hOTN35xtUkHToziwmzVKl) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Circle, and Back](https://open.spotify.com/album/5PQ1tnHvMck7dHa9pnxVaI) | 3:51 | 2024-03-01 | 2024-04-14 |
 | [Clear Language](https://open.spotify.com/track/2BaK6o7Y4IyEqME8hpzlEY) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:13 | 2021-02-12 | 2022-04-21 |
 | [Clear Language](https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:13 | 2022-07-22 | 2023-06-17 |
 | [Clockworking](https://open.spotify.com/track/5auxPiQ8ouJWE1Pe3SWhOc) | [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Nordic Affect](https://open.spotify.com/artist/4p6qqywaSCExdEYczbAFGY) | [Clockworking](https://open.spotify.com/album/51xXBhnd7HsJSx9nnlC7zv) | 7:35 | 2020-12-04 | 2020-12-11 |
@@ -445,6 +445,7 @@
 | [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 | 2020-10-20\* | 2022-07-29 |
 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 | 2022-07-22 |  |
 | [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-20 |  |
+| [Try](https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Try](https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ) | 4:02 | 2024-04-12 |  |
 | [Tvíliða orgelverk \- Live](https://open.spotify.com/track/6uKlySX2MFFBEw5rtbCv01) | [Asalaus](https://open.spotify.com/artist/6m0gRGZ5Jzhw5FbI3Jq8QW) | [Asaleysing](https://open.spotify.com/album/0wmOZpHttpqppuY6m8cBU4) | 2:32 | 2020-12-04 | 2020-12-11 |
 | [Un Dimanche Orageux](https://open.spotify.com/track/1cMUzynWRSC8JwAkohZ9Kr) | [REYN](https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS) | [Un Dimanche Orageux](https://open.spotify.com/album/5CC8lLIuUha1r1HTIIaW3H) | 1:57 | 2024-03-01 |  |
 | [Un Dimanche Orageux](https://open.spotify.com/track/7xcUYm5XUQ1bULRNlWCunX) | [REYN](https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS) | [Un Dimanche Orageux](https://open.spotify.com/album/5JgQFsHeTsoMXB8xjJN4EM) | 1:57 | 2021-02-12 | 2022-04-19 |

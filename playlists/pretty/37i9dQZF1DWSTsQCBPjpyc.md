@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,712 likes - 72 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,749 likes - 72 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 32 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
 | 33 | [Never Giving Up on You](https://open.spotify.com/track/1EKcUQUFKDjULNdBs74Sco) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Never Giving Up on You](https://open.spotify.com/album/0mhW46PwYVHV1ZXfUGMDXm) | 3:07 |
 | 34 | [We'll Always Be Together](https://open.spotify.com/track/35lJrhNHp5g0rTEsue06Wh) | [Bobby King](https://open.spotify.com/artist/4YMQBkOwhlxWrgU3h6WZ7a), [Terry Evans](https://open.spotify.com/artist/2pRTJxkj9tgEe7A4CCQdFt) | [Rhythm, Blues, Soul & Grooves](https://open.spotify.com/album/1T1ts5Wqq0hqO888IRNFUO) | 4:38 |
-| 35 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 |
+| 35 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6O8JCLuEeT0YlLmIS9AegJ) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/75vF8e9rzmbRAmieXf57Ev) | 3:21 |
 | 36 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 |
 | 37 | [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 |
 | 38 | [You Been Sweet To Me](https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Old Friends](https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj) | 4:50 |

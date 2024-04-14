@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,280 likes - 82 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,295 likes - 82 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 9 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 |
 | 10 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 11 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
-| 12 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
+| 12 | [dive bar](https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the lows.](https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc) | 3:33 |
 | 13 | [Kiss](https://open.spotify.com/track/5lMrt5KYxHSwaOjTtJosLY) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Kiss](https://open.spotify.com/album/0Bg6ZeJaMHyGOALyRFbcyF) | 3:01 |
 | 14 | [The Weather](https://open.spotify.com/track/1XKKSHhZDsQ8BmXgd7oalu) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [The Weather](https://open.spotify.com/album/4DvS7PGbEyNRuoz1LYB1X3) | 3:16 |
 | 15 | [Yellow Dresser](https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Yellow Dresser](https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za) | 3:24 |

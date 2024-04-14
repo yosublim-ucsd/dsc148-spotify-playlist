@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-148 songs - 8 hr 43 min
+149 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Feels Like You](https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Feels Like You](https://open.spotify.com/album/6KQTZTlcnqA82p6RkQk0yr) | 3:18 | 2022-04-04 | 2022-07-29 |
 | [First Date](https://open.spotify.com/track/2zMsClh8Mdkpg7VxmJrjPb) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [First Date](https://open.spotify.com/album/2UYhOYJnQnzt0UAH6BXYPL) | 2:26 | 2022-04-04 | 2022-06-24 |
 | [Fly You to the Moon](https://open.spotify.com/track/0airDlKC7gQNcooMHyIydT) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Fly You to the Moon](https://open.spotify.com/album/5GHJ6bygyiZAtYFjYgIUjd) | 2:52 | 2022-04-04 | 2022-07-22 |
+| [Fresh Eyes](https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:18 | 2024-02-27 |  |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-04-04 |  |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-04 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2022-04-04 | 2022-11-13 |
@@ -154,7 +155,7 @@
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-06-27 |  |
 | [you!](https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [you!](https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2) | 4:34 | 2022-04-04 | 2022-07-29 |
 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2023-10-18 | 2023-11-11 |
-| [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2022-11-24 |  |
+| [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2022-11-24 | 2024-04-14 |
 | [Your Song](https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4) | 2:48 | 2022-04-04 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

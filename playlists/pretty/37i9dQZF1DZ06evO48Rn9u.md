@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,915 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,970 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 2 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
 | 3 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 4 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
-| 5 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
-| 6 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
+| 5 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
+| 6 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 7 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 8 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 9 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
+| 9 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 10 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 11 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 12 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 45 | [Family Is Family](https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:32 |
 | 46 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDcwZWJmYTZjZjg5Yzk1ZWU2MGRkODFjYzY3MzA2MDZj`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDZkODNkOTg4MWI3MTc3NzQ3ZTg4MThkYzcwM2U3YTdj`

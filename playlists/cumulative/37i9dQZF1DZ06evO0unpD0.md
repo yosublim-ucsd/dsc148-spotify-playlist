@@ -4,7 +4,7 @@
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-85 songs - 8 hr 0 min
+86 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 | 2021-12-28 | 2024-02-01 |
 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 | 2021-12-28 | 2024-02-13 |
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2022-01-01 | 2022-06-20 |
+| [Kabe](https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Nomis \(FR\)](https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V) | [Kabe](https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh) | 3:32 | 2024-04-14 |  |
 | [Kalabancoro](https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq) | [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Munia \(The Tale\)](https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ) | 4:05 | 2021-12-28 |  |
 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 | 2021-12-29 |  |
 | [Katolon](https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:58 | 2022-03-01 |  |

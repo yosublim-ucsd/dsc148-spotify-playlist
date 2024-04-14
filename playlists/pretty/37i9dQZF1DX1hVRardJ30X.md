@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Feid & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,875 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,940 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 |
 | 40 | [Quisiera](https://open.spotify.com/track/13balKJJGR2bqNFjObszuG) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Quisiera](https://open.spotify.com/album/6m4LTn3NGSZsIg8vznoVTp) | 3:03 |
 | 41 | [Fácil](https://open.spotify.com/track/7novw1Uyn50qfw148FjnOR) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Fácil](https://open.spotify.com/album/1YoNGxYEb9dwzWCEfGdINn) | 3:15 |
-| 42 | [Sin Ti](https://open.spotify.com/track/6goBQNQUuimGVQ8DXBYKDY) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [La Sinfonia](https://open.spotify.com/artist/0wlZbRgmyH7olg2b8qNrl8) | [Sin Ti](https://open.spotify.com/album/4DntxXmphE8MhEoY8mitQc) | 3:50 |
+| 42 | [Sin Ti](https://open.spotify.com/track/6goBQNQUuimGVQ8DXBYKDY) | [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R), [La Sinfonia](https://open.spotify.com/artist/0wlZbRgmyH7olg2b8qNrl8) | [Sin Ti](https://open.spotify.com/album/4DntxXmphE8MhEoY8mitQc) | 3:49 |
 | 43 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |
 | 44 | [CUIDADO](https://open.spotify.com/track/6WtU0thFNt8UA7CZrfGFE5) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [CUIDADO](https://open.spotify.com/album/5qRqpQrPDFLJSnO6Rkd2mh) | 2:59 |
 | 45 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 |

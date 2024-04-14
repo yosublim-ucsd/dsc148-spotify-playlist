@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -4460,7 +4460,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -9448,7 +9448,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -13474,7 +13474,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -14302,6 +14302,24 @@
       "duration_ms": 185308,
       "name": "IKKA SIIN",
       "url": "https://open.spotify.com/track/2bVGOpR7YaoErIOz0gBnef"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -17208,10 +17226,32 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn"
     },
     {
       "album": {
@@ -23707,6 +23747,24 @@
     },
     {
       "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -26068,7 +26126,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 155375,
       "name": "Rasedad",
       "url": "https://open.spotify.com/track/1BYKeMQde9SeoFli5NLJKY"
@@ -34964,6 +35022,32 @@
       "duration_ms": 185806,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/58Zw9y62GIgKZ6AbI6GXHl"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {

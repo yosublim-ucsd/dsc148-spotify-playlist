@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,799 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,840 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 72 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
 | 73 | [Me And Bobby McGee](https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 3:16 |
 | 74 | [Homecoming \- Single Version](https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 3:17 |
-| 75 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
+| 75 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
 | 76 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
-| 77 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
+| 77 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 78 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
 | 79 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
 | 80 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 87 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |
 | 88 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 89 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T) | 2:53 |
-| 90 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
-| 91 | [Yesterday When I Was Young](https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs) | 3:21 |
+| 90 | [Yesterday When I Was Young](https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs) | 3:21 |
+| 91 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
 | 92 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 93 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 94 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |

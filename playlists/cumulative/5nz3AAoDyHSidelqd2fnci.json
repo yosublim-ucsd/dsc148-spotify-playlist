@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 267560,
       "name": "A Reason For Broken Wings",
       "url": "https://open.spotify.com/track/47N7tAV0SrLUtfxGoU8vlO"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160173,
       "name": "Dancing on Nails",
       "url": "https://open.spotify.com/track/3B3CDurawFVlndC9vdTemi"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 204933,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5VGHRChawUXd2VvjGnUYY0"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 201600,
       "name": "Exhuming McCarthy",
       "url": "https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj"
@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5WzytSkKsXzzXoTtsDOnnn"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Faraway",
+      "url": "https://open.spotify.com/track/5D2yrjjxh1mizl4uwzA9qe"
+    },
+    {
+      "album": {
         "name": "En Saga I Belgia",
         "url": "https://open.spotify.com/album/0YfVq4FPwi1o7jp99h7MTs"
       },
@@ -3230,7 +3248,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 207866,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4XyuemNAggx7OvmpJYddcS"
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 183265,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/405RLkwfytmA5UIFWV69oY"
@@ -4257,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "In Our Wake",
+        "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238662,
+      "name": "House Of Gold",
+      "url": "https://open.spotify.com/track/6ldJbhUXQUjJS4hCqV1iAh"
+    },
+    {
+      "album": {
         "name": "Divisi\u00f3n",
         "url": "https://open.spotify.com/album/1LmzZpRdF3pP8o8P7ZUY9u"
       },
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 221137,
       "name": "Impossible Tracks",
       "url": "https://open.spotify.com/track/7GZvjJkHoTSiP51zNqVnMP"
@@ -5494,7 +5530,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 175632,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
@@ -5516,6 +5552,24 @@
       "duration_ms": 131280,
       "name": "London's Burning - Remastered",
       "url": "https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo"
+    },
+    {
+      "album": {
+        "name": "13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7GnnFI0WmAx9O9hccqVDGl"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299933,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/6PPs4wEwrTQrVTNypvHa3L"
     },
     {
       "album": {
@@ -5595,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Los Dinosaurios",
+      "url": "https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik"
+    },
+    {
+      "album": {
         "name": "Killswitch Engage (Special Edition)",
         "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
       },
@@ -5606,7 +5678,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 225013,
       "name": "Lost",
       "url": "https://open.spotify.com/track/78tLvQpH9JjFWl0MK9Gsne"
@@ -6720,7 +6792,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 309081,
       "name": "No Necesitamos Banderas",
       "url": "https://open.spotify.com/track/3J8UPLZhNFQi3o2qIvwLjY"
@@ -7503,6 +7575,24 @@
     },
     {
       "album": {
+        "name": "Dead by April (Bonus Version)",
+        "url": "https://open.spotify.com/album/56vEKlPffEVZC1m436T8Sc"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/2r4gmozRnnU9xOkasVNUJ2"
+    },
+    {
+      "album": {
         "name": "proper vertigo",
         "url": "https://open.spotify.com/album/0hespTH5RFMqT37DBEaGhY"
       },
@@ -7994,7 +8084,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 228333,
       "name": "Rose of Sharyn - Live",
       "url": "https://open.spotify.com/track/7HMPxuJISTHEbyo7LKB4Df"
@@ -8052,6 +8142,24 @@
       "duration_ms": 286133,
       "name": "Run For A Fall - Live Acoustic",
       "url": "https://open.spotify.com/track/2suEDcg2EQKepWYBmSTELq"
+    },
+    {
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/7FzzbpaRYEmXLSrlhkpXyd"
+      },
+      "artists": [
+        {
+          "name": "Townies",
+          "url": "https://open.spotify.com/artist/0Ow1iSH3Drf4YUw64LTubE"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193006,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/4gIR6qYVi5Rggf3sn8EIiG"
     },
     {
       "album": {
@@ -8527,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
+    },
+    {
+      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -8895,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "Revamp",
+        "url": "https://open.spotify.com/album/2y4KdGC83iLte934QC6Oys"
+      },
+      "artists": [
+        {
+          "name": "ReVamp",
+          "url": "https://open.spotify.com/artist/4LPznDHsWRPbEivBW6aYqv"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Sweet Curse",
+      "url": "https://open.spotify.com/track/4mEKcHXmzC7JC8I1L3MjFT"
+    },
+    {
+      "album": {
         "name": "Mozart: Symphony No. 40 in G minor K.550",
         "url": "https://open.spotify.com/album/6zibIhSvaqI1TEeZO5FujG"
       },
@@ -8932,7 +9076,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165880,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2fPlA2m2B0yecH8bVhUb1U"
@@ -9070,6 +9214,24 @@
       "duration_ms": 344186,
       "name": "Ten Thousand Feet",
       "url": "https://open.spotify.com/track/3wcnWZU7iLFh3H2XD3voPU"
+    },
+    {
+      "album": {
+        "name": "Texas Hold 'Em",
+        "url": "https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182761,
+      "name": "Texas Hold 'Em",
+      "url": "https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb"
     },
     {
       "album": {
@@ -9505,6 +9667,24 @@
     },
     {
       "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/5e0H35jvjBwPOWQTAbpNvg"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "The Ripper",
+      "url": "https://open.spotify.com/track/0UQ6vUmFUUbtLZ6EWOzh33"
+    },
+    {
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -9520,6 +9700,24 @@
       "duration_ms": 364186,
       "name": "The Same Deep Water As You - Band Instrumental Demo",
       "url": "https://open.spotify.com/track/0QOo0nMWtEiQw0CJZTvng1"
+    },
+    {
+      "album": {
+        "name": "7th Symphony",
+        "url": "https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365213,
+      "name": "The Shadow of Venus",
+      "url": "https://open.spotify.com/track/0s7yGp3N4GnJD8rwCnq4uX"
     },
     {
       "album": {
@@ -9798,7 +9996,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 365986,
       "name": "Todos Locos - Original Mix",
       "url": "https://open.spotify.com/track/7BsJiwV0MRyTb8ToNjVCmx"

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 167817,
+  "2024-04-14": 167829,
   "date_first_scraped": "2022-12-01",
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
   "name": "R&B Brasil",
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
@@ -1001,6 +1001,28 @@
       "duration_ms": 168175,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b"
+    },
+    {
+      "album": {
+        "name": "Daqui pra Frente - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181514,
+      "name": "Daqui pra Frente - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
     },
     {
       "album": {
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186437,
       "name": "Farei",
       "url": "https://open.spotify.com/track/1AwqQGjNSlPN9X7Iu4Yx30"
@@ -1599,10 +1621,36 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 139270,
       "name": "GUAPA",
       "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "album": {
+        "name": "O BGLH \u00c9 BLACK",
+        "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
+      },
+      "artists": [
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        },
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
     },
     {
       "album": {
@@ -2707,6 +2755,28 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "album": {
+        "name": "O Brilho Que Voc\u00ea Tem",
+        "url": "https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9ssy",
+          "url": "https://open.spotify.com/artist/0y2VGY2fahIK7ktr8WlFFF"
+        },
+        {
+          "name": "Rog\u00e9rio Cruz",
+          "url": "https://open.spotify.com/artist/2WB8FpkFN3lAFiWIkqKTj7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "O Brilho Que Voc\u00ea Tem",
+      "url": "https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF"
     },
     {
       "album": {

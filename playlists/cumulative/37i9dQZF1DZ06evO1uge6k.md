@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-131 songs - 8 hr 7 min
+132 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Burger Man](https://open.spotify.com/track/4Nm1dKcDgsacRITdywmeWi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:19 | 2023-03-11 | 2023-08-26 |
 | [Can't Stop Rockin'](https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:01 | 2024-02-24 |  |
 | [Can't Stop Rockin'](https://open.spotify.com/track/7A1G4cFoivSdoryjH9w2z6) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:01 | 2022-09-17 | 2024-02-25 |
-| [Certified Blues](https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:27 | 2024-02-25 |  |
+| [Certified Blues](https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 3:27 | 2024-02-25 | 2024-04-14 |
 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 | 2022-09-17 | 2024-02-25 |
 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 | 2022-09-17 |  |
 | [Cheap Sunglasses](https://open.spotify.com/track/23GKaCeOwUt6MQyCwi4M26) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 2:40 | 2023-06-28 | 2023-07-08 |
@@ -110,6 +110,7 @@
 | [Rhythmeen](https://open.spotify.com/track/0ENGJrM4g0kODzoWGHjqOr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:52 | 2022-09-17 | 2023-04-28 |
 | [Rough Boy](https://open.spotify.com/track/09C7ULYG1WhWgngwkkvVxN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:49 | 2022-09-17 | 2024-02-24 |
 | [Rough Boy](https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:49 | 2024-02-23 |  |
+| [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 | 2024-04-14 |  |
 | [Sharp Dressed Man \(2008 Remaster\)](https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:18 | 2024-02-24 |  |
 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 | 2022-09-17 | 2024-02-25 |
 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 | 2023-03-02 | 2024-02-25 |

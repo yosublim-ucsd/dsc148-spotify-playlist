@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Papisa
 
-571 songs - 1 day 8 hr 18 min
+572 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-09-20 |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
 | [Bicho Solto](https://open.spotify.com/track/7xKocq5r0niCRi1J0tM3kG) | [Lê Almeida](https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV) | [Bicho Solto](https://open.spotify.com/album/205ulviajNbo2C25tOlzgY) | 4:34 | 2023-09-01 | 2024-03-30 |
-| [Blefe, Prova, Posse](https://open.spotify.com/track/2vywnLvUFVsqA9KhuKsn0p) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai), [Lena Platonos](https://open.spotify.com/artist/0sCJq0aWIAWwGsNujLLnYV), [Helio Flandres](https://open.spotify.com/artist/2OD6cVeCQanWOcP4m2fkcg) | [Blefe, Prova, Posse](https://open.spotify.com/album/453naU4zUHH08BMlHdPdYC) | 3:50 | 2024-04-12 |  |
+| [Blefe, Prova, Posse](https://open.spotify.com/track/2vywnLvUFVsqA9KhuKsn0p) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Lena Platonos](https://open.spotify.com/artist/0sCJq0aWIAWwGsNujLLnYV), [Helio Flanders](https://open.spotify.com/artist/6qbVfPrZTwf2qrFSjOH9Iy), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Blefe, Prova, Posse](https://open.spotify.com/album/453naU4zUHH08BMlHdPdYC) | 3:50 | 2024-04-12 |  |
 | [Blue Butterfly](https://open.spotify.com/track/5pxljqGTHVo2p4Y532ohQL) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [esqueci meu nome](https://open.spotify.com/album/6dyEbp6CRPnAMEdFZqgAvU) | 3:58 | 2022-09-09 | 2022-10-29 |
 | [Boate Invisível](https://open.spotify.com/track/7igOvMhssuw867QCX4KHeK) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U), [Júnior Boca](https://open.spotify.com/artist/0Zz8j8DnVD61ZuoQWeNLzP), [Bruno Buarque](https://open.spotify.com/artist/4lVG6VJNeTirBzikv3xtXE), [Dustan Gallas](https://open.spotify.com/artist/4TzqdfKQdxF1xi9DP1Upfw) | [Boate Invisível](https://open.spotify.com/album/2NCrddtpeRnPyeGMcPaP9N) | 3:46 | 2023-08-18 | 2024-02-24 |
 | [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 | 2022-12-09 | 2022-12-24 |
@@ -194,6 +194,7 @@
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 | 2022-06-25 |
 | [estática](https://open.spotify.com/track/4J3sacZksbTwNF4323eKcD) | [chá preto](https://open.spotify.com/artist/3HFcd8ElhUW7VFILTgQW2H) | [estática](https://open.spotify.com/album/79QVW4KXE9wwQ37ApRi9F1) | 3:00 | 2023-11-17 |  |
 | [Eu Ainda Te Quero](https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG) | [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Eu Ainda Te Quero](https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc) | 2:41 | 2022-08-19 | 2022-10-22 |
+| [Eu e a Lua](https://open.spotify.com/track/361ToCNpHcthhkQaPtohp4) | [clara bicho](https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Eu e a Lua](https://open.spotify.com/album/2BkSqu2S7mpdM94GQ7znep) | 2:58 | 2024-04-12 |  |
 | [Eu e a Sol](https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Eu e a Sol](https://open.spotify.com/album/6eDhs68qKc5kWVW2tiEPOR) | 1:50 | 2023-03-10 | 2023-04-22 |
 | [Eu Estou Aqui](https://open.spotify.com/track/6WrbfGs62Y2q2SLmVPKb8H) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Eu Estou Aqui](https://open.spotify.com/album/56US9CJ5EiV3nW2u9WDGNT) | 3:08 | 2023-07-07 | 2023-11-18 |
 | [Eu Já Fiz de Tudo que Tu Pode Imaginar](https://open.spotify.com/track/6Q3iLSJsGqfv8bCz6ngSkn) | [Expedidor](https://open.spotify.com/artist/4HT9RXmMeZnR2Jxd6VViHk) | [Obrigado e Até Logo](https://open.spotify.com/album/2qt6XmEIeQbOUT0bpmDjEY) | 2:43 | 2022-01-14 | 2022-01-22 |

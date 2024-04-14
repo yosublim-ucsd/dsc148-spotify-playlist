@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La playlist estivale 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,833 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,019 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 4 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
 | 5 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 6 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
-| 7 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 7 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 8 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 9 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 10 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |

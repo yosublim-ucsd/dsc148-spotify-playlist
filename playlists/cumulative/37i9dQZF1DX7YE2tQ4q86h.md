@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Jojo Siwa
 
-877 songs - 1 day 20 hr 8 min
+879 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2022-02-15 | 2022-08-27 |
 | [24H](https://open.spotify.com/track/1CxQcyS4bkhevuCU0QdD46) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:57 | 2022-08-19 | 2022-08-27 |
 | [24H](https://open.spotify.com/track/5cCasykCztP1ZRVxAcAGXu) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:57 | 2022-06-03 | 2022-08-24 |
-| [4eva](https://open.spotify.com/track/2TxbtBLtb1SW0E4LCI8CKu) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 2:20 | 2024-02-16 |  |
+| [4eva](https://open.spotify.com/track/2TxbtBLtb1SW0E4LCI8CKu) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 2:20 | 2024-02-16 | 2024-04-14 |
 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 | 2022-08-12 | 2022-12-24 |
 | [99 boys](https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [99 boys](https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX) | 2:26 | 2024-04-12 |  |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-06 | 2022-08-06 |
@@ -180,7 +180,7 @@
 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2023-07-28 | 2023-11-11 |
 | [Cyanide](https://open.spotify.com/track/5oh92nmPTF2iO9k1er6vgR) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Cyanide](https://open.spotify.com/album/39QplOwasWGyMWGi73qxjv) | 2:56 | 2023-11-24 |  |
 | [C’est l'amour](https://open.spotify.com/track/23pBiEPBdGrz5nb8IALTtT) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Coeur Encore](https://open.spotify.com/album/0eYbpLwV7r2HHooowI15s7) | 3:23 | 2022-12-02 | 2023-06-24 |
-| [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-09 |  |
+| [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-09 | 2024-04-14 |
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 |  |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-08-20 |
 | [Dance Forever](https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Dance Forever](https://open.spotify.com/album/20MjX7BdygnjgtQSSUKdqG) | 3:32 | 2022-04-15 | 2022-04-29 |
@@ -235,6 +235,7 @@
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 | 2023-08-19 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-14 | 2023-08-05 |
 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 | 2023-08-18 | 2023-12-02 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-13 |  |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-29 | 2024-03-30 |
 | [Everybody Wants a Piece of You](https://open.spotify.com/track/1yhYXmpBFTT1uTJS49qokx) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Everybody Wants a Piece of You](https://open.spotify.com/album/1ihklD60pvx4cvuCKhZXII) | 2:55 | 2023-10-13 | 2023-11-12 |
 | [Everybody Wants a Piece of You](https://open.spotify.com/track/2rogCtPxeWPNcO4ED4vzmw) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Everybody Wants a Piece of You](https://open.spotify.com/album/7kjnDAINZ4T9h2XOPytzbm) | 2:55 | 2023-11-10 | 2024-01-20 |
@@ -450,6 +451,7 @@
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-03 | 2024-02-10 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-06-23 | 2023-09-16 |
+| [KISS KISS BANG BANG](https://open.spotify.com/track/1WgutIzbZGASLWT2ADT4zc) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [KISS KISS BANG BANG](https://open.spotify.com/album/2XZX04VOvAveKTzoEEbLPE) | 3:12 | 2024-04-13 |  |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-09-29 | 2024-01-27 |
 | [Kiss Me Better](https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Kiss Me Better](https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy) | 2:40 | 2024-03-01 |  |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-04-29 | 2022-08-06 |

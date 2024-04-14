@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 285200,
+  "2024-04-14": 285218,
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: Griff.",
+  "description": "Illuminating Asian artists everywhere. Cover: thuy.",
   "name": "Jasmine",
   "tracks": [
     {
@@ -577,6 +577,24 @@
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
+    },
+    {
+      "album": {
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "album": {
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152058,
       "name": "Care (feat. Bakar)",
       "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187500,
       "name": "Daylight (feat. GANGGA)",
       "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
@@ -4873,7 +4891,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -5178,6 +5196,24 @@
     },
     {
       "album": {
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
+    },
+    {
+      "album": {
         "name": "whatislove2u?",
         "url": "https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3"
       },
@@ -5269,7 +5305,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 278613,
       "name": "Have You Ever Seen The Rain?",
       "url": "https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO"
@@ -5393,6 +5429,36 @@
       "duration_ms": 141799,
       "name": "Heavy Artillery",
       "url": "https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7"
+    },
+    {
+      "album": {
+        "name": "HELE",
+        "url": "https://open.spotify.com/album/55GX3rem3cG6AvragfUwTK"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "OMGKENNY",
+          "url": "https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "YOREN!",
+          "url": "https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "HELE",
+      "url": "https://open.spotify.com/track/0mPOWNkYxl2eA5CwjGl9sq"
     },
     {
       "album": {
@@ -6817,7 +6883,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165942,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
@@ -8002,6 +8068,24 @@
     },
     {
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
       },
@@ -8831,7 +8915,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
@@ -9342,6 +9426,24 @@
     },
     {
       "album": {
+        "name": "ooweeooweeoo",
+        "url": "https://open.spotify.com/album/329ru3PYSAfzO3K7sl5T19"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118938,
+      "name": "ooweeooweeoo",
+      "url": "https://open.spotify.com/track/5zVkl4naswYMPDdlY9ENSQ"
+    },
+    {
+      "album": {
         "name": "OUT OF BODY",
         "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
       },
@@ -9429,6 +9531,24 @@
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "album": {
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158346,
+      "name": "Part II: Bliss",
+      "url": "https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk"
     },
     {
       "album": {
@@ -11251,7 +11371,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227538,
       "name": "sole outlet",
       "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
@@ -11483,7 +11603,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
@@ -11748,6 +11868,32 @@
     },
     {
       "album": {
+        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
+        "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
+      "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
+    },
+    {
+      "album": {
         "name": "Subliminal",
         "url": "https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh"
       },
@@ -11897,7 +12043,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171285,
       "name": "Sunset Sensory",
       "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
@@ -13128,6 +13274,28 @@
     },
     {
       "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -13822,6 +13990,24 @@
     },
     {
       "album": {
+        "name": "White Pills - Single",
+        "url": "https://open.spotify.com/album/25nhf0pEOOkEiLTslF0IHu"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211411,
+      "name": "White Pills",
+      "url": "https://open.spotify.com/track/5EGu3xrcrhJL2XuzS82OaX"
+    },
+    {
+      "album": {
         "name": "WHO DIS?",
         "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
       },
@@ -13855,6 +14041,24 @@
       "duration_ms": 208573,
       "name": "Why",
       "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "album": {
+        "name": "Why Kiki?",
+        "url": "https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "Why Kiki?",
+      "url": "https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio"
     },
     {
       "album": {

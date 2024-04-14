@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,612 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,678 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 52 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
 | 53 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
 | 54 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
-| 55 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
-| 56 | [You're The Reason Our Kids Are Ugly](https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Honky Tonk Girl: The Loretta Lynn Collection](https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb) | 2:34 |
+| 55 | [You're The Reason Our Kids Are Ugly](https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Honky Tonk Girl: The Loretta Lynn Collection](https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb) | 2:34 |
+| 56 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 57 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
 | 58 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 59 | [You and Me](https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:20 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 74 | [Funny Face](https://open.spotify.com/track/27145diX1C7BE6m6FzONqb) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/album/5YfLHOqGzEjVKZMTTgZnyn) | 2:46 |
 | 75 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
 | 76 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
-| 77 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
-| 78 | [You've Never Been This Far Before](https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [25 Number Ones](https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh) | 3:01 |
+| 77 | [You've Never Been This Far Before](https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [25 Number Ones](https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh) | 3:01 |
+| 78 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
 | 79 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 |
 | 80 | [I'll Get Over You \- Remastered](https://open.spotify.com/track/0jtLwaA1Y2Da0xrNSJEgs0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Certified Hits](https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2) | 3:31 |
 | 81 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |

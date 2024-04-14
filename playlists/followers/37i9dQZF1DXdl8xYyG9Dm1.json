@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 149643,
+  "2024-04-14": 149666,
   "date_first_scraped": "2021-12-21",
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg\"> Omar Sterling</a>",
   "name": "Afro Bars ",
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
@@ -1825,6 +1825,28 @@
       "duration_ms": 243065,
       "name": "Formula (Moto Zimelia)",
       "url": "https://open.spotify.com/track/14OBWCaKhqp7jkD4h0Qv7N"
+    },
+    {
+      "album": {
+        "name": "Mtindo",
+        "url": "https://open.spotify.com/album/0O86y1QkJj0HZU5mYdnKgH"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183740,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/2WiKxZtKeaMTeeinUbtSnX"
     },
     {
       "album": {

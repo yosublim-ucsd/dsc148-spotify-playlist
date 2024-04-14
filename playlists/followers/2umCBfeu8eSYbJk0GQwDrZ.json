@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 28132,
+  "2024-04-14": 28132,
   "date_first_scraped": "2023-11-08",
   "description": "Stay current with the latest indie-alt tracks.",
   "name": "Hipster Radar",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170106,
       "name": "6am to Paris",
       "url": "https://open.spotify.com/track/1odZs329Z78zeDIUbJ9c28"
@@ -97,6 +97,24 @@
       "duration_ms": 219275,
       "name": "Age Of Celebrity",
       "url": "https://open.spotify.com/track/68z33dXwfIkGzy22ycCKGS"
+    },
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150897,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
     },
     {
       "album": {
@@ -427,7 +445,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220141,
       "name": "Beautiful Ordinary",
       "url": "https://open.spotify.com/track/6ik281isEScbhqTtulajvD"
@@ -449,6 +467,24 @@
       "duration_ms": 199466,
       "name": "bella",
       "url": "https://open.spotify.com/track/5NIiWGCKe6gtR5rKrlQ6KR"
+    },
+    {
+      "album": {
+        "name": "Belly Ring",
+        "url": "https://open.spotify.com/album/67UflZKCQKtSoOPArcx3S4"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227285,
+      "name": "Belly Ring",
+      "url": "https://open.spotify.com/track/22EYN5lZs59dF0CZlTmCxe"
     },
     {
       "album": {
@@ -539,6 +575,24 @@
       "duration_ms": 212025,
       "name": "Brambles",
       "url": "https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "album": {
@@ -687,10 +741,46 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 282973,
       "name": "Buying You A Garnet Amp",
       "url": "https://open.spotify.com/track/0hI7msofxyRJPQYRlpSR9q"
+    },
+    {
+      "album": {
+        "name": "Burn The Hard Drive",
+        "url": "https://open.spotify.com/album/26qjZem3bNwGyLZUzfVTY6"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146585,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/36vQS6h923LbRcZS531gOh"
+    },
+    {
+      "album": {
+        "name": "Town and Country",
+        "url": "https://open.spotify.com/album/5XYuUmxLvqajfZLgFSHHgH"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "C'mon Let's Go",
+      "url": "https://open.spotify.com/track/5wGChuyX0KQnp7Sj9C6IBq"
     },
     {
       "album": {
@@ -813,7 +903,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183200,
       "name": "Cease",
       "url": "https://open.spotify.com/track/3RfPkfgibToYurCOltsUi9"
@@ -1163,7 +1253,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169906,
       "name": "Eckhaus Latta",
       "url": "https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p"
@@ -1513,7 +1603,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233973,
       "name": "Gentle Violence",
       "url": "https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP"
@@ -2174,6 +2264,24 @@
     },
     {
       "album": {
+        "name": "I Just Killed a Spider",
+        "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149101,
+      "name": "I Just Killed a Spider",
+      "url": "https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY"
+    },
+    {
+      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS"
       },
@@ -2214,6 +2322,24 @@
     },
     {
       "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+    },
+    {
+      "album": {
         "name": "If I Had To Choose",
         "url": "https://open.spotify.com/album/1PF9qtK3ClFTWBRo4SxEoo"
       },
@@ -2225,7 +2351,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178911,
       "name": "If I Had To Choose",
       "url": "https://open.spotify.com/track/7hBmxRWok1152u2mn4uhGo"
@@ -2539,7 +2665,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236344,
       "name": "Mad at the Man",
       "url": "https://open.spotify.com/track/7LvB4sW8EU8f9ZI9rSVa5q"
@@ -2720,7 +2846,7 @@
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148250,
+      "duration_ms": 146551,
       "name": "Mrs. Valentine",
       "url": "https://open.spotify.com/track/5wDjQFHYkPL8q8lFWzvVLf"
     },
@@ -3307,7 +3433,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212543,
       "name": "Premier Inn",
       "url": "https://open.spotify.com/track/0jM8PK7KkKPOj2Nz7t9Bm3"
@@ -3593,6 +3719,24 @@
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "album": {
@@ -4659,6 +4803,24 @@
       "duration_ms": 208054,
       "name": "You Played Me",
       "url": "https://open.spotify.com/track/7CP6j7plNRRhNbp30E2erI"
+    },
+    {
+      "album": {
+        "name": "Happy Adjacent (Deluxe)",
+        "url": "https://open.spotify.com/album/22l2HUTlk67Bq3HEXeZHOk"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "You're Red",
+      "url": "https://open.spotify.com/track/0Y3pHfLOlbotjXePEytJv4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > When someone you love becomes a memory..\. find solace in these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,954 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,945 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

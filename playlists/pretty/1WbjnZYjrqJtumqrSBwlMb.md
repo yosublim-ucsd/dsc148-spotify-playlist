@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 870 songs - 2 day 5 hr 33 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 872 songs - 2 day 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -871,12 +871,14 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 861 | [\(I'm\) Stung](https://open.spotify.com/track/6oW5zKvWlGEZjW0EX2y9Bv) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [\(I’m\) Stung](https://open.spotify.com/album/5Ef6CPuglBPWKolkQtLa3R) | 3:55 |
 | 862 | [Neon River](https://open.spotify.com/track/1Mfshk8z7xwUUyAKlDFVrc) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [\(I’m\) Stung](https://open.spotify.com/album/5Ef6CPuglBPWKolkQtLa3R) | 4:12 |
 | 863 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 |
-| 864 | [Golden Veins](https://open.spotify.com/track/4tg4b3aKdT1gthXegZyEra) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 4:15 |
-| 865 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
-| 866 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
-| 867 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 |
-| 868 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 |
-| 869 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
-| 870 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
+| 864 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
+| 865 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
+| 866 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 |
+| 867 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 |
+| 868 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
+| 869 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
+| 870 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 871 | [introvert](https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 6:14 |
+| 872 | [hypochondriac](https://open.spotify.com/track/0tocRPyNlOEk74o27EYGFe) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 2:42 |
 
-Snapshot ID: `MjA1NSxiMDdkNTg3NWMxNmZkY2RhYWE1ZTliMjgzZDM4NGRiYzNkZmNmYjg2`
+Snapshot ID: `MjA1OSwzYTg1ZGY0ZDJiN2VlZTZhNDRmZjVlM2Q1YTE3MzUxZjhmODdhYzQz`

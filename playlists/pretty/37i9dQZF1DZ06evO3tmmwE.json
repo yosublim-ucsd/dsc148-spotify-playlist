@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1098,
+  "num_followers": 1099,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGMwNDZkNTBkNjczYzNmNWY0NWEwMjg5MzY0YjMwM2Fl",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGVhODNiMGYyYmUwMmZlMTBlZjE5OThlZWFlOGQ0YjRj",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocaine Cowboy",
+        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 144662,
+      "name": "Cocaine Cowboy",
+      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alto Calibre",
         "url": "https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek"
       },
@@ -483,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -503,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Unico Desmadre De Mi Madre",
-        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "3 Noches",
-      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave 687",
         "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 207230,
       "name": "Nave 687",
       "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cocaine Cowboy",
-        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 144662,
-      "name": "Cocaine Cowboy",
-      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
     },
     {
       "added_at": null,

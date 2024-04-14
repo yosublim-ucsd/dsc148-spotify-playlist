@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-295 songs - 16 hr 7 min
+296 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-11-11 | 2023-10-07 |
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2022-11-11 |  |
 | [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 | 2022-05-20 | 2023-03-06 |
+| [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 | 2024-04-12 |  |
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-05-26 | 2024-04-08 |
 | [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 | 2024-03-21 |  |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-05-20 | 2022-07-16 |
@@ -276,7 +277,7 @@
 | [Un besito](https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Un besito](https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y) | 2:58 | 2023-05-19 | 2023-10-17 |
 | [Un Café](https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc) | [Mila Magal](https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV) | [Un Café](https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG) | 3:35 | 2022-05-20 | 2023-07-08 |
 | [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-04-07 |  |
-| [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-11-11 |  |
+| [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-11-11 | 2024-04-14 |
 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 | 2022-05-20 | 2022-07-16 |
 | [Un X100To](https://open.spotify.com/track/2naMMO1A4AemGXF7GG37YY) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Un X100To](https://open.spotify.com/album/2G3ew7Ddh2Yrbi9W19fN7r) | 3:34 | 2023-06-23 | 2023-08-26 |
 | [Un1Berso](https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG) | [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX), [Calina Manyü](https://open.spotify.com/artist/2X0kv7hHOBMxnHBoqD4YXa) | [Un1Berso](https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl) | 3:38 | 2022-05-20 | 2023-07-08 |

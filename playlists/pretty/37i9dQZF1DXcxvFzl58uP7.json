@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Still Woozy ",
-  "num_followers": 1107522,
+  "num_followers": 1107513,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Moonlight/Rare",
         "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 184000,
       "name": "Rare",
       "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
     },
     {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
       "added_at": "2024-03-01 19:48:19",
       "album": {
         "name": "milk in the morning",
@@ -859,22 +875,6 @@
       "duration_ms": 190223,
       "name": "milk in the morning",
       "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
       },
       "artists": [
         {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
         }
       ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
       },
       "artists": [
         {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "baggage",
-        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
-      },
-      "artists": [
-        {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "baggage",
-      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 186562,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "baggage",
+        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "baggage",
+      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Fit Me In",
-        "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 122298,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Fit Me In",
+        "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 122298,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw"
     },
     {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "47",
-        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 159650,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
-    },
-    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "three days",
@@ -1483,6 +1467,22 @@
       "duration_ms": 148775,
       "name": "i do luv u",
       "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
+    },
+    {
+      "added_at": "2024-03-01 19:48:19",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 159650,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "cirrostratus",
-        "url": "https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "cirrostratus",
-      "url": "https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "forever, with you",
         "url": "https://open.spotify.com/album/0GCJsSv501b5FzgEPuEBBi"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 176033,
       "name": "forever, with you",
       "url": "https://open.spotify.com/track/7EJGWPM6V11qjctiMRB8RH"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "cirrostratus",
+        "url": "https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "cirrostratus",
+      "url": "https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi"
     },
     {
       "added_at": "2024-01-12 16:54:40",

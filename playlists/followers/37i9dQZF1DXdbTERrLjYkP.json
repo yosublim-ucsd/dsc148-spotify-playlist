@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 95177,
+  "2024-04-14": 95189,
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Eva Snyder",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Nell Mescal",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -3954,6 +3954,28 @@
     },
     {
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        },
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184591,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2"
+    },
+    {
+      "album": {
         "name": "Simple Like 17",
         "url": "https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU"
       },
@@ -5125,6 +5147,24 @@
       "duration_ms": 195960,
       "name": "i heart the internet",
       "url": "https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0"
+    },
+    {
+      "album": {
+        "name": "I Just Killed a Spider",
+        "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149101,
+      "name": "I Just Killed a Spider",
+      "url": "https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY"
     },
     {
       "album": {
@@ -8039,6 +8079,24 @@
       "duration_ms": 159346,
       "name": "Peaked In High School",
       "url": "https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu"
+    },
+    {
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/5XjFDl6uxHa69kd2fW40hr"
+      },
+      "artists": [
+        {
+          "name": "Fraser Churchill",
+          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/1LtNEYgneVIjcl9Kcu231Q"
     },
     {
       "album": {
@@ -11436,6 +11494,24 @@
     },
     {
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190771,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a"
+    },
+    {
+      "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
@@ -11613,6 +11689,24 @@
       "duration_ms": 144666,
       "name": "WYD Now?",
       "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "album": {
+        "name": "Yellow Dresser",
+        "url": "https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204136,
+      "name": "Yellow Dresser",
+      "url": "https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj"
     },
     {
       "album": {

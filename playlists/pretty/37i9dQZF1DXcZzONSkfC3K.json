@@ -1,6 +1,6 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 149006,
+  "num_followers": 149051,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -403,22 +387,34 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 377253,
-      "name": "Ag\u00fazate",
-      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Monedita",
+        "url": "https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "Monedita",
+      "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -439,18 +435,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Monedita",
-        "url": "https://open.spotify.com/album/5Y3WVzzLA0II8bmccD6wcT"
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 160773,
-      "name": "Monedita",
-      "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
+      "duration_ms": 377253,
+      "name": "Ag\u00fazate",
+      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Yo Deluxe",
+        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 208774,
+      "name": "Es Un Secreto",
+      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 252400,
       "name": "El Men\u00fa",
       "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Yo Deluxe",
-        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 208774,
-      "name": "Es Un Secreto",
-      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
     },
     {
       "added_at": "2024-04-05 04:01:00",

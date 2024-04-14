@@ -4,7 +4,7 @@
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 20 min
+49 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bourbon \- Ao Vivo no Estúdio MangoLab](https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Bourbon \(Ao Vivo no Estúdio MangoLab\)](https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8) | 1:50 | 2024-04-11 |  |
 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 | 2023-12-30 |  |
 | [Bugatti](https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:55 | 2023-12-30 |  |
+| [Camarim](https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:14 | 2024-04-14 |  |
 | [Caneta](https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:08 | 2023-12-30 |  |
 | [CONFIO](https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 3:36 | 2023-12-30 |  |
 | [Disco](https://open.spotify.com/track/2vORCqoVPhttMKn1qvun2g) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 2:14 | 2023-12-30 |  |
@@ -37,7 +38,7 @@
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2023-12-30 |  |
 | [Maserati](https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:48 | 2023-12-30 |  |
 | [Megalomaníaca](https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:57 | 2023-12-30 |  |
-| [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 | 2023-12-30 |  |
+| [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 | 2023-12-30 | 2024-04-14 |
 | [Obcecada](https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:08 | 2023-12-30 |  |
 | [Paranoia](https://open.spotify.com/track/2IPCKaaX8tB2l3tfUkQH87) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:59 | 2023-12-30 | 2024-02-18 |
 | [Paris](https://open.spotify.com/track/7AmQc9qpRpRXBC1YTNdoc1) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 3:01 | 2023-12-30 |  |

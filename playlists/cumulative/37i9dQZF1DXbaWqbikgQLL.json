@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Perdidos en Pantitl\u00e1n",
+        "url": "https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Perdidos en Pantitl\u00e1n",
+      "url": "https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR"
+    },
+    {
+      "album": {
         "name": "Mazunte 2016",
         "url": "https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT"
       },
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 152000,
       "name": "Perdidos en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/3UuQ86ZmedOeHlHJ8d16Y7"

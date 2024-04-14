@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 614905,
+  "2024-04-14": 615031,
   "date_first_scraped": "2022-05-27",
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Beyonc\u00e9",
   "name": "SUPERNOVA",
@@ -645,6 +645,24 @@
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "album": {
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
     },
     {
       "album": {
@@ -4155,7 +4173,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -5502,6 +5520,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -6347,6 +6383,24 @@
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+    },
+    {
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     },
     {
       "album": {
@@ -8341,6 +8395,24 @@
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -14695,7 +14767,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
@@ -15789,7 +15861,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
@@ -18763,7 +18835,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185743,
       "name": "You Love Who You Love",
       "url": "https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO"

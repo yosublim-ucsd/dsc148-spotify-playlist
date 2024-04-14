@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Sissi
 
-522 songs - 1 day 1 hr 51 min
+524 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [6MILABACI](https://open.spotify.com/track/3mqbhUtJZfgHKqfILez7BH) | [Alessandro Cabrera](https://open.spotify.com/artist/07sqjMSwJvfyYDkLhd7R3x) | [6MILABACI](https://open.spotify.com/album/0VLPnw4d1h5uRORvsdjfSy) | 2:53 | 2024-01-11 | 2024-02-02 |
 | [A quanno ce ammo perz](https://open.spotify.com/track/6AUWVwNMP2r5zfBR5dDK3a) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [A quanno ce ammo perz](https://open.spotify.com/album/4EqNH8d5IA43XbkOQVSaQR) | 3:12 | 2024-01-18 |  |
 | [Absentia](https://open.spotify.com/track/0e36F0GAWht4tbQlkwkiQb) | [Etta Jungle](https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR) | [Absentia](https://open.spotify.com/album/7kq54fzwQcvVa2P4qlL5aL) | 3:42 | 2024-03-21 |  |
-| [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 | 2023-10-12 |  |
+| [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 | 2023-10-12 | 2024-04-14 |
+| [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 | 2024-04-12 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-05 | 2022-06-10 |
 | [Acquario & Scorpione](https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Acquario & Scorpione](https://open.spotify.com/album/4cDyy2xlGdSLJSevWQosQn) | 2:51 | 2023-04-13 | 2024-02-23 |
 | [Ali](https://open.spotify.com/track/0zoRAgfpjJJaZigyCAcuV3) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [NHP+](https://open.spotify.com/album/4b8b3XF7WiMNaUXQ8Kf5Yi) | 3:27 | 2022-10-06 | 2023-03-10 |
@@ -30,7 +31,8 @@
 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 | 2022-10-13 | 2022-12-02 |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [Appassire](https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Appassire](https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX) | 2:46 | 2023-08-31 | 2024-01-19 |
-| [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 | 2023-11-30 |  |
+| [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 | 2023-11-30 | 2024-04-14 |
+| [Aria](https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw) | 2:30 | 2024-04-12 |  |
 | [ARIA](https://open.spotify.com/track/0G5gqnBb46115ooBlv98BE) | [XEUDA](https://open.spotify.com/artist/7DeekH4ank1JhgMbOmO5Mu) | [ARIA](https://open.spotify.com/album/0l823O5RoYPPAb0XPyIRZJ) | 3:13 | 2024-01-04 | 2024-02-02 |
 | [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 | 2022-12-15 | 2023-03-10 |
 | [ascensore](https://open.spotify.com/track/1PHNQ4SfHZKi7pqokee82n) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [ascensore](https://open.spotify.com/album/2CMho8a9CufZTptXTsOAyJ) | 2:51 | 2023-04-13 | 2023-06-30 |

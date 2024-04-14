@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1371745,
+  "2024-04-14": 1371761,
   "date_first_scraped": "2021-12-21",
   "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
@@ -901,6 +901,24 @@
       "duration_ms": 177952,
       "name": "Before We Were Us",
       "url": "https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx"
+    },
+    {
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "album": {
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -4348,6 +4366,24 @@
     },
     {
       "album": {
+        "name": "Holding Onto You",
+        "url": "https://open.spotify.com/album/5F3hpsvm9h4CPmC8Sg9lwh"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174973,
+      "name": "Holding Onto You",
+      "url": "https://open.spotify.com/track/6VRiVwGd7Yz3pSYjscnQJc"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/59ts6XXulJTUa0A7icpNVf"
       },
@@ -5369,7 +5405,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 195242,
       "name": "In The Light",
       "url": "https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR"
@@ -5499,7 +5535,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 246986,
       "name": "It Takes A Woman",
       "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
@@ -6761,7 +6797,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -7915,7 +7951,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
@@ -10793,7 +10829,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159702,
       "name": "u.",
       "url": "https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov"

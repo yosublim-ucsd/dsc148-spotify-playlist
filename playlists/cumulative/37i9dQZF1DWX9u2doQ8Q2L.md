@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,386 songs - 3 day 12 hr 44 min
+1,387 songs - 3 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Feet Feet](https://open.spotify.com/track/0LhOjOaUIdQHwdYjQJIbYx) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Feet Feet](https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe) | 3:41 | 2023-10-10 | 2023-10-18 |
 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-02-01 | 2024-02-07 |
 | [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 | 2024-02-04 |
-| [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 |  |
+| [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 | 2024-04-14 |
 | [Fire and Gold](https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Fire and Gold](https://open.spotify.com/album/7AgDuTh3DKHTie5WqQB1b7) | 3:02 | 2022-05-26 | 2022-06-01 |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 | 2023-07-05 |
 | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7) | 4:44 | 2023-10-05 | 2024-04-13 |
@@ -807,6 +807,7 @@
 | [Seishun nante](https://open.spotify.com/track/4hjMkChUH4Ib4b1tjWZBcV) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Wakakusa](https://open.spotify.com/album/1ozt5C65MfSFEo1tfhY7Ye) | 3:04 | 2023-11-14 | 2023-11-22 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-09 |  |
+| [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-12 |  |
 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 | 2024-01-18 |  |
 | [Shadow](https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Shadow](https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne) | 3:34 | 2023-12-12 | 2023-12-20 |
 | [Shady Bitch](https://open.spotify.com/track/6VAnUL6Btt9kSaRKc32HWZ) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [Shady Bitch](https://open.spotify.com/album/6GSJnk3Xg91cdfBdLFs5Bd) | 5:08 | 2023-09-12 | 2023-10-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 54511,
+  "2024-04-14": 54520,
   "date_first_scraped": "2022-05-30",
   "description": "wo hen lei (i'm very tired) ",
   "name": "tired lei",
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 269893,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
@@ -3115,7 +3115,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"

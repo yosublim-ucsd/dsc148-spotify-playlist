@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 70683,
+  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
+  "num_followers": 70697,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDJjMTAxZGJkNzNjNDQwNzdjZGIzNDk4MmRlNTE0MjU2",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGYwNTg1ZjliNDFiMTMwNDViZTJjNzk4N2VlNTA4YTdi",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 166613,
-      "name": "El Gordo",
-      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Teniente Pa' La Clica",
-        "url": "https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR"
-      },
-      "artists": [
-        {
-          "name": "Jesus Payan e Imparables",
-          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "El Teniente Pa' La Clica",
-      "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El De La Pandilla (En Vivo)",
         "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 217877,
       "name": "El De La Pandilla (En Vivo)",
       "url": "https://open.spotify.com/track/0QgyuDY28jCXnA02KwnHlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Teniente Pa' La Clica",
+        "url": "https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR"
+      },
+      "artists": [
+        {
+          "name": "Jesus Payan e Imparables",
+          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 170393,
+      "name": "El Teniente Pa' La Clica",
+      "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Valiste Madre (En Vivo)",
         "url": "https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 187320,
       "name": "Ya Valiste Madre - En Vivo",
       "url": "https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,

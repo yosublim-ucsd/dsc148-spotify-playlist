@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,550 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,600 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 36 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 |
 | 37 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 38 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
-| 39 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
-| 40 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
+| 39 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
+| 40 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 41 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
 | 42 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 43 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 67 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 68 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
 | 69 | [Hablemos](https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:04 |
-| 70 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
-| 71 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
+| 70 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
+| 71 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 72 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 73 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
 | 74 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 |
 | 75 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 76 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
-| 77 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
-| 78 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
+| 77 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
+| 78 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
 | 79 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
 | 80 | [Nos Pertenecemos](https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c) | 3:05 |
 | 81 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |

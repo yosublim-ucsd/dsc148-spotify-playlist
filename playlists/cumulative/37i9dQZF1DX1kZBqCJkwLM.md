@@ -2,9 +2,9 @@
 
 ### [Dope AF](https://open.spotify.com/playlist/37i9dQZF1DX1kZBqCJkwLM)
 
-> Dope, Asian, and Femme\. Cover: XG
+> Dope, Asian, and Femme\. Cover: Lilas Ikuta of Yoasobi
 
-215 songs - 11 hr 1 min
+216 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 | 2023-05-26 |  |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-03-18 | 2023-05-27 |
 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 | 2021-12-03 | 2023-04-29 |
+| [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 | 2024-04-13 |  |
 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 | 2021-12-03 | 2022-07-24 |
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 | 2022-03-18 |  |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 |  |
@@ -154,7 +155,7 @@
 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 | 2022-01-07 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-12-03 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-03 | 2022-07-29 |
-| [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 | 2023-11-24 |  |
+| [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 | 2023-11-24 | 2024-04-14 |
 | [PUNCHLINE](https://open.spotify.com/track/1SWUpVSuKwyIasTJkyROUG) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [PUNCHLINE](https://open.spotify.com/album/0rUZYk5Bx7vJBbD0D2OnBE) | 3:47 | 2022-05-06 | 2022-07-29 |
 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 | 2021-12-03 | 2023-05-27 |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2021-12-03 |  |

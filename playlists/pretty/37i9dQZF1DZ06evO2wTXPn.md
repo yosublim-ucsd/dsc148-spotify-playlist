@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 ### [This Is KURT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn)
 
-> This Is KURT\. Los temas esenciales, todos en una lista.
+> This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,205 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,206 likes - 48 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 21 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
 | 22 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
 | 23 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 |
-| 24 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
-| 25 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
-| 26 | [Un Millón Como Tú \- Versión Acústica](https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Un Millón Como Tú \(Versión Acústica\)](https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74) | 4:39 |
-| 27 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 |
-| 28 | [Prometo](https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 3:20 |
-| 29 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
-| 30 | [Quiero](https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Quiero](https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap) | 3:24 |
+| 24 | [Quiero](https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Quiero](https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap) | 3:24 |
+| 25 | [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 |
+| 26 | [No Lo Estás Logrando](https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [No Lo Estás Logrando](https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U) | 3:03 |
+| 27 | [Un Millón Como Tú \- Versión Acústica](https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Un Millón Como Tú \(Versión Acústica\)](https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74) | 4:39 |
+| 28 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 |
+| 29 | [Prometo](https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 3:20 |
+| 30 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
 | 31 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 32 | [Por Su Amor \(with KURT\)](https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Por Su Amor \(with KURT\)](https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP) | 3:41 |
 | 33 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 47 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 |
 | 48 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDk1MDZiOGJmODY1ZDNmYWEyOWU2MTJhYTU0N2ViOTA2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDE1YzRiOGZmNTNmZjRhOTc4ZjA2NzM4YjhlY2I0YmJk`

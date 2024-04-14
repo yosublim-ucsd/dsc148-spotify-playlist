@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Los Mesoneros
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,135 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,231 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 66 | [Como No Voy a Decirlo](https://open.spotify.com/track/04ni2piejFIGzhdcxmVVkK) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Mis Canciones](https://open.spotify.com/album/4JZBPCpR7X5YKF86GBT2vF) | 3:36 |
 | 67 | [Y Voy a Amarte](https://open.spotify.com/track/1IZocCcHoBAcDutHXPEkKT) | [Tecupae](https://open.spotify.com/artist/4FNbNj9mlDLitaic9vXlwZ) | [Tiempo](https://open.spotify.com/album/7g7pH8sG8UFdV7hxaWJMAy) | 3:47 |
 | 68 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
-| 69 | [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 |
+| 69 | [A Usted](https://open.spotify.com/track/5LSC9zM0ppYJJjHwvVvFef) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/5MaoWlg2pDE2YD4meTjq0n) | 2:59 |
 | 70 | [El Peor](https://open.spotify.com/track/6ClrUcM3YpKlJhihx94Oel) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [El Peor](https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT) | 3:12 |
 | 71 | [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 |
 | 72 | [Cremosa](https://open.spotify.com/track/6UMKk8R4XdJFouZUNHIG5I) | [El Arka](https://open.spotify.com/artist/70Dxh945oypt9niP4GLc67), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Cremosa](https://open.spotify.com/album/46KPvKMJ7XHo4Ml6IIbf8K) | 3:42 |

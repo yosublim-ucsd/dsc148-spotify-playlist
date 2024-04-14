@@ -1,6 +1,6 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 61622,
+  "num_followers": 61697,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "Barbie Tingz",
-        "url": "https://open.spotify.com/album/0cjXPqSbbBhwSJiqkoyviO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 191699,
-      "name": "Barbie Tingz",
-      "url": "https://open.spotify.com/track/2qsQ8eVDPmobZpvDxQCVQu"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
+        "name": "Barbie Tingz",
+        "url": "https://open.spotify.com/album/0cjXPqSbbBhwSJiqkoyviO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 191699,
+      "name": "Barbie Tingz",
+      "url": "https://open.spotify.com/track/2qsQ8eVDPmobZpvDxQCVQu"
     },
     {
       "added_at": "2022-03-08 20:45:52",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Barbie Dreams",
-      "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
         "name": "Erica Banks",
         "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 187000,
       "name": "Buss It",
       "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Barbie Dreams",
+      "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
     },
     {
       "added_at": "2022-03-08 20:45:52",
@@ -871,18 +871,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "Whack World",
-        "url": "https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Hungry Hippo",
-      "url": "https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv"
+      "duration_ms": 173752,
+      "name": "Female Goat",
+      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
     }
   ],
   "unique_name": "Women of Hip-Hop",

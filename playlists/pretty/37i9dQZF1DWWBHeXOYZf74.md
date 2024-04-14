@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Caribou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,710 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,687 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 52 | [Oyasumi](https://open.spotify.com/track/2kr4tfpOz9nQhkG0gcqHf0) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Nandakke?](https://open.spotify.com/album/47MNeiL3ppEnb4WwSa27hM) | 4:11 |
 | 53 | [Suffer One](https://open.spotify.com/track/0Kg30B2rdLeb2Lau5uZIXQ) | [Adult Jazz](https://open.spotify.com/artist/5as7SW1R7ACUdkVtmcG7TG) | [Suffer One](https://open.spotify.com/album/7siwxOUsQ0YEllA61QaCHU) | 5:02 |
 | 54 | [Lethal Weapon](https://open.spotify.com/track/6dm4Ip02h98f6eko5A647f) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 1:26 |
-| 55 | [stayinit](https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:34 |
+| 55 | [stayinit](https://open.spotify.com/track/4sHXKCcNR8CSifCNUhYwuW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:34 |
 | 56 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 |
 | 57 | [Show \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Show \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/72asUETHX1ueZx7rC0j6vz) | 2:32 |
 | 58 | [Irrational](https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Irrational](https://open.spotify.com/album/2V8e3GhVApzKrBgVTYgnCo) | 3:14 |

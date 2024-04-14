@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-197 songs - 11 hr 21 min
+198 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [We Made It](https://open.spotify.com/track/7oMfprCkncaMYeT88o9FVR) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/4T2zPWhLYVCjambuNxVbhd) | 3:34 | 2021-11-19 | 2022-07-29 |
 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 | 2021-11-19 |  |
 | [When God Comes Back](https://open.spotify.com/track/0KoTXlFfcIjcGRfGtx1k7F) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At the Door](https://open.spotify.com/album/3O1qU2qfbTG0fYmUuL7RIk) | 3:33 | 2021-11-19 | 2022-07-29 |
-| [When God Comes Back](https://open.spotify.com/track/2EvUjCWg5zeaeKxGeOaHPh) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/4ViTtcecbZ1kjNAkZ4BYNh) | 3:33 | 2022-07-11 |  |
+| [When God Comes Back](https://open.spotify.com/track/2EvUjCWg5zeaeKxGeOaHPh) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/4ViTtcecbZ1kjNAkZ4BYNh) | 3:33 | 2022-07-11 | 2024-04-14 |
+| [When God Comes Back](https://open.spotify.com/track/3z1JRPIgYUoiIySKdPKJpM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/0cnaB1TFkjeoV5MGY5DctG) | 3:33 | 2023-03-10 |  |
 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 | 2021-11-19 |  |
 | [White Lines](https://open.spotify.com/track/0fFdsRPjTfioDfWyD3JtFD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [White Lines](https://open.spotify.com/album/5nSdZdqxQOFyht32w19Yht) | 3:08 | 2021-11-19 | 2022-07-29 |
 | [White Lines](https://open.spotify.com/track/0oB1K7DMaN4ZEMalVnIVPp) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:08 | 2022-07-11 |  |

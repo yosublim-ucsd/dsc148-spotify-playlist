@@ -5820,6 +5820,10 @@
         {
           "name": "DrefQuila",
           "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "date_added": "2024-03-02",
@@ -5828,6 +5832,40 @@
       "duration_ms": 167691,
       "name": "Enrolar",
       "url": "https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa"
+    },
+    {
+      "album": {
+        "name": "Enrolar (Fantastic Four Remix)",
+        "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303582,
+      "name": "Enrolar - Fantastic Four Remix",
+      "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
     },
     {
       "album": {
@@ -6115,28 +6153,6 @@
     },
     {
       "album": {
-        "name": "Los Rompecorazones, Vol. 2",
-        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "date_added": "2024-03-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154462,
-      "name": "Ese Guille",
-      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
-    },
-    {
-      "album": {
         "name": "Ese Guille",
         "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
       },
@@ -6156,6 +6172,32 @@
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Ese Guille",
+      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
     },
     {
       "album": {
@@ -7266,6 +7308,10 @@
         {
           "name": "Kidd Voodoo",
           "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "date_added": "2024-03-02",
@@ -16256,7 +16302,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"

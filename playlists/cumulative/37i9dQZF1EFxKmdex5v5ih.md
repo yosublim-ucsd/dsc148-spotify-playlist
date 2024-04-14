@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-421 songs - 23 hr 15 min
+422 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 | 2021-12-27 |  |
 | [I Don't Think About You](https://open.spotify.com/track/2AlFozHQKVYYO5OlZjexek) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I Don't Think About You](https://open.spotify.com/album/2gWXQFMNKi4xdCsA6s0laE) | 3:47 | 2023-12-13 | 2024-02-02 |
 | [I Don't Think About You \- Luca Schreiner Remix](https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [I Don't Think About You \(Remixes\)](https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW) | 3:44 | 2022-07-09 | 2022-12-14 |
+| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-13 |  |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-11-02 | 2022-11-08 |
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-07-09 | 2022-11-03 |
 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 | 2021-12-27 |  |

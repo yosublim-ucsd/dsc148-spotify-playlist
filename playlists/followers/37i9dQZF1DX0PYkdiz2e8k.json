@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 68924,
+  "2024-04-14": 68928,
   "date_first_scraped": "2023-07-23",
   "description": "\ud83d\udc79 8\ufe0f\u20e3 Foto: YUNGBLUD",
   "name": "do rockeeee",
@@ -727,7 +727,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231600,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
@@ -1125,6 +1125,24 @@
       "duration_ms": 106181,
       "name": "My Head",
       "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
+    },
+    {
+      "album": {
+        "name": "NO LIMITE",
+        "url": "https://open.spotify.com/album/4815uJ8tjdCR8ThqdzXHhh"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176687,
+      "name": "NO LIMITE",
+      "url": "https://open.spotify.com/track/4V8v27ewPfMDvr47fqQqyd"
     },
     {
       "album": {

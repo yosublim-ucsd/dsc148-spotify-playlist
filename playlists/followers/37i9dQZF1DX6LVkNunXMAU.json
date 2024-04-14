@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 57271,
+  "2024-04-14": 57280,
   "date_first_scraped": "2022-06-10",
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
   "name": "mandarina",
@@ -487,6 +487,28 @@
       "duration_ms": 212444,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "album": {
+        "name": "Sed de Ternura Vol.1 (Duo Set)",
+        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Juan Pablo de Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
     },
     {
       "album": {
@@ -1105,6 +1127,24 @@
       "duration_ms": 198391,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/57druALZuNFipo15C2uiHQ"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Metal",
+        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Jorcin",
+          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176457,
+      "name": "Coraz\u00f3n de Metal",
+      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
     },
     {
       "album": {
@@ -2125,7 +2165,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161531,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
@@ -2381,7 +2421,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
@@ -2833,6 +2873,24 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
+    },
+    {
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "album": {
@@ -3487,7 +3545,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219834,
       "name": "Noche Tem\u00e1tica",
       "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"

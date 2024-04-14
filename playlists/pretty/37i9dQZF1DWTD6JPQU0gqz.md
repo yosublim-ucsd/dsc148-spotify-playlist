@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,800 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,811 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 8 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 9 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
 | 10 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 11 | [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 |
+| 11 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
 | 12 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
-| 13 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
+| 13 | [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 |
 | 14 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 | 15 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
 | 16 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 63 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 64 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 65 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
-| 66 | [Don't Unplug My Body](https://open.spotify.com/track/1Y46ZYLzMBPwjfGWnIVm3B) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC) | 4:58 |
-| 67 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
+| 66 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
+| 67 | [Don't Unplug My Body](https://open.spotify.com/track/1Y46ZYLzMBPwjfGWnIVm3B) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC) | 4:58 |
 | 68 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
 | 69 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 |
 | 70 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |

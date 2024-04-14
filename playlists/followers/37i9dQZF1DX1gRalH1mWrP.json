@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1545280,
+  "2024-04-14": 1545446,
   "date_first_scraped": "2019-05-26",
   "description": "All the hits you'll need to make your summer sizzle.",
   "name": "Summer Hits 2024",
@@ -15138,6 +15138,28 @@
     },
     {
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -23593,7 +23615,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"

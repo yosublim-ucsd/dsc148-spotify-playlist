@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 107131,
+  "2024-04-14": 107219,
   "date_first_scraped": "2022-01-24",
   "description": "La casa del trap chileno al mando de Lleflight.",
   "name": "Trapperz Chile",
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157899,
       "name": "Las manos que rezan",
       "url": "https://open.spotify.com/track/6isAORqqdDtZ2mjCc9fByg"
@@ -2293,6 +2293,32 @@
       "duration_ms": 160500,
       "name": "Make It, Booty Clap",
       "url": "https://open.spotify.com/track/1QlIbbjXAkUJ9uihQEA3aw"
+    },
+    {
+      "album": {
+        "name": "MALDITA QL",
+        "url": "https://open.spotify.com/album/14Dbf2M0BAVY3O4oNqJXbt"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223211,
+      "name": "MALDITA QL",
+      "url": "https://open.spotify.com/track/0fVDSMzzqEMfvat9hiI8JD"
     },
     {
       "album": {

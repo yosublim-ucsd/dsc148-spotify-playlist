@@ -4,7 +4,7 @@
 
 > New rock favorites and essential modern cuts\. Cover: Evanescence
 
-208 songs - 13 hr 43 min
+209 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2022-07-01 |  |
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2024-03-08 |  |
 | [Glycerine](https://open.spotify.com/track/0l9l90a1zB3wUObtwWbqHy) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK) | 4:26 | 2020-08-10 | 2022-07-29 |
-| [Glycerine](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 | 2022-07-01 |  |
+| [Glycerine \- 2014 Remastered](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 | 2022-07-01 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2022-11-11 | 2024-03-09 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2020-08-10 |  |
 | [Hate to Say I Told You So](https://open.spotify.com/track/4WekEzcLyDDdPHG3G6dZg4) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 3:19 | 2022-08-26 | 2022-11-13 |
@@ -140,7 +140,8 @@
 | [papercuts \- album edit](https://open.spotify.com/track/1Fa7pBvVjFkMjNW3mAXkr3) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:01 | 2022-04-01 | 2022-05-27 |
 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 | 2022-01-07 |  |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2022-05-26 | 2024-04-13 |
-| [Personal Jesus \- Single Version](https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:45 | 2024-03-15 |  |
+| [Personal Jesus \- Single Version](https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:44 | 2024-03-15 |  |
+| [Personal Jesus \- Single Version](https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:45 | 2024-03-15 | 2024-04-14 |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-13 | 2024-03-16 |
 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 | 2024-03-08 |  |
 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 | 2023-02-24 |  |

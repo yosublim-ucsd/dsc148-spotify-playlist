@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 239163,
+  "num_followers": 239323,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
       "artists": [
         {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC"
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Solo (Amistad... o Nada!!!)",
-        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
         }
       ],
-      "duration_ms": 205740,
-      "name": "C\u00f3mo Pude Amarla",
-      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
+      "duration_ms": 193080,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Solo (Amistad... o Nada!!!)",
+        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "C\u00f3mo Pude Amarla",
+      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Le Doy Gracias a la Vida (Y a Todos)",
         "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
@@ -507,6 +523,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "25 A\u00f1os",
         "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
       },
@@ -527,34 +575,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tan S\u00f3lo Amantes",
-      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -575,38 +607,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Despu\u00e9s de T\u00ed, Que",
         "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
       },
@@ -623,8 +623,24 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Marca Registrada",
-        "url": "https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz"
-      },
-      "artists": [
-        {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "Piropo",
-      "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Ritmo, Pasi\u00f3n y Sentimiento",
         "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 245968,
       "name": "Dios Me Libre",
       "url": "https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Marca Registrada",
+        "url": "https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz"
+      },
+      "artists": [
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "duration_ms": 188839,
+      "name": "Piropo",
+      "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "25 A\u00f1os",
         "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 193853,
       "name": "Te Tengo que Olvidar",
       "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "En Una de Esas",
-        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "En Una de Esas",
-      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 186986,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -919,34 +935,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+        "name": "Hay Contra para Rato",
+        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
         }
       ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Hasta All\u00e1 en el Cielo",
-        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 210390,
-      "name": "Hasta All\u00e1 en el Cielo",
-      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
+      "duration_ms": 245877,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -971,18 +971,34 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Hay Contra para Rato",
-        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
       },
       "artists": [
         {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 245877,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Hasta All\u00e1 en el Cielo",
+        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 210390,
+      "name": "Hasta All\u00e1 en el Cielo",
+      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Y Hoy Volvimos A Vernos",
         "url": "https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 203812,
       "name": "Y Hoy Volvimos A Vernos",
       "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Que Sorpresa",
-        "url": "https://open.spotify.com/album/5C3B2j5vucQ8XlLKNAjXCc"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 137879,
-      "name": "Que Sorpresa",
-      "url": "https://open.spotify.com/track/3GI15ZZCaAp6MdvCMPvwpy"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Grupo Trinidad y Sus Cantantes",
         "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Insaciable",
+        "url": "https://open.spotify.com/album/1AjvJTxq6SiZzvomF0GZ3P"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 206742,
+      "name": "Insaciable",
+      "url": "https://open.spotify.com/track/62MwZTT02y2hPelIia0HlX"
     },
     {
       "added_at": "2023-12-15 03:00:00",

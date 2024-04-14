@@ -2,7 +2,7 @@
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This Is Björk\. Los temas esenciales, todos en una lista.
+> This is Björk\. The essential tracks, all in one playlist.
 
 133 songs - 9 hr 41 min
 
@@ -119,7 +119,7 @@
 | [Sharing Orb](https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:48 | 2023-11-10 |  |
 | [Sorrowful Soil](https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:15 | 2024-03-07 |  |
 | [Sorrowful Soil](https://open.spotify.com/track/2ETLJnzi2cPo6RX3VgzRnl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 3:15 | 2023-11-10 | 2024-01-31 |
-| [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 | 2024-03-22 | 2024-04-13 |
+| [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 | 2024-03-22 |  |
 | [Stonemilker](https://open.spotify.com/track/7mg5wIB2b6D5K5mOhALKxs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:49 | 2023-11-10 | 2024-03-17 |
 | [Stonemilker](https://open.spotify.com/track/1Q9PT8sgU7q9IH7kb5dSwv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/1ttnHZ0HVGMSMTJdZZ7kYK) | 6:49 | 2024-03-16 | 2024-03-23 |
 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 | 2023-11-10 | 2024-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,293 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,615 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [So What](https://open.spotify.com/track/16RFzt9hlQ3OCPQf5AmhpU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 3:08 |
 | 50 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDVmMDk2Mzg0NTg0MzBiZTg4NzM4YjFjOWMwYzg4YTli`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGJiMGI1N2UyN2JiN2JhYTgwN2M4N2EzZTBmZmY3Y2Yw`

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 244547,
+  "2024-04-14": 244583,
   "date_first_scraped": "2024-03-10",
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
   "name": "This Is Dolly Parton",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "Applejack",
       "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152506,
       "name": "Why'd You Come in Here Lookin' Like That",
       "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"

@@ -1,6 +1,6 @@
 {
   "description": "Women who rock our world. Cover: The Last Dinner Party",
-  "num_followers": 293595,
+  "num_followers": 293656,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "poser",
-        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 169065,
-      "name": "poser",
-      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "why aren't you laughing?",
         "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 253745,
       "name": "rot in love",
       "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "poser",
+        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 169065,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "MONKI",
-        "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 164819,
-      "name": "MONKI",
-      "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Sometimes, Forever",
         "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195800,
       "name": "Feel It All The Time",
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "MONKI",
+        "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 164819,
+      "name": "MONKI",
+      "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 163785,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 177933,
       "name": "Raw Raw",
       "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 163785,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 178804,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "ask nicely",
-        "url": "https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "ask nicely",
-      "url": "https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "And They All Fall Down",
         "url": "https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 140178,
       "name": "And They All Fall Down",
       "url": "https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Norwegian Wood",
-        "url": "https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW"
-      },
-      "artists": [
-        {
-          "name": "Picture Parlour",
-          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
-        }
-      ],
-      "duration_ms": 214448,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1127,6 +1111,22 @@
       "duration_ms": 164453,
       "name": "Falling for the Sky",
       "url": "https://open.spotify.com/track/4nDfJDZaUVtwOSnGROb2GN"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Norwegian Wood",
+        "url": "https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "duration_ms": 214448,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Cherry Picking",
-        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
-      },
-      "artists": [
-        {
-          "name": "poutyface",
-          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
-        }
-      ],
-      "duration_ms": 150736,
-      "name": "Cherry Picking",
-      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 173998,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+      },
+      "artists": [
+        {
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+        }
+      ],
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "duration_ms": 232665,
+      "name": "February",
+      "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "SILYMI",
         "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "February",
-        "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
       "artists": [
         {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 232665,
-      "name": "February",
-      "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1471,22 +1487,6 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "you don't like me like that",
-        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "you don't like me like that",
-      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Cult Classic",
         "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 198123,
       "name": "CULT CLASSIC",
       "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "you don't like me like that",
+        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "you don't like me like that",
+      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     },
     {
       "added_at": "2024-02-28 19:20:31",

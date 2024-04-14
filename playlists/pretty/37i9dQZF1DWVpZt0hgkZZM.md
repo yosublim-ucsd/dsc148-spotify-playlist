@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,077 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,119 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 8 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 9 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
 | 10 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
-| 11 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
+| 11 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 12 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
 | 13 | [A Dormir Juntitos \- 2022 Remastered](https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Esperandote \(2022 Remastered\)](https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW) | 4:42 |
 | 14 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
 | 15 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
 | 16 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 17 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
-| 18 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 18 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 19 | [Disco Arranhado \- Funk Remix](https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Disco Arranhado \(Funk Remix\)](https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg) | 2:05 |
 | 20 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 21 | [Mil Horas](https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si) | [Alvaro Pavas](https://open.spotify.com/artist/5iCx0rNkZzVivaykkSXLZm) | [Sueno Latino](https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5) | 3:46 |

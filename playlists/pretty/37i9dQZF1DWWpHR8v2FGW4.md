@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,956 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,002 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 8 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 |
 | 9 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
 | 10 | [Machete \- A.M.C Remix](https://open.spotify.com/track/70GmVhFKPO5icOVCjnCUaL) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Machete \(A.M.C Remix\)](https://open.spotify.com/album/2Y9GnfbdHc0voH8HiDv7cR) | 3:01 |
-| 11 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
-| 12 | [Down Low](https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Down Low](https://open.spotify.com/album/03TI13zwgG29Hies8HBbdm) | 2:52 |
+| 11 | [Down Low](https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Down Low](https://open.spotify.com/album/03TI13zwgG29Hies8HBbdm) | 2:52 |
+| 12 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
 | 13 | [MAKE A MOVE](https://open.spotify.com/track/4rV50yTt1Me3sFhExrScR1) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:46 |
 | 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 15 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |

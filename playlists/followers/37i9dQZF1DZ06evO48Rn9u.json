@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 135915,
+  "2024-04-14": 135970,
   "date_first_scraped": "2024-03-10",
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
   "name": "This Is Kacey Musgraves",
@@ -273,7 +273,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177733,
       "name": "Dinner with Friends",
       "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
@@ -295,10 +295,32 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
     },
     {
       "album": {

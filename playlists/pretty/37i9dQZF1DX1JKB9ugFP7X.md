@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,031 likes - 94 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,032 likes - 94 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 62 | [Arriba](https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp) | [Un Planeta](https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE) | [Des](https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX) | 3:45 |
 | 63 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 |
 | 64 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 |
-| 65 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 |
-| 66 | [Ángel Malo](https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Ángel Malo](https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw) | 3:34 |
+| 65 | [Ángel Malo](https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Ángel Malo](https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw) | 3:34 |
+| 66 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 |
 | 67 | [Caribbean](https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe) | 4:39 |
 | 68 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 |
 | 69 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Postal](https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV) | 3:30 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 85 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
 | 86 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
 | 87 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 |
-| 88 | [Atentado en la Pista](https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Marcha II](https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs) | 3:44 |
-| 89 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
+| 88 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
+| 89 | [Atentado en la Pista](https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Marcha II](https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs) | 3:44 |
 | 90 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 |
 | 91 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 |
 | 92 | [Trampa](https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM) | [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Trampa](https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL) | 3:03 |

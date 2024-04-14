@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058 likes - 31 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060 likes - 31 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 13 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
 | 14 | [Deserter](https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:18 |
 | 15 | [Colour Me Sad](https://open.spotify.com/track/43uDN7V5jJ9EYRnq8bR8wA) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:36 |
-| 16 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 |
+| 16 | [Rattlesnakes](https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:28 |
 | 17 | [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 |
 | 18 | [Outro](https://open.spotify.com/track/1FsodfEMYCEeTYmgTSLM35) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 0:41 |
 | 19 | [Victim](https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 |
-| 20 | [Rattlesnakes](https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:28 |
+| 20 | [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 |
 | 21 | [Something I Said](https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:12 |
 | 22 | [Kings of the Mountain](https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:20 |
 | 23 | [The Ramp](https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 1:33 |
-| 24 | [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 |
+| 24 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 |
 | 25 | [Distant Light](https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:39 |
 | 26 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 |
 | 27 | [Dust & Bones](https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:34 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [What If You Fall In](https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 5:14 |
 | 31 | [Boxes](https://open.spotify.com/track/59map6mYFhBNTIAwcap1Qk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:15 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGNlZWEwM2E5NWFhNDZhMzVkZTVkNTk3ZmRhNGRkODll`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGE0OTJlNWExOThhYzMwYzE1NDVjOWJjZTg5N2MzY2E4`

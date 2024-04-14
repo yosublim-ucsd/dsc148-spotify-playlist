@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,795 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,876 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 3 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
 | 4 | [Lo Aprendí de Ti \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:17 |
 | 5 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
-| 6 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
-| 7 | [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 |
+| 6 | [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 |
+| 7 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
 | 8 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
 | 9 | [Fanática Sensual](https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 4:00 |
 | 10 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |

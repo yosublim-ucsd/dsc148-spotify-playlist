@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5d9GCXIEWG.md) - [plain]
 
 > Featuring Bizarrap, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

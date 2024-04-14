@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
@@ -7327,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -9044,7 +9062,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11836,7 +11854,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -12520,7 +12538,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 184000,
       "name": "Permitame",
       "url": "https://open.spotify.com/track/1UfnwkKkzkHZ6h8XEUlr8G"
@@ -13062,10 +13080,28 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -14560,7 +14596,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"

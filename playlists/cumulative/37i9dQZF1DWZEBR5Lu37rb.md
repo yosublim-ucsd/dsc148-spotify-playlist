@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-227 songs - 15 hr 56 min
+228 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2022-02-10 |  |
 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 | 2024-03-20 |  |
 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 | 2022-02-10 | 2023-10-27 |
+| [Give You Love](https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Give You Love](https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl) | 3:54 | 2024-03-20 |  |
 | [Good Morning](https://open.spotify.com/track/3T3XVQvaJ09MckNdDE8hA8) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:19 | 2022-02-10 | 2024-02-14 |
 | [Goosebumps](https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Goosebumps](https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO) | 3:00 | 2024-02-13 |  |
 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 | 2022-02-10 | 2024-02-14 |
@@ -102,7 +103,7 @@
 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 | 2022-02-10 | 2024-02-14 |
 | [Masan Aba](https://open.spotify.com/track/5urKBc7RRMxo4JEMVNcLcz) | [Akyeame](https://open.spotify.com/artist/32NBUNRmZFah6gedDMjvgd) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:46 | 2022-02-10 | 2023-02-15 |
 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 | 2024-02-13 |  |
-| [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 | 2024-02-13 |  |
+| [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 | 2024-02-13 | 2024-04-14 |
 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 | 2024-02-13 |  |
 | [Medicine](https://open.spotify.com/track/0dHzOwpLHRw4xA6TEIVIkq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:30 | 2022-02-10 | 2024-02-14 |
 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 | 2022-02-10 | 2024-02-14 |

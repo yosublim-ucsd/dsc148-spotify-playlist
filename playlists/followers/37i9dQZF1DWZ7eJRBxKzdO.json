@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 436320,
+  "2024-04-14": 437579,
   "date_first_scraped": "2022-05-13",
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
   "name": "Summer Dance Hits 2024",
@@ -21,6 +21,24 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "album": {
@@ -211,6 +229,28 @@
       "duration_ms": 174254,
       "name": "Ain't Nobody (feat. LaShun Pace)",
       "url": "https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi"
+    },
+    {
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "album": {
@@ -1987,7 +2027,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 141027,
       "name": "DELILAH",
       "url": "https://open.spotify.com/track/1dGjNaPbx96cRZ22BBGcAU"
@@ -2555,7 +2595,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 221560,
       "name": "Feeling For You",
       "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
@@ -4017,7 +4057,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
@@ -5452,6 +5492,24 @@
     },
     {
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -6715,7 +6773,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
@@ -6921,6 +6979,24 @@
       "duration_ms": 161803,
       "name": "Veins",
       "url": "https://open.spotify.com/track/4g3YQLcyhvEcVJSfiP5s1s"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Lizzy McAlpine
 
-471 songs - 1 day 3 hr 3 min
+472 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 | 2022-07-29 |
 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 | 2022-01-07 | 2023-04-15 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-11 | 2022-03-12 |
-| [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-13 |  |
+| [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-13 | 2024-04-14 |
 | [Someday, Someday](https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Someday, Someday](https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m) | 3:00 | 2024-01-12 | 2024-02-01 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-19 | 2022-07-23 |
 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 | 2022-05-13 | 2022-11-24 |
@@ -407,6 +407,7 @@
 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-03 | 2024-01-28 |
 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 | 2023-01-13 | 2023-03-11 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-07-16 |
+| [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-05-13 | 2022-07-29 |
 | [The Man](https://open.spotify.com/track/5nhEyOUHbPrKfjOGpadH9M) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [The Man](https://open.spotify.com/album/3ezfgB0YGKjCMLn01IO7ae) | 3:47 | 2022-06-08 | 2022-07-29 |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2021-11-19 | 2023-07-01 |

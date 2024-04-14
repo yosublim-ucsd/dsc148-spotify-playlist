@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 55 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rose of Sharyn \- Live](https://open.spotify.com/track/7HMPxuJISTHEbyo7LKB4Df) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Special Edition\)](https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR) | 3:48 |
-| 2 | [Fashion](https://open.spotify.com/track/4XyuemNAggx7OvmpJYddcS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV) | 3:27 |
-| 3 | [Lost](https://open.spotify.com/track/78tLvQpH9JjFWl0MK9Gsne) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Special Edition\)](https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR) | 3:45 |
-| 4 | [A Reason For Broken Wings](https://open.spotify.com/track/47N7tAV0SrLUtfxGoU8vlO) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [She Watched The Sky](https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5) | 4:27 |
-| 5 | [Todos Locos \- Original Mix](https://open.spotify.com/track/7BsJiwV0MRyTb8ToNjVCmx) | [Jimmy The Sound](https://open.spotify.com/artist/5LYgNOC1wL3DsQVr4ERJuF), [Delfromad](https://open.spotify.com/artist/62gDZbEYpora4rAPENVZR1) | [Todos Locos](https://open.spotify.com/album/63Cqc8bCUIMEs7EOWeEIPe) | 6:05 |
-| 6 | [No Necesitamos Banderas](https://open.spotify.com/track/3J8UPLZhNFQi3o2qIvwLjY) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 5:09 |
-| 7 | [Exhuming McCarthy](https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:21 |
-| 8 | [Lo Siento](https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Lo Siento](https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje) | 2:55 |
-| 9 | [Deja Vu](https://open.spotify.com/track/5VGHRChawUXd2VvjGnUYY0) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Infinito](https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue) | 3:24 |
-| 10 | [Take Me Away](https://open.spotify.com/track/2fPlA2m2B0yecH8bVhUb1U) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Special Edition\)](https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR) | 2:45 |
-| 11 | [Dancing on Nails](https://open.spotify.com/track/3B3CDurawFVlndC9vdTemi) | [We Are Harlot](https://open.spotify.com/artist/2Gf3bDVBECfT7UCU3XcvlD) | [We Are Harlot](https://open.spotify.com/album/1wM07YWwj8Ib0Q4Nc8apq4) | 2:40 |
-| 12 | [Flicker](https://open.spotify.com/track/405RLkwfytmA5UIFWV69oY) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Flicker](https://open.spotify.com/album/4PMHaQHXf6jYJ6BsXl8AhS) | 3:03 |
+| 1 | [Loner](https://open.spotify.com/track/6PPs4wEwrTQrVTNypvHa3L) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13 \(Deluxe Version\)](https://open.spotify.com/album/7GnnFI0WmAx9O9hccqVDGl) | 4:59 |
+| 2 | [Sweet Curse](https://open.spotify.com/track/4mEKcHXmzC7JC8I1L3MjFT) | [ReVamp](https://open.spotify.com/artist/4LPznDHsWRPbEivBW6aYqv) | [Revamp](https://open.spotify.com/album/2y4KdGC83iLte934QC6Oys) | 4:16 |
+| 3 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
+| 4 | [Impossible Tracks](https://open.spotify.com/track/7GZvjJkHoTSiP51zNqVnMP) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Ash & Ice](https://open.spotify.com/album/7E6UpW4mlPavgOq1YuB2fd) | 3:41 |
+| 5 | [Faraway](https://open.spotify.com/track/5D2yrjjxh1mizl4uwzA9qe) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Reflections](https://open.spotify.com/album/5WzytSkKsXzzXoTtsDOnnn) | 5:13 |
+| 6 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 |
+| 7 | [The Shadow of Venus](https://open.spotify.com/track/0s7yGp3N4GnJD8rwCnq4uX) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [7th Symphony](https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk) | 6:05 |
+| 8 | [House Of Gold](https://open.spotify.com/track/6ldJbhUXQUjJS4hCqV1iAh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:58 |
+| 9 | [The Ripper](https://open.spotify.com/track/0UQ6vUmFUUbtLZ6EWOzh33) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/5e0H35jvjBwPOWQTAbpNvg) | 2:56 |
+| 10 | [Rust](https://open.spotify.com/track/4gIR6qYVi5Rggf3sn8EIiG) | [Townies](https://open.spotify.com/artist/0Ow1iSH3Drf4YUw64LTubE) | [Rust](https://open.spotify.com/album/7FzzbpaRYEmXLSrlhkpXyd) | 3:13 |
+| 11 | [Los Dinosaurios](https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:28 |
+| 12 | [Promise Me](https://open.spotify.com/track/2r4gmozRnnU9xOkasVNUJ2) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dead by April \(Bonus Version\)](https://open.spotify.com/album/56vEKlPffEVZC1m436T8Sc) | 3:34 |
 
-Snapshot ID: `ODQsNzA3MWYwNzIwNDQ4NjBhNTViY2Y3MTg1YTFjYzM4NTVmMjQ1NGIxMQ==`
+Snapshot ID: `ODUsOWRkMDQ1YTc0YzUxODBhZDdiNzg4M2YyZmZiZTk0ZTlhMDI3ZjU4Yw==`

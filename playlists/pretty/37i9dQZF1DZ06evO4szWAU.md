@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This Is Willie Colón\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,592 likes - 51 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,634 likes - 51 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 29 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 30 | [Abuelita](https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 4:23 |
 | 31 | [Mi Sueno](https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 6:36 |
-| 32 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 |
-| 33 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
+| 32 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
+| 33 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 |
 | 34 | [Juana Peña](https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 5:38 |
 | 35 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 |
 | 36 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 47 | [Barrunto](https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:36 |
 | 48 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
 | 49 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
-| 50 | [Casanova](https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Corazón Guerrero](https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5) | 3:23 |
+| 50 | [Ojos](https://open.spotify.com/track/5VjFc9kiG81CsUpViDXcdo) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 4:54 |
 | 51 | [Panameña](https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:54 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGI4ZDNjMTg2ZDBlNjNmMWEzNjNkMzBlMjIzYjcxYWU5`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGNhZGE2Mjc2YjAzMWY0MjQ2ZDFmNDQwMzZhMDc1ZTY1`

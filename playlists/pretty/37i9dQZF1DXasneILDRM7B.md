@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027,555 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,027,635 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 89 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
 | 90 | [I Just Wanna Live](https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Chronicles of Life and Death \("LIFE" version\)](https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc) | 2:46 |
 | 91 | [Breathing](https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:38 |
-| 92 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
-| 93 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
+| 92 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
+| 93 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 94 | [Addicted](https://open.spotify.com/track/1B8MHa0NveCF1ViBEOZWO5) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:52 |
 | 95 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 |
 | 96 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |

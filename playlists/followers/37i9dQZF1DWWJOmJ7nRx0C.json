@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 934737,
+  "2024-04-14": 934839,
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>The Black Keys</b>",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>Linkin Park</b>",
   "name": "VOLUME",
   "tracks": [
     {
@@ -815,7 +815,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181130,
       "name": "ASHAMED",
       "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
@@ -2657,6 +2657,24 @@
       "duration_ms": 218960,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/2nZ4tfb14C5ozg4cLK9MFq"
+    },
+    {
+      "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
     },
     {
       "album": {
@@ -4653,7 +4671,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170859,
       "name": "DEADZONE",
       "url": "https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw"
@@ -5319,6 +5337,24 @@
       "duration_ms": 238842,
       "name": "Divisive",
       "url": "https://open.spotify.com/track/56FwTQ5GaxiatMwdFg1II4"
+    },
+    {
+      "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107665,
+      "name": "Do It Faster",
+      "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
     },
     {
       "album": {
@@ -7059,10 +7095,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/4xD1K6jb8J00BDE2u8Wq6z"
     },
     {
       "album": {
@@ -8723,7 +8777,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211000,
-      "name": "Human",
+      "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
     },
     {
@@ -9603,7 +9657,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
@@ -10493,7 +10547,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177656,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
@@ -10649,7 +10703,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207931,
       "name": "LIES WE TELL OURSELVES",
       "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
@@ -10903,7 +10957,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193136,
       "name": "Look Alive (Netic)",
       "url": "https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg"
@@ -13112,6 +13166,28 @@
     },
     {
       "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
+    },
+    {
+      "album": {
         "name": "Old Wounds",
         "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
       },
@@ -13515,6 +13591,24 @@
       "duration_ms": 249600,
       "name": "Over The Threshold",
       "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "album": {
+        "name": "Overcompensate",
+        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Overcompensate",
+      "url": "https://open.spotify.com/track/0wEGo9LsSrSUz9HOtraWAO"
     },
     {
       "album": {
@@ -14478,6 +14572,24 @@
     },
     {
       "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
         "name": "Radio Face",
         "url": "https://open.spotify.com/album/4fQpdEpugotYCRA5BQWnjm"
       },
@@ -14995,6 +15107,24 @@
       "duration_ms": 319086,
       "name": "Rise, Naianasha (Cut The Cord)",
       "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "album": {
@@ -18007,6 +18137,24 @@
       "duration_ms": 253430,
       "name": "The First 21",
       "url": "https://open.spotify.com/track/4wDPO0BFLJHFVbh0vvSljY"
+    },
+    {
+      "album": {
+        "name": "The Flowering",
+        "url": "https://open.spotify.com/album/0k4ADzUDIVFkMBxV17xoi3"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189113,
+      "name": "The Flowering",
+      "url": "https://open.spotify.com/track/460bVuH1Az7OH4bC87PoWY"
     },
     {
       "album": {

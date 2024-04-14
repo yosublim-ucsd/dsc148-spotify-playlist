@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This Is Manuel Medrano\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,237 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,301 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 14 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 |
 | 15 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
 | 16 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:05 |
-| 17 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |
+| 17 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
 | 18 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 |
 | 19 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 |
 | 20 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
-| 21 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
+| 21 | [¿Cómo Hacer Para Olvidarte?](https://open.spotify.com/track/7p8JhjfckxcuOF0Weixvfa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:01 |
 | 22 | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK) | 3:03 |
 | 23 | [Este Momento](https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Momento](https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N) | 3:26 |
 | 24 | [Me Gustas](https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:37 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 29 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 30 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGFiNGQ0MGE0ZGVkNmU5N2VjNzFjNGU2MGFhNWNjMWI4`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDI0MzdlMWI5NDRkYzM4OWVmMjdlMWNmNTYwYjMyM2Y2`

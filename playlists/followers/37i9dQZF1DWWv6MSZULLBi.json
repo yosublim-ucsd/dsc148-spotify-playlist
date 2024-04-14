@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 165017,
+  "2024-04-14": 165006,
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Jessica Pratt",
+  "description": "A laid-back trip in the folk scene. Cover: Wyatt C. Louis",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202359,
       "name": "Anniversary Song",
       "url": "https://open.spotify.com/track/1HrXzZHvSc9HcDWcB1WUNI"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 256614,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/1hSQICDWszNYqqH3d6wBeb"
@@ -2422,6 +2422,28 @@
     },
     {
       "album": {
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/3Kk6WsGRzqZsBkBWJLK51d"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        },
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/6tYQjjzDBYhTpugD9A8NEq"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -3011,7 +3033,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
@@ -5369,6 +5391,24 @@
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3vLBMgP40O87IIQEsCYR5u"
+      },
+      "artists": [
+        {
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285500,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1LhEQp48cYgsBQ6El2EvYR"
     },
     {
       "album": {
@@ -8960,6 +9000,28 @@
     },
     {
       "album": {
+        "name": "Oh Vibrant Sky",
+        "url": "https://open.spotify.com/album/0f20QPMxFp4bGctmw8Fxns"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        },
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219300,
+      "name": "Oh Vibrant Sky",
+      "url": "https://open.spotify.com/track/6CBD4N091Oa27UxAt9ache"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e"
       },
@@ -9195,6 +9257,28 @@
       "duration_ms": 214401,
       "name": "One Day",
       "url": "https://open.spotify.com/track/2YnQOjgsA22lfNhGocdoKL"
+    },
+    {
+      "album": {
+        "name": "One Less Question",
+        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "One Less Question",
+      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
     },
     {
       "album": {
@@ -12222,6 +12306,24 @@
     },
     {
       "album": {
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
+    },
+    {
+      "album": {
         "name": "Lavender Days",
         "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
       },
@@ -14103,7 +14205,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229357,
       "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"

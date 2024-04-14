@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,706 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,756 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 42 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 |
 | 43 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 |
 | 44 | [Minding My Business](https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Minding My Business](https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS) | 2:53 |
-| 45 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
+| 45 | [Tjina](https://open.spotify.com/track/4DO34AAYHCCF2gs7jxLFYx) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul](https://open.spotify.com/album/0CxIrMM2xgsXxPiXhlBTmd) | 5:19 |
 | 46 | [Ronaldo](https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ronaldo](https://open.spotify.com/album/60URysVADvw9jbvTJypX2N) | 2:49 |
-| 47 | [Tjina](https://open.spotify.com/track/4DO34AAYHCCF2gs7jxLFYx) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul](https://open.spotify.com/album/0CxIrMM2xgsXxPiXhlBTmd) | 5:19 |
+| 47 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 |
 | 48 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 49 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 |
 | 50 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 5912277,
+  "2024-04-14": 5912450,
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Cover: Peggy Gou",
+  "description": "The world's biggest dance hits. Cover: Charlotte de Witte",
   "name": "mint",
   "tracks": [
     {
@@ -1466,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
+    },
+    {
+      "album": {
         "name": "BEATS FOR THE UNDERGROUND",
         "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
       },
@@ -2149,7 +2171,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 239047,
       "name": "buttons!",
       "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
@@ -3383,7 +3405,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202657,
       "name": "Dance No More (with Kaleena Zanders)",
       "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
@@ -5851,7 +5873,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
@@ -9077,7 +9099,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -11195,7 +11217,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
@@ -13444,6 +13466,32 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
+    },
+    {
+      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -13968,6 +14016,24 @@
     },
     {
       "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+    },
+    {
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -14053,7 +14119,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
@@ -14399,6 +14465,24 @@
       "duration_ms": 163451,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+    },
+    {
+      "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
       "album": {
@@ -15095,6 +15179,24 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "album": {
@@ -17765,6 +17867,24 @@
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "album": {

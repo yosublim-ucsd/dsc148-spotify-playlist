@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,837,956 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,838,591 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 7 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 5:54 |
 | 8 | [I Want To Break Free \- Single Remix](https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:18 |
 | 9 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 |
-| 10 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
-| 11 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 |
+| 10 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 |
+| 11 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
 | 12 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 13 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
 | 14 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [Heaven For Everyone \- Remastered 2011](https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 5:36 |
 | 51 | [God Save The Queen \- Remastered 2011](https://open.spotify.com/track/2ISPUUp4pzssWuR2Ic09vR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 1:15 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGE1MThlNDIwN2JkNzYwOGZmYWEzMzlmZDBjZTQ4YWVh`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDNhYjIyN2E3YjAzYTY4NTI1ZDljMmZhYWZjNWVkMTBk`

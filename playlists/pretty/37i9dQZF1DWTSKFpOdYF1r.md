@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,204 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,321 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 12 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 13 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 14 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
-| 15 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
-| 16 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
+| 15 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
+| 16 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 17 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 18 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 |
 | 19 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 62 | [Gigantic \- 2007 Remaster](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
 | 63 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
 | 64 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
-| 65 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
-| 66 | [In A Big Country](https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/3ODt64EiOqXvwR5fEIWlWy) | 4:44 |
+| 65 | [In A Big Country](https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/3ODt64EiOqXvwR5fEIWlWy) | 4:44 |
+| 66 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
 | 67 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
 | 68 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 |
 | 69 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |

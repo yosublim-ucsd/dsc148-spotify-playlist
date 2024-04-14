@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 161315,
+  "2024-04-14": 161345,
   "date_first_scraped": "2022-06-10",
   "description": "This is Aimer. The essential tracks, all in one playlist.",
   "name": "This Is Aimer",
@@ -569,7 +569,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229506,
       "name": "Resonantia",
       "url": "https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr"
@@ -937,6 +937,32 @@
       "duration_ms": 360480,
       "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
       "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3064\u306e\u307e\u306b",
+        "url": "https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208566,
+      "name": "\u3044\u3064\u306e\u307e\u306b",
+      "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
     },
     {
       "album": {

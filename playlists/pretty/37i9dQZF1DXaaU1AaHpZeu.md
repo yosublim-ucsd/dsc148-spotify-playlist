@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Girl Ultra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,350 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,363 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 69 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 |
 | 70 | [En Medio De Una Fiesta \- En Vivo en Teatro Coliseo, 18 Nov 2023](https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [En Medio De Una Fiesta \(En Vivo en Teatro Coliseo, 18 Nov 2023\)](https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV) | 4:49 |
 | 71 | [Vale Todo](https://open.spotify.com/track/40Za1VS1b5mkWSHrlSu6Db) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Facundo Castaño Montoya](https://open.spotify.com/artist/4dXtpo9qIdpfR8renHkzqW) | [Deseo](https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz) | 2:46 |
-| 72 | [Luminosidad](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 |
+| 72 | [Luminosidad \- Remix](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 |
 | 73 | [LA RAPLA REWORK](https://open.spotify.com/track/4Vtc2tQ6CkHPPwjonjrBsg) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [LA RAPLA REWORK](https://open.spotify.com/album/2aUivjiXXySWpRQvuXQGO0) | 5:19 |
 | 74 | [Por Ti](https://open.spotify.com/track/6oqQwEFsrZGTTCNC2EyqZn) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Por Ti](https://open.spotify.com/album/7rN2cqnvTA7UR8CJQN4a8I) | 2:10 |
 | 75 | [Himawari](https://open.spotify.com/track/53ULQbrcKtnMvWZeva4DLh) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Himawari](https://open.spotify.com/album/4VGAVMdqK64d2AgOKQQbzK) | 2:27 |

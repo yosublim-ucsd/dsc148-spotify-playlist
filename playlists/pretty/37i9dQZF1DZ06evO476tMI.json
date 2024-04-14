@@ -1,12 +1,12 @@
 {
-  "description": "This is Whitney Houston. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 602933,
+  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
+  "num_followers": 603002,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDM3ZmZjNTZhMjM4NTliMjcxYzk1ZmMzYWY1NDIwYjk0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDg5OTM5ZTdjZmUwYTFjM2M4YzJhZDhjYzUzMWM3Y2Y2",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -75,6 +55,22 @@
       "duration_ms": 238466,
       "name": "Saving All My Love for You",
       "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": null,
@@ -111,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
       "duration_ms": 264333,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 299800,
       "name": "Something In Common",
       "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
+      "url": "https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH"
     }
   ],
   "unique_name": "This Is Whitney Houston",

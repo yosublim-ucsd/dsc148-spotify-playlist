@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
@@ -13686,7 +13686,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -15070,10 +15070,28 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -15536,7 +15554,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
@@ -20712,7 +20730,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,696 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,697 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 70 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 71 | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O) | 3:08 |
 | 72 | [Skinnydipped](https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 |
-| 73 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
-| 74 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
+| 73 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
+| 74 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
 | 75 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 |
 | 76 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 77 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |

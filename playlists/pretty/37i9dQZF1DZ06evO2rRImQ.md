@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,771 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,804 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 21 | [No Llega El Olvido](https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:31 |
 | 22 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
 | 23 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
-| 24 | [Y ¿Qué Tiene?](https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Y ¿Qué Tiene?](https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ) | 2:52 |
-| 25 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 |
+| 24 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 |
+| 25 | [Y ¿Qué Tiene?](https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Y ¿Qué Tiene?](https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ) | 2:52 |
 | 26 | [Vas A Querer Volver](https://open.spotify.com/track/7dNvYibEFTGRvNi8hBzs4f) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vas A Querer Volver](https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf) | 2:40 |
-| 27 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
-| 28 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
+| 27 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
+| 28 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
 | 29 | [No Te Quiero Perder](https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 3:28 |
 | 30 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 31 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 44 | [Llorando En Un Carro Del Año](https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Llorando En Un Carro Del Año](https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM) | 2:28 |
 | 45 | [Es Bonito](https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vengo A Decirte](https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw) | 2:58 |
 | 46 | [Desde Que Te Ví](https://open.spotify.com/track/0VcgAjwQsF92hVn4g5Awmi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 3:01 |
-| 47 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
-| 48 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Mejor De...](https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC) | 2:25 |
+| 47 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/6Wg40tUtPPacPNVgY22xRH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Mejor De...](https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC) | 2:25 |
+| 48 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
 | 49 | [Chiquitita](https://open.spotify.com/track/1gejXzSYPS7XXDYuOjcvr8) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:36 |
 | 50 | [¿Cuánto Cuesta?](https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:19 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDZmMTUwY2I1NzIwYWI0MzNjOTU4NTZkZDIwYWViYWI5`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDZmYmRjNmNiOTg5MjIyMTFlZjdkMmViMTljODQ2MDkz`

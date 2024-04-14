@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,306 likes - 79 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,342 likes - 79 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 47 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
 | 48 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 49 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 |
-| 50 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
-| 51 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
+| 50 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
+| 51 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 52 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
 | 53 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
 | 54 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 |
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 66 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 |
 | 67 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
 | 68 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
-| 69 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
-| 70 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
-| 71 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
+| 69 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
+| 70 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
+| 71 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
 | 72 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
-| 73 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
-| 74 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
+| 73 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
+| 74 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
 | 75 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 |
 | 76 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 |
 | 77 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 78 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
-| 79 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
+| 79 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 |
 
 Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMDA3OGU1NTI0NTViNWQxYjdjNDIxMzM0MjRkZDAyZjRm`

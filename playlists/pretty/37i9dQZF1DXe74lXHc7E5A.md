@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: J Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,991 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,027 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 38 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 39 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
 | 40 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
-| 41 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 |
+| 41 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 42 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
-| 43 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
+| 43 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 |
 | 44 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 |
 | 45 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
 | 46 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |

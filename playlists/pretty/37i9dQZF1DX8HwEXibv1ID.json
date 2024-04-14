@@ -1,6 +1,6 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 39451,
+  "num_followers": 39487,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2024-03-20 14:55:15",
-      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 187026,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
+    },
+    {
+      "added_at": "2024-03-20 14:55:15",
+      "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
     },
     {
       "added_at": "2024-03-20 14:55:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "When Love Comes Your Way",
+      "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
+    },
+    {
+      "added_at": "2024-03-20 14:55:15",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 281733,
       "name": "Blue Swing",
       "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
-    },
-    {
-      "added_at": "2024-03-20 14:55:15",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "When Love Comes Your Way",
-      "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
     },
     {
       "added_at": "2024-03-20 14:55:15",
@@ -1167,6 +1167,38 @@
     {
       "added_at": "2024-03-20 14:55:15",
       "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+    },
+    {
+      "added_at": "2024-03-20 14:55:15",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
+    },
+    {
+      "added_at": "2024-03-20 14:55:15",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1195,38 +1227,6 @@
       "duration_ms": 234840,
       "name": "Conversation Blues",
       "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
-    },
-    {
-      "added_at": "2024-03-20 14:55:15",
-      "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
-    },
-    {
-      "added_at": "2024-03-20 14:55:15",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
     },
     {
       "added_at": "2024-03-20 14:55:15",

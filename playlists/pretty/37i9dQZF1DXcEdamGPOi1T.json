@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 12982,
+  "num_followers": 13014,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 267194,
-      "name": "MONACO",
-      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -923,6 +907,22 @@
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-04-12 19:36:05",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-04-12 19:36:05",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2024-04-12 19:36:05",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2024-04-12 19:36:05",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2024-04-12 19:36:05",

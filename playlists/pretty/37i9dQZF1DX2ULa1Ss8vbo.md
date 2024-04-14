@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,644 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,669 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 40 | [I Dreamt I Dwelt in Marble Halls](https://open.spotify.com/track/0FZxhprYVBPuzskKdBv6tG) | [Méav](https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7) | [Méav](https://open.spotify.com/album/3W5BZfrxfWBa6J3IFEr7dS) | 3:52 |
 | 41 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 |
 | 42 | [Erin\-Go\-Bragh / Rakish Paddy](https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO) | [Kate Burke & Ruth Hazleton](https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M) | [The Bee\-Loud Glade](https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno) | 5:41 |
-| 43 | [Dicey Riley](https://open.spotify.com/track/5pxYcaEEXywXBBxxdQVCS4) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down by the Liffeyside: Irish Street Ballads](https://open.spotify.com/album/07NvGxjOsZHGjEYgM4qhpf) | 1:05 |
+| 43 | [Dicey Riley](https://open.spotify.com/track/4OumUOhmbZq4Q5QxBvJcYR) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Easter Monday 1916 Songs of the IRA \(Irish Republican Army\)](https://open.spotify.com/album/0lgkJWq61JDpk5UyOOi9Vp) | 1:02 |
 | 44 | [The West's Awake](https://open.spotify.com/track/28JJX47fHJppvYapuoHeRr) | [Johnny McEvoy](https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9) | [1916 Easter Rising \(Commemorative Collection\)](https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6) | 3:27 |
 | 45 | [The Time Has Come](https://open.spotify.com/track/11EhHpCJA9ztjUG13pVXjb) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [The Time Has Come](https://open.spotify.com/album/2FYYQ2GMMzRtR6hGuxTjFb) | 3:19 |
 | 46 | [Danny Boy](https://open.spotify.com/track/5f2ml25PS6hLYtADGsiTVk) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Memories of Ireland](https://open.spotify.com/album/570ebwhbkrU1bGIpG1zpGN) | 4:35 |

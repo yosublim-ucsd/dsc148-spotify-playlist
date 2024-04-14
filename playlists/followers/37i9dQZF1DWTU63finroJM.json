@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 60136,
+  "2024-04-14": 60167,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Shego.",
   "name": "RADAR Global ",
@@ -3845,7 +3845,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 341124,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
@@ -5851,7 +5851,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 139260,
       "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
@@ -6755,6 +6755,24 @@
       "duration_ms": 298216,
       "name": "Fools",
       "url": "https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt"
+    },
+    {
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     },
     {
       "album": {
@@ -9779,7 +9797,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
@@ -10519,7 +10537,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222500,
       "name": "Krishna sang Radha",
       "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
@@ -16593,7 +16611,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
@@ -17625,6 +17643,24 @@
       "duration_ms": 200337,
       "name": "Si Quieren Frontear",
       "url": "https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH"
+    },
+    {
+      "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/6EQ3jk3c10hFe7jTIvUHXN"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Si Supiera",
+      "url": "https://open.spotify.com/track/3IAfihV1p0Q1WfErciii2t"
     },
     {
       "album": {
@@ -23013,7 +23049,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203011,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,527 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 50 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 | 51 | [Loser](https://open.spotify.com/track/3x0LHL5mATNrin2nSbTNYv) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Loser](https://open.spotify.com/album/2obBWWiPMFc9l6N2hL1mQ1) | 2:00 |
 | 52 | [Loser \- Remix](https://open.spotify.com/track/3kj2Hv8B4bBNEoPJDRPfyV) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ), [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [Loser \(Remix\)](https://open.spotify.com/album/77z1MeXVbV4NMhaPYvx3Ze) | 1:15 |
-| 53 | [WHITE DOWN JKT](https://open.spotify.com/track/3tmbeNhGonMxauKcmBPMaH) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [WHITE DOWN JKT](https://open.spotify.com/album/5cdp6CeC6nB5zS9o7g3xOQ) | 1:55 |
+| 53 | [WHITE DOWN JKT](https://open.spotify.com/track/63FuRAAfnYTl5HdhpHb5jX) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/68dcRmA0w3EAOfOFq4o1gc) | 1:55 |
 | 54 | [BUSSIN 2](https://open.spotify.com/track/6Wouf2IqRkBkcghb2kqVlc) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL) | [BUSSIN 2](https://open.spotify.com/album/2fhU9fE4tPEg3etSpZgxXK) | 3:21 |
 | 55 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 |
 | 56 | [KAMEHAMEHA \- Remix](https://open.spotify.com/track/5JlOC3MCRM59MNjePtvnWf) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [KAMEHAMEHA \(Remix\)](https://open.spotify.com/album/3Slk8fGqqHWkpxU1VS5we2) | 3:08 |

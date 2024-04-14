@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-2,128 songs - 5 day 8 hr 3 min
+2,129 songs - 5 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,8 @@
 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 | 2024-02-27 |  |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-24 | 2023-05-06 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2020-07-24 | 2021-03-08 |
-| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-22 |  |
+| [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-22 |  |
+| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-22 | 2024-04-14 |
 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 | 2024-01-04 |  |
 | [For](https://open.spotify.com/track/0mMyFTMn9yNTfOd17unDcz) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [For](https://open.spotify.com/album/0rcNuOnE74TFSviwMTS4CK) | 3:45 | 2022-09-16 | 2022-10-12 |
 | [For Sure](https://open.spotify.com/track/5sIQB8xgfGiOOU2zQW2jwf) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/5VRzYNGWztoQLcAkCeUUpE) | 3:25 | 2020-12-04 | 2020-12-22 |

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-98 songs - 5 hr 19 min
+99 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [PALABRAS SOBRAN \- REMIX](https://open.spotify.com/track/4u8fUK0wSDHvVQ24SUMqZq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 4:48 | 2024-02-02 | 2024-04-06 |
 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 | 2024-01-26 |  |
 | [POLANCO](https://open.spotify.com/track/7K0RqlHk8tyi6yZUPQSssY) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Mauro Dembow](https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD) | [POLANCO](https://open.spotify.com/album/25Imq3pv6wApPvAcqZ3keF) | 2:42 | 2024-01-26 | 2024-02-03 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2024-01-26 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2024-01-26 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-12 |  |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2024-01-26 | 2024-04-13 |
 | [PROVENZA](https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:27 | 2024-01-26 |  |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-29 | 2024-04-06 |

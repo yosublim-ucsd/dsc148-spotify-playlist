@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 61734,
+  "2024-04-14": 61760,
   "date_first_scraped": "2021-12-21",
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
   "name": "New Smooth Jazz",
@@ -3048,6 +3048,28 @@
     },
     {
       "album": {
+        "name": "Grass-Fed Funk (feat. Marcus Anderson)",
+        "url": "https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Grass-Fed Funk (feat. Marcus Anderson)",
+      "url": "https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg"
+    },
+    {
+      "album": {
         "name": "Mind Over Matter",
         "url": "https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ"
       },
@@ -3451,7 +3473,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 228651,
       "name": "I'm Good - radio single",
       "url": "https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f"
@@ -3961,7 +3983,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215027,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW"
@@ -4455,6 +4477,24 @@
       "duration_ms": 185617,
       "name": "LOVE AGAIN - Instrumental",
       "url": "https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe"
+    },
+    {
+      "album": {
+        "name": "Love Can't Wait",
+        "url": "https://open.spotify.com/album/1J5IOuZKF7GYZr1nsASil0"
+      },
+      "artists": [
+        {
+          "name": "JJ Sansaverino",
+          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254171,
+      "name": "Love Can't Wait",
+      "url": "https://open.spotify.com/track/0ugbqA6rUHf5UtJYyfedmE"
     },
     {
       "album": {

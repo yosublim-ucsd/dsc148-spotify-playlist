@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 50679,
+  "num_followers": 50797,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-04-12 04:09:37",
       "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
+    },
+    {
+      "added_at": "2024-04-12 04:09:37",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2024-04-12 04:09:37",
-      "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP"
-      },
-      "artists": [
-        {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
-        }
-      ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS"
     },
     {
       "added_at": "2024-04-12 04:09:37",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-04-12 04:09:37",
       "album": {
-        "name": "From Blak With Love",
-        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
-      },
-      "artists": [
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        },
-        {
-          "name": "Kuthathu",
-          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
-        }
-      ],
-      "duration_ms": 403998,
-      "name": "Never Break Me (feat. Kuthathu)",
-      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
-    },
-    {
-      "added_at": "2024-04-12 04:09:37",
-      "album": {
         "name": "Confident (feat. Kali Mija)",
         "url": "https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 463348,
       "name": "Confident (feat. Kali Mija)",
       "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
+    },
+    {
+      "added_at": "2024-04-12 04:09:37",
+      "album": {
+        "name": "From Blak With Love",
+        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
+      },
+      "artists": [
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        },
+        {
+          "name": "Kuthathu",
+          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
+        }
+      ],
+      "duration_ms": 403998,
+      "name": "Never Break Me (feat. Kuthathu)",
+      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
     },
     {
       "added_at": "2024-04-12 04:09:37",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-04-12 04:09:37",
       "album": {
-        "name": "See the Light",
-        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
-      },
-      "artists": [
-        {
-          "name": "Bless_SA",
-          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
-        },
-        {
-          "name": "Kyika DeSoul",
-          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
-        }
-      ],
-      "duration_ms": 405420,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
-    },
-    {
-      "added_at": "2024-04-12 04:09:37",
-      "album": {
         "name": "Usangikhumbula (Fka Mash Glitch Dub)",
         "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 359750,
       "name": "Usangikhumbula - Fka Mash Glitch Dub",
       "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
+    },
+    {
+      "added_at": "2024-04-12 04:09:37",
+      "album": {
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
+      },
+      "artists": [
+        {
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
+        },
+        {
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
+        }
+      ],
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2024-04-12 04:09:37",
@@ -959,22 +959,26 @@
     {
       "added_at": "2024-04-12 04:09:37",
       "album": {
-        "name": "This Is The Way (We Dance)",
-        "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
+        "name": "Mend It / Your Eyes Remixes",
+        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
       },
       "artists": [
         {
-          "name": "D-tip",
-          "url": "https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF"
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
         },
         {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
         }
       ],
-      "duration_ms": 337370,
-      "name": "This Is The Way (We Dance)",
-      "url": "https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq"
+      "duration_ms": 518599,
+      "name": "Mend It - Stimming Remix",
+      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
     }
   ],
   "unique_name": "Deep House Session",

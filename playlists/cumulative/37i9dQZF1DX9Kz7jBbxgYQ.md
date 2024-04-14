@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat
 
-284 songs - 16 hr 3 min
+285 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Come Thru](https://open.spotify.com/track/5EBCRL7xDZztH4WV5RL5N4) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:48 | 2022-05-20 | 2022-07-16 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-05-20 | 2022-07-16 |
 | [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 | 2023-02-26 | 2023-04-29 |
-| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 |  |
+| [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 | 2024-04-11 |  |
+| [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 | 2024-01-19 | 2024-04-14 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-15 | 2022-09-02 |
 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 | 2023-07-14 | 2023-09-09 |
 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 | 2022-12-28 |  |

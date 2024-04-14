@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 336954,
+  "2024-04-14": 337075,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz. But funky. Cover: Sly5thAve",
   "name": "Jazz-Funk",
@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Bowser",
+        "url": "https://open.spotify.com/album/05ctf1p6VEWIRhuugjjVko"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214943,
+      "name": "Bowser",
+      "url": "https://open.spotify.com/track/5iMVjpcTyW38r3q7lWgevd"
+    },
+    {
+      "album": {
         "name": "Jazz Montez Presents Vol. I",
         "url": "https://open.spotify.com/album/242iXvXkQouR3XCtSKFP4x"
       },
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227540,
       "name": "Cocoa Dust",
       "url": "https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy"
@@ -1894,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Dick Cavett",
+        "url": "https://open.spotify.com/album/7srtYYAjwKxJHR01YQTZMB"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304532,
+      "name": "Dick Cavett",
+      "url": "https://open.spotify.com/track/197JI3tYRtPb4Ehr8FgsAy"
+    },
+    {
+      "album": {
         "name": "Dinky Doinky",
         "url": "https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7"
       },
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222168,
       "name": "F'Uncstown",
       "url": "https://open.spotify.com/track/13IirgDjn1v1gZMMVrWQEA"
@@ -2565,6 +2601,36 @@
       "duration_ms": 128634,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/0PXtPC7EtkqcbHpIZtGVAb"
+    },
+    {
+      "album": {
+        "name": "Gentle Thoughts",
+        "url": "https://open.spotify.com/album/2T3hEDmiyPBZSxbU12vFOf"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "DJ PRAWN",
+          "url": "https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x"
+        },
+        {
+          "name": "Trey Tarzia",
+          "url": "https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491250,
+      "name": "Gentle Thoughts",
+      "url": "https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff"
     },
     {
       "album": {
@@ -3193,7 +3259,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 348489,
       "name": "It's Just Begun / Soul Power - Instrumental",
       "url": "https://open.spotify.com/track/2F7EjHxQAwckOxP4SE2B0J"
@@ -5761,7 +5827,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 284148,
       "name": "Sanchez",
       "url": "https://open.spotify.com/track/75pHHXVMycJIX961oCotoW"
@@ -5893,6 +5959,36 @@
       "duration_ms": 168330,
       "name": "Several Times",
       "url": "https://open.spotify.com/track/229TmM6MFdMfkq57WlxJlI"
+    },
+    {
+      "album": {
+        "name": "Shadows (Instrumental)",
+        "url": "https://open.spotify.com/album/1wmA3Eo9oz7BLbapXe79pS"
+      },
+      "artists": [
+        {
+          "name": "Cosa Nostra Strings",
+          "url": "https://open.spotify.com/artist/2WDAb6xQsUf8Hp2Yum9VYl"
+        },
+        {
+          "name": "Lilan Kane",
+          "url": "https://open.spotify.com/artist/4nhMAry4ZabG1t7YOwxSAB"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311756,
+      "name": "Shadows (Instrumental)",
+      "url": "https://open.spotify.com/track/0GkU21qR1yl90YGzs5EkS3"
     },
     {
       "album": {
@@ -6067,6 +6163,32 @@
       "duration_ms": 291960,
       "name": "Smelling the Fog",
       "url": "https://open.spotify.com/track/5S7wGZaqXqozXvBJ6MEacl"
+    },
+    {
+      "album": {
+        "name": "Smooth it Out",
+        "url": "https://open.spotify.com/album/2vuN2O1XavQB2wFvD5HPuA"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156584,
+      "name": "Smooth it out",
+      "url": "https://open.spotify.com/track/1jPVXZmIJonOnwbMFPFg9V"
     },
     {
       "album": {
@@ -6949,7 +7071,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 295038,
       "name": "Tema de Benja",
       "url": "https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW"
@@ -8107,7 +8229,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 344226,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh"
@@ -8659,6 +8781,24 @@
       "duration_ms": 191253,
       "name": "With You I Rock",
       "url": "https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX"
+    },
+    {
+      "album": {
+        "name": "Motionation",
+        "url": "https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Wonder Boy",
+      "url": "https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP"
     },
     {
       "album": {

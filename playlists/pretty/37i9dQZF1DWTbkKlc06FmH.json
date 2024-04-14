@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 128659,
+  "num_followers": 128695,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Run Away (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1267,6 +1287,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1287,22 +1323,6 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
-        "name": "Hana",
-        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 246699,
-      "name": "Hana",
-      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1391,38 +1411,6 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "Slug",
-        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Slug",
-      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -1443,22 +1431,34 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 207339,
-      "name": "Run Away (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
+      "duration_ms": 188206,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1619,26 +1619,22 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         },
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1671,22 +1667,42 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         },
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-04-12 02:56:46",
       "album": {
-        "name": "Automatic (2024 Mix)",
-        "url": "https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 295940,
-      "name": "Automatic - 2024 Mix",
-      "url": "https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+    },
+    {
+      "added_at": "2024-04-12 02:56:46",
+      "album": {
+        "name": "Automatic (2024 Mix)",
+        "url": "https://open.spotify.com/album/1OmZj0yNDdykFxrPJiqegq"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 295940,
+      "name": "Automatic - 2024 Mix",
+      "url": "https://open.spotify.com/track/0PUl467MODwUpD7Vd9kebB"
     },
     {
       "added_at": "2024-04-12 02:56:46",
@@ -1819,22 +1835,6 @@
       "duration_ms": 202373,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-04-12 02:56:46",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 151301,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

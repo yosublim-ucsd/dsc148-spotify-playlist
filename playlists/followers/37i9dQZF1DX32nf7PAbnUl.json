@@ -1,9 +1,35 @@
 {
-  "2024-04-13": 370586,
+  "2024-04-14": 370765,
   "date_first_scraped": "2023-09-29",
   "description": "Le son des chichas !",
   "name": "Chicha Royale",
   "tracks": [
+    {
+      "album": {
+        "name": "1,2,3 Soleil",
+        "url": "https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw"
+      },
+      "artists": [
+        {
+          "name": "NAZAKEBLACK",
+          "url": "https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "1,2,3 Soleil",
+      "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
+    },
     {
       "album": {
         "name": "Ronisia (Version Deluxe)",
@@ -851,7 +877,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188786,
       "name": "Mon BB",
       "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
@@ -1098,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "ShegueyVara 2",
+        "url": "https://open.spotify.com/album/0bnoOeocONcD9vlfua3HSE"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184226,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4zCPOJ8FSnZRRwt9olAoke"
+    },
+    {
+      "album": {
         "name": "Drapeau Blanc",
         "url": "https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu"
       },
@@ -1293,17 +1337,17 @@
       },
       "artists": [
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
           "name": "Franglish",
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         }
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 174670,
       "name": "Trucs de choses",
       "url": "https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ"
@@ -1365,7 +1409,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 218344,
       "name": "VNTR",
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
@@ -1387,7 +1431,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181045,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"

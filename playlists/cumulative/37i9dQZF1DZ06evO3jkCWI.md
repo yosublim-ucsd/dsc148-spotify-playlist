@@ -2,9 +2,9 @@
 
 ### [This Is Los Invasores De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jkCWI)
 
-> This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
+> This Is Los Invasores De Nuevo León\. Los temas esenciales, todos en una lista.
 
-84 songs - 4 hr 10 min
+85 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 | 2022-06-01 |  |
 | [Florentino Ventura](https://open.spotify.com/track/0rnkDN36KTqBxDX634sUi3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:01 | 2022-06-04 | 2022-10-12 |
 | [Gracias Porque Volviste](https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:09 | 2022-06-11 |  |
+| [La Chica Perfecta](https://open.spotify.com/track/26L4702pMYGLYIMQvtVvDU) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Chica Perfecta](https://open.spotify.com/album/5aqQTREa7SalN80y2fshqi) | 3:10 | 2024-04-14 |  |
 | [La Costumbre](https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 2:33 | 2023-11-10 |  |
 | [La Fuga Del Rojo](https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 2:32 | 2022-06-01 | 2023-07-22 |
 | [La Lloradera](https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Lloradera](https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq) | 2:43 | 2022-10-16 | 2023-02-01 |

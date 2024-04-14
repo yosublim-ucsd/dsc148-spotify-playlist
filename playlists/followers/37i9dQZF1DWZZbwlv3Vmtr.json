@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 440592,
+  "2024-04-14": 440684,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -6447,7 +6447,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 151922,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/7yhBLgecoRdhwxAduh5nP6"
@@ -7155,7 +7155,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 187317,
       "name": "Last Mission",
       "url": "https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv"
@@ -12411,7 +12411,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 143415,
       "name": "searching",
       "url": "https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY"
@@ -13539,7 +13539,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms"
@@ -14496,6 +14496,24 @@
     },
     {
       "album": {
+        "name": "Surfing Cats",
+        "url": "https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN"
+      },
+      "artists": [
+        {
+          "name": "Breakfast For Brunch",
+          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128248,
+      "name": "Surfing Cats",
+      "url": "https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2"
+    },
+    {
+      "album": {
         "name": "Surroundings",
         "url": "https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN"
       },
@@ -14735,7 +14753,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140167,
       "name": "tea n' sunsets",
       "url": "https://open.spotify.com/track/2UEWsw1bg1qbbnIMyLZGBn"

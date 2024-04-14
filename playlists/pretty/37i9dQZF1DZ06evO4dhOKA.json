@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
-  "num_followers": 55795,
+  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
+  "num_followers": 55822,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDhiYzM3YmNhOGQwYjMwZmIxNWQ0NTdjY2I3MGY5MDI0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDk4Mzk5Yjc0NmNkYmVhZWQ0NjViMjRjMDQ5NzAxMWUx",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
+      "duration_ms": 161546,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -368,25 +368,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Bonita - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
       "duration_ms": 177733,
       "name": "El Pavido Navido",
       "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Bonita - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
     },
     {
       "added_at": null,
@@ -432,25 +432,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Trono Ca\u00eddo",
-      "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 196906,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
     },
     {
       "added_at": null,

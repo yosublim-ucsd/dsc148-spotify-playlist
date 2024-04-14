@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 51113,
+  "2024-04-14": 51111,
   "date_first_scraped": "2023-02-11",
-  "description": "Your weekly rock update. Cover: Gustaf",
+  "description": "Your weekly rock update. Cover: Metz",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166440,
       "name": "Brain Dance",
       "url": "https://open.spotify.com/track/2NU5PTaymbOhLhXYWHz1Ut"
@@ -2905,7 +2905,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207386,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/13btErURhn1Q22pZypYkPo"
@@ -4227,7 +4227,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 324436,
       "name": "Digging In The Dirt",
       "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
@@ -4491,7 +4491,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 145272,
       "name": "DOING IT AGAIN BABY",
       "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
@@ -5504,6 +5504,24 @@
     },
     {
       "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179668,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/6nIJlsCVFIGUCf4xDxq2Ix"
       },
@@ -6099,7 +6117,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198983,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/1zN8DmlT9GwQKXwIszMPO3"
@@ -6774,6 +6792,24 @@
     },
     {
       "album": {
+        "name": "Electric Sounds (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169998,
+      "name": "Haunting Me",
+      "url": "https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA"
+    },
+    {
+      "album": {
         "name": "Heading For The Door",
         "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
       },
@@ -7055,7 +7091,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
@@ -7401,7 +7437,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150825,
       "name": "honey, i'm home",
       "url": "https://open.spotify.com/track/0PCCllluNN8eMSc7No98Jt"
@@ -8721,6 +8757,24 @@
       "duration_ms": 183873,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy"
+    },
+    {
+      "album": {
+        "name": "Kiss! / Sick to my Stomach",
+        "url": "https://open.spotify.com/album/4YGloVUogrsXAsjU0x7HMD"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154440,
+      "name": "Kiss!",
+      "url": "https://open.spotify.com/track/1mugM9eDIZArpjOqHH9JZu"
     },
     {
       "album": {
@@ -10165,6 +10219,24 @@
       "duration_ms": 128373,
       "name": "Microwave Food",
       "url": "https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv"
+    },
+    {
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "album": {
@@ -11790,6 +11862,24 @@
     },
     {
       "album": {
+        "name": "Pallor Tricks",
+        "url": "https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237677,
+      "name": "Pallor Tricks",
+      "url": "https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G"
+    },
+    {
+      "album": {
         "name": "Bright Blues",
         "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
       },
@@ -12291,7 +12381,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178981,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb"
@@ -12584,6 +12674,24 @@
     },
     {
       "album": {
+        "name": "Embody (Expanded)",
+        "url": "https://open.spotify.com/album/2wpDV7G7IkDj26NolIVNH0"
+      },
+      "artists": [
+        {
+          "name": "Basement Revolver",
+          "url": "https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150248,
+      "name": "Pull Yourself Together",
+      "url": "https://open.spotify.com/track/5f8i23GOrjT55MH3vWJ37r"
+    },
+    {
+      "album": {
         "name": "MONO",
         "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
@@ -12736,6 +12844,24 @@
     },
     {
       "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
         "name": "Remember Never Before (Deluxe)",
         "url": "https://open.spotify.com/album/4m4xRJPAKM2Ic6sNGijcAL"
       },
@@ -12747,7 +12873,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220603,
       "name": "Rabbit Side",
       "url": "https://open.spotify.com/track/11AhYEC4QAaFBKfrMCeTxf"
@@ -13057,7 +13183,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224610,
       "name": "Right Way",
       "url": "https://open.spotify.com/track/4YNRTOSRasARfyNhmVW7bz"
@@ -14301,7 +14427,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179536,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/7bf5K9Gy7e1584TfDjagUy"
@@ -15122,6 +15248,24 @@
     },
     {
       "album": {
+        "name": "SUICIDE",
+        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204484,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/0k5arnScjVZaqqvNFK3otb"
       },
@@ -15205,7 +15349,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150150,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/1JotrHBocvPIeV5hiMTWCb"
@@ -15227,6 +15371,24 @@
       "duration_ms": 228517,
       "name": "Sunset Silhouette",
       "url": "https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW"
+    },
+    {
+      "album": {
+        "name": "Superior Mirage",
+        "url": "https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242965,
+      "name": "Superior Mirage",
+      "url": "https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh"
     },
     {
       "album": {
@@ -15469,6 +15631,24 @@
       "duration_ms": 170666,
       "name": "Talk2Much",
       "url": "https://open.spotify.com/track/5l03K5o4pAErSFFcdxcLGC"
+    },
+    {
+      "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/6ICPJmYKGJAhSRRI6ko12p"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246758,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/2KfIeGHD9AMdSZNyphzkhs"
     },
     {
       "album": {
@@ -16824,6 +17004,24 @@
     },
     {
       "album": {
+        "name": "tunnel",
+        "url": "https://open.spotify.com/album/6kMXx28hPek2EZx81pRSQz"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241240,
+      "name": "tunnel",
+      "url": "https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6"
+    },
+    {
+      "album": {
         "name": "Turn It Over",
         "url": "https://open.spotify.com/album/5qZyuMgYibGd4qE8jCpDBQ"
       },
@@ -17221,6 +17419,24 @@
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
+    },
+    {
+      "album": {
+        "name": "Villain Origin Story",
+        "url": "https://open.spotify.com/album/5HmDPpRWue4GAcoxQk0lUb"
+      },
+      "artists": [
+        {
+          "name": "Cind\u00eb",
+          "url": "https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Villain Origin Story",
+      "url": "https://open.spotify.com/track/1gODVuRtWTlBe98ndE4bcw"
     },
     {
       "album": {

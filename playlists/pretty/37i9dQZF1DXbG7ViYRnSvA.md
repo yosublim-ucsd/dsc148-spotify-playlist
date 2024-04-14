@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,077 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,101 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 8 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 9 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 | 10 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 |
-| 11 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
-| 12 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 |
+| 11 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 |
+| 12 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
 | 13 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
 | 14 | [Roses](https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 4:05 |
 | 15 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 46 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |
 | 47 | [Safe to Say](https://open.spotify.com/track/4Q9EQ3IOxSDbXyKWXGVPcF) | [Tree](https://open.spotify.com/artist/5ABlNXUNKppEgicfzWsaSQ) | [Sunday School II : When Church Lets Out](https://open.spotify.com/album/37RWnHRT1VjCvTqZsLpISj) | 3:36 |
 | 48 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/2P7NT61WshlyyVk6WKy0pk) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/05baTh08zfxj1BbtZwKkYI) | 3:35 |
-| 49 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
-| 50 | [Your Time](https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 0:48 |
+| 49 | [Your Time](https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 0:48 |
+| 50 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 
 Snapshot ID: `MTY4NjgzNjEzMSwwMDAwMDAwMDY0MTI3YWQ3Y2Y5ZjdmNDBkMGFjNjlkNzdkZTJmMzM5`

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 27121,
+  "2024-04-14": 27120,
   "date_first_scraped": "2022-01-02",
   "description": "50 Canadian artists to watch, handpicked by our curators. Cover: Rhyan Douglas",
   "name": "RADAR Canada",
@@ -9277,7 +9277,7 @@
     {
       "album": {
         "name": "Fireball",
-        "url": "https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d"
+        "url": "https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v"
       },
       "artists": [
         {
@@ -9288,6 +9288,24 @@
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179668,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5"
+    },
+    {
+      "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 179668,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62"

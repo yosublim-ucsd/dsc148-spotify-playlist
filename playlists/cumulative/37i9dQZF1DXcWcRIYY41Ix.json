@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+    },
+    {
+      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
@@ -5230,6 +5248,28 @@
       "duration_ms": 226577,
       "name": "La Verbena y el Moriviv\u00ed",
       "url": "https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe"
+    },
+    {
+      "album": {
+        "name": "La vida en otra parte",
+        "url": "https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH"
+      },
+      "artists": [
+        {
+          "name": "Laura Sam",
+          "url": "https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208829,
+      "name": "La vida en otra parte",
+      "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
     },
     {
       "album": {
@@ -7292,7 +7332,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"

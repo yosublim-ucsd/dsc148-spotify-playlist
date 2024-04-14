@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 285669,
+  "2024-04-14": 285747,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:1q6xQXmuTccwh7gBR7ToUN\">Common Hymnal</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:4pwGjEvQsgeFE27Sk31r7I\">Transformation Worship</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -977,7 +977,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 292181,
       "name": "Big Big God - Extended Version",
       "url": "https://open.spotify.com/track/1z4hjQ1OCC8EaYW1J45LcO"
@@ -3362,6 +3362,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4fU9ITUXYd3QqGq1PrqwAa"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362096,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4UZDdmrCg7jOwQJiMnN36S"
+    },
+    {
+      "album": {
         "name": "Hold On (Live/Radio Edit)",
         "url": "https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg"
       },
@@ -4097,6 +4115,28 @@
       "duration_ms": 220666,
       "name": "I'm Walking",
       "url": "https://open.spotify.com/track/2zuOKB1VTStUdgcIX1EjDj"
+    },
+    {
+      "album": {
+        "name": "Believe (Live)",
+        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Purpose Worship",
+          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428181,
+      "name": "I've Been Waiting - Live",
+      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
     },
     {
       "album": {
@@ -5549,7 +5589,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 263026,
       "name": "Maybe God Is Tryin\u2019 To Tell You Somethin\u2019 - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/1W7IlkIex8FzydmxsYxJGi"
@@ -6105,7 +6145,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 418804,
       "name": "No Longer Slaves - 2023 Short Edit / Live",
       "url": "https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX"
@@ -6602,6 +6642,28 @@
     },
     {
       "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
+    },
+    {
+      "album": {
         "name": "Peace Be Still",
         "url": "https://open.spotify.com/album/1zBeDm3o4LyQYnIHMb923x"
       },
@@ -6701,7 +6763,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 373666,
       "name": "Power (feat. The Clark Sisters & Mr. Talkbox)",
       "url": "https://open.spotify.com/track/1iJ3mlA42anezKqpmVpUCZ"
@@ -6897,6 +6959,24 @@
       "duration_ms": 204641,
       "name": "Residue",
       "url": "https://open.spotify.com/track/156Qvf1qOWzZrQtE2h5ZZO"
+    },
+    {
+      "album": {
+        "name": "Revival Medley",
+        "url": "https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453689,
+      "name": "Revival Medley",
+      "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
     },
     {
       "album": {

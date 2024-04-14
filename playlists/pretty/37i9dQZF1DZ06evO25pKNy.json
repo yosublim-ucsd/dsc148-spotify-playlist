@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 4589,
+  "num_followers": 4595,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGYzMWUwZjE1NTNiN2M0ODk0ZDJhMDFiOWVlOGExZjE1",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDJlZWRiODA1MmE4MDQyZmI4MDA2MWQ5NDBkOWFkZGM2",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos De Pie",
+        "url": "https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 166562,
+      "name": "Seguimos De Pie",
+      "url": "https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 135709,
       "name": "Todo Veo",
       "url": "https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguimos De Pie",
-        "url": "https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 166562,
-      "name": "Seguimos De Pie",
-      "url": "https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB"
     },
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niveles",
         "url": "https://open.spotify.com/album/4t4tkSCl2kGVNuX5funZSM"
       },
@@ -267,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Botas O Gabanas",
-        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 170842,
-      "name": "De Botas O Gabanas",
-      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -303,6 +303,26 @@
       "duration_ms": 175770,
       "name": "Calorsito En California",
       "url": "https://open.spotify.com/track/0xPdnHjuVi4eP6R0MviZin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Botas O Gabanas",
+        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 170842,
+      "name": "De Botas O Gabanas",
+      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
     },
     {
       "added_at": null,
@@ -491,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debajo De La Gorra",
         "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
       },
@@ -527,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Vivo En Los Angeles",
+      "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -543,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
@@ -552,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Vivo En Los Angeles",
-      "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
       "added_at": null,
@@ -575,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
       "artists": [
         {
@@ -584,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 135005,
-      "name": "De Texas A California",
-      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
+      "duration_ms": 110682,
+      "name": "Los 3 Del NM",
+      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
     },
     {
       "added_at": null,
@@ -607,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
@@ -616,25 +636,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 110682,
-      "name": "Los 3 Del NM",
-      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+      "duration_ms": 135005,
+      "name": "De Texas A California",
+      "url": "https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6"
     },
     {
       "added_at": null,
@@ -655,6 +659,22 @@
       "duration_ms": 189248,
       "name": "Power",
       "url": "https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
       "added_at": null,
@@ -783,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classroom Love",
-        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 256641,
-      "name": "Classroom Love",
-      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fracasado",
         "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
       },
@@ -811,6 +815,22 @@
       "duration_ms": 165035,
       "name": "El Fracasado",
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classroom Love",
+        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 256641,
+      "name": "Classroom Love",
+      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
       "added_at": null,
@@ -879,22 +899,6 @@
       "duration_ms": 177280,
       "name": "18 Libras (En Vivo)",
       "url": "https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blanca Nieves",
-        "url": "https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 257531,
-      "name": "Blanca Nieves",
-      "url": "https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK"
     }
   ],
   "unique_name": "This Is Los Hijos De Garcia",

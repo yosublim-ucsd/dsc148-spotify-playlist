@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 1 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 2 | [Secluded](https://open.spotify.com/track/5Q8YhYqr8sZEeSwkpmUJM4) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Secluded](https://open.spotify.com/album/2mgt7cCwdRP6irlgmHWtT0) | 2:22 |
 | 3 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
 | 4 | [OKLOSER](https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:49 |

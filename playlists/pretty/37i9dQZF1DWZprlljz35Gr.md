@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,569 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,573 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 44 | [Sure Thing](https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:20 |
 | 45 | [Swamp Thang](https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G) | 2:47 |
 | 46 | [Hard Times](https://open.spotify.com/track/59BxFbIj5255ABXtdIJq66) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Stone Cold Ohio](https://open.spotify.com/album/4S7HXl3wcX5K2QBgjj79ci) | 4:21 |
-| 47 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 |
+| 47 | [John the Revelator](https://open.spotify.com/track/5SZFOK8XMVoY7mvSfTpegS) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:41 |
 | 48 | [Chains](https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 3:41 |
 | 49 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
 | 50 | [Can't Help Myself \(E\-Z Rollers Remix\)](https://open.spotify.com/track/5lOcXs6XIrowQiJV9lNrRw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 12:18 |

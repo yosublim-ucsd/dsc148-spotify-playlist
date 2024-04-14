@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 207844,
+  "2024-04-14": 207838,
   "date_first_scraped": "2022-05-12",
-  "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Doja Cat",
+  "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: J. Cole",
   "name": "Rap Internazionale",
   "tracks": [
     {
@@ -12021,7 +12021,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 122790,
       "name": "Understand",
       "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
@@ -12355,6 +12355,28 @@
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {

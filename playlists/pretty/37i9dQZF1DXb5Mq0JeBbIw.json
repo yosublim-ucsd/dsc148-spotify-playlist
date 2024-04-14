@@ -1,6 +1,6 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9545,
+  "num_followers": 9576,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
-    },
-    {
       "added_at": "2023-11-08 15:46:49",
       "album": {
         "name": "A Few More Hours at YYZ",
@@ -251,6 +235,22 @@
       "duration_ms": 172202,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -301,6 +301,26 @@
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
     },
     {
+      "added_at": "2023-10-10 12:23:51",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Good Riddance (Deluxe)",
@@ -333,24 +353,20 @@
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
     },
     {
-      "added_at": "2023-10-10 12:23:51",
+      "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
-    },
-    {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -431,6 +415,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "#Covers",
@@ -551,6 +535,22 @@
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
-    },
-    {
       "added_at": "2023-12-21 14:00:26",
       "album": {
         "name": "Anti-Hero",
@@ -763,6 +747,22 @@
       "duration_ms": 199252,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "This Is What It Takes",
-      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 154560,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "This Is What It Takes",
+      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Leap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 199375,
       "name": "One Life - Acoustic",
       "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1547,38 +1547,6 @@
       "duration_ms": 183466,
       "name": "I'm Sure He Loves You",
       "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1667,6 +1635,38 @@
       "duration_ms": 222473,
       "name": "Fine On Your Own",
       "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Dancing (Mumbai Wedding)",
+        "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "duration_ms": 217763,
+      "name": "Dancing (Mumbai Wedding) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
     }
   ],
   "unique_name": "Soft Morning",

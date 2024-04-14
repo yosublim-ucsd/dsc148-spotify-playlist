@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,683 likes - 69 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,953 likes - 69 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 26 | [Shoulders](https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 3:26 |
 | 27 | [No One Is Ever Going to Want Me](https://open.spotify.com/track/4McullpiOd45TwEHlOISgs) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 8:06 |
 | 28 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 29 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
+| 29 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
 | 30 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
-| 31 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
+| 31 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 32 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 33 | [The Eternal \- 2007 Remaster](https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 6:04 |
 | 34 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 53 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
 | 54 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 55 | [For Horror Eats The Light](https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G) | [Fvnerals](https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu) | [Let the Earth be Silent](https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez) | 7:32 |
-| 56 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
-| 57 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
-| 58 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
-| 59 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 |
+| 56 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 57 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
+| 58 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 |
+| 59 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 60 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
 | 61 | [haunted \(florence slowed version\)](https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted \(remixes\)](https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX) | 2:33 |
 | 62 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |

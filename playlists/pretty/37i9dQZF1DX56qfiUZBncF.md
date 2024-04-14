@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,454 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,463 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 68 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
 | 69 | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 3:05 |
 | 70 | [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 |
-| 71 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
-| 72 | [A Million Doubts](https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn) | 3:39 |
-| 73 | [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 |
+| 71 | [A Million Doubts](https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn) | 3:39 |
+| 72 | [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 |
+| 73 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 74 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 75 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 76 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 79 | [Four Winds](https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Beverly Blues](https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y) | 3:43 |
 | 80 | [Fallss](https://open.spotify.com/track/4dnCJWVYhPfeNefWrIlYaX) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/3HRkXiL4cUfZCV7AGp01Vr) | 4:00 |
 | 81 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
-| 82 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
-| 83 | [Trouble to Share](https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [That Was Now](https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D) | 4:00 |
+| 82 | [Trouble to Share](https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [That Was Now](https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D) | 4:00 |
+| 83 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 84 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
 | 85 | [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 |
 | 86 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
 | 87 | [Wishful Thinking](https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Wishful Thinking](https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO) | 3:20 |
 | 88 | [Together](https://open.spotify.com/track/7mEowvi9llcvmL3tLqmhAy) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/6IDIZB9Fp1Sl94IsYw0q2J) | 3:44 |
-| 89 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
-| 90 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
+| 89 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
+| 90 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
 | 91 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
 | 92 | [Tunnels and Planes](https://open.spotify.com/track/2ymKOhF3LMfqJSeMox9Y5g) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Tunnels & Planes](https://open.spotify.com/album/2FJbfnxj4NgTOkF6O4EI9I) | 4:11 |
 | 93 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 97 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
 | 98 | [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 |
 | 99 | [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 |
-| 100 | [Greener](https://open.spotify.com/track/4qu0lhULYMZgDcgVL00Jk0) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Greener](https://open.spotify.com/album/5B6Ueggpe856IOUWSuVAPW) | 3:54 |
+| 100 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
 
 Snapshot ID: `MTcxMjA4MzMyNywwMDAwMDAwMGYyZjQwNGU4YmRjMWRiOWQ3OGUyNTc4NWVmMzY2NDMx`

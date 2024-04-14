@@ -4,7 +4,7 @@
 
 > The hottest tracks with the freshest hits! Cover: Artemas
 
-182 songs - 9 hr 52 min
+183 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-06-15 | 2023-08-11 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-06-15 | 2023-08-26 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-06-15 | 2024-02-16 |
-| [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 | 2024-03-02 |  |
+| [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 | 2024-03-02 | 2024-04-14 |
+| [leavemealone](https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 3:42 | 2024-04-04 |  |
 | [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2023-12-14 | 2024-03-06 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-03-14 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-28 |  |

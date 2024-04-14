@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,488 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,496 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
 | 50 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGY1NmI5YTY3NmUyY2ZlMTIxZTg5NWJkYmMxMzNjNWM5`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGJmZjQ0OTY4M2E5ZTFjMWFjNGE5NzI0NWEwNmJhZDQy`

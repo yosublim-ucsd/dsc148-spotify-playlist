@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,139 likes - 117 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,230 likes - 117 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 6 | [Näktergal](https://open.spotify.com/track/6vkoAWNPTyAcaOUASnjsaC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Näktergal](https://open.spotify.com/album/5wKEC1wo0s1QGGcpYx90tT) | 2:27 |
 | 7 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 8 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 9 | [Drömfångare](https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Drömfångare](https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl) | 3:15 |
+| 9 | [DRÖMFÅNGARE](https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Drömfångare](https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl) | 3:15 |
 | 10 | [I Forgive You](https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI) | 4:19 |
 | 11 | [BUNTAR O SÅNT](https://open.spotify.com/track/7K913njLEzfHogveu07iLG) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [BUNTAR O SÅNT](https://open.spotify.com/album/3OWycub2YQD9ZH3v60VEEC) | 2:26 |
 | 12 | [BerwynGesaffNeighbours](https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 2:03 |
 | 13 | [Änglarna](https://open.spotify.com/track/0xUeyIh91eXen93qlxTXuZ) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Änglarna](https://open.spotify.com/album/22WjHnG6lEfESnUUUOzVhQ) | 2:39 |
 | 14 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 15 | [Afterlife](https://open.spotify.com/track/3FJ2N1HOV1vudeqqSoRUyc) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Afterlife](https://open.spotify.com/album/5eTIhDvr6rUIY93qxA7wVu) | 3:37 |
-| 16 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 16 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 17 | [Afterglow](https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Ghost Code](https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT) | 3:38 |
 | 18 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 19 | [Madame Monroe](https://open.spotify.com/track/1chwGzlvIOU6Vcs2sM34yL) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Madame Monroe](https://open.spotify.com/album/5DCYOasytPRcMArmRrBw96) | 3:02 |

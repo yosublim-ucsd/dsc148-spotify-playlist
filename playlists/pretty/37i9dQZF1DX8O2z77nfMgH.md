@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Arcángel y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,808 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,843 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 3 | [Mil Palabras](https://open.spotify.com/track/1K1dMtO3LT8kHFLuXxT3ST) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mil Palabras](https://open.spotify.com/album/1S6Ov2XL6a6diQs0MONDx5) | 3:48 |
 | 4 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 5 | [Por Ti Conocí el Amor](https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Por Ti Conocí el Amor](https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN) | 3:09 |
-| 6 | [En todas partes](https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN) | [ONIKX](https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En Todas Partes](https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA) | 3:42 |
+| 6 | [En Todas Partes](https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN) | [ONIKX](https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En Todas Partes](https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA) | 3:42 |
 | 7 | [Una Noche](https://open.spotify.com/track/0PByhmyCwq9MCyc0MRJ0IV) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Una Noche](https://open.spotify.com/album/2mu4vhFe6W6WQU1wnw2RLc) | 3:14 |
 | 8 | [A POKA LUZ](https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [A POKA LUZ](https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi) | 2:24 |
 | 9 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |

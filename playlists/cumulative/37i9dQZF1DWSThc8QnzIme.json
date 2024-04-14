@@ -2825,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
+    },
+    {
+      "album": {
         "name": "Forget Me",
         "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
       },
@@ -6764,7 +6782,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 210893,
       "name": "Small Town Scandal",
       "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
@@ -7575,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "album": {
         "name": "The Loneliest Time (feat. Rufus Wainwright)",
         "url": "https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD"
       },
@@ -7656,7 +7692,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 191207,
       "name": "The Show (with John Legend)",
       "url": "https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz"

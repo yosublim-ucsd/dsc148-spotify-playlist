@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1041547,
+  "2024-04-14": 1041719,
   "date_first_scraped": "2021-12-28",
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
   "name": "100 Latin Classics",
@@ -2190,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"

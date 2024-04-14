@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 261057,
+  "2024-04-14": 261046,
   "date_first_scraped": "2021-12-21",
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
   "name": "Hollywood's Big Night",
@@ -1890,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Junky Star",
+        "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "The Weary Kind",
+      "url": "https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C"
+    },
+    {
+      "album": {
         "name": "Crazy Heart: Original Motion Picture Soundtrack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz"
       },
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 258200,
       "name": "The Weary Kind (Theme from Crazy Heart)",
       "url": "https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi"

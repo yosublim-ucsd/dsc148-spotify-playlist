@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Make Them Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,591 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,673 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 34 | [Ascension \(feat\. Dean Lamb & Archspire\)](https://open.spotify.com/track/2gcvWzmnq5XQ77tq3nM1vR) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Dean Lamb](https://open.spotify.com/artist/66vItaMurRf8DAIhq8benR), [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Ascension \(feat\. Dean Lamb & Archspire\)](https://open.spotify.com/album/2vuGyt8Rxt0jgYASTGkmC2) | 4:35 |
 | 35 | [Malicious](https://open.spotify.com/track/5yhmghjEs74yQxZ3N6eBY1) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Malicious](https://open.spotify.com/album/24MXJyuAm2qReBAnCQMqWb) | 2:56 |
 | 36 | [Fistful Of Hornets](https://open.spotify.com/track/6XyB7AnLpgZaQYea4vRPdC) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Eviscerate](https://open.spotify.com/album/3kHbS4bxYGpxAn3a2bnGsB) | 2:34 |
-| 37 | [Spiral](https://open.spotify.com/track/3PBT0Bj3jgcQDZveWsD7FA) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Spiral](https://open.spotify.com/album/5GQYYX1ZNm0JlYKc0MX7pE) | 2:56 |
+| 37 | [Spiral](https://open.spotify.com/track/3PBT0Bj3jgcQDZveWsD7FA) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Spiral](https://open.spotify.com/album/5GQYYX1ZNm0JlYKc0MX7pE) | 2:56 |
 | 38 | [Row](https://open.spotify.com/track/09eKz6ylndM13SzSb86gpS) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [Battle Ballads](https://open.spotify.com/album/5WzRHf08RmLiHQLoqBhPwY) | 3:49 |
 | 39 | [Black Dawn Affiliation](https://open.spotify.com/track/4RusS1QUt1VsI2Qas8IJHw) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Black Dawn Affiliation](https://open.spotify.com/album/6sukIJW5WDeUbsweXUnF5D) | 6:11 |
 | 40 | [Achtung Mensch!](https://open.spotify.com/track/3TsrGpmyRcuPPhGoZEwrEG) | [Tanzwut](https://open.spotify.com/artist/1lnAE48Ht3fnUDrcnx2nTM) | [Achtung Mensch!](https://open.spotify.com/album/2pim7KUszF44pVC6FztvMY) | 3:52 |

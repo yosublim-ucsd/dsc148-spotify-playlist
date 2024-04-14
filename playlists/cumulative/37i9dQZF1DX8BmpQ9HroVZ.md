@@ -2,7 +2,7 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- Aashir Wajahat
+> The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan
 
 316 songs - 18 hr 38 min
 

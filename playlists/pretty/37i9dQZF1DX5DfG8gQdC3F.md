@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Metro Boomin & Future, Dua Lipa, Baby Rose & BADBADNOTGOOD, Caribou and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,442 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,607 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 1 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 2 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 3 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 4 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 12 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 13 | [PESO COMPLETO](https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PESO COMPLETO](https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ) | 3:13 |
 | 14 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 |
-| 15 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
+| 15 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 16 | [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 |
 | 17 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 |
 | 18 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 |

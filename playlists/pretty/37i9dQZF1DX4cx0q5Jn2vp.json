@@ -1,6 +1,6 @@
 {
   "description": "yiheeeeeeee",
-  "num_followers": 782330,
+  "num_followers": 782388,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-02-27 02:56:14",
       "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 198001,
+      "name": "Fresh Eyes",
+      "url": "https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T"
+    },
+    {
+      "added_at": "2024-02-27 02:56:14",
+      "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
-    },
-    {
-      "added_at": "2024-02-27 02:56:14",
-      "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     }
   ],
   "unique_name": "Kilig Pa More",

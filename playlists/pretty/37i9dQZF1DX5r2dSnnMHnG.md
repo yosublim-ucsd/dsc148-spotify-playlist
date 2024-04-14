@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,568 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,591 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 37 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
 | 38 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 39 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
-| 40 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 |
-| 41 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 40 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 41 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 |
 | 42 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 43 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 44 | [헤어지기 싫어](https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [re:](https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE) | 3:46 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 56 | [Stay](https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ) | 2:41 |
 | 57 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 | 58 | [Can you tell me \(feat\. kumira\)](https://open.spotify.com/track/5gwBlRCSiyHjYrK58uZ0TM) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Can you tell me](https://open.spotify.com/album/1Cy5xPw2iNxTetuYsmsYw3) | 3:28 |
-| 59 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
-| 60 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
+| 59 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
+| 60 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
 | 61 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
 | 62 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 63 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 |

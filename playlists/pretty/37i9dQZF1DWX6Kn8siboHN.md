@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,132 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,758 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 56 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 57 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:32 |
 | 58 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
-| 59 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
+| 59 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
 | 60 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
-| 61 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
+| 61 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
 | 62 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 63 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:18 |
 | 64 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |

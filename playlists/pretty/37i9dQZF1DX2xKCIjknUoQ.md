@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Skip The Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,932 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,973 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 45 | [Sur un volcan](https://open.spotify.com/track/5w8bF2RGgf9PkXEoEl8SSN) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze) | [Beauté pour tous](https://open.spotify.com/album/5Aqi0GvOzJuVGjiqQqorlH) | 3:05 |
 | 46 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 47 | [L'iditenté](https://open.spotify.com/track/6mZO5vMvCTBQ9JyBx5D5gH) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Gratte Poil](https://open.spotify.com/album/2utInP6jbz1gVaTm8Djozo) | 4:27 |
-| 48 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
-| 49 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 |
+| 48 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 |
+| 49 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 50 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 
 Snapshot ID: `MTY4NjkxOTI4MywwMDAwMDAwMDM5YmUzYWE3YzRiNTY3OGM3OWY2NTc5ZmZjMjgxNzg2`

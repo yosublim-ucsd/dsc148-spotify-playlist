@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Morgan Wade
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,331 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,339 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 89 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
 | 90 | [The Girl I Was](https://open.spotify.com/track/7gtrZllO63cTGVeFsy8da0) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/2T16hAVVFc1j9YzSjaBdcs) | 3:38 |
 | 91 | [Back Then, Right Now](https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:02 |
-| 92 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
-| 93 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
+| 92 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
+| 93 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
 | 94 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
 | 95 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
 | 96 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,660 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,777 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 23 | [WHY?](https://open.spotify.com/track/2NeJBfbWgs19WiBXAUPpBq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [WHY?](https://open.spotify.com/album/5mZvfyIv3rZ3ZCah58u6k2) | 3:48 |
 | 24 | [Will](https://open.spotify.com/track/27ld38UdmopEXofm96uAqt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will](https://open.spotify.com/album/5hr8FCRbxJYqhFVFP0I1wU) | 3:11 |
 | 25 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 26 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 26 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 27 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 28 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
 | 29 | [Team Tomodachi \- Tokai Remix](https://open.spotify.com/track/1JMN2uoAK1XVe1ZveJxIFo) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [Team Tomodachi \(Tokai Remix\)](https://open.spotify.com/album/5Xk6LCAzqYQY4WMyv4bfv9) | 2:45 |

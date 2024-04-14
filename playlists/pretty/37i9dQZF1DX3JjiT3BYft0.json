@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68819,
+  "num_followers": 68867,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
@@ -763,54 +763,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "BanG Dream! Dreamer's Best",
-        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30a4\u30e4",
-          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
-        },
-        {
-          "name": "\u7d17\u591c",
-          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
-        },
-        {
-          "name": "\u6c99\u7dbe",
-          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
-        },
-        {
-          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
-          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
-        },
-        {
-          "name": "\u7460\u552f",
-          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
-        }
-      ],
-      "duration_ms": 262902,
-      "name": "CATASTROPHE BANQUET",
-      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Butter-Fly",
-      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
       },
@@ -839,6 +791,54 @@
       "duration_ms": 238835,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Butter-Fly",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "BanG Dream! Dreamer's Best",
+        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30a4\u30e4",
+          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
+        },
+        {
+          "name": "\u7d17\u591c",
+          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
+        },
+        {
+          "name": "\u6c99\u7dbe",
+          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
+        },
+        {
+          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
+          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
+        },
+        {
+          "name": "\u7460\u552f",
+          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
+        }
+      ],
+      "duration_ms": 262902,
+      "name": "CATASTROPHE BANQUET",
+      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
     },
     {
       "added_at": "2024-03-23 16:15:14",

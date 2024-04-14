@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,621 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,749 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 34 | [2 Die 4](https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:05 |
 | 35 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
 | 36 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
-| 37 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
-| 38 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 37 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 38 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 39 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 |
 | 40 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 41 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,515 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,617 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 97 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
 | 98 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 |
 | 99 | [One Hell Of An Amen](https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
-| 100 | [Buy Me a Boat](https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a) | 2:59 |
+| 100 | [A Little Dive Bar in Dahlonega](https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:29 |
 
 Snapshot ID: `MTcxMTA4MDA2MCwwMDAwMDAwMGRmZjAwMTM0MTdmNWJiN2I4YzJlM2ZhYTk3YTc0OWQw`

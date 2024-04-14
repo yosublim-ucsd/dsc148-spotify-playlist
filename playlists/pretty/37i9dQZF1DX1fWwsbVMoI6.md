@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,085 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,125 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 24 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 25 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
 | 26 | [El Embrujo](https://open.spotify.com/track/66Y7UyvE5aEgiPl9dDZScz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Amigo y Algo Más](https://open.spotify.com/album/5p1NbnRWWNSZlpyYh1xJEC) | 4:00 |
-| 27 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
-| 28 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 27 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 28 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 29 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
 | 30 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 31 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 35 | [Me Vas a Extrañar](https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj) | 3:53 |
 | 36 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
 | 37 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
-| 38 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
-| 39 | [No Te Creas Tan Importante](https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ) | 4:06 |
-| 40 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
-| 41 | [Pensando En Ti](https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm) | 3:33 |
+| 38 | [Pensando En Ti](https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm) | 3:33 |
+| 39 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
+| 40 | [No Te Creas Tan Importante](https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ) | 4:06 |
+| 41 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 42 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 43 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
 | 44 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 |

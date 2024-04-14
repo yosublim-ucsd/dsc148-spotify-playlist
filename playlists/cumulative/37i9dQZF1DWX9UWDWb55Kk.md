@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-448 songs - 1 day 4 hr 19 min
+449 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [CNTRL US](https://open.spotify.com/track/6EkChOeB6ExGbNCTSaiKuO) | [FATA BOOM](https://open.spotify.com/artist/4GioeqLGgBkn9rRB12bor4) | [BOA](https://open.spotify.com/album/66d3YQ2FsyDW1oUTpoEe0Z) | 3:17 | 2022-11-24 |  |
 | [Coast](https://open.spotify.com/track/2Qu6r7pe1AtiF3odoVqeSM) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Coast / Sourire](https://open.spotify.com/album/2SnmC5gl0h5jjP1TzzVp09) | 3:43 | 2022-04-08 |  |
 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 | 2023-10-21 |  |
-| [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 | 2022-11-24 |  |
+| [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 | 2022-11-24 | 2024-04-14 |
+| [Como un Dragón](https://open.spotify.com/track/6ZFd535tXhQH3u9H0nicJh) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/5Oefg2jL0u2ivQMIw02bY9) | 2:50 | 2022-11-24 |  |
 | [Con las Ganas \- Versión 2019](https://open.spotify.com/track/7hjmfE20C1nXRUN4QnLCPX) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Con las Ganas \(Versión 2019\)](https://open.spotify.com/album/0RjNLaSK4cKSDqlgEuFRxa) | 4:48 | 2021-09-01 |  |
 | [Con Nada Se Puede Ser Feliz](https://open.spotify.com/track/0o2tlq7GtQhkRWbwgepKyE) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Las Canciones de Concha Velasco](https://open.spotify.com/album/7oGw02Uoie6RUmGBgpEoVY) | 2:43 | 2021-09-01 | 2023-03-26 |
 | [Con Nada Se Puede Ser Feliz](https://open.spotify.com/track/2tOREYzU1DMVGw8fzdYK6D) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Las Canciones de Conchita Velasco](https://open.spotify.com/album/0YBnnneqK6X3BCp7akibIq) | 2:43 | 2021-09-01 | 2023-05-10 |

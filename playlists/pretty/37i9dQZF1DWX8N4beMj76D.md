@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,623 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,628 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 26 | [I Can't Forget](https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:41 |
 | 27 | [Heart With No Companion](https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Ron Sexsmith](https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg) | 3:09 |
 | 28 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 |
-| 29 | [Hey, That's No Way to Say Goodbye \(with Chilly Gonzales on Piano\) \- Piano by Chilly Gonzales in Paris](https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Is Your Love Big Enough? \(Deluxe Edition\)](https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9) | 3:03 |
+| 29 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 |
 | 30 | [Always](https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 8:02 |
-| 31 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 |
+| 31 | [Hey, That's No Way to Say Goodbye \(with Chilly Gonzales on Piano\) \- Piano by Chilly Gonzales in Paris](https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Is Your Love Big Enough? \(Deluxe Edition\)](https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9) | 3:03 |
 | 32 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
 | 33 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 |
 | 34 | [Ballad of a Runaway Horse](https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cowgirl's Prayer](https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC) | 5:35 |

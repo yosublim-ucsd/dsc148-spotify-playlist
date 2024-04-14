@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-222 songs - 16 hr 34 min
+223 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Points Back to U](https://open.spotify.com/track/3joGqdbtiWS0wZ9u8H34YM) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Parallels](https://open.spotify.com/album/3ud7LPjrdJbvVk3Ray5du5) | 4:14 | 2021-03-18 | 2021-05-27 |
 | [Alone With You](https://open.spotify.com/track/5GC28e7y4jS89A9qrmWi5s) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/3cFONFMdjoCx5ybY1RJKha) | 4:36 | 2020-06-05\* | 2022-07-28 |
 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2020-06-05\* | 2022-07-28 |
-| [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 | 2020-06-05\* | 2024-03-29 |
+| [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 | 2020-06-05\* |  |
 | [An Unbreakable Bond](https://open.spotify.com/track/5QA3FHgb0YsAmoAtdYwdcn) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Orphan](https://open.spotify.com/album/6zyJ4bDJJHTvZcpowfkGR3) | 4:38 | 2020-06-12 | 2021-10-12 |
 | [Anatolian Heartland](https://open.spotify.com/track/4ZwLq23Rnb7jDzqYP7yqp4) | [Sir Hiss](https://open.spotify.com/artist/5eUlRqUYUY2rsuw7ZWTXTK) | [Keygen EP](https://open.spotify.com/album/14whLR5DFGO3KwfBkZ89kY) | 4:20 | 2020-09-02 | 2022-06-09 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2020-06-05\* | 2022-07-28 |
@@ -69,7 +69,7 @@
 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 | 2021-01-05 | 2022-07-29 |
 | [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 | 2024-03-01 |  |
 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
-| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-29 |  |
+| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-29 | 2024-04-14 |
 | [Frigid Air](https://open.spotify.com/track/754YgIwGwsonpyiVDFIo48) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Heaven Is For Quitters](https://open.spotify.com/album/4I5OHee32g1CGLab00RLEH) | 4:41 | 2021-04-21 | 2022-06-01 |
 | [Front Screen Projection](https://open.spotify.com/track/4AU1G2o8SL0znM8VQVWcMU) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Offworld](https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L) | 4:33 | 2021-02-04 | 2022-06-24 |
 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 | 2020-06-05\* | 2022-07-29 |
@@ -174,8 +174,9 @@
 | [S teboi](https://open.spotify.com/track/2kAOCGCbaBF6bXMkTcBFKk) | [zalagasper](https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO) | [4](https://open.spotify.com/album/0srDYj2Gl5QpfT5MQX9AmG) | 3:24 | 2020-06-12 | 2021-01-15 |
 | [Say Something](https://open.spotify.com/track/1QtOnUVFzMD7g4E9tjofTw) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Kingdoms](https://open.spotify.com/album/073y7G58ZFRONbJJSYiwwC) | 3:56 | 2021-03-20 | 2021-10-16 |
 | [Sea \- Young Marco Remix](https://open.spotify.com/track/2LuPVa3HeAMBycOFhwI1KM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Remixed 1](https://open.spotify.com/album/3a9Uyb3QAQTpNUjx2Q2M05) | 5:42 | 2021-03-18 | 2022-07-14 |
-| [Shapeless](https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX) | 4:34 | 2022-11-25 |  |
+| [Shapeless](https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX) | 4:34 | 2022-11-25 | 2024-04-14 |
 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 | 2022-05-30 | 2023-03-09 |
+| [Shapeless](https://open.spotify.com/track/6K33NwGklMpJcuGJV4x2QP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/1OlUD0LH7yiFLfDiSatt8l) | 4:34 | 2024-02-01 |  |
 | [She Only Counts to Eight](https://open.spotify.com/track/027LxcmuIVTqt5E2xIhRgS) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha) | [She Only Counts to Eight](https://open.spotify.com/album/7pA9wbkZj1mesnOyqNVX1N) | 6:03 | 2020-06-06 | 2021-11-26 |
 | [Silence](https://open.spotify.com/track/4Jc2zZ9S41O4UD6hLFob87) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [OTHERLiiNE](https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj) | 4:34 | 2020-06-05\* | 2022-07-06 |
 | [Simple Dreams of Simple Days](https://open.spotify.com/track/6xtonRve2UXZnrFC0dcVAu) | [Mike Slott](https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo) | [Simple Dreams Of Simple Days](https://open.spotify.com/album/0WDfCykL9v3Cv4oOJ8FBMX) | 2:47 | 2020-06-05\* | 2022-07-28 |

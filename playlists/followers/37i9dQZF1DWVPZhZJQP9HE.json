@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 66646,
+  "2024-04-14": 66695,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
   "name": "Tamil Indie",
@@ -9439,10 +9439,40 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
+    },
+    {
+      "album": {
+        "name": "Thamarai Poovilum",
+        "url": "https://open.spotify.com/album/24HbIZCOVx6QnUVK5m3brj"
+      },
+      "artists": [
+        {
+          "name": "Ram Muthiah",
+          "url": "https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa"
+        },
+        {
+          "name": "Sai Madhukar",
+          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
+        },
+        {
+          "name": "Thavakkumar L",
+          "url": "https://open.spotify.com/artist/0BaOOBuR8vFl0buwwOmiLq"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330731,
+      "name": "Thamarai Poovilum",
+      "url": "https://open.spotify.com/track/5KDOstMGWmTNnpJeGnEBcV"
     },
     {
       "album": {

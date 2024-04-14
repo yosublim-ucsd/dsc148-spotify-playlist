@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 290829,
+  "2024-04-14": 290819,
   "date_first_scraped": "2022-05-27",
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
   "name": "brisa",
@@ -103,6 +103,24 @@
       "duration_ms": 192644,
       "name": "A Noite Toda",
       "url": "https://open.spotify.com/track/0bjMyBjIg4uEc3zTetGva8"
+    },
+    {
+      "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "album": {
@@ -323,7 +341,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 136800,
       "name": "Amor Livre - Ao Vivo",
       "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
@@ -2416,6 +2434,32 @@
     },
     {
       "album": {
+        "name": "ESPANHA",
+        "url": "https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "DH",
+          "url": "https://open.spotify.com/artist/3RfmWFWahUOknifSXyWMGm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "ESPANHA",
+      "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
+    },
+    {
+      "album": {
         "name": "espelho",
         "url": "https://open.spotify.com/album/2pnyK2SIEd3MWksx7pDdaW"
       },
@@ -2581,7 +2625,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 193728,
       "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
@@ -2897,7 +2941,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 132880,
       "name": "fase",
       "url": "https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N"
@@ -4136,6 +4180,24 @@
     },
     {
       "album": {
+        "name": "ar",
+        "url": "https://open.spotify.com/album/4eQYPIeLhpFL1CVfHoYJVG"
+      },
+      "artists": [
+        {
+          "name": "ALV",
+          "url": "https://open.spotify.com/artist/4YmwzlFlJp7BgIHQ5PU7jU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221501,
+      "name": "Manh\u00e3zinha",
+      "url": "https://open.spotify.com/track/12V3vic05JMryErPldrm1j"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -4269,7 +4331,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 175208,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
@@ -5003,7 +5065,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159666,
       "name": "n\u00e3o d\u00e1 certo",
       "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
@@ -5205,7 +5267,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 127452,
       "name": "O Que a Levada Pede",
       "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
@@ -5561,7 +5623,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204131,
       "name": "Oxossi",
       "url": "https://open.spotify.com/track/4YqPRJQN7eutRyyEYNBftJ"
@@ -8013,7 +8075,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191600,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb"
@@ -8253,7 +8315,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177586,
       "name": "Tudo \u00e9 Carnaval",
       "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"

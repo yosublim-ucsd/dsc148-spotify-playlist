@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,391 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,505 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 54 | [Buried a Lie](https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:59 |
 | 55 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 56 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/53AwkyeKxTEj7sYaaOQbsd) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1jVppF8Y8tpYfDSG1WSXga) | 4:48 |
-| 57 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 57 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 58 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
-| 59 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
+| 59 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 60 | [The Past Should Stay Dead](https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Relativity](https://open.spotify.com/album/3XHoQliF0J7p6q6taBVvc6) | 4:33 |
 | 61 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
 | 62 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
-| 63 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
-| 64 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
+| 63 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
+| 64 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
 | 65 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
 | 66 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 67 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |

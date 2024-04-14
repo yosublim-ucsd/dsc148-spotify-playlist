@@ -1,13 +1,29 @@
 {
-  "description": "Dope, Asian, and Femme. Cover: XG",
-  "num_followers": 85334,
+  "description": "Dope, Asian, and Femme. Cover: Lilas Ikuta of Yoasobi",
+  "num_followers": 85341,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGRiZDQ2OTI5MDk5ODIwOTAyNDgyOTFiY2E0ZDBmZDE3",
+  "snapshot_id": "MTcxMjk4NDYwNSwwMDAwMDAwMDE5M2Q1ZDg5MjIxMjMzY2IzZTU0ZGMwMTdkZDg3MGVl",
   "tracks": [
+    {
+      "added_at": "2024-04-13 05:03:24",
+      "album": {
+        "name": "Idol",
+        "url": "https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "Idol",
+      "url": "https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE"
+    },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
@@ -47,22 +63,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "DIRT",
         "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
       },
@@ -91,6 +91,22 @@
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "MOONCHILD",
         "url": "https://open.spotify.com/album/312cHRlzeS4VuD1RHzAGIt"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 174002,
       "name": "Living Hell",
       "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 179156,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "universe",
         "url": "https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 179156,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -775,6 +791,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "figured u out",
-      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1339,6 +1355,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "That XX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 289618,
+      "name": "That XX - Spotify Singles",
+      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "What if I jump from a Bridge?",
         "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
       },
@@ -1367,22 +1399,6 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "That XX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 289618,
-      "name": "That XX - Spotify Singles",
-      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "inhibitions (feat. P-Lo)",
         "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 167640,
       "name": "PLAYTHING",
       "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     }
   ],
   "unique_name": "Dope AF",

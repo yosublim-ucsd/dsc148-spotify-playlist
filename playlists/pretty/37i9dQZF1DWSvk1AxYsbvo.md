@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,674 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,691 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 13 | [Sapporo](https://open.spotify.com/track/0x0Ph3JNjxQ4I2qZalZaUQ) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Sapporo](https://open.spotify.com/album/1NmKy8eYwYsSZ9QQ87fjPk) | 3:44 |
 | 14 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
 | 15 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
-| 16 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
-| 17 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
+| 16 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
+| 17 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 18 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 |
 | 19 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 20 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 21 | [Star](https://open.spotify.com/track/0UZHbXhLZAsE71qeHbMlJZ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/7facF0CcVOiN1r8L1FquZg) | 3:20 |
 | 22 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
-| 23 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
-| 24 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 |
-| 25 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
+| 23 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
+| 24 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
+| 25 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 |
 | 26 | [Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
 | 27 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 28 | [Olive](https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL) | 2:09 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 34 | [Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 |
 | 35 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
 | 36 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
-| 37 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
-| 38 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
+| 37 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
+| 38 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 39 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
 | 40 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 41 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 44 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
 | 45 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
 | 46 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
-| 47 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 |
+| 47 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
 | 48 | [Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 |
-| 49 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
-| 50 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
+| 49 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
+| 50 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 |
 
 Snapshot ID: `MTcwOTg3OTY2OSwwMDAwMDAwMDczNmI2MDA5NzY2NjkwODllNjdjNjlkYzdiODMwY2M1`

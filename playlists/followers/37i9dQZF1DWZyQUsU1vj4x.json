@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 150625,
+  "2024-04-14": 150652,
   "date_first_scraped": "2021-12-21",
   "description": "Indie folk ventures into the cinematic West.",
   "name": "Cinematic Indie Folk",
@@ -97,10 +97,32 @@
       ],
       "date_added": "2019-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178920,
       "name": "Beautiful Friend",
       "url": "https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU"
+    },
+    {
+      "album": {
+        "name": "Hurry Home",
+        "url": "https://open.spotify.com/album/4YEcYRJ0rwJeK8MHq7FeP7"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        },
+        {
+          "name": "Dan Cutler",
+          "url": "https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Beautiful Friend",
+      "url": "https://open.spotify.com/track/4zMoHCRJbFidzEVDdlDLHm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,759 likes - 169 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,695 likes - 169 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 117 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 118 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
 | 119 | [Maybe](https://open.spotify.com/track/6wQtyoObNKwlt6M9Zvl202) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Maybe](https://open.spotify.com/album/1dFTN7Y4BMzak07Xlo8CUu) | 3:47 |
-| 120 | [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 |
+| 120 | [QUIET TYPE](https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V) | 2:57 |
 | 121 | [Free](https://open.spotify.com/track/7KfoJkn1lHsaaIROetHaoE) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Luxury Lane](https://open.spotify.com/artist/0cQvwLMjhOYO7OdcHtI1iK) | [Black & Unlimited](https://open.spotify.com/album/6rDL2TKoD4MzyJd7Dn2RFQ) | 2:05 |
 | 122 | [Southside Love](https://open.spotify.com/track/6QSaV1ALfW1U7jigLhexQM) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Southside Love](https://open.spotify.com/album/24Vc0fGwHyDgbne0Dn0v4P) | 2:52 |
 | 123 | [Impromptu](https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Impromptu](https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3) | 3:05 |

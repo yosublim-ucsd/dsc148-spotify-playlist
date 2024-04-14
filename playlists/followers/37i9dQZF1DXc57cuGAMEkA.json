@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 104735,
+  "2024-04-14": 104801,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Rina Sawayama & CHANMINA, XG, OneRepublic, aiko and more! cover: Rina Sawayama & CHANMINA",
   "name": "New Music Friday Japan",
@@ -9797,10 +9797,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222400,
       "name": "Blur",
       "url": "https://open.spotify.com/track/4824CkLytTOtaISGiVan9j"
+    },
+    {
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4Ug1XG0DRgbNfI6wtqPMdd"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/7nQgPEQvN98ZdwKqMRO2Oe"
     },
     {
       "album": {
@@ -36002,6 +36020,24 @@
     },
     {
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
+    },
+    {
+      "album": {
         "name": "I Forgot To Be Your Lover",
         "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
       },
@@ -43989,7 +44025,7 @@
     {
       "album": {
         "name": "Life Is Real",
-        "url": "https://open.spotify.com/album/5O7beRRQ8F0ATpoxPUInID"
+        "url": "https://open.spotify.com/album/3PCKAI0YMN1hf51s6rNHLZ"
       },
       "artists": [
         {
@@ -44004,6 +44040,28 @@
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Life Is Real",
+      "url": "https://open.spotify.com/track/2BBgZRMchBAcCb3MIJTmv9"
+    },
+    {
+      "album": {
+        "name": "Life Is Real",
+        "url": "https://open.spotify.com/album/5O7beRRQ8F0ATpoxPUInID"
+      },
+      "artists": [
+        {
+          "name": "cross-dominance",
+          "url": "https://open.spotify.com/artist/6uCy22wWyFB4Rvc2CRIaSP"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/68jMhrofFRtG0AvauR7u8n"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 174066,
       "name": "Life Is Real",
       "url": "https://open.spotify.com/track/5AhFisCJ9P0X1XO8lMWubv"
@@ -46745,7 +46803,7 @@
     {
       "album": {
         "name": "Made him cry",
-        "url": "https://open.spotify.com/album/5GFe4zpqYQ3UCnH2IvBjnV"
+        "url": "https://open.spotify.com/album/1edNAj94b5QsfldraHrJnb"
       },
       "artists": [
         {
@@ -46756,6 +46814,24 @@
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170086,
+      "name": "Made him cry",
+      "url": "https://open.spotify.com/track/1oCRbUky5RypOeKKAKCRBS"
+    },
+    {
+      "album": {
+        "name": "Made him cry",
+        "url": "https://open.spotify.com/album/5GFe4zpqYQ3UCnH2IvBjnV"
+      },
+      "artists": [
+        {
+          "name": "Aisho Nakajima",
+          "url": "https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 170086,
       "name": "Made him cry",
       "url": "https://open.spotify.com/track/3U5ID8XObI90bi4EIvGQ5Y"
@@ -51190,6 +51266,24 @@
     },
     {
       "album": {
+        "name": "mutual love",
+        "url": "https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260903,
+      "name": "mutual love",
+      "url": "https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -55607,10 +55701,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 273520,
       "name": "Oh Well (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
+    },
+    {
+      "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
     },
     {
       "album": {
@@ -59407,10 +59523,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165244,
       "name": "Phenomeno",
       "url": "https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte"
+    },
+    {
+      "album": {
+        "name": "Phenomeno",
+        "url": "https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165244,
+      "name": "Phenomeno",
+      "url": "https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR"
     },
     {
       "album": {
@@ -80779,7 +80913,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -83923,6 +84057,28 @@
       "duration_ms": 230445,
       "name": "We Still Believe",
       "url": "https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {
@@ -94837,7 +94993,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 260903,
       "name": "\u76f8\u601d\u76f8\u611b",
       "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"

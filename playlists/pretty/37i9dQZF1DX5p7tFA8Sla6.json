@@ -1,6 +1,6 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 56059,
+  "num_followers": 56079,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Musicology",
         "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 264253,
       "name": "Musicology",
       "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -727,22 +727,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
-        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 362733,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "What We Got Together",
         "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 155933,
       "name": "Funk That Junk",
       "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
+        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 362733,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Commodores: The Definitive Collection",
-        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Slippery When Wet",
-      "url": "https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "My Radio Sure Sounds Good To Me",
         "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 227946,
       "name": "Boogie Witcha, Baby",
       "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Commodores: The Definitive Collection",
+        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Slippery When Wet",
+      "url": "https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Birth Day",
-        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
-      },
-      "artists": [
-        {
-          "name": "The New Birth",
-          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
-        }
-      ],
-      "duration_ms": 383746,
-      "name": "I Can Understand It",
-      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Funk Ain't Ova",
         "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 296880,
       "name": "Dance Or Die",
       "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Birth Day",
+        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
+      },
+      "artists": [
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "duration_ms": 383746,
+      "name": "I Can Understand It",
+      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "St. Ann",
-        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
       },
       "artists": [
         {
-          "name": "Brother Theodore",
-          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
         }
       ],
-      "duration_ms": 347237,
-      "name": ".img",
-      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
+      "duration_ms": 233491,
+      "name": "Do It with Soul",
+      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+        "name": "St. Ann",
+        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
       },
       "artists": [
         {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+          "name": "Brother Theodore",
+          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
         }
       ],
-      "duration_ms": 233491,
-      "name": "Do It with Soul",
-      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
+      "duration_ms": 347237,
+      "name": ".img",
+      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1615,22 +1615,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Amplified Experiment",
-        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
+        "name": "Mindblastin'",
+        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },
       "artists": [
         {
-          "name": "The APX",
-          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
-        },
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
+          "name": "The Soul Motivators",
+          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
         }
       ],
-      "duration_ms": 165450,
-      "name": "F.y.g",
-      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+      "duration_ms": 261184,
+      "name": "Mindblastin'",
+      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mindblastin'",
-        "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
+        "name": "Amplified Experiment",
+        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
       "artists": [
         {
-          "name": "The Soul Motivators",
-          "url": "https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU"
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
         }
       ],
-      "duration_ms": 261184,
-      "name": "Mindblastin'",
-      "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+      "duration_ms": 165450,
+      "name": "F.y.g",
+      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
     },
     {
       "added_at": "2019-08-22 14:26:16",

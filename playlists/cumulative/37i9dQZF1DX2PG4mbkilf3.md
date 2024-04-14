@@ -4,7 +4,7 @@
 
 > This is r&b in Canada, elevate your aura with Zeina زينة.
 
-1,004 songs - 2 day 4 hr 59 min
+1,005 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [All I've Got](https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [When The Darkness Fades](https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg) | 4:13 | 2023-10-06 | 2024-03-16 |
 | [All Of Me](https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Where To Find Me](https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn) | 2:25 | 2023-06-23 | 2023-10-21 |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-05 | 2022-12-03 |
-| [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 | 2024-04-12 |  |
+| [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 | 2024-04-12 |  |
 | [All We Know](https://open.spotify.com/track/5SzGv6sv2cz3u0QdAinFTt) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [All We Know](https://open.spotify.com/album/2SiSrK0fzPcRVgKhMedCdp) | 3:28 | 2023-02-24 | 2023-04-29 |
 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 | 2023-04-14 | 2024-02-24 |
 | [Am I Still](https://open.spotify.com/track/7GGEcAZd0xBkffdV3te4K7) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Am I Still](https://open.spotify.com/album/2ZE6bfMY4TYQdxivSWMOEp) | 3:02 | 2024-01-12 | 2024-04-06 |
@@ -705,7 +705,8 @@
 | [Pusha Baby](https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Pusha Baby](https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg) | 2:21 | 2024-02-02 |  |
 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 | 2022-07-22 | 2023-03-04 |
 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 | 2022-06-24 | 2022-12-17 |
-| [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 | 2024-03-15 |  |
+| [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 | 2024-03-15 | 2024-04-14 |
+| [QUIET TYPE](https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V) | 2:57 | 2024-04-12 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-09-23 |
 | [Raids \- A COLORS SHOW](https://open.spotify.com/track/0ontHo5fSr5T1Pc8eoVhw6) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Raids \- A COLORS SHOW](https://open.spotify.com/album/16JhsCkX4XqBIuW9uquCwi) | 2:23 | 2022-05-27 | 2022-06-25 |

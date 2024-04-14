@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 213914,
+  "2024-04-14": 214009,
   "date_first_scraped": "2022-02-17",
   "description": "Delicate digital expressions of the heart.",
   "name": "Electronica Romantica",
@@ -1091,6 +1091,24 @@
       "duration_ms": 170420,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "album": {
@@ -3627,7 +3645,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"

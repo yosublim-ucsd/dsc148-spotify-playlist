@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,247 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,269 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 22 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 23 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 |
 | 24 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
-| 25 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
-| 26 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
+| 25 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
+| 26 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
 | 27 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 28 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
 | 29 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Revolution](https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Revolution](https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx) | 3:03 |
 | 51 | [Plug In…](https://open.spotify.com/track/6gNsIRc9IBhBrpTmlpfYdM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:40 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDRjOGY3NDRhYTI1ZjE3OGFhYzBlMWRlNGExM2I1MmE4`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDg5OWFjNjJkZmYzNTgwNTA4MWQ5N2JjZjMzZmU5NWI0`

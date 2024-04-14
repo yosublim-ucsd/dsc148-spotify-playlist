@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1954341,
+  "num_followers": 1954360,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,22 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -115,22 +119,18 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito (Micro TDH Remix)",
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "Hasta Ese D\u00eda",
         "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203693,
       "name": "Hasta Ese D\u00eda",
       "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "7 Veces",
+      "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
         "name": "Lejos Conmigo",
         "url": "https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 175840,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "7 Veces",
-      "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
     },
     {
       "added_at": "2024-03-28 19:15:17",

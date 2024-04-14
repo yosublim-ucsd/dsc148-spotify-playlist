@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 289921,
+  "2024-04-14": 289952,
   "date_first_scraped": "2022-03-28",
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
   "name": "Indie Covers",
@@ -3109,7 +3109,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 263870,
       "name": "Home",
       "url": "https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC"
@@ -7495,6 +7495,24 @@
       "duration_ms": 184585,
       "name": "What The World Needs Now Is Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/16X5rQpqvBEJkwOswVytkY"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 50836,
+  "2024-04-14": 50875,
   "date_first_scraped": "2022-05-11",
   "description": "A different shade of the blues. Cover: Dan Auerbach",
   "name": "Alt-Blue",
@@ -179,10 +179,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183186,
       "name": "Big Boy",
       "url": "https://open.spotify.com/track/3n8HMjq9XEllt8kyD1JGBy"
+    },
+    {
+      "album": {
+        "name": "Choke Cherry Tree",
+        "url": "https://open.spotify.com/album/6rR7MmMCO9q2G3k1nseAEL"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller Band",
+          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Big Boy",
+      "url": "https://open.spotify.com/track/7sC6MBNZBiOME2HCUKmFXc"
     },
     {
       "album": {
@@ -291,6 +309,24 @@
     {
       "album": {
         "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/6NtWoSCiQ5l08w49f2OmR6"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Bump that Mother",
+      "url": "https://open.spotify.com/track/3P30qDDwK4trc1SnFrDCzX"
+    },
+    {
+      "album": {
+        "name": "Up and Rolling",
         "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
       },
       "artists": [
@@ -301,7 +337,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191933,
       "name": "Bump that Mother",
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"

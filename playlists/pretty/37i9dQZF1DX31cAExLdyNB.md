@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,375 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,379 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 14 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 |
 | 15 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 |
 | 16 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 |
-| 17 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 17 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 |
 | 18 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
-| 19 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 |
+| 19 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 20 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 |
 | 21 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
 | 22 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 23 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
-| 24 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 |
-| 25 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 24 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 25 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 |
 | 26 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 |
 | 27 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
 | 28 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 |

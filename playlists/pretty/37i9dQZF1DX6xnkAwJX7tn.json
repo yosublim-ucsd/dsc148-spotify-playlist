@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Bananarama",
-  "num_followers": 751534,
+  "num_followers": 752569,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
@@ -519,34 +535,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -567,18 +567,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Business As Usual",
@@ -691,6 +675,22 @@
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Chinese Wall (Expanded Edition)",
@@ -1079,6 +1063,22 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 208653,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2337,22 +2337,6 @@
       "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Very Best Of Kool & The Gang (Reissue)",
@@ -2367,6 +2351,22 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2021-01-07 10:31:17",

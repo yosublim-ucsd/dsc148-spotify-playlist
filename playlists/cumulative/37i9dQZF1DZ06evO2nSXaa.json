@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Tate McRae. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is: Tate McRae. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Tate McRae",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 146080,
       "name": "i'm so gone",
       "url": "https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"

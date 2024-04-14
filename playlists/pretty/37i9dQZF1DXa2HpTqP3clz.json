@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132550,
+  "num_followers": 132574,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Follow Me Down",
-        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Mighty Poplar",
         "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Follow Me Down",
+        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -703,18 +699,70 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -743,70 +791,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "The IPA Song",
         "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174381,
       "name": "The IPA Song",
       "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -895,30 +895,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 255369,
-      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-      "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Mighty Poplar",
         "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 229383,
       "name": "Grey Eagle",
       "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "My Bluegrass Heart",
+        "url": "https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 255369,
+      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+      "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 300676,
-      "name": "Orphan Annie",
-      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1431,6 +1431,38 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
+        "name": "Authentic Unlimited",
+        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "duration_ms": 217453,
+      "name": "Arkansas Bound",
+      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
         "name": "3+ (EP)",
         "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
       },
@@ -1459,22 +1491,6 @@
       "duration_ms": 171520,
       "name": "Born To Be With You",
       "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Authentic Unlimited",
-        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1511,22 +1527,6 @@
       "duration_ms": 230032,
       "name": "Blue Smoke",
       "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
-      },
-      "artists": [
-        {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "Arkansas Bound",
-      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Morning Shift",
         "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1651,6 +1635,38 @@
       "duration_ms": 292267,
       "name": "From My Mountain (Calling You)",
       "url": "https://open.spotify.com/track/0NK6iXMfQTJZr82z4zKiOm"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Lonesome State Of Mind",
+        "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "duration_ms": 144536,
+      "name": "Lonesome State Of Mind",
+      "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1687,22 +1703,6 @@
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Lonesome State Of Mind",
-        "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
-      },
-      "artists": [
-        {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
-        }
-      ],
-      "duration_ms": 144536,
-      "name": "Lonesome State Of Mind",
-      "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
     },
     {
       "added_at": "2024-04-06 18:50:25",

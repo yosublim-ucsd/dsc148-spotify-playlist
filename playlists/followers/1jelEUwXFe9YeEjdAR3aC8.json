@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 105957,
+  "2024-04-14": 105954,
   "date_first_scraped": "2022-06-10",
   "description": "Just chill the F*** out to our mix of relaxing hits. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href=\"https://lnk.to/EndOfYearSaleOS\">All these hits available to buy on vinyl here!</a> Chill Pop | Relaxing Pop | Chill Vibes | Lazy Sundays | Chilled Mix",
   "name": "Chill the F*** out",
@@ -3120,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Everyday Sunflower",
         "url": "https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp"
       },
@@ -4611,6 +4629,24 @@
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
       "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -7177,7 +7213,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -10983,7 +11019,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"

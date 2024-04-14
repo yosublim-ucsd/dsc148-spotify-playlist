@@ -4,7 +4,7 @@
 
 > A llorar a la llorería.
 
-269 songs - 15 hr 21 min
+270 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Por Ti](https://open.spotify.com/track/0gsOB5aAwtOAXv3NNSRh51) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Por Ti](https://open.spotify.com/album/414yv9slJMIM6c3BiXP8OS) | 3:03 | 2023-11-16 |  |
 | [Por Ti](https://open.spotify.com/track/3BgDDnVALASShFNeZw4RJ0) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Por Ti](https://open.spotify.com/album/1uu3MwIw21RXO6zM9qkDHS) | 3:03 | 2023-11-16 | 2024-02-24 |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-11-04 | 2022-11-11 |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-10-06 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-03-01 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-10-06 | 2024-04-14 |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-01-07 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-14 |  |
 | [Quiero Que Me Quieras](https://open.spotify.com/track/2DY9oBfNiuMqZvTG11NmlF) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Quiero Que Me Quieras](https://open.spotify.com/album/4L8OU0LnS1ya4Wt4oXl6qc) | 2:53 | 2022-01-07 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: XG
 
-333 songs - 17 hr 4 min
+334 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,9 +120,10 @@
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-28 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-07 | 2024-04-09 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-03-16 | 2023-03-25 |
-| [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 |  |
+| [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 | 2024-04-14 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-16 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2023-03-16 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-11 |  |
 | [Good to me](https://open.spotify.com/track/4mRJhOrI0AVjGwVVckvxgj) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Good to me](https://open.spotify.com/album/1IzjQzQU5N1mmZE563Rr8j) | 2:50 | 2024-02-08 |  |
 | [Goosebumps](https://open.spotify.com/track/4uZuGD6g3W3WtrmX0ceGRb) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [GOOSEBUMPS](https://open.spotify.com/album/5dJSN1WMHfvhiYOIKa1OWE) | 2:45 | 2024-01-11 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-14 |  |

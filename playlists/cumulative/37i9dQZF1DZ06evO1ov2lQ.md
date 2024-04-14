@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is Biosphere\. Todos os maiores hits em uma só playlist.
+> This is Biosphere\. The essential tracks, all in one playlist.
 
 160 songs - 13 hr 26 min
 
@@ -29,7 +29,7 @@
 | [Black Lamb and Grey Falcon](https://open.spotify.com/track/0lhkLqfUNI2B4eCpsp12B8) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:08 | 2022-06-11 | 2022-10-08 |
 | [Black Mesa](https://open.spotify.com/track/26CbOaU48hRjpyDmRnapQZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:25 | 2022-05-29 |  |
 | [Black Mesa \(feat\. Joan Lorring & Leslie Howard\) \- \[Joris Voorn Remix\] \[Mixed\]](https://open.spotify.com/track/7etsqxB6RZWBImUKly4b5c) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b), [Leslie Howard](https://open.spotify.com/artist/3rtmHn2sseyxyY21Uh6B31), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Global Underground \#43: Joris Voorn \- Rotterdam \(DJ Mix\)](https://open.spotify.com/album/19mo8UP3Rhdqw1SGBbUFvf) | 1:43 | 2022-05-29 |  |
-| [Brownian Motion](https://open.spotify.com/track/5HnquVQ5O6aoV3sQthOqoF) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:20 | 2023-12-13 | 2024-04-13 |
+| [Brownian Motion](https://open.spotify.com/track/5HnquVQ5O6aoV3sQthOqoF) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:20 | 2023-12-13 |  |
 | [Caboose \- Sketch Remix 1](https://open.spotify.com/track/07hJwxGrrf65FuinKOhvYe) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Sketch](https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl) | [Patashnik \[Decrypted By Sketch\]](https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE) | 14:45 | 2024-03-19 |  |
 | [Cannon Hill \- Remastered](https://open.spotify.com/track/4Uf984atP2nWLtxmTVFdpV) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Birmingham Frequencies \(Remastered\)](https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o) | 7:44 | 2022-06-06 | 2022-06-08 |
 | [Chromosphere](https://open.spotify.com/track/6VOGEVFJOsALTdDML3WkBx) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 3:28 | 2023-04-22 | 2023-11-11 |
@@ -60,7 +60,7 @@
 | [Fujiko](https://open.spotify.com/track/5EnYQeT9ECNci6ls05eQXe) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 4:55 | 2023-02-01 | 2023-12-14 |
 | [Fujiko](https://open.spotify.com/track/1dLZYbQ5yr9PETbjG1e24h) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 4:56 | 2022-05-31 | 2022-10-12 |
 | [Genkai \- 1](https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 6:35 | 2023-01-31 | 2024-01-20 |
-| [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 | 2022-05-29 | 2023-10-02 |
+| [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 | 2022-05-29 |  |
 | [Grand Dome](https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:36 | 2022-05-29 |  |
 | [Grandiflora](https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 0:48 | 2022-05-29 |  |
 | [Gravity Assist](https://open.spotify.com/track/5LadeNyOAJoxnHGriRc4il) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 7:02 | 2022-07-14 | 2023-11-11 |
@@ -118,14 +118,14 @@
 | [Probe](https://open.spotify.com/track/2d2m3q2CPFPi0yM4EGghJo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 1:30 | 2022-10-26 | 2023-11-11 |
 | [Proem](https://open.spotify.com/track/6NyKhutbpB1QVNF56cJ1Wh) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 3:16 | 2022-06-13 | 2022-06-16 |
 | [Qual Linea Al Centro](https://open.spotify.com/track/33VVSLjvt7d7Eq7n9lclPD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:43 | 2023-05-15 | 2024-04-13 |
-| [Random Walk](https://open.spotify.com/track/3gKE9QNCacM76LP97oQajn) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:21 | 2024-04-13 |  |
+| [Random Walk](https://open.spotify.com/track/3gKE9QNCacM76LP97oQajn) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:21 | 2024-04-13 | 2024-04-14 |
 | [Remote and Distant](https://open.spotify.com/track/4b3XA6TUvkff0vQxSNmXuX) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 1:59 | 2022-09-22 |  |
 | [Sendai \- 1](https://open.spotify.com/track/4H8hhnagwVNMD8i46U9GOH) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 7:59 | 2023-02-11 | 2023-07-26 |
 | [Sendai\-1](https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 8:00 | 2022-05-29 | 2022-10-27 |
 | [Shade](https://open.spotify.com/track/7rQ5bwHCl6O30978mwcQpm) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 2:26 | 2022-12-13 | 2022-12-16 |
 | [Shenzhou](https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:59 | 2022-09-29 |  |
 | [Sherbrooke](https://open.spotify.com/track/2PRacJRgmydBflNzulhnBj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:55 | 2022-08-26 | 2022-09-21 |
-| [Shika \- 1](https://open.spotify.com/track/1RXUj8OYl4b2M8f17NWZwC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 7:51 | 2023-01-31 |  |
+| [Shika \- 1](https://open.spotify.com/track/1RXUj8OYl4b2M8f17NWZwC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 7:51 | 2023-01-31 | 2024-04-14 |
 | [Shika\-1](https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 7:54 | 2022-06-08 | 2022-10-18 |
 | [Shine on You Crazy Diamond \- Club Mix](https://open.spotify.com/track/4NaZg0fRM2K9uKqPd4oy86) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Mp3 Compilation 100 Hits](https://open.spotify.com/album/6mQXDmkXhXI2okNpSGKRzP) | 5:14 | 2022-05-29 | 2022-10-07 |
 | [Shortwave Memories](https://open.spotify.com/track/5XkqDsaZLGBQPQcegRTRsc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 7:46 | 2022-10-12 | 2023-02-13 |

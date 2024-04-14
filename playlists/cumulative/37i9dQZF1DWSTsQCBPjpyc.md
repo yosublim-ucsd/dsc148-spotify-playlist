@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-89 songs - 6 hr 3 min
+90 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 | 2020-12-01 |  |
 | [Same Ole Feeling](https://open.spotify.com/track/1AE9josdXyxXELOKqnbpX1) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 4:04 | 2020-12-01 | 2024-04-12 |
 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 | 2020-12-01 |  |
-| [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 |  |
+| [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6O8JCLuEeT0YlLmIS9AegJ) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/75vF8e9rzmbRAmieXf57Ev) | 3:21 | 2021-12-07 |  |
+| [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 | 2024-04-14 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 | 2022-07-29 |
 | [Set The Record Straight](https://open.spotify.com/track/4AdSgPoYsFYrIfZZUS9zX9) | [HOROJO Trio](https://open.spotify.com/artist/66KQPvPqWNdcaKJtaumZ9m) | [Set The Record](https://open.spotify.com/album/4u6zYkjwaeYNGuYj5fy8nc) | 4:44 | 2022-04-01 |  |
 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 | 2020-12-01 |  |

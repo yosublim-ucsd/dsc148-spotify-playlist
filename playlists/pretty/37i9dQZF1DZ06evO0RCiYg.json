@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 478026,
+  "description": "This Is Black Eyed Peas. Los temas esenciales, todos en una lista.",
+  "num_followers": 478112,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGFjYjNkMzJmY2ZmNTVhZDYxYzAwMzc3MDUxOWU2YjU2",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDY5OGUxOGY1NjdjMDNjMjY3ZTU2MDlmNWI4ZGZiYjM4",
   "tracks": [
     {
       "added_at": null,
@@ -895,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELEVATION",
-        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+        "name": "NOW That's What I Call Music 31 (20 track Dell Bundle)",
+        "url": "https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J. Rey Soul",
-          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
         }
       ],
-      "duration_ms": 200191,
-      "name": "DOUBLE D'Z",
-      "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
+      "duration_ms": 216760,
+      "name": "Boom Boom Pow - Radio Edit",
+      "url": "https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh"
     },
     {
       "added_at": null,

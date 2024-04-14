@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 242026,
+  "2024-04-14": 242086,
   "date_first_scraped": "2022-12-28",
-  "description": "Les meilleurs titres du moment en version acoustique.",
+  "description": "Les meilleurs titres du moment et plus encore en version acoustique.",
   "name": "Hit Acoustique",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150000,
       "name": "A Little More Lost - Acoustic",
       "url": "https://open.spotify.com/track/70NbSCzRvtTy3Sxcf3Gx1e"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 196473,
       "name": "Anti-Hero - Acoustic Version",
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206187,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 232946,
       "name": "Bad Habits - Acoustic Version",
       "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224053,
       "name": "Black Friday (Mahogany Session)",
       "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193043,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/6FIevL8p5LBywjfWZs5rlM"
@@ -471,6 +471,24 @@
       "duration_ms": 212578,
       "name": "Don't Call Me Up - Acoustic",
       "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
+    },
+    {
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
       "album": {
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217520,
       "name": "Following the Sun - Acoustic",
       "url": "https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192823,
       "name": "Happier - Piano Version",
       "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 168608,
       "name": "Kill Bill - Acoustic",
       "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "Lavender Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175040,
       "name": "Living In A Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155188,
       "name": "Lonely (with benny blanco) - Acoustic",
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
@@ -1401,6 +1419,28 @@
       "duration_ms": 200160,
       "name": "Love Should Be Easy - Acoustic",
       "url": "https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl"
+    },
+    {
+      "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man) [Acoustic]",
+        "url": "https://open.spotify.com/album/69qYAZY38cFMWCp3KbcvH4"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189974,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Acoustic",
+      "url": "https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym"
     },
     {
       "album": {
@@ -1629,6 +1669,24 @@
       "duration_ms": 189564,
       "name": "Premier amour - Version acoustique",
       "url": "https://open.spotify.com/track/1BxPyaqHGCAPUlfqtn5vuK"
+    },
+    {
+      "album": {
+        "name": "Rescue Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164351,
+      "name": "Rescue Me - Acoustic",
+      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
     },
     {
       "album": {
@@ -1896,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "Take On Me (2017 Acoustic)",
+        "url": "https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184326,
+      "name": "Take On Me - 2017 Acoustic",
+      "url": "https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn"
+    },
+    {
+      "album": {
         "name": "Tattoo (Acoustic)",
         "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
       },
@@ -2019,10 +2095,28 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 126980,
       "name": "Trying - Live Version",
       "url": "https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH"
+    },
+    {
+      "album": {
+        "name": "Unwritten (Acoustic)",
+        "url": "https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Unwritten (Acoustic)",
+      "url": "https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm"
     },
     {
       "album": {

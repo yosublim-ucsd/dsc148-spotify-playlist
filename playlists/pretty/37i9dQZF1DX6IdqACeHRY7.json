@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152874,
+  "num_followers": 152885,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 175492,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 269613,
       "name": "Rooting For You",
       "url": "https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
     }
   ],
   "unique_name": "Ren hygge",

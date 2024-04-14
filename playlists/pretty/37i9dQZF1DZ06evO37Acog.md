@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 ### [This Is Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Acog)
 
-> This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
+> This Is Ramon Ayala Y Sus Bravos Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,719 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,726 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 28 | [Juramos Amarnos](https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CELEBRANDO CINCO DE MAYO](https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag) | 3:18 |
 | 29 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
 | 30 | [La Venganza del Tahúr](https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Autenticos](https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL) | 3:19 |
-| 31 | [La Rama Del Mezquite](https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 3:43 |
-| 32 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 |
+| 31 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 |
+| 32 | [La Rama Del Mezquite](https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 3:43 |
 | 33 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
-| 34 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
-| 35 | [Ni por Mil Puñados de Oro](https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 2:25 |
+| 34 | [Ni por Mil Puñados de Oro](https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 2:25 |
+| 35 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
 | 36 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 |
 | 37 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
-| 38 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
-| 39 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
+| 38 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
+| 39 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
 | 40 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
 | 41 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
 | 42 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Cuánto Me Cuesta \(Me Cuesta Ponerle Letra\) \- En Vivo](https://open.spotify.com/track/55BQZ6AqbzlvR7fBfJgesF) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Celebrando a una Leyenda, Segunda Parte \(En Vivo\)](https://open.spotify.com/album/7vvK1TuP5ZPZxmq28YKAgv) | 2:52 |
 | 50 | [Cuánto Me Cuesta](https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 2:36 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDRmNTQ4MGY4ZWNjNDhiOTc4MTNhYmViZTE2OTQ4ZmVk`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGZiY2NhMjcwMTJiMDRhMWY2YWM4ZjQyMzQxYmI4Zjk4`

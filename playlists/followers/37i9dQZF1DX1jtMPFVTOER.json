@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 96219,
+  "2024-04-14": 96242,
   "date_first_scraped": "2022-01-01",
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
@@ -771,6 +771,24 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "album": {
+        "name": "b i g f e e l i n g s",
+        "url": "https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "b i g f e e l i n g s",
+      "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
     },
     {
       "album": {
@@ -2012,6 +2030,32 @@
     },
     {
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246836,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/6b4JDJwn3L8Rl5Twn2HvDt"
       },
@@ -2371,7 +2415,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 258608,
       "name": "Closer (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ"
@@ -8040,6 +8084,24 @@
     },
     {
       "album": {
+        "name": "Rhythm + Revelation, Vol. 1",
+        "url": "https://open.spotify.com/album/6QIDHsQaHoNa8GQCfccfU7"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286143,
+      "name": "People Make The World Go Round",
+      "url": "https://open.spotify.com/track/4oy8iUcGI0Rt8Le1IjzcPX"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/2pjgF2yjnO1k6bl6k6ZUGi"
       },
@@ -8311,6 +8373,32 @@
       "duration_ms": 159514,
       "name": "play pretenses",
       "url": "https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y"
+    },
+    {
+      "album": {
+        "name": "Playa Noche",
+        "url": "https://open.spotify.com/album/4HDQjDOeiz7iODJmMi3sXl"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Playa Noche",
+      "url": "https://open.spotify.com/track/7CW05W4cl8Izob20wgpLdg"
     },
     {
       "album": {
@@ -9283,7 +9371,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156144,
       "name": "Shy",
       "url": "https://open.spotify.com/track/4p4V4sjILJRmzRyE3taP6m"
@@ -9309,6 +9397,24 @@
       "duration_ms": 212002,
       "name": "Since I Met You",
       "url": "https://open.spotify.com/track/2AFtk7r6plMFFzSkpdKj5p"
+    },
+    {
+      "album": {
+        "name": "Sixes",
+        "url": "https://open.spotify.com/album/5YcYK7uXbnhcQ3z0kiA8gJ"
+      },
+      "artists": [
+        {
+          "name": "Tennishu",
+          "url": "https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "Sixes",
+      "url": "https://open.spotify.com/track/5sBcECfCmz2C6yekWYArCA"
     },
     {
       "album": {
@@ -10131,7 +10237,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
@@ -10567,7 +10673,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 389352,
       "name": "The Creator Has a Master Plan Part II",
       "url": "https://open.spotify.com/track/6UOA79OTL65E5rhZgaBGgW"
@@ -12361,7 +12467,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 134794,
       "name": "you said...",
       "url": "https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf"

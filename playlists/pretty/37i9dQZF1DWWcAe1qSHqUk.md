@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,513 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,521 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 50 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
 | 51 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
 | 52 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
-| 53 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 54 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
-| 55 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
+| 53 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
+| 54 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
+| 55 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 56 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
 | 57 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 58 | [But For Now](https://open.spotify.com/track/18XHe8cidUZXSTFA94fU0T) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:55 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 71 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 72 | [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 |
 | 73 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
-| 74 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
-| 75 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
+| 74 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
+| 75 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
 
 Snapshot ID: `MTcxMjU0NDcwMCwwMDAwMDAwMGJkMDdjNjA2MzhkNWRjYjAwNDcxYmY5ZmY3NDE4OTUz`

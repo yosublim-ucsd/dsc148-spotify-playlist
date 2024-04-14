@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:1scVfBymTr3CeZ4imMj1QJ">Forrest Frank</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,884 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,055 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 2 | [A Thousand Times](https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [A Thousand Times](https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr) | 3:39 |
 | 3 | [Any More \(Acoustic\)](https://open.spotify.com/track/4Jme1JSX2QMM3YUwCXyMNa) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More \(Acoustic\)](https://open.spotify.com/album/2yG0CoIOGbTO532dm7vmS6) | 3:04 |
-| 4 | [All Of My Days \- Psalm 23](https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [All Of My Days](https://open.spotify.com/album/1w18hePhR6H40r1bvhegck) | 4:00 |
+| 4 | [All Of My Days \- Psalm 23](https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [All of My Days](https://open.spotify.com/album/1w18hePhR6H40r1bvhegck) | 4:00 |
 | 5 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 | 6 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 |
 | 7 | [Everything At Your Feet \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 1 \(Live\)](https://open.spotify.com/album/4J60UHKXz09ZxxCpLJZP8i) | 7:20 |

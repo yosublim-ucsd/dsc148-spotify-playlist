@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Kayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,947 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,959 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 | 25 | [Five Miles](https://open.spotify.com/track/6n1C8jCTYbNI6JD04uTP56) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Tyler Simmons](https://open.spotify.com/artist/2NbM6Y4bH6Rbno16f3QB7a) | [Five Miles](https://open.spotify.com/album/5tMYgZjb95ZkZpkjCvF8mv) | 2:37 |
 | 26 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 |
 | 27 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 |
-| 28 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
+| 28 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
 | 29 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
 | 30 | [Dhundhala](https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/0RS1ikVCpsD3UHxxpbvpSg) | 3:02 |
 | 31 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |

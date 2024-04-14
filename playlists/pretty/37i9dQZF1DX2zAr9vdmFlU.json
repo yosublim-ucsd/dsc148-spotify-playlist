@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 432666,
+  "num_followers": 432728,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1291,6 +1291,42 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Red Hot Chile Papers",
+        "url": "https://open.spotify.com/album/47Sx53fP4z05fpf5RPsm1s"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Don Cup\u00f3n",
+          "url": "https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1"
+        }
+      ],
+      "duration_ms": 286363,
+      "name": "Red Hot Chile Papers",
+      "url": "https://open.spotify.com/track/1SJLKKDmjYCCwN9BBlF1de"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1391,30 +1427,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Calentura: Global Bassment",
-        "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Happy Colors",
-          "url": "https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Virgencita - Happy Colors Remix",
-      "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "El Caudal",
         "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
@@ -1435,38 +1447,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Red Hot Chile Papers",
-        "url": "https://open.spotify.com/album/47Sx53fP4z05fpf5RPsm1s"
+        "name": "Calentura: Global Bassment",
+        "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
       "artists": [
         {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         },
         {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+          "name": "Happy Colors",
+          "url": "https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1"
         },
         {
-          "name": "Motafonkas",
-          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        },
-        {
-          "name": "Don Cup\u00f3n",
-          "url": "https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 286363,
-      "name": "Red Hot Chile Papers",
-      "url": "https://open.spotify.com/track/1SJLKKDmjYCCwN9BBlF1de"
+      "duration_ms": 196440,
+      "name": "Virgencita - Happy Colors Remix",
+      "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Parrilladas Vargas",
         "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
       },
@@ -1683,38 +1699,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor",
-        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "El Amor Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 218909,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor",
+        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "El Amor Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Grietas",
+        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
+      },
+      "artists": [
+        {
+          "name": "Newen Afrobeat",
+          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 313750,
+      "name": "Grietas",
+      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "En Medio Del Jard\u00edn",
         "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 221986,
       "name": "En Medio Del Jard\u00edn",
       "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "No Pasa Na",
-        "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 230556,
-      "name": "No Pasa Na",
-      "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"
     }
   ],
   "unique_name": "Latin Dinner",

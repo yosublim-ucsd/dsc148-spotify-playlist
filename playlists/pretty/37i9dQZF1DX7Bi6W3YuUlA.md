@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,598 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,645 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 74 | [Who That Is](https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Dj Laz](https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ) | [Who That Is](https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq) | 2:24 |
 | 75 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 76 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
-| 77 | [Club Eden](https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Club Eden](https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6) | 2:25 |
-| 78 | [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 |
+| 77 | [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 |
+| 78 | [Club Eden](https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Club Eden](https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6) | 2:25 |
 | 79 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 80 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 |
 | 81 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 85 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
 | 86 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
 | 87 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
-| 88 | [Is That Okay?](https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Feared By Hell \(Reanimation\)](https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN) | 4:24 |
-| 89 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
+| 88 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
+| 89 | [Is That Okay?](https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Feared By Hell \(Reanimation\)](https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN) | 4:24 |
 | 90 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 |
 | 91 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 92 | [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 94 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
 | 95 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
 | 96 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
-| 97 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
-| 98 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
+| 97 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
+| 98 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
 | 99 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 |
 | 100 | [Clean](https://open.spotify.com/track/5brNzhgKWKCFlEcaFAScQD) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/33JIrFLH6BC8tX6Uus6iNm) | 2:48 |
 

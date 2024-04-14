@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abbronzatissima",
+        "url": "https://open.spotify.com/album/1GiDW3ap0w0IoYYKR151dL"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Abbronzatissima",
+      "url": "https://open.spotify.com/track/6TZXXZZi1N0ZeMYdxdVWeY"
+    },
+    {
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
@@ -279,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Guarda come dondolo - Single",
+        "url": "https://open.spotify.com/album/6oZAEorbXlD7aiMd7qm6mX"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/4Hsz28zAMAHUZ5DdY6DVSX"
+    },
+    {
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -294,7 +330,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 151720,
       "name": "Guarda come dondolo",
       "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
@@ -730,10 +766,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 159312,
       "name": "Pinne fucile ed occhiali",
       "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
+    },
+    {
+      "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Pinne, Fucile Ed Occhiali",
+      "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-32 songs - 2 hr 14 min
+33 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-04-01 |  |
 | [From Me To You](https://open.spotify.com/track/2uvwFXISvfrm2v7DKiuV5J) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 5:42 | 2024-04-01 |  |
 | [hanashi](https://open.spotify.com/track/1B3d52exw8bkJFB9V1Y9Bo) | [YOOKs](https://open.spotify.com/artist/6vYpkbuf0haDeCdzsAhO1C) | [Newtownage](https://open.spotify.com/album/0SE06MlQwHvPN3kl2DkBUa) | 4:24 | 2024-04-01 |  |
+| [I Said](https://open.spotify.com/track/72bR8Uy5Ou5QVUu1JMcIEH) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Holden](https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw) | 4:40 | 2024-04-13 |  |
 | [It's Who We Are](https://open.spotify.com/track/1cAkiUgNaCYF7Y5pc2S73d) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [H.O.T](https://open.spotify.com/album/7hsa4N91owE1h5y1jGEcST) | 5:02 | 2024-04-01 |  |
 | [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 | 2024-04-06 |  |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2024-04-01 |  |

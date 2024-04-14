@@ -1,12 +1,12 @@
 {
-  "description": "This Is Campo De Almas.. Los temas esenciales, todos en una lista.",
-  "num_followers": 507,
+  "description": "This is Campo De Almas.. The essential tracks, all in one playlist.",
+  "num_followers": 508,
   "original_name": "This Is Campo De Almas.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDI1MDk0ZmU4ZmIxZTE3YTkyNjc5ZTU0MGZkZjIwOTgw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRmYWFkYWU1NzQ3YWUyZWFmYWE0ODE3YTJjZGVjOTQ3",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 206138,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/1UWJrXldXtKPQrlgEIEsWi"
+      "duration_ms": 235333,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adicci\u00f3n",
-        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
       },
       "artists": [
         {
@@ -180,25 +180,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 235333,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "La Historia Entre Los Dos",
-      "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
+      "duration_ms": 206138,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/1UWJrXldXtKPQrlgEIEsWi"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
       "duration_ms": 263413,
       "name": "El D\u00eda Final",
       "url": "https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "La Historia Entre Los Dos",
+      "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 212612,
-      "name": "Cuando Cierro Los Ojos",
-      "url": "https://open.spotify.com/track/5CJ5d66Yg9aJ864gYkILmE"
+      "duration_ms": 237493,
+      "name": "Todo Me Aleja De Ti",
+      "url": "https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Todo Me Aleja De Ti",
-      "url": "https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq"
+      "duration_ms": 212612,
+      "name": "Cuando Cierro Los Ojos",
+      "url": "https://open.spotify.com/track/5CJ5d66Yg9aJ864gYkILmE"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "C\u00f3smica",
+      "url": "https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adicci\u00f3n",
-        "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "C\u00f3smica",
-      "url": "https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baladas",
         "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "Stonepatty",
-      "url": "https://open.spotify.com/track/09ZzcDrbIHxdWSJBX3uZKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Estuviste Ah\u00ed",
         "url": "https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 360000,
       "name": "El Secreto ( En Vivo)",
       "url": "https://open.spotify.com/track/6IaXpvo7TDorwXLYdTcbW3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "Stonepatty",
+      "url": "https://open.spotify.com/track/09ZzcDrbIHxdWSJBX3uZKc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1552247,
+  "num_followers": 1552420,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -327,26 +331,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 189783,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
+      "duration_ms": 180533,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 213495,
-      "name": "The Sign (with CamelPhat)",
-      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Fall Again",
         "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
       },
@@ -515,6 +495,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign (with CamelPhat)",
+      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Nothing Ever Changes",
         "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 170880,
       "name": "Lost In The Rhythm",
       "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -687,26 +687,6 @@
       "duration_ms": 230909,
       "name": "Fade Out (with MKLA)",
       "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Welcome To The Opera (with Grimes)",
-      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -795,22 +775,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 329318,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -827,6 +807,26 @@
       "duration_ms": 167691,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 329318,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -947,6 +947,50 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 244130,
+      "name": "Consciousness - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "I Need A Miracle",
+        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Coco Star",
+          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+        }
+      ],
+      "duration_ms": 193353,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -975,26 +1019,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "I Need A Miracle",
-        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Coco Star",
-          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
-        }
-      ],
-      "duration_ms": 193353,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 244130,
-      "name": "Consciousness - Eric Prydz Remix",
-      "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Made Of Gold",
-        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Made Of Gold",
-      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/2Is9HWB1MtmHQUFkDIOGFt"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 217500,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/4dmFo5VmijuePqQqgHvLHa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Made Of Gold",
+        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Made Of Gold",
+      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Chains (feat. Daya)",
-        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 199692,
-      "name": "Chains (feat. Daya)",
-      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
       },
@@ -1563,18 +1543,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Freyja",
-        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
+        "name": "Chains (feat. Daya)",
+        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 229959,
-      "name": "Freyja",
-      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
+      "duration_ms": 199692,
+      "name": "Chains (feat. Daya)",
+      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "Freyja",
+        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 229959,
+      "name": "Freyja",
+      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 240316,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Lights Go Out",
         "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
       },
@@ -1767,26 +1787,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
-      },
-      "artists": [
-        {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/0bzF0VRjVTvqP7MHYUTbPI"
       },
@@ -1803,22 +1803,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Enter",
-        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
       "artists": [
         {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
         },
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         }
       ],
-      "duration_ms": 240316,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "G.O.D.",
-        "url": "https://open.spotify.com/album/575eaDCkit9HjpB0JGYGzI"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "G.O.D.",
-      "url": "https://open.spotify.com/track/2bqJJA9tM5EUocBbFiJpL1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Tripchain / Scanalatura",
         "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "G.O.D.",
+        "url": "https://open.spotify.com/album/575eaDCkit9HjpB0JGYGzI"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "G.O.D.",
+      "url": "https://open.spotify.com/track/2bqJJA9tM5EUocBbFiJpL1"
     },
     {
       "added_at": "2024-04-12 04:00:00",

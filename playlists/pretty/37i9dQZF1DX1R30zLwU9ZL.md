@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,447 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,446 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 13 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
 | 14 | [Puedes Decir De Mi](https://open.spotify.com/track/2GiIG3pYsmHEXzy2LEomEp) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 2:49 |
 | 15 | [Mood of Water](https://open.spotify.com/track/5l1wRVchvaJcp77JX2U0tn) | [Ṭaüs](https://open.spotify.com/artist/5pCOMrIUlMYu1VdIz9Pirl) | [Mood of Water](https://open.spotify.com/album/5FcpuE2CeCUTtaIbnxKmvf) | 3:25 |
-| 16 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
+| 16 | [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 |
 | 17 | [Money Mouth](https://open.spotify.com/track/6L3kDfKAiQ2OVSo9qJCNou) | [Diamond Qing](https://open.spotify.com/artist/1pfbSeP4gfHhdWg5YZJcaz) | [Qing of Harlem](https://open.spotify.com/album/2109REvE184AYZZJPmLskm) | 1:52 |
 | 18 | [Voy](https://open.spotify.com/track/1PBqWTK17dYqKs3H2SCdOy) | [Costa & Quanta](https://open.spotify.com/artist/1qLIiLUgmsyydZeru7Y1iG) | [Voy](https://open.spotify.com/album/5qqi3CRDLGTdx7mkx6oYIv) | 3:23 |
 | 19 | [Flying](https://open.spotify.com/track/6CI9XrryKhtQYEs6Us2wNb) | [BLKCITY](https://open.spotify.com/artist/350G2qZCbRKE7u0jks2v5g), [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo), [Mo Muse](https://open.spotify.com/artist/4OptyR6wBQOytbSfrwWErR), [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Blaze the Emperor](https://open.spotify.com/artist/4OegmdBBMaIpw0hJu3cJso), [Abdul Kay](https://open.spotify.com/artist/4ZkuTIUWmJm8CS8GoFc6Gg) | [Flying](https://open.spotify.com/album/1et5UCYCpPxAfARBSwHgUc) | 3:09 |

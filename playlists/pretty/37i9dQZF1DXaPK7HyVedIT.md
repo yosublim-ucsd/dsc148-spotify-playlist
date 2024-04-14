@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Flakkë
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,317 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,323 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

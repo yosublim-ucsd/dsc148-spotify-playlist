@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,021 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,019 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 27 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
 | 28 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 29 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
-| 30 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
-| 31 | [A Droga do Amor](https://open.spotify.com/track/6WlyTsLonLLiKYigIANVA4) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Dom R](https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1), [Tiankris](https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI) | [Ari Acústico](https://open.spotify.com/album/2ZQpFuF0C6zsbTqROgbe2d) | 3:52 |
+| 30 | [A Droga do Amor](https://open.spotify.com/track/6WlyTsLonLLiKYigIANVA4) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Dom R](https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1), [Tiankris](https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI) | [Ari Acústico](https://open.spotify.com/album/2ZQpFuF0C6zsbTqROgbe2d) | 3:52 |
+| 31 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
 | 32 | [Flake](https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \[Remastered \(Bonus Version\)\]](https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr) | 4:41 |
 | 33 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
 | 34 | [Are You In?](https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 45 | [Young and Able](https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Protect Your Own](https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd) | 4:06 |
 | 46 | [La Mar \(The Ocean\)](https://open.spotify.com/track/0WuWrW1N8ofJBjM5ZHkFjH) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Learn Yourself](https://open.spotify.com/album/1OuDc65IgZ0nKnNwPMaylr) | 3:57 |
 | 47 | [All Night](https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:30 |
-| 48 | [No Mar \- Ao Vivo](https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:27 |
-| 49 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 |
+| 48 | [Walk, Don't Run \- Stereo](https://open.spotify.com/track/7B2pUwzvlbNG9D855r9ugf) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run](https://open.spotify.com/album/63nMHrHgu1xVuaWMT9eEap) | 2:02 |
+| 49 | [No Mar \- Ao Vivo](https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:27 |
 | 50 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
 | 51 | [In Your Eyes](https://open.spotify.com/track/3QbMBn1cm37oUtWYwmccqc) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Never Stop Fighting](https://open.spotify.com/album/0ltj09wROERvSflQiyzt2v) | 3:09 |
 | 52 | [Family Tree](https://open.spotify.com/track/7FB4AMETSW8jALAPNRKw7Y) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |

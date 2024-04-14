@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 823852,
+  "2024-04-14": 824178,
   "date_first_scraped": "2021-12-28",
   "description": "The most calming classical music.",
   "name": "Calming Classical",
@@ -2227,6 +2227,24 @@
       "duration_ms": 257000,
       "name": "R\u00eaverie, L. 68: R\u00eaverie",
       "url": "https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1Q4Rd4GbBBsmF6BwLxuauI"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235179,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5NILhtaOQF1sny3pE5lriu"
     },
     {
       "album": {

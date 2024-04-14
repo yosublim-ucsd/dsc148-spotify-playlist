@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 213734,
+  "2024-04-14": 213761,
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: TOIL(\ud1a0\uc77c)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: \bLoopy(\ub8e8\ud53c)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2277,6 +2277,24 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "album": {
+        "name": "MARNI",
+        "url": "https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158282,
+      "name": "COLD AVE.",
+      "url": "https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O"
     },
     {
       "album": {
@@ -8239,7 +8257,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210870,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"

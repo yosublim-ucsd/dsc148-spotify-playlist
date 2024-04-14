@@ -1366,6 +1366,24 @@
     {
       "album": {
         "name": "Soul Gospel",
+        "url": "https://open.spotify.com/album/28Ae90hKeEu4egrlY4Mxek"
+      },
+      "artists": [
+        {
+          "name": "Thalita Pertuzatti",
+          "url": "https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191204,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/2gdItz93EHBKPTxXg3ZgDp"
+    },
+    {
+      "album": {
+        "name": "Soul Gospel",
         "url": "https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3"
       },
       "artists": [
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 191204,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK"

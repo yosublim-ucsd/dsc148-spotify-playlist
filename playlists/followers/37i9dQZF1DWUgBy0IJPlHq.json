@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 512158,
+  "2024-04-14": 512289,
   "date_first_scraped": "2021-12-21",
   "description": "A new shade of Country. Cover: Wyatt Flores and Evan Honer",
   "name": "Indigo",
@@ -5343,10 +5343,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208942,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208942,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW"
     },
     {
       "album": {
@@ -7475,10 +7493,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
     },
     {
       "album": {
@@ -10364,6 +10400,24 @@
     },
     {
       "album": {
+        "name": "Yearnin\u2019 For You",
+        "url": "https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Yearnin\u2019 For You",
+      "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"
+    },
+    {
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G"
       },
@@ -10433,10 +10487,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171480,
       "name": "You Asked Me To",
       "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/3dbBTUeh5OqW88phCpba2m"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/6APPu400DTzDIZ1ZXSprnJ"
     },
     {
       "album": {

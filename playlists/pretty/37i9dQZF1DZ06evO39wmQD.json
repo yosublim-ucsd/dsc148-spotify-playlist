@@ -1,12 +1,12 @@
 {
-  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
+  "description": "This Is Auli'i Cravalho. Los temas esenciales, todos en una lista.",
   "num_followers": 2575,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGIwYjk2MDhjYjk2ODRiNTJkYWYzNTIwYTM1MTAyMWY0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGVkZjBiMzcxYWY3OWFkMWQ4ZjFmZmViOWI0OGRjMmM5",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
       "artists": [
         {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
         },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 162826,
-      "name": "I Am Moana (Song of the Ancestors)",
-      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+      "duration_ms": 278040,
+      "name": "Perfect - Rise Cast Version",
+      "url": "https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
       "duration_ms": 285221,
       "name": "Revenge Party",
       "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise Season 1: The Album (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Perfect - Rise Cast Version",
-      "url": "https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh"
     },
     {
       "added_at": null,

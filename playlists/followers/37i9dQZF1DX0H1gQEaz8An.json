@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 19509,
+  "2024-04-14": 19548,
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Xavi ",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Becky G & Oscar Maydon",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
     {
@@ -43,6 +43,28 @@
       "duration_ms": 221553,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj"
+    },
+    {
+      "album": {
+        "name": "Ando Free",
+        "url": "https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Doble Cara",
+          "url": "https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124973,
+      "name": "Ando Free",
+      "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
     },
     {
       "album": {
@@ -670,6 +692,28 @@
     },
     {
       "album": {
+        "name": "MERCEDES (feat. Oscar Maydon)",
+        "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "MERCEDES (feat. Oscar Maydon)",
+      "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -809,6 +853,32 @@
       "duration_ms": 189924,
       "name": "Muy Tarde",
       "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "album": {
@@ -1025,6 +1095,32 @@
       "duration_ms": 168677,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
+    },
+    {
+      "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH"
+      },
+      "artists": [
+        {
+          "name": "Yahir Tarin",
+          "url": "https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ"
+        },
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs"
     },
     {
       "album": {

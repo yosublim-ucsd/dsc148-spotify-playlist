@@ -4,12 +4,13 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Los Mesoneros
 
-152 songs - 9 hr 15 min
+153 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 | 2021-12-17 | 2023-09-23 |
-| [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 | 2021-12-17 |  |
+| [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 | 2021-12-17 | 2024-04-14 |
+| [A Usted](https://open.spotify.com/track/5LSC9zM0ppYJJjHwvVvFef) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/5MaoWlg2pDE2YD4meTjq0n) | 2:59 | 2023-11-21 |  |
 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 | 2021-12-17 |  |
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2021-12-17 | 2022-10-01 |
 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 | 2021-12-17 |  |

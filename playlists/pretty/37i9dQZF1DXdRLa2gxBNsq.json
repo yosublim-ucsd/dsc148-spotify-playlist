@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
-  "num_followers": 103572,
+  "num_followers": 103601,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMDVkODJiNjk3ZTM3NmNjYzM0ZTE1ODExNDJkNzE4ZDIw",
   "tracks": [
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Dif\u00edcil Ser Humano",
-        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
-      },
-      "artists": [
-        {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "El Pais de Alicia",
-      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
-    },
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 245853,
       "name": "Sarri, Sarri",
       "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Dif\u00edcil Ser Humano",
+        "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
+      },
+      "artists": [
+        {
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+        }
+      ],
+      "duration_ms": 183635,
+      "name": "El Pais de Alicia",
+      "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Cuando las Bocas Comen Silencio",
-        "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
       "artists": [
         {
-          "name": "Envidia Kotxina",
-          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Da\u00f1os Colaterales",
-      "url": "https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ"
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "Cuando las Bocas Comen Silencio",
+        "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+      "duration_ms": 163840,
+      "name": "Da\u00f1os Colaterales",
+      "url": "https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Criatura",
-        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
-      },
-      "artists": [
-        {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Criatura",
-      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "\u00a1Vaya Full!",
         "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 134920,
       "name": "Loko Kuerdo",
       "url": "https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Criatura",
+        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
+      },
+      "artists": [
+        {
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Criatura",
+      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "No Te Muevas y Zona Especial Norte",
-        "url": "https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB"
-      },
-      "artists": [
-        {
-          "name": "RIP",
-          "url": "https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Enamorado de la Muerte",
-      "url": "https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Impuesto Revolucionario",
         "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187000,
       "name": "Historia triste",
       "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "No Te Muevas y Zona Especial Norte",
+        "url": "https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB"
+      },
+      "artists": [
+        {
+          "name": "RIP",
+          "url": "https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Enamorado de la Muerte",
+      "url": "https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Bienvenidos al Infierno (En Directo)",
+        "url": "https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7"
+      },
+      "artists": [
+        {
+          "name": "Los Muertos de Cristo",
+          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
+        }
+      ],
+      "duration_ms": 227526,
+      "name": "Resistir\u00e9 - En Directo",
+      "url": "https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Nostrat",
         "url": "https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 192880,
       "name": "Sols El Poble Salva Al Poble",
       "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Bienvenidos al Infierno (En Directo)",
-        "url": "https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7"
-      },
-      "artists": [
-        {
-          "name": "Los Muertos de Cristo",
-          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
-        }
-      ],
-      "duration_ms": 227526,
-      "name": "Resistir\u00e9 - En Directo",
-      "url": "https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "S\u00edganle compadres",
+        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
+      },
+      "artists": [
+        {
+          "name": "Kojon Prieto y los Huajolotes",
+          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Semeya de la Rabia",
         "url": "https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN"
       },
@@ -1327,6 +1343,26 @@
       "duration_ms": 242320,
       "name": "Y Sigo en Pie",
       "url": "https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Nuestra guerra",
+        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
+      },
+      "artists": [
+        {
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 305993,
+      "name": "Nuestra guerra",
+      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1359,22 +1395,6 @@
       "duration_ms": 176000,
       "name": "Esto Es un Atraco",
       "url": "https://open.spotify.com/track/3N8PAev6WMEWX1Qc4rV3hl"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "S\u00edganle compadres",
-        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
-      },
-      "artists": [
-        {
-          "name": "Kojon Prieto y los Huajolotes",
-          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1415,22 +1435,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "En el submundo",
         "url": "https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS"
       },
@@ -1447,22 +1451,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1475,6 +1463,38 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1507,22 +1527,6 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
-      },
-      "artists": [
-        {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

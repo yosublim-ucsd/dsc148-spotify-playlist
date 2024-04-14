@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 132677,
       "name": "Raised Me",
       "url": "https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7"
@@ -2110,6 +2110,28 @@
       "duration_ms": 162733,
       "name": "YAKWTFGO (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6rrP1mBTbBkJCP7FsBe0SM"
+    },
+    {
+      "album": {
+        "name": "Yeah (with BIA)",
+        "url": "https://open.spotify.com/album/3q1IbjXMfuOo8pqy5ANphP"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/3ta5gWGwyiJMzBmhae0nip"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx"

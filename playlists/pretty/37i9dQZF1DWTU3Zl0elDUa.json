@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 349498,
+  "num_followers": 349754,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -615,42 +615,6 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
-        "name": "Everybody Everybody",
-        "url": "https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        },
-        {
-          "name": "DJ Lelewel",
-          "url": "https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL"
-        }
-      ],
-      "duration_ms": 320374,
-      "name": "Everybody Everybody (Le Freak Mix)",
-      "url": "https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
-        "name": "Playing With Knives [Quadrant Mix]",
-        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
-      },
-      "artists": [
-        {
-          "name": "Bizarre Inc",
-          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
-        }
-      ],
-      "duration_ms": 407213,
-      "name": "Playing With Knives [Quadrant Mix}",
-      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -671,6 +635,42 @@
       "duration_ms": 416026,
       "name": "Where Love Lives (Come On In) - Classic Mix",
       "url": "https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
+        "name": "Playing With Knives [Quadrant Mix]",
+        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
+      },
+      "artists": [
+        {
+          "name": "Bizarre Inc",
+          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+        }
+      ],
+      "duration_ms": 407213,
+      "name": "Playing With Knives [Quadrant Mix}",
+      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
+        "name": "Everybody Everybody",
+        "url": "https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        },
+        {
+          "name": "DJ Lelewel",
+          "url": "https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL"
+        }
+      ],
+      "duration_ms": 320374,
+      "name": "Everybody Everybody (Le Freak Mix)",
+      "url": "https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm"
     },
     {
       "added_at": "2024-04-11 17:58:33",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
+        "name": "Universal",
+        "url": "https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg"
+      },
+      "artists": [
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Rhythm Is a Mystery - Non-Stop Edit",
+      "url": "https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR"
+    },
+    {
+      "added_at": "2024-04-11 17:58:33",
+      "album": {
         "name": "Rich in Paradise (Going Back to My Roots)",
         "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2024-04-11 17:58:33",
       "album": {
-        "name": "Universal",
-        "url": "https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg"
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
       },
       "artists": [
         {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+          "name": "RETRO MF",
+          "url": "https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU"
         }
       ],
-      "duration_ms": 354000,
-      "name": "Rhythm Is a Mystery - Non-Stop Edit",
-      "url": "https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR"
+      "duration_ms": 345466,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
     },
     {
       "added_at": "2024-04-11 17:58:33",
@@ -991,22 +1007,6 @@
       "duration_ms": 239200,
       "name": "People Hold On (feat. Lisa Stansfield) - Radio Edit",
       "url": "https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7"
-    },
-    {
-      "added_at": "2024-04-11 17:58:33",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
-      },
-      "artists": [
-        {
-          "name": "RETRO MF",
-          "url": "https://open.spotify.com/artist/2N4YBCzaK5N4g8fI3n36UU"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
     },
     {
       "added_at": "2024-04-11 17:58:33",

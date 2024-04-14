@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,471 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,594 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 32 | [The End of All We Know](https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Fracture](https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p) | 4:12 |
 | 33 | [Earth Scar](https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 5:09 |
 | 34 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
-| 35 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
-| 36 | [Pressure Point](https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 3:50 |
+| 35 | [Pressure Point](https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 3:50 |
+| 36 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
 | 37 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
 | 38 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 39 | [Underneath the Scars](https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Unconquered](https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U) | 3:46 |
-| 40 | [Kill the Cult](https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 4:40 |
-| 41 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
+| 40 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
+| 41 | [Kill the Cult](https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 4:40 |
 | 42 | [Killing Season](https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Killing Season](https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f) | 3:32 |
 | 43 | [Take Me To Hell](https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7) | 3:30 |
 | 44 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 81 | [The Preservation Of Hate](https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Preservation Of Hate](https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN) | 3:06 |
 | 82 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
 | 83 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
-| 84 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 |
+| 84 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
 | 85 | [Fuck the Rules](https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 1:19 |
-| 86 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
+| 86 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 |
 | 87 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
 | 88 | [Curse Us](https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Curse Us](https://open.spotify.com/album/5M0HrALsh99LkP1xfz39cI) | 4:42 |
 | 89 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 115 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 116 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 117 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
-| 118 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
-| 119 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
+| 118 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
+| 119 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
 | 120 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 
 Snapshot ID: `MTY4NjkxOTI3NCwwMDAwMDAwMDdjYTAxOThiZTMyZjViNzI0NzA0Mzg0ZmNmZmI2NDgw`

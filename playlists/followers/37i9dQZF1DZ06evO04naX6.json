@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 169016,
+  "2024-04-14": 169037,
   "date_first_scraped": "2023-04-07",
-  "description": "This is Yandel. The essential tracks, all in one playlist.",
+  "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
   "name": "This Is Yandel",
   "tracks": [
     {
@@ -221,7 +221,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
@@ -247,6 +247,28 @@
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "album": {
@@ -482,6 +504,28 @@
     },
     {
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
+    },
+    {
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -541,7 +585,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168051,
       "name": "Dembow 2020",
       "url": "https://open.spotify.com/track/0j1VxrPkMyFGvz0jZzxUoZ"
@@ -831,6 +875,28 @@
       "duration_ms": 395666,
       "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
       "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
     },
     {
       "album": {
@@ -1201,7 +1267,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 237613,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
@@ -1253,6 +1319,28 @@
       "duration_ms": 221179,
       "name": "MySpace (feat. Wisin & Yandel)",
       "url": "https://open.spotify.com/track/6uoOKr3dxk9GVIhmJyQPMh"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "No Digas Na",
+      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
     },
     {
       "album": {
@@ -1348,6 +1436,28 @@
     },
     {
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Pa Janguiar",
+      "url": "https://open.spotify.com/track/6M3Wbw9M57Kaw2wXSMyjyf"
+    },
+    {
+      "album": {
         "name": "Permitame",
         "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
       },
@@ -1437,7 +1547,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206066,
       "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
       "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"
@@ -1741,7 +1851,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 104066,
       "name": "Te Acuerdas De M\u00ed",
       "url": "https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D"

@@ -1,6 +1,6 @@
 {
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
-  "num_followers": 14749,
+  "num_followers": 14762,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Canap\u00e9",
         "url": "https://open.spotify.com/album/1H3HbINzynP5T6zgEbRmUQ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 184426,
       "name": "Ven Que Te Quiero Ver",
       "url": "https://open.spotify.com/track/4sM3pdakHiLDk9ZsZgUJhw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -391,30 +391,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Siento por Ciento",
-        "url": "https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Sebastian Jantos",
-          "url": "https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 174381,
-      "name": "Siento por Ciento",
-      "url": "https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 191915,
       "name": "Volero",
       "url": "https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Siento por Ciento",
+        "url": "https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Sebastian Jantos",
+          "url": "https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "Siento por Ciento",
+      "url": "https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Madre Padre Marte",
+        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Todo contigo",
         "url": "https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Madre Padre Marte",
-        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Te necesito everywhere",
         "url": "https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 230076,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Caf\u00e9 con Miel",
         "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
@@ -951,26 +967,6 @@
       "duration_ms": 186200,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1007,22 +1003,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6xDivDPrVwD7W7VymeNFQS"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/2BKj0Pf4phfcBRtoglzINN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Anakena",
+        "url": "https://open.spotify.com/album/5c73jWsXYDTA6W4NuO38tb"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Guayaba",
+      "url": "https://open.spotify.com/track/5eQ4Xl2tLdmKGAKjoTp33H"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Quiero Quedarme",
         "url": "https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 193545,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Anakena",
-        "url": "https://open.spotify.com/album/5c73jWsXYDTA6W4NuO38tb"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Guayaba",
-      "url": "https://open.spotify.com/track/5eQ4Xl2tLdmKGAKjoTp33H"
     },
     {
       "added_at": "2024-03-01 05:00:00",

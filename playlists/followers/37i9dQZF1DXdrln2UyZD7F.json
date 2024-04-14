@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 893419,
+  "2024-04-14": 893558,
   "date_first_scraped": "2023-07-28",
   "description": "Le meilleur de la musique d'hier et d'aujourd'hui pour une journ\u00e9e parfaite.",
   "name": "La vie est belle",
@@ -1480,24 +1480,6 @@
     },
     {
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "date_added": "2024-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
-    },
-    {
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -1531,6 +1513,24 @@
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Human - Single Version",
+      "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
     },
     {
       "album": {

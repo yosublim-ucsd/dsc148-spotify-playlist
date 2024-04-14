@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074 likes - 271 songs - 17 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 271 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 102 | [Let the Wind Carry Me](https://open.spotify.com/track/5yc1Ppyv82c9qSjHd75YYd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:56 |
 | 103 | [Sex Kills](https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:57 |
 | 104 | [Dreamland](https://open.spotify.com/track/5XW3N712ZKk671xYEKKBtf) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [A Father's Lullaby \(Deluxe Edition\)](https://open.spotify.com/album/2wMu9rUX2LwtYyY7qm9cjt) | 4:38 |
-| 105 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
-| 106 | [Barangrill](https://open.spotify.com/track/2V8KVWekcRfqiBBHW8EzP3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:52 |
+| 105 | [Barangrill](https://open.spotify.com/track/2V8KVWekcRfqiBBHW8EzP3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:52 |
+| 106 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
 | 107 | [Hana](https://open.spotify.com/track/6RLZbip8302BFwcrqatVON) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 3:43 |
 | 108 | [Butterfly](https://open.spotify.com/track/1u6GGWsruJvboqoje3i1P6) | [Markus Feehily](https://open.spotify.com/artist/07K9xbSzS0XLEQEdtc4X9A) | [Fire \(Deluxe\)](https://open.spotify.com/album/4abJXeBOOMY1ee6ixYoLp0) | 3:44 |
 | 109 | [Banquet](https://open.spotify.com/track/1XRpbhOMzOISE3dDkQ6eZW) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:01 |
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 187 | [Blue On Blue](https://open.spotify.com/track/7JcDLm1lVbr3r2z12ze6N2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:33 |
 | 188 | [Ethiopia](https://open.spotify.com/track/2NzQCgcdTLsdXamUXSAFie) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 5:51 |
 | 189 | [Smokin' \(Empty, Try Another\)](https://open.spotify.com/track/6Gri6TvTy7vCNQLqQCO8vA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 1:43 |
-| 190 | [Face Lift](https://open.spotify.com/track/46tq4LNMUFGr24bb3yrHve) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:41 |
-| 191 | [Shiny Toys](https://open.spotify.com/track/1T0VhB8dbtqrQthghKbeFR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:27 |
+| 190 | [Shiny Toys](https://open.spotify.com/track/1T0VhB8dbtqrQthghKbeFR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:27 |
+| 191 | [Face Lift](https://open.spotify.com/track/46tq4LNMUFGr24bb3yrHve) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:41 |
 | 192 | [Tiger Bones](https://open.spotify.com/track/3jCKgg9pmaVqYrMXNG1mtt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:23 |
 | 193 | [He Played Real Good for Free \- Live in Houston, Texas, 1977](https://open.spotify.com/track/590OCTHTS7SqHR8rWzqNqg) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Allies](https://open.spotify.com/album/6foKl7yAjPqOXJNLxBsm7x) | 3:59 |
 | 194 | [Come to the Sunshine \- Live](https://open.spotify.com/track/5wEPxKa8wMRXb4IsdOMy5h) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 3:03 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 270 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 271 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Mjg1NDk1ODAsMDAwMDAwMDAzYWY1YmQ1ZGQ1YjBlMTZlNDM3YjU1MTU1OWQwNjRiYQ==`
+Snapshot ID: `Mjg1NTEwODAsMDAwMDAwMDAzMWQ5MjZjNjRjNjYxZTZkNDE1NWJhNzMxOGViNTM5MA==`

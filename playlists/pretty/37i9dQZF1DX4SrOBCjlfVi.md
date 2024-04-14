@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Future & Metro Boomin, NLE Choppa, Hunxho and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,781 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,892 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
 | 4 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 |
 | 5 | [Closer To Over](https://open.spotify.com/track/1Do2SuBBCAzfiOKm1gKPKi) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Closer To Over](https://open.spotify.com/album/0gig9wiHrJaPDgLsz0Kwh0) | 2:58 |
-| 6 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 |
+| 6 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 |
 | 7 | [Meet The 6ixers](https://open.spotify.com/track/0uXW44uIa0ODz7ut3HT7f6) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [Meet The 6ixers](https://open.spotify.com/album/2au2kYfVsWXTScKJ214WG3) | 2:17 |
 | 8 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 |
 | 9 | [CFWM \(Can’t F\*\*\* With Me\) \[feat\. Skilla Baby\]](https://open.spotify.com/track/5Ca0AImQSQzjGdUYrXTTfV) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [CFWM \(Can’t F\*\*\* With Me\) \[feat\. Skilla Baby\]](https://open.spotify.com/album/6GAM094XNGbPUdnsJ8I8aM) | 2:30 |

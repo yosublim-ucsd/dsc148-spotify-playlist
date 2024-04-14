@@ -4,7 +4,7 @@
 
 > Los éxitos del pop latino con Danna.
 
-397 songs - 20 hr 37 min
+398 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,8 @@
 | [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-01-13 | 2023-02-15 |
 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 | 2023-11-24 | 2024-02-24 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 | 2024-03-16 |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-12-22 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-03-29 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-12-22 | 2024-04-14 |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-05 |  |
 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 | 2024-03-15 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-22 | 2023-03-04 |

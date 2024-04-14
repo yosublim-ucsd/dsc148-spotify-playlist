@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 114649,
+  "2024-04-14": 114643,
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Sl\u00f8tface",
+  "description": "The best in current indie rock. Cover: Friedberg",
   "name": "pulp",
   "tracks": [
     {
@@ -2855,7 +2855,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 128468,
       "name": "Final G\u00f8rl",
       "url": "https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
@@ -4724,6 +4724,24 @@
     },
     {
       "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228122,
+      "name": "I\u2019m Not Crying, You\u2019re Crying",
+      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+    },
+    {
+      "album": {
         "name": "Jackie Down The Line",
         "url": "https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo"
       },
@@ -4987,7 +5005,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
@@ -5624,6 +5642,24 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
@@ -5765,6 +5801,24 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/36Ovo2PptT0rS5WOrw8X8O"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169595,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/3o78I4WzEYmIgWOAAqbziA"
     },
     {
       "album": {
@@ -6625,6 +6679,24 @@
       "duration_ms": 147293,
       "name": "Peel",
       "url": "https://open.spotify.com/track/266P7T1HlXBxcqsgZnL3r4"
+    },
+    {
+      "album": {
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
       "album": {
@@ -8401,7 +8473,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"

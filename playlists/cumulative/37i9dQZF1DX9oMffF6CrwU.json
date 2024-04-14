@@ -544,6 +544,32 @@
     {
       "album": {
         "name": "Breakdown On 20th Ave. South",
+        "url": "https://open.spotify.com/album/72SeRJo2F0a9Rie3QtAcae"
+      },
+      "artists": [
+        {
+          "name": "Buddy & Julie Miller",
+          "url": "https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV"
+        },
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Julie Miller",
+          "url": "https://open.spotify.com/artist/1LpjGrgy09O2ElDMR3TDfu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Feast Of The Dead",
+      "url": "https://open.spotify.com/track/1i4ePubbhf9SkN7KLrbhve"
+    },
+    {
+      "album": {
+        "name": "Breakdown On 20th Ave. South",
         "url": "https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z"
       },
       "artists": [
@@ -562,7 +588,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 239466,
       "name": "Feast Of The Dead",
       "url": "https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B"

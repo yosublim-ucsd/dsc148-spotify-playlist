@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 592503,
+  "2024-04-14": 592618,
   "date_first_scraped": "2021-12-21",
   "description": "Country Music that rocks. Cover: Ole 60",
   "name": "Country Rocks",
@@ -119,6 +119,24 @@
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
     },
     {
       "album": {
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165465,
       "name": "Cottonmouth (Rock Mix)",
       "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176813,
       "name": "I Only Date Cowboys",
       "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
@@ -3877,6 +3895,28 @@
       "duration_ms": 184426,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
+    },
+    {
+      "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
     },
     {
       "album": {

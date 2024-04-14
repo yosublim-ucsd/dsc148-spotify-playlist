@@ -1,6 +1,6 @@
 {
   "description": "Los mejores nuevos y viejos temas para cantar y perrear detr\u00e1s del volante.",
-  "num_followers": 132506,
+  "num_followers": 0,
   "original_name": "Maneja con Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Verte Ir",
-        "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
-      },
-      "artists": [
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Verte Ir",
-      "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Lean",
         "url": "https://open.spotify.com/album/08MtJrm31CA8dV2txpLMXE"
       },
@@ -1391,6 +1355,42 @@
       "duration_ms": 260545,
       "name": "Lean",
       "url": "https://open.spotify.com/track/44BZWegR2TBYtgZdAHwaGH"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Verte Ir",
+        "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
+      },
+      "artists": [
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Verte Ir",
+      "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1463,22 +1463,26 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1511,6 +1515,26 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1527,30 +1551,6 @@
       "duration_ms": 224186,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "Los Legendarios 001",
-        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
-      },
-      "artists": [
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2023-11-07 17:27:55",

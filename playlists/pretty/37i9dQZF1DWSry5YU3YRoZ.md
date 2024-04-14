@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,964 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,966 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 19 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 20 | [Star](https://open.spotify.com/track/0UZHbXhLZAsE71qeHbMlJZ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/7facF0CcVOiN1r8L1FquZg) | 3:20 |
 | 21 | [수고했어요](https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul) | [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [회사다녀요](https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb) | 3:16 |
-| 22 | [The Lover](https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Lover](https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il) | 3:05 |
-| 23 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
+| 22 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
+| 23 | [The Lover](https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Lover](https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il) | 3:05 |
 | 24 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 25 | [Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 |
 | 26 | [Letter](https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec) | 4:06 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1838006,
+  "2024-04-14": 1838051,
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Katie Pruitt",
+  "description": "The best in folk & acoustic today featuring music from Medium Build",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -2392,6 +2392,24 @@
     },
     {
       "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS"
+    },
+    {
+      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
@@ -2792,6 +2810,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -3043,7 +3079,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -3751,10 +3787,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     },
     {
       "album": {
@@ -4287,7 +4341,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
@@ -5274,6 +5328,24 @@
     },
     {
       "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "album": {
         "name": "Homesick for Another World",
         "url": "https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4"
       },
@@ -5779,7 +5851,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203683,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
@@ -6411,6 +6483,28 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "album": {
+        "name": "Overtime (feat. Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173610,
+      "name": "Overtime (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
     },
     {
       "album": {
@@ -7891,7 +7985,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 272065,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
@@ -9617,6 +9711,24 @@
       "duration_ms": 247320,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/1a4q0cPW94CTmx1GLMCwxe"
+    },
+    {
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/41vjTx4EVtMQnTFtGF1mk9"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345291,
+      "name": "Wide As Heaven",
+      "url": "https://open.spotify.com/track/03Qi8RSv6ndk9jLQU7VEFx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-296 songs - 14 hr 0 min
+297 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dunken](https://open.spotify.com/track/1kps9RcmEeFOaF9Liye8AY) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 3:59 | 2021-12-14 | 2022-07-29 |
 | [Där vi bor](https://open.spotify.com/track/4836I1j49mpDzxxmNFM2fz) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 3:14 | 2021-12-14 | 2022-07-27 |
 | [Där vi bor](https://open.spotify.com/track/7Daq0uPYehQHetj1iFpltH) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/5SSM1EI43SMP6Y6yCTzcxQ) | 3:14 | 2024-03-28 |  |
-| [Dödens maskineri](https://open.spotify.com/track/5N7tpMlUfS3voV20AMVHDn) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 4:49 | 2021-12-14 |  |
+| [Dödens maskineri](https://open.spotify.com/track/5N7tpMlUfS3voV20AMVHDn) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 4:49 | 2021-12-14 | 2024-04-14 |
 | [Egoist](https://open.spotify.com/track/1ZiVxfaAR6o2CAql1lnpWV) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Bara skiten avtar](https://open.spotify.com/album/2Q4gsHxpiwhHCuwQgWWq9V) | 2:30 | 2021-12-14 | 2022-07-29 |
 | [Egoist](https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Bara skiten avtar](https://open.spotify.com/album/3UKhCM817uDJGnUum7SeoK) | 2:30 | 2023-12-14 |  |
 | [En Ensam Cowboy](https://open.spotify.com/track/3A9OvdJHkB2RnwkpoQTlhy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [En Ensam Cowboy](https://open.spotify.com/album/6XiuE97XZXgUCLbvwN3F1G) | 3:31 | 2021-12-14 | 2022-07-28 |
@@ -230,6 +230,7 @@
 | [Sid & Nancy](https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Sid & Nancy](https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa) | 2:36 | 2021-12-14 | 2022-11-13 |
 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 | 2021-12-14 |  |
 | [Sista dansen](https://open.spotify.com/track/2NJ7ZnOwK9FUs7mcF48g6g) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Kryptonit](https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg) | 4:39 | 2021-12-14 | 2022-06-20 |
+| [SKRAPADE DRÖMMAR, SARGAT HOPP](https://open.spotify.com/track/6dJOFKJZGTafFRmUwwi7KE) | [Knifven](https://open.spotify.com/artist/3XjDzkzNYvDrUU23wbQwYi) | [SKRAPADE DRÖMMAR, SARGAT HOPP](https://open.spotify.com/album/4ZPgV9J3PVEdFrsZX0XSYu) | 2:22 | 2024-04-11 |  |
 | [Slåss som en tjej](https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Slåss som en tjej](https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ) | 2:33 | 2021-12-14 | 2024-02-20 |
 | [Slumra in](https://open.spotify.com/track/4coFp7UReaPQ98O9lQN8Gg) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 4:00 | 2021-12-14 | 2022-07-23 |
 | [Små steg](https://open.spotify.com/track/6wNd0yL725a1cjO5lDNBUt) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Står stött](https://open.spotify.com/album/4xsmrWEDxBzNOeyFMqPCNG) | 2:18 | 2023-05-04 | 2023-07-04 |

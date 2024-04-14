@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Attitude(s)",
+        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Bbye",
+      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
+    },
+    {
+      "album": {
         "name": "Be My Bagel",
         "url": "https://open.spotify.com/album/22LXxmQKYgIKAXZx7WD12Z"
       },
@@ -2774,6 +2792,24 @@
       "duration_ms": 231103,
       "name": "Breaking Bad",
       "url": "https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "album": {
@@ -3638,7 +3674,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
@@ -19146,7 +19182,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 221080,
       "name": "The Pain",
       "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"

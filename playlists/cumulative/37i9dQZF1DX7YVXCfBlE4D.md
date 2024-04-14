@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-415 songs - 20 hr 27 min
+416 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Me Dices Que Te Vas](https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Son Inolvidables: Cheo Feliciano y la R\. Venezolana](https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0) | 3:13 | 2021-05-15 |  |
 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 | 2021-05-15 | 2022-11-03 |
 | [Me Engañas Mujer](https://open.spotify.com/track/2LcttegpTSsALMk7asG3LI) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/1SwsYBzg3HDDKIsv5Tj3lq) | 2:58 | 2022-01-21 | 2022-11-13 |
-| [Me Engañas Mujer](https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 2:58 | 2022-01-21 |  |
+| [Me Engañas Mujer](https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 2:58 | 2022-01-21 | 2024-04-14 |
 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 | 2021-05-15 |  |
 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 | 2021-05-15 |  |
 | [Mi Último Fracaso](https://open.spotify.com/track/2T9yeQHLGyxVwXRW0So0Xo) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/3qQNIEw5zY5NOpgTNAVhZJ) | 3:10 | 2021-05-15 | 2022-01-22 |
@@ -328,6 +328,7 @@
 | [Presentimiento](https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Presentimiento](https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr) | 3:00 | 2021-05-15 |  |
 | [Prisionero del mar](https://open.spotify.com/track/5ugnbcGftW1mFkBgulO065) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 3:03 | 2021-05-15 | 2022-01-22 |
 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 | 2024-02-22 |  |
+| [Prisionero del Mar](https://open.spotify.com/track/2CtKDMxqQZ0GJvozsbXvxd) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Los Grandes Éxitos de Luis Arcaraz](https://open.spotify.com/album/5212xtIwURSLaPL9XpsyQO) | 2:59 | 2024-02-22 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:10 | 2021-05-15 | 2022-01-22 |
 | [Querida Amiga](https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:14 | 2021-05-15 |  |
 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 | 2021-05-15 |  |

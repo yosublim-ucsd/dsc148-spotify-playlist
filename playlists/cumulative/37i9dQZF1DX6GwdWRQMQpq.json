@@ -1301,6 +1301,36 @@
     },
     {
       "album": {
+        "name": "Bitch Duh (Remix)",
+        "url": "https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Bitch Duh (Remix)",
+      "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
+    },
+    {
+      "album": {
         "name": "Bitch I'm Nice",
         "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
       },

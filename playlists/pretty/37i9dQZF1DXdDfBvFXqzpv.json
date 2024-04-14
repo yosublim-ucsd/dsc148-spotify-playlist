@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106347,
+  "num_followers": 106348,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121880,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Under The Iron Sea",
         "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 240386,
       "name": "Nothing In My Way",
       "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 169997,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 237658,
-      "name": "TIERRA ZANTA",
-      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 214373,
       "name": "Club Foot",
       "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 237658,
+      "name": "TIERRA ZANTA",
+      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "CTRL + ALT + DEL",
-        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 153166,
-      "name": "CTRL + ALT + DEL",
-      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+        "name": "CTRL + ALT + DEL",
+        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+      "duration_ms": 153166,
+      "name": "CTRL + ALT + DEL",
+      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 199960,
       "name": "We Used To Be Friends",
       "url": "https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Raging (feat. Kodaline)",
         "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 224486,
       "name": "Raging (feat. Kodaline)",
       "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Helicopter",
-      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 200987,
       "name": "Send Them Off!",
       "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 666648,
+  "num_followers": 667101,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDg2YmRlNjg1YTZlMzNjZWQyNDBkMGYzMGFhYzUyMjAw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDNmZTJhZDE3NjRiYTY5M2RmODk3MTFkZWMzMGU3YzU5",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 192613,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
     },
     {
       "added_at": null,
@@ -871,6 +871,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Nota",
+        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
     },
     {
       "added_at": null,

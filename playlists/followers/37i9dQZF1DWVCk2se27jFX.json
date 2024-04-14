@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 31786,
+  "2024-04-14": 31790,
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla",
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos",
   "name": "Indie Colombia",
   "tracks": [
     {
@@ -623,7 +623,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225351,
       "name": "El Deporte",
       "url": "https://open.spotify.com/track/1xY1yvRMR4ePGumwPpFO7V"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 270000,
       "name": "Imagi\u0301nate",
       "url": "https://open.spotify.com/track/0qcWrXvAbelJOTmeFsCE5S"
@@ -1154,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4NnzCBRcLk79SZ10FMWpfV"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174186,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/5VcH2H6qFcBwPfu2fBjx8d"
+    },
+    {
+      "album": {
         "name": "Ma-Pa",
         "url": "https://open.spotify.com/album/0KDRK3l2l0KswomYYA8Fpr"
       },
@@ -1245,6 +1263,24 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "album": {
+        "name": "Nada Que Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/26VRbNvZy0xLUdvmBYcBMb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204460,
+      "name": "Nada Que Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/27SOl55VMSsvBTrNTmnBL6"
     },
     {
       "album": {
@@ -1658,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Fin De Los Tiempos",
+        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
+      },
+      "artists": [
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234625,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
+    },
+    {
+      "album": {
         "name": "Ya Me Cans\u00e9 De La Industria",
         "url": "https://open.spotify.com/album/34fMrlyLWMtP9Ba2zaDhGo"
       },
@@ -1923,7 +1977,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
@@ -1941,7 +1995,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168000,
       "name": "Turn Blue",
       "url": "https://open.spotify.com/track/2jOZHTpq7g4H6IrcJLEukR"
@@ -1999,6 +2053,24 @@
       "duration_ms": 266953,
       "name": "Venice",
       "url": "https://open.spotify.com/track/0pbrGo2qewg5ZvgMnmgEEL"
+    },
+    {
+      "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
     },
     {
       "album": {

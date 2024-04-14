@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora né não??
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,202 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,250 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

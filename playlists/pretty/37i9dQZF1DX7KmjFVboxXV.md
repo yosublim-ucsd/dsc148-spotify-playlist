@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,028 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,184 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 22 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
 | 23 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 |
 | 24 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 25 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
-| 26 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
+| 25 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
+| 26 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 27 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
 | 28 | [she knows it](https://open.spotify.com/track/6akIg86zMI54PSMOvVMTb9) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:36 |
 | 29 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 39 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
 | 40 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/6LHioVAsFPLjupnl8ikW7H) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/5TaITkKqtWBJGkc2LhCSR5) | 3:29 |
 | 41 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
-| 42 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
+| 42 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
 | 43 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 |
-| 44 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 44 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
 | 45 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 46 | [HIM](https://open.spotify.com/track/3AFPGvRzeKeNJbIbLwcz4G) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:10 |
 | 47 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |

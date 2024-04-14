@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 23503,
+  "2024-04-14": 23501,
   "date_first_scraped": "2023-11-08",
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring J. Cole, ScHoolboy Q, Yeat, Ice Spice, Drake and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more. Cover: GloRilla",
   "name": "Hip-Hop Pulse",
@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "7 Minute Drill",
+      "url": "https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi"
+    },
+    {
+      "album": {
         "name": "90 Proof (with J. Cole)",
         "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
       },
@@ -151,7 +169,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202886,
       "name": "AIN\u2019T NOTHIN",
       "url": "https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm"
@@ -191,7 +209,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 237312,
       "name": "Angel In The Marble",
       "url": "https://open.spotify.com/track/0LIYWVeuLISkSopjKzkLjv"
@@ -1010,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "EVERYBODY",
+        "url": "https://open.spotify.com/album/2rG2pC1BqTmPrEHgXYuWbo"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "EVERYBODY",
+      "url": "https://open.spotify.com/track/7tToMKgUXVNMU54B2ruipf"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -1203,7 +1239,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173289,
       "name": "Get It",
       "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
@@ -1839,6 +1875,32 @@
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "album": {
@@ -2085,7 +2147,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164776,
       "name": "Ocean Spray",
       "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
@@ -2239,6 +2301,24 @@
       "duration_ms": 164501,
       "name": "One Foot In (with Stove God Cooks)",
       "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
+    },
+    {
+      "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
     },
     {
       "album": {
@@ -2719,7 +2799,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196626,
       "name": "Slump (Never Broke Again feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/6njzTlnGXDeUSJ0hqBRmRe"
@@ -2755,7 +2835,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
@@ -2925,7 +3005,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5"
@@ -3139,7 +3219,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226542,
       "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
       "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
@@ -3257,7 +3337,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -3323,10 +3403,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144545,
       "name": "WDGAF (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/5E24FVNvb8mXpBAySTTr24"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "album": {
@@ -3345,7 +3447,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
@@ -3407,7 +3509,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"

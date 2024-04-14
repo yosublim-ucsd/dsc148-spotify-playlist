@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 332228,
+  "2024-04-14": 332256,
   "date_first_scraped": "2022-01-02",
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Young Miko en portada. ",
   "name": "Rap en Espa\u00f1ol",
@@ -158,6 +158,24 @@
     },
     {
       "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/7mDsBQmtx9hBoPBOWeaLhA"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204264,
+      "name": "999",
+      "url": "https://open.spotify.com/track/48kQ0yFpqszCTRbUrCq9FH"
+    },
+    {
+      "album": {
         "name": "A 120",
         "url": "https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 247516,
       "name": "Ahora Corren",
       "url": "https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3"
@@ -754,6 +772,28 @@
     },
     {
       "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/4oEEYBI8Ge2f73CnFHOzOW"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/64KQlZiuTcnh3IdZUMn48r"
+    },
+    {
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1063,6 +1103,32 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "album": {
+        "name": "CADA VEZ QUE",
+        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151417,
+      "name": "CADA VEZ QUE",
+      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
     },
     {
       "album": {
@@ -1881,7 +1947,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227600,
       "name": "Donante de Sangre",
       "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
@@ -2575,7 +2641,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
@@ -3213,7 +3279,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201102,
       "name": "La Profec\u00eda (The Eagle & The Condor)",
       "url": "https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX"
@@ -3616,6 +3682,28 @@
     },
     {
       "album": {
+        "name": "Loquera",
+        "url": "https://open.spotify.com/album/2xAayME6IieKXPq2WmPd7o"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/3XcS1eK277s6aSn3P3cGku"
+    },
+    {
+      "album": {
         "name": "El Mundo Es Tuyo",
         "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
       },
@@ -4007,7 +4095,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 155000,
       "name": "Medicina Fina",
       "url": "https://open.spotify.com/track/1OxCK5W8UqpAGSCSLOa6zo"
@@ -4195,6 +4283,32 @@
       "duration_ms": 241111,
       "name": "Migas",
       "url": "https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES"
+    },
+    {
+      "album": {
+        "name": "Millo",
+        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
+      },
+      "artists": [
+        {
+          "name": "Dehry",
+          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "MC Albertico",
+          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199997,
+      "name": "Millo",
+      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
     },
     {
       "album": {
@@ -5004,6 +5118,28 @@
     },
     {
       "album": {
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
+    },
+    {
+      "album": {
         "name": "Phiesta",
         "url": "https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds"
       },
@@ -5195,7 +5331,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189397,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J"
@@ -5459,7 +5595,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
@@ -5529,6 +5665,32 @@
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+    },
+    {
+      "album": {
+        "name": "RITMO",
+        "url": "https://open.spotify.com/album/71ZKg0YoJ6tO5HlEhhTbXf"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "RITMO",
+      "url": "https://open.spotify.com/track/4K8AqmWpvzezHIcCiSd882"
     },
     {
       "album": {

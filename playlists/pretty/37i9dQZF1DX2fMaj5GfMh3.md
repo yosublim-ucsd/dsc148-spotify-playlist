@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Perrie op de cover van Fresh Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,283 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,296 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

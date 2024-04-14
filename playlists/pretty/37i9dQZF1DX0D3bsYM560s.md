@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,033 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,045 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 73 | [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 |
 | 74 | [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 |
 | 75 | [Peace](https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 3:15 |
-| 76 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 |
+| 76 | [Night Singing](https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1) | 2:11 |
 | 77 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 |
 | 78 | [Think Again](https://open.spotify.com/track/72aAmpLIV926IpLXn5bb4R) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Think Again](https://open.spotify.com/album/7kkbpcyIoMisqJQCqlsiuZ) | 4:07 |
 | 79 | [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 |

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-119 songs - 6 hr 29 min
+120 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2024-02-23 | 2024-03-16 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2024-02-16 | 2024-02-24 |
 | [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 | 2024-01-26 |  |
-| [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 | 2024-03-01 |  |
+| [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 | 2024-03-01 | 2024-04-14 |
+| [leavemealone](https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 3:42 | 2024-04-12 |  |
 | [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2024-01-26 | 2024-03-05 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-29 |  |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2024-01-26 | 2024-02-17 |

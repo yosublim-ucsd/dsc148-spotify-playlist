@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 75681,
+  "2024-04-14": 75786,
   "date_first_scraped": "2023-03-20",
   "description": "Country rap hits of today and tomorrow.",
   "name": "Country Rap",
@@ -2199,6 +2199,28 @@
       "duration_ms": 164550,
       "name": "Straw Hat - Remix",
       "url": "https://open.spotify.com/track/4SgOKIQLkGlW8RH2v2vgLx"
+    },
+    {
+      "album": {
+        "name": "Take It To The Country",
+        "url": "https://open.spotify.com/album/2HTMQHiALfWzN183lrWwaZ"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Johnny Day",
+          "url": "https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145587,
+      "name": "Take It To The Country",
+      "url": "https://open.spotify.com/track/1qcjsNLdP7D9RLx41TBOD4"
     },
     {
       "album": {

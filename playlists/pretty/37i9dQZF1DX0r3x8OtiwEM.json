@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 937581,
+  "num_followers": 937779,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
+        "name": "When the Lights Go (Deluxe)",
+        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
         "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
         "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 216106,
       "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
       "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
-        "name": "When the Lights Go (Deluxe)",
-        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
     },
     {
       "added_at": "2023-11-27 18:33:25",

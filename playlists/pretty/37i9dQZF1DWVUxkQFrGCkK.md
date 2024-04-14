@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > warming up for ibz szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,279 likes - 215 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,579 likes - 215 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 73 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 |
 | 74 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 75 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
-| 76 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 76 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 77 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 78 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
 | 79 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |

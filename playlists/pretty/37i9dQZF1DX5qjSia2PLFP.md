@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:1IppGzPqPv70sKbraW5Q2L">Baby Kia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,830 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,010 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

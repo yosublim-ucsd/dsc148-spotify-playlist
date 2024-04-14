@@ -4,7 +4,7 @@
 
 > Únete a la extravaganza del neón\. Fred Again en portada.
 
-150 songs - 7 hr 29 min
+151 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Angles](https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Angles](https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro) | 2:45 | 2023-09-23 |  |
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-02-16 |  |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-09-23 |  |
+| [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 | 2024-04-12 |  |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-09-23 |  |
-| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2024-04-12 |  |
+| [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 | 2024-04-12 | 2024-04-14 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-09-23 |  |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2024-02-16 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2023-09-23 | 2024-02-24 |

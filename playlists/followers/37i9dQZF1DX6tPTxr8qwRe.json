@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 402170,
+  "2024-04-14": 402169,
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: BABYMONSTER",
+  "description": "Dark, hard hitting pop. Cover: Noga Erez",
   "name": "SALT",
   "tracks": [
     {
@@ -226,6 +226,24 @@
     },
     {
       "album": {
+        "name": "99 boys",
+        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146317,
+      "name": "99 boys",
+      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
+    },
+    {
+      "album": {
         "name": "A Series of Unfortunate Events",
         "url": "https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ"
       },
@@ -375,6 +393,24 @@
       "duration_ms": 97643,
       "name": "ALL ABOUT ME",
       "url": "https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL"
+    },
+    {
+      "album": {
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "album": {
@@ -1555,6 +1591,24 @@
       "duration_ms": 171443,
       "name": "Breadcrumbs",
       "url": "https://open.spotify.com/track/5QiWXgX8ANHg5v8jE1eaQh"
+    },
+    {
+      "album": {
+        "name": "break me",
+        "url": "https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "break me",
+      "url": "https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ"
     },
     {
       "album": {
@@ -4084,6 +4138,24 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146677,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0ZuPqWaILv4VJsTii3UdeM"
+    },
+    {
+      "album": {
         "name": "GOOD ENEMY",
         "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
       },
@@ -4315,7 +4387,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154520,
       "name": "happy 4 u",
       "url": "https://open.spotify.com/track/1hfrYkixh0whgfp6R1z61c"
@@ -6993,7 +7065,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170000,
       "name": "Narcissistic",
       "url": "https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK"
@@ -8748,6 +8820,24 @@
     },
     {
       "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146383,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC"
+    },
+    {
+      "album": {
         "name": "she knows it",
         "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
       },
@@ -9073,7 +9163,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 136543,
       "name": "SIREN",
       "url": "https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5"
@@ -9507,6 +9597,28 @@
       "duration_ms": 117727,
       "name": "STRUT",
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124888,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P"
     },
     {
       "album": {
@@ -10552,6 +10664,28 @@
     },
     {
       "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH"
       },
@@ -10701,6 +10835,24 @@
       "duration_ms": 138209,
       "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
       "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
+    },
+    {
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209158,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "album": {

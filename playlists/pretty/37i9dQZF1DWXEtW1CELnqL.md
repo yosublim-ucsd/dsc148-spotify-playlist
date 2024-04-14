@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 
 > On sait jamais, sur un malentendu ça peut marcher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,799 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,831 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 5 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
 | 6 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 7 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
-| 8 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
-| 9 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
+| 8 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
+| 9 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
 | 10 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
 | 11 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 12 | [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 19 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 20 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 21 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 |
-| 22 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 23 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 |
-| 24 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
+| 22 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
+| 23 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
+| 24 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 |
 | 25 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 26 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
 | 27 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 50 | [River](https://open.spotify.com/track/4tvmsvV1aUmbPKdzl19Or9) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [BRKN LOVE \(Deluxe Edition\)](https://open.spotify.com/album/78fyPzuOJp724AbTZ9Vg2s) | 3:45 |
 | 51 | [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 |
 | 52 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
-| 53 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 |
-| 54 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
+| 53 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
+| 54 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 |
 | 55 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
-| 56 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
-| 57 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 |
+| 56 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 |
+| 57 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
 | 58 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 59 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 | 60 | [Figure.09](https://open.spotify.com/track/3yE7LC2ZyNWsLRSXHb0J06) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:17 |

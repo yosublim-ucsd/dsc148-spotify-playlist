@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-430 songs - 1 day 2 hr 23 min
+432 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Church Of Better Daze](https://open.spotify.com/track/6U4jMMusOoHs2XaxVH0qgd) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church Of Better Daze / Eggs Benediction](https://open.spotify.com/album/39nYzS2wKPTEGglVCwOwTd) | 2:53 | 2022-05-13 | 2022-07-23 |
 | [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 | 2024-02-16 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-02-09 |  |
+| [Cocaine Country Dancing](https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2) | 4:16 | 2024-04-12 |  |
 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 | 2023-04-21 | 2024-04-13 |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 | 2023-01-21 |
 | [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 | 2022-10-13 |
@@ -111,12 +112,13 @@
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-05-13 | 2022-06-04 |
 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 | 2024-01-05 |  |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
+| [Damn Darlin'](https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 3:19 | 2024-04-12 |  |
 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 | 2023-04-21 | 2024-04-13 |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2023-10-20 |
 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 | 2023-10-13 |  |
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2022-05-13 | 2022-08-27 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-03-10 |  |
-| [Days Can Turn Around](https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Days Can Turn Around](https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE) | 3:58 | 2024-01-05 |  |
+| [Days Can Turn Around](https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Days Can Turn Around](https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE) | 3:58 | 2024-01-05 | 2024-04-14 |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2023-04-21 | 2023-06-24 |
 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 | 2022-05-13 | 2023-02-04 |
 | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/track/7DlI8czdypGakdmOp0Xv2S) | [Dustin Kensrue](https://open.spotify.com/artist/0SuWOa14KQ9jBIwvqFbzo5), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/album/2auQZXqoFzba9G30DCKCq1) | 3:36 | 2024-02-09 |  |
@@ -205,7 +207,7 @@
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 | 2023-01-16 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 | 2022-12-16 | 2023-04-22 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2023-04-21 |  |
-| [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 |  |
+| [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 | 2024-04-14 |
 | [In Montreal](https://open.spotify.com/track/3Gwqsw9RQu216w13DvByYL) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [In Montreal](https://open.spotify.com/album/6vt5EJjKiIymCZYBjXFGtc) | 3:33 | 2024-04-12 |  |
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-07-28 |  |

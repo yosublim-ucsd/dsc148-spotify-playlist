@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,386 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,564 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 29 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
 | 30 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 |
 | 31 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
-| 32 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
-| 33 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
+| 32 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
+| 33 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 34 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 |
 | 35 | [One of These Days](https://open.spotify.com/track/5P7Lehr4D2ZsQCQnUR5lGM) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [One of These Days](https://open.spotify.com/album/7cW7r50LAQOnwlfis8NR8X) | 3:32 |
 | 36 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 57 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 |
 | 58 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
 | 59 | [Gettin' You Home](https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [The Man I Want To Be](https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH) | 3:32 |
-| 60 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
+| 60 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
 | 61 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 |
-| 62 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
+| 62 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
 | 63 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 64 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 65 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |

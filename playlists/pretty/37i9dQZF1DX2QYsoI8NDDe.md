@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Janeth Valenzuela
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,811 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,832 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 36 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 37 | [CUIDADITO](https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:56 |
 | 38 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
-| 39 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
-| 40 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 |
+| 39 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 |
+| 40 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 | 41 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
 | 42 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |
 | 43 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 61 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
 | 62 | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje) | 2:51 |
 | 63 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
-| 64 | [Contigo](https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Contigo](https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw) | 3:53 |
-| 65 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 64 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 65 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
 
 Snapshot ID: `MTcxMTEyMTIwNiwwMDAwMDAwMDNjMmVhNjJjYjBhMWEyNmYwNmIwNDJjOTQ5ZGJiZDcx`

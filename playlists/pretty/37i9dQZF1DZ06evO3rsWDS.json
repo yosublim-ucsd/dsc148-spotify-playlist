@@ -1,12 +1,12 @@
 {
-  "description": "This Is Chiquis. Los temas esenciales, todos en una lista.",
-  "num_followers": 4627,
+  "description": "This is Chiquis. The essential tracks, all in one playlist.",
+  "num_followers": 4630,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDg1ZTQzOGQ5YzA0NDIxZGJhODM2OGYzMjQ5YjA2NzRh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDUwYTVhMDI3OTdlMjIxYTBiYmUxMzVlNjQ0NDZhOTcy",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 158813,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Lo Que Me Salv\u00e9",
+        "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
     },
     {
       "added_at": null,
@@ -631,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+        "name": "Homenaje a la Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
       "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 215306,
-      "name": "La Malquerida",
-      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
+      "duration_ms": 203773,
+      "name": "Ovarios (feat. Chiquis Rivera)",
+      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
     },
     {
       "added_at": null,
@@ -667,28 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a la Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Ovarios (feat. Chiquis Rivera)",
-      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
-        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
       "artists": [
         {
@@ -696,25 +696,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 86773,
-      "name": "Chuper Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Regresar\u00e1s",
-        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "No Regresar\u00e1s",
-      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+      "duration_ms": 215306,
+      "name": "La Malquerida",
+      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
     },
     {
       "added_at": null,
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 197293,
-      "name": "La Que Est\u00e1 De Moda Soy Yo",
-      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
     },
     {
       "added_at": null,
@@ -760,9 +744,25 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 120120,
-      "name": "A Lo Menso / Quisieran Tener Mi Lugar - En Vivo",
-      "url": "https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN"
+      "duration_ms": 188786,
+      "name": "No Llega El Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 86773,
+      "name": "Chuper Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
         "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 198442,
       "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
       "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
-        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "No Llega El Olvido - En Vivo",
-      "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 120120,
+      "name": "A Lo Menso / Quisieran Tener Mi Lugar - En Vivo",
+      "url": "https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Aprovechame",
-      "url": "https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 190373,
       "name": "PA' TI",
       "url": "https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Aprovechame",
+      "url": "https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo"
     },
     {
       "added_at": null,

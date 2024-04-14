@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-92 songs - 6 hr 12 min
+93 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 | 2023-04-15 |  |
 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 | 2023-04-15 |  |
 | [Rei das Nações](https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das Nações](https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf) | 3:41 | 2023-04-15 |  |
-| [Sangue de Jesus](https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3) | 3:11 | 2023-08-04 |  |
+| [Sangue de Jesus](https://open.spotify.com/track/2gdItz93EHBKPTxXg3ZgDp) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/28Ae90hKeEu4egrlY4Mxek) | 3:11 | 2023-12-22 |  |
+| [Sangue de Jesus](https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3) | 3:11 | 2023-08-04 | 2024-04-14 |
 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 | 2023-04-15 |  |
 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 | 2023-04-15 |  |
 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 | 2023-04-15 |  |

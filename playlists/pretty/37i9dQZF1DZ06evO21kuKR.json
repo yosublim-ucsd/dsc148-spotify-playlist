@@ -1,12 +1,12 @@
 {
-  "description": "This Is Moneybagg Yo. Los temas esenciales, todos en una lista.",
-  "num_followers": 85633,
+  "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
+  "num_followers": 85665,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDkzNWQwOGM5OTQxMTUwZThlOWU4ZmI5YzIwOWM5MDU2",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDFkZjdiYTVmZGU1MTU0NTFmZDA3MzZjNGUyZjA1MDdh",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Sholl Is",
-      "url": "https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See Wat I\u2019m Sayin",
         "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Sholl Is",
+      "url": "https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Public Housing",
+        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 184067,
+      "name": "Certified Dripper 2 (with MoneyBagg Yo)",
+      "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm The One",
         "url": "https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 215504,
       "name": "Batman (with Lil Wayne feat. Moneybagg Yo) - Remix",
       "url": "https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Public Housing",
-        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 184067,
-      "name": "Certified Dripper 2 (with MoneyBagg Yo)",
-      "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },
@@ -707,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Baby\u2019s",
-        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 134675,
-      "name": "Tampering With Evidence",
-      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Of A Hotboii",
         "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
       },
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fed Baby\u2019s",
+        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 134675,
+      "name": "Tampering With Evidence",
+      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 204285,
       "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "All Dere (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
     },
     {
       "added_at": null,

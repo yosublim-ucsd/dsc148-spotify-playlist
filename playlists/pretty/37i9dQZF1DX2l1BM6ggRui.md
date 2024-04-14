@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,538 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,541 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 6 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 7 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
 | 8 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 |
-| 9 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 |
-| 10 | [Lovin' Me](https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 3:09 |
+| 9 | [Lovin' Me](https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 3:09 |
+| 10 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 |
 | 11 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
 | 12 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
 | 13 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 36 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 37 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
 | 38 | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3) | 3:25 |
-| 39 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
-| 40 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
+| 39 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
+| 40 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
 | 41 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 42 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
-| 43 | [Come N Goes](https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:31 |
-| 44 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
+| 43 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
+| 44 | [Come N Goes](https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:31 |
 | 45 | [Fly](https://open.spotify.com/track/0U4gMX1z7VAGvwPpjHjuq3) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Misaeng \(Incomplete Life\) \(Original Television Soundtrack\)](https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul) | 4:46 |
 | 46 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 |
 | 47 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 57 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
 | 58 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 |
 | 59 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 |
-| 60 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 |
+| 60 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
 
 Snapshot ID: `MTcxMTUxODcwNCwwMDAwMDAwMGM2ZThlNTgxZmNmMDM0OTZjNDIyY2RiNjhhMzM1ZmQx`

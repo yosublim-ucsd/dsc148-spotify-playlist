@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-96 songs - 6 hr 59 min
+97 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [What Can A Man Do?](https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF) | 5:16 | 2020-12-01 |  |
 | [What's It Take?](https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 4:09 | 2020-12-01 |  |
 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 | 2020-12-01 |  |
-| [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 | 2020-12-01 |  |
+| [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 | 2020-12-01 | 2024-04-14 |
+| [Who's Still in Love](https://open.spotify.com/track/6vRZO4rUcPfPZCJw0K06no) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/1ICWqyGn0nVLmYE4KZ7GFb) | 3:09 | 2020-12-01 |  |
 | [Yes, I've Been Crying](https://open.spotify.com/track/0H1uBZDlOg5oLVg5jB1g2q) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/7heUOSM7fmIfzwFQQkqYQ5) | 3:54 | 2020-12-01 |  |
 | [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 | 2020-12-01 | 2024-04-13 |
 | [You Can Stay But The Noise Must Go On](https://open.spotify.com/track/4tqT8X8t0hrZDnLgodafSt) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Out Of The Dark](https://open.spotify.com/album/1WgkGmeDIjbxmJU7uu9MyP) | 6:20 | 2020-12-01 |  |

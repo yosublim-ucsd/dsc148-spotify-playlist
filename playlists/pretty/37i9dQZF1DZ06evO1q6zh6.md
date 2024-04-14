@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 ### [This Is Judas Priest](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q6zh6)
 
-> This Is Judas Priest\. Los temas esenciales, todos en una lista.
+> This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,834 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,882 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Rock Hard Ride Free](https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 5:33 |
 | 50 | [\(Take These\) Chains](https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 3:05 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDNmYWU3ZDI0ZGE2NGEyYTM5MTU3N2U5OTIwNzcyMjc0`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDNmZTBmZjM3NzYzYTRmNzI4Y2U4MjVmYzBhNTJjODU1`

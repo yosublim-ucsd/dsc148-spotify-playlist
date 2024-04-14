@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,044 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,083 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 39 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
 | 40 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
 | 41 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
-| 42 | [Back In The USA](https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK) | [Albert Lee & Hogan's Heroes](https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H) | [Tear It Up](https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK) | 3:23 |
-| 43 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
+| 42 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
+| 43 | [Back In The USA](https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK) | [Albert Lee & Hogan's Heroes](https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H) | [Tear It Up](https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK) | 3:23 |
 | 44 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 45 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
 | 46 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |

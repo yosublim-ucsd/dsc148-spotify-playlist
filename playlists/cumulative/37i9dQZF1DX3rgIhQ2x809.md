@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-124 songs - 6 hr 42 min
+125 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 | 2023-06-09 |  |
 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 | 2023-06-09 |  |
 | [Dame Luz](https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 3:47 | 2023-06-09 |  |
-| [De Vogue](https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 2:50 | 2023-06-09 |  |
+| [De Vogue](https://open.spotify.com/track/1vFOdcC7HQNm5qj9aqEgbh) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 2:50 | 2023-06-09 | 2024-04-14 |
 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 | 2023-06-09 |  |
 | [Después Del Party](https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:42 | 2023-06-09 |  |
 | [Después Del Party](https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Después Del Party](https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF) | 2:42 | 2023-06-09 | 2023-07-07 |
@@ -85,6 +85,7 @@
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 | 2023-06-09 |  |
 | [PAPELON](https://open.spotify.com/track/7n1wgE7FO0ofqR6Br8LCfr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [MELAZA](https://open.spotify.com/album/7qKnIpW3o9o9tMjqu39NUR) | 2:19 | 2023-06-09 |  |
 | [Pasajero](https://open.spotify.com/track/5hvIzJHhh8EoIKVqXIypn6) | [GERO](https://open.spotify.com/artist/7r6BQAQC6tORZMC6RIJBcO) | [Pasajero](https://open.spotify.com/album/65vRCYxPs4YpsBYKJhTOXs) | 3:21 | 2023-06-09 |  |
+| [Percocet](https://open.spotify.com/track/48R2Sww0UeFhqgiMHBZ2C7) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Percocet](https://open.spotify.com/album/4mOUbpfQhFB1vCKeOvAI9J) | 3:26 | 2023-06-09 |  |
 | [Perreo X Calle](https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Perreo X Calle](https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa) | 3:10 | 2023-06-09 | 2023-11-10 |
 | [Piky](https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu) | [Piky](https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9) | 2:41 | 2023-06-09 | 2023-09-28 |
 | [Polvos Narcos](https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Polvos Narcos](https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw) | 3:48 | 2023-06-09 |  |

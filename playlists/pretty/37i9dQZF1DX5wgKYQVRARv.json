@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: TesseracT",
-  "num_followers": 534378,
+  "num_followers": 534463,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -231,8 +231,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+        "name": "Hikari",
+        "url": "https://open.spotify.com/album/1LnLYVGRQLk2VplgyefEqz"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+      "duration_ms": 218466,
+      "name": "Hansha",
+      "url": "https://open.spotify.com/track/3EC4B8QG0trMZFHBbiDKVN"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -311,8 +311,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hikari",
-        "url": "https://open.spotify.com/album/1LnLYVGRQLk2VplgyefEqz"
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Hansha",
-      "url": "https://open.spotify.com/track/3EC4B8QG0trMZFHBbiDKVN"
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Phronesis",
-        "url": "https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 274528,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 263853,
       "name": "Call out the Dark",
       "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Phronesis",
+        "url": "https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        }
+      ],
+      "duration_ms": 274528,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Reptile",
-        "url": "https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Reptile",
-      "url": "https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Black Heart",
         "url": "https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213125,
       "name": "Devil In Me",
       "url": "https://open.spotify.com/track/7GXeVinQU94kuwF5QY2Tdg"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Reptile",
+        "url": "https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Reptile",
+      "url": "https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/2fMZGcHeAcIakWa1uJrULA"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/4FhQi9oReeewRdU399Rod3"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 252000,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/2fMZGcHeAcIakWa1uJrULA"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/4FhQi9oReeewRdU399Rod3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Animals as Leaders - Encore Edition",
+        "url": "https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf"
+      },
+      "artists": [
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
+        }
+      ],
+      "duration_ms": 401129,
+      "name": "Cafo",
+      "url": "https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 304864,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Animals as Leaders - Encore Edition",
-        "url": "https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf"
-      },
-      "artists": [
-        {
-          "name": "Animals As Leaders",
-          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
-        }
-      ],
-      "duration_ms": 401129,
-      "name": "Cafo",
-      "url": "https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "ARE YOU AFRAID?",
-        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ"
       },
       "artists": [
         {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
         }
       ],
-      "duration_ms": 202105,
-      "name": "ARE YOU AFRAID?",
-      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
+      "duration_ms": 367030,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Grey",
-        "url": "https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ"
+        "name": "ARE YOU AFRAID?",
+        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
       },
       "artists": [
         {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
         }
       ],
-      "duration_ms": 367030,
-      "name": "The Grey",
-      "url": "https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td"
+      "duration_ms": 202105,
+      "name": "ARE YOU AFRAID?",
+      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Golem",
-        "url": "https://open.spotify.com/album/55QbMraEFIP8GtGig4TxsV"
-      },
-      "artists": [
-        {
-          "name": "Caligula's Horse",
-          "url": "https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC"
-        }
-      ],
-      "duration_ms": 320293,
-      "name": "Golem",
-      "url": "https://open.spotify.com/track/6IDBU2KSr7SD1RaJ2dsCOy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
         "url": "https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Golem",
+        "url": "https://open.spotify.com/album/55QbMraEFIP8GtGig4TxsV"
+      },
+      "artists": [
+        {
+          "name": "Caligula's Horse",
+          "url": "https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC"
+        }
+      ],
+      "duration_ms": 320293,
+      "name": "Golem",
+      "url": "https://open.spotify.com/track/6IDBU2KSr7SD1RaJ2dsCOy"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Skinwalker",
-        "url": "https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f"
-      },
-      "artists": [
-        {
-          "name": "Artificial Language",
-          "url": "https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32"
-        }
-      ],
-      "duration_ms": 280511,
-      "name": "Skinwalker",
-      "url": "https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
       },
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Skinwalker",
+        "url": "https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f"
+      },
+      "artists": [
+        {
+          "name": "Artificial Language",
+          "url": "https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32"
+        }
+      ],
+      "duration_ms": 280511,
+      "name": "Skinwalker",
+      "url": "https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Overwhelming Love",
         "url": "https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn"
       },
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+        "name": "Mute Talk",
+        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
       },
       "artists": [
         {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
         }
       ],
-      "duration_ms": 298909,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
+      "duration_ms": 247384,
+      "name": "Mute Love",
+      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/5fqddxT7gPhi1IPD2kfrdE"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 197474,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/3f3gQkdhDWcGONyWGyjana"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Mute Talk",
-        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Mute Love",
-      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Loathing Light",
-        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        }
-      ],
-      "duration_ms": 207579,
-      "name": "Against My Sins",
-      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Nous Sommes La Guerre",
         "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 413426,
       "name": "Nous Sommes la Guerre",
       "url": "https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Loathing Light",
+        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "duration_ms": 207579,
+      "name": "Against My Sins",
+      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Necrosis",
-        "url": "https://open.spotify.com/album/2K5o4C3svh2VrTQ1lO4cpB"
-      },
-      "artists": [
-        {
-          "name": "Harkla",
-          "url": "https://open.spotify.com/artist/6LE9lW3E48cGM8tk5UGv30"
-        }
-      ],
-      "duration_ms": 301750,
-      "name": "We the Shaded",
-      "url": "https://open.spotify.com/track/5K6xqw7d635FygPni9IIqK"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 270273,
       "name": "Reimagined - Set 1 - Live From Atlanta",
       "url": "https://open.spotify.com/track/1AozJrg5k08jsn54Watygb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Necrosis",
+        "url": "https://open.spotify.com/album/2K5o4C3svh2VrTQ1lO4cpB"
+      },
+      "artists": [
+        {
+          "name": "Harkla",
+          "url": "https://open.spotify.com/artist/6LE9lW3E48cGM8tk5UGv30"
+        }
+      ],
+      "duration_ms": 301750,
+      "name": "We the Shaded",
+      "url": "https://open.spotify.com/track/5K6xqw7d635FygPni9IIqK"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -3075,6 +3075,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Silence In a Room of Lies",
+        "url": "https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Jared Dines",
+          "url": "https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ"
+        }
+      ],
+      "duration_ms": 194909,
+      "name": "Silence In a Room of Lies",
+      "url": "https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "The Violent Sound",
         "url": "https://open.spotify.com/album/6cF98YylF72OIcuAXAaOPA"
       },
@@ -3107,26 +3127,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Silence In a Room of Lies",
-        "url": "https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        },
-        {
-          "name": "Jared Dines",
-          "url": "https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ"
-        }
-      ],
-      "duration_ms": 194909,
-      "name": "Silence In a Room of Lies",
-      "url": "https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Katabasis",
         "url": "https://open.spotify.com/album/703y5eX545v5GdMr0bIK01"
       },
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Convergence",
-        "url": "https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl"
-      },
-      "artists": [
-        {
-          "name": "Shylmagoghnar",
-          "url": "https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA"
-        }
-      ],
-      "duration_ms": 421919,
-      "name": "Infinion",
-      "url": "https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/370O27tHg8pVtHw6GeETG7"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 264287,
       "name": "Total",
       "url": "https://open.spotify.com/track/4SOEGk2A1yK8esgnQuiyiq"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl"
+      },
+      "artists": [
+        {
+          "name": "Shylmagoghnar",
+          "url": "https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA"
+        }
+      ],
+      "duration_ms": 421919,
+      "name": "Infinion",
+      "url": "https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Approbation",
-        "url": "https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs"
-      },
-      "artists": [
-        {
-          "name": "AVKRVST",
-          "url": "https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/5fLICMZIvdl3hgnF5u8Ef8"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 247411,
       "name": "Phantom Pain",
       "url": "https://open.spotify.com/track/1hqS8MM45QraOjbvXHgBSR"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "The Approbation",
+        "url": "https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs"
+      },
+      "artists": [
+        {
+          "name": "AVKRVST",
+          "url": "https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO"
     },
     {
       "added_at": "2024-03-29 04:00:00",

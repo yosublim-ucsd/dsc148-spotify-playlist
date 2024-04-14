@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 69296,
+  "2024-04-14": 69299,
   "date_first_scraped": "2023-03-19",
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Ava Max",
   "name": "mint Japan",
@@ -2580,6 +2580,28 @@
     },
     {
       "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
+    },
+    {
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl"
       },
@@ -3577,7 +3599,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"

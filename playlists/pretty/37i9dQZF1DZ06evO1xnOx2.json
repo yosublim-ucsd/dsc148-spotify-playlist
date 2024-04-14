@@ -1,12 +1,12 @@
 {
-  "description": "This is Hozier. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 472383,
+  "description": "This is Hozier. The essential tracks, all in one playlist.",
+  "num_followers": 472995,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGE3NTNiNzllNzJiYmMzNWUwZTZhZGNlMmM2Y2UzYTI3",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDYxNGVkNGI5NjQ2OWE0OGQ4MzVmYTAyMzZkOTc1YTc1",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 210573,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/69WkwzVjQS4Dc8QQtpz0qM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sedated",
-      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sedated",
+      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "I, Carrion (Icarian)",
+      "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -495,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "I, Carrion (Icarian)",
-      "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 257346,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/4zvvvHm0b5CBl37tocxm7n"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
       },
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 254840,
       "name": "Moment's Silence (Common Tongue)",
       "url": "https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     }
   ],
   "unique_name": "This Is Hozier",

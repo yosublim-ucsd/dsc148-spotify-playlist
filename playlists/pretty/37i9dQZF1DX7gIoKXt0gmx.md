@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,368 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,753,611 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 58 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 |
 | 59 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 60 | [Missin You Crazy](https://open.spotify.com/track/4ve2uzqdwnHr20G5YgMMqr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [ZOO](https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e) | 3:46 |
-| 61 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 |
-| 62 | [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 |
+| 61 | [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 |
+| 62 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 |
 | 63 | [Favorite Mistake](https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:52 |
 | 64 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 65 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 85 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 86 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
 | 87 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
-| 88 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
+| 88 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 89 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
-| 90 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 90 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
 | 91 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 92 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 93 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |

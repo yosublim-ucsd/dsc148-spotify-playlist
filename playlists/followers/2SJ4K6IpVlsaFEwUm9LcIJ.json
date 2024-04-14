@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 19199,
+  "2024-04-14": 19211,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
   "name": "innocence and panic",
@@ -21,6 +21,24 @@
       "duration_ms": 277160,
       "name": "A Summer Long Since Passed",
       "url": "https://open.spotify.com/track/0OPAfFVbyXiGJTHsXqrC7o"
+    },
+    {
+      "album": {
+        "name": "Know By Heart",
+        "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Aaron & Maria",
+      "url": "https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1"
     },
     {
       "album": {
@@ -1117,6 +1135,24 @@
       "duration_ms": 138773,
       "name": "Just My Love And I",
       "url": "https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh"
+    },
+    {
+      "album": {
+        "name": "Know By Heart",
+        "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "Know by Heart",
+      "url": "https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY"
     },
     {
       "album": {

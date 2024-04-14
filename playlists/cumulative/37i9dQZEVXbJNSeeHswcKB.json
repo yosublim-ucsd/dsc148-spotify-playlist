@@ -6875,6 +6875,28 @@
     },
     {
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -8226,7 +8248,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -11656,7 +11678,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -11802,6 +11824,24 @@
       "duration_ms": 182857,
       "name": "Iko Iko (My Bestie)",
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -19514,7 +19554,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
@@ -24116,7 +24156,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

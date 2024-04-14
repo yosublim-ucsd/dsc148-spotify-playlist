@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,834 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,926 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 39 | [Lorn and Loath](https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Fire in the White Stone](https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6) | 7:35 |
 | 40 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 41 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
-| 42 | [Skugge](https://open.spotify.com/track/5E48z1EGgE93HoCpi94nzK) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/5LNSX7ibqConJ2lAIM598L) | 6:38 |
+| 42 | [Skugge](https://open.spotify.com/track/6rDzCWPqu1HL68R17tTVlp) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Skugge](https://open.spotify.com/album/1bCZ0eqT2D5QvTE4NxoLS0) | 6:38 |
 | 43 | [A Hajnal Köszöntése](https://open.spotify.com/track/1zPWdZU3ffm5Knjn1rI0Uu) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Metanoia](https://open.spotify.com/album/3TnGjy4KW6dwCXtsKjod7D) | 5:56 |
 | 44 | [Østavind](https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl) | 3:13 |
 | 45 | [Räven](https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/7cdb2iO13iwekXoOlYej94) | 4:52 |

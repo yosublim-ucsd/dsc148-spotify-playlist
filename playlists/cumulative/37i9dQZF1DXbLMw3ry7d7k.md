@@ -4,7 +4,7 @@
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-419 songs - 23 hr 4 min
+420 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [POR EL CONTRARIO \(with Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 | 2024-01-16 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-04-06 | 2024-01-17 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-07-03 | 2024-01-30 |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-11-07 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-12 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-11-07 | 2024-04-14 |
 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 | 2022-10-05 | 2023-07-04 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2023-01-19 | 2023-11-10 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-01-19 | 2023-11-10 |

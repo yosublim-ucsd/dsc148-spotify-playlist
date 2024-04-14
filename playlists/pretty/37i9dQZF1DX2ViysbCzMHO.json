@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 150725,
+  "num_followers": 150781,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "As You Leave (undone)",
         "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 127500,
       "name": "As You Leave (undone)",
       "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Prayed For You (Wedding Version)",
-        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Prayed For You - Wedding Version",
-      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 242005,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Prayed For You (Wedding Version)",
+        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Prayed For You - Wedding Version",
+      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Burn It Down (Live Acoustic)",
         "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 226600,
       "name": "Burn It Down - Live Acoustic",
       "url": "https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -859,26 +875,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Acoustic Sessions",
-        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        },
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Here Tonight - The Acoustic Sessions",
-      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Tucson Too Late (Live Acoustic)",
         "url": "https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G"
       },
@@ -931,6 +927,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "The Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Here Tonight - The Acoustic Sessions",
+      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "All Out Acoustic Sessions",
         "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 189555,
       "name": "What He Didn't Do - Acoustic",
       "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Forever and Always (Acoustic)",
-        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
-      },
-      "artists": [
-        {
-          "name": "Brandon Davis",
-          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
-        }
-      ],
-      "duration_ms": 190190,
-      "name": "Forever and Always (Acoustic)",
-      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Forever and Always (Acoustic)",
+        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
+      },
+      "artists": [
+        {
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+        }
+      ],
+      "duration_ms": 190190,
+      "name": "Forever and Always (Acoustic)",
+      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Something's Gonna Kill Me (Piano)",
         "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
       },
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1599,6 +1615,22 @@
       "duration_ms": 185815,
       "name": "Coulda Loved You Longer - Acoustic",
       "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1631,38 +1663,6 @@
       "duration_ms": 194303,
       "name": "Somebody Like That (Acoustic)",
       "url": "https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Standing Room Only (Acoustic)",
-        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Standing Room Only - Acoustic",
-      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
     }
   ],
   "unique_name": "Nashville Stripped",

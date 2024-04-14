@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,571 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,613 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 68 | [Pressure](https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Pressure](https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg) | 2:18 |
 | 69 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 |
 | 70 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
-| 71 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
-| 72 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
+| 71 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
+| 72 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 73 | [save urself \(runaway\)](https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho \(deluxe\)](https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS) | 3:00 |
 | 74 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
 | 75 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |

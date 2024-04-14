@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 125438,
+  "2024-04-14": 125458,
   "date_first_scraped": "2023-08-09",
-  "description": "Nuestra alma mater es la calle. Santa Fe Klan en portada",
+  "description": "Nuestra alma mater es la calle. Flowker Slick en portada",
   "name": "Los Malportados ",
   "tracks": [
     {
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209096,
       "name": "Cachondo",
       "url": "https://open.spotify.com/track/3MjDEgK4WpWvaz7ggT6QLi"
@@ -485,6 +485,32 @@
       "duration_ms": 242733,
       "name": "Con el Coco Rapado",
       "url": "https://open.spotify.com/track/13mi6Ut0rcnvj88hLsTHDx"
+    },
+    {
+      "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/3zzQbqU5BZ6SjDbrVOQOL6"
+      },
+      "artists": [
+        {
+          "name": "Solek 473",
+          "url": "https://open.spotify.com/artist/0Gn8KswCJzIBPgmEhCcoSU"
+        },
+        {
+          "name": "chicana rosas",
+          "url": "https://open.spotify.com/artist/27h1jkzOzlNtrQMHhaG3Nq"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/1YrgSEIWCCZSgBmeo8ZmPL"
     },
     {
       "album": {
@@ -669,7 +695,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 370076,
       "name": "Delta 1",
       "url": "https://open.spotify.com/track/5qfGOmZyf3dqMnXfWMtqsH"
@@ -691,6 +717,50 @@
       "duration_ms": 167191,
       "name": "Derrochando Estilo",
       "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
+    },
+    {
+      "album": {
+        "name": "Disparo",
+        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
+      },
+      "artists": [
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Eslok Diaz",
+          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Disparo",
+      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "album": {
+        "name": "El Barrio Llora",
+        "url": "https://open.spotify.com/album/6wBv3XCgQA50vNPhXGLijX"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "El Barrio Llora",
+      "url": "https://open.spotify.com/track/5VbZ3v9zgCBljy7kxjvvTE"
     },
     {
       "album": {
@@ -757,7 +827,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
@@ -775,7 +845,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 284571,
       "name": "El Choko 2 (Kamikazes)",
       "url": "https://open.spotify.com/track/2GMxBVwn8z6MgsKzzwkliR"
@@ -797,6 +867,24 @@
       "duration_ms": 380200,
       "name": "El Diablo Anda Suelto",
       "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+    },
+    {
+      "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "album": {
@@ -1761,7 +1849,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 230634,
       "name": "Muerto",
       "url": "https://open.spotify.com/track/2KgVqNSNzrso4bqyVQCWq9"
@@ -1787,6 +1875,28 @@
       "duration_ms": 246857,
       "name": "M\u00e9xico B\u00e9lico",
       "url": "https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "album": {

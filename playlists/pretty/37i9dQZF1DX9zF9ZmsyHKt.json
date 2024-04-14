@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330832,
+  "num_followers": 330870,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Angela Roro",
-        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
-      },
-      "artists": [
-        {
-          "name": "Angela Ro Ro",
-          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Amor Meu Grande Amor",
-      "url": "https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Beijinho no Ombro",
         "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 164615,
       "name": "Beijinho no Ombro",
       "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Angela Roro",
+        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
+      },
+      "artists": [
+        {
+          "name": "Angela Ro Ro",
+          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Amor Meu Grande Amor",
+      "url": "https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 281034,
       "name": "Feito Fuma\u00e7a",
       "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Nobre Vagabundo",
-      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Assim Que Se Faz",
-        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
-      },
-      "artists": [
-        {
-          "name": "Luciana Mello",
-          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Assim Que Se Faz",
-      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Solo Seduzente",
         "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 125990,
       "name": "Solo Seduzente",
       "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Assim Que Se Faz",
+        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
+      },
+      "artists": [
+        {
+          "name": "Luciana Mello",
+          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
+        }
+      ],
+      "duration_ms": 300626,
+      "name": "Assim Que Se Faz",
+      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ascens\u00e3o",
         "url": "https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 188613,
       "name": "Nan\u00e3",
       "url": "https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     }
   ],
   "unique_name": "Escuta as Minas",

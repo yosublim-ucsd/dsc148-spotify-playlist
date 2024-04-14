@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,698 likes - 934 songs - 2 day 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,706 likes - 934 songs - 2 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -928,7 +928,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 918 | [If You Can See Me](https://open.spotify.com/track/3xfFwQwyQ38saSML8zEuli) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Spotify Singles](https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF) | 2:46 |
 | 919 | [Emotions and Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 3:14 |
 | 920 | [Ex\-Factor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/344UhJfaYw10xfEr94BBGm) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 6:11 |
-| 921 | [I Know \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fwwNsssLPQYOdFN17APIg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 3:29 |
+| 921 | [I Know \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5mNDw4tOkjI1OfHHzfiUuw) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/0nBKg7hExs1PYBebT6chBJ) | 3:29 |
 | 922 | [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/44wKiaTHsXtoTLSayCRSJR) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/0nBKg7hExs1PYBebT6chBJ) | 5:21 |
 | 923 | [Diggy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7xyIcr81nFHeWKTn3Sf6m7) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 3:48 |
 | 924 | [Frontin' \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PXs5P69Ab5cSxWaE6Y6wd) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 4:18 |

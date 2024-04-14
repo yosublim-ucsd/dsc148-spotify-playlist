@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Elisapie",
-  "num_followers": 68321,
+  "num_followers": 68339,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1187,6 +1187,22 @@
       "duration_ms": 215164,
       "name": "Like a River",
       "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
         "name": "Slow Tide",
         "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1371,6 +1371,22 @@
       "duration_ms": 256146,
       "name": "Love Is A Wild Thing",
       "url": "https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1523,6 +1539,22 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2024-04-12 19:02:12",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -1571,6 +1587,22 @@
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+    },
+    {
+      "added_at": "2024-04-12 19:02:12",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     },
     {
       "added_at": "2024-04-12 19:02:12",
@@ -1623,38 +1655,6 @@
       "duration_ms": 222817,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2024-04-12 19:02:12",
-      "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     }
   ],
   "unique_name": "Folk Favourites",

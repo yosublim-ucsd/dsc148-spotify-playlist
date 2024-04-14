@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,429 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,427 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 45 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 46 | [Snowshoes](https://open.spotify.com/track/69BWKQ0qeTnPHdk4lxuLcD) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 3:24 |
 | 47 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
-| 48 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 |
-| 49 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
+| 48 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
+| 49 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 |
 | 50 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 51 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 52 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
@@ -92,20 +92,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 82 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 83 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
 | 84 | [dragon eyes](https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:26 |
-| 85 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
-| 86 | [Save Us](https://open.spotify.com/track/45KIvymezcVSStboODBQWX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 |
+| 85 | [Save Us](https://open.spotify.com/track/45KIvymezcVSStboODBQWX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 |
+| 86 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
 | 87 | [Changing Winds](https://open.spotify.com/track/436awEpc0xnabbR0z4i0Qw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 3:13 |
 | 88 | [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 |
 | 89 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 90 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
 | 91 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/0dagxop90zpA32LDwjAGVk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:06 |
-| 92 | [Home](https://open.spotify.com/track/52lT4DHat5sYRV6iFyQ9uY) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Call Me When You Hear This Song](https://open.spotify.com/album/7eMb9KBOVlx7h87Pyjrct7) | 4:01 |
-| 93 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
+| 92 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
+| 93 | [Home](https://open.spotify.com/track/52lT4DHat5sYRV6iFyQ9uY) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Call Me When You Hear This Song](https://open.spotify.com/album/7eMb9KBOVlx7h87Pyjrct7) | 4:01 |
 | 94 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
 | 95 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 96 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 97 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 |
-| 98 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
+| 97 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
+| 98 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 |
 | 99 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 |
 | 100 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
 

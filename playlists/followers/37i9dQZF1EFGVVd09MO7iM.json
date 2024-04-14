@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 3258,
+  "2024-04-14": 3257,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -6675,6 +6675,28 @@
       "duration_ms": 146533,
       "name": "Preservation",
       "url": "https://open.spotify.com/track/124DjfCOxrqEXpHD04Hk8i"
+    },
+    {
+      "album": {
+        "name": "God Forgives, I Don't (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249146,
+      "name": "Presidential",
+      "url": "https://open.spotify.com/track/2AXZZGmN4cqUAsSQ7jeTT6"
     },
     {
       "album": {

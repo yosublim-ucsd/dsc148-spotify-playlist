@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-53 songs - 3 hr 43 min
+54 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 | 2022-10-02 |  |
 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB) | 3:34 | 2022-10-02 |  |
 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 | 2022-10-02 |  |
-| [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 | 2022-10-02 |  |
+| [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 | 2022-10-02 | 2024-04-14 |
 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 | 2022-10-02 |  |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2022-10-02 |  |
 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 | 2022-10-02 |  |
@@ -33,6 +33,7 @@
 | [I Belong To You \(Every Time I See Your Face\)](https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2) | [Rome](https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef) | [Rome](https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja) | 4:33 | 2022-10-02 |  |
 | [I Wanna Know](https://open.spotify.com/track/1m2xMsxbtxv21Brome189p) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:56 | 2022-10-02 |  |
 | [If I Ever Fall In Love](https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 3:09 | 2022-10-02 |  |
+| [If You](https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:37 | 2022-10-02 |  |
 | [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 | 2022-10-02 |  |
 | [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 | 2022-10-02 |  |
 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 | 2022-10-02 |  |

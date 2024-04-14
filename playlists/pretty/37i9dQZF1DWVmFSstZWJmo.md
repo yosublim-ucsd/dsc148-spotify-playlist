@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. M.I.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,780 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,900 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 27 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 28 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 29 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 |
-| 30 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
-| 31 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
+| 30 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
+| 31 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
 | 32 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
 | 33 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 34 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 42 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 43 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 44 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
-| 45 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
-| 46 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 45 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 46 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
 | 47 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 48 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
 | 49 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 83 | [Such Great Heights](https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:26 |
 | 84 | [Pass This On](https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:48 |
 | 85 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
-| 86 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 |
-| 87 | [Polish Girl](https://open.spotify.com/track/5K10oTBp9GEcLAQ2TC8wsf) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/4CdHUVyWF9VvYZa4GFqDLb) | 4:24 |
+| 86 | [Polish Girl](https://open.spotify.com/track/5K10oTBp9GEcLAQ2TC8wsf) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/4CdHUVyWF9VvYZa4GFqDLb) | 4:24 |
+| 87 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 |
 | 88 | [My Dick](https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:00 |
 | 89 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
 | 90 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 310225,
+  "2024-04-14": 310216,
   "date_first_scraped": "2022-09-28",
   "description": "Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Yo-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.",
   "name": "Relaxing Classical",
@@ -6440,6 +6440,32 @@
     },
     {
       "album": {
+        "name": "Myrthen, Op. 25: No. 24 - Du bist wie eine Blume",
+        "url": "https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101906,
+      "name": "Myrthen, Op. 25: No. 24 - Du bist wie eine Blume",
+      "url": "https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS"
+    },
+    {
+      "album": {
         "name": "Naruto: Alone Theme",
         "url": "https://open.spotify.com/album/5idXBK7HISXS4p353XlrCf"
       },
@@ -8218,6 +8244,28 @@
     },
     {
       "album": {
+        "name": "Labyrinth: Ephemera",
+        "url": "https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145653,
+      "name": "Prelude in C Major, BWV 846",
+      "url": "https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5"
+    },
+    {
+      "album": {
         "name": "Prelude in Lodz",
         "url": "https://open.spotify.com/album/4n1K46ETdWp0a9utu9PnPQ"
       },
@@ -8347,6 +8395,24 @@
       "duration_ms": 189240,
       "name": "Preludes Op.23: Preludes, Op. 23: No.6 in E-Flat Major. Andante",
       "url": "https://open.spotify.com/track/1IG9xNwCP41fbgPqjF2U6A"
+    },
+    {
+      "album": {
+        "name": "Promenade",
+        "url": "https://open.spotify.com/album/7ui0yJFEaDdQLvvOHKgtNz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153880,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D3hrxyqYC8D10YneCf8RD"
     },
     {
       "album": {
@@ -9378,6 +9444,24 @@
     },
     {
       "album": {
+        "name": "Song to the Moon (from Rusalka)",
+        "url": "https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385106,
+      "name": "Song to the Moon (from Rusalka)",
+      "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"
+    },
+    {
+      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/5JC8GUAI7TvwkSSpJnK79T"
       },
@@ -9539,6 +9623,24 @@
       "duration_ms": 258079,
       "name": "Stars",
       "url": "https://open.spotify.com/track/369rGsALdxmK4wYUeoSDMX"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4Z22hUgQ17J785sqjJzLCj"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8"
     },
     {
       "album": {

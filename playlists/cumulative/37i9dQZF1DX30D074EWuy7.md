@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-467 songs - 1 day 11 hr 16 min
+468 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Being Tall](https://open.spotify.com/track/77cm678VORgeHsoVVBTeHX) | [Francesca Gaza](https://open.spotify.com/artist/6jLkAhKbd3toZ58ri9NQrV), [Lilac for People](https://open.spotify.com/artist/1kzPulOF322PjMpEXxRaDi), [Francesco Panconesi](https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH), [Lorenzo Pellegrini](https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT), [Federico D'Angelo](https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN), [Mattia Galeotti](https://open.spotify.com/artist/2tKfm6EL0BNZk730TYTmef), [Jacopo Fagioli](https://open.spotify.com/artist/695Z6UdxewsuHti1yj1p02), [Alessandro Mazzieri](https://open.spotify.com/artist/2p4O37ipDx6ZgQ9oWNwTtX), [Luca Sguera](https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr) | [Sfiorire](https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA) | 4:47 | 2023-09-17 | 2023-12-06 |
 | [Bella di Notte](https://open.spotify.com/track/6aXpr1JhIbJvg2wJlYuXRz) | [Alessandro Di Liberto](https://open.spotify.com/artist/4SXlb6krjl3fsmbcjpj6vo) | [Flowery Piano](https://open.spotify.com/album/2Hz5Q2dIKU4hbJINpivstO) | 4:26 | 2023-01-30 | 2023-06-05 |
 | [Belle Est La Vie Dans La Ville](https://open.spotify.com/track/3kFNzif5TvZhQXYUCqeqTj) | [Federico Casagrande](https://open.spotify.com/artist/3UIT7PDaIaJ33MxQeIwGyR) | [Under Water the Way Out](https://open.spotify.com/album/4tormw8XSvVDp0zvqPnQVD) | 3:34 | 2023-01-30 | 2023-06-05 |
+| [BERSERK](https://open.spotify.com/track/5cLDkIR9EErDqHicPcvawo) | [Ōtonn](https://open.spotify.com/artist/0ZgwsD7oDTRbX5akTtQQtI), [Gianluca Verlingieri](https://open.spotify.com/artist/3n5PWawUHPqPdrKnzTxiy8) | [Two Crumbling Shapes](https://open.spotify.com/album/2y5BBbSQJVDUi68SYntJCw) | 4:51 | 2024-04-04 |  |
 | [BeYourself](https://open.spotify.com/track/6rq9lxI4EHskhgFAZWP9vm) | [Nick The Nightfly](https://open.spotify.com/artist/33vxsx5Mh3ToiA25Wy2Jas) | [BeYourself](https://open.spotify.com/album/2nkUrGgGN1MhfXP75MmzCu) | 3:29 | 2022-08-31 | 2022-10-01 |
 | [Bianco Natale](https://open.spotify.com/track/2M7VKR0zh7xealAvrQJGWi) | [Johnny Dorelli](https://open.spotify.com/artist/2srKOALVfCQRti28skrHLf) | [L'Incredibile Johnny Dorelli](https://open.spotify.com/album/2W5fipMrDOCFWOxzMCshuV) | 3:19 | 2022-12-05 | 2023-02-01 |
 | [Bighellonando](https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Ora beat!](https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj) | 2:05 | 2024-03-28 |  |
@@ -273,7 +274,7 @@
 | [Luna di mezzogiorno](https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4) | [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Jazz vs Corona Vol\. 1](https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb) | 3:29 | 2023-01-30 |  |
 | [Luz Negra](https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7) | [Carioca](https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp) | 5:00 | 2022-09-30 |  |
 | [LYN](https://open.spotify.com/track/1VcYoVIyPOJRgy8163bXJR) | [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [MAGICAL](https://open.spotify.com/album/0qDJyxOL6E1J4EoHXMbaOn) | 4:05 | 2022-10-06 | 2022-11-03 |
-| [M2 + M7 / Livery Stable Blues](https://open.spotify.com/track/2sGKafoZUUtm7nG0VQrXPr) | [Franco D'Andrea](https://open.spotify.com/artist/7d3yjuXATtfpkDIk1bUp4M) | [New Things](https://open.spotify.com/album/4Zaqenbbg0nmUGRTxqHCPX) | 10:24 | 2024-04-04 |  |
+| [M2 + M7 / Livery Stable Blues](https://open.spotify.com/track/2sGKafoZUUtm7nG0VQrXPr) | [Franco D'Andrea](https://open.spotify.com/artist/7d3yjuXATtfpkDIk1bUp4M) | [New Things](https://open.spotify.com/album/4Zaqenbbg0nmUGRTxqHCPX) | 10:24 | 2024-04-04 | 2024-04-14 |
 | [Ma Gnossienne](https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV) | [Kety Fusco](https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR) | [Ma Gnossienne](https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc) | 4:30 | 2024-03-28 |  |
 | [Madiba's World](https://open.spotify.com/track/7h6ARCoB3suQ5dMXu7famg) | [Francesco Fiorenzani](https://open.spotify.com/artist/7lLmqkYrMtbWGobA9hscYI) | [Silent Water](https://open.spotify.com/album/4ScbruHHoFXAZ0uKBfxBgB) | 9:16 | 2024-04-04 |  |
 | [Madrugada](https://open.spotify.com/track/5NW4cRpZJ8vzH0jirLu7vp) | [Furio Di Castri](https://open.spotify.com/artist/3OC734JRP0jfGNAaJlXycI), [Simone Blasioli](https://open.spotify.com/artist/68lUxS3pedsaDheFRlcxFn) | [4 jazz ensemble](https://open.spotify.com/album/2ezZCTkN0c5lArXUSFyq2m) | 4:52 | 2023-01-30 | 2023-06-05 |

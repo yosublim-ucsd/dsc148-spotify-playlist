@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-808 songs - 2 day 0 hr 27 min
+809 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 | 2023-11-18 | 2024-04-09 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-05-29 | 2023-11-19 |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-11-03 | 2022-10-23 |
-| [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 | 2023-09-07 |  |
+| [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 | 2023-09-07 | 2024-04-14 |
 | [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-06-25 | 2023-06-27 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-23 | 2021-12-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-06 | 2022-08-26 |
@@ -694,6 +694,7 @@
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-05-26 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-21 |
 | [Tell Me Why \(Taylor’s Version\)](https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:20 | 2021-04-11 | 2021-04-16 |
+| [Tequila Rose](https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Tequila Rose](https://open.spotify.com/album/02tMWeYI98izui099O7QDb) | 3:30 | 2024-04-13 |  |
 | [Terrified](https://open.spotify.com/track/573EXMFHsEKPRSy08G91Sr) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS) | [Unbroken](https://open.spotify.com/album/1hrK4uDbw0YkGgL8bshsoH) | 3:56 | 2022-10-13 | 2022-10-20 |
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2022-07-05 | 2022-07-07 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-01 | 2022-05-15 |

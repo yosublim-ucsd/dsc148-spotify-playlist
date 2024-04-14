@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 34014,
+  "num_followers": 34016,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
         "name": "Aprovechame BB",
         "url": "https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 192705,
       "name": "Aprovechame BB",
       "url": "https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 147561,
-      "name": "For Ya",
-      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "added_at": "2024-03-07 19:42:39",

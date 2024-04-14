@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85118,
+  "num_followers": 85136,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 183813,
       "name": "Nagano",
       "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "La isla del sol",
         "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 131333,
       "name": "La isla del sol",
       "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 242911,
       "name": "El Tesoro - Picnic En el Piso Doce",
       "url": "https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Hace rato",
+      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1683,6 +1699,22 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "GUARACHA",
         "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 157688,
       "name": "GUARACHA",
       "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-04-12 03:00:00",

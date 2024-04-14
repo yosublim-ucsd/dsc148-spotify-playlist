@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,383 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,416 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 28 | [MMXX's](https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [MMXX's](https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY) | 2:59 |
 | 29 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 | 30 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
-| 31 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 |
-| 32 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 31 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 32 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 |
 | 33 | [Poema](https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poema](https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH) | 2:53 |
 | 34 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
 | 35 | [Loco Enamorado](https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [80% Mío](https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x) | 3:30 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 45 | [Te Regalo](https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:14 |
 | 46 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 47 | [ME GUSTAS](https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 |
-| 48 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
-| 49 | [Música Romántica](https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario, Vol\. 2](https://open.spotify.com/album/2RGfkZxD9S8VExEzWHymTA) | 3:52 |
-| 50 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
+| 48 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
+| 49 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
+| 50 | [Música Romántica](https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario, Vol\. 2](https://open.spotify.com/album/2RGfkZxD9S8VExEzWHymTA) | 3:52 |
 | 51 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
 | 52 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
 | 53 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 73 | [Permiteme](https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Permiteme](https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D) | 3:06 |
 | 74 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 75 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 |
-| 76 | [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 |
+| 76 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
 | 77 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 78 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
-| 79 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
-| 80 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
+| 78 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
+| 79 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
+| 80 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
 
 Snapshot ID: `MTcwOTMzMDQyNCwwMDAwMDAwMGY5ZWIzMmJiNzgxYThkNGUyNDBlN2FiYjU4MTk5MmVi`

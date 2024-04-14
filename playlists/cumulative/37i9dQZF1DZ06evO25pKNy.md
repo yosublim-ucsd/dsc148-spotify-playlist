@@ -4,7 +4,7 @@
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 42 min
+55 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 | 2024-01-29 |  |
 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 | 2024-01-29 |  |
 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 | 2024-01-29 |  |
-| [Blanca Nieves](https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Blanca Nieves](https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw) | 4:17 | 2024-01-29 |  |
+| [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 | 2024-04-14 |  |
+| [Blanca Nieves](https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Blanca Nieves](https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw) | 4:17 | 2024-01-29 | 2024-04-14 |
 | [Bohemio de Afición \- En Vivo](https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 2:57 | 2024-01-29 |  |
 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 | 2024-01-29 |  |
 | [Calorsito En California](https://open.spotify.com/track/0xPdnHjuVi4eP6R0MviZin) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:55 | 2024-01-29 |  |

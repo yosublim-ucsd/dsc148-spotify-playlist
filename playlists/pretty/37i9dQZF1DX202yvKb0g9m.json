@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 116247,
+  "num_followers": 116312,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-04-08 15:38:28",
       "album": {
-        "name": "Defiant Order",
-        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Defiant order",
-      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
-    },
-    {
-      "added_at": "2024-04-08 15:38:28",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3WmCOQPNbiemwv7HgMtd3p"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 345466,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2jOWBkREdI0FvFwM60MKLm"
+    },
+    {
+      "added_at": "2024-04-08 15:38:28",
+      "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
     },
     {
       "added_at": "2024-04-08 15:38:28",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-04-08 15:38:28",
       "album": {
-        "name": "Better Living Through Chemistry",
-        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
         }
       ],
-      "duration_ms": 349493,
-      "name": "Everybody Needs A 303",
-      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2024-04-08 15:38:28",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-04-08 15:38:28",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
     },
     {
       "added_at": "2024-04-08 15:38:28",

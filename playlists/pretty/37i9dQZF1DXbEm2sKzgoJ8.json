@@ -1,6 +1,6 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1937563,
+  "num_followers": 1938203,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
-        "name": "Soaked",
-        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
-      },
-      "artists": [
-        {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Soaked",
-      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
-    },
-    {
-      "added_at": "2024-04-12 05:02:36",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    {
+      "added_at": "2024-04-12 05:02:36",
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
       "added_at": "2024-04-12 05:02:36",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+      "duration_ms": 202746,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-04-12 05:02:36",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 202746,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
       "added_at": "2024-04-12 05:02:36",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2024-04-12 05:02:36",
-      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 459659,
       "name": "The Party & The After Party",
       "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+    },
+    {
+      "added_at": "2024-04-12 05:02:36",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2024-04-12 05:02:36",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+    },
+    {
+      "added_at": "2024-04-12 05:02:36",
+      "album": {
         "name": "act iii: on god? (she like)",
         "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 229804,
       "name": "drive ME crazy!",
       "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
-    },
-    {
-      "added_at": "2024-04-12 05:02:36",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2024-04-12 05:02:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-04-12 05:02:36",
       "album": {
-        "name": "Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
-    },
-    {
-      "added_at": "2024-04-12 05:02:36",
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2024-04-12 05:02:36",
+      "album": {
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2024-04-12 05:02:36",

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 80936,
+  "2024-04-14": 81035,
   "date_first_scraped": "2022-05-23",
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
   "name": "We Love Corridos Viejitos ",
@@ -801,7 +801,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 162453,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
@@ -2767,7 +2767,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"

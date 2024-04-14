@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-214 songs - 19 hr 8 min
+215 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 | 2024-03-01 |
 | [All Eyes On Me](https://open.spotify.com/track/4NURWqdoXhUpm85DkD0al8) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [All Eyes On Me](https://open.spotify.com/album/5H8RWIGN18k3PrPumFy28f) | 3:38 | 2023-03-29 | 2023-04-09 |
 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 | 2023-03-29 | 2024-02-19 |
-| [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 | 2023-11-10 |  |
+| [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 | 2023-11-10 | 2024-04-14 |
 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 | 2022-07-05 | 2023-11-05 |
 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 | 2022-07-05 | 2023-03-29 |
 | [Aura](https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Aura](https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D) | 6:52 | 2022-07-05 | 2022-11-23 |
@@ -155,10 +155,11 @@
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-04-13 |  |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
+| [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-12 |  |
 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 | 2024-03-20 |  |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2022-07-05 | 2023-11-05 |
 | [Rock With Me](https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock with Me](https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP) | 3:25 | 2023-10-13 |  |
-| [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 |  |
+| [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 | 2024-04-14 |
 | [Rush](https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Rush](https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo) | 6:36 | 2022-07-05 | 2022-09-15 |
 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 | 2023-08-25 | 2023-10-04 |
 | [Saw of Olympus](https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Saw of Olympus](https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn) | 4:32 | 2022-07-05 | 2022-08-27 |
@@ -199,7 +200,7 @@
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-05-12 |  |
 | [Tribal Space](https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Tribal Space](https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs) | 5:59 | 2022-07-05 | 2022-09-02 |
 | [Tunnel](https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnel](https://open.spotify.com/album/5uDI9IsrUmEBWXT9hFRZpN) | 6:01 | 2022-07-05 | 2022-07-29 |
-| [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-03-29 | 2024-04-13 |
+| [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-03-29 |  |
 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 | 2022-09-09 | 2023-03-29 |
 | [Underground \- Original Mix](https://open.spotify.com/track/5n6AgtEn2SSGH6ZYuZFQwE) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Underground \(Original Mix\)](https://open.spotify.com/album/32QwA3nRlFwvewFnRkFric) | 5:41 | 2023-03-30 | 2023-07-24 |
 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 | 2024-03-20 |  |

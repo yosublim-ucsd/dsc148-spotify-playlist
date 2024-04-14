@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1574870,
+  "2024-04-14": 1575049,
   "date_first_scraped": "2021-12-21",
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
   "name": "Pure Rock & Roll",
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 259893,
       "name": "Black Smoke Rising",
       "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201026,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 222026,
       "name": "Cochise",
       "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 370920,
       "name": "Fool in the Rain - Remaster",
       "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 126573,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 225853,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
@@ -2089,6 +2089,24 @@
     {
       "album": {
         "name": "The House That Dirt Built",
+        "url": "https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "How You Like Me Now",
+      "url": "https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK"
+    },
+    {
+      "album": {
+        "name": "The House That Dirt Built",
         "url": "https://open.spotify.com/album/6GJl4impgRmt2MY5CY5BbW"
       },
       "artists": [
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 334906,
       "name": "I Am the Highway",
       "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "I Want To Hold Your Hand - Remastered 2015",
       "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 165381,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
@@ -3241,7 +3259,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 198706,
       "name": "My Generation - Stereo Version",
       "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
@@ -3313,7 +3331,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 328426,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf"
@@ -3713,7 +3731,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
@@ -3875,7 +3893,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
@@ -4037,7 +4055,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 255573,
       "name": "Rock You Like a Hurricane - 2011",
       "url": "https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 247613,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
@@ -4469,7 +4487,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
@@ -4667,7 +4685,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
@@ -4851,7 +4869,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 442667,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
@@ -4909,6 +4927,24 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "album": {
+        "name": "Too Fast For Love",
+        "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Take Me To The Top",
+      "url": "https://open.spotify.com/track/5wXYuaDpzueI27xvHhM9nl"
     },
     {
       "album": {
@@ -5013,7 +5049,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
@@ -5263,7 +5299,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195266,
       "name": "TK421",
       "url": "https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 ### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This Is The Rolling Stones\. Los temas esenciales, todos en una lista.
+> This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,313 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,438 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 25 | [As Tears Go By \- Mono Version](https://open.spotify.com/track/1LD75COdR1n8jTIjommyS2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:45 |
 | 26 | [Street Fighting Man \- 50th Anniversary Edition](https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:15 |
 | 27 | [She's So Cold \- Remastered 2009](https://open.spotify.com/track/6l9gVPHFaUfigHEiWqSh45) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 4:13 |
-| 28 | [Sweet Virginia](https://open.spotify.com/track/1hJrWWK74fKL7eeV3CFOvF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:26 |
+| 28 | [It's Only Rock'n'Roll \(But I Like It\) \- Remastered 2009](https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'N' Roll \(2009 Re\-Mastered\)](https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv) | 5:07 |
 | 29 | [Get Off Of My Cloud \- Mono Version](https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:55 |
-| 30 | [It's Only Rock'n'Roll \(But I Like It\) \- Remastered 2009](https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'N' Roll \(2009 Re\-Mastered\)](https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv) | 5:07 |
+| 30 | [Sweet Virginia](https://open.spotify.com/track/1hJrWWK74fKL7eeV3CFOvF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:26 |
 | 31 | [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 |
 | 32 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
 | 33 | [\(Walkin' Thru The\) Sleepy City](https://open.spotify.com/track/3con0nVkmWIVUuGlGABdH4) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Metamorphosis](https://open.spotify.com/album/1HbacLvfLrsup4yOWDKogO) | 2:50 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 41 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 |
 | 42 | [Get Close](https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:10 |
 | 43 | [Fool To Cry \- Remastered 2009](https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(Remastered 2009\)](https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl) | 5:05 |
-| 44 | [Shine A Light](https://open.spotify.com/track/1iii3DosaivkmvUDmhZhCP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:16 |
-| 45 | [Bitch \- 2009 Mix](https://open.spotify.com/track/01JYvQ6udfhUw9Jed9EzoK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:37 |
+| 44 | [Bitch \- 2009 Mix](https://open.spotify.com/track/01JYvQ6udfhUw9Jed9EzoK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:37 |
+| 45 | [Shine A Light](https://open.spotify.com/track/1iii3DosaivkmvUDmhZhCP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:16 |
 | 46 | [Bite My Head Off](https://open.spotify.com/track/5C6p9XU3B36GPyfzcNBP6R) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:31 |
 | 47 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:33 |
 | 48 | [Harlem Shuffle \- Remastered 2009](https://open.spotify.com/track/2StkuotzPgX5FpSjMpTvlw) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Dirty Work \(Remastered 2009\)](https://open.spotify.com/album/6Xui7Ex7Qs5CafFQnWeR6w) | 3:24 |
 | 49 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 |
 | 50 | [Driving Me Too Hard](https://open.spotify.com/track/3IZPWgIzAcksVyfRZf5vBi) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:16 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDI1MWUyM2QyY2Q4Y2IxY2JlYmJiMjVlODBjY2FjY2M3`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGYwMmUwMWQwM2EyYTJlMDIzYzBmY2NiNjYyYzFlZGMx`

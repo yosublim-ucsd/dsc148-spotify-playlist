@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Koriass
 
-2,440 songs - 5 day 10 hr 23 min
+2,441 songs - 5 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-01 |  |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2021-12-31 | 2022-01-22 |
 | [500](https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [500](https://open.spotify.com/album/0OOhemBhXqxbrahJbrNSUD) | 2:49 | 2023-12-22 | 2024-01-20 |
+| [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 | 2024-04-12 |  |
 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 | 2022-07-09 |
 | [7 Uzi](https://open.spotify.com/track/22BMdsJm95FJGyiK5XzdIj) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Keusty](https://open.spotify.com/artist/4cmRb0sfE6QnlINaOtn35M), [Shotas](https://open.spotify.com/artist/626MEj1uIFt7eZMSroO01a), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [2zé](https://open.spotify.com/artist/1NBrJG76XnhbuMEBxxXX7r), [Chicaille Argenté](https://open.spotify.com/artist/22VOejB8RaATr9yhodu6U3) | [7 Uzi](https://open.spotify.com/album/1oKrha0O4QQUW5xFw92sQL) | 4:24 | 2022-03-11 | 2022-03-18 |
@@ -852,7 +853,7 @@
 | [Grazie](https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Grazie](https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb) | 3:05 | 2023-09-08 | 2023-09-19 |
 | [Grind](https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY) | [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Grind](https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ) | 3:24 | 2022-04-22 | 2022-04-29 |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-03-18 |
-| [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/track/4fi4kG8OCPL1H8P2hEn8Bv) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/album/1bmsStNPT6EFgBmPaDFWgM) | 3:36 | 2024-04-12 |  |
+| [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/track/4fi4kG8OCPL1H8P2hEn8Bv) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Guerres de pissenlits \- A COLORS SHOW](https://open.spotify.com/album/1bmsStNPT6EFgBmPaDFWgM) | 3:36 | 2024-04-12 | 2024-04-14 |
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-21 | 2023-09-23 |
 | [Génie](https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Génie](https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9) | 1:47 | 2022-07-01 | 2022-07-16 |
 | [Ha ha ha](https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ha ha ha](https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K) | 4:17 | 2023-08-04 | 2023-09-30 |

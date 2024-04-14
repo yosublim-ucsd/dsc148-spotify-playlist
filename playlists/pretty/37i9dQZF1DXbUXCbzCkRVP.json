@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 47882,
+  "num_followers": 47919,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Sunfall",
         "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
@@ -435,22 +419,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Country, Blues & More",
-        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Paul Lenart",
-          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
-        },
-        {
-          "name": "Duke Levine",
-          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 133481,
-      "name": "Blue Dreamer",
-      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -467,6 +447,26 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
+        }
+      ],
+      "duration_ms": 133481,
+      "name": "Blue Dreamer",
+      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "What's The Word?",
         "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158493,
       "name": "Extra Jimmies",
       "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 246333,
       "name": "Frankie And Johnny Boogie",
       "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -943,34 +927,34 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
       "artists": [
         {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Roll Forward",
-        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
       },
       "artists": [
         {
-          "name": "Ross Hammond",
-          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
         }
       ],
-      "duration_ms": 361689,
-      "name": "Easy Does It Blues",
-      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Paul Butterfield Blues Band",
         "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "R&B from the Marquee / At the Cavern (Remastered)",
-        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+        "name": "Roll Forward",
+        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
       },
       "artists": [
         {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+          "name": "Ross Hammond",
+          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
         }
       ],
-      "duration_ms": 150465,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+      "duration_ms": 361689,
+      "name": "Easy Does It Blues",
+      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
     },
     {
       "added_at": "2023-08-23 10:31:46",

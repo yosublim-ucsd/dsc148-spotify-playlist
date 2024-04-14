@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 201386,
+  "2024-04-14": 201400,
   "date_first_scraped": "2023-02-04",
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY",
   "name": "Electro Mix",
@@ -13544,6 +13544,24 @@
     },
     {
       "album": {
+        "name": "NO ONE",
+        "url": "https://open.spotify.com/album/5XFyY6cCDLYOWGg4GbRs4f"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/7mNq7XsZMF7SxG6VfssD3d"
+    },
+    {
+      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -17622,7 +17640,7 @@
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254306,
+      "duration_ms": 254314,
       "name": "Simple Times",
       "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
     },
@@ -17683,6 +17701,28 @@
       "duration_ms": 150000,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/6ZyGhVSyhi0TJYob0YxyCt"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.31 : Smoothie Remix",
+        "url": "https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Smoothie - Arkins Remix",
+      "url": "https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU"
     },
     {
       "album": {

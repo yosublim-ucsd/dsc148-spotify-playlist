@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Gianna Nannini in cover! ✨
 
-348 songs - 20 hr 33 min
+350 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2022-06-12 | 2022-06-27 |
 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 | 2022-05-25 |  |
 | [A Che Ora l'Amore](https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc) | [Club Domani](https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL) | 4:17 | 2021-11-19 | 2023-06-09 |
-| [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 | 2023-10-12 |  |
+| [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 | 2023-10-12 | 2024-04-14 |
+| [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 | 2024-04-08 |  |
 | [Acid Gentle Moves](https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 5:23 | 2021-11-19 | 2023-01-25 |
 | [AFTERPARTY](https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [AFTERPARTY](https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS) | 3:13 | 2023-06-22 | 2023-12-09 |
 | [Again](https://open.spotify.com/track/0WId5Dee8RPSyLK5T8I4eF) | [Blew Velvet](https://open.spotify.com/artist/41bLJywrHLx2ghubpe938V) | [Frankie](https://open.spotify.com/album/6N1NirD3ZIYno789e2u5wO) | 3:46 | 2022-06-26 | 2022-07-29 |
@@ -207,7 +208,8 @@
 | [Moisture \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL) | 5:20 | 2022-09-08 | 2023-06-09 |
 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 | 2022-05-31 | 2023-06-07 |
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 | 2022-06-12 | 2022-06-27 |
-| [Nei](https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/6TlflAkiu0xSDE9ByfQlGr) | 2:40 | 2022-07-04 |  |
+| [Nei](https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/6TlflAkiu0xSDE9ByfQlGr) | 2:40 | 2022-07-04 | 2024-04-14 |
+| [Nei](https://open.spotify.com/track/3t7k2We7bIjP0EQkgETjGF) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/1Gkv3szNA77Fw6pCTJbQms) | 2:40 | 2024-04-08 |  |
 | [Nella balera](https://open.spotify.com/track/1UghFcvDyKkEcx771kujK3) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Nella balera](https://open.spotify.com/album/5BEbvM6xOMaOhFlFsD2bFg) | 2:47 | 2022-06-12 | 2022-06-27 |
 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 | 2023-10-05 |  |
 | [Nina](https://open.spotify.com/track/0ZyFLIVC67EX1qumbhDAcd) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Nina](https://open.spotify.com/album/4hhPeBtIO3Dkx1ViPvrm3K) | 4:26 | 2021-11-19 | 2023-06-23 |

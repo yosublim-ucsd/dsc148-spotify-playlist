@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Elisapie
 
-338 songs - 21 hr 15 min
+339 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Golden Embers](https://open.spotify.com/track/7HdyKsr1RXenJRtMKcyQ3K) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Golden Embers](https://open.spotify.com/album/0X1BasI4gOX4jIE8YWfu3x) | 4:45 | 2022-04-15 | 2022-07-29 |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2022-07-27 | 2023-04-30 |
 | [Gonna Be Leaving](https://open.spotify.com/track/3xUX0vRkQDW6Lqj3Sk30D5) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Gonna Be Leaving](https://open.spotify.com/album/5ATbjtDTmqgY4mkDwL6Uta) | 3:10 | 2022-04-15 | 2022-07-29 |
-| [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2022-04-15 |  |
+| [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2022-04-15 | 2024-04-14 |
 | [Half\-Saved](https://open.spotify.com/track/4g3k3DEMkpf7OFoSsc7EHa) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/2pWfYBcesgKukL2b9THx10) | 3:22 | 2022-07-27 | 2023-03-05 |
 | [Half\-Saved](https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Half\-Saved](https://open.spotify.com/album/1qjryVI5Du1tzWiL8gWQWm) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [Halfway Tree](https://open.spotify.com/track/5naGbqecQUheZgOhtXPDj7) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ) | 3:29 | 2022-04-15 | 2022-07-27 |
@@ -161,6 +161,7 @@
 | [It'll Work Itself Out](https://open.spotify.com/track/2u6SXgdzFNTQLc4LcSi3Vd) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/3IOr0ionuyMtDuES6uEz35) | 3:02 | 2022-04-15 | 2022-07-27 |
 | [Japan](https://open.spotify.com/track/0hREmEVmD1culIVeShGzwo) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:14 | 2022-07-27 | 2023-03-29 |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-07-27 | 2024-04-13 |
+| [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 | 2024-04-12 |  |
 | [Jenny and Jill](https://open.spotify.com/track/7xM9W5DFp94I40QyrRPOrJ) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's…](https://open.spotify.com/album/5dalkwkZMUKZsO9TlvBhWN) | 4:45 | 2022-04-15 | 2022-05-31 |
 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 | 2023-04-21 | 2024-01-09 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2022-04-15 | 2022-07-29 |

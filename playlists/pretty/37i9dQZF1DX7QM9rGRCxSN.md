@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,340 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,343 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 41 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 |
 | 42 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
 | 43 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
-| 44 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
-| 45 | [Fukushima](https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 6:01 |
+| 44 | [Fukushima](https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 6:01 |
+| 45 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 46 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
 | 47 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
 | 48 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |

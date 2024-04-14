@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,970 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,052 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 25 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 26 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 |
 | 27 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 |
-| 28 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
-| 29 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
-| 30 | [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 |
-| 31 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
+| 28 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
+| 29 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
+| 30 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
+| 31 | [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 |
 | 32 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 33 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
 | 34 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 77 | [Devil In A Dress \- RHEAMIX](https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress \(RHEAMIX\)](https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad) | 1:57 |
 | 78 | [Lovely](https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Lovely](https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876) | 2:53 |
 | 79 | [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 |
-| 80 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
-| 81 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
+| 80 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
+| 81 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
 | 82 | [Last Time](https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 2:41 |
 | 83 | [Midnight Snacks](https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Midnight Snacks](https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM) | 3:15 |
 | 84 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |

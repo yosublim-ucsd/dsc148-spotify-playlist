@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,084 likes - 91 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,139 likes - 91 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 7 | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/album/4RKTztO3kvduH6VYaUlT2p) | 4:30 |
 | 8 | [Tawakal](https://open.spotify.com/track/5HRCk3BLMyEif6WiLqA4zh) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk), [Nissa Sabyan](https://open.spotify.com/artist/58FxAw8gQz34r2lewLrFZU) | [Tawakal](https://open.spotify.com/album/2lsnT1moVsqVh5YjO8f71L) | 5:39 |
 | 9 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 10 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 10 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 11 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 12 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
 | 13 | [Part II: Bliss](https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 2:38 |

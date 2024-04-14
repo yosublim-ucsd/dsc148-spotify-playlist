@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 137497,
+  "num_followers": 137535,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDMwYjZlZjBlZTg2OGVlZDcwNzZkMzU5YTNkN2QwZWNj",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDllZDMzNGI1ZDlkYTZhZmM1ZDk4ZTU0NWUxNDM1ZjJm",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Problems (feat. Chandler Moore)",
+        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 590857,
+      "name": "God Problems (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Problems (feat. Chandler Moore)",
-        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 590857,
-      "name": "God Problems (feat. Chandler Moore)",
-      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 625062,
       "name": "Fear Is Not My Future (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 726770,
-      "name": "Most Beautiful / So in Love",
-      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 510726,
       "name": "When I Lock Eyes (feat. Brandon Lake & Elyssa Smith)",
       "url": "https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 860000,
-      "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
-      "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 515963,
       "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
       "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 860000,
+      "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
+      "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
     },
     {
       "added_at": null,
@@ -1103,8 +1103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 1",
-        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+        "name": "The Maverick Way - EP",
+        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
       },
       "artists": [
         {
@@ -1112,33 +1112,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Alton Eugene",
-          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Doxology (feat. Alton Eugene)",
-      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         },
         {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+      "duration_ms": 556673,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
+      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
     },
     {
       "added_at": null,
@@ -1171,8 +1159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Maverick Way - EP",
-        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
       "artists": [
         {
@@ -1180,21 +1168,33 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
         }
       ],
-      "duration_ms": 556673,
-      "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
-      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 1",
+        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Alton Eugene",
+          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Doxology (feat. Alton Eugene)",
+      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
     },
     {
       "added_at": null,

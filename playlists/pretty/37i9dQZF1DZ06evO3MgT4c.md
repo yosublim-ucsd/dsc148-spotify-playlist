@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,953 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,972 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 34 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 |
 | 35 | [Key to the Streets](https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 4:41 |
 | 36 | [Bosses Don't Speak](https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:01 |
-| 37 | [RAW SHIT \(feat\. Migos\)](https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:36 |
+| 37 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 |
 | 38 | [Malibu \(feat\. Polo G\)](https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:08 |
-| 39 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 |
+| 39 | [RAW SHIT \(feat\. Migos\)](https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:36 |
 | 40 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
 | 41 | [Is You Ready \- From "Mile 22"](https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Is You Ready \(From "Mile 22"\)](https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP) | 3:04 |
 | 42 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
 | 50 | [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGQzYWE0MGQwZjgyMDM5N2NmYTM5Y2Y0ZDZkMWFhNzQx`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGEzNmFlMTdiMGRmNjQzOWRmYmRiZjc1YTVlMTk4MWM4`

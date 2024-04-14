@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,091 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,144 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 38 | [Maskhara](https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx) | 3:06 |
 | 39 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
 | 40 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
-| 41 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
-| 42 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
+| 41 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
+| 42 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
 | 43 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 44 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
 | 45 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |

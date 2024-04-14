@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 806352,
+  "2024-04-14": 806409,
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Jalen Ngonda",
+  "description": "Smooth joints. Cover: Adi Oasis, Luedji Luna",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 127280,
       "name": "alone",
       "url": "https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE"
@@ -1763,6 +1763,24 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
+    },
+    {
+      "album": {
+        "name": "b i g f e e l i n g s",
+        "url": "https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "b i g f e e l i n g s",
+      "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
     },
     {
       "album": {

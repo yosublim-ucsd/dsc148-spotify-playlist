@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 219247,
+  "2024-04-14": 219284,
   "date_first_scraped": "2021-12-21",
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
   "name": "Front Porch",
@@ -2329,10 +2329,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6kaUnGYmSsZFT0OyGS2H36"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ"
     },
     {
       "album": {
@@ -2977,10 +2995,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231933,
       "name": "Six Years Come September",
       "url": "https://open.spotify.com/track/1oSS7iqgjZgyh2jxRv9Zb8"
+    },
+    {
+      "album": {
+        "name": "Lamentations",
+        "url": "https://open.spotify.com/album/1xB96fepw7haNbBKLeoRIJ"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Six Years Come September",
+      "url": "https://open.spotify.com/track/61St27wTZcFz2T7rVYqhp7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 148772,
+  "num_followers": 148816,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDA0NjJjZGM2OTYxZTU1NTQ0NmRkNTQwMWUzY2FhMjBi",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGJmOTg4M2NiNTU0ZWQ2OWMxYTQwNGQ4MzJmZGI3ZDZi",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 359266,
       "name": "Pride And Joy",
       "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 99379,
+  "2024-04-14": 99405,
   "date_first_scraped": "2023-10-07",
-  "description": "songs that we love <3 medium build on the cover",
+  "description": "madi diaz x lennon stella collab & so much more!",
   "name": "juniper",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 301278,
       "name": "all in good Time,",
       "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195187,
       "name": "Die Slower",
       "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227000,
       "name": "Dream Dating",
       "url": "https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163125,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210133,
       "name": "Eidolon",
       "url": "https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU"
@@ -1442,6 +1442,28 @@
     },
     {
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        },
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184591,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
       },
@@ -1457,6 +1479,24 @@
       "duration_ms": 200666,
       "name": "Grace",
       "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
+    },
+    {
+      "album": {
+        "name": "green",
+        "url": "https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186435,
+      "name": "green",
+      "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
     },
     {
       "album": {
@@ -1947,7 +1987,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
@@ -2700,6 +2740,24 @@
     },
     {
       "album": {
+        "name": "One Million Love Songs",
+        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "Nothing Lasts",
+      "url": "https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu"
+    },
+    {
+      "album": {
         "name": "October (October Version)",
         "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
       },
@@ -2711,7 +2769,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 277777,
       "name": "October (October Version)",
       "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
@@ -2747,10 +2805,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212520,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK"
+    },
+    {
+      "album": {
+        "name": "One Less Question",
+        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "One Less Question",
+      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
     },
     {
       "album": {
@@ -2881,6 +2961,24 @@
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358850,
+      "name": "Real House",
+      "url": "https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW"
     },
     {
       "album": {
@@ -3331,7 +3429,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 94750,
       "name": "someday i'll get it",
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
@@ -3523,7 +3621,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236063,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR"
@@ -3559,7 +3657,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191413,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
@@ -3620,6 +3718,24 @@
     },
     {
       "album": {
+        "name": "The Favorite",
+        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185975,
+      "name": "The Favorite",
+      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
+    },
+    {
+      "album": {
         "name": "The Former",
         "url": "https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i"
       },
@@ -3657,6 +3773,42 @@
       "duration_ms": 233226,
       "name": "The Gold - Phoebe Bridgers Version",
       "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "album": {
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
     },
     {
       "album": {
@@ -4051,6 +4203,24 @@
       "duration_ms": 236507,
       "name": "Visions Of You",
       "url": "https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343360,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "album": {

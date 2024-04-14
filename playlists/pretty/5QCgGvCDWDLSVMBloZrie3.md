@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 409 songs - 1 day 2 hr 23 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 410 songs - 1 day 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -417,5 +417,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 407 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 408 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 | 409 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 410 | [Bitch](https://open.spotify.com/track/2ev5SImg6KN3KfbbT1Xipu) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Bitch](https://open.spotify.com/album/37mEUbghfsvFpeHUxhdnnu) | 3:48 |
 
-Snapshot ID: `MTExOCxiYTE1YjU0MDFkMzMyY2ViNGEyYTIzNzBmNzVlZTVmOTIzNzM1M2Jh`
+Snapshot ID: `MTExOSxmNzg4NmRmOTY2ZDlkN2U4ZGU1ZjQ1YmZiZjJhMWNiNjE2NzEyMjc1`

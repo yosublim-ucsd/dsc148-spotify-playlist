@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Young Jonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,882 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,061 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 28 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 29 | [Ogaranya](https://open.spotify.com/track/3XmvXK6pJRewCn6mAfmsdS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:48 |
 | 30 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
-| 31 | [Loner](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
+| 31 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
 | 32 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 |
 | 33 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 |
 | 34 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |

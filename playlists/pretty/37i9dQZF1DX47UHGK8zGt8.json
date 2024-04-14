@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 539837,
+  "num_followers": 540021,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2024-03-29 03:00:00",

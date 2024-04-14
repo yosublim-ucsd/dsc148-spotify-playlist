@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
-  "num_followers": 141493,
+  "num_followers": 141580,
   "original_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "OTUxOCw1YTc5NGNkNDM5MDgzMzBkNGI3NzNmMjMyNzdhYzRkYTczNWExNmNj",
+  "snapshot_id": "OTU2NCwxYzkyMmMzZjMzZGNkNWI5MWVhYmFjM2E1OTMzOTQ1MDUyMzZkNWRk",
   "tracks": [
     {
       "added_at": "2024-04-06 20:06:28",
@@ -23,42 +23,6 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -83,18 +47,22 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -119,78 +87,6 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Madrid City",
-        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Madrid City",
-      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Olvid\u00e9 Olvidarte",
-        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Olvid\u00e9 Olvidarte",
-      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
         "name": "1000COSAS",
         "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
@@ -211,22 +107,18 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "Mamasota",
-        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 216424,
-      "name": "Mamasota",
-      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -251,6 +143,130 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Olvid\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Olvid\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Mamasota",
+        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216424,
+      "name": "Mamasota",
+      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
         "name": "De fiesta",
         "url": "https://open.spotify.com/album/319Uhb5EWes2dveID7qULm"
       },
@@ -263,54 +279,6 @@
       "duration_ms": 179219,
       "name": "De fiesta",
       "url": "https://open.spotify.com/track/7FoQ76r1SLoFRRdfA1crLu"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/2b1fXPog9FFIIk550j5gPe"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Yo Soy Libre",
-        "url": "https://open.spotify.com/album/3sRPdl650qZYRmIjZQa5pY"
-      },
-      "artists": [
-        {
-          "name": "Bombai",
-          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
-        }
-      ],
-      "duration_ms": 191462,
-      "name": "Yo Soy Libre",
-      "url": "https://open.spotify.com/track/0LZj39tmRvL5gbgALqNpoN"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -331,18 +299,122 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/2b1fXPog9FFIIk550j5gPe"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Yo Soy Libre",
+        "url": "https://open.spotify.com/album/3sRPdl650qZYRmIjZQa5pY"
+      },
+      "artists": [
+        {
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+        }
+      ],
+      "duration_ms": 191462,
+      "name": "Yo Soy Libre",
+      "url": "https://open.spotify.com/track/0LZj39tmRvL5gbgALqNpoN"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "ASI ES LA VIDA",
+        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 172095,
+      "name": "ASI ES LA VIDA",
+      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-04-13 09:13:20",
+      "album": {
+        "name": "Bailarina",
+        "url": "https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -371,34 +443,18 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "Estrellas y Fantasmas",
+        "url": "https://open.spotify.com/album/5tYJy6FQJRHCwAn8Ul5l65"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Bajo la luna",
-        "url": "https://open.spotify.com/album/4DZu7eKmKYpYrbqHoIPO3f"
-      },
-      "artists": [
-        {
-          "name": "Hilario",
-          "url": "https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7"
-        }
-      ],
-      "duration_ms": 173271,
-      "name": "Bajo la luna",
-      "url": "https://open.spotify.com/track/04A1KwRPMxzRSTWoonLlIi"
+      "duration_ms": 212984,
+      "name": "Estrellas y Fantasmas",
+      "url": "https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -419,26 +475,6 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "ASI ES LA VIDA",
-        "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 172095,
-      "name": "ASI ES LA VIDA",
-      "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
       },
@@ -451,54 +487,6 @@
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Estrellas y Fantasmas",
-        "url": "https://open.spotify.com/album/5tYJy6FQJRHCwAn8Ul5l65"
-      },
-      "artists": [
-        {
-          "name": "David Otero",
-          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
-        }
-      ],
-      "duration_ms": 212984,
-      "name": "Estrellas y Fantasmas",
-      "url": "https://open.spotify.com/track/1kSOnjrlR3JAuP2buX6d1I"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -523,46 +511,6 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "SUPERH\u00c9ROES",
-        "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 200294,
-      "name": "SUPERH\u00c9ROES",
-      "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Vocation",
-      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
         "name": "tequiero",
         "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
@@ -579,6 +527,54 @@
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "added_at": "2024-04-13 09:13:06",
+      "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Bajo la luna",
+        "url": "https://open.spotify.com/album/4DZu7eKmKYpYrbqHoIPO3f"
+      },
+      "artists": [
+        {
+          "name": "Hilario",
+          "url": "https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7"
+        }
+      ],
+      "duration_ms": 173271,
+      "name": "Bajo la luna",
+      "url": "https://open.spotify.com/track/04A1KwRPMxzRSTWoonLlIi"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -607,6 +603,22 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
         "name": "UNO",
         "url": "https://open.spotify.com/album/1KgKemleH5GeTmcUA7U9ka"
       },
@@ -627,22 +639,6 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -659,6 +655,26 @@
       "duration_ms": 199850,
       "name": "Eva Longoria",
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+    },
+    {
+      "added_at": "2024-04-06 20:06:28",
+      "album": {
+        "name": "SUPERH\u00c9ROES",
+        "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 200294,
+      "name": "SUPERH\u00c9ROES",
+      "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
     },
     {
       "added_at": "2024-04-06 20:06:28",
@@ -695,34 +711,18 @@
     {
       "added_at": "2024-04-06 20:06:28",
       "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
-    },
-    {
-      "added_at": "2024-04-06 20:06:28",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     }
   ],
   "unique_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",

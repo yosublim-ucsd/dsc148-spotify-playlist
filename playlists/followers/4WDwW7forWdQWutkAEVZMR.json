@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 8238,
+  "2024-04-14": 8239,
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Vampire Weekend, Beyonc\u00e9, Harry Styles &amp; more! Cover: Vampire Weekend",
+  "description": "Your go-to playlist for this week's hottest music featuring girl in red, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: girl in red",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+    },
+    {
+      "album": {
         "name": "A Feeling That Never Came",
         "url": "https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF"
       },
@@ -525,6 +543,24 @@
       "duration_ms": 187317,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7Bmcpb69GKXCmfHigdHuJO"
+    },
+    {
+      "album": {
+        "name": "chasing feelings",
+        "url": "https://open.spotify.com/album/0kpvZ2QAv7Xqd0kgMvDz3J"
+      },
+      "artists": [
+        {
+          "name": "Chase Elliott",
+          "url": "https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144130,
+      "name": "alone tonight",
+      "url": "https://open.spotify.com/track/0VYijzRRgagt6yAb3K96BN"
     },
     {
       "album": {
@@ -849,7 +885,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171438,
       "name": "back to u",
       "url": "https://open.spotify.com/track/4cIDosC9ccws12LBkWNhDL"
@@ -1511,6 +1547,24 @@
       "duration_ms": 175333,
       "name": "Born Lonely",
       "url": "https://open.spotify.com/track/3uXA1FyyPzC39bEM8QJSEm"
+    },
+    {
+      "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
     },
     {
       "album": {
@@ -2274,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Chronos, Cruel Handler",
+        "url": "https://open.spotify.com/album/1fbntKtKQHPkeilOD6VVY9"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Chronos, Cruel Handler",
+      "url": "https://open.spotify.com/track/36g16zSBTiNBn088GI0ifE"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -3031,7 +3103,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 605538,
       "name": "Dear Alcohol (feat. Atlus, Kelsie Watts, Carly Pearl, ERV ELLO, Skydxddy, Trippz, Kayla Rae, Common Tribe, TROY, Phix, KC Makes Music & Official DJ Aaron) - Mega Remix",
       "url": "https://open.spotify.com/track/3Lh0CewWRTS4PSzMrwC3fa"
@@ -3983,7 +4055,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
@@ -4364,6 +4436,24 @@
     },
     {
       "album": {
+        "name": "Flava",
+        "url": "https://open.spotify.com/album/06hReu6yFLgRUbugobxapt"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153818,
+      "name": "Flava",
+      "url": "https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw"
+    },
+    {
+      "album": {
         "name": "Flossin",
         "url": "https://open.spotify.com/album/4cKaizIpiddKdkAVfCi9rw"
       },
@@ -4527,6 +4617,24 @@
       "duration_ms": 141825,
       "name": "For You",
       "url": "https://open.spotify.com/track/4xdt5NCPEgprn33MOLXhOx"
+    },
+    {
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     },
     {
       "album": {
@@ -5782,6 +5890,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Crazy",
+        "url": "https://open.spotify.com/album/7sClw0mYYRzaptSbbqBRfx"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176227,
+      "name": "I Ain't Crazy",
+      "url": "https://open.spotify.com/track/1ADMQ848Up4JEBdgz6uJVd"
+    },
+    {
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -6109,6 +6235,24 @@
       "duration_ms": 183400,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/7DtlKJZoks3dmk6RXDM0yG"
+    },
+    {
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "album": {
@@ -7415,7 +7559,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189974,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Acoustic",
       "url": "https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym"
@@ -7441,7 +7585,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205846,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Westend Remix",
       "url": "https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83"
@@ -10651,10 +10795,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202360,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
+    },
+    {
+      "album": {
+        "name": "Speed of the Sound (of you)",
+        "url": "https://open.spotify.com/album/2FPUFdvALP5VPyXjlUXVdU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189806,
+      "name": "Speed of the Sound (of you)",
+      "url": "https://open.spotify.com/track/625gH2KUG4kE0G1FR3N7ZW"
     },
     {
       "album": {
@@ -11311,7 +11473,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217402,
       "name": "the cycle",
       "url": "https://open.spotify.com/track/569R1i2eDr12NCGHQB742Q"

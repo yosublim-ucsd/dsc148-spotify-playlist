@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,382 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,377 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 22 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 |
 | 23 | [heartbeat](https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:31 |
 | 24 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 |
-| 25 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
-| 26 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 25 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
+| 26 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
 | 27 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 |
 | 28 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 29 | [Simple Things](https://open.spotify.com/track/4IJSCa7swAnsdCrGwayZ2G) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Made of Water](https://open.spotify.com/album/6QdVUbYH9UkM8hdPsWUZ54) | 4:26 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 37 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
 | 38 | [Milk & Honey](https://open.spotify.com/track/0g9PpERyTEuKV4mgKhrudQ) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:51 |
 | 39 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
-| 40 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
-| 41 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
+| 40 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
+| 41 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
 | 42 | [I BELIEVE](https://open.spotify.com/track/3qyl06mFyrDJ3fdeklnsvV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:26 |
-| 43 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
+| 43 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
 | 44 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
 | 45 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
 | 46 | [Start Again](https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2) | 3:14 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 56 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
 | 57 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
 | 58 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
-| 59 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
-| 60 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
+| 59 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
+| 60 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
 
 Snapshot ID: `MTcwMTM0OTIwMCwwMDAwMDAwMGEzNTM0ZjI2MThjZmJlOWY0M2ZmMDk2YjM0NjZjZjJh`

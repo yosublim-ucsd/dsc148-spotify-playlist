@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,359 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,372 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 45 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
 | 46 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 47 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
-| 48 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
-| 49 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
+| 48 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
+| 49 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 50 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 |
 | 51 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
 | 52 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
@@ -88,17 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 78 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
 | 79 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 |
 | 80 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
-| 81 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 |
-| 82 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
+| 81 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
+| 82 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 |
 | 83 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
 | 84 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 |
 | 85 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
 | 86 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
 | 87 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 |
 | 88 | [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 |
-| 89 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
+| 89 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
 | 90 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
-| 91 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
+| 91 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
 | 92 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 | 93 | [I'm ready to die for my friends](https://open.spotify.com/track/7EkAgXr2B29n1Qj90q1O4z) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:50 |
 | 94 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 97 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 |
 | 98 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
 | 99 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 |
-| 100 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 |
+| 100 | [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 |
 
 Snapshot ID: `MTcxMTQ3NjY4MiwwMDAwMDAwMDA4MTQ2OGZhMTdhMDgzOTgxYzhhMTE2NWIyOWIzYmVh`

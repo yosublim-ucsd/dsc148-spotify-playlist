@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 194676,
       "name": "Air - Single Edit",
       "url": "https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog"
@@ -4784,7 +4784,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 154793,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
@@ -6637,6 +6637,24 @@
     },
     {
       "album": {
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
+    },
+    {
+      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
       },
@@ -6674,6 +6692,24 @@
       "duration_ms": 187653,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
+    },
+    {
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253312,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
     },
     {
       "album": {

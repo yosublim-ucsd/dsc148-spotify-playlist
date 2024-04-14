@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,657 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,662 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 19 | [פוליטיקה](https://open.spotify.com/track/4f8ym2kd2ptaLBVF2f8sAC) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פוליטיקה](https://open.spotify.com/album/5UrBzW0JrGGkOYekJbzlGI) | 3:17 |
 | 20 | [רציתי לדבר איתך \- Live](https://open.spotify.com/track/5mrfrXajXDyBJNFePuT4dN) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [רציתי לדבר איתך \(Live\)](https://open.spotify.com/album/3Y2trBKc8FHMYqL0POiFW6) | 4:04 |
 | 21 | [ואפילו בהסתרה](https://open.spotify.com/track/0KIckiVPDf0TGPg5C9eKpI) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [ניגונים](https://open.spotify.com/album/0192jknPtN7YaABZksAXWW) | 3:47 |
-| 22 | [נגן לי](https://open.spotify.com/track/4jcXHebaIUv9iVHdOOkmWE) | [Shay Hamber](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [נגן לי](https://open.spotify.com/album/57uOu6dU4YynDj1nljN3Aj) | 3:15 |
+| 22 | [נגן לי](https://open.spotify.com/track/4jcXHebaIUv9iVHdOOkmWE) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [נגן לי](https://open.spotify.com/album/57uOu6dU4YynDj1nljN3Aj) | 3:15 |
 | 23 | [זה לא הזמן ללכת](https://open.spotify.com/track/4xIf4E4qTvdZKdb5lADaKR) | [Meshi Kleinstein](https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP) | [זה לא הזמן ללכת](https://open.spotify.com/album/2MfhL6NSC2sTf6i7AdpLYL) | 3:00 |
 | 24 | [אין לי מקום](https://open.spotify.com/track/6LcGGRZ1JbkS38YNVRQgB9) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [אין לי מקום](https://open.spotify.com/album/35Ge43etXq0xPPWp29ZFyK) | 3:20 |
 | 25 | [When the Winter’s Coming In](https://open.spotify.com/track/5qM5FyaUbUeQlR6mPX1kTO) | [Sivan Levy](https://open.spotify.com/artist/09LjkxY0qGa4Ht2mvQ7Xjx) | [When The Winter's Coming In](https://open.spotify.com/album/1eemmS2ojkPXD5paT3DTF2) | 4:48 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 ### [This Is Aphex Twin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV)
 
-> This is Aphex Twin\. Todos os maiores hits em uma só playlist.
+> This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,542 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,570 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 49 | [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 |
 | 50 | [CHEETA2 ms800](https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 0:37 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDhhYjBjOWI2OTFmNjA0OWI4YTc1ZjViZGE1NTlkNTA2`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGY5ZTliZjllNWM5MDAzMmI0ZGI4NTUxZDdmMzk2Mzc5`

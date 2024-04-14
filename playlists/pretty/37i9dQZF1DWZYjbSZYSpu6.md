@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Jukjae, Choi Yu Ree\(적재, 최유리\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,820 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,839 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 22 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 |
 | 23 | [Lonely](https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:04 |
 | 24 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 |
-| 25 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
-| 26 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
+| 25 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
+| 26 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
 | 27 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 28 | [A little bit more](https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Whats wrong with secretary kim OST Part.4](https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I) | 3:24 |
 | 29 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 |

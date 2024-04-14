@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for those summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,900 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,907 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 17 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 18 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
 | 19 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
-| 20 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
-| 21 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
+| 20 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
+| 21 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
 | 22 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 23 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 24 | [Loser](https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 44 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 |
 | 45 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 46 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
-| 47 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 48 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
+| 47 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
+| 48 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 49 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 50 | [Shakin' Off The Rust](https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:42 |
 | 51 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 55 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 | 56 | [Crash and Burn](https://open.spotify.com/track/2EmyZ5vHUkWZ8wV6GVhTXP) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 2:39 |
 | 57 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
-| 58 | [Forever & Ever More](https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:28 |
-| 59 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
+| 58 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
+| 59 | [Forever & Ever More](https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:28 |
 | 60 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 61 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 62 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 72 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
 | 73 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 74 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
-| 75 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
-| 76 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
+| 75 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
+| 76 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
 | 77 | [Kids](https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 3:30 |
 | 78 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
-| 79 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
-| 80 | [The Eulogy of You and Me](https://open.spotify.com/track/0FPfkAGl5xLLZ8kIl7eDYi) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:03 |
+| 79 | [The Eulogy of You and Me](https://open.spotify.com/track/0FPfkAGl5xLLZ8kIl7eDYi) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:03 |
+| 80 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
 
 Snapshot ID: `MTcwNzI0NjE1MiwwMDAwMDAwMGYyYmVlYzM5ZGJhY2NlMmQ5YmExZTgxOWIyYTI4NTc5`

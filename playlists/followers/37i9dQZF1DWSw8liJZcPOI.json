@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 73297,
+  "2024-04-14": 73384,
   "date_first_scraped": "2020-10-20",
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
@@ -3859,7 +3859,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229623,
       "name": "Hammer Frenzy - Edit",
       "url": "https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV"
@@ -7733,6 +7733,28 @@
       "duration_ms": 320000,
       "name": "Surges (variation)",
       "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
+    },
+    {
+      "album": {
+        "name": "Suspended (Reimagined by Anne M\u00fcller)",
+        "url": "https://open.spotify.com/album/6qwHM77mCcgnqQgPKLr3TX"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Suspended - Reimagined by Anne M\u00fcller",
+      "url": "https://open.spotify.com/track/0Yfb5QTPgOLTpHdzRcwfr0"
     },
     {
       "album": {

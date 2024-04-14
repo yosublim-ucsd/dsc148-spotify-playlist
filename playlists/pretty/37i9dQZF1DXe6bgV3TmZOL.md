@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,382,112 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,388 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 51 | [Forgotten](https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 2:55 |
 | 52 | [Jambi](https://open.spotify.com/track/2gbPu2QNqhnnqtfK3yyeZ0) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:28 |
 | 53 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
-| 54 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
-| 55 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
+| 54 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 55 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
 | 56 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 |
-| 57 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
-| 58 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
+| 57 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
+| 58 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
 | 59 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 |
 | 60 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
 | 61 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
@@ -83,19 +83,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 73 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
 | 74 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 75 | [Scars that I'm Hiding](https://open.spotify.com/track/0hIrlDHawGdEw12lBSOWlP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 2:55 |
-| 76 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 |
-| 77 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
+| 76 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
+| 77 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 |
 | 78 | [The Void](https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:53 |
-| 79 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 80 | [Calm Before the Storm](https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:55 |
-| 81 | [Wash It Away](https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Wash It Away](https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c) | 3:34 |
+| 79 | [Wash It Away](https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Wash It Away](https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c) | 3:34 |
+| 80 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
+| 81 | [Calm Before the Storm](https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:55 |
 | 82 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 83 | [Whatever It Takes](https://open.spotify.com/track/4yIge33odbDOXs0GHiZMrW) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Five](https://open.spotify.com/album/7MJ3l1iCbgr6trDod3ZOci) | 3:07 |
 | 84 | [The Shift](https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Violent Allies](https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW) | 3:00 |
 | 85 | [Scarlet Cross](https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 3:37 |
 | 86 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
-| 87 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
-| 88 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
+| 87 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
+| 88 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 89 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 90 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
 | 91 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |

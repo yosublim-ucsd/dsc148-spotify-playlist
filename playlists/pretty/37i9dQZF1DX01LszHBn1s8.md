@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > just a little playlist with viral stuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,845 likes - 921 songs - 2 day 0 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,970 likes - 921 songs - 2 day 0 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 69 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 |
 | 70 | [I'm Just Ken \- Merry Kristmas Barbie](https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:16 |
 | 71 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
-| 72 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 72 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 73 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 74 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
 | 75 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 855077,
+  "2024-04-14": 855173,
   "date_first_scraped": "2023-12-19",
   "description": "Canciones para subirse al auto y cantar sin parar.",
   "name": "Canta en el auto",
@@ -231,7 +231,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167213,
       "name": "Mil Horas - 1994 Remastered Version",
       "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"

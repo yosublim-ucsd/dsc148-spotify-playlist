@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,851 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,896 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 39 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
 | 40 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 41 | [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 |
-| 42 | [Things We Do for Love](https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:28 |
-| 43 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 2:56 |
+| 42 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 2:56 |
+| 43 | [Things We Do for Love](https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:28 |
 | 44 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
 | 45 | [Starry Eyes](https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:18 |
 | 46 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 58 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 59 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
 | 60 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
-| 61 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
-| 62 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
+| 61 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
+| 62 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 63 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
 | 64 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
 | 65 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |

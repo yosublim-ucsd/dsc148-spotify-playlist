@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 120740,
+  "2024-04-14": 120737,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve x Lawrent x Jordan Shaw",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: BADDIES ONLY x CAVALLI x Mathieu Ruz",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -5182,6 +5182,32 @@
     },
     {
       "album": {
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
+    },
+    {
+      "album": {
         "name": "Dance (With That Groove)",
         "url": "https://open.spotify.com/album/2ZPIZ0TCDluBdm8KN5pTGZ"
       },
@@ -6907,7 +6933,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 149032,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/6FURMXT8OfQ63MFePpVBYl"
@@ -7541,10 +7567,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159374,
       "name": "Explode",
       "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
+    },
+    {
+      "album": {
+        "name": "F**k it (How I Want It)",
+        "url": "https://open.spotify.com/album/2go1OTPMheCBBttze51fep"
+      },
+      "artists": [
+        {
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138222,
+      "name": "F**k it (How I Want It)",
+      "url": "https://open.spotify.com/track/1SH5S664DSy0ti7ZbV7bV9"
     },
     {
       "album": {
@@ -9489,7 +9533,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140142,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight) [VINNE Remix]",
       "url": "https://open.spotify.com/track/1t92bd4xvLSf4jHb4OeDDH"
@@ -10836,6 +10880,28 @@
     },
     {
       "album": {
+        "name": "H\u0101i Q\u01d0l\u00e1i",
+        "url": "https://open.spotify.com/album/7rcYukE7TVISVbCKYv16NP"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151681,
+      "name": "H\u0101i Q\u01d0l\u00e1i",
+      "url": "https://open.spotify.com/track/6USwoiBXvXBH8Q75NtJ3AB"
+    },
+    {
+      "album": {
         "name": "I Belong (feat. Franky)",
         "url": "https://open.spotify.com/album/2LDi0EnyqChVbaLIhMMegN"
       },
@@ -11113,7 +11179,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177160,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/1Jbpfpf8ao084qOrbBbE1J"
@@ -13784,6 +13850,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Jack",
+        "url": "https://open.spotify.com/album/6WH9b8YDdMxFwXTFqpaqIL"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "Let's Get Jack",
+      "url": "https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/0I6BYJN3uWc5cYJ1C5faZM"
       },
@@ -14281,7 +14365,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169310,
       "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Benny Page Remix]",
       "url": "https://open.spotify.com/track/3JCER183EUlHgqaH6964wo"
@@ -16235,7 +16319,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144750,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/4uyOQKIqGPcKKvYN53WIjT"
@@ -18463,7 +18547,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186971,
       "name": "Numbin' My Feelings",
       "url": "https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW"
@@ -26222,6 +26306,32 @@
     },
     {
       "album": {
+        "name": "Troublemaker",
+        "url": "https://open.spotify.com/album/4kKRhjQWeLNHbxlUDNg3H2"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135113,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/7JuEmC1e1OFNiFRHevPW4n"
+    },
+    {
+      "album": {
         "name": "Trujillana",
         "url": "https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66"
       },
@@ -26543,6 +26653,32 @@
       "duration_ms": 203880,
       "name": "United",
       "url": "https://open.spotify.com/track/41dLnC4YJrcsKSPP1G6Ya6"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/5eaj3fFqkZJdEUNBDzP6NM"
+      },
+      "artists": [
+        {
+          "name": "Danko",
+          "url": "https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW"
+        },
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/3ryZ4wPKbXGx7Fk8olCNW0"
     },
     {
       "album": {
@@ -27339,6 +27475,28 @@
       "duration_ms": 142941,
       "name": "We Rolling Loud",
       "url": "https://open.spotify.com/track/3aRIoF4Klv9ZNzHelbxYVK"
+    },
+    {
+      "album": {
+        "name": "We Rule The Hour",
+        "url": "https://open.spotify.com/album/6i7yl1tifzBqnyhaO4nTrP"
+      },
+      "artists": [
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        },
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "We Rule The Hour",
+      "url": "https://open.spotify.com/track/4ZzReY3EjlUdu7RTPZXSw8"
     },
     {
       "album": {

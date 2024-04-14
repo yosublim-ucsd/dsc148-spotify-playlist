@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,738 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,802 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 84 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 |
 | 85 | [Currency](https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Rock Bottom](https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K) | 3:56 |
 | 86 | [The Crowd Goes Wild](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 |
-| 87 | [World Worth Keeping](https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB) | 3:42 |
+| 87 | [World Worth Keeping](https://open.spotify.com/track/2xt8NrvTSiliSBmu9XbP23) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:42 |
 | 88 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 |
 | 89 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 90 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |

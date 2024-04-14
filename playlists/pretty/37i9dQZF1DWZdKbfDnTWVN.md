@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK\_MEQ\_CmLGvQ"> Khaligraph Jones </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,361 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,381 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

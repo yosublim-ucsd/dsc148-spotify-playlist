@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1061178,
+  "2024-04-14": 1061496,
   "date_first_scraped": "2023-05-16",
-  "description": "Bizarrap y Natanael Cano est\u00e1n en el Top \ud83d\udd25\n",
+  "description": "\ud83e\udd42\ud83c\udf7e\ud83e\uddfc\ud83e\udee7\ud83d\udec1\n",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -4161,7 +4161,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 260534,
       "name": "LATTE (feat. Maria Becerra)",
       "url": "https://open.spotify.com/track/4G3noMmipB4pOuVwbjkbov"
@@ -5261,6 +5261,28 @@
       "duration_ms": 148620,
       "name": "Micro TDH | Mission 14",
       "url": "https://open.spotify.com/track/4luCj8YMb6kTGqYvxGEkC3"
+    },
+    {
+      "album": {
+        "name": "Mil Preguntas",
+        "url": "https://open.spotify.com/album/5pArplEHrE5U2foVlEnFfn"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "Mil Preguntas",
+      "url": "https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV"
     },
     {
       "album": {
@@ -9617,6 +9639,28 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel de Amor",
+        "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "\u00c1ngel de Amor",
+      "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF"

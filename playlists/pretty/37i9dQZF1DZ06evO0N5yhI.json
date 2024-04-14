@@ -1,12 +1,12 @@
 {
-  "description": "This Is Phoebe Bridgers. Los temas esenciales, todos en una lista.",
-  "num_followers": 122446,
+  "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
+  "num_followers": 122489,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDhkMWM1OTJmNjc1NjAwODY0NTk3MDE4OTZiOGM2MTAw",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDlkMGNkM2IxZWRmMmJjMzMzYjhjN2Y3MzQ4ZTViZTM2",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 81733,
-      "name": "Without You Without Them",
-      "url": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 102146,
-      "name": "Leonard Cohen",
-      "url": "https://open.spotify.com/track/3wdrHVkaD700qA8P3OjmYR"
+      "duration_ms": 81733,
+      "name": "Without You Without Them",
+      "url": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
     },
     {
       "added_at": null,
@@ -515,38 +515,6 @@
       "duration_ms": 247306,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 189622,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl"
     },
     {
       "added_at": null,
@@ -575,6 +543,38 @@
       "duration_ms": 251469,
       "name": "Salt In The Wound",
       "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 189622,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": null,

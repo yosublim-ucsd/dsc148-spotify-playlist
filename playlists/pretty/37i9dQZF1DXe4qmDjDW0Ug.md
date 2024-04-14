@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,511 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,516 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 18 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 |
 | 19 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 |
 | 20 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
-| 21 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
+| 21 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 22 | [풀어](https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:31 |
-| 23 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
+| 23 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
 | 24 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
 | 25 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 26 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 |

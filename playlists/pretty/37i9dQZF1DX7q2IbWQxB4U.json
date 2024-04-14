@@ -1,6 +1,6 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 7311,
+  "num_followers": 7324,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "Coco Chanel",
-      "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Lisa",
         "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
       },
@@ -211,6 +231,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
@@ -239,46 +279,6 @@
       "duration_ms": 263293,
       "name": "Noche De Entierro",
       "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 235525,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 212375,
       "name": "Triste Verano",
       "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
@@ -1003,26 +1019,6 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     }
   ],
   "unique_name": "Casa Spotify Puerto Rico",

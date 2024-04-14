@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,656 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,758 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 37 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 38 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 39 | [Dancehall Queen \(feat\. Chevelle Franklyn\)](https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Best Of \(collector's Edition\)](https://open.spotify.com/album/43leIoAGMe8wnHSpid198y) | 3:24 |
-| 40 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
+| 40 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 41 | [Bet Mi Money](https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Bet Mi Money \- Single](https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG) | 2:49 |
-| 42 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
+| 42 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 43 | [50 Bag](https://open.spotify.com/track/0PskmWMf89REo5ndk01GL8) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/6pMXwommM2k8pL6vXqiD2B) | 3:04 |
 | 44 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
 | 45 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 11362,
+  "2024-04-14": 11365,
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg\">Henry Ate</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg\">HONEYMOAN</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -1941,7 +1941,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144000,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM"
@@ -4785,7 +4785,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 154793,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
@@ -4821,7 +4821,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167423,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk"
@@ -5363,6 +5363,24 @@
       "duration_ms": 181000,
       "name": "I'm A Queen Bee",
       "url": "https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8"
+    },
+    {
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "album": {
@@ -6193,7 +6211,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192000,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz"
@@ -8243,6 +8261,24 @@
       "duration_ms": 192500,
       "name": "Past Midnight (Acoustic)",
       "url": "https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ"
+    },
+    {
+      "album": {
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
       "album": {

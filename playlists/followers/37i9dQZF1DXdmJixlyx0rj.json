@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 24323,
+  "2024-04-14": 24338,
   "date_first_scraped": "2024-04-06",
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
   "name": "Electronii'K",
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180200,
       "name": "Ridin' - Will Not Fear Remix",
       "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
@@ -1805,6 +1805,28 @@
       "duration_ms": 195428,
       "name": "Shining Like the Sun in the Sky",
       "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.31 : Smoothie Remix",
+        "url": "https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Smoothie - Arkins Remix",
+      "url": "https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,575 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,599 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 56 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 57 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
 | 58 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
-| 59 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
+| 59 | [The Same](https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 2:31 |
 | 60 | [GOOD GRIEF](https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 2:58 |
-| 61 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
-| 62 | [The Same](https://open.spotify.com/track/7tcmxexcz66H462fzWsAsA) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 2:31 |
+| 61 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
+| 62 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
 | 63 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
 | 64 | [Jackie](https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d) | 2:56 |
 | 65 | [How Do You Let the Love Into the Heart That Isn't Split Wide Open](https://open.spotify.com/track/1P9RJszAMDvXfJ40uuchAt) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [How Do You Let the Love Into the Heart That Isn't Split Wide Open](https://open.spotify.com/album/5yM0zyGfTHxcBxSUdO1z5H) | 1:03 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 70 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 71 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 |
 | 72 | [OK](https://open.spotify.com/track/6CUEfZnGPDZhPTe2C8whBV) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 1:57 |
-| 73 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
-| 74 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 73 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 74 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 75 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 
 Snapshot ID: `MTcwOTk2MDQwMCwwMDAwMDAwMDI5NTIwODQwYTQwYWEzMzMzNmRmMDdkMWU0N2RkZTFh`

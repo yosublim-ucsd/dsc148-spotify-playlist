@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This is Ana Gabriel\. The essential tracks, all in one playlist.
+> This Is Ana Gabriel\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,332 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,550 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 |
 | 50 | [No Tengo Dinero](https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:13 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGI2OTNhNDgzZWY3Y2Y2ZWYxZDMxMTc5YmI0MzE2ZjYw`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDJhMDEzMTA1NzE5MTRiZWI2MWMzY2FhNmYwYWYwN2U3`

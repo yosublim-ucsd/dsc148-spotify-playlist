@@ -4,7 +4,7 @@
 
 > 💔 ahí voy de tonto recordando y nunca paro, siempre lo mismo, solito me daño 💔
 
-80 songs - 5 hr 0 min
+81 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 | 2023-11-10 |  |
 | [Pagina de Amor](https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Alma de Cantante Errante](https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S) | 5:00 | 2023-11-10 |  |
 | [Para los Dolidos](https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Para los Dolidos](https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm) | 2:36 | 2023-11-10 |  |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-11-10 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-11-10 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-02-09 |  |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2023-11-10 |  |
 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2023-11-10 |  |
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2023-11-10 | 2024-01-05 |

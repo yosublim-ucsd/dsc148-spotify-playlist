@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg"> Omar Sterling</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,643 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,666 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 56 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 |
 | 57 | [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 |
 | 58 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 |
-| 59 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
+| 59 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
 | 60 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 61 | [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 |
-| 62 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
+| 62 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
 | 63 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
 | 64 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 65 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 67 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
 | 68 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
 | 69 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
-| 70 | [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 |
+| 70 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 
 Snapshot ID: `MTcxMjkxODg5MSwwMDAwMDAwMGFhNTU2ZWY2OGZjOWIwYTVjMzU4Y2NmNTdmZjNhMGVm`

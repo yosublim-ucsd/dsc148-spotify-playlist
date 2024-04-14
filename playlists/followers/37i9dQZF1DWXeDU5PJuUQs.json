@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 142481,
+  "2024-04-14": 142551,
   "date_first_scraped": "2022-01-02",
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
   "name": "Vivo de Cumbia",
@@ -137,6 +137,24 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "album": {
+        "name": "En Vivo Estadio Luna Park",
+        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278811,
+      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
+      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "album": {
@@ -713,7 +731,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
@@ -771,6 +789,24 @@
       "duration_ms": 297351,
       "name": "Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame - En Vivo",
       "url": "https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5"
+    },
+    {
+      "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
     },
     {
       "album": {
@@ -959,7 +995,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
@@ -1061,6 +1097,28 @@
       "duration_ms": 123271,
       "name": "La Cola Less - En Vivo",
       "url": "https://open.spotify.com/track/1Mc3igeO36vqjsEknZtj4I"
+    },
+    {
+      "album": {
+        "name": "La Cumbia de los Rotos y los Descosidos (En Vivo)",
+        "url": "https://open.spotify.com/album/0Vlb6ovPyHchgesQAqtrYZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "La Cumbia de los Rotos y los Descosidos - En Vivo",
+      "url": "https://open.spotify.com/track/34JqqBUM4wzwGX2ovPYNae"
     },
     {
       "album": {
@@ -1437,7 +1495,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"

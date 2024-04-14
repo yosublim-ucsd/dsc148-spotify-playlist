@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Eddie Vedder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,698,207 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,698,354 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 13 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
 | 14 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 15 | [Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:59 |
-| 16 | [Glycerine](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 |
+| 16 | [Glycerine \- 2014 Remastered](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 |
 | 17 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
 | 18 | [About A Girl](https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:48 |
 | 19 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs from around the world of 2023\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,581 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,588 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 72 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 73 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 |
 | 74 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
-| 75 | [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 |
+| 75 | [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 |
 
 Snapshot ID: `MTcwMTI2MDEwMCwwMDAwMDAwMGQzNmFjMmM3ZDk5YzM2YTI5Mjk3OGRhNjcyNzQ0ODlm`

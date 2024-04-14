@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,674 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,720 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 16 | [Mulher de Fases \- Ao Vivo \| Acústico](https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Dinho Ouro Preto](https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 4:51 |
 | 17 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
 | 18 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 |
-| 19 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
-| 20 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 |
+| 19 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 |
+| 20 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
 | 21 | [Anjos \(Pra quem tem fé\) \- Ao vivo](https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [O Rappa \- Acústico Oficina Francisco Brennand \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR) | 7:18 |
 | 22 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
 | 23 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 |

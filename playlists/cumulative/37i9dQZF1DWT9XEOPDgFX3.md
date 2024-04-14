@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-467 songs - 1 day 4 hr 53 min
+468 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 | 2023-06-22 |
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 | 2023-05-14 |
-| [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr) | 4:02 | 2023-08-04 |  |
+| [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Halfway \(Acoustic\) feat\. Hotel Fiction](https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr) | 4:02 | 2023-08-04 | 2024-04-14 |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2022-10-14 | 2023-04-29 |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 | 2023-06-24 |
@@ -327,6 +327,7 @@
 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 | 2024-03-08 |  |
 | [Rare to Wake](https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 4:38 | 2022-04-29 | 2023-03-04 |
 | [Rare to Wake](https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Rare to Wake](https://open.spotify.com/album/3WG1IzGLsFRejWfefknJtu) | 4:38 | 2022-04-13 | 2022-07-29 |
+| [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 | 2024-04-12 |  |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 | 2022-04-13 | 2023-03-04 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 | 2023-04-28 |  |
 | [Reliable Feelings](https://open.spotify.com/track/30LBzS7eykKBOpFbwlE4nX) | [Adeline Hotel](https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv) | [Good Timing](https://open.spotify.com/album/095LNfAEI2EPWtL3Z3xVsX) | 2:46 | 2022-04-13 | 2022-07-28 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 214992,
+  "2024-04-14": 215028,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Portugal.",
   "name": "Top 50 - Portugal",
@@ -8081,7 +8081,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170400,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3p5b0fr7ynsuGeE8EJCJk9"
@@ -15767,7 +15767,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -16691,7 +16691,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167012,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW"
@@ -17277,6 +17277,28 @@
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "album": {

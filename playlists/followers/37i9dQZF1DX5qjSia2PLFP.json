@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 102830,
+  "2024-04-14": 103010,
   "date_first_scraped": "2022-02-25",
   "description": "New music breaking waves. Cover: <a href=\"spotify:artist:1IppGzPqPv70sKbraW5Q2L\">Baby Kia</a> ",
   "name": "Ripple Effect",
@@ -1287,6 +1287,24 @@
       "duration_ms": 102342,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
+    },
+    {
+      "album": {
+        "name": "BAD WEATHER",
+        "url": "https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112746,
+      "name": "BAD WEATHER",
+      "url": "https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk"
     },
     {
       "album": {
@@ -2895,6 +2913,24 @@
       "duration_ms": 166315,
       "name": "close to you",
       "url": "https://open.spotify.com/track/1fPsmQlbaXMkMwCeKm07hb"
+    },
+    {
+      "album": {
+        "name": "Closer To Over",
+        "url": "https://open.spotify.com/album/0gig9wiHrJaPDgLsz0Kwh0"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178063,
+      "name": "Closer To Over",
+      "url": "https://open.spotify.com/track/1Do2SuBBCAzfiOKm1gKPKi"
     },
     {
       "album": {
@@ -5415,7 +5451,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 267886,
       "name": "FUL",
       "url": "https://open.spotify.com/track/60Rfi324rJBiPfoRZKNKtF"
@@ -6267,7 +6303,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181008,
       "name": "Hat",
       "url": "https://open.spotify.com/track/0pQ2Wqzh1ppBbm9Wgzm4ZP"
@@ -8665,7 +8701,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 114503,
       "name": "Make Sum Noise",
       "url": "https://open.spotify.com/track/0Yih2BwSERfnXqSvDlXufR"
@@ -10526,6 +10562,24 @@
     },
     {
       "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
+    },
+    {
+      "album": {
         "name": "Dirty Harry",
         "url": "https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr"
       },
@@ -10939,6 +10993,32 @@
       "duration_ms": 140487,
       "name": "Please",
       "url": "https://open.spotify.com/track/3tfBtzdP9fXC53Hf0tbbdd"
+    },
+    {
+      "album": {
+        "name": "It's Us Vol. 1",
+        "url": "https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm"
+      },
+      "artists": [
+        {
+          "name": "Concrete Boys",
+          "url": "https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194282,
+      "name": "POINT ME TO IT (feat. Lil Yachty, Camo!)",
+      "url": "https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP"
     },
     {
       "album": {
@@ -11725,7 +11805,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 230984,
       "name": "RIDIN 4 U",
       "url": "https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84"
@@ -12837,6 +12917,24 @@
       "duration_ms": 148636,
       "name": "Smoochie Valentine",
       "url": "https://open.spotify.com/track/55LOzleH2mgzrPjCpNgOEr"
+    },
+    {
+      "album": {
+        "name": "SNA!",
+        "url": "https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128011,
+      "name": "SNA!",
+      "url": "https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq"
     },
     {
       "album": {
@@ -14955,7 +15053,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164427,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw"
@@ -15301,7 +15399,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 119470,
       "name": "WHERE YO DADDY? (feat. KARRAHBOOO)",
       "url": "https://open.spotify.com/track/3z5q2KgNxECnr3eYWenPKx"
@@ -15739,6 +15837,28 @@
       "duration_ms": 123000,
       "name": "yeaaa",
       "url": "https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf"
+    },
+    {
+      "album": {
+        "name": "Yeah (with BIA)",
+        "url": "https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
     },
     {
       "album": {

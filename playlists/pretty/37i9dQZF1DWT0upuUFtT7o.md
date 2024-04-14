@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,586 likes - 104 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,632 likes - 104 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 1020970,
+  "2024-04-14": 1022075,
   "date_first_scraped": "2022-05-23",
-  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Natanael Cano, Dan S\u00e1nchez en portada. ",
+  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Bizarrap, Natanael Cano en portada. ",
   "name": "Corridos Tumbados",
   "tracks": [
     {
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192718,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161494,
       "name": "Doble Vaso",
       "url": "https://open.spotify.com/track/6DlxxuLfJLZlynCWolPcGB"
@@ -676,6 +676,28 @@
     },
     {
       "album": {
+        "name": "El Boss",
+        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+    },
+    {
+      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
       },
@@ -687,7 +709,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174405,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
@@ -709,7 +731,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
@@ -1148,6 +1170,28 @@
     },
     {
       "album": {
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
+    },
+    {
+      "album": {
         "name": "Estilo Call Of Duty",
         "url": "https://open.spotify.com/album/5rs3LSRCXx44C3f8vYsGYu"
       },
@@ -1243,7 +1287,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
@@ -1322,6 +1366,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "album": {
         "name": "Haciendo Billetes",
         "url": "https://open.spotify.com/album/5zVvOwhY4WUm255wBqUkS2"
       },
@@ -1377,7 +1443,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
@@ -1482,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "Koenigsegg",
+        "url": "https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65"
+      },
+      "artists": [
+        {
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186459,
+      "name": "Koenigsegg",
+      "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
+    },
+    {
+      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -1519,6 +1607,32 @@
       "duration_ms": 212861,
       "name": "LA CHERRY",
       "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
+    },
+    {
+      "album": {
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
     },
     {
       "album": {
@@ -1659,6 +1773,28 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
     },
     {
       "album": {
@@ -1833,7 +1969,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
@@ -1855,6 +1991,28 @@
       "duration_ms": 216330,
       "name": "Morritas",
       "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "album": {
@@ -2471,7 +2629,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172954,
       "name": "Sencillo Soy",
       "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
@@ -2581,6 +2739,24 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk"
     },
     {
       "album": {

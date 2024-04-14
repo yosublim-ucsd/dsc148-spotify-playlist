@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Current Pakistani hits under one roof. Cover: Hasan Raheem",
+  "description": "Coke Studio's Aayi Aayi out now. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Season 10: Episode 2",
+        "url": "https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        },
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311040,
+      "name": "Faasle",
+      "url": "https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ"
+    },
+    {
+      "album": {
         "name": "Coke Studio Season 10 - Episode 2",
         "url": "https://open.spotify.com/album/0aCueEk7up6ZkTe89RIcNw"
       },
@@ -738,7 +760,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 311040,
       "name": "Faasle",
       "url": "https://open.spotify.com/track/5t0dDiEtorzHo7myp2Tt3q"

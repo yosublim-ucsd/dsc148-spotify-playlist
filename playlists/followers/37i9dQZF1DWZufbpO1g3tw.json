@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 71828,
+  "2024-04-14": 72062,
   "date_first_scraped": "2022-05-26",
   "description": "Aficionades que viven la intensidad de botanear \u26bd\ufe0f\ud83c\udf2e\ud83c\udf7b",
   "name": "La Playlist Botanera",
@@ -1573,6 +1573,32 @@
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+    },
+    {
+      "album": {
+        "name": "El Rey de la Kumbia",
+        "url": "https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227347,
+      "name": "El Rey de la Kumbia",
+      "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
     },
     {
       "album": {
@@ -3168,6 +3194,28 @@
     },
     {
       "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+    },
+    {
+      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -4187,6 +4235,28 @@
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
+    },
+    {
+      "album": {
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "Se Agradece",
+      "url": "https://open.spotify.com/track/0twUC3IFj8wtMUZVr7CLWM"
     },
     {
       "album": {

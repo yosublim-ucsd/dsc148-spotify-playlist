@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkutSS7nnlO.md) - [plain]
 
 > Secouez vos pieds, bougez les jambes, levez les bras sur ces tubes pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 61 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkutSS7nnlO.md) - [plain]
 | 44 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:36 |
 | 45 | [Hooked On A Feeling](https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling \- 40th Anniversary Collection](https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ) | 2:52 |
 | 46 | [Hold On](https://open.spotify.com/track/3ZqjDpr3qCZnZBPcd0Hpj2) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Born to Sing](https://open.spotify.com/album/5G7LmJHqy7cLklwTm1ARYa) | 5:04 |
-| 47 | [Release Me](https://open.spotify.com/track/0x4ijFipSxDfNEge0bpkk1) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 |
+| 47 | [Twist And Shout](https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT) | 2:35 |
 | 48 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
 | 49 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
 | 50 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |

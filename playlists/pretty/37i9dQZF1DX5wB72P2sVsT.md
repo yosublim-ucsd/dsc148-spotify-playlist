@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Tiësto x Don Omar x Lucenzo a au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,129 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,205 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 22 | [Ella Elle L'a](https://open.spotify.com/track/7oCqUBYVTqWbN0M6aYD7O3) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Ella Elle L'a](https://open.spotify.com/album/4RN7tJXpxyE5LaSIiiFueX) | 2:30 |
 | 23 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
 | 24 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
-| 25 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 25 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 26 | [Bittersweet Goodbye \- Tiësto’s Hardcore Remix](https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Bittersweet Goodbye \(Tiësto’s Hardcore Remix\)](https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P) | 2:38 |
 | 27 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 |
 | 28 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 |

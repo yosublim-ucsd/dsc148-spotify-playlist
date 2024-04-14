@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Escola da Rua",
+        "url": "https://open.spotify.com/album/5KyTwDNDcc7IbZbobI8MxT"
+      },
+      "artists": [
+        {
+          "name": "Kauan Marco",
+          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309677,
+      "name": "A Man Called Cory",
+      "url": "https://open.spotify.com/track/0ThxTOnrmRXc44u4dkNsR2"
+    },
+    {
+      "album": {
+        "name": "Escola da Rua",
         "url": "https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R"
       },
       "artists": [
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 396922,
       "name": "Eu Vou Surfar Na Pista",
       "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"

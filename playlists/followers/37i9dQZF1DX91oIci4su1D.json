@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 818391,
+  "2024-04-14": 818463,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -3021,6 +3021,28 @@
       "duration_ms": 180952,
       "name": "City Of Lights",
       "url": "https://open.spotify.com/track/39UeSK4g00t3SIp7QbK1te"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. Chenai)",
+        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Chenai",
+          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234728,
+      "name": "Closer (feat. Chenai)",
+      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
     },
     {
       "album": {
@@ -10785,7 +10807,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231428,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO"
@@ -11490,6 +11512,32 @@
     },
     {
       "album": {
+        "name": "Now Love Will Begin",
+        "url": "https://open.spotify.com/album/2jKYB8a9NJJgwWwOlV9eaZ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Now Love Will Begin",
+      "url": "https://open.spotify.com/track/6F25FmoNZ2ESMPmYWMbsIG"
+    },
+    {
+      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0xDibmnP8xbK6Vjh6BN1s0"
       },
@@ -11817,7 +11865,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231304,
       "name": "Only Now I See - Mike Zaloxx Remix",
       "url": "https://open.spotify.com/track/61kUZ4u03R6SttbBpnm0oz"

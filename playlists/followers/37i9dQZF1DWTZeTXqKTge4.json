@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 79394,
+  "2024-04-14": 79408,
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Canicule",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Raccoon ",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -5094,6 +5094,24 @@
     },
     {
       "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224782,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
+    },
+    {
+      "album": {
         "name": "GOD COMPLEX",
         "url": "https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo"
       },
@@ -6381,7 +6399,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 210666,
       "name": "Kisakiin 2",
       "url": "https://open.spotify.com/track/5Ky2DYvP6eghOlMKDBrf0Z"
@@ -6471,7 +6489,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 237691,
       "name": "La fess\u00e9e",
       "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
@@ -7577,6 +7595,24 @@
       "duration_ms": 197067,
       "name": "Mode Avion",
       "url": "https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY"
+    },
+    {
+      "album": {
+        "name": "Moishes Riopelle",
+        "url": "https://open.spotify.com/album/7j6awHL3LmU5vyS4xjSNsB"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Moishes Riopelle",
+      "url": "https://open.spotify.com/track/0YWWxtubocRe3nb4tXuDDw"
     },
     {
       "album": {
@@ -8767,7 +8803,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211506,
       "name": "P'tit cochon",
       "url": "https://open.spotify.com/track/4KzVQwE98AbZ7TrrNwt9L9"
@@ -9500,6 +9536,24 @@
     },
     {
       "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/6pFoqH1ei5kVVUJwakL2mT"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141947,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK"
+    },
+    {
+      "album": {
         "name": "Probl\u00e8mes",
         "url": "https://open.spotify.com/album/5UelzUQ0qDzakxA0jKT3aZ"
       },
@@ -9573,6 +9627,24 @@
       "duration_ms": 203786,
       "name": "PROTAGONISTE (Main Theme)",
       "url": "https://open.spotify.com/track/09N0R11DpvtXWCk4YFLSnJ"
+    },
+    {
+      "album": {
+        "name": "Prot\u00e9ger et Servir",
+        "url": "https://open.spotify.com/album/4J4K8pPTI4ruWL5wAhJv8e"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203368,
+      "name": "Prot\u00e9ger et Servir",
+      "url": "https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm"
     },
     {
       "album": {
@@ -10231,7 +10303,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227745,
       "name": "Risques & Hustle",
       "url": "https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu"

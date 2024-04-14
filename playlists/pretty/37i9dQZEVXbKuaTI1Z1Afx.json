@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 366567,
+  "num_followers": 366551,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY2Mjg1ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY2Mzc0NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Get Wid Lemonade",
         "url": "https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY"
@@ -73,7 +73,59 @@
       "url": "https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -97,43 +149,7 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
-      },
-      "artists": [
-        {
-          "name": "ian",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        }
-      ],
-      "duration_ms": 94666,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "SC-9",
         "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
@@ -165,23 +181,7 @@
       "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -197,39 +197,23 @@
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Praise Jah In The Moonlight (Live)",
         "url": "https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt"
@@ -245,39 +229,23 @@
       "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
@@ -293,7 +261,55 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -325,39 +341,7 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Mega Star",
-        "url": "https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE"
-      },
-      "artists": [
-        {
-          "name": "King Hendrick$",
-          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
-        }
-      ],
-      "duration_ms": 189387,
-      "name": "Leaving the Lot",
-      "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh"
@@ -373,7 +357,23 @@
       "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Mega Star",
+        "url": "https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "duration_ms": 189387,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -389,23 +389,7 @@
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Wine Into Whiskey",
         "url": "https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma"
@@ -421,7 +405,23 @@
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -449,23 +449,55 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "Bad Bitty",
-        "url": "https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 102342,
-      "name": "Bad Bitty",
-      "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Like That!",
+        "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "someday i'll get it",
         "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
@@ -497,7 +529,23 @@
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Bad Bitty",
+        "url": "https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 102342,
+      "name": "Bad Bitty",
+      "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Fisherrr",
         "url": "https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI"
@@ -517,23 +565,7 @@
       "url": "https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "My Kink Is Karma",
-      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "A Hometown Odyssey",
         "url": "https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K"
@@ -549,131 +581,7 @@
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Insanely Illegal Cage Fight",
-        "url": "https://open.spotify.com/album/0XxgVPZdYs2GPcu3ASupBP"
-      },
-      "artists": [
-        {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
-        },
-        {
-          "name": "Jackson Rose",
-          "url": "https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx"
-        }
-      ],
-      "duration_ms": 101129,
-      "name": "Insanely Illegal Cage Fight",
-      "url": "https://open.spotify.com/track/6R4NjnvN8gZFPlNFqGAVWT"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "The West Side Remix",
-        "url": "https://open.spotify.com/album/0zfyaOqakTP2niVaivgzGx"
-      },
-      "artists": [
-        {
-          "name": "LeBron James Playlist",
-          "url": "https://open.spotify.com/artist/7pt52xPt4oJEQ9iZItDIEc"
-        },
-        {
-          "name": "DJ Max Star",
-          "url": "https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ"
-        }
-      ],
-      "duration_ms": 191850,
-      "name": "The West Side Remix",
-      "url": "https://open.spotify.com/track/5I2tVobnVIxCYaF9r8hbzd"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Life With You",
-        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hart",
-          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Life With You",
-      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 238016,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 219710,
-      "name": "Femininomenon",
-      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
@@ -693,23 +601,115 @@
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "Tears In The River",
-        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+        "name": "Insanely Illegal Cage Fight",
+        "url": "https://open.spotify.com/album/0XxgVPZdYs2GPcu3ASupBP"
       },
       "artists": [
         {
-          "name": "Maddox Batson",
-          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        },
+        {
+          "name": "Jackson Rose",
+          "url": "https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx"
         }
       ],
-      "duration_ms": 190619,
-      "name": "Tears In The River",
-      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
+      "duration_ms": 101129,
+      "name": "Insanely Illegal Cage Fight",
+      "url": "https://open.spotify.com/track/6R4NjnvN8gZFPlNFqGAVWT"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "The West Side Remix",
+        "url": "https://open.spotify.com/album/0zfyaOqakTP2niVaivgzGx"
+      },
+      "artists": [
+        {
+          "name": "LeBron James Playlist",
+          "url": "https://open.spotify.com/artist/7pt52xPt4oJEQ9iZItDIEc"
+        },
+        {
+          "name": "DJ Max Star",
+          "url": "https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ"
+        }
+      ],
+      "duration_ms": 191850,
+      "name": "The West Side Remix",
+      "url": "https://open.spotify.com/track/5I2tVobnVIxCYaF9r8hbzd"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 238016,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Life With You",
+      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Sippin' Yak",
         "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
@@ -725,23 +725,55 @@
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "lil' freak",
-        "url": "https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 168023,
-      "name": "lil' freak",
-      "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -765,39 +797,23 @@
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 190619,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "The Dark Side of the Moon",
         "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
@@ -813,43 +829,23 @@
       "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
-        "name": "KETAMINE",
-        "url": "https://open.spotify.com/album/4yObEmK8WkdvXMsE9l1kwa"
+        "name": "lil' freak",
+        "url": "https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww"
       },
       "artists": [
         {
-          "name": "toutone",
-          "url": "https://open.spotify.com/artist/6KvjCNjg5Jn52vFNS7ir8w"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 114635,
-      "name": "KETAMINE",
-      "url": "https://open.spotify.com/track/4t7iX6xIg5HQE8ZNziM0Ev"
+      "duration_ms": 168023,
+      "name": "lil' freak",
+      "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
     },
     {
-      "added_at": "2024-04-12 14:48:00",
-      "album": {
-        "name": "Lady Killers II (Christoph Andersson Remix)",
-        "url": "https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Christoph Andersson",
-          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
-        }
-      ],
-      "duration_ms": 297794,
-      "name": "Lady Killers II - Christoph Andersson Remix",
-      "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
-    },
-    {
-      "added_at": "2024-04-12 14:48:00",
+      "added_at": "2024-04-13 15:31:26",
       "album": {
         "name": "Drinkin' alone",
         "url": "https://open.spotify.com/album/7B0D2Lz8GJdfrdsTIDk9Og"

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 230812,
+  "2024-04-14": 230922,
   "date_first_scraped": "2022-03-24",
   "description": "Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
@@ -12529,7 +12529,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196448,
       "name": "Trajet\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/67Cco0htUXmnuPYKgAkJnq"
@@ -12893,6 +12893,40 @@
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
+    },
+    {
+      "album": {
+        "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
+        "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385357,
+      "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
+      "url": "https://open.spotify.com/track/3Q36LH3rlABCEt4JMLbD8p"
     },
     {
       "album": {

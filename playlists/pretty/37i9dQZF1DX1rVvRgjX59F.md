@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 
 > These songs rocked the 90s\. Cover: The Offspring
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,481,082 likes - 101 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,481,434 likes - 101 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 55 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 |
 | 56 | [Cryin'](https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:08 |
 | 57 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 58 | [Machinehead](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
+| 58 | [Machinehead \- 2014 Remastered](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
 | 59 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 60 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
 | 61 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |

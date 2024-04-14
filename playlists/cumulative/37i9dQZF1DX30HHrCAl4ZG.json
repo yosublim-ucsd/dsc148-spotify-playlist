@@ -9029,6 +9029,24 @@
     },
     {
       "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46"
+    },
+    {
+      "album": {
         "name": "PRATTS & PAIN",
         "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
       },
@@ -9040,7 +9058,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 185213,
       "name": "Foam",
       "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"

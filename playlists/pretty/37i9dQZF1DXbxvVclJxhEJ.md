@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,351 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,392 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 26 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 27 | [Sloppy Drunk Blues](https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:15 |
 | 28 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
-| 29 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
+| 29 | [Rock The Bop](https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni) | 2:12 |
 | 30 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
 | 31 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
-| 32 | [I'm a Mighty Tight Woman](https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [First Time I Met the Blues \(When the Sun Goes Down series\)](https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL) | 2:50 |
-| 33 | [Rock The Bop](https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni) | 2:12 |
+| 32 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
+| 33 | [I'm a Mighty Tight Woman](https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [First Time I Met the Blues \(When the Sun Goes Down series\)](https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL) | 2:50 |
 | 34 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 35 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
 | 36 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |

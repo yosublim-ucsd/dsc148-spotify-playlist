@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Marie Dahlstrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,618 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,684 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

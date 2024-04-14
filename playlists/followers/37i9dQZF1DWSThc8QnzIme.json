@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 277281,
+  "2024-04-14": 277310,
   "date_first_scraped": "2022-05-19",
   "description": "Breeze through your commute with these pop favorites. Cover: Sabrina Carpenter",
   "name": "Pop Drive",
@@ -3890,6 +3890,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -6081,7 +6099,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173000,
       "name": "Part Time Lover",
       "url": "https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa"
@@ -8654,6 +8672,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"
+    },
+    {
+      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
@@ -8665,7 +8701,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

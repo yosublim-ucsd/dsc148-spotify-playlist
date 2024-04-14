@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051,277 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,506 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
+| 1 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 2 | [should've wore a bonnet](https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:06 |
 | 3 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 4 | [Closer To Over](https://open.spotify.com/track/1Do2SuBBCAzfiOKm1gKPKi) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Closer To Over](https://open.spotify.com/album/0gig9wiHrJaPDgLsz0Kwh0) | 2:58 |
 | 5 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 6 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
-| 7 | [Gracious](https://open.spotify.com/track/3qm3IN6Yx53r3NIououTey) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:06 |
+| 7 | [Gracious](https://open.spotify.com/track/3qm3IN6Yx53r3NIououTey) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:06 |
 | 8 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 9 | [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 |
 | 10 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 |

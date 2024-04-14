@@ -4,7 +4,7 @@
 
 > New music from Future and Metro Boomin.
 
-1,993 songs - 4 day 7 hr 9 min
+1,994 songs - 4 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1390,7 +1390,7 @@
 | [Red](https://open.spotify.com/track/42wYsI2BUS9ABUnY9wZcGT) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Red](https://open.spotify.com/album/1VYCrQFhyQkOrxKvfYVKXv) | 2:12 | 2020-03-06 | 2020-03-13 |
 | [Red Eye](https://open.spotify.com/track/3qHgGyJY4GpXNOK4WL4NSo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Still Flexin, Still Steppin](https://open.spotify.com/album/6mhlquPOu46v4c7nXS35mX) | 2:36 | 2020-02-21 | 2020-03-14 |
 | [Red Flag](https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Red Flag](https://open.spotify.com/album/7Dars3VivMCmaW6JR5qy09) | 3:27 | 2022-09-23 | 2022-10-22 |
-| [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 | 2024-04-12 |  |
+| [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 | 2024-04-12 | 2024-04-14 |
 | [Red Light](https://open.spotify.com/track/3Gzcb65waeZYidm0vSaelM) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Red Light](https://open.spotify.com/album/3QqkbNMuerqYvLZcDGp9zk) | 2:07 | 2020-01-17 | 2020-01-31 |
 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 | 2021-06-26 | 2021-09-10 |
 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 | 2024-01-19 | 2024-02-17 |
@@ -1529,6 +1529,7 @@
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-08 | 2024-02-10 |
 | [Shottas \(Lala\)](https://open.spotify.com/track/2Ox2c1WEJDeQCHTXPE3YKM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:02 | 2021-04-24 | 2021-05-29 |
 | [Show Me Up](https://open.spotify.com/track/3BGppswSnFNGUSFiJ6rj4n) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Show Me Up](https://open.spotify.com/album/5xe3MDpbfGY6ELBF4zU29w) | 2:46 | 2021-04-10 | 2021-04-24 |
+| [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2024-04-13 |  |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2020-12-11 | 2021-03-19 |
 | [SHUT UP](https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SHUT UP](https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO) | 2:50 | 2020-02-21 | 2020-04-03 |
 | [Sick \(feat\. DaBaby\)](https://open.spotify.com/track/0BqyyCV8M6roYLRmNtiasC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOSS MAN](https://open.spotify.com/album/1YOx6ZVgiv9GEluUwBWevi) | 1:57 | 2020-03-13 | 2020-04-18 |

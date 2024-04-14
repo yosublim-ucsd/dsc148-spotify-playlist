@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 437021,
+  "2024-04-14": 437231,
   "date_first_scraped": "2021-12-21",
   "description": "Masterpieces from the world of opera.",
   "name": "Opera Classics",
@@ -569,6 +569,40 @@
       "duration_ms": 229013,
       "name": "Carmen / Act II: Toreador Song: \"Votre toast, je peux vous le rendre\" (from Carmen / Act 2)",
       "url": "https://open.spotify.com/track/4GtwsI12udoBup7wWj7uEa"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen, Act I: Seguidilla. Pr\u00e8s des remparts de S\u00e9ville",
+        "url": "https://open.spotify.com/album/6DcwolNIYVVgb6tmr7bmEe"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Aigul Akhmetshina",
+          "url": "https://open.spotify.com/artist/2nfUnDcJXHrws13Icxz0JV"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Daniele Rustioni",
+          "url": "https://open.spotify.com/artist/5oCfVInP56jnhdjx4bVYSQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Carmen, Act I: Seguidilla. Pr\u00e8s des remparts de S\u00e9ville",
+      "url": "https://open.spotify.com/track/7nQpZAnslA8gZl95C93nkE"
     },
     {
       "album": {

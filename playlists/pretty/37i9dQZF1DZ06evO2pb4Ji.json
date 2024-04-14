@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 387096,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 387142,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGQ5Y2M0YTM5NmY5YjQ0YzdkYmI5MWVhYTc0ODljY2Nk",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGRiOGFkMDk2OTUwNjY0YTc0ZTljYWE3OTAxNjUwMWI3",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT"
     },
     {
       "added_at": null,
@@ -407,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        },
-        {
-          "name": "Ray Chen",
-          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIANTS",
         "url": "https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Clan",
+        "url": "https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 138401,
+      "name": "Mi Clan",
+      "url": "https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALL OUT",
         "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 198611,
       "name": "I'LL SHOW YOU",
       "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Clan",
-        "url": "https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 138401,
-      "name": "Mi Clan",
-      "url": "https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Nicki Taylor",
-          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
-        }
-      ],
-      "duration_ms": 216308,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire To The Fuse",
         "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 224169,
       "name": "Fire To The Fuse",
       "url": "https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Nicki Taylor",
+          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
+        }
+      ],
+      "duration_ms": 216308,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
     },
     {
       "added_at": null,
@@ -1095,6 +1095,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rules (Are Meant to Break)",
+        "url": "https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Che Lingo",
+          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
+        }
+      ],
+      "duration_ms": 181470,
+      "name": "Rules (Are Meant to Break)",
+      "url": "https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 150906,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rules (Are Meant to Break)",
-        "url": "https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Che Lingo",
-          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
-        }
-      ],
-      "duration_ms": 181470,
-      "name": "Rules (Are Meant to Break)",
-      "url": "https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 6165,
+  "2024-04-14": 6179,
   "date_first_scraped": "2022-05-13",
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
@@ -1200,6 +1200,32 @@
     },
     {
       "album": {
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
+    },
+    {
+      "album": {
         "name": "Delante",
         "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
       },
@@ -2005,7 +2031,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146666,
       "name": "HAVANA",
       "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
@@ -3769,7 +3795,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 151384,
       "name": "Taka",
       "url": "https://open.spotify.com/track/26H7YphndLyGSyYYDE5Vgf"
@@ -4028,6 +4054,28 @@
     },
     {
       "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "album": {
         "name": "Tuku Tu",
         "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
@@ -4057,7 +4105,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168500,
       "name": "Tumba La Casa",
       "url": "https://open.spotify.com/track/5yImYZuD2w8U9JbfNl5Gni"
@@ -4383,6 +4431,28 @@
       "duration_ms": 228690,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6ldrrA9dkZjIrX4wUOXTz2"
+    },
+    {
+      "album": {
+        "name": "Whine Up",
+        "url": "https://open.spotify.com/album/7jf1fvzIVmG9hZmPeaKSVB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj"
     },
     {
       "album": {

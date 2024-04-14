@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,451 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,468 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 69 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 70 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |
 | 71 | [Whoa Oh! \(Me vs Everyone\)](https://open.spotify.com/track/7CKLZEwboCy2juXMLsAHFt) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:24 |
-| 72 | [Hate \(I Really Don't Like You\)](https://open.spotify.com/track/6cQSR4chKDTFhlCT2MuNwq) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:44 |
-| 73 | [Come out to La](https://open.spotify.com/track/1ffgkx3sYnqMhtu0fmYZ7q) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:29 |
+| 72 | [Come out to La](https://open.spotify.com/track/1ffgkx3sYnqMhtu0fmYZ7q) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:29 |
+| 73 | [Hate \(I Really Don't Like You\)](https://open.spotify.com/track/6cQSR4chKDTFhlCT2MuNwq) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:44 |
 | 74 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 |
 | 75 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 |
 | 76 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |

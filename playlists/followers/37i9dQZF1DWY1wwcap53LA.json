@@ -1,9 +1,27 @@
 {
-  "2024-04-13": 31996,
+  "2024-04-14": 32030,
   "date_first_scraped": "2022-01-02",
   "description": "Country music making waves. Cover: Dalton Dover",
   "name": "Country Frequency",
   "tracks": [
+    {
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
     {
       "album": {
         "name": "Afraid of Forever",
@@ -864,6 +882,24 @@
     },
     {
       "album": {
+        "name": "Tiera",
+        "url": "https://open.spotify.com/album/0NMk88gtUwYqQoFJKUtnpd"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194766,
+      "name": "Found It In You (Demo)",
+      "url": "https://open.spotify.com/track/4Mhdwt1g9553tKTDHbCBvE"
+    },
+    {
+      "album": {
         "name": "Best Country Valentine's Day 2022",
         "url": "https://open.spotify.com/album/7IrYsuVvc201LLeuzLP85g"
       },
@@ -893,7 +929,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194766,
       "name": "Found It In You - Demo",
       "url": "https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191179,
       "name": "Miles",
       "url": "https://open.spotify.com/track/2guSqTXMytOv1FMosnvYRs"
@@ -1931,6 +1967,28 @@
       "duration_ms": 191179,
       "name": "Miles (feat. BRELAND)",
       "url": "https://open.spotify.com/track/4wdgg5hbea29X8J32o53Nr"
+    },
+    {
+      "album": {
+        "name": "Tiera",
+        "url": "https://open.spotify.com/album/0NMk88gtUwYqQoFJKUtnpd"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191179,
+      "name": "Miles (Featuring BRELAND)",
+      "url": "https://open.spotify.com/track/5B48QPFY7LKELsddFfWo7V"
     },
     {
       "album": {
@@ -3505,6 +3563,24 @@
       "duration_ms": 175140,
       "name": "What's Country to You",
       "url": "https://open.spotify.com/track/7Lkid8K3M00z6jqRiMbw5g"
+    },
+    {
+      "album": {
+        "name": "Whiskey Blues",
+        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133016,
+      "name": "Whiskey Blues",
+      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
     },
     {
       "album": {

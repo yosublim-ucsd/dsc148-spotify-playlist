@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,404 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,533 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 |
+| 1 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 |
 | 2 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
 | 3 | [Workin](https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Workin](https://open.spotify.com/album/0vqB5bvxtquqB5g87MNDw9) | 3:04 |
 | 4 | [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 |

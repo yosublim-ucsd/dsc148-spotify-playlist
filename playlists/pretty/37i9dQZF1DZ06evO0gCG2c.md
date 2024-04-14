@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 ### [This Is Akon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gCG2c)
 
-> This is Akon\. The essential tracks, all in one playlist.
+> This Is Akon\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,761 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,870 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 26 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
 | 27 | [Troublemaker](https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 3:57 |
 | 28 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 |
-| 29 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
-| 30 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
+| 29 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
+| 30 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 31 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
 | 32 | [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 |
 | 33 | [Keep You Much Longer](https://open.spotify.com/track/6yDvLWVeAdIFTmEZYyqEQl) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 | 50 | [Coméntale](https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:34 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDVmYWQxOTM2MTg2YWY4ZjhlMTViMmIxZTMxZjllMzdh`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDA0NDVhMzJiZGE5NWQxMDRiMTQwZjY3YWE2YWFkMzkw`

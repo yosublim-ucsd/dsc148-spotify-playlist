@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,148 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,227 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [Favela Vive 2](https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Favela Vive 2](https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3) | 7:02 |
 | 48 | [Paraíso Que Me Cerca](https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:37 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDkxYzY0ZTM0ZTMxOTQ4ZGIzOGUwZDFlZmQ3OTExNTcz`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDllNWI3ZDllMzdmODFkOGMzMDRkNGVmOWE3MzM2MDZh`

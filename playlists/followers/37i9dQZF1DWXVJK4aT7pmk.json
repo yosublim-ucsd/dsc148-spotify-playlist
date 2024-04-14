@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 953149,
+  "2024-04-14": 954525,
   "date_first_scraped": "2024-01-18",
   "description": "Catch the hottest Punjabi tracks with Shubh for his track \"Bandana\"",
   "name": "Hot Hits Punjabi",
@@ -613,6 +613,24 @@
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
+    },
+    {
+      "album": {
+        "name": "Distance Love",
+        "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "Distance Love",
+      "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
     },
     {
       "album": {
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 288000,
       "name": "Top Class / Overseas",
       "url": "https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI"

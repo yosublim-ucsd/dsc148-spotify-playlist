@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 20 years of  <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX\-n7beSCAHzBQ">Thandiswa's</a>  Zabalaza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,483 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,536 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 41 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 42 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 43 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
-| 44 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 45 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
+| 44 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
+| 45 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 46 | [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 |
 | 47 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 |
 | 48 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |

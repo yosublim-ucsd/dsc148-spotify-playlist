@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 ### [This Is Fatherson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux)
 
-> This Is Fatherson\. Los temas esenciales, todos en una lista.
+> This is Fatherson\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 784 likes - 27 songs - 1 hr 38 min
 
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 26 | [Oh Yes](https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:19 |
 | 27 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGY0Yzk1Y2YzYzc5NTNlOTcyZDNhOTg0NzhhZjYzMDg0`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGYxMjM4ODYwM2ZiYTNhZTQzNDYyN2FlODJhOTBkNThi`

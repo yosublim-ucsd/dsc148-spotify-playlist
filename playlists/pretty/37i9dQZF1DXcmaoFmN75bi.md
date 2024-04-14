@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,130 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,260 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

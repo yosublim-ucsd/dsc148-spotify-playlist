@@ -1,6 +1,6 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 715155,
+  "num_followers": 715430,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Mirandote",
-      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 303373,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Mirandote",
+      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "14 \u00c9xitos Duros Como Guayacan",
-        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Invierno En Primavera",
-      "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Muy Agradecido",
         "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 273746,
       "name": "La Salsa Vive",
       "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "14 \u00c9xitos Duros Como Guayacan",
+        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Invierno En Primavera",
+      "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
     },
     {
       "added_at": "2023-10-19 19:33:14",

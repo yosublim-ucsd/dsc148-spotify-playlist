@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > It's just one of those days...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876,867 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,342 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 40 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
 | 41 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
 | 42 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
-| 43 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
-| 44 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
+| 43 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
+| 44 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
 | 45 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 46 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
 | 47 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |

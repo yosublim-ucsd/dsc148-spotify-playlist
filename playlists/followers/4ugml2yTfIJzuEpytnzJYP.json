@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 7107,
+  "2024-04-14": 7111,
   "date_first_scraped": "2021-11-28",
   "description": "Deep Bass - Melodic Bass - Dubstep - 140 - Downtempo - Dance Music - Tribal Trap - Grime - Future Bass",
   "name": "Deep Bass / Melodic Bass / 140",
@@ -203,6 +203,24 @@
       "duration_ms": 238222,
       "name": "Always",
       "url": "https://open.spotify.com/track/1OAYXRKMitVKpuhMf8klHc"
+    },
+    {
+      "album": {
+        "name": "An Ever Evolving Journey That Dances with Drums and Odd Dreams",
+        "url": "https://open.spotify.com/album/1FgAqBQFWptZOY8j6kbroG"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "An Ever Evolving Journey That Dances with Drums and Odd Dreams",
+      "url": "https://open.spotify.com/track/0DbwKYNlxXyfEODBRFbTEQ"
     },
     {
       "album": {
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168861,
       "name": "Dhabbu's Chorinicles",
       "url": "https://open.spotify.com/track/3w6GughLlATwAZhkCvhhCA"
@@ -4323,7 +4341,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 279398,
       "name": "The Last Lotus",
       "url": "https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ"

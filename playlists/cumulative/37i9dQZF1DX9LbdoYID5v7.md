@@ -4,7 +4,7 @@
 
 > Music that created modern indie as we know it\. Cover: Yeah Yeah Yeahs
 
-171 songs - 10 hr 59 min
+172 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Keep Yourself Warm](https://open.spotify.com/track/3PMRp8jPVeTyKPmuu4JFah) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/69voh97i16t9SrQeHWIqrY) | 5:33 | 2021-01-12 | 2022-03-11 |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2021-01-12 |  |
 | [Kim & Jessie](https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:22 | 2022-03-15 | 2022-07-13 |
-| [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2021-01-12 |  |
+| [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2021-01-12 | 2024-04-14 |
 | [Lasso](https://open.spotify.com/track/1DqTNIgasdUuTVBfHuEZds) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 2:47 | 2021-01-12 | 2022-07-29 |
 | [Lasso](https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 2:47 | 2023-01-18 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2022-07-28 |  |
@@ -159,6 +159,7 @@
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2021-01-12 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2021-01-12 | 2023-11-06 |
 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2022-07-28 |  |
+| [We Used To Be Friends](https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:19 | 2023-01-18 |  |
 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2022-07-28 | 2023-09-07 |
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2022-07-28 |  |
 | [What You Know](https://open.spotify.com/track/1qfYG2JrchEyJiqKnkE7YQ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4V1rQRHuuOWs8fXRl16OMY) | 3:09 | 2021-01-12 | 2022-07-29 |

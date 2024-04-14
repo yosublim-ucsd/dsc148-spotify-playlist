@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 23494,
+  "num_followers": 23514,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -491,7 +491,7 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Loner",
+        "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
       "artists": [
@@ -505,7 +505,7 @@
         }
       ],
       "duration_ms": 151456,
-      "name": "Loner",
+      "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
     },
     {
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Celine Dion",
-        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 189701,
-      "name": "Celine Dion",
-      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Celine Dion",
+        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 189701,
+      "name": "Celine Dion",
+      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 177727,
       "name": "Higher Powers",
       "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 166271,
+      "name": "imagine (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
     },
     {
       "added_at": "2024-04-12 00:01:00",

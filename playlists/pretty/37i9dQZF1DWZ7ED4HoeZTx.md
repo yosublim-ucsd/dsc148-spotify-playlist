@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,907 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,968 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 5 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
 | 6 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 7 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 8 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
-| 9 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
+| 8 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
+| 9 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
 | 10 | [again 〜YUI Acoustic Version〜](https://open.spotify.com/track/1jSmpQoTDhYJnPcvTnYml1) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [It's all too much / Never say die](https://open.spotify.com/album/5s5VpPSwFyMBo3kd3bPvS2) | 4:20 |
 | 11 | [Octopus Daughter](https://open.spotify.com/track/5e0hPk2kJAqpVFeX9olJ9V) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [manamoon \(まなもぉん\)](https://open.spotify.com/album/49oWwsiDEYNBot7wKN92HG) | 6:04 |
 | 12 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 34 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 35 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 36 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
-| 37 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
-| 38 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
+| 37 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
+| 38 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
 | 39 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
 | 40 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
 | 41 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |

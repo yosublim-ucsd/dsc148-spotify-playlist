@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 120861,
+  "2024-04-14": 121028,
   "date_first_scraped": "2023-04-15",
   "description": "a state of mind.",
   "name": "Outlaw ",
@@ -605,10 +605,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231813,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3CG6wjo8LItUJO5hQOzmAC"
     },
     {
       "album": {

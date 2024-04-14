@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 101574,
+  "2024-04-14": 101590,
   "date_first_scraped": "2021-12-29",
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
   "name": "This Is Celia Cruz",
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 153400,
       "name": "Dile Que Por M\u00ed No Tema",
       "url": "https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 167400,
       "name": "Me Voy A Pinar Del R\u00edo",
       "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
@@ -1905,7 +1905,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 184040,
       "name": "No Me Vayas A Enganar",
       "url": "https://open.spotify.com/track/6HAq1QMxwqXo1C3WqDVJn5"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186106,
       "name": "Pa La Paloma",
       "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163666,
       "name": "Tuya, Y M\u00e1s Que Tuya",
       "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"

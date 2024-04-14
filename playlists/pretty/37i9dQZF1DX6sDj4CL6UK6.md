@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Frizzell D'souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,834 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,847 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 29 | [Lucky Love](https://open.spotify.com/track/4yxSvdt8kl6jMdvFaiNtve) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 4:46 |
 | 30 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 |
 | 31 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 |
-| 32 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
-| 33 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
+| 32 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
+| 33 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 34 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 35 | [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 |
 | 36 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 |
 | 37 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 38 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 |
-| 39 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
+| 39 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
 | 40 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
-| 41 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
+| 41 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
 | 42 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
 | 43 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
 | 44 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 69 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
 | 70 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 |
 | 71 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
-| 72 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
-| 73 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
+| 72 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
+| 73 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
 | 74 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 | 75 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
 

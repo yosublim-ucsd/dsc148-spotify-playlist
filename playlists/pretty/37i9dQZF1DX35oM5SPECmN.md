@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,340,423 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,340,406 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 47 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 48 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
 | 49 | [Chariot](https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:20 |
-| 50 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
-| 51 | [See the World](https://open.spotify.com/track/0ioDZn2JL53ictGJMMkETC) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/78UXXQ2WhEdl3586dCV2ZT) | 4:17 |
+| 50 | [See the World](https://open.spotify.com/track/0ioDZn2JL53ictGJMMkETC) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/78UXXQ2WhEdl3586dCV2ZT) | 4:17 |
+| 51 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
 | 52 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 |
 | 53 | [Expectations](https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 3:55 |
 | 54 | [9beat](https://open.spotify.com/track/1Oy7QJxv45ubZDirk4z0Lk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:06 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 63 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
 | 64 | [Awake](https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR) | 3:14 |
 | 65 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
-| 66 | [Hold out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
-| 67 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
+| 66 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
+| 67 | [Hold out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 | 68 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
 | 69 | [Edge of Seventeen](https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 5:27 |
 | 70 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght \(Deluxe Version\)](https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO) | 3:20 |
 | 71 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 72 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
-| 73 | [Fire & Fury](https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:45 |
-| 74 | [I Get No Joy](https://open.spotify.com/track/2rgCu3A8HVHOnYAIBLsHYw) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:42 |
+| 73 | [I Get No Joy](https://open.spotify.com/track/2rgCu3A8HVHOnYAIBLsHYw) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:42 |
+| 74 | [Fire & Fury](https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:45 |
 | 75 | [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 |
 
 Snapshot ID: `MTcxMjAwMjA5MCwwMDAwMDAwMDI3NTMwNDVmYWE5NzU4ODc4Mjg0NjE4ODk4YWM3YjE1`

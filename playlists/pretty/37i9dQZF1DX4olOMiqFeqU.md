@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,424,919 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,398 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,24 +14,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 4 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 |
 | 5 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 6 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
-| 7 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 |
-| 8 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
+| 7 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
+| 8 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 |
 | 9 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 |
 | 10 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
 | 11 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 |
 | 12 | [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 |
-| 13 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
+| 13 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
 | 14 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:09 |
-| 15 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 |
+| 15 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 |
 | 16 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 |
 | 17 | [Higa](https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 4:05 |
 | 18 | [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 |
 | 19 | [The Day You Said Goodnight](https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:51 |
 | 20 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
 | 21 | [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 |
-| 22 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
-| 23 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
-| 24 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
+| 22 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
+| 23 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
+| 24 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
 | 25 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 |
 | 26 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 |
 | 27 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,807 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,833 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 5 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 |
 | 6 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
 | 7 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
-| 8 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 |
-| 9 | [Agárrala \(Remix\)](https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 2:32 |
+| 8 | [Agárrala \(Remix\)](https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 2:32 |
+| 9 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 |
 | 10 | [Sálvame](https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:44 |
 | 11 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
-| 12 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
-| 13 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
+| 12 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
+| 13 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
 | 14 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 15 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 16 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 31 | [Sin Despertar](https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:15 |
 | 32 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 |
 | 33 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
-| 34 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
-| 35 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 34 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 35 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
 | 36 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
 | 37 | [Siempre me quedará](https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:49 |
 | 38 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |

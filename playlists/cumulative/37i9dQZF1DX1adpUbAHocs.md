@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-331 songs - 20 hr 53 min
+332 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2022-03-22 | 2022-04-21 |
 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 | 2021-10-08 | 2022-07-28 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2022-01-07 | 2022-07-21 |
-| [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 | 2021-10-08 |  |
+| [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 | 2021-10-08 | 2024-04-14 |
 | [Crutch](https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact) | 3:43 | 2023-12-27 |  |
 | [Crutch](https://open.spotify.com/track/2QpvldSBDfPtduEVC9jm9O) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 3:43 | 2022-03-22 | 2023-01-15 |
 | [Dance Around It](https://open.spotify.com/track/3ds7PIuFylIZm05cWKzq8o) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It](https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh) | 3:26 | 2022-03-22 | 2022-07-29 |
@@ -225,6 +225,7 @@
 | [Puppy and a Truck](https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt) | 3:11 | 2023-05-05 | 2023-06-12 |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2022-01-07 | 2023-04-21 |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2024-04-10 |
+| [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2023-12-27 |  |
 | [Resin](https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Resin](https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX) | 3:23 | 2021-10-08 |  |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2023-03-17 |  |
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2022-01-07 | 2022-03-23 |

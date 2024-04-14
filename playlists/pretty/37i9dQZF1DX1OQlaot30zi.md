@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa e Fibra, Baby Gang, Vegas Jones e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,055 likes - 101 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,089 likes - 101 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 10 | [ADDERALL](https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ADDERALL](https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA) | 2:45 |
 | 11 | [Medley](https://open.spotify.com/track/0qtVFyzjNfvcVg82nFDtTU) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Medley](https://open.spotify.com/album/0HrhGNiAeg863vsD6ap3Ua) | 2:16 |
 | 12 | [CIAO](https://open.spotify.com/track/5DdWHjsNcP6wV14DjkvRYj) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [NEL MARGINE](https://open.spotify.com/album/0y2oM9KPXRrB1PtqfFIarZ) | 3:30 |
-| 13 | [X3](https://open.spotify.com/track/0sY1WsjtuhKWxgceHr7WaQ) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [X3](https://open.spotify.com/album/4lcWPHZbsReAnM2hQcRoNn) | 2:20 |
+| 13 | [X3](https://open.spotify.com/track/0GRqqQDFlXtGSk5x4Q9WNo) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Scialla Semper](https://open.spotify.com/album/12U4mTUkgpioWEG0biy3GE) | 2:20 |
 | 14 | [GUAJ \(feat\. Yung Snapp\)](https://open.spotify.com/track/3AuxMngBpEvLcnQgkDanyI) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [GUAJ \(feat\. Yung Snapp\)](https://open.spotify.com/album/2uD1OAzfhTtIdLC86AwQzO) | 2:49 |
 | 15 | [Pumping \(feat\. Slings\)](https://open.spotify.com/track/34ZqAap0uVKV91oeKLPvar) | [Dj Jay\-K](https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [2AM](https://open.spotify.com/album/2ac5Ab73R1hhOonWnvh3XS) | 1:57 |
 | 16 | [SAB](https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [SAB](https://open.spotify.com/album/53OXeIn2SNDGOYmrYAchK7) | 2:46 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 ### [This Is Montell Fish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3acIik)
 
-> This Is Montell Fish\. Los temas esenciales, todos en una lista.
+> This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,072 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,093 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 23 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 24 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
 | 25 | [Yes, You Love Me.](https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:58 |
-| 26 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 |
-| 27 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
+| 26 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
+| 27 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 |
 | 28 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
-| 29 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
-| 30 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
+| 29 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 30 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
 | 31 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
-| 32 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 32 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
 | 33 | [A Piece Called Butterflies.](https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:07 |
 | 34 | [Hold](https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 2:31 |
 | 35 | [Home for the Holidays](https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [A Lofi Christmas.](https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO) | 1:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
 | 50 | [Imagination](https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Imagination](https://open.spotify.com/album/7vnT0JGQIOvhmkvPuvO0Fe) | 2:08 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMDEwZTdkYWZkM2Y0YmU2ZGVkYzZjNDc5ZDMyOWM2YmY4`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDNkNjNjMThiNDYxNGEwYjE3NzM5MjVkYjM5NWIzMDEx`

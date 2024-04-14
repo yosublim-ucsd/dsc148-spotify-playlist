@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Oualid on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,690 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,767 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 30 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
 | 31 | [Chouwafat](https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp) | 3:24 |
 | 32 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
-| 33 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 |
-| 34 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 |
+| 33 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 |
+| 34 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 |
 | 35 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
 | 36 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 37 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 |

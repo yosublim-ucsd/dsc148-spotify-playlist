@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,900 likes - 59 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,964 likes - 59 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kabe](https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Nomis \(FR\)](https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V) | [Kabe](https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh) | 3:32 |
-| 2 | [Too Many \(Denz The Human Remix\)](https://open.spotify.com/track/0g1IKjuqqtZV20BIvRyrwi) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [Denz the Human](https://open.spotify.com/artist/6ZqkyZQ6oIwE1v26U0T2b6) | [Too Many \(Denz The Human Remix\)](https://open.spotify.com/album/520T7sTMVrRWvxmuyK3g3U) | 4:18 |
+| 2 | [Too Many \(Denz The Human Remix\)](https://open.spotify.com/track/0g1IKjuqqtZV20BIvRyrwi) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [Denz The Human](https://open.spotify.com/artist/1V9ldaKsqvrJzogt2sRQeW) | [Too Many \(Denz The Human Remix\)](https://open.spotify.com/album/520T7sTMVrRWvxmuyK3g3U) | 4:18 |
 | 3 | [Gorilla \- Radio Edit](https://open.spotify.com/track/07RX3FwnpN61suArirCyx2) | [RAYZIR](https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Gorilla EP](https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA) | 3:48 |
 | 4 | [Thandaza](https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm) | 6:01 |
 | 5 | [Awé](https://open.spotify.com/track/004rnp3iKWM3kCknbaqIIT) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Awé](https://open.spotify.com/album/5OaO6KwuGtUoItEhuknOZj) | 2:50 |

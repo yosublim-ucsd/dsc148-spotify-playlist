@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 317179,
+  "num_followers": 317285,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sendagi Collection",
-        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Selfish Earrings",
-      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -1247,6 +1227,22 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SAILORSATURDAYS",
+        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
+      },
+      "artists": [
+        {
+          "name": "Kokonoku",
+          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "SAILORSATURDAYS",
+      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1299,6 +1295,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Sendagi Collection",
+        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Selfish Earrings",
+      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dizzy Dream",
         "url": "https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 170847,
       "name": "Dizzy Dream",
       "url": "https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SAILORSATURDAYS",
-        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
-      },
-      "artists": [
-        {
-          "name": "Kokonoku",
-          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "SAILORSATURDAYS",
-      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 157500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Dance Cochayuyo!",
-        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
-      },
-      "artists": [
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
-        }
-      ],
-      "duration_ms": 167889,
-      "name": "Dance Dance Cochayuyo!",
-      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Dance Cochayuyo!",
+        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Dance Dance Cochayuyo!",
+      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Tropical Feeling",
         "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "The Beach Episode",
+        "url": "https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA"
+      },
+      "artists": [
+        {
+          "name": "GHOST DATA",
+          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+        }
+      ],
+      "duration_ms": 241577,
+      "name": "The Beach Episode",
+      "url": "https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Beach Episode",
-        "url": "https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "GHOST DATA",
-          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 241577,
-      "name": "The Beach Episode",
-      "url": "https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot"
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1703,22 +1719,6 @@
       "duration_ms": 151578,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0ggiLx9fppYEbY5ZakzPYK"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     }
   ],
   "unique_name": "Future Funk",

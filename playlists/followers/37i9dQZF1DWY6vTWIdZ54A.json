@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 492987,
+  "2024-04-14": 493035,
   "date_first_scraped": "2021-12-21",
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
   "name": "Dirty Rock",
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 316533,
       "name": "Currency",
       "url": "https://open.spotify.com/track/1rm3aoImJKt5gW1pet7Vat"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
@@ -2805,7 +2805,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214266,
       "name": "LUCKY PENNY",
       "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
@@ -5453,7 +5453,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 660051,
+  "2024-04-14": 660076,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Young Miko",
   "name": "Popet\u00f3n",
@@ -659,6 +659,28 @@
       "duration_ms": 195434,
       "name": "Bachata Blue",
       "url": "https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr"
+    },
+    {
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "album": {
@@ -1593,7 +1615,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186285,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/4cE08PBH39Ubs9xDTIMdVZ"

@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 303717,
+  "num_followers": 303805,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Things That Fade",
-        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
-      },
-      "artists": [
-        {
-          "name": "Greeen Linez",
-          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
-        }
-      ],
-      "duration_ms": 251779,
-      "name": "Hibiscus Pacific",
-      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Music in the Air",
         "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 142806,
       "name": "Akaiwa 1985",
       "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
-      },
-      "artists": [
-        {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 238213,
       "name": "True Cyan",
       "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+      },
+      "artists": [
+        {
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/38idADPCBOedtHFKSaeMva"
-      },
-      "artists": [
-        {
-          "name": "Ambientcloud",
-          "url": "https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dark Bandwidth",
-        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/38idADPCBOedtHFKSaeMva"
       },
       "artists": [
         {
-          "name": "Diskette Park",
-          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+          "name": "Ambientcloud",
+          "url": "https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6"
         }
       ],
-      "duration_ms": 217698,
-      "name": "Eye",
-      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
+      "duration_ms": 137692,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1647,6 +1631,38 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dark Bandwidth",
+        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+      },
+      "artists": [
+        {
+          "name": "Diskette Park",
+          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+      ],
+      "duration_ms": 217698,
+      "name": "Eye",
+      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Street Smarts",
         "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Mine on the Street",
-        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Beijing",
-      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Mine on the Street",
+        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Beijing",
+      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
     }
   ],
   "unique_name": "vaporwave",

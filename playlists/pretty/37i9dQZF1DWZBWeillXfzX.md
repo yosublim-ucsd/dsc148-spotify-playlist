@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,409 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,423 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

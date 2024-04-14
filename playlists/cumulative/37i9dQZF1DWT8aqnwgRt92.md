@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,301 songs - 3 day 9 hr 35 min
+1,302 songs - 3 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,8 +328,9 @@
 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 | 2022-10-25 | 2022-10-27 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 | 2023-05-10 |
 | [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 | 2023-07-11 | 2023-08-25 |
-| [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 |  |
+| [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 | 2024-04-14 |
 | [It's My Thing](https://open.spotify.com/track/3bHlV2IbVT3CKv80eONxt4) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [追憶と指先](https://open.spotify.com/album/0UDQ6tZZaowo4AzB0zSve3) | 3:36 | 2024-03-26 | 2024-03-28 |
+| [It's My Thing](https://open.spotify.com/track/7jqZTa51MkRE0pxEOZyVMq) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/0Y7PIYEeIWHkMXbnYTilSE) | 3:36 | 2024-04-11 |  |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-06-30 |
 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-05 | 2024-01-12 |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |

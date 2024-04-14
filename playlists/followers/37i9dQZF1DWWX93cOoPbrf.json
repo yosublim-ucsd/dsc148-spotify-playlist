@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 820537,
+  "2024-04-14": 820776,
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. La Receta en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Tito Double P, Jaziel Nu\u00f1ez en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169125,
       "name": "Anormal",
       "url": "https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd"
@@ -2075,6 +2075,28 @@
       "duration_ms": 143146,
       "name": "Bola De Envidiosos",
       "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
+    },
+    {
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/01pFFtrGWritbEqU53h8Ga"
+      },
+      "artists": [
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        },
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/7dArKmMv7j6qA3x1MvicRj"
     },
     {
       "album": {
@@ -3222,6 +3244,24 @@
     },
     {
       "album": {
+        "name": "Como V1",
+        "url": "https://open.spotify.com/album/3hzrplbZSTo8orQ577FHsm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217045,
+      "name": "Como V1",
+      "url": "https://open.spotify.com/track/1WAEy7jgpuPjSG9ygAAW2x"
+    },
+    {
+      "album": {
         "name": "Compa Juan",
         "url": "https://open.spotify.com/album/4bCiky1E5czcKNHCYulAN3"
       },
@@ -3233,7 +3273,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214631,
       "name": "Compa Juan",
       "url": "https://open.spotify.com/track/6cvYIiVLRVNSu8iLEFKjRl"
@@ -3343,6 +3383,28 @@
       "duration_ms": 219456,
       "name": "Confesiones Del RR - En Vivo",
       "url": "https://open.spotify.com/track/4sNBqV3HWzYtVgNo3BmYBN"
+    },
+    {
+      "album": {
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189771,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9"
     },
     {
       "album": {
@@ -3503,7 +3565,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
@@ -4101,10 +4163,36 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157364,
       "name": "Derecho y Chueco",
       "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "album": {
+        "name": "Derecho y Chueco (Remix)",
+        "url": "https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alianza Records",
+          "url": "https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "Derecho y Chueco - Remix",
+      "url": "https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp"
     },
     {
       "album": {
@@ -4123,7 +4211,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
@@ -6167,7 +6255,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244500,
       "name": "El de Bamoa",
       "url": "https://open.spotify.com/track/4advQOSFgTQDbKb6sZDGRc"
@@ -7378,6 +7466,28 @@
     },
     {
       "album": {
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "album": {
         "name": "Corridos En C\u00f3digo",
         "url": "https://open.spotify.com/album/1FIGxgFVretC2yAZ1pHKWO"
       },
@@ -7781,7 +7891,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146901,
       "name": "El Magnate",
       "url": "https://open.spotify.com/track/26TTh8pbxInRoKbOgLfIFb"
@@ -8673,7 +8783,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215041,
       "name": "El Prieto Bereta",
       "url": "https://open.spotify.com/track/4ou6FcWqtjorBer6znaAuU"
@@ -9747,7 +9857,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219605,
       "name": "El Wuero 2 Tres",
       "url": "https://open.spotify.com/track/7Bu2feeViMRKZhdaUm6Mex"
@@ -9791,6 +9901,28 @@
       "duration_ms": 223154,
       "name": "El Zorro (En Vivo)",
       "url": "https://open.spotify.com/track/0mt7jqwh0Fzk55JryaeHR6"
+    },
+    {
+      "album": {
+        "name": "El Zutano (Z26) [En Vivo]",
+        "url": "https://open.spotify.com/album/22IkKp6yRQGJ2vo2wEH4bi"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173951,
+      "name": "El Zutano (Z26) [En Vivo]",
+      "url": "https://open.spotify.com/track/7fAkgdnRmnMA7uOuHYgo77"
     },
     {
       "album": {
@@ -11835,7 +11967,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 131666,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
@@ -12493,7 +12625,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169523,
       "name": "Kyc",
       "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
@@ -14459,7 +14591,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164773,
       "name": "Lifted LA",
       "url": "https://open.spotify.com/track/4erzhMAvooXFTNnTIXrDOf"
@@ -15040,6 +15172,28 @@
     },
     {
       "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "album": {
         "name": "Lujos Flamantes",
         "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
       },
@@ -15139,6 +15293,28 @@
       "duration_ms": 141533,
       "name": "Made In Culiac\u00e1n",
       "url": "https://open.spotify.com/track/2agwS63hLGGke66GxSH3BL"
+    },
+    {
+      "album": {
+        "name": "MAKABELICOS",
+        "url": "https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187904,
+      "name": "MAKABELICOS",
+      "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
     },
     {
       "album": {
@@ -15750,6 +15926,28 @@
     },
     {
       "album": {
+        "name": "MF",
+        "url": "https://open.spotify.com/album/39lO82bWYLfhJ4X8ewfTLw"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200374,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/4PkZTRJDXsQ2tGMMeH8xaR"
+    },
+    {
+      "album": {
         "name": "Mi Amigo Carlos",
         "url": "https://open.spotify.com/album/7wCYzFnk47xPrA3WqmdTrW"
       },
@@ -16241,7 +16439,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 127330,
       "name": "modo sonrix",
       "url": "https://open.spotify.com/track/1Ml4Vwq9HajLP7EnZawZth"
@@ -16369,6 +16567,24 @@
       "duration_ms": 177509,
       "name": "Mundo Ah\u00ed Te Quedas",
       "url": "https://open.spotify.com/track/01PDAWtkV7kZVTAxNe7lXw"
+    },
+    {
+      "album": {
+        "name": "Mundo Frio",
+        "url": "https://open.spotify.com/album/7DZEXc8BAjLDhyivYl1ObN"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187672,
+      "name": "Mundo Frio",
+      "url": "https://open.spotify.com/track/74VmGNl1tRJiDEPno0dsml"
     },
     {
       "album": {
@@ -16569,7 +16785,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 230086,
       "name": "Ni Tan Diablo Ni Tan Santo",
       "url": "https://open.spotify.com/track/6OWRRBuXxRp9xUPf7M6iPn"
@@ -18035,7 +18251,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
@@ -18567,6 +18783,32 @@
       "duration_ms": 118980,
       "name": "Respaldo y Apoyo",
       "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
+    },
+    {
+      "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH"
+      },
+      "artists": [
+        {
+          "name": "Yahir Tarin",
+          "url": "https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ"
+        },
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs"
     },
     {
       "album": {
@@ -20979,7 +21221,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 126160,
       "name": "VIDA DE FAMOSO",
       "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"

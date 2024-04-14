@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Tinashe
 
-2,289 songs - 5 day 1 hr 29 min
+2,290 songs - 5 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1585,7 +1585,8 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-02 | 2022-10-08 |
 | [Question](https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Question](https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm) | 3:21 | 2023-09-29 | 2023-10-28 |
 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-06-09 | 2023-08-19 |
-| [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 | 2024-03-15 |  |
+| [QUIET TYPE](https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY) | 2:57 | 2024-03-15 | 2024-04-14 |
+| [QUIET TYPE](https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [QUIET TYPE](https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V) | 2:57 | 2024-03-15 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-08-19 |
 | [Rachel and Ross](https://open.spotify.com/track/6YIlJumm3UYeXvkR8d5hC6) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Rachel and Ross](https://open.spotify.com/album/09KxFvjE7VE0MXPHj9OxZQ) | 2:46 | 2023-10-13 | 2023-11-11 |

@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5080,
+  "num_followers": 5098,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-04-05 09:08:57",
       "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
+    },
+    {
+      "added_at": "2024-04-05 09:08:57",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2024-04-05 09:08:57",
-      "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
       "added_at": "2024-04-05 09:08:57",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-04-05 09:08:57",
       "album": {
-        "name": "Je N'aime Que Toi",
-        "url": "https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd"
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
       "artists": [
         {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Je N'aime Que Toi",
-      "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2024-04-05 09:08:57",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-04-05 09:08:57",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+        "name": "Je N'aime Que Toi",
+        "url": "https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
         }
       ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+      "duration_ms": 196666,
+      "name": "Je N'aime Que Toi",
+      "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
     },
     {
       "added_at": "2024-04-05 09:08:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,139 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,146 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 22 | [Weeping Willow \(Scott Joplin\)](https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N) | [Bryan Wright](https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf) | [Syncopated Musings: Classic Piano Rags And Ragtime Waltzes](https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3) | 4:15 |
 | 23 | [Possum and Taters](https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB) | [Jack & Chris Bradshaw](https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py) | [Takes Two](https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O) | 2:45 |
 | 24 | [Harmony Club Waltz](https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [50 Ragtime Classics: The Best of Scott Joplin](https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY) | 6:37 |
-| 25 | [New Era Rag](https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se) | [Wally Rose](https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB) | [Whippin' the Keys](https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix) | 2:47 |
-| 26 | [Sugar Cane](https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss) | [James Levine](https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa) | [Scott Joplin Greatest Hits](https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD) | 3:01 |
+| 25 | [Sugar Cane](https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss) | [James Levine](https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa) | [Scott Joplin Greatest Hits](https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD) | 3:01 |
+| 26 | [New Era Rag](https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se) | [Wally Rose](https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB) | [Whippin' the Keys](https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix) | 2:47 |
 | 27 | [Evergreen Rag \(1915 \- James Scott\)](https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm) | [Scott Kirby](https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM) | [Grace And Beauty \- Ragtime Classics](https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz) | 3:00 |
 | 28 | [Ragtime Oriole](https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp) | [Scott Cotton](https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU) | [Ragtime Revival](https://open.spotify.com/album/1PgJncp4RezmMO006IYusf) | 3:30 |
 | 29 | [Fig Leaf Rag](https://open.spotify.com/track/1yMqt5habP5GQsll993r1D) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:54 |

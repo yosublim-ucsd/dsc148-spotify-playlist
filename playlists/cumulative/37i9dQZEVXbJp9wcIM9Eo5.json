@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -11346,7 +11346,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -12562,10 +12562,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -13582,6 +13600,24 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168677,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
     },
     {
       "album": {
@@ -15268,7 +15304,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

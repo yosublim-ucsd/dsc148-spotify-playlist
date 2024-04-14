@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 ### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is Megan Thee Stallion\. Todos os maiores hits em uma só playlist.
+> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,743 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,798 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 38 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
 | 39 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
 | 40 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 |
-| 41 | [Flamin’ Hottie](https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Flamin’ Hottie](https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4) | 1:48 |
+| 41 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 |
 | 42 | [Freak Nasty](https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:53 |
-| 43 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 |
+| 43 | [Flamin’ Hottie](https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Flamin’ Hottie](https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4) | 1:48 |
 | 44 | [Stalli \(Freestyle\)](https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Stalli \(Freestyle\)](https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7) | 1:56 |
 | 45 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
 | 46 | [Big Booty \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Woptober II](https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU) | 2:08 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 |
 | 53 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGI0MDY0ZjI3OGU1YTY3YWQ1NmNmNTIwNTkzZjA3MDAy`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDEzOGIwNDc0MjA4OTgzMGJjMTU1YmNkZDBmZDQ5NzU0`

@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-159 songs - 10 hr 17 min
+160 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Motown Christmas](https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 | 2021-12-15 |  |
 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 | 2022-11-25 | 2024-02-18 |
-| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 |  |
+| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 | 2024-04-14 |
 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 | 2022-11-25 | 2023-05-19 |
 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 | 2023-11-10 |  |
 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 | 2021-12-15 | 2024-02-05 |
@@ -147,6 +147,7 @@
 | [This Christmas \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg) | 3:29 | 2021-12-15 | 2022-11-26 |
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-15 | 2022-11-26 |
 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [This Day \(feat\. Kiana Ledé\) \[from the Netflix Original Motion Picture Jingle Jangle\]](https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl) | 3:48 | 2021-12-15 | 2022-11-26 |
+| [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 | 2023-11-03 |  |
 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 | 2022-11-25 |  |
 | [Try A Little Tenderness](https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 6:13 | 2022-11-25 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-25 | 2023-12-25 |

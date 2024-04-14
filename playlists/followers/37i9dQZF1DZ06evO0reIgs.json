@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 81587,
+  "2024-04-14": 81586,
   "date_first_scraped": "2023-12-31",
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
   "name": "This Is Cynthia Luz",
@@ -263,7 +263,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169032,
       "name": "Bom Te Encontrar",
       "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "O Troco - Ao Vivo",
       "url": "https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV"

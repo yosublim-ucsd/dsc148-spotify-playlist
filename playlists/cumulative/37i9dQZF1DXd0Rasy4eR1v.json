@@ -3172,6 +3172,24 @@
     {
       "album": {
         "name": "Dhanak",
+        "url": "https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159795,
+      "name": "Dhanak",
+      "url": "https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ"
+    },
+    {
+      "album": {
+        "name": "Dhanak",
         "url": "https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8"
       },
       "artists": [
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 159795,
       "name": "Dhanak",
       "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
@@ -14452,6 +14470,24 @@
     {
       "album": {
         "name": "Yaadein",
+        "url": "https://open.spotify.com/album/23vZO2UdIwzL5RlTBLQ9dI"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Yaadein",
+      "url": "https://open.spotify.com/track/2zS2ty3KwAMBOHmWKyrZmJ"
+    },
+    {
+      "album": {
+        "name": "Yaadein",
         "url": "https://open.spotify.com/album/4J3iaWvJORN2fQbYARI2sb"
       },
       "artists": [
@@ -14462,7 +14498,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186857,
       "name": "Yaadein",
       "url": "https://open.spotify.com/track/4emyBB1y2yRUKWdNjHxwzD"

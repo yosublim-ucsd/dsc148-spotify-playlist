@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 74274,
+  "2024-04-14": 74312,
   "date_first_scraped": "2023-06-14",
   "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 y Jesse Baez en portada.",
   "name": "Rap Latte",
@@ -204,6 +204,44 @@
     },
     {
       "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/6uNJ6226r8TGDC5kUtVmI3"
+      },
+      "artists": [
+        {
+          "name": "Tavo Paez",
+          "url": "https://open.spotify.com/artist/7xR3lOWzim3nTKMGFgmraA"
+        },
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        },
+        {
+          "name": "Velabeats",
+          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
+        },
+        {
+          "name": "Fukin Keno",
+          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
+        },
+        {
+          "name": "Nyquest",
+          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
+        },
+        {
+          "name": "Aram Gee",
+          "url": "https://open.spotify.com/artist/1bfF02YbfmzT4FNyYiZXZF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288292,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/2bhWiRfnLgaDHj3hSuF0JS"
+    },
+    {
+      "album": {
         "name": "Ajenos / El D\u00eda de tu Muerte",
         "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
       },
@@ -237,7 +275,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167707,
       "name": "alexademie",
       "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
@@ -263,6 +301,32 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "album": {
+        "name": "Anticonceptivos",
+        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Anticonceptivos",
+      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
     },
     {
       "album": {
@@ -427,7 +491,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 270226,
       "name": "BANANA SPLIT",
       "url": "https://open.spotify.com/track/1u3M4TOIbIWiazizGcVWA8"
@@ -577,6 +641,32 @@
       "duration_ms": 205607,
       "name": "Cada Noche",
       "url": "https://open.spotify.com/track/0Rj2gmEcyAOSxYMh2YGxR7"
+    },
+    {
+      "album": {
+        "name": "CADA VEZ QUE",
+        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151417,
+      "name": "CADA VEZ QUE",
+      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
     },
     {
       "album": {
@@ -915,7 +1005,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165000,
       "name": "El \u00c1ngel Que Te Cuida",
       "url": "https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms"
@@ -1617,6 +1707,28 @@
       "duration_ms": 245100,
       "name": "Luka",
       "url": "https://open.spotify.com/track/0HOMEZoKV1y70FxcLmVEfX"
+    },
+    {
+      "album": {
+        "name": "Mami Bombona",
+        "url": "https://open.spotify.com/album/4aLepzqr8cxsiaxdalS44S"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Mami Bombona",
+      "url": "https://open.spotify.com/track/1cpjVIdzZsLtr6YLEemHyI"
     },
     {
       "album": {
@@ -2507,7 +2619,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224105,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
@@ -2529,7 +2641,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196666,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/2bM6FYZ98SZovujg3p3XtP"
@@ -3003,6 +3115,32 @@
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
+    },
+    {
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/21PsMvRRbvWaDDPCYLv8IJ"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        },
+        {
+          "name": "Bianca Meraz",
+          "url": "https://open.spotify.com/artist/2XTwqZYsP3uobJFv9pfJUi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287922,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7HhpjBV6uW97Ai5P6hwnwF"
     },
     {
       "album": {

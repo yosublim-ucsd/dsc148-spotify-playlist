@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,395 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,402 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 22 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 |
 | 23 | [Piano Man](https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 5:36 |
 | 24 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
-| 25 | [Hallelujah](https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Vibrate: The Best Of \(Deluxe Edition\)](https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS) | 4:11 |
-| 26 | [Nightswimming](https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:18 |
+| 25 | [Nightswimming](https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:18 |
+| 26 | [Hallelujah](https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Vibrate: The Best Of \(Deluxe Edition\)](https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS) | 4:11 |
 | 27 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 28 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:36 |
 | 29 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |

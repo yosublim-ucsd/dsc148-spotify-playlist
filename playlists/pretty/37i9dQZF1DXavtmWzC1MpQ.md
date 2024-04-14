@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,275 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,299 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 27 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 28 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
 | 29 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
-| 30 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
-| 31 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 30 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 31 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 32 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
 | 33 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
 | 34 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 42 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
 | 43 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
 | 44 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
-| 45 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
-| 46 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
+| 45 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
+| 46 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
 | 47 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
 | 48 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 |
 | 49 | [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 |

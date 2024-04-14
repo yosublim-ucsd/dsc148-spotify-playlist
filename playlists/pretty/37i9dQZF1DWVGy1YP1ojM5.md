@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,894 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,833 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 51 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 52 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 |
 | 53 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
-| 54 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
-| 55 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
+| 54 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
+| 55 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 56 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 57 | [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 |
 | 58 | [Caretaker \(feat\. SZA\)](https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Gahdamn!](https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2) | 2:51 |

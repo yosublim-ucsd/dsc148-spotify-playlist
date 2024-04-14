@@ -1,6 +1,6 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 124739,
+  "num_followers": 124785,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 242647,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "This Is Our Story",
         "url": "https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 341849,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 254310,
       "name": "Praise Your Name (feat. Desi Raines)",
       "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+        "name": "Change (Live)",
+        "url": "https://open.spotify.com/album/2IE53DEPIAR6Ym7JXK13uH"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
         }
       ],
-      "duration_ms": 321533,
-      "name": "Both Sides",
-      "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
+      "duration_ms": 329813,
+      "name": "Change - Live",
+      "url": "https://open.spotify.com/track/6IzMmHtGpqtGHI9y6dJJdO"
     }
   ],
   "unique_name": "New & Bold",

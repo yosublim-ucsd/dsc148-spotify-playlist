@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 23334,
+  "2024-04-14": 23337,
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u96e8\u5bae\u5929 (Sora Amamiya)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5c0f\u5009 \u552f(Yui Ogura)",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -209,6 +209,24 @@
       "duration_ms": 275332,
       "name": "adrenaline!!! - TrySail Live Tour 2021 \"Re Bon Voyage\"",
       "url": "https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5"
+    },
+    {
+      "album": {
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221153,
+      "name": "ADRENALIZED",
+      "url": "https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog"
     },
     {
       "album": {
@@ -479,6 +497,24 @@
       "duration_ms": 261092,
       "name": "Believe like Singing.",
       "url": "https://open.spotify.com/track/4ZEM3UVwAeCwgUnSvHbSE6"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4fpVQJHtO4qSp8y8SRlt0v"
+      },
+      "artists": [
+        {
+          "name": "Rin Kurusu",
+          "url": "https://open.spotify.com/artist/25wbl0rSkHQ3w5a2V0vFQ7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/1Us3olOSPKhOsItylQcBS5"
     },
     {
       "album": {
@@ -1470,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Growing Up (Kono Subarashii Sekai Ni Syukufuku Wo! 3 Opening Theme)",
+        "url": "https://open.spotify.com/album/0d5dDAvkgXHDTYQswH1DtE"
+      },
+      "artists": [
+        {
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/6wUODAGGsVEZHpMQWCNqVR"
+    },
+    {
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL"
       },
@@ -1571,7 +1625,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227478,
       "name": "HELP",
       "url": "https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV"
@@ -1629,6 +1683,24 @@
       "duration_ms": 246826,
       "name": "Hitorino Yoru - From CrosSing",
       "url": "https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w"
+    },
+    {
+      "album": {
+        "name": "Hohoemi no Oto",
+        "url": "https://open.spotify.com/album/4tAisB5LLfd4G4vgpppHJR"
+      },
+      "artists": [
+        {
+          "name": "\u964d\u5e61 \u611b",
+          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Hohoemi no Oto",
+      "url": "https://open.spotify.com/track/6fAHp0e8tiYxcT1djz68gy"
     },
     {
       "album": {
@@ -1737,6 +1809,24 @@
       "duration_ms": 236160,
       "name": "I'm a HERO - High Five",
       "url": "https://open.spotify.com/track/2ptfW47ScGIjqV6xR5NciI"
+    },
+    {
+      "album": {
+        "name": "I'm GAME!",
+        "url": "https://open.spotify.com/album/0ztVtnGrBaRUP4mYbKoaIU"
+      },
+      "artists": [
+        {
+          "name": "Tachibana Hina",
+          "url": "https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "I'm GAME!",
+      "url": "https://open.spotify.com/track/5Rb1bdA8OGATHhukDSPeNX"
     },
     {
       "album": {
@@ -1905,7 +1995,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 282906,
       "name": "JACKPOT JOKER",
       "url": "https://open.spotify.com/track/1niQl25M1KWfuRyKj150zQ"
@@ -1959,7 +2049,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 289186,
       "name": "Kabaneri of the Iron Fortress - From CrosSing",
       "url": "https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c"
@@ -2107,6 +2197,28 @@
       "duration_ms": 220866,
       "name": "Kodokunagunshyuu",
       "url": "https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz"
+    },
+    {
+      "album": {
+        "name": "Kokoro no Kagi",
+        "url": "https://open.spotify.com/album/6XZ4bgWendUwOpzcec92kO"
+      },
+      "artists": [
+        {
+          "name": "Mira Gotokuji (CV: Maaya Uchida)",
+          "url": "https://open.spotify.com/artist/1INZqpnTXne1SJBEyXG6pg"
+        },
+        {
+          "name": "Takumi Miyasaka (CV: Soma Saito)",
+          "url": "https://open.spotify.com/artist/5mYEM1CFU620fdrJlybtr8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237700,
+      "name": "Kokoro no Kagi",
+      "url": "https://open.spotify.com/track/2WINBRHNpD9hxBV5Ik3h1Z"
     },
     {
       "album": {
@@ -2579,7 +2691,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 258146,
       "name": "Momoiro Kataomoi - From CrosSing",
       "url": "https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd"
@@ -2705,7 +2817,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 254879,
       "name": "NOTE",
       "url": "https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql"
@@ -3263,7 +3375,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222466,
       "name": "Sing a song together",
       "url": "https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS"
@@ -3389,7 +3501,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209973,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3LIsfx617uUAH8BQUCIkP4"
@@ -3465,7 +3577,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238866,
       "name": "Take My Chance (feat. \u6a0b\u53e3 \u6953)",
       "url": "https://open.spotify.com/track/55JKZzY0kkA5WMQXKZN8T3"
@@ -3555,7 +3667,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 261760,
       "name": "The Advent of Don Quixote",
       "url": "https://open.spotify.com/track/6iqVJcBn3edRWY3KZdqsCz"
@@ -3577,6 +3689,24 @@
       "duration_ms": 206173,
       "name": "THE ENTERTAINMENT",
       "url": "https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz"
+    },
+    {
+      "album": {
+        "name": "The secret of happiness",
+        "url": "https://open.spotify.com/album/1ikMrMhOZrgKBtHGq8UFae"
+      },
+      "artists": [
+        {
+          "name": "Akane Kumada",
+          "url": "https://open.spotify.com/artist/0fGDVL4VcKAacy4wDInvDy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "The secret of happiness",
+      "url": "https://open.spotify.com/track/36dtmcjwICsOhzlOo8NuSI"
     },
     {
       "album": {
@@ -3801,7 +3931,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 243600,
       "name": "Turn the World",
       "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
@@ -3841,6 +3971,24 @@
       "duration_ms": 271546,
       "name": "Uh-LaLa",
       "url": "https://open.spotify.com/track/0vM04JVmXvkG0KS1iUOBmE"
+    },
+    {
+      "album": {
+        "name": "Unconventional Human",
+        "url": "https://open.spotify.com/album/5ybnMCIpBK60YBRlkVhPAp"
+      },
+      "artists": [
+        {
+          "name": "Kaori Maeda",
+          "url": "https://open.spotify.com/artist/5uZjp2LZ0JGqmLfAFDOrkd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221017,
+      "name": "Unconventional Human",
+      "url": "https://open.spotify.com/track/4cUylU8OCq19DcHQVJtE6c"
     },
     {
       "album": {
@@ -3956,6 +4104,24 @@
     },
     {
       "album": {
+        "name": "Windshifter",
+        "url": "https://open.spotify.com/album/1hsUsB8430FrOSw9iMOQOO"
+      },
+      "artists": [
+        {
+          "name": "Rico Sasaki",
+          "url": "https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Windshifter",
+      "url": "https://open.spotify.com/track/52iHAcpl0WsJztuNh1z5vK"
+    },
+    {
+      "album": {
         "name": "WINNER",
         "url": "https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp"
       },
@@ -4061,7 +4227,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 238378,
       "name": "YY ViVace",
       "url": "https://open.spotify.com/track/4KofwDDwKLwOT3vkxDbAZZ"
@@ -4450,6 +4616,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30d3\u30ea\u30d0\u30dc\u30fc\u30a2\u30f3\u30bb\u30e0",
         "url": "https://open.spotify.com/album/6pjUXxDDWOqdsOE2YPf2Zx"
       },
@@ -4537,6 +4721,24 @@
       "duration_ms": 203433,
       "name": "\u30a8\u30af\u30ea\u30d7\u30b9",
       "url": "https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30c8\u30ef\u30fc\u30eb\u30e1\u30e2\u30ef\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/1Djv8e24lovRDLiYqEltzX"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ea\u30b9(CV. \u771f\u91ce\u3042\u3086\u307f)",
+          "url": "https://open.spotify.com/artist/2pTrXbYQ7Qm3ML8cItyx0u"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "\u30a8\u30c8\u30ef\u30fc\u30eb\u30e1\u30e2\u30ef\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/47QKaEILv967AN4duNqTQj"
     },
     {
       "album": {
@@ -4641,7 +4843,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180470,
       "name": "\u30b0\u30df\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/5fEFmkimFMZE9OSA6JVypf"
@@ -5048,6 +5250,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ea\u30c8\u30af\u30e9\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/72kKMvW8r7t3sS1z3txjVn"
+      },
+      "artists": [
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210206,
+      "name": "\u30e1\u30ea\u30c8\u30af\u30e9\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/58YNC52MIqpH5l4p1cDF2R"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/0Gw7u3wZq0OW4cENnMw1fs"
       },
@@ -5304,6 +5524,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u8272\u306e\u30ad\u30bb\u30ad",
+        "url": "https://open.spotify.com/album/3cWCtsZsIZCJDavXf45nqh"
+      },
+      "artists": [
+        {
+          "name": "Yui Ogura",
+          "url": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "\u541b\u8272\u306e\u30ad\u30bb\u30ad",
+      "url": "https://open.spotify.com/track/5d10Tu1j69HhxAemyvALHH"
+    },
+    {
+      "album": {
         "name": "Before the Nightmare",
         "url": "https://open.spotify.com/album/5hKG7hWvVwM2AhX2hDFBwh"
       },
@@ -5445,7 +5683,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 270400,
       "name": "\u5922\u73fe\u3001\u590f\u98a8\u85ab\u308b",
       "url": "https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN"

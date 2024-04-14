@@ -1,6 +1,6 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34582,
+  "num_followers": 34578,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30d7\u30c1\u30e5\u30fc\u30f3",
+          "url": "https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR"
+        }
+      ],
+      "duration_ms": 247275,
+      "name": "Running Through The Cyber World - CAP-JAMS ver.",
+      "url": "https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
         "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 102607,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30d7\u30c1\u30e5\u30fc\u30f3",
-          "url": "https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR"
-        }
-      ],
-      "duration_ms": 247275,
-      "name": "Running Through The Cyber World - CAP-JAMS ver.",
-      "url": "https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/2ioGUonDhIwUH7gZR6K61t"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
         "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 102588,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/2ioGUonDhIwUH7gZR6K61t"
     },
     {
       "added_at": "2021-06-30 15:18:23",

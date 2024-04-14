@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van Nederland\. Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,484 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,714 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 39 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 40 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
 | 41 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
-| 42 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 42 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 43 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 |
 | 44 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 |
 | 45 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |

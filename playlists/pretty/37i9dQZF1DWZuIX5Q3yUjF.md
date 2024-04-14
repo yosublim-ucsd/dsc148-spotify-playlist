@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Sissi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,498 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,501 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 45 | [Sometimes](https://open.spotify.com/track/4v7o3iqvL88jdc2HzADlMZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Lieve](https://open.spotify.com/artist/0qSgoagy2DEfXutsC4AOD3) | [Sometimes](https://open.spotify.com/album/7J2m4K1xj7eRWn2zk1OuJ9) | 2:24 |
 | 46 | [sfumature blu](https://open.spotify.com/track/7IzxGKw9eFHoLZlTMnJnKx) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [sfumature blu](https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC) | 2:46 |
 | 47 | [Ero Oro](https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Ero Oro](https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe) | 2:28 |
-| 48 | [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 |
+| 48 | [Aria](https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw) | 2:30 |
 | 49 | [HOTEL](https://open.spotify.com/track/5G9c3oLPYUFHAretfuV23Y) | [Emas](https://open.spotify.com/artist/1EbxSgFv77WhleBn6vYFNO) | [HOTEL](https://open.spotify.com/album/6WBC63cOBaWmPPzXgXjGpN) | 2:08 |
 | 50 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
 | 51 | [In Terza Persona](https://open.spotify.com/track/5Jzih13OBfKbOGkcgedV5E) | [Elsa](https://open.spotify.com/artist/6dimF6LZP2Y3GWwHtb6ihj) | [In Terza Persona](https://open.spotify.com/album/4waTUSimG9IL7z9WJbcDbE) | 3:00 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 76 | [Love](https://open.spotify.com/track/2kl4ftedvWrbF1uUs4xzdW) | [Teddy](https://open.spotify.com/artist/4FmXJQZ3lEgm4dNMK5KKfq) | [Love](https://open.spotify.com/album/4rocOara2fKwby1dHGfwtL) | 3:02 |
 | 77 | [Frasi mai dette](https://open.spotify.com/track/1kcxeNQRYW8ttaEWoGDLPt) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Frasi mai dette](https://open.spotify.com/album/3S4XnXCd6EtsIDBHIFeydA) | 3:15 |
 | 78 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 |
-| 79 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 |
+| 79 | [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 |
 | 80 | [Svegliarsi a Roma](https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Payback](https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG) | 4:40 |
 
 Snapshot ID: `MTcxMjkzNjkzOCwwMDAwMDAwMDFiZjAwNTQ1OWQ1OTY0ZmVjNTNjZTBjYmYyNDYzNzM0`

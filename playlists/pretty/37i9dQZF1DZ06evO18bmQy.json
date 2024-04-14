@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 195209,
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "num_followers": 195219,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDY4NjFmMzViZDAzYjA5ZDljODM1MzFkZTExOWY4N2Rh",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDc3OTFhODY2M2M0NGU2OGM2N2FiOTk4ZmYzZmM1M2Q3",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "name": "Set Wesley Alem\u00e3o 2",
+        "url": "https://open.spotify.com/album/5dkZyGLNPmRGjmGfMsrDk9"
       },
       "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
         },
         {
-          "name": "Mc Kaio",
-          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
         }
       ],
-      "duration_ms": 229077,
-      "name": "TIPO",
-      "url": "https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U"
+      "duration_ms": 928000,
+      "name": "Set Wesley Alem\u00e3o 2",
+      "url": "https://open.spotify.com/track/5EU5tSDTddhhaBMLAmHgHT"
     },
     {
       "added_at": null,
@@ -367,6 +415,30 @@
       "duration_ms": 170432,
       "name": "depois da meia noite",
       "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        }
+      ],
+      "duration_ms": 229077,
+      "name": "TIPO",
+      "url": "https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U"
     },
     {
       "added_at": null,
@@ -431,70 +503,6 @@
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Wesley Alem\u00e3o 2",
-        "url": "https://open.spotify.com/album/5dkZyGLNPmRGjmGfMsrDk9"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "MC Lemos",
-          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "Mc Piedro",
-          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 928000,
-      "name": "Set Wesley Alem\u00e3o 2",
-      "url": "https://open.spotify.com/track/5EU5tSDTddhhaBMLAmHgHT"
     },
     {
       "added_at": null,
@@ -911,30 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TI RICK",
-        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [
         {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 145153,
-      "name": "Disse Que \u00e9 F\u00e3 de Rap",
-      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
+      "duration_ms": 156351,
+      "name": "N\u00e3o Me Liga Mais",
+      "url": "https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V"
     },
     {
       "added_at": null,
@@ -963,26 +967,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+        "name": "TI RICK",
+        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
         }
       ],
-      "duration_ms": 156351,
-      "name": "N\u00e3o Me Liga Mais",
-      "url": "https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V"
+      "duration_ms": 145153,
+      "name": "Disse Que \u00e9 F\u00e3 de Rap",
+      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
     },
     {
       "added_at": null,
@@ -1015,6 +1023,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zero Chances (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
+      },
+      "artists": [
+        {
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 218410,
+      "name": "Zero Chances - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -1043,30 +1075,6 @@
       "duration_ms": 219811,
       "name": "Cantando Pro Santo - Sabotage 50",
       "url": "https://open.spotify.com/track/2JnVsVmzL1ckqIirBznMKo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zero Chances (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
-      },
-      "artists": [
-        {
-          "name": "Akatu",
-          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 218410,
-      "name": "Zero Chances - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     },
     {
       "added_at": null,
@@ -1211,6 +1219,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos",
+      "url": "https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obstinado",
         "url": "https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui"
       },
@@ -1263,30 +1295,6 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Bia Nogueira",
-          "url": "https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 250016,
-      "name": "O Cara de \u00d3culos",
-      "url": "https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG"
     },
     {
       "added_at": null,

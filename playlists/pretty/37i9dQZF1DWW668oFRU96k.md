@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,386 likes - 91 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,400 likes - 91 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 11 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 |
 | 12 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 13 | [Breathe](https://open.spotify.com/track/4GLWZE30Oiv80d7GxcPmME) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Breathe](https://open.spotify.com/album/3hLvYf5CNeM50s4nPWK750) | 2:30 |
-| 14 | [Baby again..](https://open.spotify.com/track/6XzUWscvSH7vweSCPeL93o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 5:19 |
+| 14 | [Baby again..](https://open.spotify.com/track/2sMzNgi3wblmxw8ez4GN9G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 5:19 |
 | 15 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
 | 16 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 |
 | 17 | [On My Mind](https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [On My Mind](https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg) | 2:40 |

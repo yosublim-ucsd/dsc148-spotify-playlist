@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,239 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,393 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 66 | [Rough Boy](https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:49 |
 | 67 | [Something To Believe In \- 2003 Remaster](https://open.spotify.com/track/7pUYjnFTXMs0mFWsE9epqV) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 5:28 |
 | 68 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
-| 69 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
-| 70 | [Don't Treat Me Bad \(2024 Remaster\)](https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 3:55 |
+| 69 | [Don't Treat Me Bad \(2024 Remaster\)](https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 3:55 |
+| 70 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
 | 71 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 |
 | 72 | [Wasted Time](https://open.spotify.com/track/0MifhDugHOql4oMAea1Ont) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/48BCVjId3c06exwZ5jc4zm) | 5:48 |
 | 73 | [Miles Away](https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN) | 4:15 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 83 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 |
 | 84 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
 | 85 | [I Live My Life for You](https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf) | 4:21 |
-| 86 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
-| 87 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
+| 86 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
+| 87 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
 | 88 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 89 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 90 | [Fly To The Angels](https://open.spotify.com/track/1KkKFxAOb4kDpWH8IeLa7A) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter: The Best Of Slaughter](https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4) | 4:32 |

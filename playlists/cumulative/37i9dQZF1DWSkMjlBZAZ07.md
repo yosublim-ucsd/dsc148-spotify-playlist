@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-241 songs - 14 hr 16 min
+242 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-21 | 2022-09-17 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2021-11-12 | 2022-07-29 |
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-11-12 | 2022-06-22 |
-| [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 | 2022-06-21 |  |
+| [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 | 2022-06-21 | 2024-04-14 |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2021-11-12 |  |
 | [California](https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Rolling Golden Holy](https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I) | 3:16 | 2023-11-14 |  |
 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 | 2022-06-21 | 2023-11-18 |
@@ -196,6 +196,7 @@
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |
 | [Silver Lining](https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Silver Lining](https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7) | 3:19 | 2021-11-12 |  |
 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 | 2021-11-12 | 2024-04-11 |
+| [Skinny Dipping & Mimosas](https://open.spotify.com/track/0C51lHdZ9TQ8mS9ETwWgft) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Pure Serotonin](https://open.spotify.com/album/3tqL1cqH0EyDDntHkU0qTE) | 2:43 | 2023-12-08 |  |
 | [Skinny Dipping & Mimosas](https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Skinny Dipping & Mimosas](https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY) | 2:43 | 2023-07-14 | 2024-03-30 |
 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 | 2021-11-12 | 2023-01-25 |
 | [Soap](https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Soap](https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv) | 3:34 | 2022-06-21 | 2022-07-24 |

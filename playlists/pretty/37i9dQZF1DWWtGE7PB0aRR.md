@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,525 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,597 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 62 | [You Shook Me \- Alternate Version](https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 2:28 |
 | 63 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 64 | [Looking for Somebody](https://open.spotify.com/track/0tQtiW3o7aeWeHquYdxEZf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:51 |
-| 65 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
+| 65 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
 
 Snapshot ID: `MTY4NjkxODg0NiwwMDAwMDAwMDhiMGZhNDI2MDI4MDllM2VhNjA4ZjM5NDYwYTY2NDEz`

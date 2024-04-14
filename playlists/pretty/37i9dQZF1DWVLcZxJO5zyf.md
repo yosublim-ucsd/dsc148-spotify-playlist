@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419,146 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,419,145 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 36 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 |
 | 37 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 |
 | 38 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 |
-| 39 | [Se Eu Mandar Tu Obedece](https://open.spotify.com/track/0ZmjQSx0c8k5v7ZwBzlxSF) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Se Eu Mandar Tu Obedece](https://open.spotify.com/album/253UZk0jrGBSZXsQjUHEWH) | 2:27 |
+| 39 | [Se Eu Mandar Tu Obedece](https://open.spotify.com/track/0ZmjQSx0c8k5v7ZwBzlxSF) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Se Eu Mandar Tu Obedece](https://open.spotify.com/album/253UZk0jrGBSZXsQjUHEWH) | 2:27 |
 | 40 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 41 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 42 | [seus planos](https://open.spotify.com/track/5pDqtLsN7vFmyWrTIGrNFR) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [seus planos](https://open.spotify.com/album/6aSc5gDviUEiMxPbRjV4G0) | 3:28 |

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-625 songs - 1 day 17 hr 53 min
+626 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,8 +158,9 @@
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
 | [Intaglio](https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE) | 4:32 | 2023-10-17 | 2023-11-11 |
 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 | 2023-11-07 | 2024-01-19 |
-| [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 |  |
+| [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 | 2024-04-14 |
 | [It's My Thing](https://open.spotify.com/track/3bHlV2IbVT3CKv80eONxt4) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [追憶と指先](https://open.spotify.com/album/0UDQ6tZZaowo4AzB0zSve3) | 3:36 | 2024-03-26 | 2024-03-28 |
+| [It's My Thing](https://open.spotify.com/track/7jqZTa51MkRE0pxEOZyVMq) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/0Y7PIYEeIWHkMXbnYTilSE) | 3:36 | 2024-03-26 |  |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-10 |
 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 | 2024-01-27 |
 | [Itterasshai](https://open.spotify.com/track/5qD2Jt4i2btdL1Fg4XOe20) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 3:57 | 2024-01-25 |  |

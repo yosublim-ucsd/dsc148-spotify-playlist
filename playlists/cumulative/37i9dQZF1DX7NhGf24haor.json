@@ -5515,6 +5515,28 @@
     },
     {
       "album": {
+        "name": "The Enlightenment",
+        "url": "https://open.spotify.com/album/1lgcbB1XtebCbd5JlbEAiZ"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167189,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/12vhZOumkhvZdoPyG2c4fv"
+    },
+    {
+      "album": {
         "name": "Frozen Tears",
         "url": "https://open.spotify.com/album/7jnc3csiDWdj5h2r7DeR7t"
       },
@@ -5530,7 +5552,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 167189,
       "name": "Frozen Tears",
       "url": "https://open.spotify.com/track/7w0Qt1Bw9DHqT7DE7mp3zW"

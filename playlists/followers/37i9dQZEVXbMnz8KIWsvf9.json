@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 156376,
+  "2024-04-14": 156392,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -7099,7 +7099,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -8233,7 +8233,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -10661,7 +10661,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 212343,
       "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
       "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
@@ -14431,7 +14431,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175846,
       "name": "\u0e40\u0e2a\u0e19\u0e2d\u0e15\u0e31\u0e27 (Ooh!)",
       "url": "https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE"
@@ -14905,7 +14905,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217941,
       "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE)",
       "url": "https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm"
@@ -14941,7 +14941,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 197432,
       "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"

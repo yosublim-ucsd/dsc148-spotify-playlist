@@ -4,7 +4,7 @@
 
 > Have the loveliest little day.
 
-428 songs - 1 day 1 hr 53 min
+429 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Birthday](https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 4:30 | 2021-11-12 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 | 2021-11-12 | 2024-03-24 |
 | [Blossom](https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Blossom](https://open.spotify.com/album/3hgvTuVKxb6ONvcl7BOTFJ) | 3:25 | 2021-11-12 | 2022-07-29 |
-| [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-11-12 |  |
+| [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-11-12 | 2024-04-14 |
 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2023-01-26 | 2023-01-27 |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-02-18 |  |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2023-01-26 | 2023-01-27 |
@@ -373,6 +373,7 @@
 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2022-06-22 |  |
 | [The Greatest](https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/2ErZHHnKWGdpUWCwYLjHxU) | 3:22 | 2022-03-19 | 2022-04-16 |
 | [The Hours](https://open.spotify.com/track/2sIJX0m9AzvOP4WG6hfPZW) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [The Hours](https://open.spotify.com/album/1g3IT737Uid5YB2vLTF7hp) | 3:58 | 2021-11-12 | 2022-07-29 |
+| [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-25 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-11-12 | 2022-07-17 |
 | [the sum of the in\-between](https://open.spotify.com/track/3Slg6cDLMENij8JZ50F9SL) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 4:16 | 2022-08-05 | 2022-11-13 |

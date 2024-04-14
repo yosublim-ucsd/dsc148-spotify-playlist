@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 387181,
+  "2024-04-14": 387383,
   "date_first_scraped": "2022-05-26",
   "description": "Este Flow tiene otro Flow. Foto: El Jordan 23 & Fuego.",
   "name": "Reggaet\u00f3n Chileno",
@@ -83,7 +83,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196800,
       "name": "06:06",
       "url": "https://open.spotify.com/track/2qmKKjjJhzeZkED1BfCKuA"
@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+    },
+    {
+      "album": {
         "name": "A Toa",
         "url": "https://open.spotify.com/album/41fsT6GxIhjI8rQ4X22Wre"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140571,
       "name": "A TODA HORA",
       "url": "https://open.spotify.com/track/4Q7SDO4Seqce6WGfbUTpGm"
@@ -1592,6 +1610,28 @@
     },
     {
       "album": {
+        "name": "Bellakeo Season",
+        "url": "https://open.spotify.com/album/6RTU5b5XfXLR4mDUSdqBVg"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144112,
+      "name": "Bellakeo Season",
+      "url": "https://open.spotify.com/track/1FD8qht6H28RZLzmLzISJE"
+    },
+    {
+      "album": {
         "name": "BELLAKITA",
         "url": "https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju"
       },
@@ -2256,6 +2296,28 @@
     },
     {
       "album": {
+        "name": "CARRO RE-KL (with Pailita)",
+        "url": "https://open.spotify.com/album/1urFs62cRLJFtb1XtdA9Hg"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "CARRO RE-KL (with Pailita)",
+      "url": "https://open.spotify.com/track/1IoRN5PB6bnygJEiu6K4TQ"
+    },
+    {
+      "album": {
         "name": "Chamaka",
         "url": "https://open.spotify.com/album/7bAsYsieoIpj4mvjMtGDAq"
       },
@@ -2565,6 +2627,24 @@
       "duration_ms": 138461,
       "name": "Con Puras de 25",
       "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
+    },
+    {
+      "album": {
+        "name": "CONTACTO ZERO",
+        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172187,
+      "name": "CONTACTO ZERO",
+      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
     },
     {
       "album": {
@@ -3448,6 +3528,28 @@
     },
     {
       "album": {
+        "name": "Dolce Gabbana",
+        "url": "https://open.spotify.com/album/5Qv5yGDI8izdkIkUlqGub8"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "BenGstar",
+          "url": "https://open.spotify.com/artist/1wVJFmSm8OwomtQZZCLKjh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132200,
+      "name": "Dolce Gabbana",
+      "url": "https://open.spotify.com/track/2LQZcxKt0AYCxDXfyRd3yX"
+    },
+    {
+      "album": {
         "name": "Donde y Cuando",
         "url": "https://open.spotify.com/album/1oBaQoUeOHaxQ1hiC8ZceA"
       },
@@ -4043,6 +4145,40 @@
       "duration_ms": 167691,
       "name": "Enrolar",
       "url": "https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa"
+    },
+    {
+      "album": {
+        "name": "Enrolar (Fantastic Four Remix)",
+        "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303582,
+      "name": "Enrolar - Fantastic Four Remix",
+      "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
     },
     {
       "album": {
@@ -5448,6 +5584,28 @@
     },
     {
       "album": {
+        "name": "Hello Baby",
+        "url": "https://open.spotify.com/album/0Oo45nYqPcyFfavoZEVN32"
+      },
+      "artists": [
+        {
+          "name": "Pablo Antonio",
+          "url": "https://open.spotify.com/artist/1urRPTvrCAnAoIF8LNS1lW"
+        },
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153137,
+      "name": "Hello Baby",
+      "url": "https://open.spotify.com/track/4GSv8OmWyUK4fHPCicLLLj"
+    },
+    {
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4ddKjHGnruJL8NTTiZT5JX"
       },
@@ -6719,7 +6877,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231131,
       "name": "Ligas Mayores",
       "url": "https://open.spotify.com/track/620Z246ArGZbomqrych9lf"
@@ -7403,7 +7561,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175396,
       "name": "Mala",
       "url": "https://open.spotify.com/track/01kgVy2pzVNh23h0CAkr6c"
@@ -10281,7 +10439,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 443651,
       "name": "Pa Que Sepa (Remix) [feat. Tunechikidd, Endo, Punto40, Dunkan & Sheru El Leon]",
       "url": "https://open.spotify.com/track/3YfK5fwyW3B4dPdNPgqyXV"
@@ -11930,6 +12088,32 @@
     },
     {
       "album": {
+        "name": "Quieres Quedarte?",
+        "url": "https://open.spotify.com/album/38YYUfaOtnVGvdxib9tJVv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Quieres Quedarte?",
+      "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"
+    },
+    {
+      "album": {
         "name": "Quiero Pelarme",
         "url": "https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU"
       },
@@ -12953,7 +13137,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 280873,
       "name": "SI ME LLEGO A MORIR",
       "url": "https://open.spotify.com/track/6tVlsnt6VJkcMpMMnCdFXU"
@@ -13341,7 +13525,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160000,
       "name": "Sinti\u00e9ndome Solo",
       "url": "https://open.spotify.com/track/5exaCWoAMCHPZ3LuFOQvY7"
@@ -13469,7 +13653,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144000,
       "name": "Somos Positivo",
       "url": "https://open.spotify.com/track/6Y214JsXwWYG7m01YIfdDJ"
@@ -13831,7 +14015,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181225,
       "name": "Tas Clara",
       "url": "https://open.spotify.com/track/6oN7JqJ69g1pSU2F9k7uji"
@@ -14107,7 +14291,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159183,
       "name": "Te lo Kito",
       "url": "https://open.spotify.com/track/2z5qSQ22q4eP03AgCw2xvZ"

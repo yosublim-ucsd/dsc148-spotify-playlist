@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzMRSBIsJEP.md) - [plain]
 
 > Descanse ao som dessas melodias clássicas e relaxantes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,766 likes - 68 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,780 likes - 68 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

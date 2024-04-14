@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy!<br/>Foto: Tiago PZK & Ke Personajes
 
-89 songs - 4 hr 46 min
+90 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-22 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-09-21 |  |
 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 | 2023-09-21 | 2023-10-06 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-09-21 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-09-21 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-11 |  |
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2023-09-21 |  |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-09-21 |  |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-11-16 |  |

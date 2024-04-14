@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > los tenis bien limpios y la bocina retumbando
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,727 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,764 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 65 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
 | 66 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
 | 67 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
-| 68 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
-| 69 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
+| 68 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
+| 69 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 | 70 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 71 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
 | 72 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 73 | [Ladeando \(feat\. Fuerza Regida\)](https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:11 |
-| 74 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
-| 75 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
+| 74 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
+| 75 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 76 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
 | 77 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 78 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |

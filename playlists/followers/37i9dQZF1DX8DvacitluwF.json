@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 11076,
+  "2024-04-14": 11094,
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=JXlG5TXLSlCYmG2vOSerZA>Gyakie</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=83rSYU_FS1aTkCKCznr5GQ>Sasha Keable</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -47,6 +47,24 @@
       "duration_ms": 191229,
       "name": "4am",
       "url": "https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9"
+    },
+    {
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/4Q8POfTgrfuetdANwt8CHT"
+      },
+      "artists": [
+        {
+          "name": "Tyrese Brown",
+          "url": "https://open.spotify.com/artist/21bHqdLaRqNrRTUEwElyYU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/1oWKgkHg6hpL5wa4nh69zi"
     },
     {
       "album": {
@@ -889,7 +907,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198140,
       "name": "Don\u2019t Count Me In",
       "url": "https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg"
@@ -1540,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175565,
+      "name": "Go Girlfriend",
+      "url": "https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP"
       },
@@ -1595,6 +1631,24 @@
       "duration_ms": 222000,
       "name": "Hate Crowds",
       "url": "https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G"
+    },
+    {
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "album": {
@@ -1809,6 +1863,28 @@
       "duration_ms": 159253,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn"
+    },
+    {
+      "album": {
+        "name": "Infrared",
+        "url": "https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O"
+      },
+      "artists": [
+        {
+          "name": "VtheVowel",
+          "url": "https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Infrared",
+      "url": "https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz"
     },
     {
       "album": {
@@ -3071,7 +3147,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
@@ -3097,6 +3173,24 @@
       "duration_ms": 178909,
       "name": "SAME MISTAKE",
       "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
+    },
+    {
+      "album": {
+        "name": "Same Things",
+        "url": "https://open.spotify.com/album/4RUWoECBYIuKeft0gZz24S"
+      },
+      "artists": [
+        {
+          "name": "Tselan",
+          "url": "https://open.spotify.com/artist/5eSYzWpjjFMNLmUudEaab8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170892,
+      "name": "Same Things",
+      "url": "https://open.spotify.com/track/10iNh3l2Re2FDwH9yWxniw"
     },
     {
       "album": {
@@ -3333,6 +3427,24 @@
       "duration_ms": 247114,
       "name": "SOS",
       "url": "https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck"
+    },
+    {
+      "album": {
+        "name": "Stay Near",
+        "url": "https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Stay Near",
+      "url": "https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi"
     },
     {
       "album": {
@@ -4067,6 +4179,24 @@
       "duration_ms": 226277,
       "name": "You Live On",
       "url": "https://open.spotify.com/track/5qez4U03yulzkie5u20lJf"
+    },
+    {
+      "album": {
+        "name": "You will pay",
+        "url": "https://open.spotify.com/album/6B7qf6X243GICZqaVBtLZO"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169095,
+      "name": "You will pay",
+      "url": "https://open.spotify.com/track/2rVtdP9tWK5nQuupjRZCoy"
     },
     {
       "album": {

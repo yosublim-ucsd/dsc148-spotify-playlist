@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 2593640,
+  "2024-04-14": 2593656,
   "date_first_scraped": "2021-12-21",
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
   "name": "Hype",
@@ -671,6 +671,28 @@
       "duration_ms": 182008,
       "name": "Biblical Asteroth",
       "url": "https://open.spotify.com/track/2PKNgi4OSo90FtlJ50RmHe"
+    },
+    {
+      "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
     },
     {
       "album": {
@@ -2031,7 +2053,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182580,
       "name": "Fight Back",
       "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"

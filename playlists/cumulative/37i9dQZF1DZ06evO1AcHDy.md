@@ -4,7 +4,7 @@
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 34 min
+47 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 | 2023-05-02 |  |
 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 | 2023-05-02 |  |
 | [Hold The Girl](https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:05 | 2023-05-02 |  |
-| [Holy \(Til You Let Me Go\)](https://open.spotify.com/track/4CDpNmlS3cE9LQprMOkTVJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:19 | 2023-12-29 | 2024-01-04 |
+| [Holy \(Til You Let Me Go\)](https://open.spotify.com/track/4CDpNmlS3cE9LQprMOkTVJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:19 | 2023-12-29 |  |
 | [Imagining](https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:32 | 2023-05-02 |  |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2023-12-13 | 2024-03-23 |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/1ltDjZ5arFZ41ohXF37Yjt) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:21 | 2024-04-08 |  |
@@ -44,7 +44,8 @@
 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 | 2023-05-02 | 2024-03-16 |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2023-05-02 |  |
 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 | 2023-05-02 |  |
-| [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2023-05-02 |  |
+| [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2023-05-02 | 2024-04-14 |
+| [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-14 |  |
 | [This Time Last Year](https://open.spotify.com/track/6JFfDG7i6E4NPHc2WEy4CS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Time Last Year](https://open.spotify.com/album/3rqFFAiBrou6wZ9Ey5Ueog) | 2:26 | 2023-05-02 | 2024-01-10 |
 | [Time Out \- Interlude](https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 1:00 | 2023-05-02 |  |
 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 | 2023-05-02 |  |

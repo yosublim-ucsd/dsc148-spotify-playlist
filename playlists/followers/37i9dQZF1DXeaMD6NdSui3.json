@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 144311,
+  "2024-04-14": 144349,
   "date_first_scraped": "2021-12-21",
   "description": "Texas Blues at its best.",
   "name": "Lone Star Blues",
@@ -1217,10 +1217,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236026,
       "name": "Sugar Coated Love",
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
+    },
+    {
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/1S7bbTQ1tvVSd6IDHkhss6"
+      },
+      "artists": [
+        {
+          "name": "Lou Ann Barton",
+          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Sugar Coated Love",
+      "url": "https://open.spotify.com/track/6pJQv11LYmeXs10OWg5MD4"
     },
     {
       "album": {
@@ -1405,10 +1423,28 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+    },
+    {
+      "album": {
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/0ZoDgFuSaPrdgamJgM2o4o"
+      },
+      "artists": [
+        {
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/5szczyB4hqLZyNroGU5Quv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXeaMD6NdSui3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,155 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,430 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 63 | [No Morirá \- No Matter What](https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:31 |
 | 64 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 65 | [Llegaste A Mi](https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:56 |
-| 66 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
-| 67 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
+| 66 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
+| 67 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
 | 68 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
 | 69 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
 | 70 | [Me Mata La Soledad](https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 4:37 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 76 | [Ella](https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 4:59 |
 | 77 | [Tù No Le Amas Le Temes](https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:27 |
 | 78 | [No Le Temas A El](https://open.spotify.com/track/6uI5fS4AMfwzogYg5bt5jK) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Algo Nuevo](https://open.spotify.com/album/3YTADbz8JeI6slSeV5guJU) | 5:24 |
-| 79 | [Invierno En Primavera](https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [14 Éxitos Duros Como Guayacan](https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9) | 5:15 |
-| 80 | [La Salsa Vive](https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Muy Agradecido](https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i) | 4:33 |
+| 79 | [La Salsa Vive](https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Muy Agradecido](https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i) | 4:33 |
+| 80 | [Invierno En Primavera](https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [14 Éxitos Duros Como Guayacan](https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9) | 5:15 |
 | 81 | [Lloraras](https://open.spotify.com/track/38TXGZ4G7c9jBCBrwV1OrB) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:41 |
 | 82 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
 | 83 | [Un Verano En Nueva York](https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Grandes Exitos \- Live](https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE) | 7:21 |

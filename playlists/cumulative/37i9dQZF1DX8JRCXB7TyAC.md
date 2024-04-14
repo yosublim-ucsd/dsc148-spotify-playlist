@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-95 songs - 4 hr 44 min
+96 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2023-11-10 |
 | [Tool](https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Tool](https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik) | 2:56 | 2024-03-26 |  |
 | [Tycon](https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO) | [Vinu Gaur](https://open.spotify.com/artist/7JWbFnKxCRL2EJOtIPTrXo), [Yudhveer Dagar](https://open.spotify.com/artist/1Wxml6YQ0bNEMbDuTEW5AC) | [Tycon](https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w) | 3:03 | 2023-07-24 | 2023-08-01 |
-| [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 |  |
+| [Up Se](https://open.spotify.com/track/1RubYJKQPCo6D28pvVKrW2) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/6iRnvYs4LzjbD0LfTl1InG) | 3:37 | 2024-04-05 |  |
+| [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 | 2024-04-14 |
 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 | 2023-07-24 |  |
 | [World Famous Haryanvi](https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W) | [Ashoka Deswal](https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ) | [World Famous Haryanvi](https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y) | 2:52 | 2023-07-24 | 2024-03-27 |
 | [Yaar Badmash](https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Yaar Badmash](https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4) | 3:10 | 2023-07-24 |  |

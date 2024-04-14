@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 10669,
+  "2024-04-14": 10669,
   "date_first_scraped": "2023-12-14",
   "description": "Tunes from your favourite coffee shop.",
   "name": "But First Coffee",
@@ -645,6 +645,28 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        },
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184591,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2"
     },
     {
       "album": {
@@ -1701,6 +1723,28 @@
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
+    },
+    {
+      "album": {
+        "name": "The Banks of The Lough Erne (feat. Erin Rae)",
+        "url": "https://open.spotify.com/album/4C5wWyXwZ6XthXF7GfjhUB"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290360,
+      "name": "The Banks of The Lough Erne",
+      "url": "https://open.spotify.com/track/72NQqlScymhPQuPe3haRyd"
     },
     {
       "album": {

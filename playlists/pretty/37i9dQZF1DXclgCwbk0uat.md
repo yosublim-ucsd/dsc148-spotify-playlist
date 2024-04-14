@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981,578 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,081 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que Hay Amor](https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Que Hay Amor](https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u) | 2:49 |
 | 2 | [Coa Xorete](https://open.spotify.com/track/1M8WdBbJ5lRS06RBlINv1G) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Coa Xorete](https://open.spotify.com/album/4kvob3aRi9V0922yqUXZ2B) | 2:10 |
-| 3 | [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 |
-| 4 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 |
+| 3 | [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 |
+| 4 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 |
 | 5 | [Bastardo \(feat\. Ñengo Flow & Jere Klein\)](https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 4:24 |
 | 6 | [MA DIAMANTE](https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MA DIAMANTE](https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw) | 2:28 |
 | 7 | [Fashion Girl \- Remix](https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR) | 3:11 |

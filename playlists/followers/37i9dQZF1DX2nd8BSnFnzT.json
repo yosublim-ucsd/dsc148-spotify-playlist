@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 336619,
+  "2024-04-14": 336628,
   "date_first_scraped": "2022-01-18",
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: CPM 22",
   "name": "P\u00e1tria Rock",
@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Assim Quisera",
+        "url": "https://open.spotify.com/album/4tTYUUhHGIuFx8SdP35azn"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159874,
+      "name": "Assim Quisera",
+      "url": "https://open.spotify.com/track/0MT5T03Jps4vHNgTLFdnYn"
+    },
+    {
+      "album": {
         "name": "Atear",
         "url": "https://open.spotify.com/album/1In7NJ5IIh6DkwHqGsDdVd"
       },
@@ -829,7 +847,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215050,
       "name": "At\u00e9 Logo",
       "url": "https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161200,
       "name": "DNA",
       "url": "https://open.spotify.com/track/6nQyfaj3FG6cCTbT9Rk8b1"
@@ -3058,6 +3076,24 @@
     },
     {
       "album": {
+        "name": "Acustico Dr. Sin 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/32CTgte5t5ckSGABbLOT2J"
+      },
+      "artists": [
+        {
+          "name": "Dr. Sin",
+          "url": "https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369866,
+      "name": "Fire - Ao Vivo",
+      "url": "https://open.spotify.com/track/4A9tYqvuZKoYWjtGY5udru"
+    },
+    {
+      "album": {
         "name": "Fiz 18",
         "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
       },
@@ -3703,7 +3739,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 250786,
       "name": "Infame",
       "url": "https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe"
@@ -4521,6 +4557,24 @@
       "duration_ms": 173779,
       "name": "Mente Blindada",
       "url": "https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd"
+    },
+    {
+      "album": {
+        "name": "Roque Marciano (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3wfEBgPs5sbkqQonQH2ce4"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202810,
+      "name": "Mercador das Almas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj"
     },
     {
       "album": {

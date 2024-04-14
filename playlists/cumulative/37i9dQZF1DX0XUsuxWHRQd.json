@@ -29340,7 +29340,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 414893,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
@@ -32240,6 +32240,32 @@
       "duration_ms": 166875,
       "name": "Show Me Up",
       "url": "https://open.spotify.com/track/3BGppswSnFNGUSFiJ6rj4n"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Show of Hands",
+      "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 135112,
+  "2024-04-14": 135198,
   "date_first_scraped": "2023-12-19",
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
   "name": "Ruta 2",
@@ -195,7 +195,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 180017,
       "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
@@ -217,6 +217,32 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
+        "name": "Bailemos",
+        "url": "https://open.spotify.com/album/4dC3rGkZlJfEAQ7muyCRsN"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/3SAwclJKzyaTe435Xeu8vB"
     },
     {
       "album": {
@@ -347,7 +373,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 265691,
       "name": "Casi q' me pierdo",
       "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
@@ -387,6 +413,24 @@
       "duration_ms": 175578,
       "name": "Chico de seda",
       "url": "https://open.spotify.com/track/5g83prQec7qUd2Lf58wH29"
+    },
+    {
+      "album": {
+        "name": "CULIADO",
+        "url": "https://open.spotify.com/album/4o4cGmNJmBeS7yjQLLZwqc"
+      },
+      "artists": [
+        {
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117733,
+      "name": "CIANURO",
+      "url": "https://open.spotify.com/track/2Mu12O5O0AofD8XbmcDZsv"
     },
     {
       "album": {
@@ -495,6 +539,24 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "album": {
+        "name": "Cuchillos y Escudos",
+        "url": "https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234117,
+      "name": "Cuchillos y Escudos",
+      "url": "https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU"
     },
     {
       "album": {
@@ -668,6 +730,24 @@
     },
     {
       "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -773,7 +853,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154033,
       "name": "flashi\u00e9",
       "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
@@ -2103,7 +2183,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167436,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy"

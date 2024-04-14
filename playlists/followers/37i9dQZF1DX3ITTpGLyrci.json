@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 130251,
+  "2024-04-14": 130319,
   "date_first_scraped": "2023-05-16",
   "description": "Get the drinks on ice, this one is on us! ",
   "name": "Pool Party 2024",
@@ -387,6 +387,36 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "album": {
+        "name": "All Night Long (Oden & Fatzo Remix)",
+        "url": "https://open.spotify.com/album/6lGfNpGhC3nj6kHMupxFpV"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160483,
+      "name": "All Night Long - Oden & Fatzo Remix",
+      "url": "https://open.spotify.com/track/7eqD3eFKeLB5MEkOTJVbnb"
     },
     {
       "album": {
@@ -898,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "album": {
         "name": "Chase The Sun (VIP)",
         "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
       },
@@ -935,6 +983,28 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. Chenai)",
+        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Chenai",
+          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234728,
+      "name": "Closer (feat. Chenai)",
+      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
     },
     {
       "album": {
@@ -1467,6 +1537,24 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "album": {
+        "name": "EAT THE BASS",
+        "url": "https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "EAT THE BASS",
+      "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
     },
     {
       "album": {
@@ -2561,7 +2649,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
@@ -2723,7 +2811,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186262,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA"
@@ -3401,6 +3489,36 @@
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/6tLPcgsXGFcXtnVCetRp4A"
+    },
+    {
+      "album": {
+        "name": "Needin' U",
+        "url": "https://open.spotify.com/album/1UzcFbVQ22SPAQH4FA1eh9"
+      },
+      "artists": [
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Sam Frandisco",
+          "url": "https://open.spotify.com/artist/2B9jyxYt9jWkqKTCJrVoz7"
+        },
+        {
+          "name": "Steve Martano",
+          "url": "https://open.spotify.com/artist/7xANuf2x08ShabohXx6qag"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Needin' U",
+      "url": "https://open.spotify.com/track/5V878GsOCNReMnIrG2GWVc"
     },
     {
       "album": {
@@ -4436,6 +4554,28 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/0gGOSIP6P136rOuHh0nmlG"
+      },
+      "artists": [
+        {
+          "name": "Cian B",
+          "url": "https://open.spotify.com/artist/29A5bDvH3z9vh2c3iXk237"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/5o1U7AQWLLRK1objdyllmZ"
+    },
+    {
+      "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
@@ -4595,6 +4735,28 @@
       "duration_ms": 149817,
       "name": "The Touch",
       "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
+    },
+    {
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 77605,
+  "2024-04-14": 77700,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=OPO7p9FcTuizQfdDx0_TtQ\">Usimamane</a>",
   "name": "Mzansi Raps",
@@ -6938,6 +6938,28 @@
     },
     {
       "album": {
+        "name": "Kuse Khaya",
+        "url": "https://open.spotify.com/album/263P4iNAG9EsQoDg9xVlTi"
+      },
+      "artists": [
+        {
+          "name": "Beast Rsa",
+          "url": "https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH"
+        },
+        {
+          "name": "Tribal",
+          "url": "https://open.spotify.com/artist/1CgTePmoEDljQKfgfH7Xox"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Kuse Khaya",
+      "url": "https://open.spotify.com/track/7FcVPnVNnBWpYaVnvl8nuO"
+    },
+    {
+      "album": {
         "name": "Kutsa",
         "url": "https://open.spotify.com/album/5ho2gBJW7krfpIQDDLZim6"
       },
@@ -10185,6 +10207,52 @@
       "duration_ms": 192000,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7"
+    },
+    {
+      "album": {
+        "name": "PLAYIN' 4 KEEP$",
+        "url": "https://open.spotify.com/album/2BNBZnD9GCxUgywpnptthL"
+      },
+      "artists": [
+        {
+          "name": "THAT$hYHOMIE",
+          "url": "https://open.spotify.com/artist/3ehK94J8PAZ7D14PKZw87Y"
+        },
+        {
+          "name": "PhilaBoi K",
+          "url": "https://open.spotify.com/artist/02zDxpy2IymHPT7veew6xL"
+        },
+        {
+          "name": "Just Jabba",
+          "url": "https://open.spotify.com/artist/0amT7Na5hQmFkS70QyITxE"
+        },
+        {
+          "name": "Kevi Kev",
+          "url": "https://open.spotify.com/artist/6Feg9tPLDiThgTVg3gs8LK"
+        },
+        {
+          "name": "CeeCee",
+          "url": "https://open.spotify.com/artist/0Yr5LANu1ftVJGhExIychR"
+        },
+        {
+          "name": "Shefsnow",
+          "url": "https://open.spotify.com/artist/613GdxfVcuZIdsVU3tUtBk"
+        },
+        {
+          "name": "Cheryl Zondi",
+          "url": "https://open.spotify.com/artist/44JQqdjRejG0jwEFDmH0U3"
+        },
+        {
+          "name": "Kgaldrogo",
+          "url": "https://open.spotify.com/artist/3i64O8axrytIB5YkJGLwWa"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207518,
+      "name": "PLAYIN' 4 KEEP$",
+      "url": "https://open.spotify.com/track/0PeNJE2sRgldw9eByet9Tp"
     },
     {
       "album": {

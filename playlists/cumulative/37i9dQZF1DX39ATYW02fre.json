@@ -262,7 +262,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 261746,
       "name": "amelia",
       "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196500,
       "name": "Friday Lake",
       "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
@@ -3208,7 +3208,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
@@ -3230,6 +3230,24 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
+    },
+    {
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/1OlUD0LH7yiFLfDiSatt8l"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/6K33NwGklMpJcuGJV4x2QP"
     },
     {
       "album": {

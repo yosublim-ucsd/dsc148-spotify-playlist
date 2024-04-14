@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 88684,
+  "2024-04-14": 88676,
   "date_first_scraped": "2022-09-22",
   "description": "autumn leaves falling like pieces into place",
   "name": "fall feels",
@@ -1709,10 +1709,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
     },
     {
       "album": {

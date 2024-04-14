@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-64 songs - 3 hr 51 min
+65 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Homeward Bound \- Remastered 2001](https://open.spotify.com/track/6qhzkJOOWkCa7t4LTqfTgb) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:39 | 2022-01-21 |  |
 | [I Am a Rock](https://open.spotify.com/track/11NbOBBwU3a3Eu3gBLoPN4) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Pete Yorn Sings the Classics](https://open.spotify.com/album/1M5qds7V6rmcjV3O9MTutn) | 3:27 | 2022-01-21 |  |
 | [I Am a Rock \- Bonus Track](https://open.spotify.com/track/4XjRpLu18H8aEISzsBzedg) | [Shelter](https://open.spotify.com/artist/4vTTRvwORrfvMOUb3OOUTy) | [When 20 Summers Pass \(20th Anniversary Edition\)](https://open.spotify.com/album/4ABa0D8WnB44fEKCG6BAQM) | 2:22 | 2022-01-21 |  |
-| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2022-01-21 |  |
+| [Kathy's Song](https://open.spotify.com/track/3t0eH5POGNY4hw06Ne8jEw) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY) | 3:43 | 2022-01-21 |  |
+| [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2022-01-21 | 2024-04-14 |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 | 2022-01-21 |  |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 | 2022-01-21 | 2022-10-13 |
 | [Kodachrome](https://open.spotify.com/track/4KLG9hVIbmbjg3BZIl2dGh) | [Conor Oberst and the Mystic Valley Band](https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V) | [One of My Kind](https://open.spotify.com/album/5tRoHoiezNYHMDwJpLRMY5) | 4:08 | 2022-01-21 |  |

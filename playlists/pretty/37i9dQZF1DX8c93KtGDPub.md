@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,823 likes - 140 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,814 likes - 140 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 99 | [In Winter](https://open.spotify.com/track/537nPlvDmbCNzIjMRw5Kee) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 4:03 |
 | 100 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 |
 | 101 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 |
-| 102 | [White Christmas](https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A), [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7), [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5) | [White Christmas](https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm) | 1:34 |
+| 102 | [White Christmas](https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [White Christmas](https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm) | 1:34 |
 | 103 | [Away in a Manger](https://open.spotify.com/track/71QJmnikBUIwP97sk8KSg5) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 2:39 |
 | 104 | [Come Thou Fount](https://open.spotify.com/track/35yT30p4tPxhckJ8Lbpd6r) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 3:47 |
 | 105 | [In the Bleak Midwinter](https://open.spotify.com/track/6MOYdMMIZAfuFzmGxFl3Pe) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/1iam45D5AQaoVkZqTx8Lyc) | 2:53 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 31957,
+  "2024-04-14": 31959,
   "date_first_scraped": "2024-01-30",
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
   "name": "The Road Less Traveled",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 341293,
       "name": "All The Trouble",
       "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
@@ -194,6 +194,24 @@
     },
     {
       "album": {
+        "name": "Call the Captain",
+        "url": "https://open.spotify.com/album/2BwdTtiw3Tn89CZMyZvOHY"
+      },
+      "artists": [
+        {
+          "name": "Western Centuries",
+          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Before That Final Bell",
+      "url": "https://open.spotify.com/track/4P60d6gbl70CKF7QJmLVzk"
+    },
+    {
+      "album": {
         "name": "Lamentations",
         "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
       },
@@ -205,7 +223,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175391,
       "name": "Before The Dogwood Blooms",
       "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215669,
       "name": "Champagne Corolla",
       "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 299333,
       "name": "Goddamn Lonely Love",
       "url": "https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194640,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
@@ -721,10 +739,28 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231813,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3CG6wjo8LItUJO5hQOzmAC"
     },
     {
       "album": {
@@ -781,6 +817,24 @@
       "duration_ms": 174240,
       "name": "Hippie Radio",
       "url": "https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
     },
     {
       "album": {
@@ -1127,7 +1181,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264181,
       "name": "Neon Cross",
       "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
@@ -1167,6 +1221,24 @@
       "duration_ms": 190173,
       "name": "Over Drinking",
       "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
+    },
+    {
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Prisoner Of The Highway",
+      "url": "https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs"
     },
     {
       "album": {
@@ -1467,6 +1539,24 @@
       "duration_ms": 280786,
       "name": "Whitehouse Road",
       "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "album": {
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu"
     },
     {
       "album": {

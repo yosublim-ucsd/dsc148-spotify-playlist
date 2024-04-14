@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-140 songs - 8 hr 23 min
+141 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,13 +138,14 @@
 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 | 2022-01-14 |  |
 | [Tiembla](https://open.spotify.com/track/4h3wVKjCwSefpn9XTDBgRV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tiembla](https://open.spotify.com/album/0m9W2jEAwSNQm1WifE0jid) | 3:57 | 2022-01-14 | 2022-12-30 |
 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 | 2022-01-14 |  |
+| [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 | 2024-04-12 |  |
 | [Un Pasaje al Mas Allá](https://open.spotify.com/track/1Ls6oXf6L6us1DzOruPGQ4) | [La Kosmica](https://open.spotify.com/artist/2rRqBAduZDY1nyge8evc19) | [Un Pasaje al Mas Allá](https://open.spotify.com/album/73ZPz63iS1N6WuTxOs9NiR) | 3:55 | 2022-01-14 | 2022-07-29 |
 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 | 2022-01-14 | 2022-11-12 |
 | [Vete](https://open.spotify.com/track/4BekwfLP64FbQNrp0oRA6J) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vete](https://open.spotify.com/album/6n9Z8TtDg5RrvrIPOGRYDL) | 3:49 | 2022-01-14 | 2022-09-26 |
 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 | 2022-01-14 |  |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL) | 3:31 | 2022-07-08 | 2022-10-30 |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |
-| [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 |  |
+| [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 | 2024-04-14 |
 | [Yo Tonta No](https://open.spotify.com/track/0oz7iamUGRALQ09N3oeU3I) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnòtica](https://open.spotify.com/album/3pCwXna379BJwnSec28ySB) | 4:00 | 2023-10-26 | 2024-04-11 |
 | [Yo Tonta, No](https://open.spotify.com/track/4rQzRzx3ljt9gOYGpbc3xH) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/3XzGt66BYB6j1Kz7zLGiKe) | 4:00 | 2022-01-14 | 2022-07-28 |
 | [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 | 2023-05-10 |

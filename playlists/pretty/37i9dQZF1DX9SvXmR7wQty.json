@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Koriass",
-  "num_followers": 40381,
+  "num_followers": 40386,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Bushi Tape 3",
         "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
@@ -439,42 +455,6 @@
       "duration_ms": 184360,
       "name": "Oc\u00e9ane",
       "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "GO GO GO (Feat. Josman)",
-        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 148877,
-      "name": "GO GO GO (Feat. Josman)",
-      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -499,6 +479,26 @@
       "duration_ms": 206950,
       "name": "Matata",
       "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "GO GO GO (Feat. Josman)",
+        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 148877,
+      "name": "GO GO GO (Feat. Josman)",
+      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
+        "url": "https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C"
+      },
+      "artists": [
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
+      "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "J'ai mal",
         "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
       },
@@ -587,42 +607,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
-        "url": "https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C"
-      },
-      "artists": [
-        {
-          "name": "BU$HI",
-          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
-      "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Dis-toi que c'est la vie",
         "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 147405,
       "name": "Dis-toi que c'est la vie",
       "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "P.M.R.",
-        "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "MAUVAIS PAYEUR",
-      "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "LE FOND (feat. Zokush)",
         "url": "https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 171000,
       "name": "LE FOND (feat. Zokush)",
       "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "P.M.R.",
+        "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "MAUVAIS PAYEUR",
+      "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Multicolore",
         "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 242869,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Guerres de pissenlits - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1bmsStNPT6EFgBmPaDFWgM"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 216257,
-      "name": "Guerres de pissenlits - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4fi4kG8OCPL1H8P2hEn8Bv"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

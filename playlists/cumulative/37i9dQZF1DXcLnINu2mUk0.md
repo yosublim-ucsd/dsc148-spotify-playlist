@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
 
-584 songs - 1 day 7 hr 12 min
+585 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [7 Chaves](https://open.spotify.com/track/3X7mmyo1ALA9twhf5xIbyR) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [7 Chaves](https://open.spotify.com/album/4Mq2bAi8rJsMgEq4ihm0GQ) | 3:19 | 2024-02-16 | 2024-03-01 |
 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 | 2023-02-10 | 2023-05-19 |
 | [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 | 2023-06-22 | 2023-07-14 |
-| [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 | 2024-03-22 |  |
+| [A MINHA VIDA DEPOIS DE TI](https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [AUSENTE DE LUZ](https://open.spotify.com/album/0HWWvwNtjJvlLziHiN6Jge) | 2:36 | 2024-03-22 | 2024-04-14 |
 | [Acabar mal](https://open.spotify.com/track/67E0HoObbP1fReMzWihfye) | [Roley](https://open.spotify.com/artist/3PGL3pitV1oSwtjqZZJrMh), [Vi Ci](https://open.spotify.com/artist/70u6V1hQWgLW5aBLvabc3X), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Acabar mal](https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv) | 2:45 | 2023-01-06 | 2023-01-27 |
 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 | 2023-06-09 |
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
@@ -142,6 +142,7 @@
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 | 2023-01-21 |
+| [D4](https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [DB.](https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2) | [D4](https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ) | 2:54 | 2024-04-11 |  |
 | [Dalilah \(with Djodje\)](https://open.spotify.com/track/6WxzQjN4k9WyWdMVKTaBjj) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Dalilah \(with Djodje\)](https://open.spotify.com/album/3nBsJCmvJo0r5bv3Ld6X2o) | 3:09 | 2023-11-10 | 2023-12-09 |
 | [Dalí](https://open.spotify.com/track/6FHQSoXHPYOebrrZBAPB7N) | [No Money](https://open.spotify.com/artist/2XtUEgkLN083xZ6Biwn8dq) | [Dalí](https://open.spotify.com/album/15xdd7nz5qG1RO9devhKFF) | 3:09 | 2023-02-17 | 2023-03-11 |
 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 | 2022-07-07 |  |

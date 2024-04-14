@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain]
 
 > una lloradita tranqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,593 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,832 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain]
 | 53 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
 | 54 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ) | 3:44 |
 | 55 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 |
-| 56 | [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 |
+| 56 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 57 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 |
 | 58 | [MILES DE ROSAS](https://open.spotify.com/track/0N9YbdsoDv3SwT8wt4S5rT) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:11 |
 | 59 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |

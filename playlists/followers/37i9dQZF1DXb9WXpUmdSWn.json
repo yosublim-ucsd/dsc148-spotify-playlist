@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 4906,
+  "2024-04-14": 4906,
   "date_first_scraped": "2022-05-01",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.",
   "name": "Paul Simon: Covered",
@@ -343,10 +343,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194640,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
+    },
+    {
+      "album": {
+        "name": "Maybe A Moment / Graceland",
+        "url": "https://open.spotify.com/album/6RvfJO0Fl7E6jT606t9nJ0"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/6HkVGCoxha0ZJjIRRZk9vN"
     },
     {
       "album": {

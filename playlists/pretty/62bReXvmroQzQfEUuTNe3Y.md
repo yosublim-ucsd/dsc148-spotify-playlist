@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,211,605 likes - 146 songs - 7 hr 56 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,212,675 likes - 146 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
 | 2 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 |
 | 3 | [Nobody Knows](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Nobody Knows](https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp) | 4:21 |
-| 4 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 4 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 5 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 | 6 | [Show Me](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Show Me](https://open.spotify.com/album/7hOMWAtuSvc46C0GpWJlVr) | 2:25 |
 | 7 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |

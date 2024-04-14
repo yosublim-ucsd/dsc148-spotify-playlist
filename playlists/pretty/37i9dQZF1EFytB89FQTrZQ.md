@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,473 likes - 303 songs - 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,472 likes - 303 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 158 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
 | 159 | [Outside](https://open.spotify.com/track/7cjg32GaSbJHsN4Wc26PU0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:38 |
 | 160 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
-| 161 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
-| 162 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 161 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 162 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
 | 163 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
 | 164 | [Foreign World \(feat\. Anne\-Marie\)](https://open.spotify.com/track/24t27lEozHfSSNbvtONlCz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:17 |
 | 165 | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj) | 3:23 |
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 225 | [True \- Chambray Remix](https://open.spotify.com/track/5wy94ZiWnF1TiVzSUpxn0s) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP), [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [True \(Chambray Remix\)](https://open.spotify.com/album/5WUNkuxuDTKTfjBu5j4IX3) | 3:54 |
 | 226 | [Silver Linings](https://open.spotify.com/track/3HH0rLObJZRRe1SK00Og6H) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 3:53 |
 | 227 | [Perfect Harmony](https://open.spotify.com/track/0yGliNKLtDtfWokZHSpMo4) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [HER\-O](https://open.spotify.com/artist/0vhR4ixikG78qGRU7lJvHk), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Chilled Classics](https://open.spotify.com/album/2EnbPs8E7YyQq8AW72BTdm) | 5:13 |
-| 228 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 |
-| 229 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 |
+| 228 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 |
+| 229 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 |
 | 230 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 |
 | 231 | [Touched By You](https://open.spotify.com/track/0OJ0C98JnN0PSJxlZ6VJJT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:18 |
 | 232 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 302 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 303 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDA4NGQ2ZDZmOTI5NTA3YTNmNWJkNDE0OGY4ZDRkZjgwMQ==`
+Snapshot ID: `Mjg1NTEwNzQsMDAwMDAwMDAyODY5NmIwOWZkZTZlN2VlZjdlMjFkZTZhNDI4MzU3YQ==`

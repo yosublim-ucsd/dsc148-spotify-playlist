@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Future & Metro Boomin'\(pictured\), Big Sean and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,379 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,406 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

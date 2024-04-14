@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,108 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,113 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 15 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 16 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
 | 17 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 |
-| 18 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
-| 19 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 18 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 19 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
 | 20 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 |
 | 21 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 22 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 25 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 |
 | 26 | [Pose](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:20 |
 | 27 | [Dope](https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X) | 4:00 |
-| 28 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
-| 29 | [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 |
+| 28 | [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 |
+| 29 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
 | 30 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 |
 | 31 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 |
 | 32 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 48 | [Are you in there](https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Are you in there](https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J) | 2:38 |
 | 49 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 50 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
-| 51 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
-| 52 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
+| 51 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
+| 52 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
 | 53 | [People like us](https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [People like us](https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH) | 3:13 |
 | 54 | [SOLO DAY](https://open.spotify.com/track/1XgWjeQVnmClfRroOqTP1H) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5kw2bbCEsZtQkCxfRLMiyD) | 3:19 |
 | 55 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 |

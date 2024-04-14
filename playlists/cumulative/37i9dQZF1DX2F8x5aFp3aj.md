@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-210 songs - 15 hr 47 min
+211 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 | 2021-09-28 | 2022-11-13 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2021-09-28 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7lVbgM5cMH8zxDRBpJQNjq) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Remastered With Bonus Tracks\)](https://open.spotify.com/album/6t8Ma5cCFUlT5zs71p16SV) | 4:11 | 2021-09-28 | 2022-07-29 |
+| [Everything Counts](https://open.spotify.com/track/4oWQeGyPFyr4EpTrv5v0gJ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:57 | 2021-09-28 |  |
 | [Everything Counts](https://open.spotify.com/track/3HbA5x1laxQ2y3dvfFD22R) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again](https://open.spotify.com/album/2F4cSP5f39vkdTUa0owfK1) | 3:59 | 2021-09-28 | 2022-07-29 |
 | [Everything Counts \- Live at Rose Bowl, Pasadena, CA, 18/6/1988](https://open.spotify.com/track/1wUBJELwjyiMGIlH4DarLd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101](https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg) | 6:28 | 2021-09-28 | 2022-07-29 |
 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 | 2021-09-28 |  |
@@ -98,7 +99,7 @@
 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 | 2021-09-28 |  |
 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 | 2021-09-28 | 2023-05-07 |
 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 | 2021-09-28 |  |
-| [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 | 2021-09-28 |  |
+| [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 | 2021-09-28 | 2024-04-14 |
 | [In God's Country \- Remastered 2007](https://open.spotify.com/track/7GJg0Pvbb4nqWTwGmkXF1S) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 2:56 | 2021-09-28 | 2022-07-25 |
 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 | 2021-09-28 | 2022-07-29 |
 | [Indigo Eyes](https://open.spotify.com/track/5GALSojbb6yxDKCGVa2HVS) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/2sgTn4jGWj7BzQYMqkSCRe) | 5:54 | 2021-09-28 | 2022-07-29 |

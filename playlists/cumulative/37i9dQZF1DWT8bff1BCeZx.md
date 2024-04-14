@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-131 songs - 10 hr 45 min
+131 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2023-04-06 |  |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2024-01-15 |
 | [W.O.W \(Walking On Water\) \- Reprise](https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [W.O.W \(Walking On Water\) \[Reprise\]](https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8) | 8:04 | 2023-09-29 | 2023-10-09 |
-| [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:40 | 2024-04-12 |  |
+| [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:26 | 2024-04-12 |  |
 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 | 2023-04-06 | 2023-12-15 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-18 | 2023-09-13 |

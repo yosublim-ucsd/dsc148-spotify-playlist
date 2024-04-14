@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 451228,
+  "2024-04-14": 451905,
   "date_first_scraped": "2022-11-25",
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
   "name": "Yellowstone Official Playlist",
@@ -1561,10 +1561,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229512,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/0vR9THRZdAsBehAAeGSBjo"
+    },
+    {
+      "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        },
+        {
+          "name": "Shooter Jennings",
+          "url": "https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229512,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2DtovHHQIq1nvMoELE2uO7"
     },
     {
       "album": {
@@ -1785,10 +1807,28 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208942,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208942,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW"
     },
     {
       "album": {
@@ -2296,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "Waging Peace",
+        "url": "https://open.spotify.com/album/2Iz0VzWf8EB3xqs7nqEe1G"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/13lQa3jU5UgyBvTfD3P9nM"
+    },
+    {
+      "album": {
         "name": "No Reservations",
         "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
       },
@@ -2307,7 +2365,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224733,
       "name": "No Reservations",
       "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"

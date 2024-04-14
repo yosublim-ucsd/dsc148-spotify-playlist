@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 23233,
+  "2024-04-14": 23233,
   "date_first_scraped": "2023-05-19",
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
   "name": "Kannada Indie",
@@ -721,7 +721,7 @@
     {
       "album": {
         "name": "Bere Tara",
-        "url": "https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2"
+        "url": "https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1"
       },
       "artists": [
         {
@@ -736,6 +736,28 @@
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 290005,
+      "name": "Bere Tara",
+      "url": "https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5"
+    },
+    {
+      "album": {
+        "name": "Bere Tara",
+        "url": "https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        },
+        {
+          "name": "Hithu Dwen",
+          "url": "https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 290005,
       "name": "Bere Tara",
       "url": "https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG"
@@ -3391,6 +3413,10 @@
       },
       "artists": [
         {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        },
+        {
           "name": "Dheemusix",
           "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
         }
@@ -3893,7 +3919,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161921,
       "name": "Mugile",
       "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
@@ -4069,6 +4095,32 @@
     {
       "album": {
         "name": "Namma Gully",
+        "url": "https://open.spotify.com/album/4SGJQZixTYl8kF9mnyJcSa"
+      },
+      "artists": [
+        {
+          "name": "Jack Michael",
+          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
+        },
+        {
+          "name": "Naguli",
+          "url": "https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ"
+        },
+        {
+          "name": "D rapper",
+          "url": "https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116160,
+      "name": "Namma Gully",
+      "url": "https://open.spotify.com/track/18zr3JmRPNcqe7PbrBtSEy"
+    },
+    {
+      "album": {
+        "name": "Namma Gully",
         "url": "https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D"
       },
       "artists": [
@@ -4087,7 +4139,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 116160,
       "name": "Namma Gully",
       "url": "https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU"
@@ -4493,7 +4545,7 @@
     {
       "album": {
         "name": "Nee Nanna Kavithe",
-        "url": "https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5"
+        "url": "https://open.spotify.com/album/4RNO4wCdd74AfUGVZqBKov"
       },
       "artists": [
         {
@@ -4508,6 +4560,28 @@
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nee Nanna Kavithe",
+      "url": "https://open.spotify.com/track/17Hl95mz7AWI9lFOLtbAEX"
+    },
+    {
+      "album": {
+        "name": "Nee Nanna Kavithe",
+        "url": "https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5"
+      },
+      "artists": [
+        {
+          "name": "Kiran Manjunath",
+          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
+        },
+        {
+          "name": "Shreesh Gombi",
+          "url": "https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-13",
       "duration_ms": 210000,
       "name": "Nee Nanna Kavithe",
       "url": "https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw"
@@ -5365,6 +5439,24 @@
       "duration_ms": 249956,
       "name": "Parashuram",
       "url": "https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH"
+    },
+    {
+      "album": {
+        "name": "Parichitana",
+        "url": "https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209996,
+      "name": "Parichitana",
+      "url": "https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Danna es nuestra embajadora EQUAL de abril.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,326 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,308 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

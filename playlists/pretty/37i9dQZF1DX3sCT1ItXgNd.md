@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Omar Montes, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,549 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,619 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,23 +41,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 31 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
 | 32 | [Rotos](https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [Rotos](https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO) | 3:51 |
 | 33 | [La Romana](https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [La Romana](https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd) | 2:35 |
-| 34 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
+| 34 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
 | 35 | [Suerte ;\)](https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suerte ;\)](https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ) | 2:44 |
-| 36 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
-| 37 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 |
+| 36 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
+| 37 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
 | 38 | [Sin Filtro](https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Sin Filtro](https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5) | 2:57 |
-| 39 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 |
-| 40 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
+| 39 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 |
+| 40 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 |
 | 41 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
 | 42 | [F.G.L.C\. \(A Ratitos\)](https://open.spotify.com/track/2lnSDkB8KCKZPDAqYXILD7) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Boyz Don't Cry](https://open.spotify.com/album/6AS11fKnjyqAntySc1RJmt) | 2:56 |
-| 43 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
-| 44 | [EL FORASTERO](https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [EL FORASTERO](https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7) | 2:43 |
-| 45 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
+| 43 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
+| 44 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
+| 45 | [EL FORASTERO](https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [EL FORASTERO](https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7) | 2:43 |
 | 46 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 47 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
-| 48 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
-| 49 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
-| 50 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
+| 48 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
+| 49 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
+| 50 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
 | 51 | [PERDIENDO LOS FRENOS](https://open.spotify.com/track/7tHd2KQD9QtCmvD3evlgDx) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [PERDIENDO LOS FRENOS](https://open.spotify.com/album/03P7u1Iic3yaoWSXaNWtXl) | 2:46 |
 
 Snapshot ID: `MTcxMjkwODg3NywwMDAwMDAwMDFkNWQ3NmQyMzc1MGRlYmVmMTNmN2YyMTM3YjY3ZDhm`

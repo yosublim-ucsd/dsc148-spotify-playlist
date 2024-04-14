@@ -1,6 +1,6 @@
 {
   "description": "What's happening in r&b, right now \u2013 featuring Bryson Tiller.",
-  "num_followers": 367236,
+  "num_followers": 367264,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
@@ -38,6 +38,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 254320,

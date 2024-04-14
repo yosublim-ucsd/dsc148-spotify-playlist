@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 401195,
+  "2024-04-14": 401672,
   "date_first_scraped": "2022-02-13",
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
   "name": "70s Party",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217773,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"

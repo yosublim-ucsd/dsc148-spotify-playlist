@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,510 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,533 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 5 | [Giri Giri](https://open.spotify.com/track/0A1MywK95IyiQ8VhcP1VB9) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:05 |
 | 6 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 |
 | 7 | [NAINAINAI](https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN) | 3:13 |
-| 8 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
+| 8 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
 | 9 | [SEISHUN WO KIRISAKU HADO](https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:33 |
-| 10 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
+| 10 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
 | 11 | [CANDY](https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:45 |
-| 12 | [HANAKO](https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5) | 3:41 |
+| 12 | [koinosyadanki feat H ZETTRIO](https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:15 |
 | 13 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 |
-| 14 | [koinosyadanki feat H ZETTRIO](https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:15 |
+| 14 | [HANAKO](https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5) | 3:41 |
 | 15 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
 | 16 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
 | 17 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 34 | [wakaranai](https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 3:57 |
 | 35 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 
-Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGIwODg2MjVkODkwMTMwZjM3OTAxM2M1NWEyYzE3NjMz`
+Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDcxMmQ3OTE3NTBiY2YwOTA5MGVhOGJiNzZlNjU3YjNl`

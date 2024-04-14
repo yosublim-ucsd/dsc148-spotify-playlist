@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 11047,
+  "num_followers": 11114,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDc0NDNiNmFjZWVjOGU2ZDJlNGIyOWQxYzA2OWViNWY0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDQ1MjdkZGVkOTViYWVkZjUwYTIzYWQzZTJjMTAyNDU5",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love My Nickel",
+        "url": "https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 124578,
+      "name": "I Love My Nickel",
+      "url": "https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I love freaks (Sexyy\u2019s Version)",
         "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 163696,
       "name": "I love freaks (Sexyy\u2019s Version)",
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love My Nickel",
-        "url": "https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 124578,
-      "name": "I Love My Nickel",
-      "url": "https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc"
     },
     {
       "added_at": null,

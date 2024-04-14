@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Murica, Prs, o Pere, BEATDOMK
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,368 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,416 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

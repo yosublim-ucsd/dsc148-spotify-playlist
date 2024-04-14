@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 43 min
+135 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bankulize](https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bankulize](https://open.spotify.com/album/5t6hZkumZCUBccDrCXww8W) | 4:08 | 2022-01-01 | 2022-05-12 |
 | [BE MY LOVER](https://open.spotify.com/track/3pW9AlECzn3lmAEMAE9yce) | [Jizzle](https://open.spotify.com/artist/74fzLDLFt37GEvxhj6XDdu), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [BE MY LOVER](https://open.spotify.com/album/3flNe7ZbX3nSv67LtmicJe) | 2:45 | 2024-01-03 | 2024-03-11 |
 | [Breakup Riddim](https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0) | [DJ Aroma](https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Nhlanhla Nciza](https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd) | [Breakup Riddim](https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf) | 3:24 | 2021-12-28 |  |
+| [Business](https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:02 | 2024-04-14 |  |
 | [By Force](https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:27 | 2023-05-27 | 2023-11-11 |
 | [Cake](https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:31 | 2021-12-31 | 2022-10-13 |
 | [Call Me](https://open.spotify.com/track/3KWr28Ybsc8fQR9lTwEbci) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Walshy Fire Presents: ABENG](https://open.spotify.com/album/1AQVoSKakU0Yd3ujxdjkKT) | 3:03 | 2022-05-07 | 2022-08-24 |
@@ -141,6 +142,6 @@
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-28 | 2024-01-04 |
 | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd) | [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/album/19rxMCwjmwPQ4espwyH3Kr) | 3:20 | 2022-01-30 | 2023-03-28 |
 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 | 2023-09-16 |
-| [Òròkórò](https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 3:09 | 2024-02-08 |  |
+| [Òròkórò](https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 3:09 | 2024-02-08 | 2024-04-14 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

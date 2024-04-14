@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. Cover \- Badshah\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
+> Home to the Desi Pop Bops\. Cover \- Babar Mangi, Noman Ali Rajper, Marvi Sahibaan\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,620 likes - 52 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,735 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 49 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
 | 50 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 |
 | 51 | [O’Sajna](https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:28 |
-| 52 | [Dhanak](https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8) | 2:39 |
+| 52 | [Dhanak](https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Dhanak](https://open.spotify.com/album/5x53u0PGLzJhXK9eGHKdNN) | 2:39 |
 
-Snapshot ID: `MTcxMjgyOTEzMCwwMDAwMDAwMDJjN2IxN2RlMzBjMzM5ZDFkNTJlZjI0Y2VjZTg0MWU2`
+Snapshot ID: `MTcxMzA1Mjg2MCwwMDAwMDAwMDFkZGU3NWNkZDdjMmNiMDI2MDA4NTVmY2FhZmI0MTdh`

@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 2534,
+  "2024-04-14": 2534,
   "date_first_scraped": "2023-07-04",
   "description": "Come, lets take a soulful journey through rhythmic grooves",
   "name": "Alternative Avenue",
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 95714,
       "name": "Home",
       "url": "https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT"
@@ -1493,6 +1493,32 @@
       "duration_ms": 299171,
       "name": "Wanting You",
       "url": "https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt"
+    },
+    {
+      "album": {
+        "name": "What They Heard",
+        "url": "https://open.spotify.com/album/1DXa0J0noqp6f4ntFehsmZ"
+      },
+      "artists": [
+        {
+          "name": "BasicCity",
+          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
+        },
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "TIHANE",
+          "url": "https://open.spotify.com/artist/5JTJtMCQcHtL2JbOVnyI0B"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210326,
+      "name": "What They Heard",
+      "url": "https://open.spotify.com/track/5p0kXDP56ztkjc0AtaWLSI"
     },
     {
       "album": {

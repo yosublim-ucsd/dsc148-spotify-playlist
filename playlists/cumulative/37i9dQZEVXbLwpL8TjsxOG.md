@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-847 songs - 2 day 1 hr 48 min
+849 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [if i die tonight](https://open.spotify.com/track/6qfHEyREqyUZEnxzWl8Ekv) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [if i die tonight](https://open.spotify.com/album/0FFAntk0L1LCmdZf2rHm0B) | 2:25 | 2022-06-25 | 2022-08-14 |
 | [If You Don't Love Me, It's Fine](https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:06 | 2022-07-16 | 2022-07-19 |
 | [IGNITED](https://open.spotify.com/track/1KjyA2HBaaOgKMMGJq7H2t) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [One and All](https://open.spotify.com/album/1dmok6vCpRewkOnTsg0Ubv) | 3:40 | 2021-05-09 | 2021-05-21 |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-06-04 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-27 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-12 |
@@ -565,7 +566,7 @@
 | [不可愛教主](https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [不可愛教主](https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH) | 3:49 | 2021-07-09 | 2023-01-21 |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2021-10-10 | 2021-10-16 |
 | [世一](https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [世一](https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh) | 4:23 | 2023-01-20 | 2023-01-22 |
-| [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 | 2023-01-21 |  |
+| [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 | 2023-01-21 | 2024-04-14 |
 | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/track/5oJgKQOjypEUqBHnKCfAZs) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/album/0DUPzk7vFDr3qSBA5JD6jk) | 4:23 | 2023-02-15 | 2023-03-18 |
 | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/track/6tr0lpSi0fKE3hSM0vkdIe) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [This is MC \(Deluxe\)](https://open.spotify.com/album/7DsuhLnk7vEp4DZ4Awcybx) | 4:23 | 2023-03-17 | 2023-06-22 |
 | [世界與你無關 \- Acoustic Version](https://open.spotify.com/track/6OMVP0bYGhLGTp1Mvl3iOH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關 \(Acoustic Version\)](https://open.spotify.com/album/4Vv0pIpYXxmlrXNBSbXuZq) | 4:05 | 2022-03-12 | 2022-03-14 |
@@ -582,7 +583,7 @@
 | [仍在](https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [仍在](https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo) | 4:38 | 2023-09-09 |  |
 | [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 | 2023-07-08 | 2023-10-06 |
 | [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2023-04-21 | 2024-01-09 |
-| [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-05-01 |  |
+| [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-05-01 | 2024-04-14 |
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |
 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 | 2023-11-04 | 2023-12-02 |
@@ -815,6 +816,7 @@
 | [追](https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [追](https://open.spotify.com/album/6sGJi4077dMoVi362niYP5) | 5:13 | 2023-03-17 | 2024-01-01 |
 | [追](https://open.spotify.com/track/66cBlqEs1viJJCE74CDfGB) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [寵愛](https://open.spotify.com/album/3vTH8NPADshZKutRSeVWDJ) | 5:23 | 2021-04-03 | 2023-04-05 |
 | [逆時車站](https://open.spotify.com/track/2EU1uVEUCgSA5aiBiHJDAk) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [逆時車站](https://open.spotify.com/album/6b5wLYHfOYRSkW1jnSWcuQ) | 3:20 | 2021-07-30 | 2022-02-17 |
+| [遇上你之前的我](https://open.spotify.com/track/0zKILlXrocz7TS4EJ16rPt) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [遇上你之前的我](https://open.spotify.com/album/4hLW7QtnkluNqvZv6nv8ZF) | 3:35 | 2024-04-13 |  |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2021-03-27\* |  |
 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-04-25 | 2023-04-28 |
 | [還原淚](https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [還原淚](https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx) | 3:33 | 2022-10-06 | 2023-03-04 |

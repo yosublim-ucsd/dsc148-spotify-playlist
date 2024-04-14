@@ -4,7 +4,7 @@
 
 > 
 
-414 songs - 1 day 2 hr 43 min
+415 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Better Than Revenge \(Taylor's Version\)](https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:40 | 2023-07-10 |  |
 | [betty](https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:54 | 2022-04-17 |  |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-21 |  |
+| [Bitch](https://open.spotify.com/track/2ev5SImg6KN3KfbbT1Xipu) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Bitch](https://open.spotify.com/album/37mEUbghfsvFpeHUxhdnnu) | 3:48 | 2024-04-13 |  |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2022-04-17 |  |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-27 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2023-12-07 |  |

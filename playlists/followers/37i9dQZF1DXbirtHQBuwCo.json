@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1001334,
+  "2024-04-14": 1001321,
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BANG YEDAM, WINTER)",
   "name": "TrenChill K-R&B",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205771,
       "name": "007 (feat. Syd)",
       "url": "https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3"
@@ -6757,7 +6757,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197533,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
@@ -6819,6 +6819,36 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+    },
+    {
+      "album": {
+        "name": "Like a Dream (Feat. Mingginyu, TRADE L, Touch the Sky)",
+        "url": "https://open.spotify.com/album/7o3eV7XuFrYI4TxmSWk2cT"
+      },
+      "artists": [
+        {
+          "name": "HD BL4CK",
+          "url": "https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd"
+        },
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Touch the Sky",
+          "url": "https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Like a Dream (Feat. Mingginyu, TRADE L, Touch the Sky)",
+      "url": "https://open.spotify.com/track/1wKoQyKMKXnjkkMlNuZA14"
     },
     {
       "album": {
@@ -7657,7 +7687,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207493,
       "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -10180,6 +10210,28 @@
     },
     {
       "album": {
+        "name": "Ring Finger (Feat. Gist)",
+        "url": "https://open.spotify.com/album/5wzWfx8QetaXgEcGEtzKTc"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144414,
+      "name": "Ring Finger (Feat. Gist)",
+      "url": "https://open.spotify.com/track/59rFPXfBvCvHYI3unX76RA"
+    },
+    {
+      "album": {
         "name": "Ringwanderung",
         "url": "https://open.spotify.com/album/2gQiMJyIb8lqZu3dAeBbwh"
       },
@@ -11043,6 +11095,28 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0l800jbq1GM428RPoURUnf"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142533,
+      "name": "SOS (feat. NSW yoon)",
+      "url": "https://open.spotify.com/track/30kcwhaWoMnRKSv8REX9qP"
     },
     {
       "album": {

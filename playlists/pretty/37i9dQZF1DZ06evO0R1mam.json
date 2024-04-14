@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 10076,
+  "num_followers": 10078,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDRmOTVlZjgwYTU5MGIxNTAwYWFmZTIzMzhlMTEzY2Q0",
+  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDNlMDY5MjJmYjg1MzQxNTFhMTZiMjdkOTExMGIxMGI0",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
       "artists": [
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Lena Byrd-Miles",
-          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
         }
       ],
-      "duration_ms": 509186,
-      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
-      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
+      "duration_ms": 307986,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
     },
     {
       "added_at": null,
@@ -643,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
+      "duration_ms": 509186,
+      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
+      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 441026,
-      "name": "Craving - Live",
-      "url": "https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD"
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
+      "duration_ms": 441026,
+      "name": "Craving - Live",
+      "url": "https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+      "duration_ms": 307266,
+      "name": "Still Have Joy - Live",
+      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307266,
-      "name": "Still Have Joy - Live",
-      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
       "added_at": null,

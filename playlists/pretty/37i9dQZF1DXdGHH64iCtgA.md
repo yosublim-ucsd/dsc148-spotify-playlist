@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,687 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,698 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 52 | [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 |
 | 53 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 |
 | 54 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
-| 55 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
-| 56 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
+| 55 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
+| 56 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 57 | [Pain In The Ass](https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain in the Ass](https://open.spotify.com/album/7vcGhNDkHj4tJlI0ys1cq5) | 6:40 |
 | 58 | [Ivoire \(feat\. Kio Amachree\)](https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kio Amachree](https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 8:15 |
 | 59 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 83 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
 | 84 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 85 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 |
-| 86 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
-| 87 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
+| 86 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
+| 87 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
 | 88 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
 | 89 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
 | 90 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |

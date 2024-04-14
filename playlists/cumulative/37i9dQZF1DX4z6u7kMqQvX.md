@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-480 songs - 1 day 3 hr 14 min
+481 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-04-01 | 2022-05-25 |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-07 | 2023-03-03 |
 | [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 | 2023-03-02 |
-| [Mirándote \- Versión radio](https://open.spotify.com/track/2uQZbSjd91u02aIjSE77ew) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote \- Versión radio](https://open.spotify.com/album/2YSnahVyY6Aj6Xy2H04P4H) | 3:54 | 2023-11-23 |  |
+| [Mirándote \- Versión radio](https://open.spotify.com/track/2uQZbSjd91u02aIjSE77ew) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote \- Versión radio](https://open.spotify.com/album/2YSnahVyY6Aj6Xy2H04P4H) | 3:54 | 2023-11-23 | 2024-04-14 |
 | [Mirándote – Versión radio](https://open.spotify.com/track/45iwO0aQGvzVFsIiiyiWSC) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote – Versión radio](https://open.spotify.com/album/5PX994LStMZS47M3ZosGlZ) | 3:54 | 2022-04-01 | 2022-04-18 |
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-07 | 2022-07-08 |
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 | 2023-03-03 |
@@ -391,6 +391,7 @@
 | [SANTIAGO, PT\. II \(DISTANCIA\) \[feat\. Heartgaze\]](https://open.spotify.com/track/2ncK9wKyHdM93WFVIVcu4r) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [SANTIAGO...](https://open.spotify.com/album/7CWmlWercbmIicYIOGEoUt) | 4:09 | 2022-04-01 | 2022-04-20 |
 | [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-14 | 2022-10-29 |
 | [Ser Eternos](https://open.spotify.com/track/2Nbd4vA664gAa23iCmbP4X) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Ser Eternos](https://open.spotify.com/album/12LRUTem7DZkK72rfo2Jvk) | 3:40 | 2022-01-07 | 2022-07-28 |
+| [si fueras lluvia](https://open.spotify.com/track/15GJsgQgGt30RexFbLeDIL) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [si fueras lluvia](https://open.spotify.com/album/5ULFouJxC8AqFLXv9859f5) | 3:12 | 2024-03-27 |  |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2022-07-15 | 2024-04-11 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/5caJvmpnwLPvsgxiFUZI3d) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/37eZe9AY6enYaoBM625PQI) | 3:12 | 2022-01-07 | 2022-07-29 |
 | [Si No Es Así](https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU) | [Un Vaso de Agua](https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN) | 1:28 | 2022-09-09 |  |

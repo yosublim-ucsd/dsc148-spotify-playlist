@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,813 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,845 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 36 | [Asuoden](https://open.spotify.com/track/7Jhg0wUE87NsCY21UdVfu2) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Asuoden](https://open.spotify.com/album/4WANfxrP1zuuX4oxBSek38) | 3:35 |
 | 37 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 38 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
-| 39 | [Loner](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
+| 39 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
 | 40 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 41 | [Dance Like Nobody](https://open.spotify.com/track/3LiShFhwCoEu89nVKJOCFN) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Dance Like Nobody](https://open.spotify.com/album/7woECnEtFlAvFNNEt3aeNO) | 3:16 |
 | 42 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |

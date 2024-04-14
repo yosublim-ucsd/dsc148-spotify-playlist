@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,735 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,752 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

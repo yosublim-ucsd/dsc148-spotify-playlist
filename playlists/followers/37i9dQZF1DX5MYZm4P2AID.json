@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 206542,
+  "2024-04-14": 206669,
   "date_first_scraped": "2022-05-30",
   "description": "Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix. ",
   "name": "Outer Banks Official Playlist",
@@ -137,6 +137,24 @@
     {
       "album": {
         "name": "The Nude Party",
+        "url": "https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334880,
+      "name": "Astral Man",
+      "url": "https://open.spotify.com/track/3sHsj2ZWGqGek6nd9dZexV"
+    },
+    {
+      "album": {
+        "name": "The Nude Party",
         "url": "https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q"
       },
       "artists": [
@@ -147,7 +165,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 334880,
       "name": "Astral Man",
       "url": "https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O"
@@ -1135,10 +1153,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226186,
       "name": "Gringo Che",
       "url": "https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x"
+    },
+    {
+      "album": {
+        "name": "The Nude Party",
+        "url": "https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Gringo Che",
+      "url": "https://open.spotify.com/track/7nBHDoLweT5dr455uyxruH"
     },
     {
       "album": {
@@ -3199,10 +3235,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 259937,
       "name": "Sold out of Love",
       "url": "https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999"
+    },
+    {
+      "album": {
+        "name": "Rides On",
+        "url": "https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259937,
+      "name": "Sold out of Love",
+      "url": "https://open.spotify.com/track/7l24yEocXMnG3b4BiYEKCa"
     },
     {
       "album": {
@@ -3745,6 +3799,24 @@
     {
       "album": {
         "name": "Midnight Manor",
+        "url": "https://open.spotify.com/album/41xiR82s0XfJTghApPEJQG"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296791,
+      "name": "Time Moves On",
+      "url": "https://open.spotify.com/track/1MM99OUIbL61UbHm6VrO3w"
+    },
+    {
+      "album": {
+        "name": "Midnight Manor",
         "url": "https://open.spotify.com/album/3OePCCzmF2nfuEJWQ521eQ"
       },
       "artists": [
@@ -3755,7 +3827,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 296791,
       "name": "Time Moves On",
       "url": "https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2"

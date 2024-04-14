@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-157 songs - 9 hr 16 min
+158 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2022-01-14 |  |
 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 | 2022-07-08 |  |
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2022-01-14 | 2022-07-29 |
-| [El Camión de Germán](https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [El Camión de Germán](https://open.spotify.com/album/2a3jI3n0xtX9Zktz4RX1Wb) | 5:27 | 2023-03-17 |  |
+| [El Camión de Germán](https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [El Camión de Germán](https://open.spotify.com/album/2a3jI3n0xtX9Zktz4RX1Wb) | 5:27 | 2023-03-17 | 2024-04-14 |
 | [El Círculo](https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X) | [Georgina Hassan](https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Primera Luna](https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs) | 3:25 | 2022-09-06 |  |
 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 | 2022-09-23 |  |
 | [El Otro País](https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [El Otro País](https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1) | 4:26 | 2023-10-05 |  |
@@ -75,7 +75,7 @@
 | [Flor Abierta](https://open.spotify.com/track/1SGjtb9kwVZQV8aH5rDzjt) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 4:20 | 2023-12-15 | 2024-02-24 |
 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 | 2022-09-06 |  |
 | [Fruto](https://open.spotify.com/track/0vQqkEYw9Bvd5AyavBRW8D) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Fruto](https://open.spotify.com/album/7waTEQXyFvKCtghnMJ9T04) | 2:44 | 2022-01-14 | 2022-09-07 |
-| [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 | 2022-01-14 | 2024-04-09 |
+| [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 | 2022-01-14 |  |
 | [Guitarrero Cuyano y Cantor](https://open.spotify.com/track/5FRFfzoOaoMIOpanETm3HU) | [Mónica Abraham](https://open.spotify.com/artist/7h7OOifiiMnu024OYqMbJT) | [Noticias de Mi Corazón](https://open.spotify.com/album/3x1oaqtrRvk5s5vXEnfnus) | 4:09 | 2022-01-14 | 2022-07-29 |
 | [Guitarrero Cuyano y Cantor](https://open.spotify.com/track/7nNGfQjetTiGpy70Ljwl2e) | [Mónica Abraham](https://open.spotify.com/artist/7h7OOifiiMnu024OYqMbJT) | [Noticias de Mi Corazón](https://open.spotify.com/album/6kSKUQ5Zm7DFubjcwWszqa) | 4:09 | 2022-07-08 | 2022-09-07 |
 | [Jujuy Mujer](https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [K'arallanta](https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61) | 4:54 | 2022-09-06 |  |
@@ -109,6 +109,7 @@
 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 | 2022-01-14 |  |
 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 | 2022-01-14 |  |
 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 | 2022-09-06 |  |
+| [Mi Cultura La Copla](https://open.spotify.com/track/0llb0HHVdnALQxHQnRT7Mp) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/1v7igOTMyTvR31EdQWpcsu) | 2:33 | 2023-12-22 |  |
 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-06 | 2022-12-19 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 | 2024-03-12 |
@@ -131,7 +132,7 @@
 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 | 2022-09-06 |  |
 | [Recopilacion De Carnavalitos](https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx) | [Margarita Palacios](https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c) | [Los Clasicos Del Folklore](https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ) | 2:37 | 2022-01-14 | 2022-09-07 |
 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 | 2022-01-14 | 2023-11-26 |
-| [Saravá](https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Saravá](https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi) | 4:03 | 2022-12-09 |  |
+| [Saravá](https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Saravá](https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi) | 4:03 | 2022-12-09 | 2024-04-14 |
 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 | 2022-01-14 |  |
 | [Serenata para la Tierra de Uno](https://open.spotify.com/track/3SAz3P2BWThVMybST6mG1T) | [Fabiana Pérez](https://open.spotify.com/artist/1pYtrPL902RbBnGv3LmTuZ) | [Volver a Mí](https://open.spotify.com/album/6jVYP8Owj1Q69DD5xSGoJx) | 3:57 | 2022-01-14 | 2022-07-28 |
 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 | 2023-12-08 |

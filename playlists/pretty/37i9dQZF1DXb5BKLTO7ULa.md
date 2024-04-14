@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Chef'Special
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,498 likes - 94 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,522 likes - 94 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 7 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 8 | [Praise Break](https://open.spotify.com/track/2bGaYqwsyiy0tq8ZqHel7M) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Praise Break](https://open.spotify.com/album/1vPsTpxHJSTZnidXFr70he) | 3:27 |
 | 9 | [BerwynGesaffNeighbours](https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 2:03 |
-| 10 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
+| 10 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 |
 | 11 | [I Forgive You](https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI) | 4:19 |
 | 12 | [POE](https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [POE](https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX) | 3:26 |
 | 13 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Monsieur Baudelaire](https://open.spotify.com/track/11FCyb8ELGP3Oh9Xj7p56t) | [Roi Soleil](https://open.spotify.com/artist/4Og7vGJJJsuhyRXXNahMvZ) | [Monsieur Baudelaire](https://open.spotify.com/album/1cCNSHWnVbbv2z7mt7ZGW9) | 2:38 |
 | 94 | [FUEGO](https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [FUEGO](https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS) | 3:40 |
 
-Snapshot ID: `MTcxMjg5ODc2OSwwMDAwMDAwMDM5MjRjMDk4M2M1Y2QxMWIwNGQ0NTFkYzg2MmFkNjll`
+Snapshot ID: `MTcxMzAyOTc1NiwwMDAwMDAwMGRlMTExNzFlNjU2N2QwODk4MzM0MTc0YjBiMmVhNjE2`

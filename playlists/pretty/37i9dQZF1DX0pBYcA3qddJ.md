@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,087 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,096 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
 | 90 | [δ](https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 0:36 |
 | 91 | [City Lights](https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [City Lights](https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg) | 3:42 |
-| 92 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
+| 92 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 93 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 |
 | 94 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
-| 97 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
-| 98 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
+| 97 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
+| 98 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
-| 100 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
+| 100 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
 
 Snapshot ID: `MTcwOTgyMzYwMCwwMDAwMDAwMGE0MmI3ODQwMzY3ZmViNWFmZmNjM2UyNzg0YTU0OTVj`

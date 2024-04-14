@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 6324,
+  "2024-04-14": 6327,
   "date_first_scraped": "2022-01-02",
   "description": "The trending country songs and viral hits you need to know. Cover: Hailey Whitters",
   "name": "Viral Country",
@@ -129,6 +129,24 @@
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "album": {
+        "name": "Arkansas Diamond",
+        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183477,
+      "name": "Arkansas Diamond",
+      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
       "album": {
@@ -2731,6 +2749,24 @@
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
+    },
+    {
+      "album": {
+        "name": "Tears In The River",
+        "url": "https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190619,
+      "name": "Tears In The River",
+      "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
     },
     {
       "album": {

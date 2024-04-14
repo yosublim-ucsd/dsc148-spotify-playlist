@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,684 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,688 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 51 | [Chains](https://open.spotify.com/track/3Tjzaw3s36JkLACh1XY2Yi) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:32 |
 | 52 | [I'd Never Find Another You](https://open.spotify.com/track/3NdGW143zQClqgvLN5OdPs) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf), [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Radio Luxembourg Sessions/The Sound Of Fury Demos](https://open.spotify.com/album/4GxeKxGHCCjTSLOn9nyoUi) | 2:40 |
 | 53 | [Out In The Cold](https://open.spotify.com/track/0y0ZXqWt6IejweVMxKsR2W) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/4FqgAwMHP0Nquc87MvR0wS) | 2:45 |
-| 54 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
-| 55 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 54 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 55 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
 | 56 | [Peace In the Valley](https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:21 |
 | 57 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 58 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
@@ -204,13 +204,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 194 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
 | 195 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
 | 196 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
-| 197 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
-| 198 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
-| 199 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
-| 200 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 |
-| 201 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
-| 202 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
-| 203 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 197 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 198 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
+| 199 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
+| 200 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
+| 201 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 |
+| 202 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
+| 203 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 204 | [Ambrosia](https://open.spotify.com/track/5nwvCxZTbwOEjltAewJg0P) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:15 |
 | 205 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
 | 206 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg1NDk1NzAsMDAwMDAwMDA1NThhODNkMzUwOGMzYTE3MWNlYWNjMzJmYzE3YTc4YQ==`
+Snapshot ID: `Mjg1NTEwNzgsMDAwMDAwMDBiNzQxOTc4NTI1ZjM3NWY5NDI1MDZkNDcyZTU2YjZiYg==`

@@ -5325,28 +5325,6 @@
     },
     {
       "album": {
-        "name": "Los Rompecorazones, Vol. 2",
-        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154462,
-      "name": "Ese Guille",
-      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
-    },
-    {
-      "album": {
         "name": "Ese Guille",
         "url": "https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W"
       },
@@ -5366,6 +5344,32 @@
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Ese Guille",
+      "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
     },
     {
       "album": {
@@ -6392,6 +6396,10 @@
         {
           "name": "Kidd Voodoo",
           "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "date_added": "2024-03-01",
@@ -12628,6 +12636,10 @@
         {
           "name": "Nickzzy",
           "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2024-03-01",

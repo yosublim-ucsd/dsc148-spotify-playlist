@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. Joss Favela, Gera MX en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,082 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,120 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 15 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 16 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 17 | [Te Vas Así](https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Te Vas Así](https://open.spotify.com/album/2Vxp9EEHqRgk5Hn5udBB6Z) | 3:11 |
-| 18 | [Modo Insano](https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I) | 3:16 |
+| 18 | [Modo Insano](https://open.spotify.com/track/2sgfqE6JytPiRy3fEVhgR4) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/03zykUqjYLUH4x5mYJjd1w) | 3:16 |
 | 19 | [El Rey de la Kumbia](https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [El Rey de la Kumbia](https://open.spotify.com/album/45nzMcJJDoGA1zRIaKaIVq) | 3:47 |
 | 20 | [El Boss](https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Boss](https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk) | 3:45 |
 | 21 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 |

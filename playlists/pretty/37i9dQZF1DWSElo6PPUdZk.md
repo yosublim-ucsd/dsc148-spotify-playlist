@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,716 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,739 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

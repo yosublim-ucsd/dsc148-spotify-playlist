@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 761445,
+  "2024-04-14": 761546,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -1301,6 +1301,32 @@
       "duration_ms": 176277,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058"
+    },
+    {
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246836,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
       "album": {
@@ -6000,6 +6026,32 @@
     },
     {
       "album": {
+        "name": "Paradigm Shift",
+        "url": "https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        },
+        {
+          "name": "Emmavie",
+          "url": "https://open.spotify.com/artist/30SZetOBMEael27tboxz7f"
+        },
+        {
+          "name": "Theophonixx",
+          "url": "https://open.spotify.com/artist/7cd3zVL8BqvScMLSORiele"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269009,
+      "name": "NOTHING COMPARES (feat. Emmavie & Theophonixx)",
+      "url": "https://open.spotify.com/track/3iJUTbFJBKOOoGvtbfXAoz"
+    },
+    {
+      "album": {
         "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
         "url": "https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc"
       },
@@ -6423,7 +6475,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231580,
       "name": "Perfect Stranger (feat. Kenny Lattimore)",
       "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
@@ -6959,7 +7011,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"

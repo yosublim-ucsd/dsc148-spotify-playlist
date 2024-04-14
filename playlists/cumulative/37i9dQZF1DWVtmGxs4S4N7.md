@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics.
 
-156 songs - 8 hr 35 min
+157 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Por Las Calles De México](https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 | 2021-12-08 | 2022-09-13 |
 | [Por Las Calles De México](https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Triunfadora Sonora Santanera](https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6) | 2:46 | 2021-12-08 | 2022-07-29 |
 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 | 2023-04-14 | 2024-04-09 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-09 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-06-09 | 2024-04-14 |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-08 |  |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-10 |  |
 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 | 2021-12-08 | 2023-01-11 |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2022-12-30 |  |

@@ -4,7 +4,7 @@
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-201 songs - 11 hr 56 min
+202 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-02-16 |  |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2021-12-16 | 2022-05-20 |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 | 2024-04-10 |
+| [desde que estas en mi vida](https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT) | 3:22 | 2024-04-05 |  |
 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-10-20 |  |
 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 | 2021-12-16 |  |
 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 | 2023-04-04 |  |
@@ -99,7 +100,7 @@
 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 | 2021-12-16 |  |
 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 | 2021-12-16 |  |
 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 | 2021-12-16 | 2022-05-20 |
-| [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 | 2021-12-16 |  |
+| [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 | 2021-12-16 | 2024-04-14 |
 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 |  |
 | [Lo Que Perdimos](https://open.spotify.com/track/7CwxNqAafIALPb0F6Hcs6I) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lo Que Perdimos](https://open.spotify.com/album/6AnlGhkXysrFpv0yt8v3Yf) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Lo Que Perdimos](https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:27 | 2022-06-07 | 2022-11-11 |

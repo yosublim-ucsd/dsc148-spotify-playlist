@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 284084,
+  "num_followers": 284532,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -427,38 +443,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Don't Stand So Close To Me",
-      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -587,22 +571,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -743,22 +743,6 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Just What I Needed",
-      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Asia",
         "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 245400,
       "name": "Love Is A Battlefield",
       "url": "https://open.spotify.com/track/4wYqPn3Kg3vZrkVgW2oqAG"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2023-01-18 21:24:22",

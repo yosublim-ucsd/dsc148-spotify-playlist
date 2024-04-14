@@ -1,12 +1,12 @@
 {
   "description": "New soul-infused music every week! Cover: Sabrina Starke",
-  "num_followers": 457820,
+  "num_followers": 457836,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjkzNDQ2MiwwMDAwMDAwMDRlZDNjZDMzOTIwYzRiMjA5OGRiMjE2ZTVkOWY5MDUw",
+  "snapshot_id": "MTcxMzAzMDY2NywwMDAwMDAwMGI4NmRjMDYyMWI2ZWU2ZjQ0MzQ4MmQ0MzkwM2UxMGQ4",
   "tracks": [
     {
       "added_at": "2024-04-12 15:07:42",
@@ -59,6 +59,38 @@
       "duration_ms": 250971,
       "name": "Friend or Foe",
       "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
+    },
+    {
+      "added_at": "2024-04-12 15:07:42",
+      "album": {
+        "name": "Payback b/w Into The Blue",
+        "url": "https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu"
+    },
+    {
+      "added_at": "2024-04-12 15:07:42",
+      "album": {
+        "name": "Troubled Ones",
+        "url": "https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 160045,
+      "name": "Troubled Ones",
+      "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
     },
     {
       "added_at": "2024-04-12 15:07:42",
@@ -123,22 +155,6 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
-    },
-    {
-      "added_at": "2024-04-12 15:07:42",
-      "album": {
-        "name": "Payback b/w Into The Blue",
-        "url": "https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu"
     },
     {
       "added_at": "2024-04-12 15:07:42",
@@ -307,22 +323,6 @@
       "duration_ms": 210543,
       "name": "GOOD MAN",
       "url": "https://open.spotify.com/track/16AHouj8sKskdYFDXwHmZR"
-    },
-    {
-      "added_at": "2024-04-12 15:07:42",
-      "album": {
-        "name": "Troubled Ones",
-        "url": "https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 160045,
-      "name": "Troubled Ones",
-      "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
     },
     {
       "added_at": "2024-04-12 15:07:42",

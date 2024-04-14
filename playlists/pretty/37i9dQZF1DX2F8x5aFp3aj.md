@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,199 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,289 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 15 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
 | 16 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
 | 17 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
-| 18 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
+| 18 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
 | 19 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
-| 20 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
-| 21 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
+| 20 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
+| 21 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 22 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 23 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 |
 | 24 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 59 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 60 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 61 | [Rebel Yell \- Remastered 1999](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 |
-| 62 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 |
-| 63 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
+| 62 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
+| 63 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 |
 | 64 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
 | 65 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
-| 66 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
-| 67 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
+| 66 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
+| 67 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 68 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
 | 69 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 70 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 71 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 |
 | 72 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 73 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
-| 74 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
-| 75 | [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 |
+| 74 | [Everything Counts](https://open.spotify.com/track/4oWQeGyPFyr4EpTrv5v0gJ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:57 |
+| 75 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
 Snapshot ID: `MTY5OTYzNjEwNSwwMDAwMDAwMDQ4OThiNGFiZDQzNzQwODllY2YwYTFlZTY3MzFkMzRm`

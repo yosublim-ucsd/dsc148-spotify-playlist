@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,939 likes - 118 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,961 likes - 118 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 92 | [When I Was Younger](https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb) | [When I Was Younger](https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH) | 3:17 |
 | 93 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 94 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
-| 95 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 |
+| 95 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 |
 | 96 | [Late](https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Late](https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY) | 3:57 |
 | 97 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
 | 98 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |

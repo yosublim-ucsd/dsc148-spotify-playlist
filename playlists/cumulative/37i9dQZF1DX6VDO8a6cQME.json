@@ -338,7 +338,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 281880,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
@@ -638,6 +638,24 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320360,
+      "name": "Forever My Lady",
+      "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
     },
     {
       "album": {

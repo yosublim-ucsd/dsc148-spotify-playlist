@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73119,
+  "num_followers": 73113,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 236354,
-      "name": "Maybe Next Christmas",
-      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
       "artists": [
         {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
+      "duration_ms": 236354,
+      "name": "Maybe Next Christmas",
+      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -715,6 +699,22 @@
       "duration_ms": 227920,
       "name": "God Rest Ye, Merry Gentlemen",
       "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2023-12-19 12:10:20",

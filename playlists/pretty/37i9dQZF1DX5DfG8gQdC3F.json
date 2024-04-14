@@ -1,6 +1,6 @@
 {
   "description": "New music from Metro Boomin & Future, Dua Lipa, Baby Rose & BADBADNOTGOOD, Caribou and more. ",
-  "num_followers": 355442,
+  "num_followers": 355607,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 252920,
@@ -270,6 +274,10 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
       "duration_ms": 254320,

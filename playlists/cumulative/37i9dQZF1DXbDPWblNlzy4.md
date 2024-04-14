@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Nelly Furtado & Juanes
 
-269 songs - 14 hr 9 min
+270 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-03-17 | 2023-03-25 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-03-17 |  |
 | [Por La Forma En Que Me Miras](https://open.spotify.com/track/4UfehNZcYmHX8ctXwiOB89) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Por La Forma En Que Me Miras](https://open.spotify.com/album/7y3u55UCDkR0Naaq2A0Xir) | 3:13 | 2023-09-01 | 2023-10-01 |
-| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-09-29 |  |
+| [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-03-29 |  |
+| [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-09-29 | 2024-04-14 |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-03-17 | 2023-07-29 |
 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-04-28 | 2023-05-13 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-03-17 | 2023-04-22 |

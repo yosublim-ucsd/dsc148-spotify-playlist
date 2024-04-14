@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,977 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,050 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 51 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 52 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
 | 53 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 |
-| 54 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
-| 55 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 |
+| 54 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 |
+| 55 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
 | 56 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
 | 57 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
 | 58 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 78 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
 | 79 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 |
 | 80 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
-| 81 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 |
-| 82 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
-| 83 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
+| 81 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
+| 82 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 |
+| 83 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 84 | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG) | 3:10 |
-| 85 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
+| 85 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 86 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 87 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 88 | [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 |

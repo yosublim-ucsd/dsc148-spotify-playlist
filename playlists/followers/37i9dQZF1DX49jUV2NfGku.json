@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 1593758,
+  "2024-04-14": 1594264,
   "date_first_scraped": "2021-12-21",
   "description": "New rock favorites and essential modern cuts. Cover: Evanescence",
   "name": "Rock Solid",
@@ -2399,10 +2399,32 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
+    },
+    {
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Francois Kevorkian",
+          "url": "https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "Personal Jesus - Single Version",
+      "url": "https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i"
     },
     {
       "album": {

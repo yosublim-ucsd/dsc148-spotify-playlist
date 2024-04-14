@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Rathnam
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,832 likes - 77 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,890 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

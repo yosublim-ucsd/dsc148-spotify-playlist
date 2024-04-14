@@ -59,6 +59,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "SQUARE UP",
-        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 211350,
-      "name": "DDU-DU DDU-DU",
-      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "AH YEAH",
+        "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "AH YEAH",
-        "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
+        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
       },
       "artists": [
         {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 189882,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+      "duration_ms": 216555,
+      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -715,22 +731,6 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 216555,
-      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230600,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 195906,
       "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4",
       "url": "https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
     },
     {
       "added_at": "2024-04-04 20:15:17",

@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1777186,
+  "num_followers": 1777185,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Only Time",
         "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 178546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Mood Ring",
-        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Cazadera",
-      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Cazadera",
+      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 90227,
       "name": "Change",
       "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 217946,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+        "name": "Burn The Hard Drive (feat. Mura Masa)",
+        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         }
       ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+      "duration_ms": 192832,
+      "name": "Burn The Hard Drive (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Burn The Hard Drive (feat. Mura Masa)",
-        "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 192832,
-      "name": "Burn The Hard Drive (feat. Mura Masa)",
-      "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2024-03-08 16:42:43",

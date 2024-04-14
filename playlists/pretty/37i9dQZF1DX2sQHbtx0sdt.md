@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,596 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,802 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

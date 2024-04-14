@@ -1,7 +1,7 @@
 {
-  "2024-04-13": 48883,
+  "2024-04-14": 48900,
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Morat",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 El Purre",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -2804,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Nuestro Truman Show",
+        "url": "https://open.spotify.com/album/7hzuydFAr0MNGzmRNwz0uS"
+      },
+      "artists": [
+        {
+          "name": "El Purre",
+          "url": "https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350466,
+      "name": "Nuestro Truman Show",
+      "url": "https://open.spotify.com/track/4BbwJJnW7PbJXAbKXQlV8n"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202363,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"

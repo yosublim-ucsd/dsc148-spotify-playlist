@@ -1,5 +1,5 @@
 {
-  "2024-04-13": 80267,
+  "2024-04-14": 80315,
   "date_first_scraped": "2022-06-03",
   "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Karol G en portada.",
   "name": "sentimiento.",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
@@ -375,6 +375,24 @@
       "duration_ms": 192954,
       "name": "Buenas",
       "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
+        "name": "buenos aires",
+        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
     },
     {
       "album": {
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204841,
       "name": "Dormir Contigo",
       "url": "https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172500,
       "name": "Un Beso M\u00e1s",
       "url": "https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ"
