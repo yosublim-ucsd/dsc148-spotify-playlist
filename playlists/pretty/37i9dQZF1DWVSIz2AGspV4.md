@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: اصيل حميم
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,132 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,195 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 |
-| 2 | [Momken Trod](https://open.spotify.com/track/1uzQAA3DHWVLGQ1KfCUxp0) | [Sara Salman](https://open.spotify.com/artist/0WjGa4issvirboeMa7QWcc) | [Momken Trod](https://open.spotify.com/album/1DbmECM1LsBaPsEPTzSvZw) | 2:49 |
+| 2 | [ممكن ترد](https://open.spotify.com/track/6EMnLaL2KJ2tpgocU8qpv2) | [سارة سلمان](https://open.spotify.com/artist/0bmkMt7WF8R7eBdVq67WTI) | [ممكن ترد](https://open.spotify.com/album/3jHsjXStlxPnjLQxL6pgUr) | 2:49 |
 | 3 | [Ma Matroukaa](https://open.spotify.com/track/1hx7D9TXiCGZg5LUZWZgL8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ma Matroukaa](https://open.spotify.com/album/31KGaz4Fhmsr8xLFWCOyL9) | 2:35 |
 | 4 | [Ya Aalam](https://open.spotify.com/track/47aNksUpAgRrXJaEAXDS25) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Ya Aalam](https://open.spotify.com/album/13UfeZlt8gcSacL71gHOrQ) | 3:36 |
 | 5 | [Abu Treychiya](https://open.spotify.com/track/5OhPIODPuDfwLsXcJVMk3O) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Ahmed Albasheer](https://open.spotify.com/artist/1JEeyaF0W5wWhKsWGynHtu) | [Abu Treychiya](https://open.spotify.com/album/4ac5SPx2Swz8hyfYEug6Mj) | 3:50 |

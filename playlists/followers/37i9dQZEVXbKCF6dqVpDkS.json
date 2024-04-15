@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 910057,
+  "2024-04-15": 910080,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
@@ -10887,7 +10887,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/1elmYn9vrSnQzs44rJcVY6"
@@ -13158,6 +13158,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
         "name": "LIJPE",
         "url": "https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH"
       },
@@ -14127,7 +14145,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -14531,7 +14549,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 188039,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ"
@@ -29419,7 +29437,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"

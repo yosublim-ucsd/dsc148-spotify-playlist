@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,620 likes - 103 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,789 likes - 103 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 55 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 |
 | 56 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 |
 | 57 | [Mkhulumsebenzi](https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Oasis Worship](https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72) | [All About Jesus](https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx) | 5:01 |
-| 58 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
+| 58 | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
 | 59 | [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/1mWlPrcAYTvCh6VDMojZzd) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [House Of Grace Choir](https://open.spotify.com/artist/1Sw3A0R9do7yUylw4Y3w92), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm) | [Victorious in His Presence](https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP) | 8:28 |
 | 60 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 |
 | 61 | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC), [Girly Sibiya](https://open.spotify.com/artist/2FxLvFgLUJzmXZjMh3EsEU) | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/album/2e74E0qcVor3plRWUnCpMP) | 5:03 |

@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla & Megan Thee Stallion
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
 496 songs - 22 hr 27 min
 

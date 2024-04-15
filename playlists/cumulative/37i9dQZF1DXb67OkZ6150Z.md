@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-434 songs - 1 day 2 hr 35 min
+435 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
-| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 |  |
+| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 | 2024-04-15 |
 | [Anthem](https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm) | 5:42 | 2021-03-12 | 2022-07-29 |
 | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/album/4myEpnMud7cUNDPdHgfBws) | 3:20 | 2021-03-12 | 2022-07-25 |
 | [Apart](https://open.spotify.com/track/0R3zkCF1Z2hWuXpqKwIi9d) | [Nouveau Arcade](https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Cordélia](https://open.spotify.com/artist/0UhSatKKJwvaFdWEEEhhuY) | [Apart](https://open.spotify.com/album/234RumQhzektWxKjD1eZFm) | 4:08 | 2022-04-08 | 2022-04-18 |
@@ -174,6 +174,7 @@
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2021-03-12 | 2022-04-20 |
 | [Hold On, We're Going Home](https://open.spotify.com/track/6r0Ysni1ESgjvJtE5MqcKR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Hold On, We're Going Home](https://open.spotify.com/album/2SPoU4ZiHtlr4uqqGdFbXo) | 3:20 | 2021-07-21 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2) | 4:23 | 2022-04-08 | 2022-12-24 |
+| [Home](https://open.spotify.com/track/4D4rnN24jBfKC731dK3oFL) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/4yGwLSsCKFunP7kdfHWnKm) | 4:23 | 2024-03-08 |  |
 | [Home](https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8) | 4:23 | 2022-11-11 | 2024-04-13 |
 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 | 2021-10-08 | 2022-07-28 |
 | [Hopelessly Devoted to You](https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Hopelessly Devoted to You](https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ) | 2:27 | 2023-03-17 | 2023-05-04 |

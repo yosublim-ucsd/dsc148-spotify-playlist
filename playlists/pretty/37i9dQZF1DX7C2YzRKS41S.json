@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 116090,
+  "num_followers": 116184,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
+        "name": "Certeza",
+        "url": "https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Certeza - Acu\u0301stico",
+      "url": "https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Certeza",
-        "url": "https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Certeza - Acu\u0301stico",
-      "url": "https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo"
+      "duration_ms": 202506,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -951,22 +967,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Era amor",
-        "url": "https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd"
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
         }
       ],
-      "duration_ms": 199552,
-      "name": "Era amor",
-      "url": "https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi"
+      "duration_ms": 182040,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

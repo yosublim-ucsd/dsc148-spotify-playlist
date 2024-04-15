@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,461 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,517 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 8 | [Kitty](https://open.spotify.com/track/0CSQeWGaxe4DyGxNMCGwAy) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Kitty](https://open.spotify.com/album/6uaAJL6HfIMXm8vGroXnCz) | 7:20 |
 | 9 | [Healing Song](https://open.spotify.com/track/13h1mul2pc4WfGjriHp6V7) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU) | [Healing Song](https://open.spotify.com/album/7zMbFnLplpqzwRsKYkOpCt) | 6:13 |
 | 10 | [The Gap of Dreams / Nia’s Jig / The Beekeeper](https://open.spotify.com/track/5MH17KACijBOpJZ6VGVibO) | [Altan](https://open.spotify.com/artist/6koEjb4607APXtFtjxvA5T) | [The Gap of Dreams](https://open.spotify.com/album/0eMD7KitnmLQH2cPLdsn0v) | 5:20 |
-| 11 | [She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle](https://open.spotify.com/track/3Erps4RNubE4Ts78nA9eti) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd) | 3:42 |
+| 11 | [She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle](https://open.spotify.com/track/4b1WBCojHWnAPbBbCUSJTE) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:42 |
 | 12 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 2:12 |
 | 13 | [The Mountain Road / Old Concertina Reel \(2 Reels\) \[Live\]](https://open.spotify.com/track/0Oh03sjYtG61Cju0IeO0dd) | [Frankie Gavin](https://open.spotify.com/artist/5repE3sF3Q4joYE2ZJvqQK), [Arty McGlynn](https://open.spotify.com/artist/6ujxf9hiPIBdwz3fRCueZy), [Aidan Coffey](https://open.spotify.com/artist/5uQDb5rnV4uavRr0cfyXzp) | [Irlande \(Live\)](https://open.spotify.com/album/5nBZLZBNajJ5LkWM5HuDHy) | 3:36 |
 | 14 | [The Rocky Road to Dublin / The American Polka](https://open.spotify.com/track/4akhlPKimkDKwOyJbKnugt) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Gather the Good](https://open.spotify.com/album/52GcASolw4fAfosClZlqOK) | 3:57 |

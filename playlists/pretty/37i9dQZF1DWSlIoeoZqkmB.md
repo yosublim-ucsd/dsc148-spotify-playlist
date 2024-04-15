@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

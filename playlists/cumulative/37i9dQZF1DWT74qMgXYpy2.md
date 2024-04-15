@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-93 songs - 6 hr 49 min
+94 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,8 @@
 | [Am Monadh Ruadh](https://open.spotify.com/track/7HvqPocN1in7RuV3hhXDsM) | [Calum Stewart](https://open.spotify.com/artist/6yLbLTmp13cuzEIgSLiNzJ) | [Tales from the North](https://open.spotify.com/album/04qRNsZtywEwW4lxxbuLGl) | 4:44 | 2020-11-11 | 2022-07-29 |
 | [Baby Broon's](https://open.spotify.com/track/2JpwrvZ2xWiSguEVv2FbNM) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [The Desperate Battle of the Birds](https://open.spotify.com/album/08YDV9rF0Z9ddI0URlSkdx) | 4:15 | 2020-11-11 |  |
 | [Baby Broon's](https://open.spotify.com/track/63ZPeVKSEcLbrzvgOBPnw1) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [The Desperate Battle of the Birds](https://open.spotify.com/album/6DLJT9XqbTEepZS9OUwzMG) | 4:15 | 2020-11-11 | 2022-07-29 |
-| [Belfast](https://open.spotify.com/track/0VqM9XNkPtRRNNCD09QDg7) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/5FuSpSOXCFheIcXtCOtH2t) | 5:03 | 2020-11-11 |  |
-| [Belfast](https://open.spotify.com/track/2XTBV1XWGuMCRt5HDJozBh) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/6QgAf49dOUdlLzAY3FC70m) | 5:03 | 2020-11-11 | 2022-07-29 |
+| [Belfast](https://open.spotify.com/track/0VqM9XNkPtRRNNCD09QDg7) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/5FuSpSOXCFheIcXtCOtH2t) | 5:03 | 2020-11-11 | 2024-04-15 |
+| [Belfast](https://open.spotify.com/track/2XTBV1XWGuMCRt5HDJozBh) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/6QgAf49dOUdlLzAY3FC70m) | 5:03 | 2020-11-11 |  |
 | [Beyond](https://open.spotify.com/track/7xrZvMUdpMXTJUPl7XObtz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Beyond](https://open.spotify.com/album/7jtSXw5Ff4tlW3dgac3nvW) | 6:11 | 2020-11-11 |  |
 | [Black Widow](https://open.spotify.com/track/6GZoxN4NQIySN1le1JiZDJ) | [MOXIE](https://open.spotify.com/artist/0JMUkKSGKIdDRjy14SVBpJ) | [Planted](https://open.spotify.com/album/0LofQpJmVQfjkMbm0bXk5q) | 3:15 | 2020-11-11 |  |
 | [Black Widow](https://open.spotify.com/track/6J8i1YypNC0ptPqGFGvvTu) | [MOXIE](https://open.spotify.com/artist/0JMUkKSGKIdDRjy14SVBpJ) | [Planted](https://open.spotify.com/album/0tQ7W6n6nWee0oThxydVWf) | 3:17 | 2020-11-11 | 2024-04-14 |
@@ -24,10 +24,10 @@
 | [Craigs Pipes Set](https://open.spotify.com/track/6hoVvB3I5dDJZJc1MQYI02) | [Éamonn Coyne](https://open.spotify.com/artist/39iXrBtRWk8hVXRV2yHVmo), [Jarlath Henderson](https://open.spotify.com/artist/3GkTA5AsN61gGooCxFMi0O) | [A Celebration of The Music of Gordon Duncan](https://open.spotify.com/album/4bECft961dEBiP8YGnI5Ty) | 4:57 | 2020-11-11 |  |
 | [Day One](https://open.spotify.com/track/1PwJhD1Y652UbAqbNVjQef) | [Rura](https://open.spotify.com/artist/4kKrVjWrGR3f0MfYakhaH8) | [In Praise of Home](https://open.spotify.com/album/2Iy1tDgJBIHS96KOQ9pjl4) | 3:22 | 2020-11-11 |  |
 | [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 | 2020-11-11 | 2024-04-14 |
-| [Deep Blue](https://open.spotify.com/track/78M4hy7uAXClDiw0l17VZy) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:59 | 2020-11-11 | 2022-07-29 |
-| [Deep Blue](https://open.spotify.com/track/7Ar3epMysZVc1b2uHgCXXl) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Deep Blue](https://open.spotify.com/album/7rfiHzh7hFQXL1X3fk4C0J) | 4:59 | 2020-11-11 |  |
-| [Dizzy Blue](https://open.spotify.com/track/029m3I0WPSGMpAnLpo3mOI) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 4:01 | 2020-11-11 | 2022-07-29 |
-| [Dizzy Blue](https://open.spotify.com/track/0nAzhbAFIhNmfw6xMxDZRX) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 4:01 | 2020-11-11 |  |
+| [Deep Blue](https://open.spotify.com/track/78M4hy7uAXClDiw0l17VZy) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:59 | 2020-11-11 |  |
+| [Deep Blue](https://open.spotify.com/track/7Ar3epMysZVc1b2uHgCXXl) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Deep Blue](https://open.spotify.com/album/7rfiHzh7hFQXL1X3fk4C0J) | 4:59 | 2020-11-11 | 2024-04-15 |
+| [Dizzy Blue](https://open.spotify.com/track/029m3I0WPSGMpAnLpo3mOI) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 4:01 | 2020-11-11 |  |
+| [Dizzy Blue](https://open.spotify.com/track/0nAzhbAFIhNmfw6xMxDZRX) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 4:01 | 2020-11-11 | 2024-04-15 |
 | [Duck Egg](https://open.spotify.com/track/6ZxEfnpt6fd0Be1JzdhHp1) | [This is How we Fly](https://open.spotify.com/artist/0zppS0FCwxOAiY4DqL7Sx5) | [Foreign Fields](https://open.spotify.com/album/2A9dbLuuHxL240fqAirIZC) | 3:17 | 2020-11-11 |  |
 | [Echo](https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Abyss](https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf) | 4:55 | 2020-11-11 |  |
 | [Fear an Bhogha](https://open.spotify.com/track/3vlIqVmXTvWDQ014aWuOUy) | [Ensemble Ériu](https://open.spotify.com/artist/0oHB4tkJo4hftYrw6lEfLj) | [Stargazer](https://open.spotify.com/album/6hwt7YS3wcKjUix4rvJlEn) | 5:49 | 2020-11-11 |  |
@@ -38,8 +38,8 @@
 | [Glasgow Roaster](https://open.spotify.com/track/6iOFfNLjZdCU7Uy5M2eiwH) | [Fourth Moon](https://open.spotify.com/artist/1LZMdBdS9JvE66YUoipxa9) | [Ellipsis](https://open.spotify.com/album/4pwZFNo7gWtMuWOQ7jvNHB) | 6:19 | 2020-11-11 | 2022-07-29 |
 | [Hour](https://open.spotify.com/track/0SMc6BnOvn2h1b9X6GrNnN) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:15 | 2020-11-11 |  |
 | [Inspector](https://open.spotify.com/track/6kFd7AKRB5VXT4oFlbKZDk) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:03 | 2020-11-11 |  |
-| [Into the Light](https://open.spotify.com/track/252OaSAHSoMemzy6lcplTf) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/1V1NKL76a4COkkHqSG679P) | 3:57 | 2020-11-11 | 2022-07-29 |
-| [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 | 2020-11-11 |  |
+| [Into the Light](https://open.spotify.com/track/252OaSAHSoMemzy6lcplTf) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/1V1NKL76a4COkkHqSG679P) | 3:57 | 2020-11-11 |  |
+| [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 | 2020-11-11 | 2024-04-15 |
 | [Kadisha](https://open.spotify.com/track/02FrlgjziTVbewcolGVdrI) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 5:05 | 2020-11-11 | 2023-02-23 |
 | [Kadisha](https://open.spotify.com/track/09XtEtZo5vErJmBaPjvW3W) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/2ZJ7ZYvPRBiIB4Y0qgm0UR) | 5:05 | 2020-11-11 |  |
 | [Kings](https://open.spotify.com/track/2t6dq7278w9vxw0PDqz8OE) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq), [Ali Hutton](https://open.spotify.com/artist/72zr6hTSr85kBmNqaCMtwh) | [Symbiosis II](https://open.spotify.com/album/3EpS355iRGU2E2CFG0HMoq) | 6:29 | 2020-11-11 |  |
@@ -68,8 +68,9 @@
 | [Rory Macleod](https://open.spotify.com/track/3dZdwCw2Pcv4PIw2HpqD3t) | [Hò\-rò](https://open.spotify.com/artist/0zqsOJqQ7m8IvHwmouxK6e) | [Hò\-rò](https://open.spotify.com/album/2iYFvATh48DR8wiGy5p4sw) | 5:13 | 2020-11-11 |  |
 | [Rory Macleod](https://open.spotify.com/track/72wF4b3tPyaJ45FaORYkeJ) | [Hò\-rò](https://open.spotify.com/artist/0zqsOJqQ7m8IvHwmouxK6e) | [Hò\-rò](https://open.spotify.com/album/5wiHjOBoV6WJr8kC9rwYSB) | 5:13 | 2020-11-11 | 2022-07-29 |
 | [Seeker Reaper](https://open.spotify.com/track/0RM0PFjIzPWE84D3Amh7gk) | [Chris Stout](https://open.spotify.com/artist/4nk1Ue0YUQetHZOI4z3d70), [Catriona McKay](https://open.spotify.com/artist/4jYK6urOYWLmDkI4YvJW3v) | [Bare Knuckle](https://open.spotify.com/album/0BqQkGT7Ljc5RiO2gYlVde) | 6:13 | 2020-11-11 |  |
+| [She Put on Her Headphones](https://open.spotify.com/track/3iT6kaZo5nfcmA6O5XVZTH) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [The Best of Kris Drever](https://open.spotify.com/album/6kPyQFJtQEKE2O9nWQS4Mw) | 3:15 | 2020-11-11 |  |
 | [She Put on Her Headphones](https://open.spotify.com/track/5GNEuhXeigtlHdbNaHKP2H) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [She Put on Her Headphones](https://open.spotify.com/album/6V4MB4F9kHA4M0fgZN0Bu0) | 3:15 | 2020-11-11 | 2022-07-29 |
-| [She Put on Her Headphones](https://open.spotify.com/track/7B2mHze9T4NespcBwnqp2L) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [Midnight and Closedown](https://open.spotify.com/album/0jNgRIqGqw9RrBRWSCejH0) | 3:15 | 2020-11-11 |  |
+| [She Put on Her Headphones](https://open.spotify.com/track/7B2mHze9T4NespcBwnqp2L) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [Midnight and Closedown](https://open.spotify.com/album/0jNgRIqGqw9RrBRWSCejH0) | 3:15 | 2020-11-11 | 2024-04-15 |
 | [Silent Place](https://open.spotify.com/track/63TBioMfHQUHSCOXwtYPRY) | [Jiggy](https://open.spotify.com/artist/4tNONPUSLz4aSXLv779WMO) | [Translate](https://open.spotify.com/album/4I6lfQC7BYLugZrYWFfjdb) | 2:38 | 2020-11-11 |  |
 | [Silvanus / Bowsie](https://open.spotify.com/track/050dPMMlfWrwnMknKnodLV) | [Ensemble Ériu](https://open.spotify.com/artist/0oHB4tkJo4hftYrw6lEfLj) | [Stargazer](https://open.spotify.com/album/6hwt7YS3wcKjUix4rvJlEn) | 7:51 | 2020-11-11 |  |
 | [Skellig](https://open.spotify.com/track/1PS3ZIz5IAj5caQDupm0LH) | [Jiggy](https://open.spotify.com/artist/4tNONPUSLz4aSXLv779WMO) | [Translate](https://open.spotify.com/album/4I6lfQC7BYLugZrYWFfjdb) | 4:08 | 2020-11-11 |  |

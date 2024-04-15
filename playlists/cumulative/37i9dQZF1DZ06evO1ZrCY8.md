@@ -2,7 +2,7 @@
 
 ### [This Is Heroes Del Silencio](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZrCY8)
 
-> This is Heroes Del Silencio\. The essential tracks, all in one playlist.
+> This is Heroes Del Silencio\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 59 songs - 4 hr 29 min
 

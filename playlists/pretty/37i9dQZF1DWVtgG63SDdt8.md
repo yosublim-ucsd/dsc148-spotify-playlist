@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5hNiAUVPCTgcpy8vljCxzs">Ellie Holcomb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,083 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,203 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Of My Days \- Psalm 23](https://open.spotify.com/track/1Eai86fGec7emKNsYzAUdx) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [All of My Days](https://open.spotify.com/album/1w18hePhR6H40r1bvhegck) | 4:00 |
 | 2 | [Holy Forever](https://open.spotify.com/track/13ZOxuowJNhbKqIANs8Kf8) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Chapel Sessions Vol\. 2](https://open.spotify.com/album/6MQFiwdzCIAD3Pt1B0sMlJ) | 3:53 |
-| 3 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/3VQneqtvB0iHKII1hJb3Wx) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 3 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 4 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 |
 | 5 | [Hold On](https://open.spotify.com/track/4UZDdmrCg7jOwQJiMnN36S) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Hold On](https://open.spotify.com/album/4fU9ITUXYd3QqGq1PrqwAa) | 6:02 |
 | 6 | [I've Been Waiting \- Live](https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Purpose Worship](https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH) | [Believe \(Live\)](https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4) | 7:08 |

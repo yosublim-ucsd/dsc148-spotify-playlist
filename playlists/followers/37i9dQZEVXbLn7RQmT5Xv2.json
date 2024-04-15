@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 29235,
+  "2024-04-15": 29257,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Egypt.",
   "name": "Top 50 - Egypt",
@@ -755,7 +755,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0qC4KxOmWoSaMqwj9rHp49"
@@ -12035,7 +12035,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 190714,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"

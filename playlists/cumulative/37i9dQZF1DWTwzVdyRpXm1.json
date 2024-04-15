@@ -319,6 +319,32 @@
     },
     {
       "album": {
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
+      },
+      "artists": [
+        {
+          "name": "Noman Ali Rajper",
+          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
+        },
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289974,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
+    },
+    {
+      "album": {
         "name": "Admirin' You (feat. Preston Pablo)",
         "url": "https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF"
       },

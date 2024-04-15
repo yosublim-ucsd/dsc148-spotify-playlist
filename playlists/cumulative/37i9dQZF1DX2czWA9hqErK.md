@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-651 songs - 1 day 12 hr 24 min
+652 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [I'll Be Waiting](https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:52 | 2023-08-01 | 2024-01-27 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-01-20 | 2023-08-07 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-20 | 2023-02-12 |
+| [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 |  |
 | [I'm So Happy \- Acoustic](https://open.spotify.com/track/3tnNZ5fg5AHlFwTW8j9ywH) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I’m So Happy](https://open.spotify.com/album/3ocDAi8hhp7ebXbUnweRNy) | 2:53 | 2021-12-16 | 2022-01-12 |
 | [I'm Sorry](https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [I'm Sorry](https://open.spotify.com/album/64GxNIJkBn5FZ0J493bID0) | 3:00 | 2021-12-16 | 2022-01-01 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 | 2023-11-08 |
@@ -516,7 +517,7 @@
 | [Slowly](https://open.spotify.com/track/4Q3sVNzOHPZRijeORiAxia) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Slowly](https://open.spotify.com/album/1MmWUjcJzazvFlXZmAAGm9) | 3:49 | 2021-12-16 | 2022-02-21 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-03 | 2024-01-27 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-10-03 |  |
-| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-29 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-29 | 2024-04-15 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/1wKPXYDPDSO4czPZlyZffn) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Sober](https://open.spotify.com/album/67HtuVVvU61JwYnW7oeXpe) | 3:00 | 2022-01-25 | 2022-07-28 |
 | [Sober](https://open.spotify.com/track/5r1OZrTjYsi6uu8qIBP6Jr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sober](https://open.spotify.com/album/5pwoiSaHQG9I7aPNsgZIcZ) | 3:14 | 2021-12-16 | 2022-01-17 |

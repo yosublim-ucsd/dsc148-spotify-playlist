@@ -1,12 +1,12 @@
 {
-  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
+  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
   "num_followers": 46527,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDVlNDhiYTY4MDhhYWY1YWRiMTBiY2YxZjlkOWIwMGQy",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGM1MjI2ZmI4ODk1YTgxMzY2M2U4YmM2M2QyMjY5OGE4",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 153678,
-      "name": "Nunca Sin Ti",
-      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YakiFest, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 186502,
       "name": "Te Compro - En Vivo",
       "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 153678,
+      "name": "Nunca Sin Ti",
+      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 164195,
       "name": "A Qu\u00e9 Le Tiras",
       "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 224413,
       "name": "La Vida Del Dorian",
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 184868,
-      "name": "Porque Llegaste Tu",
-      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
+      "duration_ms": 190599,
+      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
+      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
-        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 190599,
-      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
-      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
+      "duration_ms": 184868,
+      "name": "Porque Llegaste Tu",
+      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pude Salvarnos",
-        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "No Pude Salvarnos",
-      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166751,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pude Salvarnos",
+        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "No Pude Salvarnos",
+      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
     },
     {
       "added_at": null,

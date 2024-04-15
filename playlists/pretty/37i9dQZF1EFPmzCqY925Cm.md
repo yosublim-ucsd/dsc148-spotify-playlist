@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 9 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 10 | [C’est La Vie](https://open.spotify.com/track/2AYAqt3S3I0LNatVAgcoVK) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [C’est La Vie](https://open.spotify.com/album/2vHsnOZM4N9PgD3orKhtHB) | 3:03 |
 | 11 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
-| 12 | [What You Want](https://open.spotify.com/track/7hjXgc6eOXtYDEgCNROUMs) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [What You Want](https://open.spotify.com/album/1FmlNS4zMot7O3l0yjT30W) | 2:54 |
-| 13 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
+| 12 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
+| 13 | [What You Want](https://open.spotify.com/track/7hjXgc6eOXtYDEgCNROUMs) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [What You Want](https://open.spotify.com/album/1FmlNS4zMot7O3l0yjT30W) | 2:54 |
 | 14 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 15 | [If You're Gonna Leave](https://open.spotify.com/track/0kWQkRj6pUnZkfYd5vC3uM) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [If You're Gonna Leave](https://open.spotify.com/album/7ClqmH7mHLiaboyJXNpdyb) | 3:05 |
 | 16 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 33 | [Keep It Moving](https://open.spotify.com/track/1snB7DZSDXs8FizxMf9Z6T) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:09 |
 | 34 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 
-Snapshot ID: `Mjg1NTEwNjYsMDAwMDAwMDBkMTQxM2NjMWNiOTliZjNmNmIyOGI0ZjVlZGM3NDc4Nw==`
+Snapshot ID: `Mjg1NTI2MjAsMDAwMDAwMDAxOGI1MDg3NDQyNTI3ZGYyZTVhOTMyOTM5NzU0NTlhYQ==`

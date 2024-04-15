@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-228 songs - 15 hr 47 min
+229 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Got Me a Party](https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Got Me a Party](https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk) | 2:20 | 2023-01-20 |  |
 | [Gravity](https://open.spotify.com/track/3KulI9oSHnhB9OZ41O3zMb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY) | 4:05 | 2022-05-25 | 2022-07-28 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-07-08 |  |
-| [Grease the Wheel](https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz), [Dave Smith](https://open.spotify.com/artist/1s4eoQWvWMQLJaQSRCWjdQ), [Rick Steff](https://open.spotify.com/artist/56xwtEWZGNJmyXZjERQ7OX), [Steve Potts](https://open.spotify.com/artist/2Z43xSYYSpeO07H2BYQD53) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:11 | 2023-08-18 |  |
+| [Grease the Wheel](https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz), [Dave Smith](https://open.spotify.com/artist/1s4eoQWvWMQLJaQSRCWjdQ), [Rick Steff](https://open.spotify.com/artist/56xwtEWZGNJmyXZjERQ7OX), [Steve Potts](https://open.spotify.com/artist/2Z43xSYYSpeO07H2BYQD53) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:11 | 2023-08-18 | 2024-04-15 |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-11 |  |
 | [He Was a Friend of Mine](https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8) | 3:17 | 2022-11-17 |  |
 | [He Was a Friend of Mine](https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag) | 3:17 | 2022-05-25 | 2022-11-24 |
@@ -187,6 +187,7 @@
 | [Same Old Blues](https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:59 | 2022-05-25 |  |
 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 | 2022-07-08 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 | 2022-07-08 | 2024-04-13 |
+| [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5L6Yh5jeJeEa50U0Gy11yh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/75vF8e9rzmbRAmieXf57Ev) | 4:57 | 2023-11-24 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2022-05-25 | 2022-07-29 |
 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 | 2022-07-08 |  |
 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 | 2022-05-25 |  |

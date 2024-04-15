@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,810 likes - 40 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,796 likes - 40 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 11 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 |
 | 12 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 |
 | 13 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 6:00 |
-| 14 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 |
-| 15 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
+| 14 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
+| 15 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 |
 | 16 | [Water from the Same Source](https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4) | 6:18 |
 | 17 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
 | 18 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |

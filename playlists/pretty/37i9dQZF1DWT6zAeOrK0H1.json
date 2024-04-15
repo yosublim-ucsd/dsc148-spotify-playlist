@@ -1,6 +1,6 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Bleachers",
-  "num_followers": 110848,
+  "num_followers": 110899,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
         "name": "Synchronize",
         "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -603,6 +619,22 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -867,22 +899,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "everything is alive",
-        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 273492,
-      "name": "alife",
-      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
       "artists": [
         {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Discount De Kooning (Last One Standing)",
-      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -927,6 +943,22 @@
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 229165,
+      "name": "Discount De Kooning (Last One Standing)",
+      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -967,6 +999,22 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
+        "name": "Spirit Mission",
+        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Funky Galileo",
+      "url": "https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
         "name": "Weird Goodbyes (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
       },
@@ -999,22 +1047,6 @@
       "duration_ms": 213080,
       "name": "Nothing To Declare",
       "url": "https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
-        "name": "Spirit Mission",
-        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Funky Galileo",
-      "url": "https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1067,6 +1099,22 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Deep End (Paul's in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1115,38 +1163,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Deep End (Paul's in Pieces)",
-      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 241776,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 207281,
-      "name": "Sanity (Re: Jack Antonoff)",
-      "url": "https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Here Comes Everybody",
         "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
       },
@@ -1231,6 +1247,22 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207281,
+      "name": "Sanity (Re: Jack Antonoff)",
+      "url": "https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ"
       },
@@ -1243,22 +1275,6 @@
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1307,22 +1323,6 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO"
     }
   ],
   "unique_name": "The Best Bands In The Universe \ud83e\ude90",

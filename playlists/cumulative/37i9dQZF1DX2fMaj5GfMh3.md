@@ -4,7 +4,7 @@
 
 > Perrie op de cover van Fresh Pop!
 
-544 songs - 1 day 3 hr 29 min
+545 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Find Myself Again](https://open.spotify.com/track/6P7sm0qA1xnIyBpwtaBdW8) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Find Myself Again](https://open.spotify.com/album/1HjbOhv4Pe15uAS3B2AMwL) | 3:57 | 2023-11-30 | 2024-03-09 |
 | [FLIGHT RISK](https://open.spotify.com/track/5gQO8Ik1hBmcDMMMjvmRtL) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FLIGHT RISK](https://open.spotify.com/album/5p1LIZxLu9O2AMzPKAR8kX) | 2:43 | 2024-02-01 | 2024-03-22 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-24 | 2023-04-15 |
-| [Fly Like Me](https://open.spotify.com/track/3Iw5IljZq38cVFJr4v0yPL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/28d6QfMqewxmXou3eQgM4H) | 3:02 | 2024-04-04 |  |
+| [Fly Like Me](https://open.spotify.com/track/2EMqaQVVspxlhTeE0X1boZ) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:02 | 2024-04-12 |  |
+| [Fly Like Me](https://open.spotify.com/track/3Iw5IljZq38cVFJr4v0yPL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/28d6QfMqewxmXou3eQgM4H) | 3:02 | 2024-04-04 | 2024-04-15 |
 | [Forever Me](https://open.spotify.com/track/6APUqJb53AuWGcSapZGSDB) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [Forever Me](https://open.spotify.com/album/0wUbDWBAisWlhtiVGQE4KP) | 2:42 | 2023-04-13 | 2023-07-22 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 |  |
 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-04-27 | 2023-08-11 |

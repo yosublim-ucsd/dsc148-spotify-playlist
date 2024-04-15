@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247181,
+  "num_followers": 247191,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Joys",
         "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 135218,
       "name": "Joys",
       "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Melody A.M.",
         "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218320,
       "name": "Eple",
       "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Say A Little Prayer",
-        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Amazonian Rockstar",
-          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
-        }
-      ],
-      "duration_ms": 209351,
-      "name": "Say A Little Prayer",
-      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -1347,18 +1327,42 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+        "name": "Say A Little Prayer",
+        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Amazonian Rockstar",
+          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
         }
       ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+      "duration_ms": 209351,
+      "name": "Say A Little Prayer",
+      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "The Way You Say (Remixes)",
+        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "The Way You Say - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "The Way You Say (Remixes)",
-        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 175680,
-      "name": "The Way You Say - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Cinecitt\u00e0",
-        "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Alex Metric",
-          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
-        }
-      ],
-      "duration_ms": 208358,
-      "name": "Cinecitt\u00e0",
-      "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Asara (feat. Bambo Cissokho)",
         "url": "https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN"
       },
@@ -1735,18 +1711,26 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+        "name": "Cinecitt\u00e0",
+        "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
         }
       ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
+      "duration_ms": 208358,
+      "name": "Cinecitt\u00e0",
+      "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 315608,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 234926,
+      "name": "Era - Edit",
+      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2024-04-05 00:01:00",

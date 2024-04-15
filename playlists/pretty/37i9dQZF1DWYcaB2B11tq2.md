@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,129 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,294 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 46 | [Yo Soy Así](https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Más](https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp) | 3:58 |
 | 47 | [Tu Mirada](https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Javier Chavez](https://open.spotify.com/artist/3F5Mp81LwhGyzyxBDcObcs) | [Tu Mirada](https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH) | 4:20 |
 | 48 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
-| 49 | [Dios es Fiel](https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv) | [Josué Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx) | 4:03 |
-| 50 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
-| 51 | [Como Dijiste](https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta al Jardin](https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ) | 4:59 |
+| 49 | [Como Dijiste](https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta al Jardin](https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ) | 4:59 |
+| 50 | [Dios es Fiel](https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv) | [Josué Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx) | 4:03 |
+| 51 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
 | 52 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 53 | [Soy Tu Dios](https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Agua](https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3) | 3:54 |
 | 54 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |

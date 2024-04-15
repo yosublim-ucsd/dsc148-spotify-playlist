@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,817 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,824 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 18 | [Just like me](https://open.spotify.com/track/6yX4Q9y3ehu8iJ5PHQX0f7) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sangyo](https://open.spotify.com/album/2RoYeLGxsRsiS1V7CvNg9q) | 3:20 |
 | 19 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/1HfT1AF5VNwMLDHf6A0Vwi) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 2:48 |
 | 20 | [Mr.Heartache](https://open.spotify.com/track/2v0KcIpe8Fum84c7CMTMzE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/6yZiidnATIgSBcKsrjZxji) | 5:09 |
-| 21 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 |
+| 21 | [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 |
 | 22 | [名残](https://open.spotify.com/track/18rFzIFmbIlICaLtOhNkDD) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [CIRCUS](https://open.spotify.com/album/7qQegy1ol3L6QZmBdp3TzC) | 2:48 |
 | 23 | [Kimi ni Sayonara](https://open.spotify.com/track/2dj9qLXCyP9KoY8bbJ1Kaa) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 4:23 |
 | 24 | [Koibito Kakkokari](https://open.spotify.com/track/2JMSt6yDij4tLfVcYXwLZ6) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Koibito Kakkokari](https://open.spotify.com/album/5Ud6PzQiFQdlkCBV7u1enY) | 3:41 |

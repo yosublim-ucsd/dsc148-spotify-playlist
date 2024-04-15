@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Doja Cat. The essential tracks, all in one playlist.",
+  "description": "This Is Doja Cat. Los temas esenciales, todos en una lista.",
   "name": "This Is Doja Cat",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 285053,
       "name": "MOOO!",
       "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 187040,
       "name": "Rules",
       "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 195213,
       "name": "Won't Bite (feat. Smino)",
       "url": "https://open.spotify.com/track/7k51pIqTGEHHZOnpI11Qq2"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 124106,
       "name": "WYM Freestyle",
       "url": "https://open.spotify.com/track/1qimDZEBflJE25RXkF24Yg"

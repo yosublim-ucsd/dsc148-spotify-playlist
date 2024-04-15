@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 4755,
+  "2024-04-15": 4757,
   "date_first_scraped": "2023-01-14",
-  "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Bostik. Los temas esenciales, todos en una lista.",
   "name": "This Is Banda Bostik",
   "tracks": [
     {
@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241826,
+      "name": "El Vigilante",
+      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
+    },
+    {
+      "album": {
         "name": "Viajero",
         "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
       },
@@ -521,7 +539,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 359653,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg"

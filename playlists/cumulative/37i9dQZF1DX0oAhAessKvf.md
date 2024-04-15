@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-169 songs - 9 hr 2 min
+170 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [En La Cama](https://open.spotify.com/track/0smQWysb4n7WOVGv5YMLnF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Haciendo Escante](https://open.spotify.com/album/018XQ1P5cLeJPhIeH4xL4l) | 2:37 | 2021-12-20 | 2022-07-29 |
 | [En la Cama](https://open.spotify.com/track/5AYkL3GvrhBhjplMdG89BT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Pina All Star](https://open.spotify.com/album/2KaPz9oimH1NIEJMhInB8a) | 2:37 | 2021-12-20 | 2022-11-14 |
 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 | 2021-12-20 |  |
-| [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 | 2021-12-20 |  |
+| [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 | 2021-12-20 | 2024-04-15 |
 | [Eres Tú](https://open.spotify.com/track/7Fp2EJFwuAgNm1Ea8fRilz) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 2](https://open.spotify.com/album/4au8VGPKvHYnrVeEPY3ouJ) | 3:03 | 2021-12-20 | 2022-07-27 |
 | [Esa Chica No Me Puede Vacilar](https://open.spotify.com/track/3EOw3VEjwmWftsGhNoYwhZ) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [House Merengue / Rap](https://open.spotify.com/album/7G8yBokZdxJIFo0n9JySYq) | 4:18 | 2021-12-20 | 2022-07-27 |
 | [Estan Locos](https://open.spotify.com/track/0yEPNpM5OwxcoSKe1zPEJM) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Playero DJ Live](https://open.spotify.com/album/0zgWFTduXHeUH0eWkM96Su) | 3:01 | 2021-12-20 | 2022-07-28 |
@@ -80,6 +80,7 @@
 | [La Combinacion Perfercta Old School](https://open.spotify.com/track/3crfoeHYf54mrjkONHq5jN) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero DJ Live](https://open.spotify.com/album/0qtFSFZ5TdkUESepdZJ3FD) | 6:56 | 2021-12-20 | 2022-07-29 |
 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 | 2021-12-20 |  |
 | [La Danza Bella](https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:19 | 2021-12-20 |  |
+| [La Luna y las Estrellas](https://open.spotify.com/track/0ChOTJ4nI4oMyUzzbY5I83) | [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [Bailando](https://open.spotify.com/album/77YD9psZrQbvAE79dHbp28) | 3:10 | 2024-03-25 |  |
 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 | 2021-12-20 |  |
 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 | 2021-12-20 | 2022-09-29 |
 | [Latigazo](https://open.spotify.com/track/25cPUTGr9amjoO7cNrYFT0) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cangri.com](https://open.spotify.com/album/6R1lHlXtA12JRU6Fh0hj6h) | 2:31 | 2021-12-20 | 2022-07-29 |

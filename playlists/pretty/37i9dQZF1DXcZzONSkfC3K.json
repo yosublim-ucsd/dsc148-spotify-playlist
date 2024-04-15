@@ -1,6 +1,6 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 149051,
+  "num_followers": 149089,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
@@ -239,38 +239,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Exitos y M\u00e1s",
-        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 324466,
-      "name": "Siempre Ser\u00e9",
-      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -287,18 +255,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Exitos y M\u00e1s",
+        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
         }
       ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+      "duration_ms": 324466,
+      "name": "Siempre Ser\u00e9",
+      "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -323,18 +291,34 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Contraste En Salsa",
-        "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Cheo",
+        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -355,6 +339,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Contraste En Salsa",
+        "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Maelo...El \u00danico",
         "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
@@ -367,38 +367,6 @@
       "duration_ms": 339240,
       "name": "El Nazareno",
       "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -419,18 +387,34 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -455,22 +439,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/3ZdJph6HFGqyiyv80cC87S"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 274653,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 449640,
-      "name": "Aparentemente - En Vivo",
-      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+      "duration_ms": 449640,
+      "name": "Aparentemente - En Vivo",
+      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -567,6 +551,22 @@
       "duration_ms": 196226,
       "name": "Que Se Sepa",
       "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "No Tires La Primera Piedra",
-      "url": "https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 420040,
       "name": "Lo Mio Es Amor - En Vivo",
       "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 296226,
+      "name": "No Tires La Primera Piedra",
+      "url": "https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -791,42 +791,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "25 Rosas",
-      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Back To The Future",
-        "url": "https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd"
-      },
-      "artists": [
-        {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "El Apartamento",
-      "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "25/7",
         "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
       },
@@ -847,18 +811,54 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Yo",
-        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
       "artists": [
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
+      "duration_ms": 279106,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Lo Qu\u00e9 Pide la Gente",
+        "url": "https://open.spotify.com/album/1ytBPWZAHfEI6VUwCdY8Ag"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 402360,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/0E4o4reybByGwmGnfSDi1S"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Back To The Future",
+        "url": "https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "El Apartamento",
+      "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
     }
   ],
   "unique_name": "Salsa Boricua",

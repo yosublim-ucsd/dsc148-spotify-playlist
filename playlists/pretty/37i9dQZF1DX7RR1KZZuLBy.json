@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 44526,
+  "num_followers": 44621,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
       "artists": [
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Good Plans / Doxology (Live)",
-        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 495246,
-      "name": "Good Plans / Doxology - Live",
-      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Thapelo Yaka",
@@ -995,6 +979,22 @@
       "duration_ms": 288902,
       "name": "Ba Buwa Ka Wena",
       "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'",
+        "url": "https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23"
+      },
+      "artists": [
+        {
+          "name": "Solly Moholo",
+          "url": "https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z"
+        }
+      ],
+      "duration_ms": 328360,
+      "name": "Banaka Nako Ea Me E Haufi",
+      "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
     }
   ],
   "unique_name": "Gospel Greatness",

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 11298,
+  "2024-04-15": 11299,
   "date_first_scraped": "2021-12-29",
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
   "name": "This Is Salif Keita",
@@ -653,6 +653,32 @@
       "duration_ms": 285619,
       "name": "Itarafo",
       "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
+    },
+    {
+      "album": {
+        "name": "Kabe",
+        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Nomis (FR)",
+          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kabe",
+      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-60 songs - 3 hr 0 min
+61 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 | 2023-06-05 |  |
 | [Abbronzatissima](https://open.spotify.com/track/6TZXXZZi1N0ZeMYdxdVWeY) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Abbronzatissima](https://open.spotify.com/album/1GiDW3ap0w0IoYYKR151dL) | 2:29 | 2023-06-05 |  |
 | [Abbronzatissima](https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:29 | 2023-02-27 | 2024-04-14 |
-| [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 | 2023-02-27 |  |
+| [Acapulco](https://open.spotify.com/track/4DqJx5dX9gppOdPDAA2F74) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Voulez Vous Danser](https://open.spotify.com/album/1F56RB9ZGKIXvgdN9tmeYr) | 3:43 | 2023-06-05 |  |
+| [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 | 2023-02-27 | 2024-04-15 |
 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 | 2023-02-27 |  |
 | [Balla](https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Le Sue Piu' Belle Canzoni](https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E) | 3:17 | 2023-02-27 |  |
 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 | 2023-02-27 |  |

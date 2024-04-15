@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 36709,
+  "2024-04-15": 36713,
   "date_first_scraped": "2023-02-25",
   "description": "Ideale muziek voor de werkdag ",
   "name": "Werkdag FM",
@@ -2546,6 +2546,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0BvwpL6wdl6FacJayiN1GK"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0G1eL9g083NCOyvB7tXwZC"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic"
       },
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 205108,
       "name": "Lay Your Weapons Down - Acoustic",
       "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"

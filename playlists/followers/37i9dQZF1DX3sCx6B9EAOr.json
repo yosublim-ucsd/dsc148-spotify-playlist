@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 118949,
+  "2024-04-15": 118957,
   "date_first_scraped": "2021-12-21",
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
   "name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
@@ -2487,6 +2487,24 @@
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174517,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg"
     },
     {
       "album": {
@@ -5241,7 +5259,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"

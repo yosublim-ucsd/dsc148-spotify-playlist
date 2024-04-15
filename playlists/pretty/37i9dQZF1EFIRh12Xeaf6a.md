@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,688 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,10 +201,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 191 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 |
 | 192 | [Long Way To Be Happy](https://open.spotify.com/track/6rS2B0RwdfPLcMWHuugcoY) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 |
 | 193 | [Just a Little Girl](https://open.spotify.com/track/19qa09WjiwykZ9YFi6pEJE) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:57 |
-| 194 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
-| 195 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
-| 196 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
-| 197 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 194 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 195 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
+| 196 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
+| 197 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
 | 198 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
 | 199 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
 | 200 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg1NTEwNzgsMDAwMDAwMDBiNzQxOTc4NTI1ZjM3NWY5NDI1MDZkNDcyZTU2YjZiYg==`
+Snapshot ID: `Mjg1NTI2MzAsMDAwMDAwMDBhNjYxYzUyNWIyZTVkOTc4YThhYzJiZjYwMDE2YmRjMw==`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 398854,
+  "num_followers": 398971,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Pon P\u00f3n",
-        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
+      "duration_ms": 312066,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 312066,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2024-04-11 22:00:00",

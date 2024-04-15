@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 774606,
+  "num_followers": 774631,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGI0YzRkY2I4ZDljMTU0NGZjOWM3NzYxYmUwNTdlYmU5",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDllMjZhNGE2YWY0ZTliZDA2YzZiYmY2MTk2ODIxYWQx",
   "tracks": [
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Collar Full",
-      "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
+      "duration_ms": 197466,
+      "name": "Far Too Young to Die",
+      "url": "https://open.spotify.com/track/4NTL7fT4eqfPao94lmqth2"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Far Too Young to Die",
-      "url": "https://open.spotify.com/track/4NTL7fT4eqfPao94lmqth2"
+      "duration_ms": 198466,
+      "name": "Collar Full",
+      "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,307 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,341 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 86 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
 | 87 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
 | 88 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:13 |
-| 89 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
-| 90 | [Los Grillos](https://open.spotify.com/track/4zYdP9uCEjZ0Ww4v7wL2PJ) | [Gerardo Pablo](https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh) | [Escucha a Gerardo Pablo](https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN) | 2:50 |
+| 89 | [Los Grillos](https://open.spotify.com/track/4zYdP9uCEjZ0Ww4v7wL2PJ) | [Gerardo Pablo](https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh) | [Escucha a Gerardo Pablo](https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN) | 2:50 |
+| 90 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
 | 91 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 92 | [Sembrando Amor](https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV) | 4:30 |
 | 93 | [Buscando un Ángel](https://open.spotify.com/track/6WvMIrL19C6NagMzPdbxnU) | [Gerardo Pablo](https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh) | [Escucha a Gerardo Pablo](https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN) | 2:45 |

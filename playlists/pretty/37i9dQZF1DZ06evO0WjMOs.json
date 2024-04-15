@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 27495,
+  "num_followers": 27557,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGZiNDc2ODk2ZThhYmNkYjc2OTZmMTkxZjM0OTgwY2I5",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGZiYWMwMjgxNDZiOGZjOWZlM2Y3NTdkYzdhMzFjMWEy",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 92040,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
+      "duration_ms": 171840,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 171840,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 100266,
-      "name": "The Elevator",
-      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
+      "duration_ms": 224960,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Come Down Soon",
-      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
+      "duration_ms": 100266,
+      "name": "The Elevator",
+      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
     },
     {
       "added_at": null,

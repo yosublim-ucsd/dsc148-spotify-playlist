@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 401579,
+  "num_followers": 401699,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -215,26 +215,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Mein kleines Herz (Bam Bam)",
-        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+        "name": "Midnight Lady",
+        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
       },
       "artists": [
         {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         },
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Shaun Baker",
-          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+          "name": "Knossi",
+          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
         }
       ],
-      "duration_ms": 150090,
-      "name": "Mein kleines Herz (Bam Bam)",
-      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+      "duration_ms": 207554,
+      "name": "Midnight Lady",
+      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -259,6 +255,30 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+        }
+      ],
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 265494,
       "name": "Bleib in der Schule",
       "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Midnight Lady",
-        "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        },
-        {
-          "name": "Knossi",
-          "url": "https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T"
-        }
-      ],
-      "duration_ms": 207554,
-      "name": "Midnight Lady",
-      "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Mitten in die Scheibe",
         "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 167280,
       "name": "Can You English Please",
       "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -719,6 +719,26 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -803,26 +823,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
         "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
       },
@@ -855,6 +855,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Dorfdisko",
         "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "DORFDiSKO ZWEi",
         "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 198160,
       "name": "PECH & SCHWEFEL",
       "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Saufen aufm Spielplatz",
         "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 212957,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Mallemoment",
+        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
+      },
+      "artists": [
+        {
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        }
+      ],
+      "duration_ms": 169238,
+      "name": "Mallemoment",
+      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Mallemoment",
-        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        }
-      ],
-      "duration_ms": 169238,
-      "name": "Mallemoment",
-      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 134826,
       "name": "Igel",
       "url": "https://open.spotify.com/track/64r7hoDyAEesRYT1XI0lTl"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1487,18 +1487,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+        "name": "Ciao 3 Tage Blau",
+        "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "David Dichter",
+          "url": "https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj"
+        },
+        {
+          "name": "Inki Nici",
+          "url": "https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+      "duration_ms": 188000,
+      "name": "Ciao 3 Tage Blau",
+      "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
     }
   ],
   "unique_name": "Malle Party 2024",

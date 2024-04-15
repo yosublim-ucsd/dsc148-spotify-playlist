@@ -1,6 +1,6 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 48459,
+  "num_followers": 48470,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Waiting All My Life",
         "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 193548,
       "name": "Waiting All My Life",
       "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
-      },
-      "artists": [
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Ready For Your Love",
         "url": "https://open.spotify.com/album/7bvIM3qgpX7b252SMdiGpz"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 142372,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/2KNGqTAuFjtHnOwMHM2pSW"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Not Your House",
+        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Usually Quiet",
+          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
+        }
+      ],
+      "duration_ms": 235918,
+      "name": "Not Your House",
+      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
       },
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
       },
@@ -1239,26 +1239,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Down from this High",
-        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
       "artists": [
         {
-          "name": "k\u00e1nji",
-          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         },
         {
-          "name": "N\u00d8TALUVA",
-          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
-        },
-        {
-          "name": "CLGN",
-          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 115297,
-      "name": "Down from this High",
-      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1307,22 +1303,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
       "artists": [
         {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
         },
         {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        },
+        {
+          "name": "CLGN",
+          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
         }
       ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1343,6 +1343,26 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Not Your House",
-        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Usually Quiet",
-          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
-        }
-      ],
-      "duration_ms": 235918,
-      "name": "Not Your House",
-      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "MNRT",
+          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1459,26 +1479,6 @@
       "duration_ms": 170086,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "MNRT",
-          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+        "name": "Talk (Remixes)",
+        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+      "duration_ms": 192928,
+      "name": "Talk (with Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     }
   ],
   "unique_name": "Dance Chill",

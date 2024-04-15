@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
+  "description": "This is Pauline Oliveros. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 123266,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/5bvxJ8sY9LsMo9qR0HfNoS"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 563373,
       "name": "III Of IV",
       "url": "https://open.spotify.com/track/5v2R74iTgntgSFm1kYS9d1"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 243840,
       "name": "Morphotropic",
       "url": "https://open.spotify.com/track/6lOzGJLSRY374dHqBpIEWU"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 223960,
       "name": "Reverberations",
       "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 329586,
       "name": "Shear Viscosity",
       "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 777266,
       "name": "The Well / The Gentle",
       "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 244080,
       "name": "Three Pieces III",
       "url": "https://open.spotify.com/track/6QizflgSNHWGIUAxCG1dId"

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 29326,
+  "2024-04-15": 29341,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -567,6 +567,28 @@
       "duration_ms": 139460,
       "name": "5 Nights Crazy",
       "url": "https://open.spotify.com/track/7vbXtUsr3lSZtBzwL6lpVg"
+    },
+    {
+      "album": {
+        "name": "52 & HAUNTED",
+        "url": "https://open.spotify.com/album/3uPela7bf7RAtg7EnkfQ2M"
+      },
+      "artists": [
+        {
+          "name": "ALBLAK 52",
+          "url": "https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq"
+        },
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "52 & HAUNTED",
+      "url": "https://open.spotify.com/track/4OWzUW3tkhBVwIwE5HLpfu"
     },
     {
       "album": {
@@ -2339,7 +2361,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -6467,6 +6489,24 @@
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "album": {
@@ -18361,7 +18401,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"

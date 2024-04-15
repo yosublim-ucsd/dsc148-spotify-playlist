@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938288,
+  "num_followers": 938346,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
       },
@@ -1779,6 +1795,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "On My Line",
         "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
       },
@@ -1795,22 +1827,6 @@
       "duration_ms": 202462,
       "name": "On My Line",
       "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Fool Me",
-        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1911,30 +1927,6 @@
       "duration_ms": 137204,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "B\u20acNZ",
-        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "B\u20acNZ",
-      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
     }
   ],
   "unique_name": "Shuffle Syndrome",

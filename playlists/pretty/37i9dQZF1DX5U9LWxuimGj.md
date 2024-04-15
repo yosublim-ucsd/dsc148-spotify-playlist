@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carin Leon & Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,937 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,983 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 7 | [Tennessee Whiskey \- Spanish](https://open.spotify.com/track/0VLylIKKjRZLM1fJ3BkhD6) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 3:34 |
 | 8 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 |
 | 9 | [Beautiful Crazy \(Bella Locura\) \- Spanish](https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:56 |
-| 10 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 |
+| 10 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 |
 | 11 | [South On Me](https://open.spotify.com/track/4DNhJNM7vu2fYWKJllUBeu) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [South On Me](https://open.spotify.com/album/1KesYtUzvUIhgTksXIQLh5) | 3:30 |
 | 12 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
 | 13 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 |

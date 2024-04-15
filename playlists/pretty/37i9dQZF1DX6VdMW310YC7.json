@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3712267,
+  "num_followers": 3712484,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 222605,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -359,22 +355,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 222605,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 141785,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 216926,
       "name": "Loving Blind",
       "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "This Is It",
         "url": "https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 263503,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 170721,
       "name": "The Chase (Edit)",
       "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Beautiful Life (Madism Remix)",
-        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Beautiful Life - Madism Remix",
-      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Wholehearted EP",
         "url": "https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 230074,
       "name": "Brave",
       "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Beautiful Life (Madism Remix)",
+        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Beautiful Life - Madism Remix",
+      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1499,6 +1499,50 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 231784,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Stay Still",
+        "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 273170,
+      "name": "Stay Still",
+      "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Lost In The Melody",
         "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
       },
@@ -1551,26 +1595,6 @@
       "duration_ms": 288387,
       "name": "Rave",
       "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 231784,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1639,22 +1663,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
+        "name": "Waiting For The Sun",
+        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
         }
       ],
-      "duration_ms": 247447,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
+      "duration_ms": 222278,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1679,18 +1699,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Waiting For The Sun",
-        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 222278,
-      "name": "Waiting For The Sun",
-      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
+      "duration_ms": 247447,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1715,26 +1739,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Highest Love",
-        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 297374,
-      "name": "Highest Love",
-      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
@@ -1747,6 +1751,22 @@
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1791,18 +1811,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc"
+        "name": "Highest Love",
+        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
+      "duration_ms": 297374,
+      "name": "Highest Love",
+      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1895,30 +1919,6 @@
       "duration_ms": 196500,
       "name": "Friday Lake",
       "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Stay Still",
-        "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 273170,
-      "name": "Stay Still",
-      "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
     },
     {
       "added_at": "2024-04-12 04:00:00",

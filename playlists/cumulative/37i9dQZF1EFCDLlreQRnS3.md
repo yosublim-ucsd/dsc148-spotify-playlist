@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 17 min
+103 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/track/51C4aVMVoqIFPSJFmS9ccf) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/album/6yKIoCB54wFFE0KRFaCp9d) | 2:34 | 2024-01-29 |  |
 | [Let It Go](https://open.spotify.com/track/3svOpX4WPGJk9ZQ34D3c9s) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Highs & Lows](https://open.spotify.com/album/3NPxIfnIdVZiKAOZxe6YVA) | 2:57 | 2024-01-29 |  |
 | [life was a beach](https://open.spotify.com/track/6NvcOlh7gtas2XCW2KACYo) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 2:54 | 2024-01-29 |  |
+| [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 | 2024-04-14 |  |
 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 | 2024-01-29 |  |
 | [lose touch](https://open.spotify.com/track/6XhyqmBQDLFPaqF4fnVPun) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [lose touch](https://open.spotify.com/album/5692gCDFSwKNVAs9PGfdwn) | 2:58 | 2024-01-29 |  |
 | [love and hate](https://open.spotify.com/track/1vDKQnddTOwYevfB0lbIXu) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [love and hate](https://open.spotify.com/album/22RD49QYSQoEAnpHOBmp6m) | 3:10 | 2024-01-29 |  |

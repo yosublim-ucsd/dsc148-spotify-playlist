@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 182132,
+  "num_followers": 182181,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
-      },
-      "artists": [
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 221879,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 218666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 221879,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Vamo' a Celebrar",
-        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Vamo' a Celebrar",
-      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
@@ -1175,22 +1159,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Como Eh",
-        "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
+        "name": "Vamo' a Celebrar",
+        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
       },
       "artists": [
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
         }
       ],
-      "duration_ms": 169043,
-      "name": "Como Eh",
-      "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
+      "duration_ms": 208615,
+      "name": "Vamo' a Celebrar",
+      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1215,6 +1195,26 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Como Eh",
+        "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Como Eh",
+      "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Tumba",
-        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 152439,
-      "name": "Tumba",
-      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Todo Por Ti",
         "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
@@ -1347,22 +1327,6 @@
       "duration_ms": 148988,
       "name": "Todo Por Ti",
       "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1383,6 +1347,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/0gAvd9iYu6hKJ3DvE9oZv2"
+      },
+      "artists": [
+        {
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 152439,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/3pG0dfvF8vQZY10HOit7UM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Tu Siervo Pa",
         "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 310574,
       "name": "Amor de Hermano",
       "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+      },
+      "artists": [
+        {
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "No, No",
         "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 176158,
       "name": "No, No",
       "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg"
-      },
-      "artists": [
-        {
-          "name": "JXHN PVUL",
-          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
-        },
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 129026,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg"
       },
       "artists": [
         {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
         }
       ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+      "duration_ms": 129026,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "158",
-        "url": "https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8"
-      },
-      "artists": [
-        {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
-        },
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "158",
-      "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Noches Enteras",
         "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
@@ -1747,22 +1727,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Relevantes",
-        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+        "name": "158",
+        "url": "https://open.spotify.com/album/4atRfdVDjejaG9x0wgiNt8"
       },
       "artists": [
         {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
         },
         {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
         }
       ],
-      "duration_ms": 210370,
-      "name": "Humillado",
-      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
+      "duration_ms": 191186,
+      "name": "158",
+      "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Nunca Falla",
+        "url": "https://open.spotify.com/album/1FxkBPOsqyRNiaoE7bIOVN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Nunca Falla",
+      "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1791,6 +1787,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "duration_ms": 210370,
+      "name": "Humillado",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "BEST NIGHT",
         "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 161965,
       "name": "BEST NIGHT",
       "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Nunca Falla",
-        "url": "https://open.spotify.com/album/1FxkBPOsqyRNiaoE7bIOVN"
-      },
-      "artists": [
-        {
-          "name": "Martin Alonso",
-          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Nunca Falla",
-      "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Como Siempre",
         "url": "https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
     },
     {
       "added_at": "2024-03-29 04:00:00",

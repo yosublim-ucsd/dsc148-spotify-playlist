@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9281,
+  "num_followers": 9286,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDZjZDZiNGYzYWVmNWM5ZTM2OWJlM2U4MTY0MzM0ODAz",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQ4NzY2MmY4NDI5YjEwNDEzN2RiOWVkZDdkNDlkYTYw",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
         }
       ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+      "duration_ms": 210970,
+      "name": "A Son's Path",
+      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
         }
       ],
-      "duration_ms": 210970,
-      "name": "A Son's Path",
-      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 369640,
-      "name": "Ashes (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 141720,
       "name": "The Echo and the River",
       "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 369640,
+      "name": "Ashes (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Echoes of an Old Life",
-      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marvel's Agents of S.H.I.E.L.D.",
         "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171960,
       "name": "Agents of S.H.I.E.L.D. Overture",
       "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Peaks Pass",
-      "url": "https://open.spotify.com/track/4M3xwNsO3Ns8dNxklSCyjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Peaks Pass",
+      "url": "https://open.spotify.com/track/4M3xwNsO3Ns8dNxklSCyjO"
     },
     {
       "added_at": null,

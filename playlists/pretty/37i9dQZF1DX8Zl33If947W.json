@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 163581,
+  "num_followers": 163678,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Die gute Seite (Die lange Seite)",
+        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ein Kompliment",
+      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Die gute Seite (Die lange Seite)",
-        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
-      },
-      "artists": [
-        {
-          "name": "Sportfreunde Stiller",
-          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ein Kompliment",
-      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Falle F\u00fcr Dich",
         "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Von Anfang An",
         "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 247493,
       "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
       "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 222613,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Er geh\u00f6rt zu mir",
+        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
+      },
+      "artists": [
+        {
+          "name": "Marianne Rosenberg",
+          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Er geh\u00f6rt zu mir",
+      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 284546,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Er geh\u00f6rt zu mir",
-        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
-      },
-      "artists": [
-        {
-          "name": "Marianne Rosenberg",
-          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Er geh\u00f6rt zu mir",
-      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
     },
     {
       "added_at": "2024-02-09 07:01:34",

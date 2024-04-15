@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-227 songs - 11 hr 44 min
+229 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2024-02-13 |  |
 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 | 2024-01-11 |  |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2023-02-24 | 2023-09-02 |
-| [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-10-05 |  |
+| [Miracles](https://open.spotify.com/track/17z2zDW0VTRHODWT1kteTI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:22 | 2024-04-03 |  |
+| [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-10-05 | 2024-04-15 |
 | [Missen Zou](https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Missen Zou](https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE) | 2:47 | 2023-02-24 |  |
 | [Money Op De Tafel](https://open.spotify.com/track/33HuZaIX8YsIRQfy5GFSng) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Money Op De Tafel](https://open.spotify.com/album/2wFhOgAs823aYGZ0MiGK4O) | 3:02 | 2023-02-24 | 2023-04-04 |
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-12-07 |  |
@@ -184,7 +185,8 @@
 | [Sliden](https://open.spotify.com/track/2444a4pBCXlAX5dSxXR0t9) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:11 | 2023-11-10 | 2024-02-03 |
 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 | 2024-04-03 |  |
 | [Sowieso Overhoop](https://open.spotify.com/track/6WIkkwZ0XNtcyVqAzbuTcJ) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Sowieso Overhoop](https://open.spotify.com/album/6jvrpKhBOCFrEqArSj1EeE) | 3:02 | 2023-02-24 | 2023-11-11 |
-| [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-02-02 |  |
+| [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-02-02 | 2024-04-15 |
+| [Speed Of Light](https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:07 | 2024-04-03 |  |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2024-02-13 |  |
 | [Sterrenlopen \(met S10\)](https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Sterrenlopen \(met S10\)](https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ) | 4:02 | 2023-09-21 | 2023-10-06 |
 | [Sterrenstof](https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 3:40 | 2023-02-24 | 2024-02-14 |

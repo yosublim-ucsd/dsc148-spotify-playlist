@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132574,
+  "num_followers": 132596,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "City of Gold",
         "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -751,18 +751,38 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "The IPA Song",
+        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "The IPA Song",
+      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -787,26 +807,6 @@
       "duration_ms": 200400,
       "name": "Can't Live Without Love",
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "The IPA Song",
-        "url": "https://open.spotify.com/album/33mgkE8sPRpwhExMMJFGHr"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        },
-        {
-          "name": "Ronnie McCoury",
-          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
-        }
-      ],
-      "duration_ms": 174381,
-      "name": "The IPA Song",
-      "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191918,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Congratulations and Condolences",
         "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 215884,
       "name": "Congratulations and Condolences",
       "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191918,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Authentic Unlimited",
         "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
         "name": "Way Up In The Hills",
         "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
       },
@@ -1459,38 +1459,6 @@
       "duration_ms": 217453,
       "name": "Arkansas Bound",
       "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "3+ (EP)",
-        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Born To Be With You",
-      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1531,18 +1499,34 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "3+ (EP)",
+        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 171520,
+      "name": "Born To Be With You",
+      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
       },
       "artists": [
         {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
         }
       ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
       "artists": [
         {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
         }
       ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1639,22 +1623,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Lonesome State Of Mind",
         "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
       },
@@ -1667,6 +1635,38 @@
       "duration_ms": 144536,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-04-06 18:50:25",

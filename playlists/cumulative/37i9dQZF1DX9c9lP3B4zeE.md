@@ -4,7 +4,7 @@
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-202 songs - 11 hr 49 min
+203 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,13 +169,14 @@
 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 | 2023-08-09 | 2023-10-17 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-10-16 |  |
 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 | 2023-03-24 | 2023-04-20 |
-| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-10-16 | 2024-04-14 |
-| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-10-16 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-10-16 |  |
+| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-10-16 | 2024-04-15 |
 | [Something Pretty](https://open.spotify.com/track/0HDGWtJHUopYxQMMeDDb2X) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Loneliness Knows My Name](https://open.spotify.com/album/6helOjO9QZux0UT4u7sYYp) | 3:14 | 2023-08-09 | 2023-10-17 |
 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 | 2023-08-09 | 2023-10-17 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-03-24 | 2023-08-10 |
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-24 | 2023-04-20 |
-| [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-10-16 |  |
+| [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-10-16 | 2024-04-15 |
+| [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 | 2023-10-16 |  |
 | [Studio](https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:38 | 2023-03-24 | 2023-04-20 |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2023-04-19 | 2023-08-10 |
 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 | 2023-04-19 | 2023-08-10 |

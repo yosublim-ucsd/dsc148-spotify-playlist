@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,570 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,610 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 43 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
 | 44 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
 | 45 | [Beetles](https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Girl/Boy EP](https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ) | 1:31 |
-| 46 | [To Cure A Weakling Child](https://open.spotify.com/track/1jNd1HqFj9yZlDgdkpddkm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:03 |
+| 46 | [diskhat2](https://open.spotify.com/track/27wNZm2RGG8D7OQmVnvsWA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 0:38 |
 | 47 | [The Waxen Pith](https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:49 |
-| 48 | [diskhat2](https://open.spotify.com/track/27wNZm2RGG8D7OQmVnvsWA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 0:38 |
+| 48 | [To Cure A Weakling Child](https://open.spotify.com/track/1jNd1HqFj9yZlDgdkpddkm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:03 |
 | 49 | [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 |
 | 50 | [CHEETA2 ms800](https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 0:37 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGY5ZTliZjllNWM5MDAzMmI0ZGI4NTUxZDdmMzk2Mzc5`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDZkZWFlOWZiZWNhM2VhNzA4N2EzNzMxODgzMjMwMjUw`

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 141962,
+  "2024-04-15": 141992,
   "date_first_scraped": "2022-09-09",
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
   "name": "This Is Carrie Underwood",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 212173,
       "name": "All-American Girl",
       "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "Denim & Rhinestones",
       "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"

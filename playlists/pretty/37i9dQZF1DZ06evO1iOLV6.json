@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 8932,
+  "num_followers": 8937,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGVjOGVkMzZkMWI2NDI3MTFiMjRhNDc0ZWI3NDFmYjI0",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGZmODQ3ZWNmMzBhMjMyODA3OGMwODMwZTk1Y2U1YTJk",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gentle Man",
-        "url": "https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY"
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
       },
       "artists": [
         {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        },
-        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
         }
       ],
-      "duration_ms": 182914,
-      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
-      "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
+      "duration_ms": 239706,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
     },
     {
       "added_at": null,
@@ -619,18 +611,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+        "name": "The Gentle Man",
+        "url": "https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY"
       },
       "artists": [
         {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
         }
       ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+      "duration_ms": 182914,
+      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+      "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 205450,
       "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
       "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
     },
     {
       "added_at": null,
@@ -699,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175316,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confirm (feat. Davido)",
         "url": "https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy"
       },
@@ -735,6 +731,26 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     },
     {
       "added_at": null,
@@ -1103,26 +1119,6 @@
       "duration_ms": 192006,
       "name": "Gyal Like You",
       "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 224028,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
     }
   ],
   "unique_name": "This Is Patoranking",

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 37972,
+  "2024-04-15": 37990,
   "date_first_scraped": "2023-03-25",
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
   "name": "This Is Yoss Bones",
@@ -1324,6 +1324,32 @@
     },
     {
       "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -1645,7 +1671,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 199280,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx"

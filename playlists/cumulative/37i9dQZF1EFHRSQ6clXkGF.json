@@ -1286,10 +1286,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 214840,
       "name": "Eastern Rain",
       "url": "https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz"
+    },
+    {
+      "album": {
+        "name": "What We Did On Our Holidays (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/3xCTOthqxSO5WgqXTRLj8U"
+      },
+      "artists": [
+        {
+          "name": "Fairport Convention",
+          "url": "https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Eastern Rain",
+      "url": "https://open.spotify.com/track/6pKkm4Nm195wamPdBDOze6"
     },
     {
       "album": {

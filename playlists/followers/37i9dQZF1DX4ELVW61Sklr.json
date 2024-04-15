@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 188016,
+  "2024-04-15": 188010,
   "date_first_scraped": "2021-12-21",
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
   "name": "R&B Christmas",
@@ -2339,7 +2339,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 195816,
       "name": "Spend Christmas With You",
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
@@ -2717,6 +2717,24 @@
       "duration_ms": 228407,
       "name": "This Day (feat. Kiana Led\u00e9) - from the Netflix Original Motion Picture Jingle Jangle",
       "url": "https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH"
+    },
+    {
+      "album": {
+        "name": "This Holiday",
+        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "album": {

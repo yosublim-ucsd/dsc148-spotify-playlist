@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! NL ambassador: <a href="spotify:artist:5MraexJKZDrQYzS98kNwie">Sevdaliza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,068 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,066 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

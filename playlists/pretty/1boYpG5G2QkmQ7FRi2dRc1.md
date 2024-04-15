@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,266 likes - 30 songs - 1 hr 40 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,259 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 12 | [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 |
 | 13 | [Samdo](https://open.spotify.com/track/2NCd1gkR5gy83eBvrzotFd) | [Agdem](https://open.spotify.com/artist/1yByhgzjq6NmlE6rFoFBjo) | [Samdo](https://open.spotify.com/album/3xSShEwKLgzDaDMqrwo6N2) | 2:50 |
 | 14 | [Feelings \(That I Can't Deny\)](https://open.spotify.com/track/0ifxJsrCmKOFMPLKm5MaFc) | [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Feelings \(That I Can't Deny\)](https://open.spotify.com/album/29ptzeZ6zEDqU08gUouTnW) | 2:53 |
-| 15 | [Shadows](https://open.spotify.com/track/2PnJqNVKYbg1vyLUdPpjOF) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Blythe](https://open.spotify.com/artist/6dTLQdaZjTYIxkLtnNLXPK) | [Shadows](https://open.spotify.com/album/1Z75fKSODV2iKYTYHk3rNH) | 3:26 |
+| 15 | [Shadows](https://open.spotify.com/track/2PnJqNVKYbg1vyLUdPpjOF) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Shadows](https://open.spotify.com/album/1Z75fKSODV2iKYTYHk3rNH) | 3:26 |
 | 16 | [Mud Season](https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Mud Season](https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8) | 3:19 |
 | 17 | [The Rhythm](https://open.spotify.com/track/4BIf9QM2DjjO2TGi2ZkhAg) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [The Rhythm](https://open.spotify.com/album/5Be7JjDJ8D9XlgpTo3lyQp) | 3:21 |
 | 18 | [Human](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Human](https://open.spotify.com/album/2Lp9nUToblWF8nbzeMVzjA) | 2:13 |

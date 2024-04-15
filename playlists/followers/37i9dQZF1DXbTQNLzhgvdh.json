@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 158091,
+  "2024-04-15": 158449,
   "date_first_scraped": "2022-06-03",
   "description": "bolsa birkin me pegu\u00e9 un tiro pa comprarla, tu vales eso y m\u00e1s \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udc90\u2728\ud83d\udcb8",
   "name": "enqla2",
@@ -2809,10 +2809,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {
@@ -2901,8 +2919,8 @@
       },
       "artists": [
         {
-          "name": "Picasso",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+          "name": "Picassoo",
+          "url": "https://open.spotify.com/artist/6cfn7Sh5kVexAfCwUc54IW"
         }
       ],
       "date_added": "2023-12-22",

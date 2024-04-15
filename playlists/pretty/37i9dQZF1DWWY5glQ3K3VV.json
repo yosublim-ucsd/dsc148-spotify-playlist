@@ -1,6 +1,6 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Icy Subzero",
-  "num_followers": 97267,
+  "num_followers": 97294,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -595,26 +615,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -631,22 +631,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "Sottozero",
+        "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 171839,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "Re Mida (Aurum)",
         "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 164301,
       "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
       "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "Sottozero",
-        "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 171839,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "VIDA LOCA (feat. Medy)",
-        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 182067,
-      "name": "VIDA LOCA (feat. Medy)",
-      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+        "name": "VIDA LOCA (feat. Medy)",
+        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         }
       ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+      "duration_ms": 182067,
+      "name": "VIDA LOCA (feat. Medy)",
+      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+        "name": "HOE + HARD (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
       },
       "artists": [
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 124561,
-      "name": "HUH?",
-      "url": "https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy"
+      "duration_ms": 153300,
+      "name": "HOE + HARD (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "HOE + HARD (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         }
       ],
-      "duration_ms": 153300,
-      "name": "HOE + HARD (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
+      "duration_ms": 124561,
+      "name": "HUH?",
+      "url": "https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "BUBBLE (feat. thasup & Salmo)",
         "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 164327,
       "name": "BUBBLE (feat. thasup & Salmo)",
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1487,30 +1487,6 @@
       "duration_ms": 229147,
       "name": "SENZA RUMORE",
       "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1587,6 +1563,30 @@
       "duration_ms": 162362,
       "name": "Lento (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/0EgaGMvXU4l7p9PYDcfgdd"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2024-04-12 11:02:43",

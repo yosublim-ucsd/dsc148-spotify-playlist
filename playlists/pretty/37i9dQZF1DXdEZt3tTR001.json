@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 165372,
+  "num_followers": 165428,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "The Sweetest Taboo",
+      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "The Sweetest Taboo",
-      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Hive Mind",
-        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 406466,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 214493,
       "name": "Stronger Than Me",
       "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 406466,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -831,26 +831,18 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
-        "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 352106,
-      "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
-      "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -871,18 +863,26 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+        "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+        "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+      "duration_ms": 352106,
+      "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+      "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186900,
       "name": "Comin\u2019 Around Again",
       "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg"
-      },
-      "artists": [
-        {
-          "name": "Marques Houston",
-          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg"
+      },
+      "artists": [
+        {
+          "name": "Marques Houston",
+          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
+        "name": "N.F.A. DEMOS",
+        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 208713,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "N.F.A. DEMOS",
-        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 208713,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Lahai",
-        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Suspended",
-      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 220960,
       "name": "Sending My Love",
       "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
     }
   ],
   "unique_name": "floating",

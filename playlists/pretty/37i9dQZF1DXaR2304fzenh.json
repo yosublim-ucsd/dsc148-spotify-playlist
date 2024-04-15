@@ -1,6 +1,6 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 70900,
+  "num_followers": 71051,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-31 22:56:28",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2023-12-31 22:56:28",
-      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu"
+    },
+    {
+      "added_at": "2023-12-31 22:56:28",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-12-31 22:56:28",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-12-31 22:56:28",
       "album": {
-        "name": "Sin Tanto Royo",
-        "url": "https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Sin Tanto Royo",
-      "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
-    },
-    {
-      "added_at": "2023-12-31 22:56:28",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2023-12-31 22:56:28",
+      "album": {
+        "name": "Sin Tanto Royo",
+        "url": "https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Sin Tanto Royo",
+      "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
     },
     {
       "added_at": "2023-12-31 22:56:28",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-31 22:56:28",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2023-12-31 22:56:28",
-      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "added_at": "2023-12-31 22:56:28",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2023-12-31 22:56:28",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-31 22:56:28",
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Cuernito Armani",
+      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
+    },
+    {
+      "added_at": "2023-12-31 22:56:28",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2023-12-31 22:56:28",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Cuernito Armani",
-      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
     },
     {
       "added_at": "2023-12-31 22:56:28",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-31 22:56:28",
       "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
+    },
+    {
+      "added_at": "2023-12-31 22:56:28",
+      "album": {
         "name": "Disfruto Lo Malo",
         "url": "https://open.spotify.com/album/0o1pUhqBO6zq1t0PiWVDSf"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/46DU5gYWY2vjE79mbhX4Wv"
-    },
-    {
-      "added_at": "2023-12-31 22:56:28",
-      "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
     },
     {
       "added_at": "2023-12-31 22:56:28",

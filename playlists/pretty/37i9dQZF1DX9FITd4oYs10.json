@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17965,
+  "num_followers": 17967,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Relic\u00e1rio",
         "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 329920,
       "name": "Respeito \u00c9 pra Quem Tem",
       "url": "https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Teto Baixo",
         "url": "https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q"
       },
@@ -619,6 +639,22 @@
       "duration_ms": 263078,
       "name": "Raplord",
       "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -647,42 +683,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Bonde da Madrugada pt. 2",
         "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
       },
@@ -695,6 +695,50 @@
       "duration_ms": 251050,
       "name": "Rap, Cerva, Erva e Muita Larica",
       "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Cacife Gold, Vol. 1",
+        "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
+      },
+      "artists": [
+        {
+          "name": "Cacife Gold",
+          "url": "https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk"
+        },
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 283585,
+      "name": "Miss",
+      "url": "https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -747,6 +791,30 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Olhares",
         "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
       },
@@ -775,58 +843,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Cacife Gold, Vol. 1",
-        "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
-      },
-      "artists": [
-        {
-          "name": "Cacife Gold",
-          "url": "https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk"
-        },
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 283585,
-      "name": "Miss",
-      "url": "https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 274482,
       "name": "Muleque De Vila",
       "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Wallpaper",
-        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
       },
       "artists": [
         {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
         }
       ],
-      "duration_ms": 191798,
-      "name": "Wallpaper",
-      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

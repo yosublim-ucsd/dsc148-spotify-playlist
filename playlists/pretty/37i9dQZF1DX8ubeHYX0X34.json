@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junoon",
-  "num_followers": 49698,
+  "num_followers": 49736,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Iraaday",
-        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
-      },
-      "artists": [
-        {
-          "name": "Rovalio",
-          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
-        },
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Iraaday",
-      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
-    },
-    {
-      "added_at": "2024-03-26 07:10:28",
-      "album": {
         "name": "Bikhra",
         "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 168300,
       "name": "Bikhra",
       "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
+    },
+    {
+      "added_at": "2024-03-26 07:10:28",
+      "album": {
+        "name": "Iraaday",
+        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Iraaday",
+      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Tabeer",
-        "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
+        "name": "Fuzon",
+        "url": "https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS"
       },
       "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        },
         {
           "name": "Shafqat Amanat Ali",
           "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         }
       ],
-      "duration_ms": 276558,
-      "name": "Khaireyan De Naal",
-      "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
+      "duration_ms": 343146,
+      "name": "Ankhon Ke Saagar",
+      "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Fuzon",
-        "url": "https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS"
+        "name": "Tabeer",
+        "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
       },
       "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        },
         {
           "name": "Shafqat Amanat Ali",
           "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         }
       ],
-      "duration_ms": 343146,
-      "name": "Ankhon Ke Saagar",
-      "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
+      "duration_ms": 276558,
+      "name": "Khaireyan De Naal",
+      "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Runway",
-        "url": "https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4"
+        "name": "Bay Ja Cycle Tay",
+        "url": "https://open.spotify.com/album/6uKjfTWErBupbZzKFr3JQA"
       },
       "artists": [
         {
-          "name": "Mustafa Zahid",
-          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
         }
       ],
-      "duration_ms": 287219,
-      "name": "Khuda Ke Liye",
-      "url": "https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI"
+      "duration_ms": 309666,
+      "name": "Sanu Tere Nal",
+      "url": "https://open.spotify.com/track/3Kfy9WwK8XDhR7bk86Dz9W"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Bay Ja Cycle Tay",
-        "url": "https://open.spotify.com/album/6uKjfTWErBupbZzKFr3JQA"
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4"
       },
       "artists": [
         {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
         }
       ],
-      "duration_ms": 309666,
-      "name": "Sanu Tere Nal",
-      "url": "https://open.spotify.com/track/3Kfy9WwK8XDhR7bk86Dz9W"
+      "duration_ms": 287219,
+      "name": "Khuda Ke Liye",
+      "url": "https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Huqa Pani",
-        "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
+        "name": "Nachaan Mein Oday Nall",
+        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
       },
       "artists": [
         {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
         }
       ],
-      "duration_ms": 275186,
-      "name": "Rangeen",
-      "url": "https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD"
+      "duration_ms": 274786,
+      "name": "Pardesy",
+      "url": "https://open.spotify.com/track/1rKrd75GAyX7RpnCTgfTIp"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Nachaan Mein Oday Nall",
-        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
+        "name": "Aatish",
+        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
       },
       "artists": [
         {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+          "name": "Faakhir",
+          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
         }
       ],
-      "duration_ms": 274786,
-      "name": "Pardesy",
-      "url": "https://open.spotify.com/track/1rKrd75GAyX7RpnCTgfTIp"
+      "duration_ms": 227426,
+      "name": "Dil Ruba",
+      "url": "https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
-        "name": "Aatish",
-        "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
+        "name": "Huqa Pani",
+        "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
       "artists": [
         {
-          "name": "Faakhir",
-          "url": "https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj"
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Dil Ruba",
-      "url": "https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm"
+      "duration_ms": 275186,
+      "name": "Rangeen",
+      "url": "https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD"
     },
     {
       "added_at": "2024-03-26 07:10:28",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-03-26 07:10:28",
       "album": {
+        "name": "Nach Punjaban",
+        "url": "https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 309266,
+      "name": "Preeto",
+      "url": "https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20"
+    },
+    {
+      "added_at": "2024-03-26 07:10:28",
+      "album": {
         "name": "Teri Yaad -The Collection",
         "url": "https://open.spotify.com/album/3k590uhpKMD17vW1DndOgQ"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 378880,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/4WP514flpoolRbY3n6osFI"
-    },
-    {
-      "added_at": "2024-03-26 07:10:28",
-      "album": {
-        "name": "Qismat Apne Hath Mein",
-        "url": "https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae"
-      },
-      "artists": [
-        {
-          "name": "Shehzad Roy",
-          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Laga Reh",
-      "url": "https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

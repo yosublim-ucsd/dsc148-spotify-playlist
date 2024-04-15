@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 15809,
+  "num_followers": 15816,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGRhYjBhNGI1YTZkMmYwMTAzNjk5ZTAyNTMyZDZlNWUy",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDk5MjUxYzAwNjhjNjZiY2E2OTk0NWFhZGUwNmZlMmQ3",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,

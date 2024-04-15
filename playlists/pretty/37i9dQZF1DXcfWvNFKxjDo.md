@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,008 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,115 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 72 | [Play Hard](https://open.spotify.com/track/4Ckft8BVrGod5IEkLFafXX) | [Maggie&I](https://open.spotify.com/artist/3qf97ujySwz0dggvNAi0v5), [Isi Shuffles](https://open.spotify.com/artist/5OW2fZz9j8O6Cwa6CIRJPR) | [Play Hard](https://open.spotify.com/album/7KPwVrAXy3wj6KAHE55xxh) | 2:45 |
 | 73 | [A Night At The Opera](https://open.spotify.com/track/08UmH5bXpYKAx49PuKIyBM) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [A Night At The Opera](https://open.spotify.com/album/1eROUUMbppXQFGJOHNd6Tk) | 2:10 |
 | 74 | [Hotel Room Service \- Techno Remix](https://open.spotify.com/track/4nwr8FdZHhEDPYdVxbpzDH) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [MeSSy](https://open.spotify.com/artist/2u5KJ1Wbzv2zoSwA611lyP), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Hotel Room Service \(Techno Remix\)](https://open.spotify.com/album/03rYE73nRsOzEHIMigEcBI) | 2:24 |
-| 75 | [Shadows](https://open.spotify.com/track/2PnJqNVKYbg1vyLUdPpjOF) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Blythe](https://open.spotify.com/artist/6dTLQdaZjTYIxkLtnNLXPK) | [Shadows](https://open.spotify.com/album/1Z75fKSODV2iKYTYHk3rNH) | 3:26 |
+| 75 | [Shadows](https://open.spotify.com/track/2PnJqNVKYbg1vyLUdPpjOF) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Shadows](https://open.spotify.com/album/1Z75fKSODV2iKYTYHk3rNH) | 3:26 |
 | 76 | [For Real](https://open.spotify.com/track/3Wze3pFpzkVPIYlewgoQ9v) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [For Real](https://open.spotify.com/album/0XZLho7sNQQwn38uQGl8UG) | 2:42 |
 | 77 | [Monsters in My Bed](https://open.spotify.com/track/1HrwBcOuqBWQJq3A0DXXo4) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Monsters in My Bed](https://open.spotify.com/album/3XET3IwEsKsqJb13XJtBeT) | 2:44 |
 | 78 | [Focus](https://open.spotify.com/track/6tRN1qBtRsMW2kQ1W4H1WO) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Axel](https://open.spotify.com/artist/1uIDYdZZvQJrwc2IMOgBxZ) | [Focus](https://open.spotify.com/album/5llZQlXFc4pXO3Qo3Ioe0E) | 2:45 |

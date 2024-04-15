@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 103932,
+  "2024-04-15": 103963,
   "date_first_scraped": "2023-01-15",
   "description": "That real soulful house sound. Cover: Kerri Chandler",
   "name": "Soulful House",
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 409090,
       "name": "Highways - Dave Lee Medusa Mix",
       "url": "https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn"
@@ -2485,6 +2485,28 @@
       "duration_ms": 372480,
       "name": "I Got Rhythm (Original Mix)",
       "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
+    },
+    {
+      "album": {
+        "name": "Introducing Tortured Soul",
+        "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440533,
+      "name": "I Might Do Something Wrong - Osunlade Lonely Mix",
+      "url": "https://open.spotify.com/track/76ZMYgWV3OMWwMl0M0yp42"
     },
     {
       "album": {
@@ -3287,6 +3309,24 @@
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
+    },
+    {
+      "album": {
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+      },
+      "artists": [
+        {
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
     },
     {
       "album": {
@@ -5159,7 +5199,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208906,
       "name": "You Bring Joy - Radio Edit",
       "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"

@@ -4,7 +4,7 @@
 
 > The latest in gaming music.
 
-808 songs - 1 day 20 hr 46 min
+809 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,8 @@
 | [My World](https://open.spotify.com/track/1OUtRMoOn662g0KZacJKm7) | [Warcub](https://open.spotify.com/artist/3PwkBLtR0b4m6NcdnLrim9) | [Warcub EP](https://open.spotify.com/album/6Mx9D6RH7aAdaw0YptxUFI) | 3:27 | 2021-03-27 | 2022-07-06 |
 | [Nasty](https://open.spotify.com/track/2IB2y23AiSryY91UNzu6d7) | [Mere Raj](https://open.spotify.com/artist/6RnS0Didmf0hdDnCC1Mwam) | [Nasty](https://open.spotify.com/album/21pD3yPT0wEXCO9hzNw3mC) | 2:00 | 2021-04-01 | 2021-04-13 |
 | [Never Forget](https://open.spotify.com/track/3XtT67dnbQSTyaulBRSGmk) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo 3: Original Soundtrack](https://open.spotify.com/album/6x8wiG82nFACtYrIoFQreT) | 3:07 | 2019-09-29\* | 2021-03-11 |
-| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-19 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2023-01-19 |  |
+| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-19 | 2024-04-15 |
 | [Never Say Die](https://open.spotify.com/track/0yfljFQlsGXSeTKkQGsb8O) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/5dj2UjtSxuKGlb17Bzu1mL) | 4:23 | 2021-03-14 | 2021-10-22 |
 | [New Horizons](https://open.spotify.com/track/22BEtF0Op5Y7adTys95wQG) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:13 | 2021-03-15 | 2021-10-14 |
 | [Nice Widdit](https://open.spotify.com/track/1ne2Ni4LR9Dc75nT2yx9CQ) | [Whitepink](https://open.spotify.com/artist/7FRF8uZtgcaRxlkprn7oRk), [To NY](https://open.spotify.com/artist/5dr5iUAF3ziGPZMACEezCF) | [Nice Widdit](https://open.spotify.com/album/4G6oFr2oKrj22x27YE6sbj) | 2:26 | 2021-05-22 | 2021-12-11 |

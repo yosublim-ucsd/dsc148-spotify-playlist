@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 75109,
+  "num_followers": 75133,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDUyMWZiZmM3MzA4YTZjYjA2ODJmMTBmYzgzZTQ3NGY3",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDI2ZGE3NDYwYTZmNmFmY2I0M2ViM2E4MTM4NzI5OWU2",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rover (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Rover (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascension (Deluxe) \u2013 Virtual World 2",
+        "url": "https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136903,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She Want Some More (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 184614,
       "name": "She Want Some More (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascension (Deluxe) \u2013 Virtual World 2",
-        "url": "https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136903,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ"
     }
   ],
   "unique_name": "This Is Lil Tecca",

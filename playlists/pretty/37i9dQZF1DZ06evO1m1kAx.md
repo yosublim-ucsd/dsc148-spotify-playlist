@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 ### [This Is 2Baba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m1kAx)
 
-> This is 2Baba\. The essential tracks, all in one playlist.
+> This Is 2Baba\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,307 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,310 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 31 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
 | 32 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 |
 | 33 | [Raindrops](https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 4:49 |
-| 34 | [Mad Over Hills](https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mad Over Hills](https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH) | 2:34 |
-| 35 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
+| 34 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
+| 35 | [Mad Over Hills](https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mad Over Hills](https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH) | 2:34 |
 | 36 | [Keep On Rocking](https://open.spotify.com/track/3jDiJeeFb0Q81eqBzAzKHt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Natives](https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF), [Lil Seal](https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 5:45 |
 | 37 | [Nwa Baby](https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 3:30 |
 | 38 | [Human Being \(feat\. 2Face & Sound Sultan\)](https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 5:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 47 | [Free \(feat\. Ehi Idibia\)](https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:50 |
 | 48 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDcyNjllYWU5ZTExOGQ2YzE5MzVkOTBjNWJlMzkyYjM3`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGYyZjZiMmVkOTgxZmM2YmMzNWZiOGJlNGIxNTBkNzgx`

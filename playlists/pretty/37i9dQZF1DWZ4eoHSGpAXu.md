@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,754 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,905 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

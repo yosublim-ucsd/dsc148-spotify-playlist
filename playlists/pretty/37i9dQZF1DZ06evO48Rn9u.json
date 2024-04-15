@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 135970,
+  "num_followers": 136020,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDZkODNkOTg4MWI3MTc3NzQ3ZTg4MThkYzcwM2U3YTdj",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDJlZmM3ZTljNGFhMmM3ODc3ODg3NjI4YzZkZDM3MTc3",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cayamo Sessions At Sea",
-        "url": "https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF"
-      },
-      "artists": [
-        {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 134986,
-      "name": "Love\u2019s Gonna Live Here",
-      "url": "https://open.spotify.com/track/7MrayLjl4mMWsSNBoQZTNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cayamo Sessions At Sea",
+        "url": "https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 134986,
+      "name": "Love\u2019s Gonna Live Here",
+      "url": "https://open.spotify.com/track/7MrayLjl4mMWsSNBoQZTNw"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Keep It To Yourself",
-      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
+      "duration_ms": 188386,
+      "name": "Blowin' Smoke",
+      "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Blowin' Smoke",
-      "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
+      "duration_ms": 196040,
+      "name": "Keep It To Yourself",
+      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
     }
   ],
   "unique_name": "This Is Kacey Musgraves",

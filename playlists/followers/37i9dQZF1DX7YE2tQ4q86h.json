@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 146297,
+  "2024-04-15": 146358,
   "date_first_scraped": "2022-04-19",
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Jojo Siwa",
   "name": "OBSESSED",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/2TxbtBLtb1SW0E4LCI8CKu"
@@ -3273,7 +3273,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
@@ -4313,6 +4313,24 @@
       "duration_ms": 143618,
       "name": "Erotic Electronic",
       "url": "https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -8435,6 +8453,24 @@
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
+    },
+    {
+      "album": {
+        "name": "KISS KISS BANG BANG",
+        "url": "https://open.spotify.com/album/2XZX04VOvAveKTzoEEbLPE"
+      },
+      "artists": [
+        {
+          "name": "Michael Medrano",
+          "url": "https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "KISS KISS BANG BANG",
+      "url": "https://open.spotify.com/track/1WgutIzbZGASLWT2ADT4zc"
     },
     {
       "album": {

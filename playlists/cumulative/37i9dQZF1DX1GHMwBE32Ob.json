@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+    },
+    {
+      "album": {
         "name": "Able God",
         "url": "https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8"
       },
@@ -4064,7 +4086,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 132257,
       "name": "Tiff",
       "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"

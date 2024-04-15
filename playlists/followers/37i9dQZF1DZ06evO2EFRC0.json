@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 91482,
+  "2024-04-15": 91501,
   "date_first_scraped": "2023-04-03",
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
   "name": "This Is Marcos Witt",
@@ -1104,24 +1104,6 @@
     },
     {
       "album": {
-        "name": "25 Concierto Conmemorativo (En Vivo)",
-        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "date_added": "2023-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160386,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
-    },
-    {
-      "album": {
         "name": "Lo Mejor de Instrumentales",
         "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
@@ -1137,6 +1119,28 @@
       "duration_ms": 231601,
       "name": "Tu Fidelidad",
       "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
     },
     {
       "album": {

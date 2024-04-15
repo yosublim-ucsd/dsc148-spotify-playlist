@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,241 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,293 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 | 41 | [Starman](https://open.spotify.com/track/1ncYtemyDNYLz6aINyAUef) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [No Gods No Masters](https://open.spotify.com/album/50LbfGmfmrcPiiIgtBsAfc) | 4:09 |
 | 42 | [Rebel Rebel](https://open.spotify.com/track/1p4m5GhQwn8c7Vmx7iTTyK) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Rebel Rebel](https://open.spotify.com/album/1vIjAXghisRVAj3hJCjw3j) | 4:44 |
 | 43 | [Queen Bitch](https://open.spotify.com/track/0sBd5xIBVzfVJb0lyBWVmM) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 2:58 |
-| 44 | [Five Years](https://open.spotify.com/track/4FYxUrKzRFOy5mfG5NXVbx) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Five Years](https://open.spotify.com/album/5c9evmmhnCWlsK0mp3aKWo) | 4:23 |
+| 44 | [Five Years](https://open.spotify.com/track/4lNkheST7MCjZflqM0jTrP) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Songs of the Recollection](https://open.spotify.com/album/3CRQfG5NbcbwphJC3K4lbz) | 4:23 |
 | 45 | [Girl Loves Me](https://open.spotify.com/track/6ijns7dsZy19sqyBmUCTjv) | [Finom](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [Girl Loves Me b/w Some Kind of Calm](https://open.spotify.com/album/2418M2dGPruMJRnh9qqJPM) | 6:11 |
 | 46 | [Heroes \- LiVE SPiRiTS](https://open.spotify.com/track/7EmUfsXxybB8wAgFey4flY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [LiVE SPiRiTS SOUNDTRACK](https://open.spotify.com/album/0AiWYT2zT9mmCNk2ZyDTSp) | 6:27 |
 | 47 | [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 |

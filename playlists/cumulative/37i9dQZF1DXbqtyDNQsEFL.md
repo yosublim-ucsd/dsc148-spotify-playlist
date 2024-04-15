@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-325 songs - 1 day 10 hr 14 min
+326 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Out Of My Belly](https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Out Of My Belly](https://open.spotify.com/album/5Ro7tNG0TSpe3E1ynWvKRx) | 6:20 | 2022-10-14 | 2022-11-05 |
 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 | 2023-11-17 | 2023-12-09 |
 | [Overflow \- Live](https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [First Love](https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ) | [Overflow](https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B) | 12:32 | 2022-10-14 | 2022-11-05 |
+| [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 |  |
 | [Pariwo](https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Pariwo](https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C) | 2:37 | 2023-12-05 | 2023-12-11 |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-09-29 | 2023-11-02 |
 | [Peace of Mind](https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Peace of Mind](https://open.spotify.com/album/3jc3sH2Yyoxh8usQ1MchUZ) | 3:00 | 2024-04-12 |  |
@@ -245,7 +246,7 @@
 | [Praise Anthem](https://open.spotify.com/track/6SggGs62ILFrYXmushLa8C) | [Elvis E](https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4) | [Undeniable Love](https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8) | 3:59 | 2023-11-17 | 2023-11-23 |
 | [Praise Your Name](https://open.spotify.com/track/4HE0C1QJPhX9vzBqbJg5oT) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Praise Your Name](https://open.spotify.com/album/0OZoD6xavZhIqeJblkeasq) | 4:47 | 2024-01-19 | 2024-02-09 |
 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 |  |
-| [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 | 2023-02-20 |  |
+| [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 | 2023-02-20 | 2024-04-15 |
 | [Protocol breaker](https://open.spotify.com/track/2qAcPHYYGiKpIsxdyTxtxB) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Protocol breaker](https://open.spotify.com/album/4y3f3Sjb3QPlX5v0sUj5u3) | 6:36 | 2023-06-02 | 2023-07-07 |
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-08-02 |
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-09-15 | 2023-11-02 |

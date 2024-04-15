@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-49 songs - 3 hr 36 min
+50 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 | 2022-06-04 |  |
 | [Sólo en Tu Brazos](https://open.spotify.com/track/6AdKEowNdjZNuoYVl9ZRcA) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:17 | 2022-06-04 |  |
 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 | 2023-02-16 |  |
-| [Vai virar TBT](https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai virar TBT](https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm) | 3:06 | 2022-06-04 |  |
+| [Vai Virar TBT](https://open.spotify.com/track/1fp4xowigojAnwQCrpiXlo) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai Virar TBT](https://open.spotify.com/album/1TolV8p8408TWzppALEcB1) | 3:06 | 2024-04-14 |  |
+| [Vai virar TBT](https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai virar TBT](https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm) | 3:06 | 2022-06-04 | 2024-04-15 |
 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 | 2022-06-04 |  |
 | [Viento y Fuego](https://open.spotify.com/track/5G9vADNELif86MhpMfJsj5) | [ICC Worship](https://open.spotify.com/artist/78dYVP5riNvP1gSUMrir80), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Viento y Fuego](https://open.spotify.com/album/1gwEQd1JAuVzFmyNuhJxxa) | 5:19 | 2022-06-04 |  |
 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 | 2022-06-04 |  |

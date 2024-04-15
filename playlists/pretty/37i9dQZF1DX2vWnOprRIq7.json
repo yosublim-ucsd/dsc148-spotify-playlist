@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 17933,
+  "num_followers": 17942,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 174418,
       "name": "Amor de Verano - Remix",
       "url": "https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Cuando la Luna Caiga",
         "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 273056,
       "name": "Cuando la Luna Caiga",
       "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Una Dosis de Terciopelo",
-        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 256566,
-      "name": "De Otra Vida",
-      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Nueva forma",
         "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 194000,
       "name": "Nueva forma",
       "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Una Dosis de Terciopelo",
+        "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 256566,
+      "name": "De Otra Vida",
+      "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -759,6 +759,26 @@
       "duration_ms": 237888,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "LOGO",
+        "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
+      },
+      "artists": [
+        {
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+        },
+        {
+          "name": "Franzizca",
+          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "AMANECER (Remix)",
+      "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -803,22 +823,38 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "LOGO",
-        "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
+        "name": "Tan besh",
+        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
       },
       "artists": [
         {
-          "name": "planta",
-          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         },
         {
-          "name": "Franzizca",
-          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
-      "duration_ms": 225000,
-      "name": "AMANECER (Remix)",
-      "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
+      "duration_ms": 171162,
+      "name": "Tan besh",
+      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Hoy me di cuenta",
+      "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -863,18 +899,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Affaire",
-        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
       "artists": [
         {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 202625,
-      "name": "Hoy me di cuenta",
-      "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
+      "duration_ms": 210330,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -899,42 +939,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
       },
       "artists": [
         {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
         }
       ],
-      "duration_ms": 210330,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Tan besh",
-        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Tan besh",
-      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -955,18 +971,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
       },
       "artists": [
         {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+      "duration_ms": 242238,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -987,26 +1007,6 @@
       "duration_ms": 193149,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 242238,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Delfines",
         "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 302750,
       "name": "El \u00daltimo Romance",
       "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Bocado a Bocado",
         "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Fotogr\u00e1fica",
-        "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Fotogr\u00e1fica",
-      "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Debilidad",
         "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 263546,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Fotogr\u00e1fica",
+        "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Fotogr\u00e1fica",
+      "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,290 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,381 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 29 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
 | 30 | [Don](https://open.spotify.com/track/4tNPx4XwAdmTmNQtnD3a5l) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [Don](https://open.spotify.com/album/3gu6Tsv9hzBeBv4ImX1ztS) | 3:15 |
 | 31 | [Berlin](https://open.spotify.com/track/691TDibKzalozEkDXfKywX) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Berlin](https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s) | 3:44 |
-| 32 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
-| 33 | [Todo Porque Te Amo](https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Todo Porque Te Amo](https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC) | 3:24 |
+| 32 | [Todo Porque Te Amo](https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Todo Porque Te Amo](https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC) | 3:24 |
+| 33 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 34 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 |
 | 35 | [Dile al Amor](https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Olvidar](https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3) | 3:19 |
 | 36 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 | 37 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
 | 38 | [Que Lloro](https://open.spotify.com/track/5fGNmzjL0KFk8C6KXfbKVX) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 3:37 |
 | 39 | [Disfruto](https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [Disfruto](https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB) | 3:24 |
-| 40 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
-| 41 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
-| 42 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
+| 40 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
+| 41 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
+| 42 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
 | 43 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
-| 44 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
+| 44 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
 | 45 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 46 | [Un Siglo Sin Ti](https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/0Gb6YnVrJJHaP6yYmB9VZA) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 3:37 |
 | 47 | [La Playa](https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO) | 3:46 |

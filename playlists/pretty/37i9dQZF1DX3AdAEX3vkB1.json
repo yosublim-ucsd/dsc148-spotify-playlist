@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 250115,
+  "num_followers": 250263,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Kinks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "All Day and All of the Night",
-      "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
@@ -651,6 +635,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "All Day and All of the Night",
+      "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
         "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 158200,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 138546,
+      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
+      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 138546,
-      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
-      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Bo Diddley",
@@ -1459,6 +1443,22 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hippy Hippy Shake: The Definitive Collection",
         "url": "https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 106066,
       "name": "The Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Helen Shapiro",
-        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
-      },
-      "artists": [
-        {
-          "name": "Helen Shapiro",
-          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "Walkin' Back to Happiness",
-      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 175893,
       "name": "Carrie Anne",
       "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Helen Shapiro",
+        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Shapiro",
+          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Walkin' Back to Happiness",
+      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Two Of Us",
         "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 163026,
       "name": "Surf City - Remastered 1990/Stereo Remix",
       "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
     },
     {
       "added_at": "2022-06-16 22:02:00",

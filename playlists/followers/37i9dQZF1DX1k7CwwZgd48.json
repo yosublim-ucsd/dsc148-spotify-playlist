@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 60053,
+  "2024-04-15": 60248,
   "date_first_scraped": "2022-12-01",
   "description": "Our editors' picks for the best M\u00fasica Mexicana songs of the year! #SpotifyWrapped Cover: Eslabon Armado",
   "name": "Los Que Mandan Presents: Best M\u00fasica Mexicana Songs of 2023",
@@ -1581,10 +1581,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {

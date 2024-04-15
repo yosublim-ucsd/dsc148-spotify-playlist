@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 267617,
+  "2024-04-15": 267723,
   "date_first_scraped": "2021-12-21",
   "description": "Music paying tribute to the Heartland of America.",
   "name": "Heartland Country",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 209080,
       "name": "A Little Dive Bar in Dahlonega",
       "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"

@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Neumon\u00eda",
+        "url": "https://open.spotify.com/album/6bfxoGyVo5qBha9GDVz71J"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9jenme Dormir",
+          "url": "https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182791,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0A4Pb1cTIgmrUXqa7NAP6T"
+    },
+    {
+      "album": {
         "name": "formas de volver a casa",
         "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
       },
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 168725,
       "name": "Manso visto",
       "url": "https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A"

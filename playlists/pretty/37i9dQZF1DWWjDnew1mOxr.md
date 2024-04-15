@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Catfish & The Bottlemen
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,529 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,543 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 5 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
 | 6 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 |
 | 7 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 |
-| 8 | [Jackie Down The Line](https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:01 |
-| 9 | [Where We're Going](https://open.spotify.com/track/19GiPFk1hng2JpuRf00Gno) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0) | 4:00 |
+| 8 | [Where We're Going](https://open.spotify.com/track/19GiPFk1hng2JpuRf00Gno) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0) | 4:00 |
+| 9 | [Jackie Down The Line](https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:01 |
 | 10 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 11 | [Weekend In Paradise](https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW) | 3:16 |
 | 12 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 43 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 44 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
 | 45 | [Chancer](https://open.spotify.com/track/6fGv6OOjC863PxU0a7selC) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [I Wonder If The World Knows?](https://open.spotify.com/album/0lLxBrNxMinIX9a6buamdB) | 3:15 |
-| 46 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
-| 47 | [Don't Stop Me](https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Don't Stop Me](https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q) | 3:16 |
+| 46 | [Don't Stop Me](https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Don't Stop Me](https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q) | 3:16 |
+| 47 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
 | 48 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 |
 | 49 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 |
 | 50 | [Puppy](https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Puppy](https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2) | 3:15 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 72 | [Find My Way Around](https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Find My Way Around](https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n) | 3:15 |
 | 73 | [Cavalryman](https://open.spotify.com/track/3JDeaSeCZi33RvPNZOTdIf) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/3GeaLK6Px5B6U9oIi1WET8) | 3:13 |
 | 74 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
-| 75 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 |
+| 75 | [Only You](https://open.spotify.com/track/4a1VhUe5ebvyNQWMxrlG87) | [Saytr Play](https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG) | [Only You](https://open.spotify.com/album/2Lr53Jp76OE9h9s5tn74Xt) | 2:53 |
 | 76 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
-| 77 | [Only You](https://open.spotify.com/track/4a1VhUe5ebvyNQWMxrlG87) | [Saytr Play](https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG) | [Only You](https://open.spotify.com/album/2Lr53Jp76OE9h9s5tn74Xt) | 2:53 |
+| 77 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 |
 | 78 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 |
 | 79 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 |
 | 80 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 |

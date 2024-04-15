@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,011 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,077 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 26 | [Phir Se Ud Chala](https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 4:28 |
 | 27 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 | 28 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |
-| 29 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
-| 30 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
+| 29 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
+| 30 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
 | 31 | [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 5:29 |
 | 32 | [Naina](https://open.spotify.com/track/3SHopOL3KEJ8PFl3vJdfmF) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 3:45 |
 | 33 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 |

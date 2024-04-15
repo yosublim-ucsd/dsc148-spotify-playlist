@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-763 songs - 1 day 21 hr 42 min
+764 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2024-03-05 |  |
 | [Alex](https://open.spotify.com/track/18JRw9sZI9GiMDiDh9BOGS) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Alex/Break You Down](https://open.spotify.com/album/3WKc3SqmFVVemcsBhkBzlx) | 2:56 | 2020-10-05\* | 2021-03-16 |
 | [Algorithmblues](https://open.spotify.com/track/0Mgo4AJxSoW6JMT8y2zrQM) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Algorithmblues](https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr) | 5:12 | 2021-06-04 | 2022-07-25 |
-| [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 | 2023-09-15 |  |
+| [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 | 2023-09-15 | 2024-04-15 |
 | [All I Want](https://open.spotify.com/track/7GuAxz9Q60xdLS8RtdRCrh) | [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [All I Want](https://open.spotify.com/album/5C1RTvOMh2TBKeH3Im4BYx) | 3:34 | 2020-10-16 | 2022-04-17 |
 | [All I've Got](https://open.spotify.com/track/4rQQWZIMGLNa1SUXWKfJZc) | [Modern Nomad](https://open.spotify.com/artist/7E6IRcJWeVNtfMGV3hAqAG) | [All I've Got](https://open.spotify.com/album/3HpG7gCkYGKyxUoLI9Ocav) | 2:54 | 2020-10-05\* | 2020-10-16 |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2021-03-31 | 2022-04-18 |
@@ -324,6 +324,7 @@
 | [High](https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [High](https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9) | 3:37 | 2021-06-07 | 2022-04-19 |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-09 | 2023-08-20 |
 | [High Beams](https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [High Beams](https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb) | 3:30 | 2021-08-27 | 2022-07-29 |
+| [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 | 2024-04-11 |  |
 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-09-15 | 2023-11-06 |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-03-07 | 2022-04-20 |
 | [Holding On](https://open.spotify.com/track/2WZwPv9no6rPUSLTABF1uy) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 3:46 | 2020-10-16 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-468 songs - 1 day 4 hr 57 min
+469 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 | 2022-04-29 | 2023-09-22 |
 | [Every Star Shivers in the Dark](https://open.spotify.com/track/4iIUamvXOnnDmtqkcfyrF6) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Every Star Shivers in the Dark](https://open.spotify.com/album/6BvIICpJMPzxShxZhCcmqi) | 5:32 | 2022-01-21 | 2022-07-29 |
 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 | 2022-01-21 | 2023-05-24 |
-| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-04-29 |  |
+| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-04-29 | 2024-04-15 |
 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-04-29 |  |
@@ -348,6 +348,7 @@
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2023-08-25 | 2024-01-07 |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
+| [Say!](https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Popped Heart](https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS) | 3:52 | 2024-04-12 |  |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2024-02-16 |  |
 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 | 2024-03-02 |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |

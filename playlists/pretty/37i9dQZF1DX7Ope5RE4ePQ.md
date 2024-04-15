@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,852 likes - 74 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,003 likes - 74 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

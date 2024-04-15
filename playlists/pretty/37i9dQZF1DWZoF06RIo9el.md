@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de abril 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,831 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,307 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 39 | [Todo me recuerda a vos](https://open.spotify.com/track/38tLYpnaB4GrTm2brEmqeP) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Todo me recuerda a vos](https://open.spotify.com/album/2W7gONjZuk1hepW0FgRK4l) | 4:37 |
 | 40 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 | 41 | [Cochinadas](https://open.spotify.com/track/4RT7qqEVp1YTol9JVx6BtC) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Cochinadas](https://open.spotify.com/album/2PZl0xl2fz8y8SQyKk8A3P) | 2:50 |
-| 42 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 |
+| 42 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 |
 | 43 | [Estupefacientes](https://open.spotify.com/track/7KsfiA44adkRuUbuRNVs5I) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Flints](https://open.spotify.com/album/3LHNCPG05vaTt9jTQC2OGI) | 2:51 |
 | 44 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 |
 | 45 | [Gigante](https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Gigante](https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs) | 2:44 |

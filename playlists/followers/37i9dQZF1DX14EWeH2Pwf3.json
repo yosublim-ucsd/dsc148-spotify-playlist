@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 941354,
+  "2024-04-15": 941595,
   "date_first_scraped": "2022-05-12",
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Baby Gang, BLANCO, Marracash",
   "name": "Plus Ultra",
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 176455,
       "name": "BUTTERFLY (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/64XgqICgALmJ4nGeuOc6LS"
@@ -3917,6 +3917,28 @@
       "duration_ms": 217086,
       "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
       "url": "https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4"
+    },
+    {
+      "album": {
+        "name": "FoglieMorte (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "FoglieMorte (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
     },
     {
       "album": {

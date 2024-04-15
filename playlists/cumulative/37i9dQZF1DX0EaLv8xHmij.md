@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kayode
 
-287 songs - 13 hr 18 min
+288 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Assalto](https://open.spotify.com/track/7Av08EETn21lk2D3u8FQzv) | [Piratha](https://open.spotify.com/artist/0nkpf3kQ1QXRkaRuGDlVvx), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Assalto](https://open.spotify.com/album/1lGelUWFmYdbl8d7WoLhUw) | 2:42 | 2023-11-24 | 2024-04-13 |
 | [Atabakada](https://open.spotify.com/track/6sq1sgi6rumm0heVFSfXEe) | [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH), [Dj Tio Rico](https://open.spotify.com/artist/28u2ywM8BSNlqw74LL0qy1), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7) | [Atabakada](https://open.spotify.com/album/53sASosAsHd6YyTvckRr9B) | 2:08 | 2023-02-24 | 2023-04-09 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 |  |
+| [ATTACK DE TOURETTE](https://open.spotify.com/track/06ByK2k5hkZCBJEBDus98T) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [ATTACK DE TOURETTE](https://open.spotify.com/album/2CajaV4WWhxI0VIZr7QAoN) | 2:36 | 2024-04-15 |  |
 | [Aulas e Palestras](https://open.spotify.com/track/00j6HYx9cIzZcgwpB72buK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Moyz](https://open.spotify.com/artist/74md0OXHeJ8Fa7DBShPL1S) | [Aulas e Palestras](https://open.spotify.com/album/6QAqavCD8F6lCF4eiNM8B0) | 3:13 | 2022-03-18 | 2022-11-19 |
 | [Avanço Drill, Vol\. 1](https://open.spotify.com/track/0jXWtuNYDdPCoUdZeUOcDj) | [Chakal](https://open.spotify.com/artist/5W5dbHdb8om8PDWuont6Ru), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Avanço Drill, Vol\. 1](https://open.spotify.com/album/2bqv8Usj4E0h1w0qk2S9BM) | 2:29 | 2022-03-18 | 2022-04-16 |
 | [Aventura](https://open.spotify.com/track/6LXh4OUxSya8fGLl82yaOj) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [ERREJOTACULTDRILL, Vol\. 2 \- Esquema Novo](https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm) | 2:20 | 2023-07-28 |  |

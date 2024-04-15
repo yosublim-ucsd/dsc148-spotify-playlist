@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 
 ### [This Is Iron Maiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KIUZW)
 
-> This is Iron Maiden\. The essential tracks, all in one playlist.
+> This is Iron Maiden\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,074 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,173 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 49 | [Strange World \- 2015 Remaster](https://open.spotify.com/track/2zg6aGS3qFpVYqEkGy0vVB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 5:47 |
 | 50 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDliNmIyZTc5ZTI4YmY1ZTRkOTA5MmIxOWQwMDBkMDg1`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGM1NzQzN2U4ZjRiYTZkZDZmMGNmYWEzYjE5ZDk4MTY4`

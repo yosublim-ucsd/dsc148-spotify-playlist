@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,207 likes - 126 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,252 likes - 126 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 49 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 |
 | 50 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 51 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
-| 52 | [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 |
+| 52 | [R&B](https://open.spotify.com/track/0HzQIsuZfE1xy5MDG2Pi8r) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 2:48 |
 | 53 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
 | 54 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 |
 | 55 | [Field Of Ruins](https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Field Of Ruins](https://open.spotify.com/album/5ic3ni2tPnm9mrK6DfvfJg) | 3:42 |

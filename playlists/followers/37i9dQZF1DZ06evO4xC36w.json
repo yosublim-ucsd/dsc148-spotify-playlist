@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 843958,
+  "2024-04-15": 844297,
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
+  "description": "This Is Joan Sebastian. Sus mejores \u00e9xitos, todos en una playlist.",
   "name": "This Is Joan Sebastian",
   "tracks": [
     {
@@ -151,6 +151,28 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
     },
     {
       "album": {

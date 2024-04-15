@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE?si=wf2AU64KSOmNwXd1SbxUYg"> Casper Sage </a> performing at Fresh Finds, Chicago 2024\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,380 likes - 200 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,425 likes - 200 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

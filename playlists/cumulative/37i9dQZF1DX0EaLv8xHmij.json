@@ -751,6 +751,36 @@
     },
     {
       "album": {
+        "name": "ATTACK DE TOURETTE",
+        "url": "https://open.spotify.com/album/2CajaV4WWhxI0VIZr7QAoN"
+      },
+      "artists": [
+        {
+          "name": "Digital Mafia Corp.",
+          "url": "https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn"
+        },
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        },
+        {
+          "name": "Bril",
+          "url": "https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "ATTACK DE TOURETTE",
+      "url": "https://open.spotify.com/track/06ByK2k5hkZCBJEBDus98T"
+    },
+    {
+      "album": {
         "name": "Aulas e Palestras",
         "url": "https://open.spotify.com/album/6QAqavCD8F6lCF4eiNM8B0"
       },

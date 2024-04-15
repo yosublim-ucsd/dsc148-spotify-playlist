@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 261975,
+  "2024-04-15": 262005,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Wyatt Flores",
   "name": "Bluegrass Covers",
@@ -3627,6 +3627,24 @@
     {
       "album": {
         "name": "So Far Away",
+        "url": "https://open.spotify.com/album/3WrtQE4RqjgVJM1xcvFEVv"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221397,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/0uNfYbb0gQOtzpFLyFt34S"
+    },
+    {
+      "album": {
+        "name": "So Far Away",
         "url": "https://open.spotify.com/album/0lXVZ5Qf46yARjeuHMCh5d"
       },
       "artists": [
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 221397,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/2nwVBqjV5HPLDPlmExAUML"
@@ -3762,24 +3780,6 @@
     },
     {
       "album": {
-        "name": "Song for a Winter's Night",
-        "url": "https://open.spotify.com/album/57cxci74OPUile2bjgfso2"
-      },
-      "artists": [
-        {
-          "name": "Rumour Mill",
-          "url": "https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215274,
-      "name": "Song for a Winter's Night",
-      "url": "https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb"
-    },
-    {
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/4yal67fAouSKoHgh6qYBjs"
       },
@@ -3795,6 +3795,32 @@
       "duration_ms": 215274,
       "name": "Song for a Winter's Night",
       "url": "https://open.spotify.com/track/4d5HDjtWd010tzjSCUe4Fz"
+    },
+    {
+      "album": {
+        "name": "Song for a Winter's Night",
+        "url": "https://open.spotify.com/album/57cxci74OPUile2bjgfso2"
+      },
+      "artists": [
+        {
+          "name": "Rumour Mill",
+          "url": "https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6"
+        },
+        {
+          "name": "Aline Deanna",
+          "url": "https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV"
+        },
+        {
+          "name": "Anna Katarina",
+          "url": "https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215274,
+      "name": "Song for a Winter's Night",
+      "url": "https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb"
     },
     {
       "album": {

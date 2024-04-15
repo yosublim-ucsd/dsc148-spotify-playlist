@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 935844,
+  "2024-04-15": 935917,
   "date_first_scraped": "2021-12-30",
   "description": "Indie soul that's highkey fire ",
   "name": "Lowkey",
@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182189,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
@@ -4751,7 +4751,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 139750,
       "name": "HERE THEY COME",
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
@@ -4871,6 +4871,24 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "album": {
@@ -5587,7 +5605,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 227264,
       "name": "IJS",
       "url": "https://open.spotify.com/track/165JdCb1wEYmP5WfOXfBfa"

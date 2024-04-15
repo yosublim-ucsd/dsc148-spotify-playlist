@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,042 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,092 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 33 | [FFVII REMAKE: 終末の７秒前 \(Seven Seconds till the End\)](https://open.spotify.com/track/1NhV0BjjrDNdlhIutosBFd) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:30 |
 | 34 | [FFVII REMAKE: ジェシーのテーマ \(Jessie's Theme\)](https://open.spotify.com/track/1tnENCXJOJHAJCbWoOqDT0) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:27 |
 | 35 | [Oblivion](https://open.spotify.com/track/11fITg5u1NddciKuiIXEst) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 7:59 |
-| 36 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
+| 36 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
 | 37 | [Moment of Recall](https://open.spotify.com/track/3WpisYlhAtVgorb1ZQnBpm) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:47 |
 | 38 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 |
 | 39 | [Calling for Rain](https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L) | [Neo Liu](https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6), [Tu Hua Bing](https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 3:40 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 43 | [Phantoms](https://open.spotify.com/track/58hNR7JaOUY5TihJpm5DUa) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:46 |
 | 44 | [Paradigm Shift](https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:49 |
 | 45 | [Rise](https://open.spotify.com/track/2Xl9NXXsSzUtrP1PLBJg7U) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9) | 4:19 |
-| 46 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
+| 46 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 47 | [Respite](https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:10 |
 | 48 | [FFVII REMAKE: ライブラリフロア \(Corporate Archives\)](https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:01 |
 | 49 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |

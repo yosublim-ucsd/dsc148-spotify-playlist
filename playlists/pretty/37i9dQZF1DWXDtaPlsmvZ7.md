@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,116 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,144 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 29 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 30 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 31 | [Tu sin mi](https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [Cumbia villera \- La Champions Liga](https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh) | 3:50 |
-| 32 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
-| 33 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 32 | [La Chica de Humo](https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [Las Más Escuchadas de los Siete Latinos](https://open.spotify.com/album/6Lu5BXVMEhQNH7b8PtlGhz) | 4:05 |
+| 33 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
 | 34 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
 | 35 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
 | 36 | [Insoportablemente Bella](https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/1gRdM69SCvqFqtYRbWOQi6) | 4:09 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 44 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
 | 45 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
 | 46 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 |
-| 47 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
-| 48 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
+| 47 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
+| 48 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
 | 49 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
 | 50 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
 | 51 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbias Para Bailar](https://open.spotify.com/artist/3RG133b54fN5qW6soMSN0Q) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |

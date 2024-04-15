@@ -1696,10 +1696,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 146266,
       "name": "Huh",
       "url": "https://open.spotify.com/track/2Dy7ZKdu40oGTkv8FwVyew"
+    },
+    {
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69"
+      },
+      "artists": [
+        {
+          "name": "Logan",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146266,
+      "name": "Huh",
+      "url": "https://open.spotify.com/track/2GAO4fbGIo8QuYXe4ZQA01"
     },
     {
       "album": {

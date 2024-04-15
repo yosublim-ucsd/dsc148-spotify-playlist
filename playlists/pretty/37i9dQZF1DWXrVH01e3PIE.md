@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > J Gonz & xuxu en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,468 likes - 102 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,452 likes - 102 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

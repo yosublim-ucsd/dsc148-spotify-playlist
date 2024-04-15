@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 34 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
 | 35 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
 | 36 | [Tongues](https://open.spotify.com/track/1aOby6ZVZfJ1LWUftHYgAa) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:45 |
-| 37 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
-| 38 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 |
+| 37 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 |
+| 38 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
 | 39 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
 | 40 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
 | 41 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 44 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
 | 45 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Mjg1NTEwODAsMDAwMDAwMDA2YTJhMjJkNTViZTFiNjU5MGJmOTQ4OTI4MjliODM1Mw==`
+Snapshot ID: `Mjg1NTI2NDAsMDAwMDAwMDA1Y2MxZTIyYjM1NzZlYWQ1MTE0ZjU4YTFlZTdmNGUwMg==`

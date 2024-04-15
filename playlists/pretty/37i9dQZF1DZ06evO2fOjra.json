@@ -1,12 +1,12 @@
 {
-  "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 472725,
+  "description": "This is Korn. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 472861,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDI5ODY4NzAzZDc4MDA1NTNkMTZiZTNlNjZjYjk0ODky",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDljMzAxZDViN2E2NjM0MmU3MWJmYjBhODBjZTI0NzY1",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 288973,
-      "name": "All In the Family (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
+      "duration_ms": 217506,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 217506,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
+      "duration_ms": 288973,
+      "name": "All In the Family (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 220880,
-      "name": "You'll Never Find Me",
-      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+      "duration_ms": 220880,
+      "name": "You'll Never Find Me",
+      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 427986,
-      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
-      "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 57360,
       "name": "Lowrider",
       "url": "https://open.spotify.com/track/4YJbZeAFY6D5p6izb51dK0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 427986,
+      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
+      "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
     },
     {
       "added_at": null,

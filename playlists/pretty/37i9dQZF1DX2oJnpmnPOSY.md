@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oJnpmnPOSY.md) - [plain]
 
 > Featuring Young Miko, PJ Sin Suela, Plan B & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,149 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,147 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oJnpmnPOSY.md) - [plain]
 | 13 | [Sufro](https://open.spotify.com/track/30zOxKkUh8mWagK7TxrDf5) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Sufro](https://open.spotify.com/album/5bJKhjJiKyvlfbTBOQmHbk) | 4:36 |
 | 14 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 |
 | 15 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 |
-| 16 | [Ghetto Star](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Ghetto Star](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 |
+| 16 | [GHETTO STAR](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [GHETTO STAR](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 |
 | 17 | [NO LO SÉ](https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NO LO SÉ](https://open.spotify.com/album/1Br5WXUWmSDjUL6eoMnMXc) | 3:59 |
 | 18 | [NOPALATELE](https://open.spotify.com/track/5TF6x1UsQnX3Tv3wd5Fw78) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [WorKING](https://open.spotify.com/album/02STLoPPeQ8PoV91Ilkg08) | 4:17 |
 | 19 | [Blessings](https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Blessings](https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by) | 3:04 |

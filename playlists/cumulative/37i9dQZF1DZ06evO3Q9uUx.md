@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 20 min
+94 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 | 2023-07-29 | 2024-03-15 |
 | [BIG BUSINESS](https://open.spotify.com/track/3x0AuSjITqCy6pA3tDqCpE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 1:41 | 2024-03-15 |  |
 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 | 2022-10-28 |  |
+| [Bitch Duh \(Remix\)](https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh \(Remix\)](https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i) | 2:52 | 2024-04-15 |  |
 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 | 2022-10-28 | 2023-07-30 |
 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 | 2022-10-28 | 2023-08-05 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-08-31 |  |
@@ -72,7 +73,7 @@
 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 | 2022-10-28 | 2023-10-11 |
 | [Nasty Girl](https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 2:48 | 2024-01-20 |  |
 | [Nasty Girl](https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 | 2022-10-28 | 2023-10-11 |
-| [OH NO](https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:37 | 2023-07-30 |  |
+| [OH NO](https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:37 | 2023-07-30 | 2024-04-15 |
 | [OMG](https://open.spotify.com/track/0KZgWM9NQnbJYxP31XtL4k) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [OMG](https://open.spotify.com/album/3Sdnzuh874KS2fpvbOKfVh) | 3:01 | 2022-10-28 | 2023-03-12 |
 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 | 2022-10-28 |  |
 | [Perfect](https://open.spotify.com/track/7v5fIXqgB0nd5KgekRDe4M) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [Perfect](https://open.spotify.com/album/3cPb7WoJvMKZdJNL9nU2UT) | 3:27 | 2022-10-28 | 2023-09-01 |

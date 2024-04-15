@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 50 min
+61 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-27 |  |
 | [Azúcar](https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Azúcar](https://open.spotify.com/album/7lYA8XiizTdbP5EQAXRjtE) | 2:27 | 2023-11-10 |  |
 | [Cheve](https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Cheve](https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP) | 2:54 | 2023-11-10 |  |
+| [Cielo](https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:56 | 2024-04-15 |  |
 | [COMOSINADA](https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:50 | 2023-11-10 |  |
 | [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2023-11-10 |  |
 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 | 2023-11-10 |  |
@@ -41,7 +42,7 @@
 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 | 2023-11-10 |  |
 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2023-11-10 |  |
 | [Mereces Menos](https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mereces Menos](https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1) | 3:00 | 2023-11-10 |  |
-| [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 | 2023-11-10 |  |
+| [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 | 2023-11-10 | 2024-04-15 |
 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2023-11-10 |  |
 | [NASCAR](https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:13 | 2024-04-14 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2023-11-10 |  |

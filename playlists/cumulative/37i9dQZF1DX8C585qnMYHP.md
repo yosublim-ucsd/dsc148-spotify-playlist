@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. @ \(at\) on cover\. Artwork by Thami Nabil
 
-1,678 songs - 5 day 14 hr 18 min
+1,679 songs - 5 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,7 +1340,8 @@
 | [Sustain](https://open.spotify.com/track/6byxNuNEWQGi2RTPhVa0eA) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Fresh Bread](https://open.spotify.com/album/3iVOk8jehk1yzUvfA9iHvC) | 4:20 | 2021-12-01 | 2022-02-01 |
 | [Sweat](https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Sweat](https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J) | 2:53 | 2024-01-24 |  |
 | [Sweet](https://open.spotify.com/track/7m94SkZHuCLsK6bIv30hpO) | [Gorgeous](https://open.spotify.com/artist/2K57diiymPKJypIp168Mk9) | [Sapsucker](https://open.spotify.com/album/5WFzyaIAtYGfYgG5jWNGWj) | 1:43 | 2023-06-14 | 2023-06-28 |
-| [Sweety Chant](https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY) | [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Sweety Chant](https://open.spotify.com/album/4DWwv1bf1TiNWYrwluGqP3) | 2:44 | 2024-03-13 |  |
+| [Sweety Chant](https://open.spotify.com/track/0gpcVj2ClgZXz52WpUpW6I) | [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Dawn Milky](https://open.spotify.com/album/3lZgURDeilLsWckhBF7yji) | 2:44 | 2024-03-13 |  |
+| [Sweety Chant](https://open.spotify.com/track/4wBR6PSc3xnqdAQzpcCHzY) | [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Sweety Chant](https://open.spotify.com/album/4DWwv1bf1TiNWYrwluGqP3) | 2:44 | 2024-03-13 | 2024-04-15 |
 | [Sweety Chant](https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA) | [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Sweety Chant](https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp) | 2:44 | 2024-03-13 | 2024-03-16 |
 | [Swell](https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4), [David Wenngren](https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp) | [Strangers](https://open.spotify.com/album/783flv2FHsliDX36JbbmD3) | 8:01 | 2022-06-29 | 2022-08-25 |
 | [Swim](https://open.spotify.com/track/7kJ6HwxgvdYgp1M05ONYNB) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Swim](https://open.spotify.com/album/2oyjP6PPzSn1hTOlYcod2Z) | 1:20 | 2023-03-01 | 2023-04-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 12596,
+  "2024-04-15": 12605,
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
@@ -21,6 +21,28 @@
       "duration_ms": 223000,
       "name": "Ain't Nothin' You Can Do",
       "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "All Right Baby",
+      "url": "https://open.spotify.com/track/1EowSt2a2wlxdcyDxBFGcA"
     },
     {
       "album": {
@@ -253,7 +275,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Big Mama's Bumble Bee",
       "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
@@ -337,7 +359,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -637,7 +659,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 166320,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/1jYWQqeAXOLrEViva1mhyR"
@@ -1535,7 +1557,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -1647,7 +1669,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 154040,
       "name": "Mischievous Boogie",
       "url": "https://open.spotify.com/track/4dYtzSs5aYnwec44vkTI2m"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 166906,
       "name": "No Jody for Me",
       "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
@@ -2583,7 +2605,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM"
@@ -2695,7 +2717,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
@@ -2923,7 +2945,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/1QGCXux6EbV2Tisimd0H5f"
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"

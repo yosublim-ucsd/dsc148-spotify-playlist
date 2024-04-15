@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22632,
+  "num_followers": 22642,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229989,
       "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 272847,
-      "name": "If It Is You",
-      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
         "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The Boys - The 3rd Album",
         "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228880,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 179053,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 212976,
       "name": "Please don\u2019t\u2026",
       "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-04-04 20:15:17",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "B-list",
+      "url": "https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P"
+    },
+    {
+      "album": {
         "name": "note-book -u.-",
         "url": "https://open.spotify.com/album/62sb3DB4se1XGHzXnGSjCT"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
@@ -753,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198694,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/2Dz1EZAnjNCnpiRKT6VDGC"
+    },
+    {
+      "album": {
         "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
       },
@@ -934,7 +970,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 198694,
       "name": "\u30b5\u30f3\u30d5\u30e9\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S"

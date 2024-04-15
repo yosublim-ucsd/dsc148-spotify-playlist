@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,622 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,679 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
 | 2 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
 | 3 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
-| 4 | [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 |
+| 4 | [Speed Of Light](https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:07 |
 | 5 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 | 6 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
 | 7 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 44 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
 | 45 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
 | 46 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 |
-| 47 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 |
+| 47 | [Miracles](https://open.spotify.com/track/17z2zDW0VTRHODWT1kteTI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:22 |
 | 48 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 |
 | 49 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
 | 50 | [Onderweg](https://open.spotify.com/track/1nduf8eirAAiVLXoC1C7cz) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/4NjZiNAFDFNtfbgyIHowGM) | 3:09 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 7165,
+  "2024-04-15": 7168,
   "date_first_scraped": "2023-02-25",
   "description": "De mooiste muziek: Americana | Country",
   "name": "Route Americana",
@@ -429,7 +429,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208082,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP"
@@ -1327,6 +1327,24 @@
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 48202,
+  "2024-04-15": 48195,
   "date_first_scraped": "2023-03-27",
   "description": "The soundtrack to Spotify House at SXSW Sydney 2023\n",
   "name": "Spotify House SXSW Australia",
@@ -3075,10 +3075,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
     },
     {
       "album": {

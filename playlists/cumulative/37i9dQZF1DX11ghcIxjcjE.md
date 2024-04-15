@@ -4,7 +4,7 @@
 
 > Grunge will live forever\. Cover: Eddie Vedder
 
-111 songs - 7 hr 59 min
+112 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Plush](https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 5:10 | 2021-11-30 | 2022-07-29 |
 | [Plush](https://open.spotify.com/track/5GOKfNUgDVWtcDg9DEIn5L) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [The 90s Album](https://open.spotify.com/album/6SzncloJo8iKpSEmDyRAIC) | 5:10 | 2022-10-18 | 2022-11-13 |
 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 | 2022-06-28 |  |
-| [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 5:54 | 2021-11-30 |  |
+| [Possum Kingdom](https://open.spotify.com/track/62IUIRsCIPISMVYwEyXE6f) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/7g8oCxBvNkTDmQjTLmIL7O) | 5:54 | 2024-03-31 |  |
+| [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 5:54 | 2021-11-30 | 2024-04-15 |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2021-11-30 |  |
 | [Revolve](https://open.spotify.com/track/09hctAvAEUpm7MKl1RBK2j) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 4:44 | 2021-11-30 |  |
 | [River Of Deceit](https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above](https://open.spotify.com/album/24eGklcEnMaVcGXzmJSeoD) | 5:02 | 2021-11-30 |  |

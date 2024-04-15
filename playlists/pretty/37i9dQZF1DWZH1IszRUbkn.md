@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 40 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 41 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
 | 42 | [Alibombo](https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Alibombo](https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG) | 2:56 |
-| 43 | [Mi mamá](https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones ¡Tope guay!](https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb) | 3:55 |
+| 43 | [Hasta Diez](https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea) | 2:12 |
 | 44 | [Acuarela](https://open.spotify.com/track/34oV1MaJfhU7AJDzERSFlS) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h) | [Porque yo te quiero](https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R) | 3:41 |
-| 45 | [Hasta Diez](https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea) | 2:12 |
+| 45 | [Mi mamá](https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones ¡Tope guay!](https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb) | 3:55 |
 | 46 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 47 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
 | 48 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
-| 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
-| 50 | [Malísima](https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea) | 2:38 |
+| 49 | [Malísima](https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea) | 2:38 |
+| 50 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 
 Snapshot ID: `MTcwNTk0NDQyNCwwMDAwMDAwMGNmMjhmNWUwMWMwZWE5OTlhNzBhMzJiZWQxZGYwYTk2`

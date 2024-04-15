@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 1994,
+  "2024-04-15": 1997,
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 106933,
       "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
       "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 214626,
       "name": "Spirit of Peace: Part I.",
       "url": "https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX"

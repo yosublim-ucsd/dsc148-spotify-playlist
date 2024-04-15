@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 204047,
+  "num_followers": 204225,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
         "name": "De Corazon Bohemio",
         "url": "https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 175570,
       "name": "T\u00fa Carcel",
       "url": "https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Sigo en la Jugada",
-        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
+        "name": "Despu\u00e9s De Hoy",
+        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
       "artists": [
         {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 224893,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
+      "duration_ms": 189280,
+      "name": "Mi Najayita",
+      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Despu\u00e9s De Hoy",
-        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
+        "name": "Sigo en la Jugada",
+        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Mi Najayita",
-      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+      "duration_ms": 224893,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Prefiero Ir Sola",
-      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
         "name": "Necesito una Compa\u00f1era",
         "url": "https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK"
       },
@@ -1759,18 +1743,34 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Homenaje A Los Bukis",
-        "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
       "artists": [
         {
-          "name": "Hermanos Figueroa",
-          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 619382,
-      "name": "Homenaje A Los Bukis",
-      "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
+      "duration_ms": 200546,
+      "name": "Prefiero Ir Sola",
+      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Despu\u00e9s De Hoy",
+        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1787,6 +1787,22 @@
       "duration_ms": 291640,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Homenaje A Los Bukis",
+        "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Figueroa",
+          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
+        }
+      ],
+      "duration_ms": 619382,
+      "name": "Homenaje A Los Bukis",
+      "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1823,18 +1839,18 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Despu\u00e9s De Hoy",
-        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1851,22 +1867,6 @@
       "duration_ms": 207293,
       "name": "No Puedo Olvidarlo",
       "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
     },
     {
       "added_at": "2024-02-23 19:15:14",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-02-23 19:15:14",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb"
-    },
-    {
-      "added_at": "2024-02-23 19:15:14",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 207186,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
+    },
+    {
+      "added_at": "2024-02-23 19:15:14",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb"
     },
     {
       "added_at": "2024-02-23 19:15:14",

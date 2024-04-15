@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12741,
+  "num_followers": 12744,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Chapter Of The Forest",
         "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 206293,
       "name": "Laps Around The Sun",
       "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Sacred Sound",
-        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Give Thanks (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 238767,
+      "name": "Summertime (feat. Citizen Cope)",
+      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "The Story of You",
         "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
       },
@@ -263,26 +283,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 238767,
-      "name": "Summertime (feat. Citizen Cope)",
-      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "The Change I'm Seeking",
         "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 482173,
       "name": "Permanent Holiday",
       "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "I Was Just Leaving",
+        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "I Was Just Leaving",
+      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -315,22 +331,6 @@
       "duration_ms": 285161,
       "name": "A Reminder (Remix)",
       "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "I Was Just Leaving",
-        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "I Was Just Leaving",
-      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Cas Haley",
         "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 222850,
       "name": "All Ways Love",
       "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -539,6 +539,22 @@
       "duration_ms": 287904,
       "name": "Indigo Sea",
       "url": "https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -635,34 +651,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Burn Right Through",
-        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
+        "name": "Everyday Life, Everyday People",
+        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
         }
       ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+      "duration_ms": 241306,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -687,22 +691,18 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Everyday Life, Everyday People",
-        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
+        "name": "Burn Right Through",
+        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 241306,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
+      "duration_ms": 251840,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Road Goes All Night",
-        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
-      },
-      "artists": [
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 351272,
-      "name": "Steppegrass",
-      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
     }
   ],
   "unique_name": "Peace Of Mind",

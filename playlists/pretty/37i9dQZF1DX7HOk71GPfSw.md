@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > she did her hyper\-homework
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,430 likes - 110 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,537 likes - 110 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

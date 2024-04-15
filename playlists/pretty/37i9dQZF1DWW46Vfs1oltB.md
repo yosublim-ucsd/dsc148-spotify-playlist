@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,800 likes - 142 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,988 likes - 142 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

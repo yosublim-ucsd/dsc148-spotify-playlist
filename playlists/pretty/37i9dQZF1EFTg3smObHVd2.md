@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 81 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 69 | [Good for You](https://open.spotify.com/track/6xkRlf3PL1rJrUWltDJh2o) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:54 |
 | 70 | [Bullshit in Disguise](https://open.spotify.com/track/1GvB8lPblkTIVKWmHei9VI) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47) | [Gravity](https://open.spotify.com/album/230NAWq6YRHMKTFkw3gYON) | 2:39 |
 | 71 | [Honesty](https://open.spotify.com/track/4EkCXwfSUmzPr8APls1cTh) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:20 |
-| 72 | [Personal Heaven](https://open.spotify.com/track/09YBIWKOy5jQ9gqB1ODvaa) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:06 |
-| 73 | [Water](https://open.spotify.com/track/3gj2Q4Y8XSnSuzccxvMDRt) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
-| 74 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:55 |
-| 75 | [Yes Please](https://open.spotify.com/track/1EwaalnuBxcBnbIqEK2yNQ) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Yes Please](https://open.spotify.com/album/5buJ1a0qjOxVvBcjdvmtgT) | 3:20 |
-| 76 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:27 |
-| 77 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
-| 78 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:15 |
-| 79 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
-| 80 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
+| 72 | [SAVE ME \(with House Gospel Choir\)](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME \(with House Gospel Choir\)](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 |
+| 73 | [Personal Heaven](https://open.spotify.com/track/09YBIWKOy5jQ9gqB1ODvaa) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:06 |
+| 74 | [Water](https://open.spotify.com/track/3gj2Q4Y8XSnSuzccxvMDRt) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
+| 75 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:55 |
+| 76 | [Yes Please](https://open.spotify.com/track/1EwaalnuBxcBnbIqEK2yNQ) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Yes Please](https://open.spotify.com/album/5buJ1a0qjOxVvBcjdvmtgT) | 3:20 |
+| 77 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:27 |
+| 78 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
+| 79 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:15 |
+| 80 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
+| 81 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Mjg1NTEwODAsMDAwMDAwMDAzZWM1MTU2MTBiYTExMGEwYWMzMjc2OTMzZDdkY2ZjZA==`
+Snapshot ID: `Mjg1NTI2NDAsMDAwMDAwMDAwYzRmYTRmZDZjOGM3NGY2NzJkNjVhNmU4MTI1MWQyZg==`

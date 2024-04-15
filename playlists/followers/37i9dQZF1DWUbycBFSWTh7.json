@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 189962,
+  "2024-04-15": 190008,
   "date_first_scraped": "2022-09-17",
   "description": "get into the groove",
   "name": "Deep House Grooves",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 315200,
       "name": "Aperol Spiritz",
       "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
@@ -389,6 +389,32 @@
       "duration_ms": 375483,
       "name": "Back In Time - Original Mix",
       "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
+    },
+    {
+      "album": {
+        "name": "Ban the disco (Crackazat Remix)",
+        "url": "https://open.spotify.com/album/78VqZmY1I8nrv2fBh7gBQI"
+      },
+      "artists": [
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        },
+        {
+          "name": "Chatobaron",
+          "url": "https://open.spotify.com/artist/0LslH1cGQAi9LcdHz8nfuc"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367519,
+      "name": "Ban the disco - Crackazat Remix",
+      "url": "https://open.spotify.com/track/6rLwjegutOzacMgqFoePez"
     },
     {
       "album": {
@@ -660,6 +686,32 @@
     },
     {
       "album": {
+        "name": "Cash (Sam Ruffillo & Kapote Remix)",
+        "url": "https://open.spotify.com/album/4qyBZrQZVOkiJTLoj8OivO"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320418,
+      "name": "Cash - Sam Ruffillo & Kapote Remix",
+      "url": "https://open.spotify.com/track/7IxAKJyQuKTzY64yhey9tH"
+    },
+    {
+      "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
       },
@@ -737,6 +789,28 @@
       "duration_ms": 337031,
       "name": "Clap & Stomp",
       "url": "https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/62njb6nsg4ntb0Yz484iRA"
+      },
+      "artists": [
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        },
+        {
+          "name": "K-Scope",
+          "url": "https://open.spotify.com/artist/2T97L7dln6ZjMY4GXmHhWn"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2Mhpk5XDfR0qXxWtrtpLdv"
     },
     {
       "album": {
@@ -1937,7 +2011,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 389305,
       "name": "Gary's Dreamland",
       "url": "https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa"
@@ -3140,6 +3214,24 @@
     },
     {
       "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6uwVjMyoswCsVZjgm9lIur"
+      },
+      "artists": [
+        {
+          "name": "Playin' 4 The City",
+          "url": "https://open.spotify.com/artist/7xmEtJS8DT1xy4XzRRfBZ0"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369338,
+      "name": "Minor Track - Original Mix",
+      "url": "https://open.spotify.com/track/5mylJZiyJxo3OarrY44VW4"
+    },
+    {
+      "album": {
         "name": "Entity",
         "url": "https://open.spotify.com/album/6uatIrCbBoT6zYBOqJ3HpO"
       },
@@ -3409,6 +3501,24 @@
       "duration_ms": 383216,
       "name": "My Buddy",
       "url": "https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM"
+    },
+    {
+      "album": {
+        "name": "My Love Is Deep",
+        "url": "https://open.spotify.com/album/4zzqFqw80JOxJtgAw8QcEs"
+      },
+      "artists": [
+        {
+          "name": "Seven Davis Jr.",
+          "url": "https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253962,
+      "name": "My Love Is Deep",
+      "url": "https://open.spotify.com/track/0V3OfrdXZ64gK9gAKqqnr2"
     },
     {
       "album": {
@@ -3685,6 +3795,24 @@
       "duration_ms": 241572,
       "name": "Ooo La La - bad tuner Remix",
       "url": "https://open.spotify.com/track/1NA4I9qk0YywCxRRnTEf7V"
+    },
+    {
+      "album": {
+        "name": "Outer Limits",
+        "url": "https://open.spotify.com/album/7JtdJtlBdfN0XLEWVmpOUc"
+      },
+      "artists": [
+        {
+          "name": "Boo Williams",
+          "url": "https://open.spotify.com/artist/19lPZSDpJKmdxfOVxjouaE"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420480,
+      "name": "Outer Limits",
+      "url": "https://open.spotify.com/track/6Q3YnYBYS2jmeKaOqBJmiS"
     },
     {
       "album": {
@@ -4131,6 +4259,32 @@
       "duration_ms": 361853,
       "name": "Roaring 20's - Robbie Doherty Remix",
       "url": "https://open.spotify.com/track/6QEMyGMHFqVlizUPqIEvDF"
+    },
+    {
+      "album": {
+        "name": "Roko (Edit)",
+        "url": "https://open.spotify.com/album/2hFzrnaZiCrjzNQKQ7M2Yw"
+      },
+      "artists": [
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII"
+        },
+        {
+          "name": "antraum",
+          "url": "https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252375,
+      "name": "Roko - Edit",
+      "url": "https://open.spotify.com/track/6a4lAFv2nr3ZIgBKOG2XIh"
     },
     {
       "album": {
@@ -4760,6 +4914,24 @@
     },
     {
       "album": {
+        "name": "Taurindo Shuffle",
+        "url": "https://open.spotify.com/album/7oTXQmUuyFhluBF7u815XL"
+      },
+      "artists": [
+        {
+          "name": "Genius Of Time",
+          "url": "https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202476,
+      "name": "Taurindo Shuffle - Edit",
+      "url": "https://open.spotify.com/track/6rxg7AzlFdbScVKwhF4eci"
+    },
+    {
+      "album": {
         "name": "Tension ep",
         "url": "https://open.spotify.com/album/1Scr29TOev6JrqO4oo29sH"
       },
@@ -5094,6 +5266,24 @@
     },
     {
       "album": {
+        "name": "Preserving EP",
+        "url": "https://open.spotify.com/album/2j4DjmXtyReSh67eq1Vr9N"
+      },
+      "artists": [
+        {
+          "name": "Fred P",
+          "url": "https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400194,
+      "name": "The Sound Exchange",
+      "url": "https://open.spotify.com/track/2Gsvem4ThIXvyZRymCBEAx"
+    },
+    {
+      "album": {
         "name": "The Sounds That Heal",
         "url": "https://open.spotify.com/album/1sAbQQckEmwPbIhE7gFCA2"
       },
@@ -5145,6 +5335,24 @@
       "duration_ms": 416502,
       "name": "The World Beyond",
       "url": "https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6"
+    },
+    {
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/3pJUfOmpRL52vLbhuXDTRa"
+      },
+      "artists": [
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417557,
+      "name": "Theresa's Paradise",
+      "url": "https://open.spotify.com/track/3Z5yk9kI6SGfgALwsDpowf"
     },
     {
       "album": {
@@ -5347,6 +5555,24 @@
       "duration_ms": 526416,
       "name": "Time To Smoke",
       "url": "https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX"
+    },
+    {
+      "album": {
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+      },
+      "artists": [
+        {
+          "name": "Urulu",
+          "url": "https://open.spotify.com/artist/7FYaJDT3DVb5xjxv9Ov1HI"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129539,
+      "name": "Tochi Descent",
+      "url": "https://open.spotify.com/track/7DLlI8dSTexTOYtk2jcIua"
     },
     {
       "album": {

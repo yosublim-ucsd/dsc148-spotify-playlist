@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-161 songs - 10 hr 22 min
+163 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [ブチコメ!!](https://open.spotify.com/track/6tzOqDbBuX6U7Hq6yfcZPL) | [SHIKURAMEN](https://open.spotify.com/artist/0TCMXwyEt39idbHRlwGvs8) | [シクラメンの夏](https://open.spotify.com/album/0DnVad4YbEUndhNGChkiSx) | 3:45 | 2022-05-10 |  |
 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 | 2022-05-10 |  |
 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 | 2023-10-03 |  |
+| [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-14 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-05-10 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-05-10 | 2022-07-29 |
 | [光へ](https://open.spotify.com/track/6q0iBMVQpMzRJi2771HiCD) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ フランシュシュ The Best](https://open.spotify.com/album/3KAi2KkekpOFd2gwhT3PNM) | 3:34 | 2022-05-10 |  |
@@ -130,6 +131,7 @@
 | [廻廻奇譚](https://open.spotify.com/track/2gSkvrwfCXCgqeugzezn97) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚](https://open.spotify.com/album/6f35hoWi8xaqBaJUKMszct) | 3:39 | 2022-05-10 | 2022-07-29 |
 | [徒花ネクロマンシー](https://open.spotify.com/track/4DEfLS1vTTjY7wlqNKajJ8) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [徒花ネクロマンシー](https://open.spotify.com/album/0cnoH7e5VEhjR1PKSUGm3e) | 4:05 | 2022-05-10 |  |
 | [心音（しんおん）](https://open.spotify.com/track/7knXcKHUVxb9qxo37ZDILh) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [心音（しんおん）](https://open.spotify.com/album/15SCmf8EiD69P4wRGz0gm6) | 5:28 | 2023-09-26 | 2023-09-28 |
+| [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 | 2024-04-14 |  |
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-05-10 | 2022-07-29 |
 | [悲しくてやりきれない](https://open.spotify.com/track/5VO9PtiWH5KgldpYrQWwIx) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:58 | 2022-05-10 |  |
 | [愛を教えてくれた君へ](https://open.spotify.com/track/5JtgYNu9mYBqUWtLVvo87L) | [Qaijff](https://open.spotify.com/artist/2ybYclZz8KsmrgwlK8Em1X) | [POP is YOURS](https://open.spotify.com/album/6yz6xjcVGRZ8erQTHPKpAJ) | 5:35 | 2022-05-10 |  |

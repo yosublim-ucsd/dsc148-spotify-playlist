@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 106675,
+  "2024-04-15": 106885,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Melodic Techno Elements",
@@ -2669,6 +2669,28 @@
       "duration_ms": 272862,
       "name": "Floating",
       "url": "https://open.spotify.com/track/2nIn3nbuTc1hraOplc0aOS"
+    },
+    {
+      "album": {
+        "name": "FLORAL",
+        "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "FLORAL",
+      "url": "https://open.spotify.com/track/424p6UywhA810uXc7zr6N4"
     },
     {
       "album": {
@@ -9175,7 +9197,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"

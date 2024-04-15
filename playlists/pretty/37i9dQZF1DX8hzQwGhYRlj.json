@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 35607,
+  "num_followers": 35616,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Long, Long Winter Night",
-        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 71773,
-      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
-      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
         "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
       },
@@ -527,6 +507,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "The Long, Long Winter Night",
+        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 71773,
+      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
+      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m"
       },
@@ -543,6 +543,26 @@
       "duration_ms": 209520,
       "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
       "url": "https://open.spotify.com/track/3Wqm7xi5DflMdJcWg9J6oc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
+      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -567,26 +587,6 @@
       "duration_ms": 381466,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
       "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
-      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
-        "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Inger Dam-Jensen",
-          "url": "https://open.spotify.com/artist/7r5JS1eVsYnKr9gtgbh4wd"
-        },
-        {
-          "name": "Palle Knudsen",
-          "url": "https://open.spotify.com/artist/3wICMf7yxURaENlEyUysuT"
-        },
-        {
-          "name": "Malm\u00f6 Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
-        },
-        {
-          "name": "Bjarte Engeset",
-          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "6 Orchestral Songs, EG 177: No. 2, Solveig's Cradle Song",
-      "url": "https://open.spotify.com/track/1cn9lxwu0DlFrQrnhWrrs8"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Piano Concerto in A Minor, Op. 54",
         "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 52560,
       "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
       "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
+        "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Inger Dam-Jensen",
+          "url": "https://open.spotify.com/artist/7r5JS1eVsYnKr9gtgbh4wd"
+        },
+        {
+          "name": "Palle Knudsen",
+          "url": "https://open.spotify.com/artist/3wICMf7yxURaENlEyUysuT"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "6 Orchestral Songs, EG 177: No. 2, Solveig's Cradle Song",
+      "url": "https://open.spotify.com/track/1cn9lxwu0DlFrQrnhWrrs8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
-      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
+      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
     },
     {
       "added_at": "2022-09-30 04:01:00",

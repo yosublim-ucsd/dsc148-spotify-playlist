@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 6917,
+  "2024-04-15": 6918,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -533,7 +533,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -1917,6 +1917,24 @@
       "duration_ms": 176133,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh"
+      },
+      "artists": [
+        {
+          "name": "Downstait",
+          "url": "https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210894,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
     },
     {
       "album": {
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
@@ -3741,7 +3759,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -4231,6 +4249,28 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {
@@ -5125,6 +5165,24 @@
       "duration_ms": 194400,
       "name": "Zhurek - Isko Alvarez remix",
       "url": "https://open.spotify.com/track/6a9T87YsJj9gqMA7ix7jC8"
+    },
+    {
+      "album": {
+        "name": "Zona za lyubov",
+        "url": "https://open.spotify.com/album/7a9aVsWnA7lMb40WVugQfy"
+      },
+      "artists": [
+        {
+          "name": "Violeta",
+          "url": "https://open.spotify.com/artist/722VXCCtdhusD9pWwnYKQH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Zona Za Lyubov",
+      "url": "https://open.spotify.com/track/7zezCzYwcLxwJznFJPBj8q"
     },
     {
       "album": {

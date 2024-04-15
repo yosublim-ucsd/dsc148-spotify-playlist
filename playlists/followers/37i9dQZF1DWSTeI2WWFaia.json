@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 1602491,
+  "2024-04-15": 1602481,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
   "name": "Spilled Ink",
@@ -889,7 +889,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186000,
       "name": "Backstage in Minneapolis",
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 108281,
       "name": "Burning Desire",
       "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
@@ -2919,6 +2919,36 @@
       "duration_ms": 161927,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/7dbgtABmOcuNsdNY5b6GXt"
+    },
+    {
+      "album": {
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
     },
     {
       "album": {
@@ -8423,7 +8453,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"

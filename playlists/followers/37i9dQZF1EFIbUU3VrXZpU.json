@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 4661,
+  "2024-04-15": 4662,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ\">Missy Elliott</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Missy Elliott",
@@ -4077,6 +4077,24 @@
       "duration_ms": 230826,
       "name": "Lick Shots",
       "url": "https://open.spotify.com/track/4TnIpa8I85Y4bMQVriqzDA"
+    },
+    {
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "album": {

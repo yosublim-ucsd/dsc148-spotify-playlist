@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 18959,
+  "2024-04-15": 18966,
   "date_first_scraped": "2021-12-29",
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
   "name": "This Is Mr Eazi",
@@ -435,6 +435,28 @@
       "duration_ms": 204549,
       "name": "Breakup Riddim",
       "url": "https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "album": {
@@ -3171,7 +3193,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 189283,
       "name": "\u00d2r\u00f2k\u00f3r\u00f2",
       "url": "https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec"

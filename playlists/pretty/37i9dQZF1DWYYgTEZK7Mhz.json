@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27913,
+  "num_followers": 27940,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Made In Italy",
         "url": "https://open.spotify.com/album/4ZH6HND1xhUn9IMbIb8tIu"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Rita Pavone (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il ballo del mattone",
-      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Nell'aria",
         "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 242640,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Rita Pavone (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il ballo del mattone",
+      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -507,8 +491,8 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Edoardo Vianello",
-        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+        "name": "Abbronzatissima",
+        "url": "https://open.spotify.com/album/1GiDW3ap0w0IoYYKR151dL"
       },
       "artists": [
         {
@@ -516,25 +500,9 @@
           "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Pinne, Fucile Ed Occhiali",
-      "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+      "duration_ms": 149493,
+      "name": "Abbronzatissima",
+      "url": "https://open.spotify.com/track/6TZXXZZi1N0ZeMYdxdVWeY"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -571,6 +539,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Un'estate al mare / Bing bang being [Digital 45]",
         "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
       },
@@ -583,22 +567,6 @@
       "duration_ms": 198373,
       "name": "Un'estate al mare",
       "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Abbronzatissima",
-        "url": "https://open.spotify.com/album/1GiDW3ap0w0IoYYKR151dL"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "Abbronzatissima",
-      "url": "https://open.spotify.com/track/6TZXXZZi1N0ZeMYdxdVWeY"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -663,6 +631,22 @@
       "duration_ms": 182415,
       "name": "Il Mare Quest'Estate",
       "url": "https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Pinne, Fucile Ed Occhiali",
+      "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Profumo di sole...",
+        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
+      },
+      "artists": [
+        {
+          "name": "Los Marcellos Ferial",
+          "url": "https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN"
+        }
+      ],
+      "duration_ms": 132093,
+      "name": "Sei diventata nera",
+      "url": "https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Guarda come dondolo - Single",
         "url": "https://open.spotify.com/album/6oZAEorbXlD7aiMd7qm6mX"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Profumo di sole...",
-        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
-      },
-      "artists": [
-        {
-          "name": "Los Marcellos Ferial",
-          "url": "https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN"
-        }
-      ],
-      "duration_ms": 132093,
-      "name": "Sei diventata nera",
-      "url": "https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Le pi\u00f9 belle canzoni di Milva",
         "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 180453,
       "name": "Il mare nel cassetto",
       "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Voulez Vous Danser",
+        "url": "https://open.spotify.com/album/1F56RB9ZGKIXvgdN9tmeYr"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223143,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/4DqJx5dX9gppOdPDAA2F74"
     }
   ],
   "unique_name": "Sapore di Sale",

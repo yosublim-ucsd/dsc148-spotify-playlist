@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Koriass
 
-2,441 songs - 5 day 10 hr 26 min
+2,442 songs - 5 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [En toi le soleil](https://open.spotify.com/track/3u1dB62XPTWNTHgqam3Oxz) | [Francesca Gagnon](https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV) | [En toi le soleil](https://open.spotify.com/album/22G4xqbvaOXR27S8qG5Dc4) | 4:04 | 2022-06-24 | 2022-07-09 |
 | [Encore](https://open.spotify.com/track/409KxStjBn0Iz1hSnBKRB0) | [Papagroove](https://open.spotify.com/artist/1GqYLGpfT909cmQ3HK4zL2) | [Encore](https://open.spotify.com/album/5XDexeVBs0ez0PZVOP2wnn) | 3:35 | 2022-01-14 | 2022-01-29 |
 | [Encore](https://open.spotify.com/track/3SdSxeLGGBlsvRrWsYtYxj) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Encore](https://open.spotify.com/album/4VWzcrgzEzJdGVsonFBVKy) | 4:55 | 2024-04-05 | 2024-04-13 |
+| [ENCORE \(feat\. Rsko\)](https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:43 | 2024-04-12 |  |
 | [Encore ben amoureux](https://open.spotify.com/track/0iIigb9wBXhyi197evZtvc) | [La Braise](https://open.spotify.com/artist/2rTU2KGZ4wyFZ2L8zXwlz4) | [Encore ben amoureux](https://open.spotify.com/album/4Xw8JlSme5o3LYJIDx5JqC) | 2:34 | 2022-06-03 | 2022-06-11 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-25 | 2022-12-10 |
 | [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 | 2023-10-13 | 2024-01-08 |
@@ -1581,7 +1582,7 @@
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-26 | 2022-09-17 |
 | [No No No \- Vanyfox Remix](https://open.spotify.com/track/2E7JHzaCVvVzhXslc6fw2P) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe) | [No No No \(Remixes\)](https://open.spotify.com/album/0UqQrorkbRnl51ldxDUxRY) | 3:16 | 2023-01-13 | 2023-01-21 |
 | [Noir sur noir](https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Noir sur noir](https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8) | 3:27 | 2024-03-01 | 2024-03-09 |
-| [Noise](https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Noise](https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC) | 4:02 | 2024-03-01 |  |
+| [Noise](https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Noise](https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC) | 4:02 | 2024-03-01 | 2024-04-15 |
 | [Nombril](https://open.spotify.com/track/43jvr7CrxU66jhEyGXTBpc) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité](https://open.spotify.com/album/1xbqCjoNDcVRrU50zsVd2W) | 2:35 | 2022-06-03 | 2022-06-11 |
 | [Nombril de circonstances](https://open.spotify.com/track/5JYSQ3wtaKnyUGnoEbsOxE) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Nombril de circonstances](https://open.spotify.com/album/1lozlqwph3wPyPmqFDpmMM) | 4:19 | 2022-10-14 | 2022-10-29 |
 | [Non merci](https://open.spotify.com/track/6lICN9USXkjQZroKIGKjPp) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Non merci](https://open.spotify.com/album/4MGycVUiLSkACkkEzjDrid) | 2:26 | 2022-09-30 | 2022-10-15 |

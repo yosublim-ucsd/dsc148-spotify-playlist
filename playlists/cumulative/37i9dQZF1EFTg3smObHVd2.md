@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-80 songs - 4 hr 40 min
+81 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Room for 2](https://open.spotify.com/track/1N6bSRD489MSNVsRYEQtji) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:28 | 2024-02-27 |  |
 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:27 | 2024-02-27 |  |
 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2024-02-27 |  |
+| [SAVE ME \(with House Gospel Choir\)](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME \(with House Gospel Choir\)](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 | 2024-04-14 |  |
 | [Save Some](https://open.spotify.com/track/78zn53pukXBwKHxvDMB59P) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:17 | 2024-02-27 |  |
 | [Say You're Wrong](https://open.spotify.com/track/0WbSs6CUc3UQxy4VjkaKIu) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Like A Woman](https://open.spotify.com/album/7sTP5Nk2rQJpXpPrJFRdyN) | 2:50 | 2024-02-27 |  |
 | [Sexy Love](https://open.spotify.com/track/5ZEm9wX8MwWLARMOwlarWD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:31 | 2024-02-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1566845,
+  "num_followers": 1567063,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 191266,
       "name": "Uncontrollable Urge",
       "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered 1989",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
       "artists": [
         {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered 1989",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -899,22 +883,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Personality Crisis",
-      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Personality Crisis",
+      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Natural's Not In It",
-      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "City Baby Attacked By Rats (Expanded Version)",
         "url": "https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 152746,
       "name": "Sick Boy",
       "url": "https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Natural's Not In It",
+      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
     },
     {
       "added_at": "2024-01-11 00:51:37",

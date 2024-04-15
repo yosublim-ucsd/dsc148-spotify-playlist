@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 7963,
+  "2024-04-15": 7966,
   "date_first_scraped": "2023-05-03",
-  "description": "This Is TOKiMONSTA. Los temas esenciales, todos en una lista.",
+  "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "name": "This Is TOKiMONSTA",
   "tracks": [
     {
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 231639,
       "name": "Nxt Msg - Deletion Mix",
       "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"

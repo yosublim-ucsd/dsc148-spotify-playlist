@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,555 likes - 94 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,563 likes - 94 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 75 | [Myselfed](https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Myselfed](https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf) | 4:47 |
 | 76 | [Ahora](https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 2:55 |
 | 77 | [Contra la Corriente](https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno) | [Crettino](https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD), [Felipe Ilabaca](https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU) | [Contra la Corriente](https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY) | 2:55 |
-| 78 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
-| 79 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
+| 78 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
+| 79 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 80 | [Monte Fuji](https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS) | [Santos de Madera](https://open.spotify.com/artist/3AMbKAJi3R8sEQFJkscCEO) | [Monte Fuji](https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw) | 3:53 |
 | 81 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
-| 82 | [El despertar de Kumbhakarna](https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC) | [Simbio](https://open.spotify.com/artist/0614awxhkDp9HWbseNlNOy) | [Wu Wei](https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8) | 2:09 |
-| 83 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 82 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 83 | [El despertar de Kumbhakarna](https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC) | [Simbio](https://open.spotify.com/artist/0614awxhkDp9HWbseNlNOy) | [Wu Wei](https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8) | 2:09 |
 | 84 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
 | 85 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
 | 86 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |

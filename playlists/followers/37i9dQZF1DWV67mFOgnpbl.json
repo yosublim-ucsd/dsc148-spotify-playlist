@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 399140,
+  "2024-04-15": 399367,
   "date_first_scraped": "2022-12-29",
   "description": "For those who like to party hard!",
   "name": "Party Hard",
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 253000,
       "name": "Fleur de lis",
       "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Th1rt3en or Nothing",
       "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"

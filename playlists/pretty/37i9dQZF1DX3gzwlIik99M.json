@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206498,
+  "num_followers": 206524,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
-        {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Cielo Ser\u00e1 Testigo",
         "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 270471,
       "name": "Credo de Darwin",
       "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
+      },
+      "artists": [
+        {
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+        "name": "Fugitive State of Mind",
+        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
       },
       "artists": [
         {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+          "name": "Voltax",
+          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
+      "duration_ms": 227013,
+      "name": "Acero Inmortal",
+      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Fugitive State of Mind",
-        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
       },
       "artists": [
         {
-          "name": "Voltax",
-          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
         }
       ],
-      "duration_ms": 227013,
-      "name": "Acero Inmortal",
-      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
     }
   ],
   "unique_name": "Metal del Nuestro",

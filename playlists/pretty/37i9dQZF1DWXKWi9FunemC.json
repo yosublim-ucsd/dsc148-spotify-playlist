@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 272551,
+  "num_followers": 272714,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 213157,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
         "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 213157,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 211251,
-      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
-      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -907,6 +887,26 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "duration_ms": 211251,
+      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Soul's on Fire",
         "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 209545,
       "name": "Soul's on Fire",
       "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC"
       },
       "artists": [
         {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 335299,
-      "name": "Goodness",
-      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+      "duration_ms": 249000,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Come Thou Fount of Every Blessing",
-        "url": "https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC"
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Come Thou Fount of Every Blessing",
-      "url": "https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws"
+      "duration_ms": 335299,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 169188,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
+      },
+      "artists": [
+        {
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Praise You In This Storm (New York Sessions)",
         "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 354407,
       "name": "Praise You In This Storm - New York Sessions",
       "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Footprints (Acoustic)",
+        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 247195,
+      "name": "Footprints - Acoustic",
+      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "25th floor of a reservation casino",
         "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 272213,
       "name": "how great thou art",
       "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Footprints (Acoustic)",
-        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 247195,
-      "name": "Footprints - Acoustic",
-      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "I Will Sing",
         "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 282000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 306506,
-      "name": "God Evermore",
-      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
+        "name": "Ever Be",
+        "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
       },
       "artists": [
         {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+      "duration_ms": 306506,
+      "name": "God Evermore",
+      "url": "https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu"
     },
     {
       "added_at": "2023-07-28 04:01:00",

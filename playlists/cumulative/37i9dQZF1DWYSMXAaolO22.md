@@ -4,15 +4,16 @@
 
 > 2022年4月にスタートした、TikTokとSpotifyの共同プログラム<a href="spotify:playlist:37i9dQZF1DXdTxsEGukhp4">「Buzz Tracker」</a>の総まとめ！2023年Buzz Trakcerで再生された楽曲ベスト50!  cover: Lucky Kilimanjaro
 
-51 songs - 2 hr 55 min
+52 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 | 2023-11-29 |  |
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-11-29 |  |
 | [Bad Bitch Bigaku Remix](https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 6:09 | 2023-11-29 |  |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-29 |  |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-11-29 |  |
-| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-11-29 |  |
+| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-11-29 | 2024-04-15 |
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-11-29 |  |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-29 |  |
 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 | 2023-11-29 |  |

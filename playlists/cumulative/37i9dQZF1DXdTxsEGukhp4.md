@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 東京、君がいない街
 
-357 songs - 20 hr 49 min
+358 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-29 | 2023-08-04 |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-12-07 | 2024-01-19 |
 | [Azukita](https://open.spotify.com/track/6tSaMs79oJxK3VZ7QFgoTj) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:46 | 2023-07-13 | 2023-09-09 |
+| [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 | 2024-04-11 |  |
 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 | 2023-09-07 | 2023-10-13 |
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-02-02 | 2023-09-22 |
 | [Bad Bitch Bigaku Remix](https://open.spotify.com/track/2NJQJmklJMPEt8iFqDgm4o) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [Bad Bitch Bigaku Remix](https://open.spotify.com/album/10nJGwqQ2oNN165RORg4j1) | 6:09 | 2023-07-27 | 2023-08-12 |
@@ -41,7 +42,7 @@
 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 | 2023-02-02 | 2023-03-31 |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-02-16 | 2023-11-11 |
 | [Bye\-Good\-Bye](https://open.spotify.com/track/3Itdlob7CzXIQqydeVwutQ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:01 | 2023-03-03 | 2023-04-04 |
-| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-06-22 |  |
+| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-06-22 | 2024-04-15 |
 | [C.O.S.M.I.C Love](https://open.spotify.com/track/2ldvJ1OU6rd9Isg750dwqu) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [C.O.S.M.I.C Love](https://open.spotify.com/album/4lckurvjmOR7q2fzICwsAq) | 3:34 | 2023-10-12 | 2023-11-18 |
 | [Call My Name](https://open.spotify.com/track/6GkT8PTDQgeHGOWHyOYrSb) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Call My Name](https://open.spotify.com/album/65JjI8bgYIFiYXyK7tM8uQ) | 3:27 | 2023-06-29 | 2023-07-06 |
 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-06-29 | 2023-08-18 |

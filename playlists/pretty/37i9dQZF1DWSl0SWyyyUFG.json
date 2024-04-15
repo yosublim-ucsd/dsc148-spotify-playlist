@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 254897,
+  "num_followers": 255266,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Caliente Caliente",
-      "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "16 Bandazos de Oro",
         "url": "https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 207000,
       "name": "Qu\u00e9 Puedo Hacer por Ti",
       "url": "https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Caliente Caliente",
+      "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
       "artists": [
         {
-          "name": "Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Juro Por Dios",
-      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
+      "duration_ms": 142786,
+      "name": "Me Dicen El Coyote",
+      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Juro Por Dios",
+      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Lo Mejor de lo Nuestro",
         "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 155063,
       "name": "El Domingo Se Casa",
       "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Me Dicen El Coyote",
-      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -2132,9 +2132,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 212040,
-      "name": "M\u00e1s Adelante",
-      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
+      "duration_ms": 244106,
+      "name": "Te Estar\u00e9 Esperando",
+      "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -2148,9 +2148,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Te Estar\u00e9 Esperando",
-      "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
+      "duration_ms": 212040,
+      "name": "M\u00e1s Adelante",
+      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
     },
     {
       "added_at": "2024-02-23 18:59:33",

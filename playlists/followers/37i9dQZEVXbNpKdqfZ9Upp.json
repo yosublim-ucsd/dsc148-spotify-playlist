@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 8248,
+  "2024-04-15": 8248,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -4049,7 +4049,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
@@ -11713,7 +11713,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
@@ -16140,6 +16140,24 @@
     },
     {
       "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh"
+      },
+      "artists": [
+        {
+          "name": "Downstait",
+          "url": "https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210894,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
+    },
+    {
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/12OCyIviCYgQF87NHlb5Qi"
       },
@@ -19385,6 +19403,24 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
+        "name": "LA RUTA X MEXICO, Vol. 1",
+        "url": "https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240794,
+      "name": "MARCIANO",
+      "url": "https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF"
     },
     {
       "album": {
@@ -23619,7 +23655,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
@@ -26777,7 +26813,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 262179,
       "name": "Que Fluya",
       "url": "https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS"
@@ -30865,7 +30901,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 298293,
       "name": "Sue\u00f1os Perdidos - Remix",
       "url": "https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK"
@@ -36133,7 +36169,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 172925,
       "name": "Winnie Pooh",
       "url": "https://open.spotify.com/track/6syifuZ5Q2DrTNp68Mprt2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,171 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,088 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 28 | [The Bomb](https://open.spotify.com/track/4eYmH4Sh0ibdU9nmnbu7aM) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj) | [Dragon Slayer](https://open.spotify.com/album/00qOCzVYbnem6uVcHqVktz) | 3:23 |
 | 29 | [Demon \(featuring $NOT\)](https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/2zhQ0DnZfURZJpHv3HGgw7) | 1:39 |
 | 30 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
-| 31 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 |
+| 31 | [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 |
 | 32 | [Party People](https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Zilliez](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Party People](https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0) | 2:42 |
 | 33 | [Exhale Inhale](https://open.spotify.com/track/1EUMm6cYTtCJLTTxiEk6HI) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Sky: Concert in the Light \(Original Game Soundtrack\)](https://open.spotify.com/album/5TtsKcqHI5MN7rtMR19tUL) | 3:32 |
 | 34 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |

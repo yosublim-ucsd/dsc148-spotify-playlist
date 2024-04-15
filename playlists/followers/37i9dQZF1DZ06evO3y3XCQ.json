@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 4011,
+  "2024-04-15": 4015,
   "date_first_scraped": "2022-10-28",
   "description": "This is Thursday. The essential tracks, all in one playlist.",
   "name": "This Is Thursday",
@@ -57,6 +57,24 @@
       "duration_ms": 98800,
       "name": "A Sketch For Time's Arrow",
       "url": "https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am"
+    },
+    {
+      "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "album": {

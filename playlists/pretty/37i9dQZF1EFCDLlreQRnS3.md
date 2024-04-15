@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 98 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 29 | [Erase](https://open.spotify.com/track/7FTB3muFoceoKXcWAfcPaS) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/3OsfKrXEwpqJxgTJgjKHJx) | 3:59 |
 | 30 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 |
 | 31 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/7zchcn4SERfMjsjOmWhdqh), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
-| 32 | [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:40 |
-| 33 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 32 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 |
+| 33 | [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:40 |
 | 34 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 |
 | 35 | [Boys Don't Cry](https://open.spotify.com/track/5nr7kfZHw46KWMzXvssCd5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Boys Don't Cry](https://open.spotify.com/album/2xR0FU8UXeYqa90X5XoByV) | 2:53 |
 | 36 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
@@ -104,7 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 94 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 |
 | 95 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
 | 96 | [What I Wanted \- Dub Mix](https://open.spotify.com/track/2hz4fFw6cB0BBX8f9NkI7q) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:48 |
-| 97 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
-| 98 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
+| 97 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
+| 98 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
+| 99 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg1NTEwNjAsMDAwMDAwMDBlMDExM2JjZTNhYTc5ZWYzZWE1NDE4OTJlNmJkMWFiOQ==`
+Snapshot ID: `Mjg1NTI2MjAsMDAwMDAwMDAzOWE1N2MzMmFmNjdkMGY5MmNlZjgyNDRlYWZlN2VhNw==`

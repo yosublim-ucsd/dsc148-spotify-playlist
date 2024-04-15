@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-520 songs - 1 day 12 hr 9 min
+521 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [One In This World](https://open.spotify.com/track/2hyLXM40ZAV9rMBtRNpJL1) | [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 4:11 | 2023-12-30 |  |
 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 | 2023-12-30 |  |
 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 | 2023-12-30 |  |
-| [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-12-30 |  |
+| [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-12-30 | 2024-04-15 |
+| [One Nation Under Love \- Ukrainian Version](https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Троянди](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:59 | 2024-04-14 |  |
 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 | 2023-12-30 |  |
 | [Only Love](https://open.spotify.com/track/29kLaik7s8woznFMjGv2qW) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [WHEN YOU'RE A BOY](https://open.spotify.com/album/5jggxDQtP1eGNgqOAThQSY) | 4:24 | 2023-12-30 |  |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2023-12-30 |  |

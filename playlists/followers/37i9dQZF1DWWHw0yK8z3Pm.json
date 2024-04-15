@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 61708,
+  "2024-04-15": 61713,
   "date_first_scraped": "2022-05-14",
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
   "name": "Renegades",
@@ -1555,6 +1555,24 @@
     {
       "album": {
         "name": "Room 41",
+        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
+    },
+    {
+      "album": {
+        "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
       "artists": [
@@ -1901,6 +1919,24 @@
     {
       "album": {
         "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199734,
+      "name": "Damn Darlin'",
+      "url": "https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
       "artists": [
@@ -2005,7 +2041,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 238143,
       "name": "Days Can Turn Around",
       "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
@@ -3647,7 +3683,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 210465,
       "name": "In Emerald",
       "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"

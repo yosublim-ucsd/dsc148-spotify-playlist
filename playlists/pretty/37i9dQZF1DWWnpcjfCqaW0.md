@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,586 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,638 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 24 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
 | 25 | [A Satisfied Mind](https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [This Is Jean Shepard](https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV) | 2:28 |
 | 26 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 |
-| 27 | [White Lightning \- Single Version](https://open.spotify.com/track/7o68KX6XyCS9lydBTH6TCP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Best Of](https://open.spotify.com/album/4otV4qBvLzDoCr9TajdsL0) | 2:45 |
+| 27 | [Whole Lotta Shakin' Going On \- Remastered 2022](https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Killer Keys Of Jerry Lee Lewis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB) | 2:53 |
 | 28 | [Five Feet High and Rising](https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songs Of Our Soil](https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP) | 1:47 |
-| 29 | [Whole Lotta Shakin' Going On \- Remastered 2022](https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Killer Keys Of Jerry Lee Lewis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB) | 2:53 |
+| 29 | [White Lightning \- Single Version](https://open.spotify.com/track/7o68KX6XyCS9lydBTH6TCP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Best Of](https://open.spotify.com/album/4otV4qBvLzDoCr9TajdsL0) | 2:45 |
 | 30 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
 | 31 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
 | 32 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |

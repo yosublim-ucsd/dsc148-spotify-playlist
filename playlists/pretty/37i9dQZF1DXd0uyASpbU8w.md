@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=k\-FfLSpCRzafA\-Qf9Eta2g">Future</a>, <a href="https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=k\-FfLSpCRzafA\-Qf9Eta2g">Metro Boomin'</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,336 likes - 63 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,386 likes - 63 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

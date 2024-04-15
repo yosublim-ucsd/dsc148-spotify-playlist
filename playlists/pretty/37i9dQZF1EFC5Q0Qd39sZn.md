@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,679 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,678 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 254 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 255 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
 | 256 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
-| 257 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
-| 258 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
+| 257 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
+| 258 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
 | 259 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
 | 260 | [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/0rEja75Y98wfZWBNcYp0o9) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:20 |
 | 261 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
@@ -377,7 +377,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 367 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
 | 368 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
 | 369 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 |
-| 370 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 370 | [One Nation Under Love \- Ukrainian Version](https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Троянди](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:59 |
 | 371 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 |
 | 372 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
 | 373 | [From Loving You](https://open.spotify.com/track/7bO7jSjgAmpEAQ7TpYWGwc) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Mandy Moore](https://open.spotify.com/album/5HcsWBlYBlkqVAmKl3ZM8k) | 3:32 |
@@ -468,8 +468,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 458 | [Too Many Tears, Too Many Times](https://open.spotify.com/track/23ZGF47GSg8tiHQrVyjgM6) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:30 |
 | 459 | [Remind My Heart](https://open.spotify.com/track/1UErZtDiUZExWAgFclSGH2) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [Passion](https://open.spotify.com/album/34HsSHnByRffyHCOWTt8CE) | 4:29 |
 | 460 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
-| 461 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 |
-| 462 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
+| 461 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
+| 462 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 |
 | 463 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 |
 | 464 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 |
 | 465 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1NTEwNzQsMDAwMDAwMDBhMzc4ZGYxM2UwYTY3ODY5NWI1ZTZmNDUxODU4MDJmNg==`
+Snapshot ID: `Mjg1NTI2MzAsMDAwMDAwMDAyZjI3MjQzZGNjNGIxZTdhMzgyZmEzNTJhMThmNmJjMw==`

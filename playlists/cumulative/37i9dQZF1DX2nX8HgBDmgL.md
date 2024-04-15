@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. Cover \- Babar Mangi, Noman Ali Rajper, Marvi Sahibaan\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-209 songs - 11 hr 12 min
+210 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Mi Tambien](https://open.spotify.com/track/547U8y8hkL0VwiGWQIawVi) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [A Mi Tambien](https://open.spotify.com/album/3oGNeC63uyqRudbdsM5LUM) | 2:43 | 2022-02-11 | 2022-07-19 |
 | [Aaja We Mahiya](https://open.spotify.com/track/5MoJ3MVKGGf25LxrFoxDSK) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-02-24 |  |
 | [Aaja We Mahiya](https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Aaja We Mahiya](https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok) | 3:52 | 2024-02-22 | 2024-03-27 |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [After Party](https://open.spotify.com/track/1xzXdnoVhFLNVIFSxxfDCI) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [After Party](https://open.spotify.com/album/3VnubNDl7WjNDmXTjOdyXG) | 3:10 | 2021-11-11 | 2022-07-19 |
 | [Alisha](https://open.spotify.com/track/2MSRhHRe3BFYp7l8J4G2Yz) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Love Affair](https://open.spotify.com/album/6qc1s6JcXgstR90BfA6VQy) | 2:59 | 2021-11-11 | 2022-07-19 |
 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2024-02-22 | 2024-03-20 |

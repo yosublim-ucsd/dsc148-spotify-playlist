@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,039 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,131 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 41 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 |
 | 42 | [Hollow Prayers](https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:46 |
 | 43 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 |
-| 44 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
-| 45 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
+| 44 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
+| 45 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
 | 46 | [Die Alone](https://open.spotify.com/track/6Rc3aKjwfmGMcpcQnHx296) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 4:21 |
 | 47 | [Any Love](https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 2:13 |
 | 48 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 60 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 |
 | 61 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 | 62 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 |
-| 63 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
-| 64 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
+| 63 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
+| 64 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
 | 65 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 66 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 |
 | 67 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 |
@@ -94,15 +94,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 84 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 |
 | 85 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
 | 86 | [infinity](https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF) | 2:54 |
-| 87 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
-| 88 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
+| 87 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
+| 88 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
 | 89 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
-| 90 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
+| 90 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 91 | [Pyjama Pants](https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:58 |
 | 92 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 93 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
 | 94 | [Rage](https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29) | 2:41 |
-| 95 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 95 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 96 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 |
 | 97 | [Mess](https://open.spotify.com/track/66koXsgfF5kOi8tGM9ENHs) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Red Honey](https://open.spotify.com/album/0txm5Pz3TMKCSZ2NJH8gHs) | 1:38 |
 | 98 | [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 |

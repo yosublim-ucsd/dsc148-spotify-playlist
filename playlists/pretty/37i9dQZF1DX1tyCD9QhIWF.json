@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2308214,
+  "num_followers": 2308202,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 245320,
       "name": "Ready for the High",
       "url": "https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 187826,
       "name": "Slow",
       "url": "https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2023-07-25 00:14:57",

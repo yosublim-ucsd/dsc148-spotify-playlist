@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 584184,
+  "num_followers": 584209,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
-      "added_at": "2024-02-09 20:12:13",
-      "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
       "added_at": "2024-01-22 16:26:19",
       "album": {
         "name": "No Place Is Home",
@@ -711,6 +695,22 @@
       "duration_ms": 232173,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX"
+    },
+    {
+      "added_at": "2024-02-09 20:12:13",
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -743,6 +743,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Beautiful People (Stay High)",
-        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 248306,
       "name": "Slither",
       "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Remastered)",
         "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "In Times New Roman...",
-        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 202776,
-      "name": "Paper Machete",
-      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Tejano Punk Boyz",
         "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 168311,
       "name": "Ramon Ayala",
       "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "In Times New Roman...",
+        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 202776,
+      "name": "Paper Machete",
+      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 234466,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1509,20 +1509,20 @@
       "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
     },
     {
-      "added_at": "2024-02-09 20:12:13",
+      "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
       },
       "artists": [
         {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
         }
       ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1541,20 +1541,20 @@
       "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
     },
     {
-      "added_at": "2024-01-22 16:26:19",
+      "added_at": "2024-02-09 20:12:13",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
         }
       ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-02-09 20:12:13",
       "album": {
-        "name": "Spiritual Cramp",
-        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "Talkin' On The Internet",
-      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
-    },
-    {
-      "added_at": "2024-02-09 20:12:13",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2024-02-09 20:12:13",
+      "album": {
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
     }
   ],
   "unique_name": "Beer & Wings",

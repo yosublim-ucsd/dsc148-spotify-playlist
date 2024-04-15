@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Rathnam
+> New Music from Kollywood.<br/>Cover : GOAT
 
-1,239 songs - 3 day 3 hr 53 min
+1,240 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,6 +1203,7 @@
 | [We Are Not The Same \(From "Soodhu Kavvum 2"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1bBXt8oqVzvRmdw8fF4SEU) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Edwin Louis Viswanath](https://open.spotify.com/artist/05t6zyU1voo2yoNFSYs7ZJ) | [We Are Not The Same \(From "Soodhu Kavvum 2"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5xgJr6zfbVmgMEs620i9KK) | 3:46 | 2024-04-01 |  |
 | [We Are The Teenz](https://open.spotify.com/track/1YFU1iJRTJDmzH8r19iNIZ) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll), [Neha](https://open.spotify.com/artist/0W96IMICy1mC4FHeZ5aF0O), [Krishaang](https://open.spotify.com/artist/0gUuwOF6JsIgkPXIINSjz0), [Nanda](https://open.spotify.com/artist/4GHgypuXoigBQ6kcFGEnnV), [Aanyah](https://open.spotify.com/artist/0V6KKR5g7UkEf9e0EvULlo), [Radhakrishnan Parthiban](https://open.spotify.com/artist/5TQgCYvAeDLhIASGGUYiDP) | [Teenz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25pz5qUNSjQzXvlYqYOUpH) | 3:18 | 2024-04-08 |  |
 | [WeekEnd Party \- From "WEB"](https://open.spotify.com/track/0fwBNKXr21Av5PY1kTxrO4) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Karthick Raja](https://open.spotify.com/artist/0dsG4h6CR1EWdVGOfpKWGZ) | [WeekEnd Party \(From "WEB"\)](https://open.spotify.com/album/0I4nynHXmbo24o5c3cjqgM) | 4:00 | 2022-09-07 | 2022-09-15 |
+| [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Prabhu Deva](https://open.spotify.com/artist/4DDxavYKFSz2OWM7J1ArtH), [Venkat Prabhu](https://open.spotify.com/artist/297dxI5V73N6q2EfyOM1vj), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o) | 4:41 | 2024-04-14 |  |
 | [Whistle Song](https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ) | 3:22 | 2022-06-22 | 2022-08-15 |
 | [Who am I](https://open.spotify.com/track/2EmQMi2HLvsIJpzlefyM38) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Vithaikkaaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4a3d8U6D6a25l9arxlxwy0) | 3:13 | 2024-02-29 | 2024-03-17 |
 | [Who Am I ?](https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Prince \(Tamil\)](https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj) | 4:03 | 2022-10-14 | 2023-03-11 |

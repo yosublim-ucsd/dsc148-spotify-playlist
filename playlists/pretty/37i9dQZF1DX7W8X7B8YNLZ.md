@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,688 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,748 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 9 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 10 | [Chanson sur ma drôle de vie \- Remasterisé en 2008](https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [De l'autre côté de mon rêve \(Remasterisé en 2008\)](https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b) | 2:41 |
 | 11 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
-| 12 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 |
+| 12 | [Mamy Blue](https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/5LZgUafnsq9bXQxwCnyecf) | 3:52 |
 | 13 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 14 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 |
 | 15 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |

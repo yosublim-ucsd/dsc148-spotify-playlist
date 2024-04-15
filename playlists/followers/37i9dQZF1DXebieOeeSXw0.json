@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 13687,
+  "2024-04-15": 13704,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -4038,6 +4038,24 @@
     },
     {
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Malemolencia",
+      "url": "https://open.spotify.com/track/4yOCbdjfT2zCSImNhTvDq9"
+    },
+    {
+      "album": {
         "name": "C\u00e9U",
         "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
@@ -4049,7 +4067,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 174653,
       "name": "Malemol\u00eancia",
       "url": "https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H"

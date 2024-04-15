@@ -15186,7 +15186,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 167956,
       "name": "protect",
       "url": "https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu"
@@ -18210,6 +18210,24 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+    },
+    {
+      "album": {
+        "name": "Supa Anxious",
+        "url": "https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Supa Anxious",
+      "url": "https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a"
     },
     {
       "album": {

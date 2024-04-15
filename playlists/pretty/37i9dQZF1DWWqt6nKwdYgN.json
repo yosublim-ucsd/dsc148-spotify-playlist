@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13620,
+  "num_followers": 13623,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Tensi\u00f3n",
         "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 175400,
       "name": "Tensi\u00f3n",
       "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Bendecida Y Afortunada",
         "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 159836,
       "name": "Bendecida Y Afortunada",
       "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "El Calent\u00f3n",
         "url": "https://open.spotify.com/album/5UqGVHKi6taFbuVAGUtacH"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1175,26 +1175,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "TARIMA",
-        "url": "https://open.spotify.com/album/3Mv4iYvIenzYXXntdpN2Ff"
+        "name": "Si La Ven",
+        "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Eddy Mugre",
-          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
+          "name": "Radio MC",
+          "url": "https://open.spotify.com/artist/1T4LhoAQYA8Wqy9VdwX4gg"
         }
       ],
-      "duration_ms": 208695,
-      "name": "TARIMA",
-      "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
+      "duration_ms": 160941,
+      "name": "Si La Ven",
+      "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1227,22 +1223,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Si La Ven",
-        "url": "https://open.spotify.com/album/6OLFc5kzAcbi6QhzzUCyzk"
+        "name": "TARIMA",
+        "url": "https://open.spotify.com/album/3Mv4iYvIenzYXXntdpN2Ff"
       },
       "artists": [
         {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
         },
         {
-          "name": "Radio MC",
-          "url": "https://open.spotify.com/artist/1T4LhoAQYA8Wqy9VdwX4gg"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Eddy Mugre",
+          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Si La Ven",
-      "url": "https://open.spotify.com/track/15IyQ1s3AMYpEFyYKjqzko"
+      "duration_ms": 208695,
+      "name": "TARIMA",
+      "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Una Mente Maestra",
+        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "duration_ms": 139242,
+      "name": "Una Mente Maestra",
+      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "3033",
         "url": "https://open.spotify.com/album/6PoMnoM5E9Dlf6dBy2fETQ"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Una Mente Maestra",
-        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Blanco",
-          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
-        }
-      ],
-      "duration_ms": 139242,
-      "name": "Una Mente Maestra",
-      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 184799,
       "name": "Mala",
       "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "L\u00c1SER",
-        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "L\u00c1SER",
-      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 150000,
       "name": "EL POINT",
       "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "L\u00c1SER",
+        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "L\u00c1SER",
+      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Sudaca en el Rooftop",
-        "url": "https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv"
-      },
-      "artists": [
-        {
-          "name": "Tsh Sudaca",
-          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
-        },
-        {
-          "name": "Brina Quoya",
-          "url": "https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY"
-        },
-        {
-          "name": "Dr Bizarro",
-          "url": "https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Sudaca en el Rooftop",
-      "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Rimas Femeninas",
         "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
       },
@@ -1859,6 +1835,30 @@
       "duration_ms": 193952,
       "name": "Rimas Femeninas",
       "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Sudaca en el Rooftop",
+        "url": "https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv"
+      },
+      "artists": [
+        {
+          "name": "Tsh Sudaca",
+          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
+        },
+        {
+          "name": "Brina Quoya",
+          "url": "https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY"
+        },
+        {
+          "name": "Dr Bizarro",
+          "url": "https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Sudaca en el Rooftop",
+      "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
     },
     {
       "added_at": "2024-04-12 06:00:00",

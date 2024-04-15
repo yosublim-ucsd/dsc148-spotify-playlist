@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-536 songs - 1 day 2 hr 4 min
+537 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bando de Pinguço \- Ao Vivo](https://open.spotify.com/track/1GFOCJWF5EyYFCxO86UbAh) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Conselho \(ao Vivo\)](https://open.spotify.com/album/0RVp1yzx3mTm7R3Vtojx3L) | 2:45 | 2023-12-30 |  |
 | [Barbie](https://open.spotify.com/track/7yTdaQFsYrKpd2pGsXhjeo) | [Joice Fernands](https://open.spotify.com/artist/5wFXO7WN65k5AMEO9elKvu) | [Música Maravilhosa](https://open.spotify.com/album/0SPYuFq5wwx7b6tQw8cz58) | 2:44 | 2024-01-21 |  |
 | [Barriga de Cerveja](https://open.spotify.com/track/7AtAwpZaczfxQONQC0ba7I) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise](https://open.spotify.com/album/39KDNclo3eaDWSP5IPyHVb) | 2:50 | 2023-12-30 |  |
-| [Bate e Volta](https://open.spotify.com/track/0ISMIcSsiLquVWLWvRD37W) | [Bernardo Rigo](https://open.spotify.com/artist/1jwHzvpzchnUElCHR46G2Z) | [Bate e Volta](https://open.spotify.com/album/2BuKOTGLxyjAi5L2Wdj7Sl) | 2:14 | 2023-12-30 |  |
+| [Bate e Volta](https://open.spotify.com/track/0ISMIcSsiLquVWLWvRD37W) | [Bernardo Rigo](https://open.spotify.com/artist/1jwHzvpzchnUElCHR46G2Z) | [Bate e Volta](https://open.spotify.com/album/2BuKOTGLxyjAi5L2Wdj7Sl) | 2:14 | 2023-12-30 | 2024-04-15 |
 | [Bebaço](https://open.spotify.com/track/1VjmBtjCupo1OEjDVRF4L0) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Eu Tô a Fim de Alguém](https://open.spotify.com/album/26Gp00VBhLtY7VVJEp1q27) | 3:18 | 2023-12-30 |  |
 | [Bebe e Beija \(Boca Solteira\)](https://open.spotify.com/track/0X8rvms0FLPPBq1XATDeJG) | [Grupo Hello](https://open.spotify.com/artist/0tHbWprCLQ4b8qawmC3RGL) | [Bebe e Beija \(Boca Solteira\)](https://open.spotify.com/album/40zOxnLWSeC3O0VPqo8Lzp) | 2:22 | 2023-12-30 |  |
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/7gFY0xf385HM4iF4t43tN3) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 3:01 | 2023-12-30 |  |
@@ -97,6 +97,7 @@
 | [Breguinha \- Ao Vivo](https://open.spotify.com/track/5sLAnYHTnsyvXGuKdmCTpd) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:23 | 2023-12-30 |  |
 | [Briga de Língua \- Ao Vivo](https://open.spotify.com/track/0ENLlSU5Jysrod71t7jqwf) | [João Márcio & Fabiano](https://open.spotify.com/artist/55vAOSNdgqdAe15TSUvn41) | [Briga de Língua \(Ao Vivo\)](https://open.spotify.com/album/4D8FhwIegNYdyPC5nwYYGg) | 2:35 | 2024-03-26 |  |
 | [Briga de Línguas](https://open.spotify.com/track/0CDcj8k6oxb70VR2LWCN7j) | [Osmar Caetano](https://open.spotify.com/artist/6fuPvTpnqFQ4mnn8nurGq0) | [Briga de Línguas](https://open.spotify.com/album/1WDxmIxJzrPPTKv7QPwALm) | 2:46 | 2023-12-30 | 2024-03-27 |
+| [Brinquedo Proibido](https://open.spotify.com/track/7HvrO3ciPgEEsJAk8zmzqG) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Elementos: FOGO](https://open.spotify.com/album/5lkPXzR90r46RldaKDDL3B) | 2:10 | 2024-04-14 |  |
 | [Buteco dos Ex](https://open.spotify.com/track/2inbmTElEW1mUjLaacdtex) | [Marcelo Rocha Oficial](https://open.spotify.com/artist/5DGnbFAMJgTdJHkDUt7Mp2), [Cantor Gabriel](https://open.spotify.com/artist/0bZAuv1yDi8oipujEnpsGe) | [Buteco dos Ex](https://open.spotify.com/album/4Z99DQPfKuXyTuXNOwFZ6E) | 2:44 | 2023-12-30 |  |
 | [Butequeira \- Ao Vivo](https://open.spotify.com/track/2UgkOp6ctPuLz625HwnFMO) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Ao Vivo Em São Paulo \- EP 1](https://open.spotify.com/album/5qYuNHoWcVgoQu4qgGlTh1) | 2:40 | 2023-12-30 |  |
 | [Bye Bye Boy \- Ao Vivo em Uberlândia](https://open.spotify.com/track/62CUulE4v4jpMWSdJcU9QW) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 1](https://open.spotify.com/album/7Jd5xw3FKdS6ITVGuAHtPJ) | 3:14 | 2024-03-26 |  |

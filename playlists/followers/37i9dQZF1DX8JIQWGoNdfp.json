@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 43564,
+  "2024-04-15": 43613,
   "date_first_scraped": "2022-10-03",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
   "name": "Tyreek Hill's Taste",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165813,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
@@ -461,6 +461,24 @@
       "duration_ms": 189026,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337466,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
     },
     {
       "album": {

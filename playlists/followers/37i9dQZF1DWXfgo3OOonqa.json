@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 327464,
+  "2024-04-15": 327501,
   "date_first_scraped": "2021-12-21",
   "description": "H\u00e5ll det 100.",
   "name": "100",
@@ -14243,6 +14243,10 @@
         {
           "name": "La Rosy",
           "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
         }
       ],
       "date_added": "2024-04-11",
@@ -17874,7 +17878,7 @@
     },
     {
       "album": {
-        "name": "Minns du? (feat. Thomas Stenstr\u00f6m)",
+        "name": "MINNS DU? (feat. Thomas Stenstr\u00f6m)",
         "url": "https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ"
       },
       "artists": [
@@ -17891,7 +17895,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172056,
-      "name": "Minns du? (feat. Thomas Stenstr\u00f6m)",
+      "name": "MINNS DU? (feat. Thomas Stenstr\u00f6m)",
       "url": "https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp"
     },
     {
@@ -24056,7 +24060,7 @@
     },
     {
       "album": {
-        "name": "Svart Ferrari",
+        "name": "SVART FERRARI",
         "url": "https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb"
       },
       "artists": [
@@ -24069,7 +24073,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195411,
-      "name": "Svart Ferrari",
+      "name": "SVART FERRARI",
       "url": "https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7"
     },
     {

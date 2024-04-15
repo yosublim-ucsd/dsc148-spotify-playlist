@@ -2,9 +2,9 @@
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. The essential tracks, all in one playlist.
+> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
 
-61 songs - 3 hr 23 min
+62 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [FUTURO FLUXO](https://open.spotify.com/track/6ga16g9fDMr5fw3r8de3a4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [DJ Tonias](https://open.spotify.com/artist/6R9FiidHLdoF8vJLIsnjub) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 0:40 | 2023-12-19 | 2024-03-01 |
 | [GLORIOSA \(INTERLUDE\) \- AO VIVO](https://open.spotify.com/track/1JSzNRDFHnBYBaBnqVfmPM) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 1:16 | 2023-11-10 | 2023-12-14 |
 | [Joga Bunda](https://open.spotify.com/track/6h78dT41teS3xbyVwKBLV7) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Joga Bunda](https://open.spotify.com/album/7zlMnYSbNwc4zd7jD0F6jr) | 2:42 | 2023-11-10 | 2023-12-14 |
+| [Joga Bunda](https://open.spotify.com/track/7BH7NUAZcgL24DXcWZpkeG) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Mercadinho](https://open.spotify.com/album/2DZQGYABPgBz35Ei7RU0jd) | 2:42 | 2024-04-15 |  |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2023-11-10 |  |
 | [Lágrima](https://open.spotify.com/track/7pA9jxIg1QcfdnBdhJgOpa) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Lágrima](https://open.spotify.com/album/5NetuXptD7ps8XOPEtUYUy) | 3:34 | 2023-11-10 | 2023-12-14 |
 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 | 2023-11-10 |  |

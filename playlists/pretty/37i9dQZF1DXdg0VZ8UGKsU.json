@@ -1,6 +1,6 @@
 {
   "description": "All 80s, all ballads. Cover: Gloria Estefan",
-  "num_followers": 354251,
+  "num_followers": 354412,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
@@ -603,38 +603,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -687,6 +671,22 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Frontiers (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Faithfully (2023 Remaster)",
-      "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "Frontiers (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Faithfully (2023 Remaster)",
+      "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 277600,
       "name": "Where Do Broken Hearts Go",
       "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Good To Be Back",
-        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Miss You Like Crazy",
-      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Share Your Love",
         "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
+        "name": "Good To Be Back",
+        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Miss You Like Crazy",
+      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
         "name": "Beaches (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 293853,
       "name": "Wind Beneath My Wings",
       "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -1039,6 +1023,22 @@
       "duration_ms": 277600,
       "name": "Love Will Lead You Back",
       "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Won't Hold You Back",
-      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "David Foster",
-        "url": "https://open.spotify.com/album/61nRYw38onfZeQ2pjlrYp5"
-      },
-      "artists": [
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "The Best of Me",
-      "url": "https://open.spotify.com/track/3FUJGbUvwM8IooDXaY8mN1"
-    },
-    {
-      "added_at": "2024-02-12 15:07:07",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 235666,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
+    },
+    {
+      "added_at": "2024-02-12 15:07:07",
+      "album": {
+        "name": "David Foster",
+        "url": "https://open.spotify.com/album/61nRYw38onfZeQ2pjlrYp5"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "The Best of Me",
+      "url": "https://open.spotify.com/track/3FUJGbUvwM8IooDXaY8mN1"
     },
     {
       "added_at": "2024-02-12 15:07:07",

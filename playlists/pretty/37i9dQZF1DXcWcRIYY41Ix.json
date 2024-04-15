@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
-  "num_followers": 123141,
+  "num_followers": 123181,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
-      },
-      "artists": [
-        {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
-        }
-      ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
         "name": "Capurgan\u00e1",
         "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 219143,
       "name": "papel de fumar",
       "url": "https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
-        "name": "Todo Este Caos",
-        "url": "https://open.spotify.com/album/4gh2gsIxxU7M1gRmv8Fwn0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Kilombo",
-          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
-        }
-      ],
-      "duration_ms": 177971,
-      "name": "Trastos",
-      "url": "https://open.spotify.com/track/5x26NTcyjv0uink1DZ8DxJ"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
         "name": "la ra\u00edz",
         "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224501,
       "name": "la ra\u00edz",
       "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
+        "name": "Todo Este Caos",
+        "url": "https://open.spotify.com/album/4gh2gsIxxU7M1gRmv8Fwn0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kilombo",
+          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+        }
+      ],
+      "duration_ms": 177971,
+      "name": "Trastos",
+      "url": "https://open.spotify.com/track/5x26NTcyjv0uink1DZ8DxJ"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
+        "name": "San Nosotros",
+        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "San Nosotros",
+      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "San Nosotros",
-        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "San Nosotros",
-      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1227,18 +1207,22 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
       "artists": [
         {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -1259,6 +1243,22 @@
       "duration_ms": 100253,
       "name": "Ponme",
       "url": "https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -1551,6 +1551,42 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
+        "name": "La vida en otra parte",
+        "url": "https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH"
+      },
+      "artists": [
+        {
+          "name": "Laura Sam",
+          "url": "https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "La vida en otra parte",
+      "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
         "name": "una se\u00f1al",
         "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
       },
@@ -1639,6 +1675,22 @@
     {
       "added_at": "2024-04-12 10:25:28",
       "album": {
+        "name": "Del Fuego, Pt. 1",
+        "url": "https://open.spotify.com/album/4ebMIRHSSYt3KLLRb14fjV"
+      },
+      "artists": [
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5sAZO2RSyywOcDXO2y8d9G"
+    },
+    {
+      "added_at": "2024-04-12 10:25:28",
+      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1675,22 +1727,6 @@
       "duration_ms": 197442,
       "name": "No somos extra\u00f1os",
       "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "Del Fuego, Pt. 1",
-        "url": "https://open.spotify.com/album/4ebMIRHSSYt3KLLRb14fjV"
-      },
-      "artists": [
-        {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5sAZO2RSyywOcDXO2y8d9G"
     },
     {
       "added_at": "2024-04-12 10:25:28",
@@ -1783,42 +1819,6 @@
       "duration_ms": 214464,
       "name": "La Noche de Mi Amor",
       "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "La vida en otra parte",
-        "url": "https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH"
-      },
-      "artists": [
-        {
-          "name": "Laura Sam",
-          "url": "https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL"
-        },
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "La vida en otra parte",
-      "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
-    },
-    {
-      "added_at": "2024-04-12 10:25:28",
-      "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
-      },
-      "artists": [
-        {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
-        }
-      ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2024-04-12 10:25:28",

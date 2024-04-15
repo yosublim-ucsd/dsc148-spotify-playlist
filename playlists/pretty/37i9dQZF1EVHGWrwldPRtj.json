@@ -1,12 +1,12 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> y m\u00e1s",
   "num_followers": 0,
-  "original_name": "Chill Mix",
+  "original_name": "Mix de chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDYxOTM2N2U1OGYwZTY5NTAwY2Q2YmM3NzcwMWQ1YWM4",
+  "snapshot_id": "MCwwMDAwMDAwMGJkMDAyZmRiNjU0NGQwMTlmOGFhMWU0YTQ4NWU2NmQw",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SB3",
-        "url": "https://open.spotify.com/album/6j2Wx4RkUxeD4HsB64fwjt"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Muy Tranquilo",
-      "url": "https://open.spotify.com/track/3aCkU7zRK9YtA9KyoTIqnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She Said (Big Jet Plane)",
         "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
       },
@@ -123,6 +107,46 @@
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daughter of the Sun",
+        "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
+      },
+      "artists": [
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        },
+        {
+          "name": "Justice Der",
+          "url": "https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz"
+        }
+      ],
+      "duration_ms": 212095,
+      "name": "Daughter of the Sun",
+      "url": "https://open.spotify.com/track/69CGLTPXh5TNa1PsFJLRId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SB3",
+        "url": "https://open.spotify.com/album/6j2Wx4RkUxeD4HsB64fwjt"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Muy Tranquilo",
+      "url": "https://open.spotify.com/track/3aCkU7zRK9YtA9KyoTIqnb"
     },
     {
       "added_at": null,
@@ -203,18 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": null,
@@ -271,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rohan",
         "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
       },
@@ -283,6 +323,38 @@
       "duration_ms": 162461,
       "name": "Rohan",
       "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "duration_ms": 117495,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
     },
     {
       "added_at": null,
@@ -339,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
-      },
-      "artists": [
-        {
-          "name": "Jinsang",
-          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
-        }
-      ],
-      "duration_ms": 117495,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -387,8 +443,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/1fx0N8LTKcYMOXsGooO7Dq"
       },
       "artists": [
         {
@@ -396,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
         }
       ],
-      "duration_ms": 151794,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp"
+      "duration_ms": 155217,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/7CuirbdoToNGURPTSxXUyV"
     },
     {
       "added_at": null,
@@ -415,26 +487,6 @@
       "duration_ms": 147125,
       "name": "Sunbeams",
       "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Storm on a Summers Day",
-        "url": "https://open.spotify.com/album/1iSG24ckIXnhCjIWcVJZYY"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "A Storm on a Summers Day",
-      "url": "https://open.spotify.com/track/4svk9KGtIVSEoeG2VjIUSy"
     },
     {
       "added_at": null,
@@ -475,34 +527,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Might've Even Loved Me",
-        "url": "https://open.spotify.com/album/17lrjQt4jEcU3YN41qocce"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/70OhoWldJxT2YAyi5eE8QZ"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Honey Bones",
-        "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
         }
       ],
-      "duration_ms": 237961,
-      "name": "Marinade",
-      "url": "https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l"
+      "duration_ms": 151794,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp"
     },
     {
       "added_at": null,
@@ -563,22 +619,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Almost a Lover",
+        "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "NLSN",
+          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "scanta rose",
+          "url": "https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 121470,
+      "name": "Almost a Lover",
+      "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Storm on a Summers Day",
+        "url": "https://open.spotify.com/album/1iSG24ckIXnhCjIWcVJZYY"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "A Storm on a Summers Day",
+      "url": "https://open.spotify.com/track/4svk9KGtIVSEoeG2VjIUSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i (Piano Version)",
+        "url": "https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ"
+      },
+      "artists": [
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
+      "url": "https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b"
     },
     {
       "added_at": null,
@@ -603,22 +695,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almost a Lover",
-        "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
+        "name": "They Might've Even Loved Me",
+        "url": "https://open.spotify.com/album/17lrjQt4jEcU3YN41qocce"
       },
       "artists": [
         {
-          "name": "NLSN",
-          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
-        },
-        {
-          "name": "scanta rose",
-          "url": "https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW"
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
         }
       ],
-      "duration_ms": 121470,
-      "name": "Almost a Lover",
-      "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
+      "duration_ms": 214333,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/70OhoWldJxT2YAyi5eE8QZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 237961,
+      "name": "Marinade",
+      "url": "https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l"
     },
     {
       "added_at": null,
@@ -639,58 +743,6 @@
       "duration_ms": 120775,
       "name": "Before the Sun Sets",
       "url": "https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/3sRLqYoCnfmEzA5JkPpMbP"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "Idyl",
-          "url": "https://open.spotify.com/artist/4OUtexcYUWaY6Sf4W1gGDK"
-        }
-      ],
-      "duration_ms": 171263,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/1Ka9BRi8FxYAfXb5gRMvtS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i (Piano Version)",
-        "url": "https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ"
-      },
-      "artists": [
-        {
-          "name": "UMIE",
-          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
-      "url": "https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take You Home",
-        "url": "https://open.spotify.com/album/3znBHwNDGawXhd3NRE5yzW"
-      },
-      "artists": [
-        {
-          "name": "RANE",
-          "url": "https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/3xc9WBrfURBKh7TfwWajxe"
     },
     {
       "added_at": null,
@@ -727,18 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun",
-        "url": "https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go"
+        "name": "Take You Home",
+        "url": "https://open.spotify.com/album/3znBHwNDGawXhd3NRE5yzW"
       },
       "artists": [
         {
-          "name": "TEEMID",
-          "url": "https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc"
+          "name": "RANE",
+          "url": "https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz"
         }
       ],
-      "duration_ms": 145161,
-      "name": "Here Comes The Sun",
-      "url": "https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC"
+      "duration_ms": 145500,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/3xc9WBrfURBKh7TfwWajxe"
     },
     {
       "added_at": null,
@@ -759,62 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/3sRLqYoCnfmEzA5JkPpMbP"
       },
       "artists": [
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         },
         {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Idyl",
+          "url": "https://open.spotify.com/artist/4OUtexcYUWaY6Sf4W1gGDK"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+      "duration_ms": 171263,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/1Ka9BRi8FxYAfXb5gRMvtS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7u17pZls3w0putDgCHFQYo"
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go"
       },
       "artists": [
         {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+          "name": "TEEMID",
+          "url": "https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc"
         }
       ],
-      "duration_ms": 200422,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/53yryXhiQH6zt8tUjE6V32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Li\u1ec7u Gi\u1edd",
-        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
-      },
-      "artists": [
-        {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
-        },
-        {
-          "name": "V\u0103n",
-          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
-        }
-      ],
-      "duration_ms": 258668,
-      "name": "Li\u1ec7u Gi\u1edd",
-      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
+      "duration_ms": 145161,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC"
     },
     {
       "added_at": null,
@@ -843,52 +871,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navajo",
-        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "Navajo",
-      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i'm closing my eyes",
-        "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
-      },
-      "artists": [
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
         {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
         }
       ],
-      "duration_ms": 118302,
-      "name": "i'm closing my eyes",
-      "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Your Last Song",
-        "url": "https://open.spotify.com/album/2G8rYOABvMmkDO7yoFdtN8"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Your Last Song",
-      "url": "https://open.spotify.com/track/0dzEeQcN5jL4KNx33BTfSE"
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
     }
   ],
-  "unique_name": "Chill Mix",
+  "unique_name": "Mix de chill",
   "url": "https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj"
 }

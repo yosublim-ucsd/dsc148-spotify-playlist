@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 136928,
       "name": "BENTLEY (Jeremias Klein, Lucky Brown)",
       "url": "https://open.spotify.com/track/1c97O8VOFP6rcXY59jVcYg"
@@ -12718,7 +12718,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -14174,7 +14174,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 136923,
       "name": "HAMI",
       "url": "https://open.spotify.com/track/44K0rxxJXiH0lPwT87gOZm"
@@ -19604,7 +19604,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 178588,
       "name": "MaquIAje Vs El Efecto",
       "url": "https://open.spotify.com/track/0Rzr21dqnlymPMLdQ3vuXh"
@@ -21512,7 +21512,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 232653,
       "name": "Minnie <3",
       "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
@@ -29640,6 +29640,24 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "album": {

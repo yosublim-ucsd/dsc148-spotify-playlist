@@ -2,7 +2,7 @@
 
 ### [This Is Inspector](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2P0QCc)
 
-> This is Inspector\. The essential tracks, all in one playlist.
+> This Is Inspector\. Los temas esenciales, todos en una lista.
 
 74 songs - 4 hr 31 min
 
@@ -36,7 +36,7 @@
 | [El Dejado](https://open.spotify.com/track/0O9DNo4Mj9hvxuPFnlZhss) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [El Dejado](https://open.spotify.com/album/3mCVfLCdPULRjC1bAdbatI) | 4:56 | 2023-01-14 |  |
 | [El Relato](https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:33 | 2023-08-07 |  |
 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 | 2023-01-14 |  |
-| [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 | 2023-01-14 |  |
+| [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 | 2023-01-14 | 2024-04-15 |
 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 | 2023-09-09 |  |
 | [Guitarras Blancas](https://open.spotify.com/track/08oC8F2G7gkwfcVRGrOB2U) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Fabián Dee](https://open.spotify.com/artist/0rrBjKAgWYCE9QOe2HWat8), [Homero Ontiveros](https://open.spotify.com/artist/6IIAv1oFfMw5tEjIbcjyFt), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Guitarras Blancas](https://open.spotify.com/album/3FQid93WBN205xUSNji4cZ) | 3:07 | 2023-01-14 | 2024-02-11 |
 | [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 | 2024-02-22 |  |
@@ -55,7 +55,7 @@
 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 | 2023-01-14 |  |
 | [Our House](https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:06 | 2024-02-10 | 2024-02-13 |
 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 | 2023-01-14 |  |
-| [Paz](https://open.spotify.com/track/2IQSVkFiKLRMqyMUCvOuxY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:39 | 2023-09-09 | 2024-03-23 |
+| [Paz](https://open.spotify.com/track/2IQSVkFiKLRMqyMUCvOuxY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:39 | 2023-09-09 |  |
 | [Pero Qué Necesidad](https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Pero Qué Necesidad](https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC) | 3:08 | 2024-03-22 |  |
 | [Por Última Vez](https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:15 | 2023-01-14 |  |
 | [Páginas en Blanco](https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:16 | 2023-01-14 | 2024-03-15 |

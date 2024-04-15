@@ -4,7 +4,7 @@
 
 > A soundtrack that both you and your little one can enjoy.
 
-131 songs - 8 hr 33 min
+132 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [More Than a Feeling](https://open.spotify.com/track/2s6OFCwx6qahq9vNIDhwxa) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Yacht Rock Classics](https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC) | 4:45 | 2022-01-10 | 2022-11-14 |
 | [More Than a Feeling](https://open.spotify.com/track/32kgOw8wejH7zUhtXCM8DH) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST) | 4:45 | 2022-01-10 | 2022-07-29 |
 | [Mystify](https://open.spotify.com/track/7LV9R3L1YfTSoefglhUyPD) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:16 | 2022-01-26 |  |
-| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2022-01-26 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2023-01-20 |  |
+| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2022-01-26 | 2024-04-15 |
 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 | 2021-01-14 | 2022-01-11 |
 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/5Th6EdNVhxp0TPX41ZLZk6) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [One Way Or Another](https://open.spotify.com/album/4Au1NRTNzdr2GUEUCNctii) | 3:32 | 2022-01-10 |  |
 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 | 2022-01-10 |  |

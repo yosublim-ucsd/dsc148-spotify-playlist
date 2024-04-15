@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 23233,
+  "2024-04-15": 23237,
   "date_first_scraped": "2023-05-19",
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
   "name": "Kannada Indie",
@@ -4629,6 +4629,36 @@
     {
       "album": {
         "name": "Neene",
+        "url": "https://open.spotify.com/album/6DW7Ujcua7KFh4MAU7StZP"
+      },
+      "artists": [
+        {
+          "name": "Athmik Rai",
+          "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
+        },
+        {
+          "name": "Dr Nithin S",
+          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Nishan S",
+          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Neene",
+      "url": "https://open.spotify.com/track/2GF9LGqfyHNtzNBPpa2SO2"
+    },
+    {
+      "album": {
+        "name": "Neene",
         "url": "https://open.spotify.com/album/05ysqm2w8zVUd1mJHipqhC"
       },
       "artists": [
@@ -4647,7 +4677,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 162000,
       "name": "Neene",
       "url": "https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt"
@@ -5239,7 +5269,7 @@
     {
       "album": {
         "name": "Olave",
-        "url": "https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO"
+        "url": "https://open.spotify.com/album/097cY3W3vTxc59lHJO8OCf"
       },
       "artists": [
         {
@@ -5254,6 +5284,28 @@
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Olave",
+      "url": "https://open.spotify.com/track/58M7CKziZOVtMsXkRYH5GY"
+    },
+    {
+      "album": {
+        "name": "Olave",
+        "url": "https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO"
+      },
+      "artists": [
+        {
+          "name": "Srivathsa K R",
+          "url": "https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE"
+        },
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-14",
       "duration_ms": 182000,
       "name": "Olave",
       "url": "https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n"

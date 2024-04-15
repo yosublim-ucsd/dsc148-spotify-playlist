@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,630 likes - 220 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,830 likes - 220 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 184 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 |
 | 185 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 |
 | 186 | [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
-| 187 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/4s7ZDtf7sXp2rtWfZHrnwc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:27 |
+| 187 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/44zHtICHoRfBaxfRgiSrKL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:27 |
 | 188 | [I'm All In](https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [I'm All In](https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe) | 2:59 |
 | 189 | [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 |
 | 190 | [Part Of Me](https://open.spotify.com/track/2RoSWh7aLeK5XA1iDKuv1s) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Part Of Me](https://open.spotify.com/album/1zDzf9fXQ9SVxxsmgoyYQx) | 2:23 |

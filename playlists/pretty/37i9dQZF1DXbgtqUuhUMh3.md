@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,207 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,215 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 2 | [لو سألوا حبيبي](https://open.spotify.com/track/7eW1PvlTclDxuSVUZE5mBo) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [لو سألوا حبيبي](https://open.spotify.com/album/0zKSxE7Zf8Ej4Mui2Ba3vW) | 3:37 |
 | 3 | [Mn Aaba Ebtala](https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Mn Aaba Ebtala](https://open.spotify.com/album/5WSRFUvLqvj0d4pSZvgtlT) | 3:20 |
-| 4 | [Momken Trod](https://open.spotify.com/track/1uzQAA3DHWVLGQ1KfCUxp0) | [Sara Salman](https://open.spotify.com/artist/0WjGa4issvirboeMa7QWcc) | [Momken Trod](https://open.spotify.com/album/1DbmECM1LsBaPsEPTzSvZw) | 2:49 |
+| 4 | [ممكن ترد](https://open.spotify.com/track/6EMnLaL2KJ2tpgocU8qpv2) | [سارة سلمان](https://open.spotify.com/artist/0bmkMt7WF8R7eBdVq67WTI) | [ممكن ترد](https://open.spotify.com/album/3jHsjXStlxPnjLQxL6pgUr) | 2:49 |
 | 5 | [B3eed](https://open.spotify.com/track/5OggynuvjzOkXkwZJxWfD1) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [B3eed](https://open.spotify.com/album/7c6yPPCR5QHWh2l4GCGJvv) | 3:18 |
 | 6 | [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 |
 | 7 | [KAN](https://open.spotify.com/track/0bG4e13MjolDszR22Qfub9) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [KAN](https://open.spotify.com/album/2S5ec3ra7ZXHnVTkqDgJQ2) | 2:32 |

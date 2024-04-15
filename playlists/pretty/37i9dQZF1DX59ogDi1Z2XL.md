@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,347 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,373 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

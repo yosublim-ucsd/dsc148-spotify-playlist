@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,893 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,260 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 79 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
 | 80 | [Los Caballeros Templarios](https://open.spotify.com/track/66FYx0CKtDSn4Ao7Rr8Ozf) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [El Movimiento Alterado \- Top 20 Corridos Delincuentes](https://open.spotify.com/album/43Xzn4opxrPb3qOcE2wuZs) | 2:54 |
 | 81 | [Recuerdos de Uno](https://open.spotify.com/track/1ptL9S3BF4074kqm6U51YA) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Poder y Respeto](https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ) | 3:16 |
-| 82 | [Ya No Soy el Mandadero](https://open.spotify.com/track/06pDUeRKhA0ghcuCkyrSPS) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [10 Años](https://open.spotify.com/album/7r0v2WWlFeQ5f7vmDVv9Je) | 2:39 |
+| 82 | [Ya No Soy El Mandadero](https://open.spotify.com/track/2y35fbHveQHSJjYPf4LPY0) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Ya No Soy El Mandadero](https://open.spotify.com/album/0uvttypHOnDWBUHnVUTUnt) | 2:39 |
 | 83 | [Lo Caro No Es Pa' Tarifa](https://open.spotify.com/track/78aZJ1siRyAVWZiBVehrZV) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Senzu\-Rah](https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS) | 3:19 |
 | 84 | [Missiones MP](https://open.spotify.com/track/3hswamg6GIzoIqyZe3oykn) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Empecherado Y Adiamantado](https://open.spotify.com/album/7nmJaHhZ0xNBTVBjXrsf7A) | 3:57 |
 | 85 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 |

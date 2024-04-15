@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-302 songs - 17 hr 44 min
+304 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,9 +97,9 @@
 | [Flesh and Bone](https://open.spotify.com/track/4l7F39cJ9mejxpuDp8rUX0) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Flesh and Bone](https://open.spotify.com/album/3XNx3O1SSNkAwMUVQFJxBR) | 4:32 | 2020-12-11 | 2023-06-10 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-12-11 | 2023-06-10 |
 | [Free](https://open.spotify.com/track/4ge3xYgVatWT0FKV26FsyE) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 2:25 | 2020-12-11 | 2022-09-24 |
-| [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 | 2022-06-13 |  |
+| [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 | 2022-06-13 | 2024-04-15 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-09-16 | 2022-09-20 |
-| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 |  |
+| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 | 2024-04-15 |
 | [Graveyard](https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Graveyard](https://open.spotify.com/album/53hoTqaWfuRUwTDtZI72Rx) | 3:05 | 2022-10-07 | 2023-06-10 |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-06-13 | 2022-08-27 |
 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 | 2022-08-26 |  |
@@ -163,6 +163,7 @@
 | [Love Spills](https://open.spotify.com/track/1Be8ytAIubyZBVffoubQzj) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Dark Black Makeup](https://open.spotify.com/album/2KfVV36ma18SbZKRmFcXKf) | 3:32 | 2020-12-11 | 2022-10-13 |
 | [Love Spills](https://open.spotify.com/track/4aHCv8GvpWvyUpUI2yPt5v) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Love Spills](https://open.spotify.com/album/7c5n3znhkQRsjSgSHd4Txe) | 3:32 | 2022-10-07 | 2022-11-13 |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2020-12-11 | 2024-04-13 |
+| [LUCKY PENNY](https://open.spotify.com/track/5szOfM7kagFfpqaqBZdq9y) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/4tqTkXi6AvexkQU5qEB2eJ) | 3:34 | 2023-09-22 |  |
 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 | 2020-12-11 |  |
 | [Making Gestures](https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Funeral Mixtape](https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy) | 4:10 | 2020-12-11 | 2023-06-10 |
 | [Man Of The Moment](https://open.spotify.com/track/4r1CZyGCeMQQEwJTeVE4yr) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Man Of The Moment](https://open.spotify.com/album/5kmSEYhBqMvmEHMtGbPTp5) | 3:12 | 2020-12-11 | 2022-07-29 |
@@ -308,6 +309,7 @@
 | [Yes, I Know](https://open.spotify.com/track/2sRuCtlSlAjjAnw5VWktQ8) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Positive Thinking](https://open.spotify.com/album/7y7MYj0omCvkBm7x4OULDg) | 3:36 | 2020-12-11 | 2023-06-10 |
 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 | 2022-06-17 |  |
 | [You Rascal You](https://open.spotify.com/track/5MJxg5oxXXTXb2iJt6BmYu) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/0xSJL5638GcxxOV2q7f51B) | 2:21 | 2020-12-11 | 2022-07-29 |
+| [Young Lady, You're Scaring Me](https://open.spotify.com/track/2rxUnZsfZAIuQ9vKO24Ute) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/2ehHcC26sfvWAQhFTkk6dW) | 3:40 | 2023-09-22 |  |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2020-12-11 | 2024-04-13 |
 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 | 2020-12-11 |  |
 

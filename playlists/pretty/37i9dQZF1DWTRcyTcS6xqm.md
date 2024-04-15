@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,403 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,410 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 21 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
 | 22 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
 | 23 | [Going to the Party](https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [Promised Land](https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU) | 3:01 |
-| 24 | [Get Your Groove On](https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 2:23 |
-| 25 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
+| 24 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
+| 25 | [Get Your Groove On](https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 2:23 |
 | 26 | [Whatcha Gon' Do](https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 3:27 |
 | 27 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 |
 | 28 | [Hot](https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 46 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 47 | [Satisfy My Soul](https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 2:43 |
 | 48 | [Big Mama's Soul Food](https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Spider in My Stew](https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws) | 4:09 |
-| 49 | [Soul Fixin' Man](https://open.spotify.com/track/0nPyxmdZeNTxEkFI5yRyJv) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 3:07 |
-| 50 | [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 |
+| 49 | [Bump that Mother](https://open.spotify.com/track/3P30qDDwK4trc1SnFrDCzX) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/6NtWoSCiQ5l08w49f2OmR6) | 3:11 |
+| 50 | [Soul Fixin' Man](https://open.spotify.com/track/0nPyxmdZeNTxEkFI5yRyJv) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 3:07 |
 
 Snapshot ID: `MTY4NjgzNTMxNCwwMDAwMDAwMDcyODY4NGYzYmNhOTI3OTFjM2JkNTAxNGRmNjMzMDZm`

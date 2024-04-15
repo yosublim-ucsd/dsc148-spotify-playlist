@@ -1,12 +1,12 @@
 {
   "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 670701,
+  "num_followers": 670796,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDg3NDI0NzdiZDZlOTUwZDFkZWNlMTQ1NTE4MjkxNzdm",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDRiMGNmOWE2ZGYxY2Y3MDY5NzZlMTA1NjJmZjkzZGFh",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
+      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 185493,
       "name": "\u00bfQui\u00e9n Te Crees?",
       "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
-      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+      "duration_ms": 169213,
+      "name": "La Propuesta",
+      "url": "https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 169213,
-      "name": "La Propuesta",
-      "url": "https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO"
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/046St1TwXGyKvJceYfLhwl"
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 160613,
-      "name": "Mitad Y Mitad",
-      "url": "https://open.spotify.com/track/6op4hkxR1jfX9t1Dghe8BN"
+      "duration_ms": 193186,
+      "name": "Corrido De Feliciano",
+      "url": "https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ"
     }
   ],
   "unique_name": "This Is Calibre 50",

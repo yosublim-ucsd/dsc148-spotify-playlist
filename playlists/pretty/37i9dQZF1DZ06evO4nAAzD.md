@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. The essential tracks, all in one playlist.
+> This is Hyperanhas\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,454 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 37 | [Ta Bom](https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Ta Bom](https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl) | 2:54 |
 | 38 | [Bailean](https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW) | [Bailean](https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS) | 3:38 |
 | 39 | [CENA DE FILME](https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 2:46 |
-| 40 | [Poc Poc](https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Poc Poc](https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc) | 3:32 |
-| 41 | [Lambo](https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Lambo](https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj) | 3:32 |
+| 40 | [Lambo](https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Lambo](https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj) | 3:32 |
+| 41 | [Poc Poc](https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Poc Poc](https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc) | 3:32 |
 | 42 | [TO PRONTA!](https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:43 |
 | 43 | [Tipo Trem Bala](https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Tipo Trem Bala](https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc) | 3:01 |
 | 44 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [O Que Vai Ser De Mim](https://open.spotify.com/track/2RkTX1WTeUS5VLCF20zAos) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [O Que Vai Ser De Mim](https://open.spotify.com/album/0RF7AQDptSuhkg2Z711xaQ) | 3:45 |
 | 50 | [SET DJ BR DA TIJUCA 5](https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Gabzin](https://open.spotify.com/artist/7ELdt6pzP4LFi4cnVTXqsF), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [Leo da Zona Sul](https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q) | [SET DJ BR DA TIJUCA 5](https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ) | 5:54 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDNhYTBjMmI0MjE2ZjZkZGUxNDgzYWRkZGMxNDlmNWJl`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDZmYzFlODQ3MzRkODVhOWI0Nzg3NTA2M2FlMDIxYmZj`

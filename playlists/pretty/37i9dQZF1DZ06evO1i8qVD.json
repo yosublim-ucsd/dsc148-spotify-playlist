@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 32680,
+  "num_followers": 32691,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDEzNDI0MGU2YWFlMWU2ZDhkYTdjOGJjYWUzMDIwODhh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDdiMGRhOWI2YjA4YjQ1ZDFhNTg0ODAwMzNkMjNhNTJh",
   "tracks": [
     {
       "added_at": null,
@@ -147,42 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
-      "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -203,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
@@ -212,9 +176,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+      "duration_ms": 138506,
+      "name": "First Time I Met The Blues - Single Version",
+      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
     },
     {
       "added_at": null,
@@ -228,19 +192,19 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 197946,
-      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+      "duration_ms": 240493,
+      "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
+      "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
@@ -248,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+      "duration_ms": 317320,
+      "name": "What Kind Of Woman Is This?",
+      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
       "added_at": null,
@@ -275,6 +239,42 @@
       "duration_ms": 322280,
       "name": "Cognac (feat. Jeff Beck & Keith Richards)",
       "url": "https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
     },
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 313546,
+      "name": "The Blues Is Alive And Well",
+      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
       "added_at": null,
@@ -407,38 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "The Blues Is Alive And Well",
-      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Mary Had A Little Lamb",
-      "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -455,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 134106,
-      "name": "Chitlin Con Carne",
-      "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+      "duration_ms": 152600,
+      "name": "Mary Had A Little Lamb",
+      "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
     },
     {
       "added_at": null,
@@ -495,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+      "duration_ms": 134106,
+      "name": "Chitlin Con Carne",
+      "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
     },
     {
       "added_at": null,
@@ -535,6 +499,22 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": null,
@@ -579,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -599,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -627,22 +607,6 @@
       "duration_ms": 287666,
       "name": "A Few Good Years",
       "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": null,
@@ -663,6 +627,22 @@
       "duration_ms": 268906,
       "name": "Skin Deep (feat. Derek Trucks)",
       "url": "https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": null,
@@ -703,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -739,22 +735,6 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/5fqugbggilsnWCohZhTSdA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -903,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -955,6 +919,38 @@
       "duration_ms": 240693,
       "name": "Sweet Home Chicago - Mono Rough Mix",
       "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4LiDDE58UkFKQf5YRgzWJi"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2YVulRd4wOa98zDQKsQbBh"
     }
   ],
   "unique_name": "This Is Buddy Guy",

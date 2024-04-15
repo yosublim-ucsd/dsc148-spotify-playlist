@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 244583,
+  "num_followers": 244631,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDlmZTlhYTk3MDAzNmJjZTI1Mjg5YjQyZTc3MjRhNjVh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDE0ODhhNjQ2OWI1MDEwNTg3YTMwMzhlZWQ2YThhOTFh",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
       "duration_ms": 22623,
       "name": "DOLLY P",
       "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "When I Get Where I'm Going (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
     },
     {
       "added_at": null,
@@ -959,30 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "It Wasn't God Who Made Honky Tonk Angels",
-      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -1007,6 +963,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -1019,6 +999,22 @@
       "duration_ms": 188266,
       "name": "Mule Skinner Blues (Blue Yodel No. 8)",
       "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     }
   ],
   "unique_name": "This Is Dolly Parton",

@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1940727,
+  "num_followers": 1940733,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Fantasias (Unplugged)",
-        "url": "https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "Fantasias - Unplugged",
-      "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -143,18 +123,38 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "Fantasias (Unplugged)",
+        "url": "https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 148723,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
+      "duration_ms": 200593,
+      "name": "Fantasias - Unplugged",
+      "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 228008,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 228008,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
+      "duration_ms": 148723,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -299,8 +299,8 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -463,8 +463,8 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "El Ultimo Concierto B (Remastered)",
-        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/6TTs9Wf4dIQdEAkXJFSEcR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+        "name": "El Ultimo Concierto B (Remastered)",
+        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
+      "duration_ms": 280960,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/6TTs9Wf4dIQdEAkXJFSEcR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1332,22 +1332,6 @@
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -1359,6 +1343,22 @@
       "duration_ms": 185975,
       "name": "Veneno - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1555,26 +1571,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "No Puedo Extra\u00f1arte",
-        "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
-      },
-      "artists": [
-        {
-          "name": "Dos Garza",
-          "url": "https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8"
-        },
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "No Puedo Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Underdog (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+        "name": "No Puedo Extra\u00f1arte",
+        "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Dos Garza",
+          "url": "https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8"
+        },
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Underdog - Acoustic Version",
-      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+      "duration_ms": 192656,
+      "name": "No Puedo Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1623,6 +1623,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Underdog (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Underdog - Acoustic Version",
+      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT"
+        "name": "Dimos Tanto",
+        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
         }
       ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L"
+      "duration_ms": 189437,
+      "name": "Dimos Tanto",
+      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 201000,
       "name": "plan (ac\u00fastico)",
       "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Dimos Tanto",
-        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "Dimos Tanto",
-      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
     },
     {
       "added_at": "2024-04-05 04:00:00",

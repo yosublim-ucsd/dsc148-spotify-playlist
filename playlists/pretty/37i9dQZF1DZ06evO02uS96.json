@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 161345,
+  "num_followers": 161368,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDhlZWRkMzU2MThhODJlNzkxNzQ0YWE4ODU2MzQ4NTdj",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGMwOTBlNGUwZTI0YmUwYjdiZGM0ZjQzY2IzNzdiN2Fj",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9065\u304b",
         "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 191047,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 338173,
-      "name": "\u516d\u7b49\u661f\u306e\u591c",
-      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+      "duration_ms": 303106,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
     },
     {
       "added_at": null,
@@ -511,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
+      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u3042\u3066\u3082\u306a\u304f",
         "url": "https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG"
       },
@@ -527,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
       "artists": [
         {
@@ -536,25 +568,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 303106,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
-      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
       "duration_ms": 274626,
       "name": "s-AVE",
       "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2V-ALK",
-        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
-      },
-      "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 305346,
-      "name": "ninelie <cry-v>",
-      "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3044\u3064\u306e\u307e\u306b",
         "url": "https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 305346,
+      "name": "ninelie <cry-v>",
+      "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
     },
     {
       "added_at": null,

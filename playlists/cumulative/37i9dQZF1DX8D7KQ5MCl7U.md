@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-401 songs - 1 day 20 hr 2 min
+402 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 | 2022-03-23 | 2022-07-28 |
 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 | 2022-03-23 |  |
 | [Aaye Kuch Abr](https://open.spotify.com/track/5hyOxEwLAoeIBMtMkOyQE5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Aaye Kuch Abr](https://open.spotify.com/album/0C1lYODJwVYGKUXNJVLwmo) | 6:59 | 2022-03-23 |  |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [Abhogi \- Kalenin Burcu Muyam](https://open.spotify.com/track/4zjVbf4H82fQHTCgmTIwbO) | [Rustam Fateh Ali Khan](https://open.spotify.com/artist/5y7ZShTGMJKO6DAVHKx06l), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:20 | 2022-03-23 | 2022-06-29 |
 | [Adam](https://open.spotify.com/track/6IlgL3ebWCHoYiTqYqkpBB) | [Fareed Ayaz](https://open.spotify.com/artist/5lIl1FQ31sT1c3ddy21AK2), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Humnawa](https://open.spotify.com/artist/4SvX6wv1EaF7d9dSHCCICQ) | [Adam](https://open.spotify.com/album/2deIHXwcBLdZYMfUD6PoVs) | 11:55 | 2022-03-23 |  |
 | [Ae Dil Kisi Ki Yaad Mein](https://open.spotify.com/track/3lSvGJBxKoSGcDTjm0DRD8) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh) | [Coke Studio Season 8 Episode 4](https://open.spotify.com/album/06uotZnnaFu0JEwbMAJyE4) | 5:55 | 2022-10-12 | 2023-12-25 |

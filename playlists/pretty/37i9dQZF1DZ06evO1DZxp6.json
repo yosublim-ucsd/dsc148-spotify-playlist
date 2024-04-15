@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 205609,
+  "num_followers": 205644,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRhMzQ0MDNhYWM4YzE5MDM2MGEyNmQ4YTc2ZWJmNTQx",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGJjNmI2YjBhY2UzOTYxNDMwMTYyZDkzMGExZDgzMDYz",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papito (Deluxe)",
-        "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Morenam\u00eda (Dueto 2007)",
-      "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 221146,
       "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
       "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papito (Deluxe)",
+        "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Morenam\u00eda (Dueto 2007)",
+      "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
       },
@@ -839,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+        "name": "Suavecito",
+        "url": "https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz"
       },
       "artists": [
         {
@@ -848,9 +864,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+      "duration_ms": 183520,
+      "name": "Suavecito",
+      "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
       "duration_ms": 205228,
       "name": "Tu Historia",
       "url": "https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Debajo de Mi Lengua",
-      "url": "https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z"
     },
     {
       "added_at": null,

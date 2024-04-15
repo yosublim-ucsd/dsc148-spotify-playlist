@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 194851,
+  "2024-04-15": 194898,
   "date_first_scraped": "2022-11-03",
   "description": "Focus, study or let yourself daydream to these atmospheric, instrumental tracks. ",
   "name": "Chilled Focus",
@@ -850,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Dear Earth, I'm Lost",
+        "url": "https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "I Thought About Death, About Time",
+      "url": "https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n"
+    },
+    {
+      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 120000,
       "name": "I Thought About Death, About Time",
       "url": "https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM"

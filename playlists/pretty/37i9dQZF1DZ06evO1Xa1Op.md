@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 ### [This Is Ali Farka Touré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xa1Op)
 
-> This is Ali Farka Touré\. The essential tracks, all in one playlist.
+> This Is Ali Farka Touré\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,609 likes - 40 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,612 likes - 40 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 22 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:26 |
 | 23 | [Samba Geladio](https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 3:17 |
 | 24 | [Hawa Dolo](https://open.spotify.com/track/3fHV9JUITZcOUvmoVzr3gK) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk) | 5:00 |
-| 25 | [Malahani](https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:59 |
-| 26 | [Ali's Here](https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 3:17 |
+| 25 | [Ali's Here](https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 3:17 |
+| 26 | [Malahani](https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:59 |
 | 27 | [Cinquante six](https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 5:31 |
 | 28 | [Penda Yoro](https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 5:21 |
 | 29 | [Heygana](https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 5:58 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 39 | [Hanana](https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 2:33 |
 | 40 | [Sambadio \(Acoustic\)](https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:12 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMGExNWVkMWNiOGJlYWU1ZjdjZDZlYzQyNzlhNzE0YmM4`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDRjYTYxZjlkY2JlZjk1NDk1Zjk0OWI1MzM2OWI0Njcz`

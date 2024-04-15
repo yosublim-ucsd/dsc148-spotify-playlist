@@ -4,7 +4,7 @@
 
 > قلت بيقلدوا لكني بغييييييييظ\. غلاف: زياد ظاظا
 
-304 songs - 15 hr 13 min
+305 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-11-27 |
 | [EL LOVE](https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 3:07 | 2023-09-05 | 2023-09-30 |
 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2023-11-27 |  |
+| [EL Moled](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 | 2024-04-14 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 | 2022-09-27 | 2023-01-13 |
 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 | 2023-03-22 | 2023-05-26 |
@@ -96,7 +97,7 @@
 | [Fish Wa2t](https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Fish Wa2t](https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn) | 2:36 | 2022-08-23 | 2022-10-11 |
 | [FOKAK MENI](https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [FOKAK MENI](https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32) | 1:53 | 2024-02-01 | 2024-02-23 |
 | [Freedom Music: Scene Cypher 2](https://open.spotify.com/track/2WGsTI0dM1DsHsi3y1svgp) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [Lil Baba](https://open.spotify.com/artist/16m87d8FV11gipfSu03k0Y) | [Freedom Music: Scene Cypher 2](https://open.spotify.com/album/0IpOZAQTWlE2pn9sw2LiVb) | 5:08 | 2022-05-10 | 2022-05-18 |
-| [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-03 |  |
+| [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-03 | 2024-04-15 |
 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 | 2022-12-22 | 2023-03-07 |
 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 | 2022-12-22 | 2023-09-10 |
 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 | 2024-02-28 |  |

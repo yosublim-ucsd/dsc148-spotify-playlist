@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,960 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,984 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 16 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
 | 17 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
 | 18 | [Big Talk](https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Big Talk](https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK) | 3:17 |
-| 19 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
+| 19 | [On Your Own](https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:43 |
 | 20 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 |
-| 21 | [On Your Own](https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:43 |
+| 21 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
 | 22 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 23 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
 | 24 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 71 | [Breathe In](https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:57 |
 | 72 | [Disturb Them](https://open.spotify.com/track/4fLhRxHy8uJMInhMv4y3zA) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [A State of Hysteria](https://open.spotify.com/album/7yWlq0qOZgYG0uRpCuvfP6) | 3:23 |
 | 73 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 |
-| 74 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
-| 75 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |
+| 74 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |
+| 75 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
 | 76 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 |
 | 77 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 78 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |

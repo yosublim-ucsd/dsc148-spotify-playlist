@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 72061,
+  "2024-04-15": 72067,
   "date_first_scraped": "2022-04-09",
   "description": "your guide for a peaceful night.",
   "name": "night light ",
@@ -1402,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
+    },
+    {
+      "album": {
         "name": "You Don't Own Me Anymore",
         "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
       },
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 223586,
       "name": "Kathy's Song",
       "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"

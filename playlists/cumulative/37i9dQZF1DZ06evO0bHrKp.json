@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Sum 41. The essential tracks, all in one playlist.",
+  "description": "This is Sum 41. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Sum 41",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 243098,
       "name": "Breaking The Chain",
       "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 68505,
       "name": "Preparasi A Salire",
       "url": "https://open.spotify.com/track/0GdR9zpSxaCM71KQEx3yDQ"
@@ -964,6 +964,24 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
+    },
+    {
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177169,
+      "name": "Stranger In These Times",
+      "url": "https://open.spotify.com/track/7nEuKvnCHkTvWQVNu4OPLd"
     },
     {
       "album": {

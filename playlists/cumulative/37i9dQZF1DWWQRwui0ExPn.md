@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,706 songs - 10 day 14 hr 12 min
+6,707 songs - 10 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [229](https://open.spotify.com/track/610K84Hd21oOoMFkjcRtdH) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [229](https://open.spotify.com/album/66pnRTmDXakPV4nCsef9I5) | 3:06 | 2022-12-16 | 2023-06-08 |
 | [2Cb](https://open.spotify.com/track/6pM7qJLt40jWeZTgIID7xI) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 3:00 | 2019-09-23 | 2020-06-24 |
 | [2Girls 1Rose](https://open.spotify.com/track/7F2x0XQtB6SzyNNRCAKaS7) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [2Girls 1Rose](https://open.spotify.com/album/5XiERVy4tCFHaXO7O08akm) | 3:08 | 2022-06-10 | 2022-06-17 |
+| [2good2u](https://open.spotify.com/track/5bZqCak5e9fK8c9oT9DdEj) | [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG) | [2good2u](https://open.spotify.com/album/3gKzpXgkSbzwAgWpXEt1xh) | 2:13 | 2024-04-12 |  |
 | [2nd Block To The Left, Then Right](https://open.spotify.com/track/68UutHhzus0eXguaOx0g9d) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [2nd Block To The Left, Then Right](https://open.spotify.com/album/59UNlrnCuuvXxZtOk7gblZ) | 1:49 | 2023-02-21 | 2024-02-02 |
 | [2PM](https://open.spotify.com/track/5ZG8ADrlnDm0tzPKHA9C0K) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [2PM](https://open.spotify.com/album/68PxymJmOtbGNurAtR8cUD) | 2:43 | 2021-08-22 | 2022-03-21 |
 | [3 Days in Kadiköy](https://open.spotify.com/track/5XsrMxCmiQsx7zaRn4t3W2) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [3 Days in Kadiköy](https://open.spotify.com/album/4NTCO1AWaPe4uW7TfTwp2T) | 3:26 | 2022-08-05 | 2022-12-09 |
@@ -2174,7 +2175,7 @@
 | [Fresher Under Pressure \- Me And Reed Soul Treat](https://open.spotify.com/track/3ub3ZmewP2UK5hfKZUlkcD) | [Me And Reed](https://open.spotify.com/artist/0pw9LkajPzbg25dq4pT2yW), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz), [Hot Border Special](https://open.spotify.com/artist/2EENeVJnY8pEog0nnHObRS) | [Soul Treats](https://open.spotify.com/album/2BOnB9mWqGYBs5BfEISTAh) | 2:29 | 2022-12-16 | 2023-02-11 |
 | [Freshly Paved](https://open.spotify.com/track/7g7Q0JsJPqcpXXl9LWqdkt) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Freshly Paved](https://open.spotify.com/album/1w5BRQgfbaIr5ZAjmIQEra) | 2:40 | 2023-08-10 | 2024-01-26 |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
-| [Friction](https://open.spotify.com/track/1xw3GyNsmDcNZb7Mayqqed) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Friction](https://open.spotify.com/album/1RobatCjQC52ICoGQDA9PE) | 2:01 | 2024-04-12 |  |
+| [Friction](https://open.spotify.com/track/1xw3GyNsmDcNZb7Mayqqed) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Friction](https://open.spotify.com/album/1RobatCjQC52ICoGQDA9PE) | 2:01 | 2024-04-12 | 2024-04-15 |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 | 2024-02-09 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2022-07-15 | 2022-11-11 |

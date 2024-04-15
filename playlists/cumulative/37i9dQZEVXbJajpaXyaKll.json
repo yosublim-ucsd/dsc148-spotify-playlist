@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 500989,
       "name": "Cuarteto Sessions #3",
       "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
@@ -1572,6 +1572,40 @@
       "duration_ms": 134524,
       "name": "ESA NENA RMX",
       "url": "https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq"
+    },
+    {
+      "album": {
+        "name": "Escarlata (Remix)",
+        "url": "https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0"
+      },
+      "artists": [
+        {
+          "name": "eleven1.1",
+          "url": "https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Escarlata - Remix",
+      "url": "https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr"
     },
     {
       "album": {
@@ -1820,7 +1854,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -3478,7 +3512,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 293553,
       "name": "NUEVAS COORDENADAS",
       "url": "https://open.spotify.com/track/7kysK9zB05cNs2MMzVW8jq"
@@ -5090,7 +5124,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

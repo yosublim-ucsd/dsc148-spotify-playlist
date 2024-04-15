@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 190289,
+  "2024-04-15": 190377,
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
   "name": "Oscuros 80",
@@ -1230,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "The Singles 81-85",
+        "url": "https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/4oWQeGyPFyr4EpTrv5v0gJ"
+    },
+    {
+      "album": {
         "name": "Construction Time Again",
         "url": "https://open.spotify.com/album/2F4cSP5f39vkdTUa0owfK1"
       },
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 176596,
       "name": "In God's Country",
       "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"

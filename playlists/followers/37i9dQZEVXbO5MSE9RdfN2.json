@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 68729,
+  "2024-04-15": 68732,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -1952,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -2517,6 +2535,24 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
+        "name": "Like That!",
+        "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
     },
     {
       "album": {
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
@@ -3441,7 +3477,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 165619,
       "name": "Powerful Women",
       "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"

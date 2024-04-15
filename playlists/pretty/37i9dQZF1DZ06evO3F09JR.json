@@ -1,12 +1,12 @@
 {
-  "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
-  "num_followers": 1241,
+  "description": "This is Alessandro Cortini. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1244,
   "original_name": "This Is Alessandro Cortini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDA0ODU2Mzc3OGU4NWE5OTI0ODhmZDMyYjlmODNmMTY2",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDRkMGJjM2YyNzM2Zjc0NjNmMjg1YWY4MzliMGFiNmE5",
   "tracks": [
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
         }
       ],
-      "duration_ms": 343169,
-      "name": "SABBIA",
-      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
+      "duration_ms": 367529,
+      "name": "Immediate Horizon 2",
+      "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immediate Horizon",
-        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
         }
       ],
-      "duration_ms": 367529,
-      "name": "Immediate Horizon 2",
-      "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
+      "duration_ms": 343169,
+      "name": "SABBIA",
+      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
     },
     {
       "added_at": null,
@@ -495,38 +495,6 @@
       "duration_ms": 448000,
       "name": "Spettro IV",
       "url": "https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 315448,
-      "name": "BATTICUORE",
-      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emosfere",
-        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Terza Emosfera",
-      "url": "https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q"
     },
     {
       "added_at": null,
@@ -551,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immediate Horizon",
-        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
         }
       ],
-      "duration_ms": 527193,
-      "name": "Immediate Horizon 3",
-      "url": "https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe"
+      "duration_ms": 414000,
+      "name": "Terza Emosfera",
+      "url": "https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q"
     },
     {
       "added_at": null,
@@ -587,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spettri",
-        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
         }
       ],
-      "duration_ms": 518000,
-      "name": "Spettro I",
-      "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
+      "duration_ms": 527193,
+      "name": "Immediate Horizon 3",
+      "url": "https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe"
     },
     {
       "added_at": null,
@@ -623,6 +591,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Spettro I",
+      "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 315448,
+      "name": "BATTICUORE",
+      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
       },
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vincere",
-        "url": "https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93"
+        "name": "Dirty A.D.",
+        "url": "https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Baseck",
+          "url": "https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq"
         }
       ],
-      "duration_ms": 447883,
-      "name": "Vincere",
-      "url": "https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem"
+      "duration_ms": 280000,
+      "name": "B1",
+      "url": "https://open.spotify.com/track/0tgKuqVOLUlZtgO7RaD1yf"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty A.D.",
-        "url": "https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H"
+        "name": "Vincere",
+        "url": "https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93"
       },
       "artists": [
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Baseck",
-          "url": "https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq"
         }
       ],
-      "duration_ms": 280000,
-      "name": "B1",
-      "url": "https://open.spotify.com/track/0tgKuqVOLUlZtgO7RaD1yf"
+      "duration_ms": 447883,
+      "name": "Vincere",
+      "url": "https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
       "duration_ms": 490870,
       "name": "NESSUNO",
       "url": "https://open.spotify.com/track/31wrcWjDXqJG1ix2GgHlyu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spettri",
-        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 560000,
-      "name": "Spettro V",
-      "url": "https://open.spotify.com/track/42Lyb3FNr9Ezcspvo5A61l"
     },
     {
       "added_at": null,

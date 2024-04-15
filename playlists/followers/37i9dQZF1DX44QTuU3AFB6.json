@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 9723,
+  "2024-04-15": 10057,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
   "name": "Puras Pa' Pistear",
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 198533,
       "name": "El Borrego",
       "url": "https://open.spotify.com/track/2ypDwYTfpbAgj4ocOWvgwZ"
@@ -4112,6 +4112,28 @@
     },
     {
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Fuerza (En Vivo)",
+      "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+    },
+    {
+      "album": {
         "name": "Fuerza (En Vivo)",
         "url": "https://open.spotify.com/album/6G1g7WLocSom0KCw8A74Ro"
       },
@@ -4127,7 +4149,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 194000,
       "name": "Fuerza - En Vivo",
       "url": "https://open.spotify.com/track/3tu2oUievxRm4ekR8IeCaO"
@@ -4765,6 +4787,28 @@
       "duration_ms": 186706,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05"
+    },
+    {
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "album": {
@@ -6579,7 +6623,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
@@ -6857,7 +6901,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 122242,
       "name": "Oficialmente en Solter\u00eda",
       "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"

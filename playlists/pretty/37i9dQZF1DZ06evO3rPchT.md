@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,182 likes - 47 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,226 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 42 | [Put It On Ice](https://open.spotify.com/track/7yAfrIDQzSCbc1KWVHlBWz) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:04 |
 | 43 | [Some Things Never Change \(feat\. HARDY\)](https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Timeless](https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE) | 2:51 |
 | 44 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/6F8QHX4aAyXKLOrJLICAWJ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:17 |
-| 45 | [BLURRY](https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1) | 5:00 |
-| 46 | [Life Had Plans For Me \(feat\. Parker Diffie\)](https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Parker Diffie](https://open.spotify.com/artist/1z95cM4b7vRkIkk778TMS1) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:45 |
+| 45 | [Life Had Plans For Me \(feat\. Parker Diffie\)](https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Parker Diffie](https://open.spotify.com/artist/1z95cM4b7vRkIkk778TMS1) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:45 |
+| 46 | [BLURRY](https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1) | 5:00 |
 | 47 | [Down to the Bar \(feat\. HARDY\)](https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:15 |
+| 48 | [Creep \(feat\. HARDY\)](https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:23 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDI0MTQyNTc3YWJjMGUwOGZlNjJjZmEyYTdjNzBmNzZm`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGE1NzZiZmIyZjM2MjRkMGM4MzdkM2Q5MGVkNTIwNWIy`

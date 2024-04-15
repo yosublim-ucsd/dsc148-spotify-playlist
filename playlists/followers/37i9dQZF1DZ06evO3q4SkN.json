@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 563,
+  "2024-04-15": 562,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 134586,
       "name": "Into The Headlights",
       "url": "https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 79280,
       "name": "Not It",
       "url": "https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 108600,
       "name": "She's Mine",
       "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 121346,
       "name": "Summer Passes Into Autumn",
       "url": "https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 244255,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 124306,
       "name": "Winter Passes Into Spring",
       "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"

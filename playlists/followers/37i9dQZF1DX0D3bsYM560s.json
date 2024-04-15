@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 6045,
+  "2024-04-15": 6061,
   "date_first_scraped": "2023-04-16",
   "description": "Celebrating the extraordinary women breaking boundaries and keeping tradition alive. Cover: Rhonda Vincent ",
   "name": "Women of Bluegrass",
@@ -1215,10 +1215,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ"
     },
     {
       "album": {

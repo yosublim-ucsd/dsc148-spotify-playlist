@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 212183,
+  "2024-04-15": 212219,
   "date_first_scraped": "2022-03-02",
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
   "name": "Faxina Nostalgia",
@@ -331,7 +331,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Bete Balan\u00e7o",
       "url": "https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y"
@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 195533,
       "name": "O Astronauta de M\u00e1rmore (Starman)",
       "url": "https://open.spotify.com/track/5zbutV48aKhYIUOdAuGAuX"

@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 125733,
+  "num_followers": 125799,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "The Sexy EP",
-        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 261920,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "The Sexy EP",
+        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -323,6 +323,30 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+        }
+      ],
+      "duration_ms": 228190,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ZcDIHP2IAuluC75GAZkz2"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -363,30 +387,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Breakfast on the Morning Tram (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        },
-        {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
-        }
-      ],
-      "duration_ms": 228190,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ZcDIHP2IAuluC75GAZkz2"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "The Sexy EP",
         "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Just a Girl",
-        "url": "https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2"
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
       "artists": [
         {
-          "name": "Dinah Eastwood",
-          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 189830,
-      "name": "Just a Girl",
-      "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
+      "duration_ms": 216120,
+      "name": "Wind Cries Mary",
+      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+        "name": "Just a Girl",
+        "url": "https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Dinah Eastwood",
+          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
         }
       ],
-      "duration_ms": 216120,
-      "name": "Wind Cries Mary",
-      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
+      "duration_ms": 189830,
+      "name": "Just a Girl",
+      "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 303807,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1043,42 +1043,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Viva la Vida",
-        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 320893,
-      "name": "Streets Of Philadelphia",
-      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
       },
@@ -1103,18 +1067,38 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
       "artists": [
         {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 200750,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1131,6 +1115,22 @@
       "duration_ms": 335720,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Follow the White Rabbit",
+        "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
+      },
+      "artists": [
+        {
+          "name": "Yaron Herman Trio",
+          "url": "https://open.spotify.com/artist/0ZHBP592ndKCuNxhiKtgdI"
+        },
+        {
+          "name": "Yaron Herman",
+          "url": "https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Heart Shaped Box",
+      "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
         "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
@@ -1267,42 +1287,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Follow the White Rabbit",
-        "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
-      },
-      "artists": [
-        {
-          "name": "Yaron Herman Trio",
-          "url": "https://open.spotify.com/artist/0ZHBP592ndKCuNxhiKtgdI"
-        },
-        {
-          "name": "Yaron Herman",
-          "url": "https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Heart Shaped Box",
-      "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 411893,
       "name": "Fields of Gold - Live",
       "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 422226,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Daylight at Midnight",
-        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -1567,18 +1547,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+        "name": "Daylight at Midnight",
+        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
       },
       "artists": [
         {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+      "duration_ms": 240426,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1603,6 +1587,22 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Champagne & Declarations",
         "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
+      },
+      "artists": [
+        {
+          "name": "J for Jazz",
+          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Play Favorites",
         "url": "https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 263453,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI"
-      },
-      "artists": [
-        {
-          "name": "J for Jazz",
-          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "The Gallery Concerts II (Jazz Poetry)",
+        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "She's Leaving Home - Live",
+      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "The Gallery Concerts II (Jazz Poetry)",
-        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren",
-          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
-        },
-        {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "She's Leaving Home - Live",
-      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Falling Grace",
-        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ballantine",
-          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Yester-Me, Yester-You, Yesterday",
         "url": "https://open.spotify.com/album/0mimWvWVLStmf5bMWepQbs"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 292249,
       "name": "Yester-Me, Yester-You, Yesterday",
       "url": "https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ballantine",
+          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2024-03-20 13:48:17",

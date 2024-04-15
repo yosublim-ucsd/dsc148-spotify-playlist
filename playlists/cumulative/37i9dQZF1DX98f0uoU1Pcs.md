@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-655 songs - 1 day 12 hr 6 min
+656 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,8 +470,9 @@
 | [Pukebox](https://open.spotify.com/track/5KUVspHfE0vmCP9vvCHXf9) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pukebox](https://open.spotify.com/album/4SnSwngfx8loFFx8wOzEiM) | 3:08 | 2021-10-07 | 2022-04-29 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-06-02 |  |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-06-18 |
+| [R&B](https://open.spotify.com/track/0HzQIsuZfE1xy5MDG2Pi8r) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 2:48 | 2024-04-12 |  |
 | [R&B](https://open.spotify.com/track/3nJFqIDFcku1zLfbC2Lrgi) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/6S1bUot55HmBNa7e1z67i2) | 2:48 | 2024-02-16 | 2024-02-22 |
-| [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 | 2024-02-16 |  |
+| [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 | 2024-02-16 | 2024-04-15 |
 | [Rabbit](https://open.spotify.com/track/0MTnlwW9JIUhbsytWlMQgp) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/2TG81vZCtpqIxG1DLggcOy) | 1:48 | 2022-07-08 | 2022-08-17 |
 | [Rabbit](https://open.spotify.com/track/4TFD9unRMyj0Ep44AkXpdd) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Rabbit](https://open.spotify.com/album/0K774ZTTZFbeUEzk76Dfx7) | 1:48 | 2021-10-07 | 2022-07-29 |
 | [Rage All Over](https://open.spotify.com/track/3x3wQ19oWPbgJ8sUlqedv9) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Rage All Over](https://open.spotify.com/album/7kJQwKshJqbovj4pItkNYT) | 3:32 | 2021-10-07 | 2022-01-08 |

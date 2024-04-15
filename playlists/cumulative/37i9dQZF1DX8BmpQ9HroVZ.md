@@ -4,7 +4,7 @@
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan
 
-316 songs - 18 hr 38 min
+317 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2023-06-20 |  |
 | [Aa](https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Aa](https://open.spotify.com/album/777njg8aKak7ogZL2NUYrk) | 3:10 | 2024-01-08 | 2024-03-13 |
 | [Aadat](https://open.spotify.com/track/5EsooZeqyyqi3P1KhSKmoo) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Aadat](https://open.spotify.com/album/2DOhihW9MOIv8A6Gh335fi) | 3:32 | 2022-12-12 | 2023-02-07 |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [Aazma Le](https://open.spotify.com/track/1X1aKjG5Au5Fj5DnDc14pm) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Aazma Le](https://open.spotify.com/album/5hPw2QrnoksvoL5M9ZIsPG) | 5:28 | 2022-06-20 | 2022-11-22 |
 | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Choir](https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ) | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m) | 2:14 | 2023-12-21 | 2024-01-23 |
 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:34 | 2023-11-06 |  |

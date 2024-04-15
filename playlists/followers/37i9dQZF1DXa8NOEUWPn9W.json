@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 1931888,
+  "2024-04-15": 1932356,
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Cloonee.",
+  "description": "House music lives here. United under one roof, featuring John Summit & Dom Dolla (Everything Always)",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1935,6 +1935,28 @@
       "duration_ms": 217265,
       "name": "Billie (loving arms)",
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "album": {
@@ -11777,7 +11799,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 138725,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"

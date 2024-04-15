@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 958321,
+  "num_followers": 958477,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "Violator | The 12\" Singles",
+        "url": "https://open.spotify.com/album/0c2eDi1S58XzaqxwOC1FMZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 257630,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/0yp3TvJNlG50Q4tAHWNCRm"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2024-03-18 22:21:44",
@@ -273,6 +289,22 @@
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
       "added_at": "2024-03-18 22:21:44",
       "album": {
         "name": "The Moon and the Melodies",
@@ -295,18 +327,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
       ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -323,22 +355,6 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -391,22 +407,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Just like Heaven",
-      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 408173,
       "name": "How Soon Is Now? - 2011 Remaster",
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -503,46 +519,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Violator | The 12\" Singles",
-        "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Daniel Miller",
-          "url": "https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt"
-        },
-        {
-          "name": "Phil Legg",
-          "url": "https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ"
-        }
-      ],
-      "duration_ms": 257630,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -555,22 +531,6 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2024-03-18 22:21:44",
@@ -591,6 +551,38 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -603,22 +595,6 @@
       "duration_ms": 175333,
       "name": "Monkey Gone to Heaven",
       "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Cemetry Gates - 2011 Remaster",
-      "url": "https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -635,6 +611,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Cemetry Gates - 2011 Remaster",
+      "url": "https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -703,22 +695,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -747,6 +723,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -861,20 +853,20 @@
       "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
     },
     {
-      "added_at": "2024-03-18 22:21:44",
+      "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Voices Carry (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
       },
       "artists": [
         {
-          "name": "'Til Tuesday",
-          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Voices Carry",
-      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -895,6 +887,22 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
+        "name": "Voices Carry (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
+      },
+      "artists": [
+        {
+          "name": "'Til Tuesday",
+          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Voices Carry",
+      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -907,22 +915,6 @@
       "duration_ms": 238106,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1295,18 +1287,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/28rmYerSDjX81r5KCevY7G"
     }
   ],
   "unique_name": "Alternative 80s",

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 284669,
+  "2024-04-15": 284681,
   "date_first_scraped": "2021-12-21",
   "description": "Songs from the old country: the essential traditional Irish ballads.",
   "name": "Irish Folk - Ballads",
@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "Easter Monday 1916 Songs of the IRA (Irish Republican Army)",
+        "url": "https://open.spotify.com/album/0lgkJWq61JDpk5UyOOi9Vp"
+      },
+      "artists": [
+        {
+          "name": "Dominic Behan",
+          "url": "https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62863,
+      "name": "Dicey Riley",
+      "url": "https://open.spotify.com/track/4OumUOhmbZq4Q5QxBvJcYR"
+    },
+    {
+      "album": {
         "name": "Down By The Liffeyside: Irish Street Balads",
         "url": "https://open.spotify.com/album/245YuwE5DWF9LbbDiG4rqx"
       },
@@ -313,7 +331,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 65946,
       "name": "Dicey Riley",
       "url": "https://open.spotify.com/track/5pxYcaEEXywXBBxxdQVCS4"

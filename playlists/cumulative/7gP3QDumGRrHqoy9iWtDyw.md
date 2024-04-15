@@ -4,7 +4,7 @@
 
 > 
 
-198 songs - 12 hr 51 min
+203 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [GOOD FOR YOU](https://open.spotify.com/track/3EhUlT5FGsG9SNaKagJlEh) | [MEKKAWY](https://open.spotify.com/artist/0Ir4hjJIxt7uIhWZDUWY6x) | [THE CHOICE EP](https://open.spotify.com/album/1CJs0dhZNoBNNhdL9Jlsxo) | 2:44 | 2022-10-21 |  |
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |
 | [Got That Flow](https://open.spotify.com/track/0SWjYYoeTEvG0dV9MKyCND) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Got That Flow](https://open.spotify.com/album/6D1x95S3Lcm9qq9YdM7Xht) | 3:00 | 2023-05-05 |  |
+| [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 | 2024-04-14 |  |
 | [Hold On](https://open.spotify.com/track/4N0D6t3zCjyYjF7GR3jH4T) | [Zsak](https://open.spotify.com/artist/6lDaKCEOsU9d3gedCSigq1) | [Hold On](https://open.spotify.com/album/3YvhnnkXqisgWsKXFvZJ6A) | 3:20 | 2022-12-18 |  |
 | [House Affair](https://open.spotify.com/track/5ZNomp1OsMpUMGNy9cXw6v) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Bruno Blanc](https://open.spotify.com/artist/0bkcBCt15UZF5yvj3b4NCa) | [House Affair](https://open.spotify.com/album/2YWrXRsChp6NHq0g1WsONZ) | 3:07 | 2023-09-21 |  |
 | [House All The Time](https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [House All The Time](https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc) | 2:44 | 2023-04-04 |  |
@@ -140,6 +141,7 @@
 | [Nonstop](https://open.spotify.com/track/5decseK5GA1c2aWSZM9Crl) | [Manuel De La Mare](https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk) | [Nonstop](https://open.spotify.com/album/77pC4OkWjofvbB79vePhGR) | 6:00 | 2024-03-19 |  |
 | [Nortee](https://open.spotify.com/track/14QnsxkZBL2Ca8p7D4uzGf) | [DEL\-30](https://open.spotify.com/artist/3YUMfiE2ROxoup2bHSUXjU) | [Nortee](https://open.spotify.com/album/4gKOUYMVm7ulca4gY697Uw) | 3:02 | 2024-01-19 |  |
 | [OCB \(FRATTA Remix\)](https://open.spotify.com/track/0SN6NmlcZNLApVLDGDBT9H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [FRATTA](https://open.spotify.com/artist/2NFs798ZCPVsZAAZcZziGI) | [OCB \(Remixes\)](https://open.spotify.com/album/1ZgMEBdKLhy4DjALawZOmb) | 3:27 | 2020-05-21 |  |
+| [Oldskool](https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Oldskool](https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3) | 3:01 | 2024-04-14 |  |
 | [On God](https://open.spotify.com/track/2hCNjtXRGVVSr7rxUrjssp) | [HAYNES](https://open.spotify.com/artist/0WZl1y6QbVezqTc2EqDHr4), [Warren Blake](https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1) | [Reissues 006](https://open.spotify.com/album/0KYBzXcOBCdbgwKclIfrxZ) | 6:55 | 2023-04-01 |  |
 | [On The Beach \- Eli Brown Remix](https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [On The Beach \(Eli Brown Remix\)](https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN) | 3:29 | 2023-01-28 |  |
 | [Only Man](https://open.spotify.com/track/5xg1c2BrE1Ebt9a4xR2LoC) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Only Man EP](https://open.spotify.com/album/2YnBlnJQS41Klgd146FlML) | 4:01 | 2023-04-09 |  |
@@ -182,6 +184,7 @@
 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-08-23 | 2024-01-21 |
 | [The Inside](https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD) | [The Inside](https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek) | 3:10 | 2022-12-12 |  |
 | [The Invite](https://open.spotify.com/track/32svAbQdYmwe8MaqqZPeoZ) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn) | [Surrender EP](https://open.spotify.com/album/1vJkIOZOYBZ67u8Vk42DPl) | 3:46 | 2023-12-18 |  |
+| [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 | 2024-04-14 |  |
 | [This Mc](https://open.spotify.com/track/7fmOgAiPc4rlESBKfLFxOF) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4) | [This Mc EP](https://open.spotify.com/album/6Ap25WwVNGCIGw7IHnsivY) | 6:00 | 2022-12-29 |  |
 | [To My Beat](https://open.spotify.com/track/6hipG3AE5fxqxTyjIV0WjW) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV) | [To My Beat](https://open.spotify.com/album/5xrRS6Py811EiTkxg0bCHk) | 3:19 | 2023-05-30 |  |
 | [To The Funk](https://open.spotify.com/track/7k99Hgp4Fuadh13KQKGZvf) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA), [Tomas Bisquierra](https://open.spotify.com/artist/6qa3IMR0SlgJ5C53rr5VcR) | [Summer 2022 V.A.](https://open.spotify.com/album/2pC43YNpIa22Egevx1NHc2) | 6:10 | 2023-02-02 |  |
@@ -191,10 +194,12 @@
 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 | 2024-01-19 |  |
 | [Unconditional](https://open.spotify.com/track/644OSw9GuBx7sdGu3dmEHW) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Unconditional](https://open.spotify.com/album/2L22TxiDBkUhXolsm3484X) | 3:10 | 2024-01-19 |  |
 | [Up & Down](https://open.spotify.com/track/3cpmTEu0QGwH3x3bZn5TP9) | [Jay House](https://open.spotify.com/artist/0MCnbBnCTE8AQSQXzmMgSF) | [Up & Down](https://open.spotify.com/album/7fehT7kzAn4sbMZA7m4N9m) | 5:54 | 2023-02-20 |  |
+| [Upside Down](https://open.spotify.com/track/6cu9HCTSLjSp22v4R2gCeY) | [Kiro Prime](https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr) | [Upside Down](https://open.spotify.com/album/27PQnlgapep2wkM1m1Pixe) | 2:53 | 2024-04-14 |  |
 | [Vertigo](https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Vertigo](https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR) | 3:12 | 2022-10-21 | 2024-01-21 |
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2023-12-20 |  |
 | [Wait No More](https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:32 | 2023-09-26 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6Z8lRAqGrHPnNn2oQKU6Ns) | [Ben Remember](https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc) | [Waiting 4 You](https://open.spotify.com/album/6axRRJ7ZLnoRsWJH33aysC) | 2:57 | 2024-02-03 |  |
+| [Wassablah](https://open.spotify.com/track/32cEwNAX7orz0FGL5XK8gw) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 6:28 | 2024-04-14 |  |
 | [We Are](https://open.spotify.com/track/09ZvCPAcFmFBGDAMS23Gc0) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [We Are](https://open.spotify.com/album/2nsc6sXh3kcuNLh7aI6XAC) | 7:24 | 2022-08-20 | 2024-01-21 |
 | [Whatsapp \- Original Mix](https://open.spotify.com/track/1ARYFT8AZQBGCy5mdPHp82) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Cherry Picks Volume 1.](https://open.spotify.com/album/45wj4inQt9OthWTlOtibKf) | 6:13 | 2022-12-12 |  |
 | [When The Beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When The Beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 | 2023-12-04 |  |

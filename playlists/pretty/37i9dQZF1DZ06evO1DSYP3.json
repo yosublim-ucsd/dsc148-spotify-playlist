@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5297,
+  "num_followers": 5298,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDcwNTliZTE5ZWM2ZTAyYzdkOGQ5ZjI0OTNjODFiZTRj",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGM5N2RmODQzMDE2Yjc1OGE4NTdiYmE0YWNhM2JjN2Fm",
   "tracks": [
     {
       "added_at": null,
@@ -123,54 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We On (feat. E-40)",
-        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "What We On (feat. E-40)",
-      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 120512,
-      "name": "Good (feat. Larry June)",
-      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
       },
@@ -203,6 +155,54 @@
       "duration_ms": 216100,
       "name": "Too Big",
       "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 120512,
+      "name": "Good (feat. Larry June)",
+      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What We On (feat. E-40)",
+        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "What We On (feat. E-40)",
+      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caught In The Funk",
-        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
-      },
-      "artists": [
-        {
-          "name": "Dezzy Hollow",
-          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 120153,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "drink bleach",
         "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 201600,
       "name": "shake ya ass (feat. P-Lo)",
       "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caught In The Funk",
+        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
+      },
+      "artists": [
+        {
+          "name": "Dezzy Hollow",
+          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 120153,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
     },
     {
       "added_at": null,
@@ -447,34 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Steppin' (Remix) [feat. E-40 & P-Lo]",
-        "url": "https://open.spotify.com/album/67rMSc4nEWohwEYjA2MaJY"
-      },
-      "artists": [
-        {
-          "name": "Stunnaman02",
-          "url": "https://open.spotify.com/artist/6GqksGv39gHrhEbbI0Mavw"
-        },
-        {
-          "name": "QuakeBeatz",
-          "url": "https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 187715,
-      "name": "Big Steppin' (feat. E-40 & P-Lo) - Remix",
-      "url": "https://open.spotify.com/track/7wOG9tjfJUrdMQvV5BXJz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -499,6 +471,34 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Steppin' (Remix) [feat. E-40 & P-Lo]",
+        "url": "https://open.spotify.com/album/67rMSc4nEWohwEYjA2MaJY"
+      },
+      "artists": [
+        {
+          "name": "Stunnaman02",
+          "url": "https://open.spotify.com/artist/6GqksGv39gHrhEbbI0Mavw"
+        },
+        {
+          "name": "QuakeBeatz",
+          "url": "https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Big Steppin' (feat. E-40 & P-Lo) - Remix",
+      "url": "https://open.spotify.com/track/7wOG9tjfJUrdMQvV5BXJz1"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going To Work - Single",
         "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197187,
       "name": "Going To Work",
       "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 95586,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 121000,
       "name": "Just Gang",
       "url": "https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 95586,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -983,46 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY4FWM",
-        "url": "https://open.spotify.com/album/603ExhUHwUaGi4tgJSBxyx"
-      },
-      "artists": [
-        {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "ShooterGang Kony",
-          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "How I Feel (feat. P-Lo & ShooterGang Kony)",
-      "url": "https://open.spotify.com/track/43NkAm070i8T29zIBfzGKa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118184,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -1030,15 +974,11 @@
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
         }
       ],
-      "duration_ms": 148459,
-      "name": "My Bitch (feat. Kamaiyah)",
-      "url": "https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1067,6 +1007,66 @@
       "duration_ms": 149288,
       "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
       "url": "https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118184,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TY4FWM",
+        "url": "https://open.spotify.com/album/603ExhUHwUaGi4tgJSBxyx"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "How I Feel (feat. P-Lo & ShooterGang Kony)",
+      "url": "https://open.spotify.com/track/43NkAm070i8T29zIBfzGKa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "My Bitch (feat. Kamaiyah)",
+      "url": "https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf"
     }
   ],
   "unique_name": "This Is P-Lo",

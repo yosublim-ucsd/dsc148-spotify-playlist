@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-450 songs - 22 hr 4 min
+451 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-09-22 | 2023-10-20 |
 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 | 2023-10-06 | 2023-12-04 |
 | [buttons! \(with Knock2\)](https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:59 | 2023-12-08 |  |
-| [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 |  |
+| [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 | 2024-04-15 |
 | [Call Me Baby](https://open.spotify.com/track/5UVIKStRk79N7xoEZptJra) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2) | [Call Me Baby](https://open.spotify.com/album/0DbPPf9K0CZd6ajeNMwfVl) | 3:45 | 2023-12-08 | 2024-01-13 |
 | [Can You Feel It](https://open.spotify.com/track/7ytI8fQuBmu0iqA0jxkxyL) | [Jordan Dae](https://open.spotify.com/artist/5e6la7DEu908I4KeAh0NwG) | [Can You Feel It](https://open.spotify.com/album/5kwYHOSE7ElPaFDwS6LfRW) | 2:12 | 2024-02-02 |  |
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
@@ -275,6 +275,7 @@
 | [Mood](https://open.spotify.com/track/4Yq0j5W2HQPJGmu9Mapu8I) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Mood](https://open.spotify.com/album/0Y9TbXivPAbowEaJ1h5acK) | 3:11 | 2021-10-29 | 2022-07-29 |
 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 | 2023-07-14 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 | 2023-11-25 |
+| [Movin](https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Movin](https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ) | 2:11 | 2024-04-12 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |
 | [Mud Season](https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Mud Season](https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8) | 3:19 | 2024-04-12 |  |
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-01 |  |

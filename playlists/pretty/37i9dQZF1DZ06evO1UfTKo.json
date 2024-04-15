@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 695435,
+  "description": "This is Los Tigres Del Norte. De viktigaste l\u00e5tarna samlade i en spellista.",
+  "num_followers": 695585,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDQxMGUxZmJjMGRmZTAxYTA2NmM0NTNhNzI2MDFiY2Qy",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGY5ZDRkYTNkMDM4NmNkYzVhNWJlYjc2MzZlZTc5YmJl",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
       "duration_ms": 172226,
       "name": "Carta Abierta",
       "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 216373,
       "name": "El Tahur",
       "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,
@@ -967,22 +983,6 @@
       "duration_ms": 178053,
       "name": "El Espinazo Del Diablo",
       "url": "https://open.spotify.com/track/6WZxlWrAukPrcfenEjV9t6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Norte\u00f1as Famosas (Herencia Musical)",
-        "url": "https://open.spotify.com/album/2LEN1UVbumFsIhvWPlz0LM"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Rosita De Olivo",
-      "url": "https://open.spotify.com/track/6E9RKCW7L7kWUphsYrEOlD"
     }
   ],
   "unique_name": "This Is Los Tigres Del Norte",

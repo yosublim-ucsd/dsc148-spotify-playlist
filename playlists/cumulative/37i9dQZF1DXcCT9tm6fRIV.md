@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-150 songs - 8 hr 28 min
+151 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Balada para un Loco](https://open.spotify.com/track/4wJr6OTtHaPlq7MWhKMKxw) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [El Nuevo Rumbo](https://open.spotify.com/album/1KGQqsIDFBur5kKWuOa3z7) | 5:37 | 2022-03-18 | 2022-07-29 |
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2022-03-18 |  |
 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 | 2022-03-18 |  |
-| [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 |  |
+| [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 | 2024-04-15 |
 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 | 2024-01-21 |
 | [Cafetín De Buenos Aires](https://open.spotify.com/track/6kAwFibVpTv18fdjBTI57S) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Cuarenta Obras Fundamentales](https://open.spotify.com/album/4yrpuF07ee39tCE3mfeXfs) | 2:51 | 2022-03-18 | 2022-07-29 |
 | [Cambalache \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/2cebuDRXBsi89lb1Jz3TFs) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:04 | 2022-03-18 |  |
@@ -35,6 +35,7 @@
 | [Como Dos Extraños](https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [..\. Tangamente](https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu) | 2:44 | 2022-03-18 |  |
 | [Confidencias](https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Confidencias](https://open.spotify.com/album/0hbD19vNbfBDwO6XTujWSR) | 3:28 | 2022-03-18 | 2022-07-28 |
 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 | 2023-08-11 | 2024-03-02 |
+| [Confidencias](https://open.spotify.com/track/5clL06dw4iPrD3w6MIDYtf) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/5GbLnADafneDEQM3qK9rfa) | 3:28 | 2023-12-01 |  |
 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 | 2022-03-18 |  |
 | [Danzarin](https://open.spotify.com/track/1ps4vwMDiCGYS5EazbtgJl) | [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Roberto Grela](https://open.spotify.com/artist/4NkIT9ejpKX3c6zfz3VzrT) | [Hombres de Tango](https://open.spotify.com/album/0z5WiVVrflrv0kOEK8Rp1D) | 3:54 | 2022-03-18 | 2022-07-29 |
 | [Danzarín](https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT) | [Cuarteto Federico Grela](https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV) | [Cuarteto Federico Grela, Vol\. 1](https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq) | 3:56 | 2022-03-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: girl in red",
-  "num_followers": 1688412,
+  "num_followers": 1688417,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Oh, Gemini",
-        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "Oh, Gemini",
-      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Me Da Igual",
@@ -923,6 +907,22 @@
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Oh, Gemini",
+        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 164971,
+      "name": "Oh, Gemini",
+      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd"
     },
     {
+      "added_at": "2024-04-05 15:15:26",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "a girl like me",
@@ -1123,22 +1139,6 @@
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
-    },
-    {
-      "added_at": "2024-04-05 15:15:26",
-      "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "SCRAPYARD",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Me Before You",
-        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 203519,
-      "name": "Me Before You",
-      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
       },
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
       },
       "artists": [
         {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
     },
     {
       "added_at": "2024-04-05 15:15:26",
@@ -1387,6 +1371,22 @@
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
       "added_at": "2024-04-05 15:15:26",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Rainbow Mixtape",
         "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 173320,
       "name": "Sagittarius Superstar",
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1589,6 +1589,22 @@
       "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
     },
     {
+      "added_at": "2024-04-12 19:42:47",
+      "album": {
+        "name": "Billabong Babe",
+        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
+      },
+      "artists": [
+        {
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "Billabong Babe",
+      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Starving (feat. Teezo Touchdown)",
@@ -1609,38 +1625,6 @@
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
-      "added_at": "2024-04-12 19:42:47",
-      "album": {
-        "name": "Billabong Babe",
-        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
-      },
-      "artists": [
-        {
-          "name": "Royce Fisherman",
-          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "Billabong Babe",
-      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 202033,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Paradise",
@@ -1655,6 +1639,22 @@
       "duration_ms": 153091,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7BQpgrL15I7wYGS47i1fOm"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     }
   ],
   "unique_name": "Indie Pop",

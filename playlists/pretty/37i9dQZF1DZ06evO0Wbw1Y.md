@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,488 likes - 43 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,497 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 42 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 | 43 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDdmNGZkZDRmZjJkYjExZTJhMTllYmM1Y2NhMDRhYjBk`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGQyMjEyOWRjNDk2ODcyY2IxZDVhNTcxY2I2ZDhlMzA2`

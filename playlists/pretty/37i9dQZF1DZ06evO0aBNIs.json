@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 677155,
+  "num_followers": 677269,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDY0YTRmNzZkOGY5MjBiNDFiOTNiNGMzNTgxOWQyODEz",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGI4MjRjZmM3MzA2MjE5OTlmNGI1NGViYTMzMmY0MTMz",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
       "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
+      "duration_ms": 218992,
+      "name": "Listen (featuring Avril Lavigne)",
+      "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
       "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 218992,
-      "name": "Listen (featuring Avril Lavigne)",
-      "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
+      "duration_ms": 234133,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,

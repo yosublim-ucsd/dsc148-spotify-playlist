@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 332599,
+  "num_followers": 332989,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 320306,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -535,22 +535,18 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "This Is How We Do It",
-        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
       },
       "artists": [
         {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 238800,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+      "duration_ms": 240266,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 240266,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 287293,
-      "name": "Everybody (Backstreet's Back) - Extended Version",
-      "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "This Is Your Night",
         "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 238160,
       "name": "This Is Your Night",
       "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 287293,
+      "name": "Everybody (Backstreet's Back) - Extended Version",
+      "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"
     },
     {
       "added_at": "2024-03-22 15:16:56",

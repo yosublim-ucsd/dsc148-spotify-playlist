@@ -4,7 +4,7 @@
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-378 songs - 1 day 0 hr 30 min
+379 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ashiato](https://open.spotify.com/track/1iAylyNZ2LkBl0zzSS8oig) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Ashiato](https://open.spotify.com/album/5ZJ1hxvXXQFrD1Ry32429t) | 3:35 | 2024-04-03 | 2024-04-11 |
 | [Ato No Hanashi](https://open.spotify.com/track/7tAHwyvIGNk83WNRrc0nQ1) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [SALAD DAYS](https://open.spotify.com/album/2ZQmVM6qCsySNb43HqufWZ) | 4:16 | 2023-12-06 | 2023-12-21 |
 | [Avocado](https://open.spotify.com/track/3zqsiBNnHLIxqEZf7MzKvj) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Coming Spring](https://open.spotify.com/album/7wKx0MpkCsftgQeEZ2a789) | 3:32 | 2023-11-24 | 2024-03-28 |
+| [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 | 2024-04-10 |  |
 | [BACK](https://open.spotify.com/track/68aOETZhMvYitRHJ6UgErW) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 3:41 | 2024-03-20 | 2024-03-28 |
 | [BAKAYAROU](https://open.spotify.com/track/5aXwPIF4ekP4H2ogEmtoUR) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [BAKAYAROU](https://open.spotify.com/album/3FIcKXJ2RYMuErFhB29ckJ) | 2:05 | 2023-11-29 | 2023-12-09 |
 | [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 | 2024-02-07 | 2024-02-22 |
@@ -39,7 +40,7 @@
 | [BouAi](https://open.spotify.com/track/1b3ohhtRULmRtJoSuFZGj9) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [BouAi](https://open.spotify.com/album/3wj68MHlc1QXAlp9SXZzbw) | 4:34 | 2024-02-07 | 2024-02-15 |
 | [Bricolage](https://open.spotify.com/track/6RPpOWUANXP0AUHNy298Ok) | [石野理子](https://open.spotify.com/artist/6Z6KrebOWdtrleXwrwrs4F) | [Bricolage](https://open.spotify.com/album/7yHjT81UJeCS6gLGu6hnn6) | 3:30 | 2024-03-13 | 2024-03-21 |
 | [BYE BYE](https://open.spotify.com/track/1zQfODap1AbFXmFt9ETkGP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ひとつの恋が終わってしまったあなたへ](https://open.spotify.com/album/66LyXB2JRybUvDtGo8MMrb) | 4:24 | 2023-11-24 | 2023-12-09 |
-| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2024-04-03 |  |
+| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2024-04-03 | 2024-04-15 |
 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-29 | 2024-01-11 |
 | [Camera Roll](https://open.spotify.com/track/3fH8cIQ8tFxTcES101sUBu) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Camera Roll](https://open.spotify.com/album/2zYTSSjnmK9CUcjtH394t0) | 4:23 | 2024-03-27 | 2024-04-04 |
 | [Chapudding](https://open.spotify.com/track/3lJOqH447TrXuFEFIUBmls) | [chef's](https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa) | [Chapudding](https://open.spotify.com/album/76LzjtU055nmUCg8lDzPzQ) | 3:31 | 2023-12-20 | 2024-01-11 |

@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-211 songs - 15 hr 51 min
+212 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Cuts You Up](https://open.spotify.com/track/4ijNab1GM0JSZoe0I2KCOd) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 5:27 | 2021-09-28 | 2022-07-29 |
 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 | 2021-09-28 |  |
 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 | 2021-09-28 |  |
-| [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 | 2021-09-28 |  |
+| [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 | 2021-09-28 | 2024-04-15 |
 | [Dazzle](https://open.spotify.com/track/7bnCNRtPeex7J5vU7gWJ7t) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 5:31 | 2021-09-28 | 2022-05-26 |
 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 | 2021-09-28 |  |
 | [De Do Do Do, De Da Da Da \- 2003 Stereo Remastered Version](https://open.spotify.com/track/4vrfqXhxognqN4Y4cwDnCA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take: Greatest Hits \(International Version\)](https://open.spotify.com/album/11WaJQFZ4nEDa9k3L1NrGF) | 4:07 | 2021-09-28 | 2022-07-29 |
@@ -133,7 +133,8 @@
 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 | 2021-09-28 |  |
 | [Marquee Moon \- 2003 Remaster](https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon / Adventure / Live at the Waldorf: The Complete Elektra Recordings Plus Liner Notes](https://open.spotify.com/album/2tdeBxBeTVOl95UqS5vV9P) | 10:45 | 2021-09-28 | 2022-07-27 |
 | [Mountain Song](https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:02 | 2021-09-28 | 2023-09-26 |
-| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-19 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2023-01-19 |  |
+| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-19 | 2024-04-15 |
 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 | 2021-09-28 |  |
 | [New Sensation](https://open.spotify.com/track/4NFGDmzzMsQIOAxMFrDgXh) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [The Way Way Back \- Music From The Motion Picture](https://open.spotify.com/album/2XjfnkclWOnYcu0sEbTwFy) | 3:40 | 2021-09-28 | 2022-07-29 |
 | [New Year's Day \- Remastered 2008](https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 5:35 | 2021-09-28 | 2022-11-13 |
@@ -210,7 +211,7 @@
 | [Walking Away](https://open.spotify.com/track/6NHgiZFCnfDzDhOD02GcnR) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 5:04 | 2021-09-28 | 2022-07-14 |
 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2021-09-28 |  |
 | [Walking On The Moon](https://open.spotify.com/track/7pjxc1vwQqo3N1k9hEAD3T) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc](https://open.spotify.com/album/3YJ1lm8mhdxnjFhFFewz0R) | 5:05 | 2021-09-28 | 2022-07-29 |
-| [What's on Your Mind \(Pure Energy\)](https://open.spotify.com/track/2GBWPAsIXtC7NwULhUoHRf) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society](https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg) | 4:35 | 2021-09-28 | 2022-11-13 |
+| [What's on Your Mind \(Pure Energy\)](https://open.spotify.com/track/2GBWPAsIXtC7NwULhUoHRf) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society](https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg) | 4:35 | 2021-09-28 |  |
 | [What's On Your Mind \- Pure Energy](https://open.spotify.com/track/1k82KNC5Ds6HRUXbf6EaHE) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 4:35 | 2021-09-28 | 2022-06-04 |
 | [When Your Heart Is Weak](https://open.spotify.com/track/3OiMyoS1QCu8ozdDEj1WWD) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 4:37 | 2021-09-28 | 2022-07-15 |
 | [When Your Heart Is Weak](https://open.spotify.com/track/3d6zRaJbLV2XvxY93Yow1l) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 4:40 | 2021-09-28 | 2022-11-22 |

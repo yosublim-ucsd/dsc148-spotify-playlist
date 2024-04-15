@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 249180,
+  "2024-04-15": 249239,
   "date_first_scraped": "2021-12-28",
   "description": "Soft instrumental jazz for working or studying.",
   "name": "Focus Jazz",
@@ -4400,6 +4400,24 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/1Mu3jAcHRiLymCVjAI6svJ"
+      },
+      "artists": [
+        {
+          "name": "Meadow Park",
+          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178383,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/1z4BtplYdzK2YDqSLJpnvd"
+    },
+    {
+      "album": {
         "name": "Sally Waits",
         "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
       },
@@ -7447,7 +7465,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 227166,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
@@ -12884,6 +12902,24 @@
     },
     {
       "album": {
+        "name": "The Promise of Spring",
+        "url": "https://open.spotify.com/album/4DGprWZfEGxxxHU0HLmxiG"
+      },
+      "artists": [
+        {
+          "name": "West Village Trio",
+          "url": "https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318107,
+      "name": "The Promise of Spring",
+      "url": "https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7"
+    },
+    {
+      "album": {
         "name": "The Reasons That I Love You",
         "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
       },
@@ -13357,7 +13393,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 209430,
       "name": "Tideaway",
       "url": "https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY"

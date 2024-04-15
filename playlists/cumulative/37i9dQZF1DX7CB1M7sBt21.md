@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-270 songs - 13 hr 3 min
+271 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 | 2022-11-10 | 2023-10-13 |
 | [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-07-28 | 2022-11-01 |
 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 | 2021-11-19 | 2022-07-28 |
+| [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 | 2024-04-11 |  |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2022-07-28 | 2023-10-13 |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-23 |  |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2022-07-28 | 2023-10-13 |
@@ -230,7 +231,7 @@
 | [Spoiled \(Goodboys Remix\)](https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Spoiled \(Goodboys Remix\)](https://open.spotify.com/album/6XCbOW9kPr0peZdpzWqhkk) | 2:30 | 2021-11-19 | 2022-07-29 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-11-19 |  |
 | [STFU](https://open.spotify.com/track/4MY1amv4MW0wyH5vqB89vk) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [STFU](https://open.spotify.com/album/0SIyKVnAO38DvY9J9tQf1V) | 2:13 | 2021-11-19 | 2022-07-21 |
-| [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-11-30 |  |
+| [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-11-30 | 2024-04-15 |
 | [Straight From the Heart \(feat\. Nørskov\)](https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Nørskov](https://open.spotify.com/artist/5iC6qaicSqv8Wd7Q6dW0BH) | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/album/4O0gBwGRlHkhsgWNBvtCZX) | 3:28 | 2021-11-19 | 2023-10-18 |
 | [Supaflow](https://open.spotify.com/track/2wX74JRMdBZBv6YVfCLK7n) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Supaflow](https://open.spotify.com/album/1xNZMcyngkhyiADLYbzVL0) | 2:02 | 2021-11-19 | 2022-07-28 |
 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 | 2022-07-28 | 2024-03-08 |

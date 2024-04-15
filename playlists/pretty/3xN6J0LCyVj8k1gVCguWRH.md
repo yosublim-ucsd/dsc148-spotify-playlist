@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,670 likes - 190 songs - 11 hr 26 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,671 likes - 190 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

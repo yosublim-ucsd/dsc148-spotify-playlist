@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 162451,
+  "num_followers": 162549,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Ad Infinitum",
-        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
-      },
-      "artists": [
-        {
-          "name": "Vincent Isler",
-          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
-        }
-      ],
-      "duration_ms": 191482,
-      "name": "Ad Infinitum",
-      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Isler",
+          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
+        }
+      ],
+      "duration_ms": 191482,
+      "name": "Ad Infinitum",
+      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -151,30 +151,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "World Sleep Day",
-        "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
-      },
-      "artists": [
-        {
-          "name": "Anthony Newley",
-          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
-        },
-        {
-          "name": "Leslie Bricusse",
-          "url": "https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3"
-        },
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 203926,
-      "name": "Pure Imagination (arr. piano)",
-      "url": "https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Composites",
         "url": "https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY"
       },
@@ -195,6 +171,30 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "World Sleep Day",
+        "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
+      },
+      "artists": [
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        },
+        {
+          "name": "Leslie Bricusse",
+          "url": "https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3"
+        },
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 203926,
+      "name": "Pure Imagination (arr. piano)",
+      "url": "https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sad Cello & Piano XXII",
         "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 132000,
       "name": "Tired Mind",
       "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "Leo Einaudi",
-          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
-        }
-      ],
-      "duration_ms": 146016,
-      "name": "November Sea",
-      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 251889,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "duration_ms": 146016,
+      "name": "November Sea",
+      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "EGUZKIA GALDU",
         "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161981,
       "name": "EGUZKIA GALDU",
       "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -715,6 +731,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -731,38 +763,6 @@
       "duration_ms": 233120,
       "name": "You Will Never Walk Alone - Glowworm Rework",
       "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
       },
       "artists": [
         {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
         }
       ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
       },
       "artists": [
         {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
         }
       ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
-      },
-      "artists": [
-        {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
-        }
-      ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174894,
       "name": "Biding Time",
       "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
     },
     {
       "added_at": "2023-06-27 16:12:39",

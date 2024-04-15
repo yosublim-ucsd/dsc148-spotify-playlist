@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 55822,
+  "num_followers": 55850,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDk4Mzk5Yjc0NmNkYmVhZWQ0NjViMjRjMDQ5NzAxMWUx",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDNmYTA2NjY1ZmM2YjRkZWU5YmIzZjRjYmYwZGNhZmQz",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 232080,
       "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
-        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Me Refiero A Ti",
-      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
+      "duration_ms": 177306,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 177306,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
+      "duration_ms": 193893,
+      "name": "Me Refiero A Ti",
+      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm"
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Que Sepas",
-        "url": "https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Banda Aramburos",
-          "url": "https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb"
-        }
-      ],
-      "duration_ms": 141761,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -627,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiero Que Sepas",
+        "url": "https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Banda Aramburos",
+          "url": "https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb"
+        }
+      ],
+      "duration_ms": 141761,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Hombre Que M\u00e1s Te Amo",
         "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 154880,
       "name": "Mi Caballo El Invasor",
       "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
-      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
+      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las + Tocadas",
         "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
@@ -687,70 +687,6 @@
       "duration_ms": 180860,
       "name": "El Corrido de Ramiro Quiroz",
       "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "12 Corridos",
-        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Leonardo Reyes",
-      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
-      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Rafael Caro Quintero",
-      "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
     },
     {
       "added_at": null,
@@ -771,6 +707,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
+      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 163013,
       "name": "Flor de Dalia",
       "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Corridos",
+        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Leonardo Reyes",
+      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
     },
     {
       "added_at": null,

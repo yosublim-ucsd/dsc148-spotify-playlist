@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 566099,
+  "num_followers": 566143,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
-      },
-      "artists": [
-        {
-          "name": "Maudy Ayunda",
-          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Perahu Kertas",
-      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
         "name": "Lelaku",
         "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 251000,
       "name": "Hitam Putih",
       "url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 229986,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
         "name": "Hari Baru",
         "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 373824,
       "name": "Membasuh",
       "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 229986,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 251119,
       "name": "Melukis Senja",
       "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 358626,
-      "name": "Fana Merah Jambu",
-      "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
         "name": "Rumpang",
         "url": "https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 323571,
       "name": "Rumpang",
       "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Fana Merah Jambu",
+      "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Tolong",
-        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
       },
       "artists": [
         {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
         }
       ],
-      "duration_ms": 250322,
-      "name": "Tolong",
-      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
         }
       ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+      "duration_ms": 250322,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1091,18 +1091,26 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+        "name": "Ini Bukan Nosstress",
+        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
       },
       "artists": [
         {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        },
+        {
+          "name": "Dadang Sh Pranoto",
+          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
+        },
+        {
+          "name": "Deny Surya",
+          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
         }
       ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+      "duration_ms": 213240,
+      "name": "Semoga, Ya",
+      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1123,18 +1131,18 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Rasa Cinta Ini",
-        "url": "https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df"
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
       "artists": [
         {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
         }
       ],
-      "duration_ms": 241294,
-      "name": "Rasa Cinta Ini",
-      "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1151,6 +1159,22 @@
       "duration_ms": 286313,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
+    },
+    {
+      "added_at": "2024-03-05 21:45:32",
+      "album": {
+        "name": "Rasa Cinta Ini",
+        "url": "https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 241294,
+      "name": "Rasa Cinta Ini",
+      "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"
     },
     {
       "added_at": "2024-03-05 21:45:32",
@@ -1187,30 +1211,6 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Ini Bukan Nosstress",
-        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        },
-        {
-          "name": "Dadang Sh Pranoto",
-          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
-        },
-        {
-          "name": "Deny Surya",
-          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Semoga, Ya",
-      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
-    },
-    {
-      "added_at": "2024-03-05 21:45:32",
-      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/58N9l8IdTOtwOk2C9FEdA4"
       },
@@ -1231,18 +1231,26 @@
     {
       "added_at": "2024-03-05 21:45:32",
       "album": {
-        "name": "Tak Ingin Sendiri - Single",
-        "url": "https://open.spotify.com/album/6EYVHiIl6Lq2XG1e9og907"
+        "name": "Menghapus Jejakmu",
+        "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
       "artists": [
         {
-          "name": "Felix Irwan",
-          "url": "https://open.spotify.com/artist/5mwjkxQflHcuSGuDpEPm66"
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        },
+        {
+          "name": "Rejoz The GROOVE",
+          "url": "https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv"
+        },
+        {
+          "name": "Rejoz",
+          "url": "https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9"
         }
       ],
-      "duration_ms": 207086,
-      "name": "Tak Ingin Sendiri",
-      "url": "https://open.spotify.com/track/7KxpRVlmUMM85DYougYWn3"
+      "duration_ms": 182414,
+      "name": "Menghapus Jejakmu",
+      "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
     }
   ],
   "unique_name": "Kopikustik",

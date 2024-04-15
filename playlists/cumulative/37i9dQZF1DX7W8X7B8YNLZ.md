@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-61 songs - 3 hr 45 min
+62 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 | 2022-06-01 |  |
 | [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 | 2022-06-01 |  |
 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 | 2022-06-01 |  |
-| [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2022-06-01 |  |
+| [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2022-06-01 | 2024-04-15 |
+| [Mamy Blue](https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/5LZgUafnsq9bXQxwCnyecf) | 3:52 | 2022-06-01 |  |
 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 | 2022-06-01 |  |
 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 | 2022-06-01 |  |
 | [Oxygene, Pt\. 4](https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 4:06 | 2022-06-01 | 2024-02-05 |

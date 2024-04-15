@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 349,
+  "2024-04-15": 349,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH\">Alex Eskeerdo Izquierdo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alex Eskeerdo Izquierdo",
@@ -1255,10 +1255,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196586,
       "name": "Lay Your Head On Me",
       "url": "https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13"
+    },
+    {
+      "album": {
+        "name": "Ol\u00e9 el viaje de Ferdinand (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "Lay Your Head On Me",
+      "url": "https://open.spotify.com/track/6ToFgoFy8Lx5T5OOpdJFZa"
     },
     {
       "album": {

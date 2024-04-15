@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,352 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,322 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 73 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 |
 | 74 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 | 75 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
-| 76 | [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 |
-| 77 | [Back to Christmas](https://open.spotify.com/track/3nGiUhlT8s6G6lTfO2LuLg) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [Back to Christmas](https://open.spotify.com/album/6V67dnvjQ6q61vwxnLuVjU) | 3:46 |
+| 76 | [Back to Christmas](https://open.spotify.com/track/3nGiUhlT8s6G6lTfO2LuLg) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [Back to Christmas](https://open.spotify.com/album/6V67dnvjQ6q61vwxnLuVjU) | 3:46 |
+| 77 | [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 |
 | 78 | [This Christmas](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) | [Jyp Nation](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) | [This Christmas \- Single](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) | 3:47 |
 | 79 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 |
 | 80 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 90 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
 | 91 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 92 | [Beautiful Winter](https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I LOVE WINTER](https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k) | 3:32 |
-| 93 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 |
-| 94 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 |
+| 93 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 |
+| 94 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 |
 | 95 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 |
 | 96 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 |
 | 97 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 
 > Featuring Jay Wheeler, Anuel AA, Ryan Castro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,357 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,356 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 |
 | 2 | [Tú No Lo Amas](https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:34 |
 | 3 | [CORAZÓN DESPEINADO](https://open.spotify.com/track/6yNIT5iO7lUGOFDLG5CPJC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:27 |
-| 4 | [Ghetto Star](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Ghetto Star](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 |
+| 4 | [GHETTO STAR](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [GHETTO STAR](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 |
 | 5 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 6 | [Yo Tengo un Novio](https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:37 |
 | 7 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |

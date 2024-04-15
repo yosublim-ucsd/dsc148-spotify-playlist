@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
-  "num_followers": 375610,
+  "num_followers": 375766,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2024-04-12 19:00:23",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 165168,
       "name": "Madness",
       "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
+    },
+    {
+      "added_at": "2024-04-12 19:00:23",
+      "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Don't Let the Bastards Grind You Down",
+      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-04-12 19:00:23",
+      "album": {
         "name": "Beast From The East",
         "url": "https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 248253,
       "name": "All in Stride",
       "url": "https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO"
-    },
-    {
-      "added_at": "2024-04-12 19:00:23",
-      "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Don't Let the Bastards Grind You Down",
-      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "Reggae Hit L.A.",
-        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
-    },
-    {
-      "added_at": "2024-04-12 19:00:23",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 185088,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "added_at": "2024-04-12 19:00:23",
+      "album": {
+        "name": "Reggae Hit L.A.",
+        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
-    },
-    {
-      "added_at": "2024-04-12 19:00:23",
-      "album": {
         "name": "A Live Injection: Anthology 1968-1979",
         "url": "https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 159400,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ"
+    },
+    {
+      "added_at": "2024-04-12 19:00:23",
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
       },
       "artists": [
         {
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1499,8 +1499,8 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2024-04-12 19:00:23",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-04-12 19:00:23",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+        "name": "Tears of a Clown",
+        "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
       },
       "artists": [
         {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+          "name": "The Beat",
+          "url": "https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
+      "duration_ms": 160026,
+      "name": "The Tears of a Clown",
+      "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
     }
   ],
   "unique_name": "The Essential Ska",

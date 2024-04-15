@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-159 songs - 9 hr 37 min
+160 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Just Friends](https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Jazz Masters](https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD) | 3:18 | 2022-05-03 | 2022-07-29 |
 | [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 | 2022-06-29 | 2023-10-06 |
 | [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2022-04-13 | 2022-04-29 |
-| [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 | 2022-04-13 |  |
+| [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 | 2022-04-13 | 2024-04-15 |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2023-10-17 |
 | [Losing You](https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF) | 3:24 | 2022-04-13 | 2022-07-29 |
 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 | 2022-04-13 |  |
@@ -128,6 +128,7 @@
 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:51 | 2022-04-13 |  |
 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 | 2022-04-13 | 2023-09-30 |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2023-09-29 | 2024-04-13 |
+| [Stardust](https://open.spotify.com/track/7igdmFrayEJPE75Xhnj6vY) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Stardust](https://open.spotify.com/album/0YodJo8Kspf6yvq3BZUVKJ) | 3:53 | 2024-03-20 |  |
 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 | 2022-04-13 | 2023-09-30 |
 | [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 | 2023-12-20 |  |
 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 | 2022-04-13 |  |

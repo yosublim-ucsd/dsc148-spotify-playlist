@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Avenoir
 
-1,142 songs - 2 day 12 hr 31 min
+1,143 songs - 2 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,7 @@
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-19 | 2023-12-09 |
 | [Primal Design](https://open.spotify.com/track/72go9p5GOwd87BuAxOkitl) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Primal Design](https://open.spotify.com/album/1BbC0yD5Cu1CtivfdILB3w) | 3:16 | 2022-11-25 | 2022-12-10 |
 | [Problems](https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Problems](https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL) | 2:34 | 2021-09-17 | 2022-09-10 |
-| [protect](https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [protect](https://open.spotify.com/album/6vLi4z1axDYhVrB0idim09) | 2:47 | 2023-10-06 |  |
+| [protect](https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [protect](https://open.spotify.com/album/6vLi4z1axDYhVrB0idim09) | 2:47 | 2023-10-06 | 2024-04-15 |
 | [Pseudo](https://open.spotify.com/track/5osYao2SrXpR13kqF43OGA) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Pseudo](https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz) | 4:33 | 2023-04-14 | 2023-04-29 |
 | [Pull Up](https://open.spotify.com/track/3GyQuQRsVxOG5mZw98FG4n) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Pull Up](https://open.spotify.com/album/6KkUuZEtuJhMNIsiFiJvY7) | 3:14 | 2021-08-13 | 2022-01-09 |
 | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/track/18MXCyUdrs0LFmEcuneOPL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/album/5jr9iXRLsDgW434mGuzOFt) | 3:12 | 2022-04-01 | 2022-04-12 |
@@ -950,6 +950,7 @@
 | [Sunnie D](https://open.spotify.com/track/04bPOTdO2yOprWu1afxSgy) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 3:46 | 2024-03-15 | 2024-04-06 |
 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-04-14 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 | 2022-07-25 |
+| [Supa Anxious](https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Supa Anxious](https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8) | 2:27 | 2024-04-12 |  |
 | [Super Good](https://open.spotify.com/track/7KccujFn3FPESCU4S4DA0O) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:29 | 2021-03-19 | 2022-04-26 |
 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 | 2024-03-29 |  |
 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 | 2022-10-28 | 2023-06-20 |

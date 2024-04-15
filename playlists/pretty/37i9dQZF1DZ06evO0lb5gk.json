@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 113490,
+  "num_followers": 113509,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDljMzQ2Y2YyODFlNzYyOWYzYTIzMDQ5NTBhNTQyOGQy",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQwOTBlMTIyZjBhMDY3ODMxMWNmNmEzZGIyZDUwNmQ3",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
       "artists": [
         {
@@ -244,25 +228,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 239960,
-      "name": "Only Pain",
-      "url": "https://open.spotify.com/track/7MuPOXU2vjEe3Kh9LfbM5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "Oroborus",
-      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": null,
@@ -283,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
@@ -292,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 332760,
-      "name": "Ocean Planet",
-      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
+      "duration_ms": 321786,
+      "name": "Oroborus",
+      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
     },
     {
       "added_at": null,
@@ -308,15 +276,15 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 342346,
-      "name": "The Shooting Star",
-      "url": "https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj"
+      "duration_ms": 239960,
+      "name": "Only Pain",
+      "url": "https://open.spotify.com/track/7MuPOXU2vjEe3Kh9LfbM5v"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
       "artists": [
         {
@@ -324,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 594213,
-      "name": "The art of dying",
-      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
+      "duration_ms": 332760,
+      "name": "Ocean Planet",
+      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,
@@ -347,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 348013,
-      "name": "From The Sky",
-      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
+      "duration_ms": 594213,
+      "name": "The art of dying",
+      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
     },
     {
       "added_at": null,
@@ -372,15 +340,15 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 402493,
-      "name": "Magma",
-      "url": "https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP"
+      "duration_ms": 342346,
+      "name": "The Shooting Star",
+      "url": "https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
       "artists": [
         {
@@ -388,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 309533,
-      "name": "A sight to behold",
-      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
+      "duration_ms": 348013,
+      "name": "From The Sky",
+      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
     },
     {
       "added_at": null,
@@ -411,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 309533,
+      "name": "A sight to behold",
+      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 402493,
+      "name": "Magma",
+      "url": "https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -423,38 +423,6 @@
       "duration_ms": 144786,
       "name": "From Mars",
       "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Liquid Fire",
-      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 344746,
-      "name": "Esoteric surgery",
-      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
     },
     {
       "added_at": null,
@@ -475,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
@@ -484,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 103546,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
+      "duration_ms": 344746,
+      "name": "Esoteric surgery",
+      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
     },
     {
       "added_at": null,
@@ -500,9 +468,25 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
+      "duration_ms": 257800,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The link",
+        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 103546,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The link",
         "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "The Wild Healer",
-      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 263502,
       "name": "Satan Is a Lawyer",
       "url": "https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 108293,
+      "name": "The Wild Healer",
+      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
     },
     {
       "added_at": null,

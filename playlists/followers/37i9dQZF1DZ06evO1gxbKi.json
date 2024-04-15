@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 17844,
+  "2024-04-15": 17860,
   "date_first_scraped": "2022-05-26",
-  "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
+  "description": "This is Sister Rosetta Tharpe. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Sister Rosetta Tharpe",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 157573,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 164311,
       "name": "Cain't No Grave Hold My Body Down",
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 157652,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165893,
       "name": "I've Done Wrong",
       "url": "https://open.spotify.com/track/4rcaNZcXnLx065xnf4X0oq"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 122946,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 147391,
       "name": "Somebody Needs Jesus",
       "url": "https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 173946,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60"

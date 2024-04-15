@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 120689,
+  "2024-04-15": 120739,
   "date_first_scraped": "2023-02-14",
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
   "name": "Latest Romance Telugu",
@@ -671,10 +671,40 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 205215,
       "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
       "url": "https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN"
+    },
+    {
+      "album": {
+        "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
+        "url": "https://open.spotify.com/album/42EmTGq2Eo0xSZibls0VtT"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Tripuraneni Kalyanachakravarthy",
+          "url": "https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh"
+        },
+        {
+          "name": "Chaitra Ambadipudi",
+          "url": "https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205215,
+      "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
+      "url": "https://open.spotify.com/track/48ZF74Oi3xueh0757PvEYf"
     },
     {
       "album": {

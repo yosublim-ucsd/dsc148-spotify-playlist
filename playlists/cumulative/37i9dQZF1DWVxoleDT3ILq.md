@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Fármacos
 
-462 songs - 1 day 3 hr 45 min
+463 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2023-06-24 |
+| [Florecer](https://open.spotify.com/track/0A4Pb1cTIgmrUXqa7NAP6T) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Neumonía](https://open.spotify.com/album/6bfxoGyVo5qBha9GDVz71J) | 3:02 | 2024-04-12 |  |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
 | [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 | 2024-03-08 |
@@ -242,7 +243,7 @@
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |
 | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU) | 3:06 | 2022-04-15 | 2022-12-22 |
 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 | 2022-04-15 | 2022-12-10 |
-| [Manso visto](https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Manso visto](https://open.spotify.com/album/5meY39uO4BMufhk0S3e9E9) | 2:48 | 2024-01-12 |  |
+| [Manso visto](https://open.spotify.com/track/5Te3UMQrCSS0WmvY9mzH0A) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Manso visto](https://open.spotify.com/album/5meY39uO4BMufhk0S3e9E9) | 2:48 | 2024-01-12 | 2024-04-15 |
 | [Maricoteca](https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Maricoteca](https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu) | 3:42 | 2022-11-11 |  |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-04-15 | 2022-07-28 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 | 2022-07-22 | 2022-12-10 |

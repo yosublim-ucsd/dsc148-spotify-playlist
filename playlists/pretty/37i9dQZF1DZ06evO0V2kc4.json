@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 64263,
+  "num_followers": 64301,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDgwMGY5OWUzMzgzYzY3MTZhMjAwNmI3ZDg0NzljYWU1",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGViYWUyMjViZTA5MWVlYTI5NjRlMjNmMGJkM2I5NTUz",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 270333,
       "name": "Fountain Of Sorrow",
       "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Gold Castle Masters",
-        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 306120,
-      "name": "Brothers in Arms",
-      "url": "https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Every Stage",
         "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 155333,
       "name": "Blowin' In The Wind - Live",
       "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 306120,
+      "name": "Brothers in Arms",
+      "url": "https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r"
     },
     {
       "added_at": null,
@@ -287,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 445880,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
+      "duration_ms": 268173,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 268173,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
+      "duration_ms": 445880,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Last Night I Had The Strangest Dream",
-      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182026,
       "name": "Help Me Make It Through The Night",
       "url": "https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Last Night I Had The Strangest Dream",
+      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
       "duration_ms": 165026,
       "name": "Never Dreamed You'd Leave In Summer",
       "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -759,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest Lullaby",
-        "url": "https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -791,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honest Lullaby",
+        "url": "https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -803,22 +823,6 @@
       "duration_ms": 204960,
       "name": "El Preso Numero Nueve",
       "url": "https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Gold Castle Masters",
-        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "No Woman No Cry - Live",
-      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43564,
+  "num_followers": 43573,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Conversations With Myself",
-        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Individualism Of Gil Evans",
@@ -799,6 +783,22 @@
       "duration_ms": 395293,
       "name": "Las Vegas Tango",
       "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Conversations With Myself",
+        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Mel Torme: Swings Shubert Alley",
@@ -939,6 +923,22 @@
       "duration_ms": 245800,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 312133,
       "name": "Maya",
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "The Complete Verve Singles",
         "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Flip Wails: The Best Of The Verve Years",
-        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
-      },
-      "artists": [
-        {
-          "name": "Flip Phillips",
-          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Singin' In The Rain",
-      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
       "added_at": "2019-10-04 16:01:14",

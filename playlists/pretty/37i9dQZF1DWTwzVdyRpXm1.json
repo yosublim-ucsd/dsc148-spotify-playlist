@@ -1,6 +1,6 @@
 {
   "description": "Best of South Asian Music. Cover: Diljit Dosanjh & Saweetie",
-  "num_followers": 804973,
+  "num_followers": 805300,
   "original_name": "Desi Hits",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,30 @@
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
+    },
+    {
+      "added_at": "2024-04-14 00:01:00",
+      "album": {
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
+      },
+      "artists": [
+        {
+          "name": "Noman Ali Rajper",
+          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
+        },
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "duration_ms": 289974,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
     },
     {
       "added_at": "2024-04-08 10:40:01",

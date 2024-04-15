@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
-  "num_followers": 1602491,
+  "num_followers": 1602481,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,34 @@
     {
       "added_at": "2024-04-12 04:03:07",
       "album": {
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "added_at": "2024-04-12 04:03:07",
+      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -435,26 +463,6 @@
     {
       "added_at": "2024-04-12 04:03:07",
       "album": {
-        "name": "Vertino",
-        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 333671,
-      "name": "Vertino",
-      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
-    },
-    {
-      "added_at": "2024-04-12 04:03:07",
-      "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
       },
@@ -471,30 +479,22 @@
     {
       "added_at": "2024-04-12 04:03:07",
       "album": {
-        "name": "DBZ",
-        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+        "name": "Vertino",
+        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
       },
       "artists": [
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 191040,
-      "name": "DBZ",
-      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+      "duration_ms": 333671,
+      "name": "Vertino",
+      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
     },
     {
       "added_at": "2024-04-12 04:03:07",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-04-12 04:03:07",
       "album": {
-        "name": "A Forsaken Lover's Plea",
-        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
-      },
-      "artists": [
-        {
-          "name": "Chuck Strangers",
-          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Polish Jazz",
-      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
-    },
-    {
-      "added_at": "2024-04-12 04:03:07",
-      "album": {
         "name": "Muggsy Bogues",
         "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 200500,
       "name": "Muggsy Bogues",
       "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
+    },
+    {
+      "added_at": "2024-04-12 04:03:07",
+      "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Polish Jazz",
+      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
     },
     {
       "added_at": "2024-04-12 04:03:07",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-04-12 04:03:07",
       "album": {
-        "name": "Instincts",
-        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Instincts",
-      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
-    },
-    {
-      "added_at": "2024-04-12 04:03:07",
-      "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+    },
+    {
+      "added_at": "2024-04-12 04:03:07",
+      "album": {
+        "name": "Instincts",
+        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Instincts",
+      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
     },
     {
       "added_at": "2024-04-12 04:03:07",

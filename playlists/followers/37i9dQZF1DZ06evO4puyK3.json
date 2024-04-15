@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 156490,
+  "2024-04-15": 156487,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
   "name": "This Is Gloria Groove",
   "tracks": [
     {
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 156325,
       "name": "BARULHADA",
       "url": "https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 146171,
       "name": "MODO XUXA - B\u00d4NUS",
       "url": "https://open.spotify.com/track/6efmYglAH8FBKWBmFWlHna"

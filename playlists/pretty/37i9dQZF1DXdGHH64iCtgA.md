@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,698 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,718 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 48 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 |
 | 49 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
 | 50 | [1982](https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 5:19 |
-| 51 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
-| 52 | [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 |
+| 51 | [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 |
+| 52 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
 | 53 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 |
-| 54 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
-| 55 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
+| 54 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
+| 55 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
 | 56 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 57 | [Pain In The Ass](https://open.spotify.com/track/4DTgh1qUGqIGqzmrsa8wSj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain in the Ass](https://open.spotify.com/album/7vcGhNDkHj4tJlI0ys1cq5) | 6:40 |
 | 58 | [Ivoire \(feat\. Kio Amachree\)](https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kio Amachree](https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 8:15 |

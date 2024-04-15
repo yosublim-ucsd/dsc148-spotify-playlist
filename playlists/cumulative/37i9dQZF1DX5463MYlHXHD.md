@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Pibes Chorros.
 
-239 songs - 13 hr 1 min
+240 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Free L\-Gante](https://open.spotify.com/track/2XJLoUmpWyAhrMry0TIt1o) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Free L\-Gante](https://open.spotify.com/album/1JACVgEJvfWQqGmQZTNj50) | 3:54 | 2023-08-25 | 2023-09-02 |
 | [Frontea 3](https://open.spotify.com/track/7238cpvB913sO1Rh8C6onD) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Brisa La Roca](https://open.spotify.com/artist/7HTxnpCW9GGBBSW4twQPQn) | [Frontea 3](https://open.spotify.com/album/63s10DSJrXwmzS9Lpk4kA7) | 3:02 | 2023-08-18 | 2023-09-02 |
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 |  |
+| [Fue un Sueño](https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 3:30 | 2024-03-29 |  |
 | [FUMAN TWO](https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [FUMAN TWO](https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy) | 1:54 | 2023-08-25 |  |
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 | 2024-01-24 |
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2024-03-06 |
@@ -239,7 +240,7 @@
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2024-03-05 |  |
 | [Vos de Bebe](https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Gira](https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy) | 4:07 | 2023-05-26 | 2024-03-06 |
 | [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 | 2023-07-14 | 2023-08-05 |
-| [Vuelve a Mi Lado](https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 1:44 | 2024-03-05 |  |
+| [Vuelve a Mi Lado](https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 1:44 | 2024-03-05 | 2024-04-15 |
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2023-05-26 |  |
 | [Yo amo la música](https://open.spotify.com/track/46iC4HPfnbMAj34EwPKJVB) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Yo amo la música](https://open.spotify.com/album/2NNCMbHXF5ZyywFPwN5k8g) | 3:44 | 2023-09-29 | 2023-10-13 |
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 51667,
+  "2024-04-15": 51713,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -4445,7 +4445,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -8626,6 +8626,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "Gaw El Banat",
         "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
       },
@@ -11959,7 +11981,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 152611,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i"
@@ -22605,7 +22627,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 204426,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
@@ -25571,7 +25593,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 190000,
       "name": "WILI",
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
@@ -25867,7 +25889,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 156444,
       "name": "Wsalni MSG",
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"

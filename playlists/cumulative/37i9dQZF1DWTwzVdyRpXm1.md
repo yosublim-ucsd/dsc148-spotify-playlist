@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh & Saweetie
 
-299 songs - 17 hr 1 min
+300 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aa](https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Aa](https://open.spotify.com/album/777njg8aKak7ogZL2NUYrk) | 3:10 | 2024-01-26 |  |
 | [Aa Mil](https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aa Mil](https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt) | 2:27 | 2024-01-05 |  |
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2022-01-13 | 2022-03-11 |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 | 2023-08-10 | 2023-11-30 |
 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 | 2024-01-05 | 2024-04-14 |
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2024-01-05 | 2024-03-19 |

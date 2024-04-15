@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRx4AFLjzB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXRx4AFLjzB2)
 
-### [Solar Eclipse Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
+### [Perreo Party in the Desert](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Perreo del bueno under the solar eclipse!
+> Perreo del bueno in the desert!
 
 302 songs - 17 hr 3 min
 

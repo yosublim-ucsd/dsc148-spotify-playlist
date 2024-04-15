@@ -8535,6 +8535,32 @@
     },
     {
       "album": {
+        "name": "sua vez de escutar",
+        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201362,
+      "name": "ei m\u00f4",
+      "url": "https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz"
+    },
+    {
+      "album": {
         "name": "Ela Ama, Ela Gosta",
         "url": "https://open.spotify.com/album/6K9owBKE8aO5gXC9Bi8Bm7"
       },

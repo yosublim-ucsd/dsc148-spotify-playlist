@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 131248,
+  "num_followers": 131294,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Be Okay - EP",
         "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 194374,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "III (Reimagined)",
         "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 202960,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 184264,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Love Goes On",
         "url": "https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 222597,
       "name": "Love Goes On - Remix",
       "url": "https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
     },
     {
       "added_at": "2023-02-18 04:35:24",

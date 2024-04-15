@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-344 songs - 22 hr 40 min
+345 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,9 +79,10 @@
 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 | 2021-12-10 | 2024-04-12 |
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2022-04-01 |  |
 | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 | 2022-04-28 | 2022-05-07 |
-| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2021-12-10 |  |
+| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2021-12-10 | 2024-04-15 |
 | [Cuando Calienta el Sol](https://open.spotify.com/track/0B6i8rjZIiScILFxfA638l) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Cuando Calienta el Sol](https://open.spotify.com/album/6rBa4gSULADkrlMhfRAM8o) | 2:21 | 2021-12-10 | 2022-09-09 |
 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 | 2024-01-26 |  |
+| [Cuando Te Tengo Cerca \- Sesión en Vivo](https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuando Te Tengo Cerca \(Sesión en Vivo\)](https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN) | 5:30 | 2024-04-12 |  |
 | [Cuando Ya No Quede Nada](https://open.spotify.com/track/4Yt2BIE5AlPypd47gUtpT8) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Cuando Ya No Quede Nada](https://open.spotify.com/album/4aGlfKUUCJSIAmUzjH1ogI) | 3:23 | 2023-09-22 | 2023-11-04 |
 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 | 2021-12-10 | 2022-09-30 |
 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 | 2021-12-10 |  |

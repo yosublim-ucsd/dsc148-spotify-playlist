@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 114303,
+  "2024-04-15": 114324,
   "date_first_scraped": "2022-02-24",
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead",
   "name": "Latin R&B",
@@ -5699,6 +5699,28 @@
     {
       "album": {
         "name": "Pleasure (feat. RINI)",
+        "url": "https://open.spotify.com/album/2inYOON82Aiiambp6w9GmO"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161305,
+      "name": "Pleasure (feat. RINI)",
+      "url": "https://open.spotify.com/track/2ETUk2aGu5fHNXfsR14maE"
+    },
+    {
+      "album": {
+        "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
       "artists": [
@@ -5713,7 +5735,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 161305,
       "name": "Pleasure (feat. RINI)",
       "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"

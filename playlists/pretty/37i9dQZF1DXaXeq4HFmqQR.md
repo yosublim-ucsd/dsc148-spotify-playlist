@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,470 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,469 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Y Bailamos Tanto](https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 3:48 |
 | 13 | [Moonlight](https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Moonlight](https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj) | 3:03 |
 | 14 | [nunca es lo mismo y.y](https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nunca es lo mismo y.y](https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV) | 3:14 |
-| 15 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
-| 16 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 15 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 16 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 17 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 |
 | 18 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
 | 19 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |

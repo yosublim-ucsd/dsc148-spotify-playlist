@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 40241,
+  "2024-04-15": 40293,
   "date_first_scraped": "2024-01-30",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.",
   "name": "David Bowie: Covered",
@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "Five Years",
+        "url": "https://open.spotify.com/album/5c9evmmhnCWlsK0mp3aKWo"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Five Years",
+      "url": "https://open.spotify.com/track/4FYxUrKzRFOy5mfG5NXVbx"
+    },
+    {
+      "album": {
         "name": "Songs of the Recollection",
         "url": "https://open.spotify.com/album/3CRQfG5NbcbwphJC3K4lbz"
       },
@@ -223,7 +241,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 263493,
       "name": "Five Years",
       "url": "https://open.spotify.com/track/4lNkheST7MCjZflqM0jTrP"

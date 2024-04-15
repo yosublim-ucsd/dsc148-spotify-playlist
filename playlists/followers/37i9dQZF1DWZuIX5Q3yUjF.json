@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 13501,
+  "2024-04-15": 13504,
   "date_first_scraped": "2022-05-11",
   "description": "Il meglio dell'R&B italiano. Cover: Sissi",
   "name": "anima R&B",
@@ -227,10 +227,32 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi)",
       "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv"
+      },
+      "artists": [
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "ACAB (Amami Come Ameresti Bambi) (feat. Willie Peyote)",
+      "url": "https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ"
     },
     {
       "album": {
@@ -441,10 +463,32 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 149575,
       "name": "Aria",
       "url": "https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150544,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq"
     },
     {
       "album": {

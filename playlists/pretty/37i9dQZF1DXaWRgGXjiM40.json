@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 950191,
+  "num_followers": 950302,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-03-14 21:03:14",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2024-03-14 21:03:14",
-      "album": {
         "name": "Lauana Prado",
         "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
       },
@@ -267,6 +247,22 @@
     {
       "added_at": "2024-03-14 21:03:14",
       "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+    },
+    {
+      "added_at": "2024-03-14 21:03:14",
+      "album": {
         "name": "Graveto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
       },
@@ -283,18 +279,22 @@
     {
       "added_at": "2024-03-14 21:03:14",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
       "artists": [
         {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
         }
       ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2024-03-14 21:03:14",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-03-14 21:03:14",
       "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 181512,
-      "name": "Vingan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
     },
     {
       "added_at": "2024-03-14 21:03:14",
@@ -803,18 +799,22 @@
     {
       "added_at": "2024-03-14 21:03:14",
       "album": {
-        "name": "Falando de Amor, Vol. 1",
-        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
         }
       ],
-      "duration_ms": 192725,
-      "name": "Ficha Limpa",
-      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+      "duration_ms": 181512,
+      "name": "Vingan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
     },
     {
       "added_at": "2024-03-14 21:03:14",

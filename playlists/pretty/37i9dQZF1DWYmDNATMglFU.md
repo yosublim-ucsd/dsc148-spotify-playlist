@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,992 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,937 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 41 | [pretty good for a bad day](https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [pretty good for a bad day](https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r) | 3:15 |
 | 42 | [taking over me](https://open.spotify.com/track/2cSr0CZ3q0kvCH6NKj0Pqr) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [HEADSPLIT](https://open.spotify.com/album/460fhxEztqiD7DkxTAETRL) | 2:23 |
 | 43 | [Get Off My Phone](https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Get Off My Phone](https://open.spotify.com/album/44nxBc1O9Bg5EWRkbX7sXd) | 2:48 |
-| 44 | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 |
+| 44 | [LUVsick!](https://open.spotify.com/track/1ZqB2E6TZIxePcjsOigBqW) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick!](https://open.spotify.com/album/12ZKVBuR18EkOKhlJwc7g6) | 2:32 |
 | 45 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
 | 46 | [poser](https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [poser](https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C) | 2:49 |
 | 47 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |

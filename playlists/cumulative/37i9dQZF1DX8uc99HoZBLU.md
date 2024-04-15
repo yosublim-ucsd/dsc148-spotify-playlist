@@ -2,9 +2,9 @@
 
 ### [aesthetic](https://open.spotify.com/playlist/37i9dQZF1DX8uc99HoZBLU)
 
-> for those who appreciate a curated mood 🪩
+> for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-317 songs - 16 hr 12 min
+320 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [cliché](https://open.spotify.com/track/2h3Q3wDxLNfBh0yX8d3jib) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 3:04 | 2021-06-08 | 2022-04-18 |
 | [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 | 2022-07-19 | 2023-08-12 |
 | [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 | 2021-06-08 | 2022-07-29 |
-| [Coffee Breath](https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/272gU5dXR1tdNe92e7h803) | 2:43 | 2023-08-17 |  |
+| [Coffee Breath](https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/272gU5dXR1tdNe92e7h803) | 2:43 | 2023-08-17 | 2024-04-15 |
 | [Coffee Breath](https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX) | 2:43 | 2023-08-17 | 2023-09-30 |
 | [Coffee Breath](https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG) | 2:43 | 2023-08-11 | 2023-08-25 |
 | [Coffee Stained Smile](https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Coffee Stained Smile](https://open.spotify.com/album/3VsVKGZW2klawfXy08IsZm) | 3:00 | 2021-12-10 | 2022-07-28 |
@@ -85,9 +85,10 @@
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2021-08-27 | 2022-07-17 |
 | [Drive\-in Movie](https://open.spotify.com/track/2lK2RkDLxEbfrap6wu9U4w) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [Drive\-in Movie](https://open.spotify.com/album/2F2GkSJfMdbwe0xvKsEs7s) | 3:17 | 2021-06-08 | 2022-04-19 |
 | [eons away](https://open.spotify.com/track/1IGkkm35S2KRItswTm0eKP) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [eons away](https://open.spotify.com/album/6dVltlMV1WFe0BcU9m8ZnE) | 2:32 | 2021-08-27 | 2022-04-19 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-14 |  |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2021-06-08 | 2022-11-02 |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-06-08 | 2022-07-29 |
-| [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 | 2021-06-25 |  |
+| [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 | 2021-06-25 | 2024-04-15 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2021-06-08 |  |
 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 | 2021-06-08 | 2022-11-13 |
 | [falling down](https://open.spotify.com/track/0ASYuzPsTBA6ZmIsuvNZby) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2rdeGjo2Xv8aOoNhaUxtZf) | 1:36 | 2021-06-08 | 2022-04-21 |
@@ -113,6 +114,7 @@
 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 | 2022-09-09 |  |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-07-19 | 2022-11-04 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-11 | 2022-07-29 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-14 |  |
 | [Greensmoke](https://open.spotify.com/track/58IXEuRhPjZAJLNfztJhkL) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Greensmoke](https://open.spotify.com/album/3iGtTAayqc4rnlF8uit8iA) | 3:50 | 2021-06-08 | 2022-04-08 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2021-06-08 | 2022-04-29 |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-07-08 | 2022-11-14 |
@@ -152,9 +154,10 @@
 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 | 2021-06-08 | 2022-06-12 |
 | [I'm Sorry](https://open.spotify.com/track/1LN64uu1X76gRdIp7AkFkE) | [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [I'm Sorry](https://open.spotify.com/album/3VoTMl7Cs2aSkBjmN7oNq7) | 2:00 | 2021-06-08 | 2022-04-21 |
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2021-06-08 | 2022-04-20 |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-14 |  |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-09-23 |  |
 | [innerg](https://open.spotify.com/track/0gDb9g0EqeFfNl122zVrwV) | [hrlum](https://open.spotify.com/artist/1QCUIMMPGwxKs9E3UmY2bL) | [innerg](https://open.spotify.com/album/0V2xML4TBRDhoJeXaW0I6Y) | 2:05 | 2022-02-18 | 2022-04-21 |
-| [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 | 2023-08-17 |  |
+| [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 | 2023-08-17 | 2024-04-15 |
 | [Insomniac](https://open.spotify.com/track/62JzTgFcJ4BX07AktKmB1S) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:32 | 2022-02-18 | 2022-04-21 |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2021-06-08 |  |
 | [Jovial](https://open.spotify.com/track/2COBMrpsGXEagCGkjp2Siz) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Fresh Squeezed](https://open.spotify.com/album/4ZWyu9H0w1mOytbuwOugiC) | 2:22 | 2021-06-08 | 2022-04-20 |

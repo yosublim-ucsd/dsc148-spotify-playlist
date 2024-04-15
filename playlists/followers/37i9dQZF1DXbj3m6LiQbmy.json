@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 6289,
+  "2024-04-15": 6288,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Gianna Nannini in cover! \u2728",
   "name": "GLOW Italia",
@@ -127,10 +127,32 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi)",
       "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv"
+      },
+      "artists": [
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "ACAB (Amami Come Ameresti Bambi) (feat. Willie Peyote)",
+      "url": "https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ"
     },
     {
       "album": {
@@ -3987,10 +4009,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160105,
       "name": "Nei",
       "url": "https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz"
+    },
+    {
+      "album": {
+        "name": "Nei",
+        "url": "https://open.spotify.com/album/1Gkv3szNA77Fw6pCTJbQms"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Tronconi",
+          "url": "https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160105,
+      "name": "Nei",
+      "url": "https://open.spotify.com/track/3t7k2We7bIjP0EQkgETjGF"
     },
     {
       "album": {

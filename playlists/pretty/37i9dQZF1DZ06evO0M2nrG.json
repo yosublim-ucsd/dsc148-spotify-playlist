@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 65637,
+  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "num_followers": 65653,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDE5NDQ3ZmVlNjgzNzJlNjc5YjNkMGQwMThmZTgxYmU3",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQ3OTBkYmRhZmM4ZjhiMjQyMGMxYzFkNjAwNjExMzcy",
   "tracks": [
     {
       "added_at": null,
@@ -379,42 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 197879,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo Hasta El Final",
         "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
       },
@@ -435,6 +399,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qui\u00e9reme",
         "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
       },
@@ -447,38 +447,6 @@
       "duration_ms": 182222,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": null,
@@ -503,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Sufrimos De Lo Mismo",
-      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estar Contigo",
         "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
       },
@@ -591,26 +591,6 @@
       "duration_ms": 228832,
       "name": "Estar Contigo",
       "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darte Amor",
-        "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
-      },
-      "artists": [
-        {
-          "name": "Jordy Jill",
-          "url": "https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Darte Amor",
-      "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 221444,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Darte Amor",
+        "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
+      },
+      "artists": [
+        {
+          "name": "Jordy Jill",
+          "url": "https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Darte Amor",
+      "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
     },
     {
       "added_at": null,
@@ -763,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 192207,
+      "name": "A D\u00f3nde Te Me Fuiste",
+      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 226238,
       "name": "Te Besar\u00e9 - Salsa Remix",
       "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 192207,
-      "name": "A D\u00f3nde Te Me Fuiste",
-      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
     },
     {
       "added_at": null,

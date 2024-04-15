@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-736 songs - 1 day 20 hr 2 min
+737 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Second](https://open.spotify.com/track/7xNh85nWehExA33uAqFIKP) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Second](https://open.spotify.com/album/5C0WgGqN1ugH3Jbw0kTzh1) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Sedona \- The Voice Performance](https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Sedona \(The Voice Performance\)](https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0) | 3:25 | 2021-12-17 | 2022-06-22 |
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-12-17 | 2024-03-31 |
+| [See the World](https://open.spotify.com/track/0ioDZn2JL53ictGJMMkETC) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/78UXXQ2WhEdl3586dCV2ZT) | 4:17 | 2023-10-06 |  |
 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-12-17 | 2022-07-26 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2022-01-24 | 2022-04-17 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-07-22 |  |
@@ -734,7 +735,7 @@
 | [You](https://open.spotify.com/track/16DEGzVmbLlmJNKz1rSvrB) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 2:46 | 2022-07-29 |  |
 | [You](https://open.spotify.com/track/43bLAUudVwgT5Cp69X1BXA) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [You](https://open.spotify.com/album/07FcDuOkW1O2NPI4r4uN69) | 2:47 | 2021-12-17 | 2022-07-29 |
 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 | 2021-12-17 |  |
-| [You In My Life](https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [You In My Life](https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5) | 3:37 | 2021-12-17 |  |
+| [You In My Life](https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [You In My Life](https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5) | 3:37 | 2021-12-17 | 2024-04-15 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-07-22 | 2023-06-16 |
 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 | 2023-04-28 |  |
 | [You Sigh](https://open.spotify.com/track/7hMKqhlMqxF7ULZiUMN5AH) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 2:58 | 2022-01-24 | 2022-04-20 |

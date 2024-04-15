@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=qKQwfB1lSJ2l9wiSy8YSiA>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,095 likes - 104 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,122 likes - 104 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 2 | [Yeshua \(Worship Rendition\)](https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yeshua \(Worship Rendition\)](https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO) | 3:36 |
 | 3 | [Everybody's Free \- Latroit Edition](https://open.spotify.com/track/1IcgmuMLGYExZc8RhwfWTu) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Everybody's Free \(House of Latroit Remixes\)](https://open.spotify.com/album/72ETOQqQUNKz9qoScQJcpU) | 3:13 |
 | 4 | [Like Wind](https://open.spotify.com/track/0ADdaYXvVOgc8unuWSqMlI) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Like Wind](https://open.spotify.com/album/6jRdex6l2yNBTqR3i43p4M) | 3:12 |
-| 5 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/3VQneqtvB0iHKII1hJb3Wx) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 5 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 6 | [Give Me Oil](https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [Give Me Oil](https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId) | 11:33 |
 | 7 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 |
 | 8 | [Kahamara \- Live](https://open.spotify.com/track/7jC999ElgxM2QaiwkzJRPK) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Prophecy \(Live\)](https://open.spotify.com/album/6clxzkILHko47h5ggpy3TA) | 6:21 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 42 | [Hafanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hafanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 |
 | 43 | [Yahweh](https://open.spotify.com/track/7aG6Bc2r9XhOaqLYlzM3Cv) | [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Yahweh](https://open.spotify.com/album/1u2tBBKBpF9FfCCReraoD2) | 5:39 |
 | 44 | [Most Beautiful](https://open.spotify.com/track/5b7PQQbvxyawU0R4YOhiYA) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [A Thousand Tongues \(Live\)](https://open.spotify.com/album/7z1WihHkpJg08UAaCCXobV) | 9:06 |
-| 45 | [Phase II](https://open.spotify.com/track/7co3fJ4SpKezg0b6W9H87W) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Phase II](https://open.spotify.com/album/4P2RrDnngen1wviPzAvBjd) | 3:06 |
+| 45 | [Phase II](https://open.spotify.com/track/7co3fJ4SpKezg0b6W9H87W) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Warsheep](https://open.spotify.com/artist/4UEI8uNTkWhDbkrZglD3ue) | [Phase II](https://open.spotify.com/album/4P2RrDnngen1wviPzAvBjd) | 3:06 |
 | 46 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 |
 | 47 | [Psalms 23](https://open.spotify.com/track/5r1Szh29yffvwkf3af6kmk) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Psalms 23](https://open.spotify.com/album/77na3WEu647Ki6SMLUyj3c) | 1:46 |
 | 48 | [goya](https://open.spotify.com/track/0ED7pso3Lj6EMBPJwgKgA3) | [Nonso CityRock Eze](https://open.spotify.com/artist/0d2YB6AVKPp2cFjitoVrl1) | [goya](https://open.spotify.com/album/0xY1crSxGLDo4VJugshd2Y) | 3:27 |

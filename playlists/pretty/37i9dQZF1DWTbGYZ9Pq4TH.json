@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176929,
+  "num_followers": 176959,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
         }
       ],
-      "duration_ms": 221631,
-      "name": "MADAME - L'anima",
-      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
+      "duration_ms": 251413,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
       "artists": [
         {
-          "name": "Umberto Tozzi",
-          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 251413,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima",
+      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Sindrome di Stendhal",
-        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Il bacio di Klimt",
-      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 236586,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Sindrome di Stendhal",
+        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2024-01-17 10:21:34",

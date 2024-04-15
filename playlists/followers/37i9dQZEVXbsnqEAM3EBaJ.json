@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 0,
+  "2024-04-15": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 243000,
       "name": "Armada",
       "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
@@ -4629,7 +4629,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 241426,
       "name": "Crack Cocaine",
       "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
@@ -5291,7 +5291,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. Bert McCracken)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
@@ -7155,7 +7155,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 202142,
       "name": "Estandarte",
       "url": "https://open.spotify.com/track/4Yw3jtrOKEXOkzIusWyDaa"
@@ -7591,7 +7591,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 237616,
       "name": "Fences",
       "url": "https://open.spotify.com/track/4l7wSctBzdxVipOA3TQv6M"
@@ -9341,7 +9341,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 135011,
       "name": "Heartbreak Feels So Good - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6Wsluv589twj4357ccqrzU"
@@ -9665,7 +9665,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 163213,
       "name": "Highway 51 Blues",
       "url": "https://open.spotify.com/track/7DR6xsxue3I5ciAzJ3fKD9"
@@ -13231,7 +13231,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 207931,
       "name": "LIES WE TELL OURSELVES",
       "url": "https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP"
@@ -14218,6 +14218,24 @@
     },
     {
       "album": {
+        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
+        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180269,
+      "name": "Man of Constant Sorrow",
+      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
+    },
+    {
+      "album": {
         "name": "Mantra del Maestro Jes\u00fas",
         "url": "https://open.spotify.com/album/6zPoGZ5VIBoeFNJsPtGFMC"
       },
@@ -14403,7 +14421,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 520096,
       "name": "Mente Divina",
       "url": "https://open.spotify.com/track/11RTKMqZGZTNVespfOQP4l"
@@ -16439,7 +16457,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 216906,
       "name": "One Dark Happy Nation",
       "url": "https://open.spotify.com/track/53UmJZUfNkHkMH8ldAY1AG"
@@ -17535,7 +17553,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 260890,
       "name": "PODER - Bribb\u014d Remix",
       "url": "https://open.spotify.com/track/6yW8LNNbmfSHWtVsy53FIC"
@@ -26407,7 +26425,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 193533,
       "name": "What Love Can Do - Live at Wachovia Spectrum, Philadelphia, PA - 10/14/2009",
       "url": "https://open.spotify.com/track/1WEE83xSksC1PbPMlRIFRt"

@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 160858,
       "name": "B\u00ed\u00f3mynd",
       "url": "https://open.spotify.com/track/0gxq2ErkNoTu1mPx9NFn1j"
@@ -7504,7 +7504,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 220626,
       "name": "Drink N Dance",
       "url": "https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ"
@@ -13024,7 +13024,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "Hetjan",
       "url": "https://open.spotify.com/track/7MEyTGJeQMzJUEBx6KKSYw"
@@ -13158,7 +13158,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 177187,
       "name": "HITIII \u00e1 kl\u00fabbnum",
       "url": "https://open.spotify.com/track/1afjBOUNpoF8m4lmj6DV8U"
@@ -15576,7 +15576,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 224666,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4k8XSN1nCJ0rMf4OKF3zEz"
@@ -22496,7 +22496,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -22820,7 +22820,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 243040,
       "name": "Out Of My Hands",
       "url": "https://open.spotify.com/track/2BOpFmZQ89Rjm2wvmud1MU"
@@ -22990,7 +22990,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
@@ -23634,6 +23634,32 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "album": {
@@ -29970,7 +29996,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 182738,
       "name": "S\u00f3lin",
       "url": "https://open.spotify.com/track/4asqucS4WAuKuueQBk58IS"
@@ -30820,6 +30846,28 @@
       "duration_ms": 226933,
       "name": "The One",
       "url": "https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {
@@ -34578,7 +34626,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 224191,
       "name": "Yfir striki\u00f0",
       "url": "https://open.spotify.com/track/7lMICK2qmFRK6zOBcSGKTr"

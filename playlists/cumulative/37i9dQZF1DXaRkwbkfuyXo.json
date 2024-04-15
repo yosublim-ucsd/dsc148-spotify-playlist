@@ -2620,10 +2620,28 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 159312,
       "name": "Ya No Soy el Mandadero",
       "url": "https://open.spotify.com/track/06pDUeRKhA0ghcuCkyrSPS"
+    },
+    {
+      "album": {
+        "name": "Ya No Soy El Mandadero",
+        "url": "https://open.spotify.com/album/0uvttypHOnDWBUHnVUTUnt"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159312,
+      "name": "Ya No Soy El Mandadero",
+      "url": "https://open.spotify.com/track/2y35fbHveQHSJjYPf4LPY0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaRkwbkfuyXo"

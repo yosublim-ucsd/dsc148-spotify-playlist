@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,922 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,986 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 47 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 | 48 | [É Assim Que Tem Que Ser \- Ao Vivo](https://open.spotify.com/track/2vpMqfzcVi8WawTwRBlIqK) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [É Assim Que Tem Que Ser \(Ao Vivo\)](https://open.spotify.com/album/27ciDLV1xbT2M0dZiaD4nc) | 3:28 |
 | 49 | [Sim ou Não \- Ao Vivo](https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Sim ou Não \(Ao Vivo\)](https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF) | 3:12 |
-| 50 | [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 |
+| 50 | [Ainda Gosto De Você / Já Era](https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 5:47 |
 
 Snapshot ID: `MTcxMjkyOTMxOSwwMDAwMDAwMDhhMTUwOTY4ZTI1NTJkZWIwZWE4YmFlZDgxMTAyMWIw`

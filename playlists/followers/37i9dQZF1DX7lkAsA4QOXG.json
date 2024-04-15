@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 125733,
+  "2024-04-15": 125799,
   "date_first_scraped": "2022-09-17",
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
   "name": "Jazz Covers",
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 282737,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"

@@ -1,6 +1,6 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43195,
+  "num_followers": 43196,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
+    },
+    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "Sixtape 3",
@@ -411,22 +427,6 @@
       "duration_ms": 156030,
       "name": "Doin Yo Stuff",
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -567,6 +551,22 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "ARTchives: The Gallery",
-        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 162625,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Grudges",
@@ -881,24 +865,20 @@
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -919,6 +899,26 @@
       "duration_ms": 247912,
       "name": "Love It Here",
       "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Heads Up",
         "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "ISN'T THE SAME",
+        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 156624,
+      "name": "ISN'T THE SAME",
+      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Meet Me Upstrz",
@@ -1349,20 +1365,24 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "ISN'T THE SAME",
-        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
+        "name": "The Hurtbook (Homegirl Pack)",
+        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
       },
       "artists": [
         {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 156624,
-      "name": "ISN'T THE SAME",
-      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+      "duration_ms": 193781,
+      "name": "So Be It (with Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1401,42 +1421,6 @@
       "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Hurtbook (Homegirl Pack)",
-        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193781,
-      "name": "So Be It (with Summer Walker) - Remix",
-      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Weak For Me",
-        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
-      },
-      "artists": [
-        {
-          "name": "Baby B",
-          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Weak For Me",
-      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1455,6 +1439,22 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Weak For Me",
+        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
+      },
+      "artists": [
+        {
+          "name": "Baby B",
+          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Weak For Me",
+      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Hurt Before",
+        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 122086,
+      "name": "Hurt Before",
+      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Deep Ellum Interlude",
@@ -1699,22 +1715,6 @@
       "duration_ms": 123150,
       "name": "Deep Ellum Interlude",
       "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Hurt Before",
-        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 122086,
-      "name": "Hurt Before",
-      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2022-12-09 05:00:00",

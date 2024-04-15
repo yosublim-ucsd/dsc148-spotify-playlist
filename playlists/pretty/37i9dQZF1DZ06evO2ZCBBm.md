@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,015 likes - 47 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,024 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 46 | [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 |
 | 47 | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s) | 2:24 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDgxYzJlZTYwYjI1Yzc4MWMzMmFhNjBmY2VkODg0MzVm`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDc3MWRhMTJhMzY1ZmZiMzZjMjBhODE5NTRmMmQxMDk0`

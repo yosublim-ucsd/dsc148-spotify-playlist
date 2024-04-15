@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,589 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,563 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 84 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 |
 | 85 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 |
 | 86 | [nowhere fast](https://open.spotify.com/track/3wBxFk7joZ29YP1k7rZJwo) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/3WQNCqAA8GVtXw1R3mfQqD) | 2:24 |
-| 87 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
+| 87 | [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 |
 | 88 | [I'm Different Now](https://open.spotify.com/track/0Ff2ltrgOMd3IVNJRnD4PD) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [I'm Different Now](https://open.spotify.com/album/6pwcK3JeJsT865X43eOFCW) | 3:09 |
 | 89 | [Forget About You \(with Pink Sweat$\)](https://open.spotify.com/track/7K84vL9TnKyLBN2tgCYBzQ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Forget About You \(with Pink Sweat$\)](https://open.spotify.com/album/2mwO1hWpMx0vB3OqZkHuON) | 2:30 |
 | 90 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 |

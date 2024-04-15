@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 30151,
+  "2024-04-15": 30210,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist! #fyp",
   "name": "Viral Hits NL",
@@ -1916,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Eenie Meenie EP",
+        "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT"
+    },
+    {
+      "album": {
         "name": "Elke Traan / Every Tear",
         "url": "https://open.spotify.com/album/7KP4pADsFmOYFSIZG3Yx7N"
       },
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 191368,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
@@ -4738,7 +4756,7 @@
       "artists": [
         {
           "name": "Zerb",
-          "url": "https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR"
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
           "name": "Sofiya Nzau",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 26825,
+  "num_followers": 26845,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDExOGM1NDk0Mjk5MDI0OTJjY2U0NThmZmI1NjQzY2Fl",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGVkZmRmZGUyZGY4NjBhNDNjN2EyMmU4MDJkZDlhMWIz",
   "tracks": [
     {
       "added_at": null,
@@ -999,26 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Vengo de Abajo",
-        "url": "https://open.spotify.com/album/3T0u1TBQE1eKyjVMGaRsaG"
+        "name": "De Parranda Con Darey (En Vivo)",
+        "url": "https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Locura Terminal",
-          "url": "https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Yo Vengo de Abajo",
-      "url": "https://open.spotify.com/track/13I3CFc0m2GrXMxdTBWgst"
+      "duration_ms": 203273,
+      "name": "La Neta - En Vivo",
+      "url": "https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm"
     }
   ],
   "unique_name": "This Is Los Dareyes De La Sierra",

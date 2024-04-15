@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-544 songs - 1 day 5 hr 41 min
+545 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [so easily \(with skaiwater\)](https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [so easily \(with skaiwater\)](https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6) | 3:39 | 2023-01-13 | 2023-02-04 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-21 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-01 | 2022-04-19 |
-| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-08-18 |  |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2024-04-12 |  |
+| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-08-18 | 2024-04-15 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-12-29 | 2022-07-29 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-04-14 | 2022-07-29 |
 | [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 | 2023-03-03 | 2023-04-01 |

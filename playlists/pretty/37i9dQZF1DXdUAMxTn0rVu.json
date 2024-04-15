@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madvillain",
-  "num_followers": 491721,
+  "num_followers": 491963,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-03-08 02:42:53",
       "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+    },
+    {
+      "added_at": "2024-03-08 02:42:53",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 239413,
       "name": "Whirlwind Thru Cities",
       "url": "https://open.spotify.com/track/6MozilZfg7PVMNbxGuyoro"
-    },
-    {
-      "added_at": "2024-03-08 02:42:53",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Blast",
-      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
       "added_at": "2024-03-08 02:42:53",

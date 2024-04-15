@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -1712,6 +1712,28 @@
       "duration_ms": 252053,
       "name": "Carry the Cross",
       "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
+    },
+    {
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325160,
+      "name": "Caso S\u00e9rio",
+      "url": "https://open.spotify.com/track/2HvuyQEnKR82zwfIuCBaWH"
     },
     {
       "album": {
@@ -2671,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Ascendancy (Special Edition)",
+        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257240,
+      "name": "Drowned and Torn Asunder",
+      "url": "https://open.spotify.com/track/6qTRVRP7MptW6ASbJ7Zq4I"
+    },
+    {
+      "album": {
         "name": "Punk Goes 90s Vol. 2",
         "url": "https://open.spotify.com/album/5YEUqtBlEPHSEHCkSIIhK0"
       },
@@ -2722,6 +2762,24 @@
       "duration_ms": 224085,
       "name": "Dulce Soledad",
       "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
+    },
+    {
+      "album": {
+        "name": "Live! At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/0LlaCdVDuOAx60NNxvsy8A"
+      },
+      "artists": [
+        {
+          "name": "Tiny Tim",
+          "url": "https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126893,
+      "name": "Earth Angel - Live at Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2mv681lJLNvTZqEWFx07qe"
     },
     {
       "album": {
@@ -3212,7 +3270,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 313373,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/5D2yrjjxh1mizl4uwzA9qe"
@@ -4041,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259386,
+      "name": "Harder Than You Know",
+      "url": "https://open.spotify.com/track/354bs7EDkFxcmQYcKB6ya6"
+    },
+    {
+      "album": {
         "name": "Punk Goes X: Songs from the 2011 Winter X-Games",
         "url": "https://open.spotify.com/album/7F7jjZ2p0sY9WCtvIpMJ8S"
       },
@@ -4286,7 +4362,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 238662,
       "name": "House Of Gold",
       "url": "https://open.spotify.com/track/6ldJbhUXQUjJS4hCqV1iAh"
@@ -4770,7 +4846,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 221137,
       "name": "Impossible Tracks",
       "url": "https://open.spotify.com/track/7GZvjJkHoTSiP51zNqVnMP"
@@ -5105,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Kill 'Em All",
+        "url": "https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Jump In The Fire",
+      "url": "https://open.spotify.com/track/6p3NDplOaGWddzEbOcpTsT"
+    },
+    {
+      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -5375,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Antolog\u00eda: Su Historia y Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Latinoam\u00e9rica Es Un Pueblo Al Sur De EEUU",
+      "url": "https://open.spotify.com/track/69xHf0lp9pebfviLav7gQ6"
+    },
+    {
+      "album": {
         "name": "Challenger",
         "url": "https://open.spotify.com/album/6qfsRtzIJdze9OsooWVNXE"
       },
@@ -5566,7 +5678,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 299933,
       "name": "Loner",
       "url": "https://open.spotify.com/track/6PPs4wEwrTQrVTNypvHa3L"
@@ -5660,7 +5772,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 208093,
       "name": "Los Dinosaurios",
       "url": "https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik"
@@ -6351,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes Metal",
+        "url": "https://open.spotify.com/album/4xWEKSfDg1TDe4kDiJQseD"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "My Michelle",
+      "url": "https://open.spotify.com/track/6NIFs6X6NmGGGGf3DYh9jI"
+    },
+    {
+      "album": {
         "name": "War Is The Answer",
         "url": "https://open.spotify.com/album/17IyljrvxhPktGR5NYx9iQ"
       },
@@ -6658,6 +6788,24 @@
       "duration_ms": 258266,
       "name": "Nightswimming",
       "url": "https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/1qgcT33TNBMu180nHOEV5P"
+      },
+      "artists": [
+        {
+          "name": "Dog Date",
+          "url": "https://open.spotify.com/artist/16ReCN8nJeX63Px3pynFze"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3G9GN38rhuGtvZfW3Lc76N"
     },
     {
       "album": {
@@ -7586,7 +7734,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 214493,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/2r4gmozRnnU9xOkasVNUJ2"
@@ -8156,7 +8304,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 193006,
       "name": "Rust",
       "url": "https://open.spotify.com/track/4gIR6qYVi5Rggf3sn8EIiG"
@@ -8646,7 +8794,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 157213,
       "name": "Some Came Running",
       "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
@@ -8913,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
+    },
+    {
+      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -9032,7 +9198,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 256786,
       "name": "Sweet Curse",
       "url": "https://open.spotify.com/track/4mEKcHXmzC7JC8I1L3MjFT"
@@ -9228,7 +9394,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 182761,
       "name": "Texas Hold 'Em",
       "url": "https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb"
@@ -9304,6 +9470,24 @@
       "duration_ms": 334466,
       "name": "The Aftermath (G3)",
       "url": "https://open.spotify.com/track/2trvsBQoevupr7pnjfSjbG"
+    },
+    {
+      "album": {
+        "name": "Open Arms",
+        "url": "https://open.spotify.com/album/6UhbbQb8x5pesyx5lSaXbe"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255936,
+      "name": "The Best - Edit",
+      "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
     },
     {
       "album": {
@@ -9678,7 +9862,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 176266,
       "name": "The Ripper",
       "url": "https://open.spotify.com/track/0UQ6vUmFUUbtLZ6EWOzh33"
@@ -9714,7 +9898,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 365213,
       "name": "The Shadow of Venus",
       "url": "https://open.spotify.com/track/0s7yGp3N4GnJD8rwCnq4uX"
@@ -10618,6 +10802,24 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "album": {
+        "name": "The Fallout (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/0RNvY7pXqrFB6zZXUS79tM"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/3nRHOGFuJ8soIFN0xlEfJK"
     },
     {
       "album": {

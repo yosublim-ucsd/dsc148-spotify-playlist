@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIX7Zffto5d.md) - [plain]
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,666 likes - 61 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,687 likes - 61 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 2 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 |
 | 3 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 |
-| 4 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 |
+| 4 | [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 |
 | 5 | [Voice Memo No\. 5](https://open.spotify.com/track/02OvOau7SB9kImc7vyxiJT) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:43 |
 | 6 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 |
 | 7 | [Call](https://open.spotify.com/track/45lFNdVfFUKpc9uwLYNvf8) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Call](https://open.spotify.com/album/2D9Kxb4p9P8NP6bxbZPDzw) | 2:59 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIX7Zffto5d.md) - [plain]
 | 20 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 |
 | 21 | [TOKYO 4AM](https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:22 |
 | 22 | [You Just Walked In My Life](https://open.spotify.com/track/4PWP041gUG0PzmGua2alT3) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:59 |
-| 23 | [サンフラワー](https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:18 |
+| 23 | [Sunflower](https://open.spotify.com/track/2Dz1EZAnjNCnpiRKT6VDGC) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:18 |
 | 24 | [Good](https://open.spotify.com/track/2GJfaPnMsjy9WqM7te5yhB) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:33 |
 | 25 | [Like This](https://open.spotify.com/track/3XKhAWGdCZKWLTzaxk2SNa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 2:59 |
 | 26 | [Sober](https://open.spotify.com/track/0P0HLpyo42LKdWI0yvIi0O) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I'm a Pop](https://open.spotify.com/album/5nwWE1A7A7sADxLiD3n9l2) | 3:34 |

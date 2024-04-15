@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,763 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,814 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 33 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
 | 34 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
 | 35 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
-| 36 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
+| 36 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 37 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
-| 38 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
+| 38 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
 | 39 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
 | 40 | [Polvo Blanco](https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:29 |
 | 41 | [Poco a Poco \(feat\. Lunatic, Z\-Xperimento & Beliko\)](https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Mhaya](https://open.spotify.com/artist/5HbNJgAcVq526lZFrM4sJi), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG), [Lunatic](https://open.spotify.com/artist/3wrdBMCPqcrkHztWO37Qb8), [Z\-Xperimento](https://open.spotify.com/artist/6L9Lp5b3SCpR3W7iJXmGdC), [Beliko](https://open.spotify.com/artist/0bD52a8xVx5b64rVnutDlg) | [Poco a Poco \(feat\. Lunatic, Z\-Xperimento & Beliko\)](https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH) | 8:23 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 45 | [PLAKATA](https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG) | [PLAKATA](https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll) | 4:12 |
 | 46 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDMwN2FmNDA4ZGRiOTMzNmU0N2Y1MzY5ZDcyNzFlZTFj`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGZkYTI0ZDc4OTA4ZDg5NTI1OGI2ZGMzODAyN2Y0ZTE2`

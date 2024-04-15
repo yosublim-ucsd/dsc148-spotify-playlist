@@ -1,6 +1,6 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18564,
+  "num_followers": 18562,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Homeland",
-        "url": "https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 142625,
-      "name": "Homeland",
-      "url": "https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "The Room Upstairs",
         "url": "https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 140487,
       "name": "The Room Upstairs",
       "url": "https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 142625,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Involution",
-        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
-      },
-      "artists": [
-        {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Involution",
-      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "I Remember",
         "url": "https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 142457,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Involution",
+        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
+      },
+      "artists": [
+        {
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Involution",
+      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Doldrums",
-        "url": "https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p"
-      },
-      "artists": [
-        {
-          "name": "Franz Becker",
-          "url": "https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Bellevue",
-      "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Ever so Slightly",
         "url": "https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Manus in Mano",
-        "url": "https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa"
+        "name": "Doldrums",
+        "url": "https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p"
       },
       "artists": [
         {
-          "name": "Jacques Moni",
-          "url": "https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b"
+          "name": "Franz Becker",
+          "url": "https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Manus in Mano",
-      "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
+      "duration_ms": 201500,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Manus in Mano",
+        "url": "https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa"
+      },
+      "artists": [
+        {
+          "name": "Jacques Moni",
+          "url": "https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Manus in Mano",
+      "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "All My Words",
         "url": "https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Cupelli",
-          "url": "https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD"
-        }
-      ],
-      "duration_ms": 146300,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Belle Chose",
         "url": "https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 160624,
       "name": "Belle Chose",
       "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Cupelli",
+          "url": "https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD"
+        }
+      ],
+      "duration_ms": 146300,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Desalniettemin",
+        "url": "https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA"
+      },
+      "artists": [
+        {
+          "name": "Mavis Marchena",
+          "url": "https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Desalniettemin",
+      "url": "https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
       },
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Desalniettemin",
-        "url": "https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA"
+        "name": "\u00c1rtabra",
+        "url": "https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe"
       },
       "artists": [
         {
-          "name": "Mavis Marchena",
-          "url": "https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd"
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
         }
       ],
-      "duration_ms": 172374,
-      "name": "Desalniettemin",
-      "url": "https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Soudainement",
-        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Soudainement",
-      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
+      "duration_ms": 202147,
+      "name": "A\u0301rtabra",
+      "url": "https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "\u00c1rtabra",
-        "url": "https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe"
+        "name": "Soudainement",
+        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
       },
       "artists": [
         {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
         }
       ],
-      "duration_ms": 202147,
-      "name": "A\u0301rtabra",
-      "url": "https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP"
+      "duration_ms": 168000,
+      "name": "Soudainement",
+      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Prends soin de toi",
-        "url": "https://open.spotify.com/album/7jN0OUbMMlz5qsMif0uyYJ"
-      },
-      "artists": [
-        {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Prends soin de toi",
-      "url": "https://open.spotify.com/track/2Fh9R2pniRV3HgCjj61q9S"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Fylke",
         "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 196500,
       "name": "Sp\u00f8rsm\u00e5l",
       "url": "https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Prends soin de toi",
+        "url": "https://open.spotify.com/album/7jN0OUbMMlz5qsMif0uyYJ"
+      },
+      "artists": [
+        {
+          "name": "Falerina Paquet",
+          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Prends soin de toi",
+      "url": "https://open.spotify.com/track/2Fh9R2pniRV3HgCjj61q9S"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Oh Endless Day",
-        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
-      },
-      "artists": [
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 287014,
-      "name": "Oh Endless Day",
-      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "The Light Will Return",
         "url": "https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 165385,
       "name": "The Light Will Return",
       "url": "https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Oh Endless Day",
+        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
+      },
+      "artists": [
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "duration_ms": 287014,
+      "name": "Oh Endless Day",
+      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Recollection",
-        "url": "https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Mare\u0301e",
         "url": "https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 182500,
       "name": "Mare\u0301e",
       "url": "https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM"
     }
   ],
   "unique_name": "Piano para Despertar",

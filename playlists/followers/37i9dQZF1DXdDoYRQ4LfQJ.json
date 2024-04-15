@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 262400,
+  "2024-04-15": 262481,
   "date_first_scraped": "2022-05-22",
-  "description": "Bien al tiro con Peso Pluma, Tito Double P, Joel De La P and the hottest corridos in the U.S.!",
+  "description": "Bien al tiro con Junior H, Peso Pluma and the hottest corridos in the U.S.!",
   "name": "Al Tiro",
   "tracks": [
     {
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 207898,
       "name": "Con la Bola",
       "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 136747,
       "name": "Cosas De La Clika",
       "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 177258,
       "name": "Demonio Dormido - En Vivo",
       "url": "https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM"
@@ -2457,7 +2457,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "El Gerente",
       "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"

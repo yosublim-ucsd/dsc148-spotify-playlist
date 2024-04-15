@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 15,
+  "2024-04-15": 15,
   "date_first_scraped": "2024-02-23",
   "description": "",
   "name": "main playlist",
@@ -729,6 +729,24 @@
       "duration_ms": 218502,
       "name": "Bigger Than The Whole Sky",
       "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+    },
+    {
+      "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/37mEUbghfsvFpeHUxhdnnu"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228773,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/2ev5SImg6KN3KfbbT1Xipu"
     },
     {
       "album": {

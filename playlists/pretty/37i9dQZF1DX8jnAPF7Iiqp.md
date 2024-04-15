@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jnAPF7Iiqp.md) - [plain]
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,226 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,321 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

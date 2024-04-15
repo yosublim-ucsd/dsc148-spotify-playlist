@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 6541,
+  "2024-04-15": 6540,
   "date_first_scraped": "2023-11-04",
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
   "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
@@ -829,7 +829,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 150250,
       "name": "Hero",
       "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"

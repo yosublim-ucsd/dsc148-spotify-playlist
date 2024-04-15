@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 347237,
+  "num_followers": 347246,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Que Tal Um Samba? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 170448,
-      "name": "Samba do Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -395,22 +411,6 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
         "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
@@ -491,26 +511,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Jardins Da Babil\u00f4nia",
         "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 212300,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Ao Arrepio da Lei",
-        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 219744,
-      "name": "Ao Arrepio da Lei",
-      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Ao Arrepio da Lei",
+        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 219744,
+      "name": "Ao Arrepio da Lei",
+      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "O Amor Mata Sim",
         "url": "https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 179215,
       "name": "O Amor Mata Sim",
       "url": "https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
     },
     {
       "added_at": "2024-04-12 03:01:00",

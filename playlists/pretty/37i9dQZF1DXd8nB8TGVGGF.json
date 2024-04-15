@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 38194,
+  "num_followers": 38257,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "I'm Feeling Alright",
-      "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Let's Work Together",
         "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 211040,
       "name": "I Must Have A Hole In My Head",
       "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Stop Right Now - Stereo Version",
-      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 387333,
       "name": "Cryin' Won't Help You Now",
       "url": "https://open.spotify.com/track/6KtESjDOSUU8xftDla9i5d"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Stop Right Now - Stereo Version",
+      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Basic Soul",
-        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Uh Huh My Baby",
-      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
+      "duration_ms": 146000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "Basic Soul",
+        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
+      "duration_ms": 232226,
+      "name": "Uh Huh My Baby",
+      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
-        "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
-      },
-      "artists": [
-        {
-          "name": "The Graham Bond Organisation",
-          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hoochie Coochie Man (Version 2) - Remastered",
-      "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+        "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
+        "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Graham Bond Organisation",
+          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Buzz Me Baby",
-      "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
+      "duration_ms": 167693,
+      "name": "Hoochie Coochie Man (Version 2) - Remastered",
+      "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1507,6 +1491,22 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/1vYpRZX33Khbs4r010ri2d"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 177560,
       "name": "Feelin' Good - Remastered 2022",
       "url": "https://open.spotify.com/track/0hXOrxpO4fKKU53ac3p0Mh"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Beck-Ola",
-        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "The Hangman's Knee - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 175693,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Beck-Ola",
+        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "The Hangman's Knee - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Movin' Out",
+      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Steady Gettin' It: The Complete Recordings 1964-67",
         "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 226733,
       "name": "I'm Worried",
       "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Movin' Out",
-      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
     },
     {
       "added_at": "2023-01-27 16:34:16",

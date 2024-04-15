@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 114643,
+  "2024-04-15": 114634,
   "date_first_scraped": "2022-01-02",
   "description": "The best in current indie rock. Cover: Friedberg",
   "name": "pulp",
@@ -3006,6 +3006,24 @@
     },
     {
       "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46"
+    },
+    {
+      "album": {
         "name": "PRATTS & PAIN",
         "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
       },
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 185213,
       "name": "Foam",
       "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
@@ -4245,7 +4263,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 174761,
       "name": "I Wanna Dance With You",
       "url": "https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666"
@@ -7050,6 +7068,24 @@
     },
     {
       "album": {
+        "name": "Rag",
+        "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142449,
+      "name": "Rag",
+      "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
+    },
+    {
+      "album": {
         "name": "rats in my walls",
         "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
       },
@@ -8051,7 +8087,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
@@ -8473,7 +8509,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"

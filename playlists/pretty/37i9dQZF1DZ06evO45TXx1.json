@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 7487,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 7514,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGZmMmRjZDI0NzJhMzc3NjM0ZTUyMjBjZTE4MzZiMTU5",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGE4ODI0N2U1NWNhNTMxNzBiMzk4ODhhMTFmNDg4YTdl",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 112615,
+      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
     },
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Vitin.wav",
-          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
-        },
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Vitin.wav",
+          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
+        },
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap de Quebra",
+        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "iPhone 12",
+      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 164500,
       "name": "Surtada",
       "url": "https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap de Quebra",
-        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "iPhone 12",
-      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "JayP",
-          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
-        }
-      ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "JayP",
+          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
+        }
+      ],
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "Foi S\u00f3 Eu Te Deixar",
-      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e9talas",
         "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 192807,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "Foi S\u00f3 Eu Te Deixar",
+      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tipo Anitta",
         "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 151232,
       "name": "Tipo Anitta",
       "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": null,

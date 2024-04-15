@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=83rSYU\_FS1aTkCKCznr5GQ>Sasha Keable</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,094 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,116 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

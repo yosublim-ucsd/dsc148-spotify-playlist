@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 15856,
+  "num_followers": 15873,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDMyODczODg1N2VlMTllNDg1OWQ3YWZkZjVkOGE3ZTQw",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGE2Yzg0MzE2NDg0NjhlY2NiMjk1ZTk2ZDNlMTdlZGE5",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 155753,
-      "name": "Happy Fools (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -111,6 +91,46 @@
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Happy Fools (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 205701,
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV"
     },
     {
       "added_at": null,
@@ -207,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
-        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
+        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
     },
     {
       "added_at": null,
@@ -383,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -403,22 +439,6 @@
       "duration_ms": 245621,
       "name": "Impatient (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -511,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         },
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "added_at": null,
@@ -551,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 195464,
-      "name": "Hate Me (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
     },
     {
       "added_at": null,
@@ -887,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -907,42 +943,6 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Paranoid (with Polo G)",
-      "url": "https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Paranoid (with Polo G)",
+      "url": "https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 97866,
       "name": "Isabel Marant",
       "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Sex So Good (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
     }
   ],
   "unique_name": "This Is Coi Leray",

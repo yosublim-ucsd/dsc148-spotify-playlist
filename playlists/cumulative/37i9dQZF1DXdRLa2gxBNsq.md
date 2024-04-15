@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-108 songs - 5 hr 44 min
+109 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 | 2023-12-08 |  |
-| [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 | 2024-02-05 |  |
+| [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 | 2024-02-05 | 2024-04-15 |
 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 | 2023-12-30 |
 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 | 2023-12-08 |  |
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 |  |
@@ -38,6 +38,7 @@
 | [El infierno es un after](https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa) | [El infierno es un after](https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc) | 3:37 | 2024-03-12 | 2024-04-05 |
 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 | 2023-12-08 |  |
 | [El Pais de Alicia](https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Difícil Ser Humano](https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e) | 3:03 | 2023-12-08 |  |
+| [El Último Amigo](https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [El Último Amigo](https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk) | 2:44 | 2024-04-11 |  |
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2023-12-08 |  |
 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 | 2023-12-08 | 2024-04-14 |
 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 | 2023-12-08 |  |

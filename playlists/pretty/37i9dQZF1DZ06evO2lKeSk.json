@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ana Gabriel. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 319550,
+  "description": "This Is Ana Gabriel. Los temas esenciales, todos en una lista.",
+  "num_followers": 319771,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDJhMDEzMTA1NzE5MTRiZWI2MWMzY2FhNmYwYWYwN2U3",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDc3ZjM5M2Y3ZGU0ZTkyMDVhOWQyYzllNzlkZGZiOGNm",
   "tracks": [
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 206746,
       "name": "Yo Te Perdono",
       "url": "https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
     },
     {
       "added_at": null,

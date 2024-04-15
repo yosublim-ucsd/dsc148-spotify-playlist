@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,964 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,616 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 17 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
 | 18 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
 | 19 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
-| 20 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
+| 20 | [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 |
 | 21 | [Closer \(From “The Idea of You”\)](https://open.spotify.com/track/0MUt629ACWlm5ncrqlRlTv) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Closer \(From “The Idea of You”\)](https://open.spotify.com/album/7exYFqgMgVbJYQhpBCUtBi) | 2:47 |
 | 22 | [Unfinished Business \(with Toosii\)](https://open.spotify.com/track/6n7RTeAGfJxmW5DlyWNGJZ) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Unfinished Business \(with Toosii\)](https://open.spotify.com/album/7evFqJiu2AESNqQmcoZlul) | 3:30 |
 | 23 | [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 |

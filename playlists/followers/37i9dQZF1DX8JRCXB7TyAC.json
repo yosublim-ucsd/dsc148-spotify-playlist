@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 34128,
+  "2024-04-15": 34173,
   "date_first_scraped": "2023-07-25",
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
   "name": "Haryanvi Workout",
@@ -1913,6 +1913,28 @@
     {
       "album": {
         "name": "Up Se",
+        "url": "https://open.spotify.com/album/6iRnvYs4LzjbD0LfTl1InG"
+      },
+      "artists": [
+        {
+          "name": "Rohit Sardhana",
+          "url": "https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY"
+        },
+        {
+          "name": "Harendra Nagar",
+          "url": "https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Up Se",
+      "url": "https://open.spotify.com/track/1RubYJKQPCo6D28pvVKrW2"
+    },
+    {
+      "album": {
+        "name": "Up Se",
         "url": "https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj"
       },
       "artists": [
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 217200,
       "name": "Up Se",
       "url": "https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga"

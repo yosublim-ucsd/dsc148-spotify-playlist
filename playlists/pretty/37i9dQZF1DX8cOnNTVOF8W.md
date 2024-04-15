@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cOnNTVOF8W.md) - [plain]
 
 > Music developed in partnership with talented musicians; for use by anyone without concern of copyright strikes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,135 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,133 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

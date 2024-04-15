@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 60479,
+  "2024-04-15": 60485,
   "date_first_scraped": "2023-12-10",
   "description": "Got that summertime feeling \ud83c\udf34",
   "name": "Pool Party (2)",
@@ -1277,10 +1277,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
     },
     {
       "album": {

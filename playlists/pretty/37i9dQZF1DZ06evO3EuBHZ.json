@@ -1,12 +1,12 @@
 {
-  "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 12596,
+  "description": "This Is Big Mama Thornton. Los temas esenciales, todos en una lista.",
+  "num_followers": 12605,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDI0ZDEyZTA4OWU0NmMzODAxMGMxNzYxYjFmMDRmZDcw",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDU4YTY3NTI1NTBjYTE0ZWMxM2UxNDQzNmQ5MWRjOWEw",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 217160,
-      "name": "Down Home Shake-Down",
-      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "added_at": null,
@@ -163,8 +163,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
       "artists": [
         {
@@ -172,9 +192,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+      "duration_ms": 217160,
+      "name": "Down Home Shake-Down",
+      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
     },
     {
       "added_at": null,
@@ -191,6 +211,22 @@
       "duration_ms": 270000,
       "name": "Let's Go Get Stoned",
       "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Swing It on Home",
+      "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
     },
     {
       "added_at": null,
@@ -215,6 +251,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 105400,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -224,9 +292,29 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Swing It on Home",
-      "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
+      "duration_ms": 200506,
+      "name": "Unlucky Girl",
+      "url": "https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Sometimes I Have a Heartache",
+      "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
     },
     {
       "added_at": null,
@@ -256,29 +344,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Sometimes I Have a Heartache",
-      "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
+      "duration_ms": 255000,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT"
     },
     {
       "added_at": null,
@@ -292,41 +360,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 200506,
-      "name": "Unlucky Girl",
-      "url": "https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT"
+      "duration_ms": 268693,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
     },
     {
       "added_at": null,
@@ -351,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
       "artists": [
         {
@@ -360,25 +396,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 268693,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Smell a Rat",
-        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 133160,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -399,28 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Big Mama's Bumble Bee",
-      "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+      "duration_ms": 133133,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
       "duration_ms": 162546,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
     },
     {
       "added_at": null,
@@ -483,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 154373,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -499,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Smell a Rat",
-        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Stop A-hoppin' on Me",
-      "url": "https://open.spotify.com/track/2pOGtQGbmw8vm8PNx9Sxo7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
@@ -527,6 +543,22 @@
       "duration_ms": 307946,
       "name": "Tell Me Pretty Baby - 2022 Remaster",
       "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 163818,
+      "name": "You Don't Move Me No More",
+      "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"
     },
     {
       "added_at": null,
@@ -563,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 568560,
+      "name": "Mixed Up Feeling",
+      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Smell a Rat",
         "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
       },
@@ -595,54 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "That Lucky Old Sun",
-      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 568560,
-      "name": "Mixed Up Feeling",
-      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Smell a Rat",
-        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 163818,
-      "name": "You Don't Move Me No More",
-      "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 278986,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
     },
     {
       "added_at": null,
@@ -691,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/2udEEYnBWucIfqTdg0SDWb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
@@ -703,22 +735,6 @@
       "duration_ms": 282000,
       "name": "Ball And Chain",
       "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Smell a Rat",
-        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/1bmPMNFnNF3aWqyx5v0rGr"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
       },
       "artists": [
         {
@@ -748,25 +764,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Rock-A-Bye Baby",
-      "url": "https://open.spotify.com/track/2udEEYnBWucIfqTdg0SDWb"
+      "duration_ms": 173680,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/1bmPMNFnNF3aWqyx5v0rGr"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Mercy! (Live 1973)",
-        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -796,25 +796,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 44369,
-      "name": "Talking, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "Good Time in London",
-      "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -828,13 +812,29 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         },
         {
-          "name": "The Harlem Stars",
-          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
         }
       ],
-      "duration_ms": 148053,
-      "name": "All Right Baby",
-      "url": "https://open.spotify.com/track/1EowSt2a2wlxdcyDxBFGcA"
+      "duration_ms": 166906,
+      "name": "No Jody for Me",
+      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 154040,
+      "name": "Mischievous Boogie",
+      "url": "https://open.spotify.com/track/4dYtzSs5aYnwec44vkTI2m"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

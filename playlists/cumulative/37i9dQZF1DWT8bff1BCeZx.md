@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-131 songs - 10 hr 44 min
+132 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2023-04-06 |  |
 | [Iwo Nikan L'ogo Ye / Too Much for Me](https://open.spotify.com/track/6DSnwdMQOB62cFCG3EOySO) | [Wale Adenuga](https://open.spotify.com/artist/0s7YJetebaV73NYYtMx1E2) | [Songs for Generations](https://open.spotify.com/album/3OD5WwFzklKlShbCRfVJYD) | 7:09 | 2023-04-06 | 2023-08-09 |
 | [Jehovah Praise](https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 2:19 | 2023-04-06 | 2023-07-17 |
-| [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-12-15 |  |
+| [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-12-15 | 2024-04-15 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-04 |  |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2023-04-06 | 2023-07-02 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |
@@ -98,6 +98,7 @@
 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 | 2023-11-03 |  |
 | [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 | 2023-04-06 | 2023-10-29 |
 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 | 2023-11-17 |  |
+| [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 |  |
 | [Paradise](https://open.spotify.com/track/2bSx2cJHJYUKNdJQgVoHBM) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Paradise](https://open.spotify.com/album/2MfmE6MldCPS8DOZBQnoe9) | 2:22 | 2023-08-04 | 2023-08-31 |
 | [Praise Anthem](https://open.spotify.com/track/6SggGs62ILFrYXmushLa8C) | [Elvis E](https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4) | [Undeniable Love](https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8) | 3:59 | 2023-11-03 | 2023-11-23 |
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2023-04-06 | 2023-07-09 |

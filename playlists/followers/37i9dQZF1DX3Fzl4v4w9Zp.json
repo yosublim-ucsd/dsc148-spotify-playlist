@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 610802,
+  "2024-04-15": 610865,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: Marcus King",
   "name": "The Pulse of Americana",
@@ -11845,10 +11845,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 222105,
       "name": "World Worth Keeping",
       "url": "https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222105,
+      "name": "World Worth Keeping",
+      "url": "https://open.spotify.com/track/2xt8NrvTSiliSBmu9XbP23"
     },
     {
       "album": {

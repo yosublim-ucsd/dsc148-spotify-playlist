@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Metro Boomin & Future, Dua Lipa, Baby Rose & BADBADNOTGOOD, Caribou and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,607 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,704 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 43 | [Restless](https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Restless](https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu) | 3:25 |
 | 44 | [Pure Country](https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Pure Country](https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8) | 2:51 |
 | 45 | [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 |
-| 46 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/3VQneqtvB0iHKII1hJb3Wx) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 46 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 47 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 |
 | 48 | [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 |
 | 49 | [Haunting Me](https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds \(Deluxe Version\)](https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ) | 2:49 |

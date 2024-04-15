@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 401048,
+  "num_followers": 401468,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "J'attendrai",
-      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
@@ -219,6 +203,38 @@
       "duration_ms": 220933,
       "name": "Fibre De Verre",
       "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "J'attendrai",
+      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -251,22 +267,6 @@
       "duration_ms": 224016,
       "name": "Samba saravah",
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
+        "name": "Nolita",
+        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "L'onde am\u00e8re",
+      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
         "name": "Jamais Seule",
         "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
-        "name": "Nolita",
-        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "L'onde am\u00e8re",
-      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "La javanaise",
-        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 121599,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Les Souvenirs Sous Ma Frange",
         "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "La disparition",
-        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+        "name": "La javanaise",
+        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
         }
       ],
-      "duration_ms": 257240,
-      "name": "Mes pas dans la neige - Spanish Song Bird",
-      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+      "duration_ms": 121599,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1251,6 +1235,22 @@
       "duration_ms": 139548,
       "name": "Saint-tropez blues",
       "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige - Spanish Song Bird",
+      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 181600,
       "name": "Les voyages",
       "url": "https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Mon Amie La Rose",
+        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 123078,
+      "name": "Mon Amie La Rose",
+      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
     },
     {
       "added_at": "2024-03-20 07:39:51",

@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-99 songs - 5 hr 43 min
+100 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 | 2023-10-13 |  |
 | [Fica um Pouco Mais](https://open.spotify.com/track/3bN4uISvzllUNUQT9vtRtr) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra) | 2:43 | 2023-07-03 | 2023-09-22 |
 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 | 2023-07-03 |  |
-| [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 | 2023-07-03 |  |
+| [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 | 2023-07-03 | 2024-04-15 |
 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 | 2023-07-03 | 2024-04-06 |
 | [Fugir Com o Sol \- Acústico](https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Fugir Com o Sol \(Acústico\)](https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP) | 3:15 | 2023-07-03 | 2024-04-06 |
 | [Garapuá \(Menina Linda\)](https://open.spotify.com/track/5ImZprMpF5w0sgaJpl3acM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Não Deixe Esse Instante Passar](https://open.spotify.com/album/3HqqzoqC8Es80AQAfcxsNn) | 3:04 | 2023-07-03 | 2023-07-13 |
@@ -92,6 +92,7 @@
 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 | 2023-07-03 |  |
 | [Sonhei Com Você](https://open.spotify.com/track/0qAyRZdiNmuSxo9S9cB80y) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/1u0B2BCspLVI28BFpLZ8kr) | 3:28 | 2023-11-10 | 2024-02-24 |
 | [Sonhei Com Você](https://open.spotify.com/track/287VCse3MOuvKUyyC3xhSh) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/0Ihx0FWz6rTdqqAwn4fGNb) | 3:28 | 2023-07-03 | 2023-11-03 |
+| [Sou Tão Eu](https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Sou Tão Eu](https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x) | 3:23 | 2024-04-12 |  |
 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 | 2023-07-03 |  |
 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 | 2023-07-03 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2023-07-03 | 2023-10-14 |

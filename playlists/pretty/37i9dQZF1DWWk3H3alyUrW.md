@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,192 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,191 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 38 | [Tanbur İle Ferahfezâ Saz Semâîsi](https://open.spotify.com/track/5cx9SXjMVoYi16tcBV8Na4) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 5:13 |
 | 39 | [Huseyni Saz Semai](https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI) | [Kemani Tatyos Efendi](https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA) | [Works Of Kemani Tatyos Efendi \-\- Kudsi Erguner Ensemble](https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4) | 4:38 |
 | 40 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
-| 41 | [Coşku \(Rast Saz Eseri\)](https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:00 |
-| 42 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
+| 41 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
+| 42 | [Coşku \(Rast Saz Eseri\)](https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:00 |
 | 43 | [Hicaz Peşrev](https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:33 |
 | 44 | [Hicazkar Peşrevi](https://open.spotify.com/track/4wMMqnw9FAJRIgWSIK1iYP) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 2:22 |
 | 45 | [Ferahfeza Saz Semaisi \(Udi Serif Muhittin Targan\)](https://open.spotify.com/track/73SURSA7uBw0tNjZl7gvXI) | [Murat Aydemir, Derya Turkan](https://open.spotify.com/artist/5m4mYys97lQHLjpLQIiDrz) | [Ahenk, Turkish Classical Music](https://open.spotify.com/album/06MEo3CVEIk5PSPN514A46) | 4:25 |
 | 46 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
 | 47 | [Sultaniyegah Saz Seması](https://open.spotify.com/track/2UI4Zjg6Ws1ZR8cS9OMibu) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:31 |
-| 48 | [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 |
+| 48 | [Saba Taksim](https://open.spotify.com/track/5Zp63IoUOx2VyZ5xuTa2Ey) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:11 |
 | 49 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |
-| 50 | [Saba Taksim](https://open.spotify.com/track/5Zp63IoUOx2VyZ5xuTa2Ey) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:11 |
+| 50 | [Şehnaz Peşrevi](https://open.spotify.com/track/6hOF6PIf9I4UkgNjknPyzW) | [Muazzez Abacı](https://open.spotify.com/artist/0YCbq8656cGkwlNOPF0dkc) | [Türk Sanat Müziği Klasikleri, Vol\. 2](https://open.spotify.com/album/25nYTOuzbijMTTXvzxm4zL) | 1:29 |
 
 Snapshot ID: `MTcwOTU1OTM4OCwwMDAwMDAwMDIyZjVjZmI4MzEwOTM1NjVjYmFlYjFiZGVhM2Q3Mjky`

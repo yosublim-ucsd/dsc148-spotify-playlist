@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-372 songs - 22 hr 39 min
+373 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,8 @@
 | [So Caught Up](https://open.spotify.com/track/4hXyXsww7q7ETKeVKD034T) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [So Caught Up](https://open.spotify.com/album/4kZ4Zf5TpRzNQf79ijFdws) | 3:48 | 2021-01-29 | 2022-10-03 |
 | [So Happy It Hurts](https://open.spotify.com/track/3uUgytODjrj5CzRl01ALdk) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Kick Ass](https://open.spotify.com/album/2ZXbHxfZBohaSObTJPAYTh) | 3:35 | 2021-12-09 | 2022-07-27 |
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 | 2022-10-22 |
-| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-04-05 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-04-05 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-04-05 | 2024-04-15 |
 | [Someday, Someday](https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Someday, Someday](https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m) | 3:00 | 2024-01-12 |  |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 | 2023-02-25 |
 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 | 2022-12-02 |  |

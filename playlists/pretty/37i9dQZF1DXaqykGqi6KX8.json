@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 54464,
+  "num_followers": 54521,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Moongod",
-        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
-      },
-      "artists": [
-        {
-          "name": "Aeternam",
-          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
-        }
-      ],
-      "duration_ms": 341175,
-      "name": "Moongod",
-      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Ahlan Wa Sahlan",
         "url": "https://open.spotify.com/album/4fkLIVBIc2i2Vb0jJtXItO"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 196344,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Sidi Arbi 2",
-        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Sidi Arbi 2",
-      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -363,6 +347,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Sidi Arbi 2",
+        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
+      },
+      "artists": [
+        {
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Sidi Arbi 2",
+      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "The Order of Amenti",
         "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wa Ma Khufiya Kana A'atham",
-        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
-      },
-      "artists": [
-        {
-          "name": "Narjahanam",
-          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
-        }
-      ],
-      "duration_ms": 311955,
-      "name": "Kahf Alkhulood",
-      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Miraj",
         "url": "https://open.spotify.com/album/54d5QHun9zYrRbDD2hQ0Ap"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 357934,
       "name": "Gnawi",
       "url": "https://open.spotify.com/track/7u6I8G05Erjr9ScpK0I67P"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wa Ma Khufiya Kana A'atham",
+        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
+      },
+      "artists": [
+        {
+          "name": "Narjahanam",
+          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
+        }
+      ],
+      "duration_ms": 311955,
+      "name": "Kahf Alkhulood",
+      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Desert Call",
+        "url": "https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Forever and A Day",
+      "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Color Blind",
         "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 222156,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Timeless Truths",
-        "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
-      },
-      "artists": [
-        {
-          "name": "Luay Rifai",
-          "url": "https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g"
-        }
-      ],
-      "duration_ms": 342266,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
     }
   ],
   "unique_name": "Arab Metal",

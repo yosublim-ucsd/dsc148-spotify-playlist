@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. R\u00e9gulo Caro, Noel Torres en portada.",
-  "num_followers": 215470,
+  "num_followers": 215529,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Casco Negro",
         "url": "https://open.spotify.com/album/1yzh8zVFIwMsgSvwWsAh9L"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 178049,
       "name": "Casco Negro",
       "url": "https://open.spotify.com/track/4d8WGxeUE2qRNUazqzWlJg"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
+      },
+      "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 183909,
-      "name": "Alias Jab\u00f3n",
-      "url": "https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT"
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+      "duration_ms": 183909,
+      "name": "Alias Jab\u00f3n",
+      "url": "https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "El Chargerson",
+        "url": "https://open.spotify.com/album/4ynhOVtRoexg76vEJmoAHW"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 144248,
+      "name": "El Chargerson",
+      "url": "https://open.spotify.com/track/6I9paxSvcPli328O9uEcbj"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 156650,
       "name": "Nuevo Mando",
       "url": "https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "El Chargerson",
-        "url": "https://open.spotify.com/album/4ynhOVtRoexg76vEJmoAHW"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 144248,
-      "name": "El Chargerson",
-      "url": "https://open.spotify.com/track/6I9paxSvcPli328O9uEcbj"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Estilo Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 171519,
+      "name": "Estilo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "CHV FLX",
         "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
@@ -1819,22 +1839,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Estilo Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         },
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 171519,
-      "name": "Estilo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1899,26 +1919,6 @@
       "duration_ms": 193882,
       "name": "Jefe Fresa",
       "url": "https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "El Gori",
-        "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 137256,
-      "name": "El Gori",
-      "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
     }
   ],
   "unique_name": "Corridos Chakalosos",

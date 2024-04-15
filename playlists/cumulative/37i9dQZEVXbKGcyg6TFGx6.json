@@ -1435,6 +1435,36 @@
     },
     {
       "album": {
+        "name": "If Animals Could Talk",
+        "url": "https://open.spotify.com/album/2k67FE1PTAoRCRRom3pTR1"
+      },
+      "artists": [
+        {
+          "name": "Brandon Thomas",
+          "url": "https://open.spotify.com/artist/5UMViuCPRzglYtTHO47liM"
+        },
+        {
+          "name": "BEMET",
+          "url": "https://open.spotify.com/artist/1fqI54BLIfyPm5tgLcON1t"
+        },
+        {
+          "name": "Omri 69 Segal",
+          "url": "https://open.spotify.com/artist/6kCm2Bpfcgfyp3bdjfAT61"
+        },
+        {
+          "name": "Yofavkloud 9",
+          "url": "https://open.spotify.com/artist/2nkwO4gleQrIzxQekUnaWB"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198817,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/6SqDZOAa8qMubxHJ42eoCA"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
       },
@@ -6490,7 +6520,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 174106,
       "name": "Ceux qu'on \u00e9tait",
       "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
@@ -8396,7 +8426,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -11892,7 +11922,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 176120,
       "name": "FLASHBACK",
       "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
@@ -15012,7 +15042,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -25462,7 +25492,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 166857,
       "name": "PRETTY LIL SHAWTY",
       "url": "https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy"
@@ -34716,7 +34746,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 252920,
       "name": "We Still Don't Trust You",
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
@@ -35230,7 +35260,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"

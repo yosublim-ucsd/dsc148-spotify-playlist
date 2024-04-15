@@ -1,6 +1,6 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377463,
+  "num_followers": 377490,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "That Was Now",
         "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 213936,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 167636,
       "name": "Jeanie",
       "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 213936,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Bonfire",
-        "url": "https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA"
-      },
-      "artists": [
-        {
-          "name": "Woodes",
-          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
-        }
-      ],
-      "duration_ms": 203593,
-      "name": "Bonfire",
-      "url": "https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 188866,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA"
+      },
+      "artists": [
+        {
+          "name": "Woodes",
+          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
+        }
+      ],
+      "duration_ms": 203593,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1"
     },
     {
       "added_at": "2024-04-02 18:42:07",

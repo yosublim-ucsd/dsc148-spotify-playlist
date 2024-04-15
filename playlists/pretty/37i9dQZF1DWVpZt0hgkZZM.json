@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 30119,
+  "num_followers": 30169,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -411,38 +411,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "La Rebelion",
         "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 376451,
       "name": "La Rebelion",
       "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+        "name": "A Bailar Tropical",
+        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
       },
       "artists": [
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+          "name": "Rodolfo Su Tipica",
+          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
         }
       ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+      "duration_ms": 173490,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "A Bailar Tropical",
-        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
       "artists": [
         {
-          "name": "Rodolfo Su Tipica",
-          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
         }
       ],
-      "duration_ms": 173490,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
-        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
-      },
-      "artists": [
-        {
-          "name": "Party Tyme Karaoke",
-          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
-        }
-      ],
-      "duration_ms": 188717,
-      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
-      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Lo Mejor de Los Fantasmas del caribe",
         "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
@@ -1135,6 +1103,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 410070,
       "name": "Nuestro Amor Ser\u00e1",
       "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
+        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
+      },
+      "artists": [
+        {
+          "name": "Party Tyme Karaoke",
+          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
+      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "\u00a1Para Bailar!",
         "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 204604,
       "name": "Sobre las Olas",
       "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 3",
-        "url": "https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar y La Decisi\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Un Mundo De Colores",
         "url": "https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 364617,
       "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
       "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 3",
+        "url": "https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar y La Decisi\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs"
     },
     {
       "added_at": "2024-04-06 00:31:40",

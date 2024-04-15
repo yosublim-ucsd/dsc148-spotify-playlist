@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Saint Levant
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,936 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,947 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

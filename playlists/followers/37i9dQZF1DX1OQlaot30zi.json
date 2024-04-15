@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 43089,
+  "2024-04-15": 43110,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Neffa e Fibra, Baby Gang, Vegas Jones e tanti altri!",
   "name": "Novit\u00e0 Rap Italiano",
@@ -71822,6 +71822,24 @@
     },
     {
       "album": {
+        "name": "Scialla Semper",
+        "url": "https://open.spotify.com/album/12U4mTUkgpioWEG0biy3GE"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140592,
+      "name": "X3",
+      "url": "https://open.spotify.com/track/0GRqqQDFlXtGSk5x4Q9WNo"
+    },
+    {
+      "album": {
         "name": "X3",
         "url": "https://open.spotify.com/album/4lcWPHZbsReAnM2hQcRoNn"
       },
@@ -71833,7 +71851,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 140592,
       "name": "X3",
       "url": "https://open.spotify.com/track/0sY1WsjtuhKWxgceHr7WaQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,805 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,826 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 19 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 20 | [The Ding\-Dong Daddy of the D\-Car Line](https://open.spotify.com/track/6yJif668Hq2RhlTpHpXeMf) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:34 |
 | 21 | [Zip Gun Bop](https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:26 |
-| 22 | [5\-10\-15 Hours](https://open.spotify.com/track/6s7xYIfyIZSYXUUwqmSkXO) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [Talk to Me](https://open.spotify.com/album/7tuadIRZpGHMY09YcdyNmk) | 3:17 |
+| 22 | [5\-10\-15 Hours](https://open.spotify.com/track/7LadryxoGuqpQwdpV4my4E) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [Talk to Me](https://open.spotify.com/album/45tB7rhIUAFKLMbKIkYBPX) | 3:17 |
 | 23 | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/track/7wBss3MP3jfqAwPMT3L75S) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/album/1dwJAx7zBEoBpR0UiVzSJ9) | 3:11 |
 | 24 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 25 | [Minnie The Moocher](https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [How Big Can You Get?: The Music Of Cab Calloway](https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht) | 4:59 |

@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:حسين الجسمي
 
-323 songs - 22 hr 10 min
+324 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Sadmat Omri](https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:02 | 2023-05-01 | 2023-11-17 |
 | [Sameet Ashyaa](https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Sameet Ashyaa](https://open.spotify.com/album/7qZ1IHHWxO103OVGTKuQll) | 4:52 | 2022-06-02 | 2022-12-06 |
 | [Sanhat Al Batal](https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s) | [Tareq Al Harbi](https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K) | [Sanhat Al Batal](https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW) | 3:15 | 2022-01-21 | 2022-06-15 |
+| [Saqat Aamdan](https://open.spotify.com/track/707mEqg0arM4lj6fC0q4QP) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2024](https://open.spotify.com/album/6TnNr4o8tLHKQ82SE44sU1) | 5:08 | 2024-04-14 |  |
 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-07-22 | 2023-02-03 |
 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 | 2023-03-24 | 2023-09-22 |
 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-12 | 2023-12-06 |
@@ -312,7 +313,7 @@
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 | 2023-11-16 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |
-| [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-18 |  |
+| [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-18 | 2024-04-15 |
 | [معكازي](https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣](https://open.spotify.com/album/5sBNL3QLKoRAJ88mgVppqZ) | 4:57 | 2023-03-03 | 2023-09-22 |
 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 | 2023-04-22 | 2023-10-06 |
 | [مواري العتب](https://open.spotify.com/track/2RThTA4dBEwcFKKgb1kOte) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [مواري العتب](https://open.spotify.com/album/2ht6dn0XQGc4a9sPK3DuDK) | 3:23 | 2024-02-09 |  |

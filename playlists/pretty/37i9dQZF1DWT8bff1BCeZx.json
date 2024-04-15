@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 14842,
+  "num_followers": 14859,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Shout It Loud (Live)",
-        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "I Know Who I Am - Live",
-      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Desire Pt. 2",
         "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Shout It Loud (Live)",
+        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "I Know Who I Am - Live",
+      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -441,20 +441,24 @@
       "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Only God Can Save Me",
-        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "RADICAL",
         "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -797,6 +797,66 @@
       "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Yesu (Jesus)",
@@ -825,20 +885,20 @@
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
       },
       "artists": [
         {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -859,46 +919,6 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -971,22 +991,6 @@
       "duration_ms": 166000,
       "name": "Mon Dieu",
       "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
     }
   ],
   "unique_name": "Higher",

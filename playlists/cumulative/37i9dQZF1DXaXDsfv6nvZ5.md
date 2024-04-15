@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-477 songs - 1 day 4 hr 57 min
+478 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 | 2024-02-11 |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-03-31 |  |
+| [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-12 |  |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [Cinnamon Crush \(feat\. Lindsey Lomis\)](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 3:47 | 2024-03-01 |  |
 | [Clarity \(feat\. Lucky Daye\)](https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 1:49 | 2023-06-09 |  |
@@ -247,7 +248,7 @@
 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 | 2023-09-08 |  |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2021-12-03 | 2022-10-04 |
 | [Love \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 | 2022-09-09 | 2023-05-06 |
-| [Love Bomb](https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:01 | 2023-04-28 |  |
+| [Love Bomb](https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:01 | 2023-04-28 | 2024-04-15 |
 | [Love Comes Easy](https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:12 | 2022-08-26 |  |
 | [Love Comes Easy](https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:12 | 2022-08-26 | 2023-04-30 |
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-28 | 2023-05-06 |

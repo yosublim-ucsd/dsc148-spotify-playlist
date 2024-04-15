@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 34548,
+  "2024-04-15": 34554,
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
   "tracks": [
     {
@@ -917,7 +917,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "Me Olha e Me Respeita",
       "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
@@ -935,6 +935,10 @@
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
         }
       ],
       "date_added": "2023-12-30",
@@ -1941,7 +1945,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 136615,
       "name": "Vida Do Crime",
       "url": "https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse"
@@ -1963,10 +1967,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/3fkfnMA8nRuf6rDt7LlPJP"
+    },
+    {
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2"

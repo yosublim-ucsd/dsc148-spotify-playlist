@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 2574,
+  "2024-04-15": 2576,
   "date_first_scraped": "2023-05-03",
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
   "name": "This Is Anuhea",
@@ -569,6 +569,24 @@
       "duration_ms": 201573,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/7yb0IIWyXN0fyxdo3075KX"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn"
     },
     {
       "album": {

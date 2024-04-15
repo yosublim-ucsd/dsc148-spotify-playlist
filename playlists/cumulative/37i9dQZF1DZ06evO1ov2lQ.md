@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is Biosphere\. The essential tracks, all in one playlist.
+> This is Biosphere\. Todos os maiores hits em uma só playlist.
 
 160 songs - 13 hr 26 min
 
@@ -125,7 +125,7 @@
 | [Shade](https://open.spotify.com/track/7rQ5bwHCl6O30978mwcQpm) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 2:26 | 2022-12-13 | 2022-12-16 |
 | [Shenzhou](https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:59 | 2022-09-29 |  |
 | [Sherbrooke](https://open.spotify.com/track/2PRacJRgmydBflNzulhnBj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:55 | 2022-08-26 | 2022-09-21 |
-| [Shika \- 1](https://open.spotify.com/track/1RXUj8OYl4b2M8f17NWZwC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 7:51 | 2023-01-31 | 2024-04-14 |
+| [Shika \- 1](https://open.spotify.com/track/1RXUj8OYl4b2M8f17NWZwC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 7:51 | 2023-01-31 |  |
 | [Shika\-1](https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 7:54 | 2022-06-08 | 2022-10-18 |
 | [Shine on You Crazy Diamond \- Club Mix](https://open.spotify.com/track/4NaZg0fRM2K9uKqPd4oy86) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Mp3 Compilation 100 Hits](https://open.spotify.com/album/6mQXDmkXhXI2okNpSGKRzP) | 5:14 | 2022-05-29 | 2022-10-07 |
 | [Shortwave Memories](https://open.spotify.com/track/5XkqDsaZLGBQPQcegRTRsc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 7:46 | 2022-10-12 | 2023-02-13 |
@@ -154,7 +154,7 @@
 | [Tokai](https://open.spotify.com/track/6s6lInlOoW9bDpuG0j1tMf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:00 | 2023-04-19 | 2023-04-22 |
 | [Too Fragile to Walk On](https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:51 | 2022-05-30 | 2022-10-13 |
 | [Tornerai? II](https://open.spotify.com/track/0cxrDTGxIv2kj5ZaVqkUeW) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:31 | 2023-08-10 | 2024-03-09 |
-| [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-05-29 |  |
+| [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-05-29 | 2024-04-15 |
 | [Turned to Stone](https://open.spotify.com/track/4CbTLWfGY3bxBaEylVfxLJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b) | [Black Mesa \(feat\. Joan Lorring\)](https://open.spotify.com/album/4ukHNc9dfGDEPds0zkXfG0) | 3:38 | 2022-05-29 | 2023-04-18 |
 | [Twin Decks](https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 2:46 | 2022-06-01 | 2024-03-29 |
 | [Two Ocean Plateau](https://open.spotify.com/track/1ygMskatKHmaYZRqU80klz) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:07 | 2022-09-28 | 2022-09-30 |

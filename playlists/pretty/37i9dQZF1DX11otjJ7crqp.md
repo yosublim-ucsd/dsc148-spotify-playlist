@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Matt Hansen
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,178 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,217 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

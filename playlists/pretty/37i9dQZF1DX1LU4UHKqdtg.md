@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TEMPEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,618 likes - 88 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,741 likes - 88 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

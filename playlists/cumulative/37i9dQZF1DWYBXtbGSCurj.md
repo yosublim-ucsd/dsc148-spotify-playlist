@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: WIU, Teto
 
-1,178 songs - 2 day 10 hr 35 min
+1,179 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Edredom](https://open.spotify.com/track/4OOKVubD8Kp84YDZn5aGAK) | [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Edredom](https://open.spotify.com/album/5pi604AZJO0L9AU3N3OOZS) | 2:31 | 2023-06-23 | 2023-07-18 |
 | [Egípcia](https://open.spotify.com/track/2t6Nwm6LBgtkjyKgPF4eEJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Egípcia](https://open.spotify.com/album/2Zzd18NtVk7zDX8oqg6bNh) | 3:21 | 2023-09-08 | 2023-10-07 |
 | [Ei Amor](https://open.spotify.com/track/6iO7nBM2StwcPvuyblR0P4) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Ei Amor](https://open.spotify.com/album/3T0cIVploIZ82Qve1FtXBx) | 2:23 | 2022-08-26 | 2022-10-01 |
+| [ei mô](https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 3:21 | 2024-04-15 |  |
 | [Ela Ama, Ela Gosta](https://open.spotify.com/track/3p8ROtueBgRAZ4RJJMmqs7) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [Ela Ama, Ela Gosta](https://open.spotify.com/album/6K9owBKE8aO5gXC9Bi8Bm7) | 3:56 | 2022-08-12 | 2023-04-15 |
 | [Ela Gostou do Trap!!](https://open.spotify.com/track/3DToQG8kY8mrmBDVOFFdut) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [1ukazzoff](https://open.spotify.com/artist/3dzH8o24SFoHLMdFzKtxUs), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 2:01 | 2023-12-01 | 2024-01-27 |
 | [Ela joga no 7](https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 3:20 | 2024-03-08 |  |

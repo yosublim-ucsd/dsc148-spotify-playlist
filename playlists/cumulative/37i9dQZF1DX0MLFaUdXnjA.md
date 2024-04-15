@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Laufey
 
-1,683 songs - 3 day 18 hr 34 min
+1,684 songs - 3 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1301,7 +1301,8 @@
 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 | 2021-10-09 | 2022-02-19 |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-05 | 2021-08-14 |
 | [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-01 | 2023-04-01 |
-| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-04-12 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 | 2024-04-15 |
 | [So Would I](https://open.spotify.com/track/7C2ZV2AJoSNbO18F0hgSiu) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [So Would I](https://open.spotify.com/album/1u6G7hHZ9Q2FZfjV9oKSBI) | 3:36 | 2020-08-07 | 2020-10-02 |
 | [Sober](https://open.spotify.com/track/1g5p2OFtf90dxKKQMCpDzN) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0) | [Sober](https://open.spotify.com/album/3sB9EltUHZSgQQqLlIljEa) | 3:25 | 2021-01-01 | 2021-03-19 |
 | [Social Stamina](https://open.spotify.com/track/2FuB4re85DbgICpRi8IEEU) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Social Stamina](https://open.spotify.com/album/7tkV4wVnzdDasGlD5EwWHK) | 2:34 | 2021-09-11 | 2022-06-25 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 18959,
+  "description": "This Is Mr Eazi. Los temas esenciales, todos en una lista.",
+  "num_followers": 18966,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDU0ZmMxZGIzYmNkMWJkN2Q3MGQ1YmU0ZGQ2YjIzMjM4",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGVlYjg4MzRiZWIyNWNkNDEyNWVhNjk0ZWRmODg2NWNk",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 188910,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sekkle & Bop",
-        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 156327,
-      "name": "Sekkle & Bop (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 260702,
       "name": "Hollup",
       "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sekkle & Bop",
+        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 156327,
+      "name": "Sekkle & Bop (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yng Naz y DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,854 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,480 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 25 | [La Bebesita](https://open.spotify.com/track/4UAzgCrE77nyGWm2E2XxMq) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [La Bebesita](https://open.spotify.com/album/1J0rKEarrykyd3N3nnXjXs) | 2:50 |
 | 26 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |
 | 27 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
-| 28 | [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/0fUFGy1Oy8f3ecf59YoB8O) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 |
+| 28 | [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 |
 | 29 | [Pal Amor Soy Malo \- Remix](https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pal Amor Soy Malo \(Remix\)](https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF) | 2:36 |
 | 30 | [UNA BALA](https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:03 |
 | 31 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren, Jorge Cuellar](https://open.spotify.com/artist/1KZNhFjQLJwMxyUdWjELkf) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |

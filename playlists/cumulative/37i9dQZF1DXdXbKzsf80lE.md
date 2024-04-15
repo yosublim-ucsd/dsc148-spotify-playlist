@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-109 songs - 5 hr 14 min
+110 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 | 2023-10-23 |  |
 | [Amor Falso](https://open.spotify.com/track/0KlDHJm8yPsGdiNhYgEYWZ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Amor Falso](https://open.spotify.com/album/28EQ82s2vUSPiIH04ZOvVn) | 2:57 | 2023-10-23 |  |
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-10-23 |  |
-| [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 | 2023-10-23 |  |
+| [Arrombado](https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Arrombado](https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf) | 2:10 | 2023-10-23 | 2024-04-15 |
 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 | 2023-10-23 |  |
 | [Basta Você Me Ligar \- Ao Vivo](https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Conquistas \- EP 1 \(Ao Vivo\)](https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu) | 3:02 | 2023-10-23 |  |
 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 | 2023-10-23 |  |
@@ -33,6 +33,7 @@
 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 | 2023-10-23 |  |
 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 | 2023-10-23 |  |
 | [Cracudo](https://open.spotify.com/track/456nQoGd4zPrJtfeugR221) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:51 | 2023-10-23 | 2024-04-08 |
+| [Cracudo](https://open.spotify.com/track/6pgdBfiIOGjR3B0Hyvzykz) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou Na Mosca](https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0) | 2:52 | 2024-03-28 |  |
 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 | 2023-10-23 |  |
 | [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 | 2023-10-23 | 2024-03-27 |
 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 | 2023-10-23 |  |

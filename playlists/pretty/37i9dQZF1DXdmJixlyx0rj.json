@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
-  "num_followers": 24338,
+  "num_followers": 24359,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -207,38 +223,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.29 : Fact Check Remixes",
         "url": "https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP"
       },
@@ -259,18 +243,34 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.30 : To. X Remixes",
-        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Sielo",
+          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
         }
       ],
-      "duration_ms": 170386,
-      "name": "To. X",
-      "url": "https://open.spotify.com/track/2DVj1SAT5dz5oOwU3kvMgB"
+      "duration_ms": 157440,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Lose You",
-        "url": "https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw"
+        "name": "iScreaM Vol.30 : To. X Remixes",
+        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
       },
       "artists": [
         {
-          "name": "Sielo",
-          "url": "https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B"
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2DVj1SAT5dz5oOwU3kvMgB"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "CHENLE",
-          "url": "https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.1 : Kick It Remixes",
         "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
       },
@@ -371,26 +351,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.10 : Next Level Remixes",
-        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Next Level - IMLAY Remix",
-      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol. 28: Get A Guitar Remixes",
         "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
@@ -407,6 +367,26 @@
       "duration_ms": 167576,
       "name": "Get A Guitar - Chromeo Remix",
       "url": "https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "CHENLE",
+          "url": "https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -447,6 +427,26 @@
       "duration_ms": 277760,
       "name": "Glitch Mode - JINBO Remix",
       "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Next Level - IMLAY Remix",
+      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -507,26 +507,6 @@
       "duration_ms": 199453,
       "name": "Peaches - SUMIN Remix",
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "iScreaM Vol.10 : Next Level Remixes",
-        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Lionclad",
-          "url": "https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "Next Level - Lionclad Remix",
-      "url": "https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -607,6 +587,26 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Lionclad",
+          "url": "https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7"
+        }
+      ],
+      "duration_ms": 225877,
+      "name": "Next Level - Lionclad Remix",
+      "url": "https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
         "name": "Somehow",
         "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 174500,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.30 : To. X Remixes",
+        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        }
+      ],
+      "duration_ms": 152860,
+      "name": "To. X - HUNJIYA Remix",
+      "url": "https://open.spotify.com/track/1iIk4z63HT8cOdu6akgjJe"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -667,22 +687,62 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.30 : To. X Remixes",
-        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
+        "name": "iScreaM Vol.9 : Hot Sauce Remixes",
+        "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "HUNJIYA",
-          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+          "name": "Hitchhiker",
+          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
         }
       ],
-      "duration_ms": 152860,
-      "name": "To. X - HUNJIYA Remix",
-      "url": "https://open.spotify.com/track/1iIk4z63HT8cOdu6akgjJe"
+      "duration_ms": 195000,
+      "name": "Hot Sauce - Hitchhiker Remix",
+      "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "No2zcat",
+          "url": "https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Peaches - No2zcat Remix",
+      "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "Better Things (Dance Remix)",
+        "url": "https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "LDN NOISE",
+          "url": "https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Better Things - Dance Remix",
+      "url": "https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -711,46 +771,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Better Things (Dance Remix)",
-        "url": "https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "LDN NOISE",
-          "url": "https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Better Things - Dance Remix",
-      "url": "https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "No2zcat",
-          "url": "https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Peaches - No2zcat Remix",
-      "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
@@ -763,6 +783,26 @@
       "duration_ms": 468000,
       "name": "Worries",
       "url": "https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -787,26 +827,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.9 : Hot Sauce Remixes",
-        "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Hitchhiker",
-          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Hot Sauce - Hitchhiker Remix",
-      "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "11111101",
         "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 300771,
       "name": "Melodie",
       "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "iScreaM Vol.11 : Queendom Remix",
-        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Demicat",
-          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Queendom - Demicat Remix",
-      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -863,26 +863,22 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Until I Saw You",
-        "url": "https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd"
+        "name": "iScreaM Vol.11 : Queendom Remix",
+        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
       },
       "artists": [
         {
-          "name": "Thoby",
-          "url": "https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "Kevin Krissen",
-          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
-        },
-        {
-          "name": "H93",
-          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
+          "name": "Demicat",
+          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
         }
       ],
-      "duration_ms": 207437,
-      "name": "Until I Saw You",
-      "url": "https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt"
+      "duration_ms": 194754,
+      "name": "Queendom - Demicat Remix",
+      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -907,22 +903,26 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+        "name": "Until I Saw You",
+        "url": "https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "Thoby",
+          "url": "https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x"
         },
         {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        },
+        {
+          "name": "H93",
+          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
         }
       ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
+      "duration_ms": 207437,
+      "name": "Until I Saw You",
+      "url": "https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
+        }
+      ],
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1159,26 +1139,6 @@
       "duration_ms": 219840,
       "name": "INVU - ZHU Remix",
       "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "Off Ways",
-        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "Off Ways",
-      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1203,6 +1163,26 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
+        "name": "Off Ways",
+        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "Off Ways",
+      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.23 : Phantom Remixes",
+        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 190968,
+      "name": "Phantom - IMLAY Remix",
+      "url": "https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.23 : Phantom Remixes",
-        "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 190968,
-      "name": "Phantom - IMLAY Remix",
-      "url": "https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.17 : DEEP Remixes",
         "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
       },
@@ -1287,18 +1267,22 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Before the Dawn",
-        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
       "artists": [
         {
-          "name": "GLORY",
-          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1315,26 +1299,6 @@
       "duration_ms": 287424,
       "name": "Bi-elijah",
       "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "iScreaM Vol.1 : Kick It Remixes",
-        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Hitchhiker",
-          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Kick It - Hitchhiker Remix",
-      "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1359,22 +1323,38 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+        "name": "Before the Dawn",
+        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "GLORY",
+          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Criminal - SUMIN Remix",
-      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+      "duration_ms": 176250,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.1 : Kick It Remixes",
+        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Hitchhiker",
+          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Kick It - Hitchhiker Remix",
+      "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1395,6 +1375,26 @@
       "duration_ms": 274761,
       "name": "28 Reasons - LOOZBONE Remix",
       "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Criminal - SUMIN Remix",
+      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.13 : Sticker Remixes",
-        "url": "https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Sticker - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "Monika",
         "url": "https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 162426,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.13 : Sticker Remixes",
+        "url": "https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Sticker - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "2 Baddies - Biicla Remix",
-      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1691,22 +1671,6 @@
     {
       "added_at": "2024-04-12 05:53:10",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
-      },
-      "artists": [
-        {
-          "name": "Division One (KR)",
-          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq"
       },
@@ -1723,6 +1687,62 @@
       "duration_ms": 188077,
       "name": "Baggy Jeans - KIM MINCHEOL & HAYATE Remix",
       "url": "https://open.spotify.com/track/7zxw70wfBUsKWmOXS3fkq4"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "2 Baddies - Biicla Remix",
+      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
+      },
+      "artists": [
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
+    },
+    {
+      "added_at": "2024-04-12 05:53:10",
+      "album": {
+        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
+        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "FOREVER 1 - Aiobahn Remix",
+      "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
     },
     {
       "added_at": "2024-04-12 05:53:10",
@@ -1791,26 +1811,6 @@
       "duration_ms": 195428,
       "name": "Shining Like the Sun in the Sky",
       "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
-    },
-    {
-      "added_at": "2024-04-12 05:53:10",
-      "album": {
-        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
-        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        },
-        {
-          "name": "Aiobahn",
-          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "FOREVER 1 - Aiobahn Remix",
-      "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
     },
     {
       "added_at": "2024-04-12 05:53:10",

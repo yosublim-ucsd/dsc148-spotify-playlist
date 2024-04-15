@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21234,
+  "num_followers": 21233,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDQwYjY4MTVlNjhlODE1ODBmN2U1MDEzOTQ0OWE2NDc5",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGMwOTMxNGE1MDNjNjhkNTgzMjk0Y2FlZjE2Nzg4ODcx",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Livre",
         "url": "https://open.spotify.com/album/4IUX7jygRntlpHKwaLen5z"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 225608,
       "name": "Amor Livre",
       "url": "https://open.spotify.com/track/1k6JvHGHVQPV1qeFmtnKWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
     },
     {
       "added_at": null,
@@ -1119,74 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nosso Relacionamento",
-        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
-      },
-      "artists": [
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Nosso Relacionamento",
-      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chore N\u00e3o",
         "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
       },
@@ -1223,6 +1155,74 @@
       "duration_ms": 187564,
       "name": "S\u00f3 Mais Uma Vez",
       "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nosso Relacionamento",
+        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
+      },
+      "artists": [
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Nosso Relacionamento",
+      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96"
     },
     {
       "added_at": null,
@@ -1267,26 +1267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flutua",
-        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 203980,
-      "name": "Flutua",
-      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flutua",
+        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 203980,
+      "name": "Flutua",
+      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
     },
     {
       "added_at": null,

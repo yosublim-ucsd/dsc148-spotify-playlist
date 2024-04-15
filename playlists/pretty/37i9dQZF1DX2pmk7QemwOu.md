@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,992 likes - 92 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,109 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

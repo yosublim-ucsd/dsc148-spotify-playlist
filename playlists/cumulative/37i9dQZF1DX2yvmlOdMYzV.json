@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 203720,
       "name": "Best Feature",
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
@@ -1070,6 +1070,24 @@
       "duration_ms": 219652,
       "name": "Better Care - Remix",
       "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
+    },
+    {
+      "album": {
+        "name": "with love. x",
+        "url": "https://open.spotify.com/album/4YHQJ6xn5SmN5N8esu03ve"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "better than me",
+      "url": "https://open.spotify.com/track/4xSV6XMbiEN5ZlJeKBGSTk"
     },
     {
       "album": {

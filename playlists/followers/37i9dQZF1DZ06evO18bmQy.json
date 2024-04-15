@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 195219,
+  "2024-04-15": 195258,
   "date_first_scraped": "2023-09-19",
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
   "name": "This Is Djonga",
   "tracks": [
     {
@@ -1527,6 +1527,14 @@
         {
           "name": "Hungria",
           "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
         }
       ],
       "date_added": "2024-04-07",

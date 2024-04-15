@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,510 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,581 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 15 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 |
 | 16 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3D5SdLPuPcniSDGnUiYrO5) | 3:59 |
 | 17 | [Voodoo Ray](https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl) | 4:27 |
-| 18 | [The Bouncer \- Housequake Mix](https://open.spotify.com/track/75dtfCfD4RxwscyDhJLmlJ) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/6YHL7dlASZAWH2PTueKfZE) | 6:04 |
+| 18 | [The Bouncer \- Housequake Mix](https://open.spotify.com/track/2bRpbDRSLdVHlTj926exHX) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/38cpIYwOFa0ziavhiDiiDs) | 6:04 |
 | 19 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 20 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 21 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |

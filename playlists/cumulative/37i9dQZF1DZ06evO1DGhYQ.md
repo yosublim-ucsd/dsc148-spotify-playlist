@@ -2,7 +2,7 @@
 
 ### [This Is ALI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYQ)
 
-> This Is ALI\. Los temas esenciales, todos en una lista.
+> This is ALI\. The essential tracks, all in one playlist.
 
 57 songs - 3 hr 40 min
 

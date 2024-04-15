@@ -1,12 +1,12 @@
 {
-  "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 34904,
+  "description": "This is Static-X. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 34908,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGM2Yjc1NDYzM2Y0YmVmOTkzYzE5MzZjOWZjYzhhNzNj",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGI4YjNiM2NkMzc5Y2Y5NjgxNTg4YzI4ZDRkMzcxYTIz",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN"
+      "duration_ms": 180680,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
+      "duration_ms": 241666,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Otsego Undead",
-      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
+      "duration_ms": 164346,
+      "name": "Chroma-Matic",
+      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 164346,
-      "name": "Chroma-Matic",
-      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
+      "duration_ms": 209800,
+      "name": "Otsego Undead",
+      "url": "https://open.spotify.com/track/1hovoaCUCITutlnm7IL3dh"
     },
     {
       "added_at": null,

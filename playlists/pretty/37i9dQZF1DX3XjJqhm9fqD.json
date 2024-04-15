@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 86653,
+  "num_followers": 86689,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 125600,
       "name": "Way Too Nice",
       "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2024-04-12 12:54:04",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-04-12 12:54:04",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2024-04-12 12:54:04",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2024-04-12 12:54:04",
-      "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     }
   ],
   "unique_name": "Haitian Heat",

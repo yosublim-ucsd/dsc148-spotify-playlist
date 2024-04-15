@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 394941,
+  "2024-04-15": 394956,
   "date_first_scraped": "2022-01-18",
   "description": "Novidades e destaques do indie nacional. Foto: Papisa",
   "name": "Indie Brasil",
@@ -1377,16 +1377,16 @@
           "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
         },
         {
-          "name": "Jair Naves",
-          "url": "https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai"
-        },
-        {
           "name": "Lena Platonos",
           "url": "https://open.spotify.com/artist/0sCJq0aWIAWwGsNujLLnYV"
         },
         {
-          "name": "Helio Flandres",
-          "url": "https://open.spotify.com/artist/2OD6cVeCQanWOcP4m2fkcg"
+          "name": "Helio Flanders",
+          "url": "https://open.spotify.com/artist/6qbVfPrZTwf2qrFSjOH9Iy"
+        },
+        {
+          "name": "Jair Naves",
+          "url": "https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai"
         }
       ],
       "date_added": "2024-04-12",
@@ -3603,6 +3603,28 @@
       "duration_ms": 161333,
       "name": "Eu Ainda Te Quero",
       "url": "https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG"
+    },
+    {
+      "album": {
+        "name": "Eu e a Lua",
+        "url": "https://open.spotify.com/album/2BkSqu2S7mpdM94GQ7znep"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Eu e a Lua",
+      "url": "https://open.spotify.com/track/361ToCNpHcthhkQaPtohp4"
     },
     {
       "album": {

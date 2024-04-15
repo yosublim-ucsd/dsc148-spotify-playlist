@@ -2,7 +2,7 @@
 
 ### [DISCOLAND](https://open.spotify.com/playlist/37i9dQZF1DX9ZAByPehUEa)
 
-> A happy place.
+> A happy place, featuring Purple Disco Machine
 
 344 songs - 22 hr 8 min
 

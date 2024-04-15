@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 204440,
+  "num_followers": 204639,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDA4ZWM1M2YwZDQ2ZGZkMjhjNjQxMDg0NjlkODFhYWRh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGIxN2U1ZjM5N2ZlOGYwOTdjODk1ZmRlNTkyMGZkMzIz",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Love the Heartless",
-      "url": "https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mud to Gold",
         "url": "https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Love the Heartless",
+      "url": "https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 229103,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 202675,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
     },
     {
       "added_at": null,
@@ -723,26 +743,6 @@
       "duration_ms": 226511,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 202675,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
     },
     {
       "added_at": null,

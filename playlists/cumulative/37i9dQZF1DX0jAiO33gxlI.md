@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: 3030
 
-622 songs - 1 day 9 hr 22 min
+623 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-27 | 2022-07-30 |
 | [X da questão](https://open.spotify.com/track/3Z8eJFFoYhHaDCn8DwPsqD) | [Hudson Xavier](https://open.spotify.com/artist/2P6nLjzOmgOrDJWgiUzuq6), [Dj Samu AKA Sunguiura](https://open.spotify.com/artist/7ydvW5TQvgfHLt5XGOju9L), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx) | [X da questão](https://open.spotify.com/album/0UHv4QlVLmNUiijrvVU6Qs) | 3:25 | 2022-09-05 | 2022-09-18 |
 | [XEYDIGRANNA](https://open.spotify.com/track/2XEGy4gGTFD5ZZCtLLVvAD) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [XEYDIGRANNA](https://open.spotify.com/album/6OMCAJWNC5XFvVLFPtyhKf) | 2:14 | 2023-09-08 | 2023-09-30 |
+| [Zero Blefe](https://open.spotify.com/track/5vlxZwaWZwHu1ykl77g1Wp) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [DoisF](https://open.spotify.com/artist/54ufZkMGGcZtj6P7KTTDPS), [Arede](https://open.spotify.com/artist/0C75wtl2XuUJCfZx8wk601) | [Zero Blefe](https://open.spotify.com/album/4IiXdLyvkgBEtQzuEj5dYg) | 3:07 | 2024-04-15 |  |
 | [Zero Um \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/5UpXpV7YS9pdqlkMwRRH4a) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Zero Um \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/4oQQi6joZh7xaNCWjouYO7) | 3:25 | 2022-03-22 | 2023-03-03 |
 | [Zl Freestyle](https://open.spotify.com/track/5a5mHg4LmkC4SZ3CoaWW0f) | [2000erimas](https://open.spotify.com/artist/1d60Kv3HVFOQ44taIU7Xjf), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Zl Freestyle](https://open.spotify.com/album/6eXfaTqAQyiBZaJWfrSYGm) | 2:41 | 2023-03-10 | 2023-04-15 |
 | [Zoião](https://open.spotify.com/track/7nallj5WoSmMjAaTZz4Lmp) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 3:22 | 2022-12-16 | 2023-09-30 |

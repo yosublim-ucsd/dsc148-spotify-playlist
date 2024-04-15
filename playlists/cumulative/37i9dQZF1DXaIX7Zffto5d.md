@@ -4,19 +4,20 @@
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-61 songs - 3 hr 13 min
+63 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [444](https://open.spotify.com/track/6FbaOE50vTVPNpnfwlUyHc) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 1:50 | 2023-08-15 |  |
 | [^\_^](https://open.spotify.com/track/1az626FV9ZuzNn4LHolyuk) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:17 | 2023-08-15 |  |
 | [Angel](https://open.spotify.com/track/4iShk7X3Q8vVIIiFENs9Yz) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 3:11 | 2023-08-15 |  |
+| [B\-list](https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:16 | 2024-04-11 |  |
 | [Baby](https://open.spotify.com/track/2xSbIlfRn40F09tKX2Hjbh) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [note\-book \-u.\-](https://open.spotify.com/album/62sb3DB4se1XGHzXnGSjCT) | 3:09 | 2023-08-15 |  |
 | [Best Boy Friend](https://open.spotify.com/track/4gIxoEiImPtGVI4skcf3xT) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [未成年](https://open.spotify.com/album/2YtPwt5wECdF2v0wuBJzSM) | 3:37 | 2023-08-15 |  |
 | [Best Friend \(feat\. Doja Cat, Jamie & CHANMINA\) \[Remix\]](https://open.spotify.com/track/7L72EQGrKTteP3IjLHNdFJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 3:26 | 2023-08-15 |  |
 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-08-15 |  |
 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:39 | 2023-08-15 |  |
-| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-08-15 |  |
+| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-08-15 | 2024-04-15 |
 | [Call](https://open.spotify.com/track/45lFNdVfFUKpc9uwLYNvf8) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Call](https://open.spotify.com/album/2D9Kxb4p9P8NP6bxbZPDzw) | 2:59 | 2023-08-15 |  |
 | [Chocolate](https://open.spotify.com/track/6CU3VvoeQgkg4Wb1vS0zj7) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [CHOCOLATE](https://open.spotify.com/album/01wrkUtFTzOt4c4TmkFWat) | 3:02 | 2023-08-15 |  |
 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-15 |  |
@@ -48,6 +49,7 @@
 | [RED](https://open.spotify.com/track/4qcSfF5viKGKUHNOzrvx5b) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/1cyFz7pTFHPXmQ98S5Ztfe) | 2:42 | 2023-08-15 |  |
 | [She's Gone](https://open.spotify.com/track/0qqQ1g7vX2nGLSPtgD60zx) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [未成年](https://open.spotify.com/album/2YtPwt5wECdF2v0wuBJzSM) | 3:38 | 2023-08-15 |  |
 | [Sober](https://open.spotify.com/track/0P0HLpyo42LKdWI0yvIi0O) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I'm a Pop](https://open.spotify.com/album/5nwWE1A7A7sADxLiD3n9l2) | 3:34 | 2023-08-15 |  |
+| [Sunflower](https://open.spotify.com/track/2Dz1EZAnjNCnpiRKT6VDGC) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:18 | 2024-04-11 |  |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-11 |  |
 | [TOKYO 4AM](https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:22 | 2023-08-15 |  |
 | [Voice Memo No\. 5](https://open.spotify.com/track/02OvOau7SB9kImc7vyxiJT) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:43 | 2023-08-15 |  |
@@ -57,7 +59,7 @@
 | [You Just Walked In My Life](https://open.spotify.com/track/4PWP041gUG0PzmGua2alT3) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:59 | 2023-08-15 |  |
 | [You Made Me feat\. ちゃんみな](https://open.spotify.com/track/5YuUgZynO5qIl3kwDtpazP) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [SILENT PLANET: RELOADED](https://open.spotify.com/album/7cnmF9QEyGvlgq2HjNi333) | 3:20 | 2023-08-15 |  |
 | [クズになったらしいじゃん](https://open.spotify.com/track/2mILNZHVUEXm7LaSBEiPPo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:39 | 2023-08-15 |  |
-| [サンフラワー](https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:18 | 2023-08-15 |  |
+| [サンフラワー](https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:18 | 2023-08-15 | 2024-04-15 |
 | [ダリア](https://open.spotify.com/track/7C5kbaWqlt4E23aS1qFgEC) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [美人](https://open.spotify.com/album/2BPx7TGSbxT5386gYD5x8J) | 3:32 | 2023-08-15 |  |
 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 | 2023-08-15 |  |
 | [ピリオド](https://open.spotify.com/track/74TUzDFhRafbznKyAGVppt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:19 | 2023-08-15 |  |

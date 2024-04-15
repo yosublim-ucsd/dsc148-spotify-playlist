@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-342 songs - 20 hr 21 min
+343 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [告白氣球](https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:35 | 2024-01-08 |  |
 | [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 | 2022-12-19 | 2023-01-29 |
 | [哆唻咪](https://open.spotify.com/track/57RA8RHw9BlzKPkSDET63E) | [賀敬軒](https://open.spotify.com/artist/78AtbJzyfj3N9MTtfByW85) | [哆唻咪](https://open.spotify.com/album/5Ue3zLUZw5MqLh7WqBUYSd) | 4:02 | 2022-07-04 | 2022-07-08 |
+| [哈尼](https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [哈尼](https://open.spotify.com/album/40VT86rXZCTHUPXukA467i) | 3:42 | 2024-04-15 |  |
 | [哪裡來的勇氣](https://open.spotify.com/track/5JqnhLnwkayjT4dFEyPwDu) | [Da Tian Chen](https://open.spotify.com/artist/0vap3muSZLb1kqpPs1UmS6) | [一百種失戀的方法](https://open.spotify.com/album/1w2K9kDHi4I7n89bTOanMu) | 3:58 | 2022-06-06 | 2022-06-29 |
 | [喜歡](https://open.spotify.com/track/2fp2exMvOesqBQ1Km5Zut6) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [謝孟庭](https://open.spotify.com/artist/25iwdlQf9Cxdxhq8MQj8Pc) | [找到我](https://open.spotify.com/album/6u8wGLHZFB6H8HQRZ40L9G) | 3:42 | 2022-06-13 | 2022-07-26 |
 | [因為你](https://open.spotify.com/track/5gYQqYiNNynwCQJX8mXQ1N) | [StellaVee](https://open.spotify.com/artist/130SQgBPtO40M6lKRS79Vi) | [朋友說](https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1) | 3:05 | 2022-07-18 | 2022-07-21 |
@@ -296,7 +297,7 @@
 | [簡單愛](https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 4:30 | 2024-01-08 |  |
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
-| [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 |  |
+| [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 | 2024-04-15 |
 | [練習等待](https://open.spotify.com/track/0UwwjNqyHLNLiQHneyWXTd) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [練習等待](https://open.spotify.com/album/1xwMSCbMESBuBdAdfHyOb7) | 3:10 | 2022-06-13 | 2022-07-24 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-06-20 |  |
 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 | 2023-05-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 65560,
+  "num_followers": 65583,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,54 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+        "url": "https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 219389,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "C\u00f3mo Dejar de Amarte y Otros",
+      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Amor Traicionero",
+        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
+      },
+      "artists": [
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Con M\u00e1s Sed, Sed, Sed",
         "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
       },
@@ -187,54 +235,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Amor Traicionero",
-        "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 256346,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "C\u00f3mo Dejar de Amarte y Otros",
-      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-        "url": "https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 219389,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Nueva Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 215693,
       "name": "El Aguacero",
       "url": "https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 253960,
-      "name": "Mujer Traicionera",
-      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -283,6 +267,22 @@
       "duration_ms": 196121,
       "name": "Una Cerveza - Remix",
       "url": "https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Mujer Traicionera",
+      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -323,6 +323,38 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 258616,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        }
+      ],
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -347,18 +379,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+        "name": "La Nueva Cumbia del Pueblo",
+        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
       "artists": [
         {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
         }
       ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+      "duration_ms": 191920,
+      "name": "Sufriendo por Tu Amor",
+      "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -379,22 +411,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Nueva Cumbia del Pueblo",
-        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "Sufriendo por Tu Amor",
-      "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Bil\u00fa Bil\u00fa",
         "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 229640,
       "name": "Bil\u00fa Bil\u00fa",
       "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 258616,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 268031,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Rancheras Populares 16 \u00c9xitos (Vol. 3)",
         "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Siempre Arriba \u2502 Pa Darle Gusto Al Gusto (Cumbias Rancheras Del Sur)",
         "url": "https://open.spotify.com/album/7fx5J5NxE6RPBDpiS5fEr6"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 213420,
       "name": "El Wiri Wiri",
       "url": "https://open.spotify.com/track/5zwP4VkQCsK3pazOHleeHk"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 268031,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -623,6 +607,22 @@
       "duration_ms": 162320,
       "name": "Michelada",
       "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "De Fiesta Con los Braos",
+        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 267335,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Chile",
-          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
-        }
-      ],
-      "duration_ms": 252651,
-      "name": "Deja de Llorar",
-      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
       "artists": [
         {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+          "name": "Los Bohemios de Chile",
+          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
         }
       ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+      "duration_ms": 252651,
+      "name": "Deja de Llorar",
+      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -791,22 +775,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
-      },
-      "artists": [
-        {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+      },
+      "artists": [
+        {
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177363,
       "name": "Me Voy a Lanzar",
       "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Rom\u00e1nticos De La Cumbia",
         "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Siempre en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 311016,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Siempre en Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
       "artists": [
         {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
         }
       ],
-      "duration_ms": 311016,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Relatos de Mi Vida",
         "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "La Fiesta de Koky",
         "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 204069,
       "name": "La Suegra",
       "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Para Ti Solita / Matame A Besos (En Vivo)",
-        "url": "https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Para Ti Solita / Matame A Besos (En Vivo)",
-      "url": "https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1239,6 +1223,22 @@
       "duration_ms": 258140,
       "name": "Vuelvo a las Cantinas",
       "url": "https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Para Ti Solita / Matame A Besos (En Vivo)",
+        "url": "https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Para Ti Solita / Matame A Besos (En Vivo)",
+      "url": "https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Un Lobo Est\u00e1 Llorando",
-        "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos del Sur",
-          "url": "https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "Un Lobo Est\u00e1 Llorando",
-      "url": "https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Un Lobo Est\u00e1 Llorando",
+        "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos del Sur",
+          "url": "https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "Un Lobo Est\u00e1 Llorando",
+      "url": "https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66"
     },
     {
       "added_at": "2023-10-05 22:49:47",

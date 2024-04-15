@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-646 songs - 1 day 18 hr 27 min
+649 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Arcadia](https://open.spotify.com/track/0EfJlpGqnmEPkGHgU0I2ax) | [Ramona Lisa](https://open.spotify.com/artist/4rznUCgRWVTHQX9tUyQ4BV) | [Arcadia](https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t) | 4:11 | 2023-10-17 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
+| [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
 | [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
 | [avOcadO SHakE૮꒰ ˶• ༝ •˶꒱ა \\̅\_̅/̷̚ʾ](https://open.spotify.com/track/3sDkuBJVMkMOQ70MK8y7yN) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:33 | 2024-02-19 |  |
@@ -531,6 +532,7 @@
 | [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 | 2024-03-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/2SKWqNWAi5n4ed9C6z3jCU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Golden Age](https://open.spotify.com/album/1wvJf32qDHmwku12nfzVGN) | 4:39 | 2023-04-24 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |
+| [Surrogate Lover](https://open.spotify.com/track/5exXNIuQMsdSJKXmxAVG9A) | [Acaciawood](https://open.spotify.com/artist/6pwMJ1pUGI34NwTtHH55nW) | [Acaciawood](https://open.spotify.com/album/31LTbP6O3O7RVnCY5pyEO4) | 4:52 | 2024-04-14 |  |
 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 | 2024-01-07 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2024-01-08 |  |
 | [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2023-09-29 |  |
@@ -637,6 +639,7 @@
 | [Wife You Up](https://open.spotify.com/track/3kVXnFQkCWegpVmONNraop) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 4:36 | 2023-08-14 |  |
 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 | 2023-12-15 |  |
 | [Willow Tree](https://open.spotify.com/track/5H8gGN15unaHwUSNhKWPxm) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [Soft Airplane](https://open.spotify.com/album/2pKjG5kGU8DAJSey6cUmjB) | 3:13 | 2023-11-03 |  |
+| [Wings \[Intro\]](https://open.spotify.com/track/41csJZApoEcJf0zp5wWMCb) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 0:52 | 2024-04-14 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-01-15 | 2023-06-15 |
 | [Woolf and Plath](https://open.spotify.com/track/1pm4JOgUyHFcnWNrNTUkEW) | [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [Palimpsest](https://open.spotify.com/album/10qM36T7cTV0YHRfQ6m0Wx) | 2:30 | 2024-01-18 |  |
 | [World in My Eyes \- 2006 Remaster](https://open.spotify.com/track/70B5oP5ng1QYClkJ9CeWly) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:27 | 2022-09-30 | 2024-01-17 |

@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
@@ -582,6 +582,24 @@
       "duration_ms": 183635,
       "name": "El Pais de Alicia",
       "url": "https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Amigo",
+        "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164991,
+      "name": "El \u00daltimo Amigo",
+      "url": "https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk"
     },
     {
       "album": {

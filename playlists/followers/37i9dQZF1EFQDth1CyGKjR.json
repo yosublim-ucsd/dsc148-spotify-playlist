@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 3154,
+  "2024-04-15": 3153,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU\">Timbaland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Timbaland",
@@ -3239,6 +3239,24 @@
       "duration_ms": 201813,
       "name": "Indian Flute (feat. Sebastian & Raje Shwari)",
       "url": "https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf"
+    },
+    {
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229813,
+      "name": "Infinity Sex",
+      "url": "https://open.spotify.com/track/7EfyuEF9QHZbh9vrOtIaXk"
     },
     {
       "album": {

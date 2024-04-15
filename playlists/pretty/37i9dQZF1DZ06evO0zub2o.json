@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 280941,
+  "num_followers": 281003,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGNkYmM3ODdkOTQzZjE5OTk5MzZkZTg4MWJiM2M0NWYy",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDdhZjAwZjI5ZDdhNWY4NzhiOGY4Zjg0M2VhMmNhZmEy",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234733,
       "name": "The Badge",
       "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
+        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "Where You Come From - 2003 Remaster",
+      "url": "https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
-        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "Where You Come From - 2003 Remaster",
-      "url": "https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Official Live: 101 Proof",
         "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 223826,
       "name": "Dom / Hollow - Live",
       "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
+        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "Hole in the Sky - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 224693,
       "name": "We'll Grind That Axe for a Long Time",
       "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
-        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 256586,
-      "name": "Hole in the Sky - 2003 Remaster",
-      "url": "https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7"
     },
     {
       "added_at": null,

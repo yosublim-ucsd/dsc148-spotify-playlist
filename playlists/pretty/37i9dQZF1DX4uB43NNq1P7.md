@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,905 likes - 87 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,986 likes - 87 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

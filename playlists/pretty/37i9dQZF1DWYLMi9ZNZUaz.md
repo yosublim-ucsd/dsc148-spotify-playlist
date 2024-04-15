@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,505 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,552 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 26 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 27 | [NOLOVENOLIFE](https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 2:50 |
 | 28 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 |
-| 29 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
-| 30 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 |
+| 29 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 |
+| 30 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
 | 31 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
 | 32 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 |
 | 33 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |

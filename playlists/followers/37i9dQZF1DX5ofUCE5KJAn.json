@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 184716,
+  "2024-04-15": 184773,
   "date_first_scraped": "2022-05-26",
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
   "name": "La Pozoliza",
@@ -1986,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Las Compuse Para Ti",
+        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "La Mushasha Shula",
+      "url": "https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD"
+    },
+    {
+      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 174173,
       "name": "No Me Beses",
       "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"

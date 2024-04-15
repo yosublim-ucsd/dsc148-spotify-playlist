@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 3712267,
+  "2024-04-15": 3712484,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -25833,7 +25833,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160256,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
@@ -26515,6 +26515,32 @@
       "duration_ms": 249381,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN"
+    },
+    {
+      "album": {
+        "name": "Stay Still",
+        "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273170,
+      "name": "Stay Still",
+      "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 37972,
+  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
+  "num_followers": 37990,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDQ5YzM1MmU4NWRjY2QzYTY2OTAwZGQ0OTNkNDE0OWRh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDhiYjM1ZmJkY2EwYTljYzIzMmU1MTFmNWJhZjY2M2Yy",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 151604,
       "name": "No Me Marques Pedo",
       "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Dijeron",
         "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 187768,
       "name": "No Me Dijeron",
       "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 188501,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+      },
+      "artists": [
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So\u00f1ar",
-        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
-      },
-      "artists": [
-        {
-          "name": "Danntik",
-          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "So\u00f1ar",
-      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -1015,6 +1015,30 @@
       "duration_ms": 182844,
       "name": "LIKE A BULL",
       "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": null,
@@ -1143,30 +1167,6 @@
       "duration_ms": 194690,
       "name": "No Es Tan Facil",
       "url": "https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": null,

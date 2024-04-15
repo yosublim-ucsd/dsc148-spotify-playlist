@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Risen Powerful Gospel Resurrection Songs",
-        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 417160,
-      "name": "Now Behold the Lamb - Live",
-      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Live... This Is Your House",
         "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 303160,
       "name": "Jesus Is the Answer",
       "url": "https://open.spotify.com/track/7HUJbPhx5spapf39VT3jXw"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Risen Powerful Gospel Resurrection Songs",
+        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 417160,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Choirmaster",
-        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        },
-        {
-          "name": "Tiff Joy",
-          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
-        }
-      ],
-      "duration_ms": 243914,
-      "name": "Release - Live/Edit",
-      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Choirmaster",
+        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        },
+        {
+          "name": "Tiff Joy",
+          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
+        }
+      ],
+      "duration_ms": 243914,
+      "name": "Release - Live/Edit",
+      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 317607,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/1spELczvtbmaJoFpIiiyLU"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2024-03-20 11:34:13",

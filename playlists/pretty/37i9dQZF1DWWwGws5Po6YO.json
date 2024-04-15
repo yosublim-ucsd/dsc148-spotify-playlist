@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 35201,
+  "num_followers": 35217,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 335402,
       "name": "A Woman Escapes Cue 4",
       "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 347680,
       "name": "Moon View",
       "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Marina`s Song",
-        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
-      },
-      "artists": [
-        {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
-        }
-      ],
-      "duration_ms": 303828,
-      "name": "Marina`s Song",
-      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Healing Is A Miracle - Extended Versions",
         "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Marina`s Song",
+        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 303828,
+      "name": "Marina`s Song",
+      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Cry Me a Blizzard (Afrodeutsche I'm Here Remix)",
         "url": "https://open.spotify.com/album/5BcZeareGEqIlRoJT5fGAq"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
         }
       ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1307,6 +1291,22 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1395,22 +1391,6 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1447,6 +1427,26 @@
       "duration_ms": 227748,
       "name": "Effektology",
       "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Nine Spells",
-        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
       },
       "artists": [
         {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Spell I: Let the Waves In",
-      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1663,6 +1647,22 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     },
     {
       "added_at": "2023-09-08 14:04:07",

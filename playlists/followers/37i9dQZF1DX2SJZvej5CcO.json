@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 278968,
+  "2024-04-15": 279080,
   "date_first_scraped": "2023-09-26",
   "description": "Apasi\u00f3nate con sus \u00e9xitos en espa\u00f1ol.",
   "name": "This Is Laura Pausini",
@@ -461,10 +461,28 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 273693,
       "name": "Emergencia de amor",
       "url": "https://open.spotify.com/track/3MmeWjpRcLjJvNil10034t"
+    },
+    {
+      "album": {
+        "name": "Mi respuesta",
+        "url": "https://open.spotify.com/album/2z8NpMrQRSUF7IQSMDk7MS"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Emergencia de amor",
+      "url": "https://open.spotify.com/track/4khZZjyYGXzWhKWZXOnXjJ"
     },
     {
       "album": {
@@ -479,10 +497,28 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 268800,
       "name": "En ausencia de ti",
       "url": "https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx"
+    },
+    {
+      "album": {
+        "name": "Mi respuesta",
+        "url": "https://open.spotify.com/album/2z8NpMrQRSUF7IQSMDk7MS"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "En ausencia de ti",
+      "url": "https://open.spotify.com/track/2InKE7rna7hIZGRVpekPYU"
     },
     {
       "album": {

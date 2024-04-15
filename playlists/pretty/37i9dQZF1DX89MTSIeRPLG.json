@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 16694,
+  "num_followers": 16722,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 192400,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "missunderstood\u2026still",
-        "url": "https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 235797,
-      "name": "Love Is... (feat. J.I the Prince of N.Y)",
-      "url": "https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -815,6 +795,26 @@
       "duration_ms": 178652,
       "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
       "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "missunderstood\u2026still",
+        "url": "https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 235797,
+      "name": "Love Is... (feat. J.I the Prince of N.Y)",
+      "url": "https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj"
     },
     {
       "added_at": "2022-10-01 20:31:11",

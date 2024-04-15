@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1915615,
+  "num_followers": 1915945,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGJiMGI1N2UyN2JiN2JhYTgwN2M4N2EzZTBmZmY3Y2Yw",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDNhOWU0ZTAxYTY1YmEwMDQxMjVkNDYxMTI1ZTZiYzll",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Motorbreath - Remastered",
+      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Motorbreath - Remastered",
-      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
     },
     {
       "added_at": null,

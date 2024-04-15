@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90238,
+  "num_followers": 90235,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "quantom 2",
+        "url": "https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri"
+      },
+      "artists": [
+        {
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1331,30 +1347,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Lost in Lofi",
-        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Hate That I Love You",
-      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "quantom 2",
-        "url": "https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri"
+        "name": "Lost in Lofi",
+        "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
       "artists": [
         {
-          "name": "yknowdavibez",
-          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 168135,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD"
+      "duration_ms": 183851,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
     },
     {
       "added_at": "2023-08-01 17:14:44",

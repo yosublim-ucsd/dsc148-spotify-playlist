@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 974392,
+  "num_followers": 974504,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 307760,
       "name": "The Funeral - Live Acoustic",
       "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Into The Fire (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Into The Fire - Acoustic Version",
-      "url": "https://open.spotify.com/track/5XFrgSArUenTn9wbPXDmtA"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Into The Fire (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "Into The Fire - Acoustic Version",
+      "url": "https://open.spotify.com/track/5XFrgSArUenTn9wbPXDmtA"
     },
     {
       "added_at": "2024-01-12 17:59:36",

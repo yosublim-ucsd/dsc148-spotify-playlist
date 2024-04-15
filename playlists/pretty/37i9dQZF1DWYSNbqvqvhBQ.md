@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar nieuwe songs en hits van dit moment! Cover: Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,648 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,653 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 37 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 |
 | 38 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 | 39 | [Clean Sheets](https://open.spotify.com/track/1LW5eFutMigxS3FHLto83I) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Clean Sheets](https://open.spotify.com/album/3LNrNQC9mTl6yvIOMpyzdi) | 3:12 |
-| 40 | [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 |
+| 40 | [Speed Of Light](https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:07 |
 | 41 | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 |
 | 42 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 |
 | 43 | [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 |

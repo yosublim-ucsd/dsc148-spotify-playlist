@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > just a little playlist with viral stuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,970 likes - 921 songs - 2 day 0 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,133 likes - 921 songs - 2 day 0 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 30 | [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 |
 | 31 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 32 | [Baby By Me](https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Before I Self\-Destruct](https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s) | 3:33 |
-| 33 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 |
+| 33 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/3o8bHN6zrp3c91qcR1GS6W) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [PLANET 36](https://open.spotify.com/album/3hwb7SkY2Alm3qkD4nS50Y) | 3:14 |
 | 34 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 35 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
 | 36 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |

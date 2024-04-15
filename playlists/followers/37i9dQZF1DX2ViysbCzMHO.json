@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 150781,
+  "2024-04-15": 150849,
   "date_first_scraped": "2022-01-02",
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
   "name": "Nashville Stripped",
@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+    },
+    {
+      "album": {
         "name": "Heartbreaker (Piano Version)",
         "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
@@ -3326,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
+    },
+    {
+      "album": {
         "name": "Relationship Goals (Acoustic Version)",
         "url": "https://open.spotify.com/album/6wGaKFmXR6A2UaeSa3Lx0u"
       },
@@ -3787,7 +3823,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 226440,
       "name": "Standing Room Only - Acoustic",
       "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
@@ -5091,7 +5127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"

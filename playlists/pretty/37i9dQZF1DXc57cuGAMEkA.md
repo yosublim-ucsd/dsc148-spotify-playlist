@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Rina Sawayama & CHANMINA, XG, OneRepublic, aiko and more! cover: Rina Sawayama & CHANMINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,801 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,866 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 
-> This is Lauren Daigle\. The essential tracks, all in one playlist.
+> This Is Lauren Daigle\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 53 min
 
@@ -43,7 +43,7 @@
 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 | 2023-03-10 |  |
 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 | 2023-03-10 |  |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-03-10 |  |
-| [Saint Ferdinand \(feat\. Jon Batiste & Natalie Hemby\)](https://open.spotify.com/track/2uFIgF9seVtu9OMvSfO6XY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:17 | 2024-03-30 |  |
+| [Saint Ferdinand \(feat\. Jon Batiste & Natalie Hemby\)](https://open.spotify.com/track/2uFIgF9seVtu9OMvSfO6XY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:17 | 2024-03-30 | 2024-04-15 |
 | [Saint Ferdinand \(feat\. Jon Batiste & Natalie Hemby\)](https://open.spotify.com/track/4QBCy9CsTEsPtCBxPYedVV) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:17 | 2023-05-14 | 2023-10-11 |
 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 | 2023-03-10 |  |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
@@ -54,8 +54,8 @@
 | [To Know Me](https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:31 | 2023-10-10 |  |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2023-03-10 |  |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2023-03-10 |  |
-| [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-09 | 2024-03-31 |
-| [Turbulent Skies \- INOY Remix; Fan Remix Contest Winner](https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Inoy](https://open.spotify.com/artist/2cqZUPVhr93BKziDU7xQFW) | [Turbulent Skies \(INOY Remix; Fan Remix Contest Winner\)](https://open.spotify.com/album/0WXfHn4bqds12sHIBHrDha) | 3:50 | 2024-03-30 |  |
+| [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-09 |  |
+| [Turbulent Skies \- INOY Remix; Fan Remix Contest Winner](https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Inoy](https://open.spotify.com/artist/2cqZUPVhr93BKziDU7xQFW) | [Turbulent Skies \(INOY Remix; Fan Remix Contest Winner\)](https://open.spotify.com/album/0WXfHn4bqds12sHIBHrDha) | 3:50 | 2024-03-30 | 2024-04-15 |
 | [Turbulent Skies \- Single Edit](https://open.spotify.com/track/7h9Lso97nXeDvbkhmqOYkp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Turbulent Skies](https://open.spotify.com/album/27zbqfUetrh5e2epWvEFyV) | 3:13 | 2023-11-10 | 2023-12-14 |
 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 | 2023-03-10 |  |
 | [Valuable](https://open.spotify.com/track/1QhuCjLdpFL5E9it7GxDcW) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:29 | 2023-05-14 | 2023-06-26 |

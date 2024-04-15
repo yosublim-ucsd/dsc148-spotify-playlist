@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 27417,
+  "2024-04-15": 27415,
   "date_first_scraped": "2021-12-28",
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Nguy\u00ean H\u00e0",
   "name": "EQUAL Vietnam",
@@ -761,10 +761,32 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 228750,
       "name": "C\u1ea3m N\u1eafng",
       "url": "https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m N\u1eafng (feat. Rtee)",
+        "url": "https://open.spotify.com/album/7cxt7d8TuV1zmPdVrLryv4"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        },
+        {
+          "name": "Rtee",
+          "url": "https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "C\u1ea3m N\u1eafng (feat. Rtee)",
+      "url": "https://open.spotify.com/track/0XhT3B0RgwYF11EiJqKlvN"
     },
     {
       "album": {
@@ -1799,10 +1821,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 267961,
       "name": "Kh\u00f4ng Sao M\u00e0, Em \u0110\u00e2y R\u1ed3i",
       "url": "https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ"
+    },
+    {
+      "album": {
+        "name": "Kh\u00f4ng Sao M\u00e0, Em \u0110\u00e2y R\u1ed3i (feat. Lou Ho\u00e0ng)",
+        "url": "https://open.spotify.com/album/3Z2EkqCx85eOAajRKycV7S"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        },
+        {
+          "name": "Lou Ho\u00e0ng",
+          "url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267961,
+      "name": "Kh\u00f4ng Sao M\u00e0, Em \u0110\u00e2y R\u1ed3i (feat. Lou Ho\u00e0ng)",
+      "url": "https://open.spotify.com/track/2z9d9zTBWW6eougVWmfucA"
     },
     {
       "album": {

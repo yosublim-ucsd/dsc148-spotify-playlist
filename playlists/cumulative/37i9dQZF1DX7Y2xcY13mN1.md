@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-81 songs - 5 hr 57 min
+82 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,8 @@
 | [Siúil, a Rún](https://open.spotify.com/track/4YR6pxgf5h5HULlrohEoud) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Dúlamán](https://open.spotify.com/album/3BKGPVWtkRujnomuvOQXpS) | 5:49 | 2022-03-07 |  |
 | [Song for Ireland](https://open.spotify.com/track/0wswRAqRTpcParjZXrZrYh) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [Song for Ireland](https://open.spotify.com/album/6z6aLF0UGTqnWYeDMggP2W) | 4:55 | 2021-10-12 |  |
 | [Sullivans John](https://open.spotify.com/track/0HjmRr1m4LDAGWzGWz53Hf) | [Jordan O'Leary](https://open.spotify.com/artist/6MNNdtDu02t5Ql8vab4DlK) | [The Burren Tapes](https://open.spotify.com/album/1PcIvSCbM8ParYqHZeEd2i) | 4:55 | 2022-03-07 |  |
-| [Ten Thousand Miles](https://open.spotify.com/track/2rjntmwJoCp0RsWszuUV0H) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd) | 3:30 | 2022-03-11 |  |
-| [Ten Thousand Miles](https://open.spotify.com/track/4tncQGSj6X9RERVrmL0mGH) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:30 | 2021-10-12 | 2022-07-29 |
+| [Ten Thousand Miles](https://open.spotify.com/track/2rjntmwJoCp0RsWszuUV0H) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd) | 3:30 | 2022-03-11 | 2024-04-15 |
+| [Ten Thousand Miles](https://open.spotify.com/track/4tncQGSj6X9RERVrmL0mGH) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:30 | 2021-10-12 |  |
 | [The Auld Triangle](https://open.spotify.com/track/3Z80Oi7leKcs5zQhKDL0GD) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [It's All Good: The Best of Damien Dempsey \(Deluxe Version\)](https://open.spotify.com/album/2eBVcMT3QrKjlqbEhPkFTJ) | 4:17 | 2022-03-11 |  |
 | [The Auld Triangle](https://open.spotify.com/track/4XvNcfDCh0TqLpMkknMGb9) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [It's All Good: The Best of Damien Dempsey \(Deluxe Version\)](https://open.spotify.com/album/19NcknXhRMTVRUmIEue1fq) | 4:17 | 2021-10-12 | 2022-07-29 |
 | [The Bonny Light Horseman](https://open.spotify.com/track/1UDvKubDnJrrBC78bOWGXs) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break](https://open.spotify.com/album/4DQ6OFzBPa242mYB4fn1eW) | 4:33 | 2021-10-12 |  |
@@ -68,7 +68,8 @@
 | [The Lass of Aughrim](https://open.spotify.com/track/7ELQE1b3Zws1su2QYkF4c9) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard a Long Gone Song](https://open.spotify.com/album/66nvS6UPEoouVAP53osjdj) | 2:11 | 2021-10-12 | 2022-07-29 |
 | [The Last Rose Of Summer](https://open.spotify.com/track/7HbCpn6r9Xkja1iEHDAWbo) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Crann Ull](https://open.spotify.com/album/5bgp8BR8C5PSMTYNDoNQIJ) | 4:17 | 2021-10-12 | 2022-03-08 |
 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/0WxxSbsSHMoUK1uvWuMEbT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/5ampDJAQaLxJnSWdQJtBpX) | 2:15 | 2021-10-12 |  |
-| [The Poor Wayfaring Stranger](https://open.spotify.com/track/2JPhKCdsAPjZM6h0Z6Ajw5) | [Lumiere](https://open.spotify.com/artist/5lKx4FLD3nO1yczPdoIUdr) | [Lumiere](https://open.spotify.com/album/7kOMinYZ8XXGkPquNKpInV) | 4:42 | 2022-03-11 |  |
+| [The Poor Wayfaring Stranger](https://open.spotify.com/track/4KiZUgblisi1gFTdqnxPoK) | [Donogh Hennessy](https://open.spotify.com/artist/1OcqZoEY1GxSlZKGT8VyPy), [John Reynolds](https://open.spotify.com/artist/79lhlcp4LtEFzof1Ka75wq), [Kevin Armstrong](https://open.spotify.com/artist/3Fg5b5AQCtURyTBapXUs67), [Pauline Scanlon](https://open.spotify.com/artist/2ZVzEQJaLPQK2z0Qx2Nrff), [Éilís Kennedy](https://open.spotify.com/artist/0APf7h7PgGVmOENNK4jfBE) | [Celtic Divas, Vol\. II](https://open.spotify.com/album/1XP4My1Dk2A4OWglTkYlTM) | 4:47 | 2023-11-14 |  |
+| [The Poor Wayfaring Stranger](https://open.spotify.com/track/2JPhKCdsAPjZM6h0Z6Ajw5) | [Lumiere](https://open.spotify.com/artist/5lKx4FLD3nO1yczPdoIUdr) | [Lumiere](https://open.spotify.com/album/7kOMinYZ8XXGkPquNKpInV) | 4:42 | 2022-03-11 | 2024-04-15 |
 | [The Poor Wayfaring Stranger](https://open.spotify.com/track/4MAvTqux8OBlUiH2mQDQHQ) | [Lumiere](https://open.spotify.com/artist/2muJDtOur0DrbTJsnyXdRl) | [Lumiere](https://open.spotify.com/album/2IbZxFIZe4Sd1m1lYveNUm) | 4:42 | 2021-10-12 | 2022-07-29 |
 | [The Rising of the Moon](https://open.spotify.com/track/6hwvSseQYltJDb1d7JMbkj) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 3:55 | 2021-10-12 |  |
 | [The Star Of The County Down \- Live](https://open.spotify.com/track/3zW5lCW4GtuVseLG0Trm5z) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Live At The Royal Albert Hall](https://open.spotify.com/album/2vGR4YxNndppEAoiuKA1gO) | 3:40 | 2021-10-12 |  |

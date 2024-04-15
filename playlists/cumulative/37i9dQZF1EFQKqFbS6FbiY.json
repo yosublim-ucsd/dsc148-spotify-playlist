@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 134000,
       "name": "Bate e Volta",
       "url": "https://open.spotify.com/track/0ISMIcSsiLquVWLWvRD37W"
@@ -1700,6 +1700,24 @@
       "duration_ms": 166426,
       "name": "Briga de L\u00ednguas",
       "url": "https://open.spotify.com/track/0CDcj8k6oxb70VR2LWCN7j"
+    },
+    {
+      "album": {
+        "name": "Elementos: FOGO",
+        "url": "https://open.spotify.com/album/5lkPXzR90r46RldaKDDL3B"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130632,
+      "name": "Brinquedo Proibido",
+      "url": "https://open.spotify.com/track/7HvrO3ciPgEEsJAk8zmzqG"
     },
     {
       "album": {

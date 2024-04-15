@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,613 songs - 3 day 11 hr 52 min
+1,614 songs - 3 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-06 |  |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-28 |
 | [I eget selskap](https://open.spotify.com/track/1N2fPU5eJ9FXaFpifH8TvY) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [I eget selskap](https://open.spotify.com/album/7rxox6myn7LNSjc47M16YH) | 3:00 | 2023-06-24 | 2023-06-26 |
-| [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 | 2024-04-13 |  |
+| [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 | 2024-04-13 | 2024-04-15 |
 | [I Got No One](https://open.spotify.com/track/0zeLGK5BGEtzaHLxpgGxoG) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [I Got No One](https://open.spotify.com/album/3UQxBMVOZOYR8cg0e9coC5) | 2:05 | 2021-10-10 | 2021-10-17 |
 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2024-01-01 | 2024-01-03 |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2022-01-01 | 2023-01-03 |
@@ -1135,6 +1135,7 @@
 | [Pause fra mæ sjøl](https://open.spotify.com/track/480JvLYE83nvigCc8TM8eS) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Pause fra mæ sjøl](https://open.spotify.com/album/2TUxdFPE1LNuTRvGXcn3He) | 3:35 | 2021-11-14 | 2021-11-21 |
 | [Peace](https://open.spotify.com/track/5jeSK21nrfn5EassQR4D6u) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [<3](https://open.spotify.com/album/4o5ub6S6vw3sXNdNy7iP9p) | 3:04 | 2023-10-21 | 2023-10-27 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-28 |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-14 |  |
 | [PEIS](https://open.spotify.com/track/7KTBLfbTsKrCTIKzYzbBoL) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PEIS](https://open.spotify.com/album/6kuR9oYgBaD2YLsu8LRj0y) | 1:53 | 2022-11-26 | 2022-11-28 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-19 | 2023-04-23 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-18 | 2022-06-21 |

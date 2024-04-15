@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 ### [This Is 結束バンド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
-> This is 結束バンド\. The essential tracks, all in one playlist.
+> This Is 結束バンド\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,426 likes - 16 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,449 likes - 16 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 15 | [Distortion!!](https://open.spotify.com/track/3l8rIBKJUDQFqQfKvcpQ1w) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 16 | [忘れてやらない \-恒星\- Live ver.](https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:43 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDc3Njk3NWJhM2M4MDM3MjkyNDhlODA2MmQzODk3MzA0`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMGFjYmJmNjg4MjU4MTI3ZjA5ZjdiMTJlNWRmNTFkMTEy`

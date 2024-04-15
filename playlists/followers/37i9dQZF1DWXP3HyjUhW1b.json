@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 332060,
+  "2024-04-15": 332103,
   "date_first_scraped": "2022-06-02",
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
   "name": "Cancionero Mexicano",
@@ -981,7 +981,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 187893,
       "name": "La Feria de las Flores",
       "url": "https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J"

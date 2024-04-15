@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 76302,
+  "2024-04-15": 76339,
   "date_first_scraped": "2023-01-15",
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
   "name": "New UK Garage",
@@ -2217,10 +2217,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 132923,
       "name": "Ricardo",
       "url": "https://open.spotify.com/track/5NKqifwgTbMOAZavYnrGcm"
+    },
+    {
+      "album": {
+        "name": "Rita Ora",
+        "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122864,
+      "name": "Rita Ora",
+      "url": "https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0"
     },
     {
       "album": {

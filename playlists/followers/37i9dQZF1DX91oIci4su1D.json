@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 818463,
+  "2024-04-15": 818531,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -5773,7 +5773,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 238214,
       "name": "Focus",
       "url": "https://open.spotify.com/track/2nzQnmVvuuJQYizRN0agAx"
@@ -13757,6 +13757,28 @@
       "duration_ms": 234461,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4nfoEPUlEb2OzytWWLrZQc"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        },
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189836,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
     },
     {
       "album": {

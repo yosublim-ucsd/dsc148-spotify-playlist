@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,425 likes - 130 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,480 likes - 130 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 65 | [Be Happy](https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Visions of the Emerald Beyond](https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo) | 3:32 |
 | 66 | [Leimert Day](https://open.spotify.com/track/4LlnqYDREUFR7JdTkqICR8) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [Nine Lives](https://open.spotify.com/album/1hjEjgbnvKfmDhc0gtjUSz) | 3:54 |
 | 67 | [Even Song](https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 8:23 |
-| 68 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 |
+| 68 | [Lockdown Boogie](https://open.spotify.com/track/7dVuyXd4qAumdX7k2zQHtW) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/5zLRcD7DYDIXhQ1I9V5MwY) | 5:18 |
 | 69 | [Aslan](https://open.spotify.com/track/2GGzrn3q2245lKW9uoWYIF) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Istanbul Sessions \- Bir Zamanlar Şimdi](https://open.spotify.com/album/0FlrcWqStEROU1FXKMfpXi) | 6:18 |
 | 70 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 |
 | 71 | [Core](https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Borderline](https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM) | 3:29 |

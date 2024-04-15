@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-130 songs - 11 hr 21 min
+131 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,8 +116,9 @@
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/4LAeJVXkFuJmcIpZ5XMW6Q) | 4:43 | 2020-10-06 | 2022-07-29 |
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 | 2020-10-06 | 2023-11-05 |
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/272RmS2rS59JVBhlSR0cMv) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/7nf0pfKVjqF7zAmudyu7JQ) | 4:47 | 2023-10-19 |  |
+| [The Bouncer \- Housequake Mix](https://open.spotify.com/track/2bRpbDRSLdVHlTj926exHX) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/38cpIYwOFa0ziavhiDiiDs) | 6:04 | 2024-03-22 |  |
 | [The Bouncer \- Housequake Mix](https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/0vLYDCPo6GFOLo4c9QiMDO) | 6:04 | 2020-10-06 | 2022-07-27 |
-| [The Bouncer \- Housequake Mix](https://open.spotify.com/track/75dtfCfD4RxwscyDhJLmlJ) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/6YHL7dlASZAWH2PTueKfZE) | 6:04 | 2023-10-19 |  |
+| [The Bouncer \- Housequake Mix](https://open.spotify.com/track/75dtfCfD4RxwscyDhJLmlJ) | [Kicks Like A Mule](https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH) | [XL Recordings: The First Chapters](https://open.spotify.com/album/6YHL7dlASZAWH2PTueKfZE) | 6:04 | 2023-10-19 | 2024-04-15 |
 | [The Noise \- The Remix](https://open.spotify.com/track/5MDMgJLTMZkjZsuJbdOYAw) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/68bRNvaxeAyepyKaguHeBn) | 4:52 | 2020-10-06 | 2022-07-28 |
 | [The Slammer](https://open.spotify.com/track/60dIWuXNawICpr6PnvXJXQ) | [Krome and Time](https://open.spotify.com/artist/34BsYkwksRwsEikxJWx106) | [Suburban Base Records \(The History of Hardcore, Jungle, Drum & Bass: 1991\-1997\)](https://open.spotify.com/album/3ezKKW3YNljLv3f62Z6mjr) | 6:10 | 2020-10-06 | 2022-07-29 |
 | [This is Acid](https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:37 | 2020-10-06 | 2022-07-29 |

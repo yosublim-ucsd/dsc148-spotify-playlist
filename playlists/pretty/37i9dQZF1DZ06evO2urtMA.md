@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731 likes - 26 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,732 likes - 26 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 25 | [Gearhead](https://open.spotify.com/track/6U1gILtopcOcOZo4elN0Uw) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:24 |
 | 26 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDk0N2RlY2MzMjU3Zjk0N2NmOGUzM2M5OWU2ZTBkNWZm`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDUwZDUyNjNmMWUxNDgyZTVkZTM5NWM2NzZiZThkYWFi`

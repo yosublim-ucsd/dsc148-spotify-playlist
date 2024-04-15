@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 178567,
+  "num_followers": 178643,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-01 12:45:26",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
         "name": "Lost In You EP",
         "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 210356,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2024-03-01 12:45:26",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
     },
     {
-      "added_at": "2024-03-01 12:45:26",
-      "album": {
-        "name": "My Stripes",
-        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 267488,
-      "name": "My Stripes",
-      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Maasai",
@@ -1159,6 +1139,26 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
+    },
+    {
+      "added_at": "2024-03-01 12:45:26",
+      "album": {
+        "name": "My Stripes",
+        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 267488,
+      "name": "My Stripes",
+      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
       "added_at": "2024-03-01 12:45:26",

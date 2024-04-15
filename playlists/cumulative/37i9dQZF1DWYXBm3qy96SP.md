@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Linkin Park
 
-1,197 songs - 2 day 20 hr 55 min
+1,198 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-23 | 2023-12-01 |
 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-13 | 2023-04-21 |
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-06-22 | 2023-06-30 |
+| [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-04-12 |  |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Damage](https://open.spotify.com/track/2P616qpC9myp9XRCGVFuce) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Damage](https://open.spotify.com/album/0KJjON2RBSj9lYukNSSEho) | 2:37 | 2024-02-22 | 2024-03-01 |
@@ -368,7 +369,7 @@
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-23 | 2023-05-19 |
 | [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 | 2023-06-22 | 2023-07-07 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-04 |  |
-| [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 | 2023-03-16 |  |
+| [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 | 2023-03-16 | 2024-04-15 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-27 | 2024-02-09 |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-16 | 2023-03-25 |
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-10-05 | 2023-10-13 |

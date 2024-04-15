@@ -1,12 +1,12 @@
 {
-  "description": "This Is Five Finger Death Punch. Los temas esenciales, todos en una lista.",
-  "num_followers": 536952,
+  "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
+  "num_followers": 537026,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDljODFkYmUzYjk2MDhkZDYyZjZhMTM3MzU1M2Y3YzMx",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGMzNWE4NWQ3NzljMjg1ODU4N2EzYWExYjdkOGIyYzg0",
   "tracks": [
     {
       "added_at": null,
@@ -627,54 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Is the Answer",
-        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Hard To See",
-      "url": "https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 215871,
-      "name": "My Nemesis",
-      "url": "https://open.spotify.com/track/3YdGWVvW7iZtVhPkF375Dn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AfterLife (Deluxe)",
         "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
       },
@@ -700,9 +652,89 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
+      "duration_ms": 209493,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/3YdGWVvW7iZtVhPkF375Dn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 245951,
+      "name": "M.I.N.E (End This Way)",
+      "url": "https://open.spotify.com/track/4kn8ZK9aWTfZDdPMIExcD8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
       "duration_ms": 222626,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2dlgumgcNCRafhgZQyDCzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Gold Gutter",
+      "url": "https://open.spotify.com/track/4htulOVhleVt2R0Avcdvdp"
     },
     {
       "added_at": null,
@@ -724,7 +756,7 @@
       "added_at": null,
       "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
       },
       "artists": [
         {
@@ -732,25 +764,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 245951,
-      "name": "M.I.N.E (End This Way)",
-      "url": "https://open.spotify.com/track/4kn8ZK9aWTfZDdPMIExcD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AfterLife (Deluxe)",
-        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Gold Gutter",
-      "url": "https://open.spotify.com/track/4htulOVhleVt2R0Avcdvdp"
+      "duration_ms": 195090,
+      "name": "Dot Your Eyes",
+      "url": "https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs"
     },
     {
       "added_at": null,
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 195090,
-      "name": "Dot Your Eyes",
-      "url": "https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs"
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/0QTpLHFixtmJCU9o0ZIShg"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 203786,
       "name": "No One Gets Left Behind",
       "url": "https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 217847,
-      "name": "Burn MF",
-      "url": "https://open.spotify.com/track/0QTpLHFixtmJCU9o0ZIShg"
     }
   ],
   "unique_name": "This Is Five Finger Death Punch",

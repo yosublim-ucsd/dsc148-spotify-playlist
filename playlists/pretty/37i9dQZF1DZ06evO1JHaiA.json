@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGY3ZDk0ZmM3MDY5MmQxZGM1YzNlZTRiNjZhMjI1NWU0",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQwNTgyNjZkODg4MDk1NmNkMjIxZjg5YTY5ZmRkMGRk",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "When We Get Married",
+      "url": "https://open.spotify.com/track/577wJybDQlVQ4qrT8nogLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "When We Get Married",
-      "url": "https://open.spotify.com/track/577wJybDQlVQ4qrT8nogLk"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 151320,
+      "name": "Turn the Hands of Time",
+      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 89091,
       "name": "The Intruders Medley Introduction - Live",
       "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 151320,
-      "name": "Turn the Hands of Time",
-      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(So Glad I'm) Yours",
+      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(So Glad I'm) Yours",
-      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 136986,
-      "name": "I've Got Love for You",
-      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 257333,
       "name": "Only One",
       "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Great Guitar Instrumentals: '50s & '60s",
+        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Jefferies Rock",
+      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 117933,
       "name": "Fried Eggs",
       "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Wonder What Kind of Bag She's In",
-      "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
     }
   ],
   "unique_name": "This Is The Intruders",

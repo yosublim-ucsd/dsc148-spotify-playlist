@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98431,
+  "num_followers": 98440,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 137538,
       "name": "For The People",
       "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/4Y8K7bajbQbmBKLgzjAcG9"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 123383,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/3T7sUc1POvptNCM8o3KAmM"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Got That",
         "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
       },
@@ -659,38 +675,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/4Y8K7bajbQbmBKLgzjAcG9"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 123383,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/3T7sUc1POvptNCM8o3KAmM"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Could It Be Love",
-        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Could It Be Love",
-      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Mission Control",
+        "url": "https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 136846,
+      "name": "Mission Control",
+      "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Mission Control",
-        "url": "https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 136846,
-      "name": "Mission Control",
-      "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
-      },
-      "artists": [
-        {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 187920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Can't Control",
         "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 177139,
       "name": "Can't Control",
       "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1543,18 +1539,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
       "artists": [
         {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
+      "duration_ms": 153024,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Don\u2019t Lead Anywhere",
-        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
-      },
-      "artists": [
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Don\u2019t Lead Anywhere",
-      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 182769,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Don\u2019t Lead Anywhere",
+        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 127413,
+      "name": "Don\u2019t Lead Anywhere",
+      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Nothing Left To Say",
-        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Nothing Left To Say",
-      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 164576,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
     },
     {
       "added_at": "2024-04-11 22:00:00",

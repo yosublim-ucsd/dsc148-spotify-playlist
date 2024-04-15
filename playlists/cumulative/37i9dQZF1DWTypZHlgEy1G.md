@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-185 songs - 9 hr 57 min
+186 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 | 2024-03-22 |  |
 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 | 2021-03-21 |  |
 | [Mamy Blue](https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Les Plus Grands Succes](https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA) | 3:51 | 2021-03-21 | 2022-07-29 |
-| [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2021-03-21 |  |
+| [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2021-03-21 | 2024-04-15 |
+| [Mamy Blue](https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/5LZgUafnsq9bXQxwCnyecf) | 3:52 | 2023-10-19 |  |
 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 | 2024-03-22 |  |
 | [Mon vieux](https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [CD Story](https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT) | 3:28 | 2021-03-21 |  |
 | [Mon vieux](https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f) | 3:32 | 2021-03-21 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 24235,
+  "num_followers": 24243,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDc4MTQzMjVhYTc3MWI0OWZlZDJhZDExZGU2YWRmNDU3",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDRjM2IwMWJlM2MxY2FmYWIyNWFhODgxY2M5ZDNiMTNh",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Early",
+        "url": "https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Jafaris",
+          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Early",
+      "url": "https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf"
     },
     {
       "added_at": null,

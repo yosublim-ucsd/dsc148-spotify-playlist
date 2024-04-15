@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,103 likes - 144 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,291 likes - 144 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 67 | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/track/4cEmMB907Xi22vV9RIOSQE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/album/4vTOIv2RIvTy8HzyoZCzss) | 3:02 |
 | 68 | [XULITA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PERREAMOS?](https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY) | 3:04 |
 | 69 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 |
-| 70 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:45 |
+| 70 | [Personal Jesus \- Single Version](https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:44 |
 | 71 | [It Should Have Been You](https://open.spotify.com/track/3e0BAk5D4PVhmU6vCW9ma5) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Gwen Guthrie](https://open.spotify.com/album/2h2fa6ML63Z8b8JJjQoS85) | 4:21 |
 | 72 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
 | 73 | [Disco Devil \(Extended Version\)](https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Full Experience](https://open.spotify.com/artist/0uskrxhZacFBjwhUUEcJZv) | [The Best of Lee Perry](https://open.spotify.com/album/2KAaDokIGE8kXHEwisFk3X) | 7:51 |

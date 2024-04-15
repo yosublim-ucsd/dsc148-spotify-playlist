@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 40 min
+102 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 | 2021-12-28 |  |
 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 | 2021-12-28 |  |
 | [Sanko](https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 | 2021-12-28 |  |
-| [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 | 2021-12-28 |  |
+| [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 | 2021-12-28 | 2024-04-15 |
 | [Shake Yuh Bum](https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:30 | 2021-12-28 | 2023-11-11 |
 | [Shake Yuh Bum \- Machel Montano Remix](https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 3:30 | 2023-11-10 |  |
 | [Sili\-Kon](https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sili\-Kon](https://open.spotify.com/album/7hZfm5V8n3sGnk0LS1fvFr) | 2:51 | 2022-01-04 | 2023-05-24 |
@@ -97,6 +97,7 @@
 | [Something Must to Kill a Man](https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:06 | 2021-12-28 |  |
 | [Stoopid](https://open.spotify.com/track/4VssiQZ9g8eUa3d22eYBcW) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:20 | 2021-12-28 | 2022-10-09 |
 | [SWEET US](https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [SWEET US](https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6) | 2:37 | 2022-11-12 |  |
+| [Taya](https://open.spotify.com/track/70NWXrs5axUxvl866fPXNq) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Kayswitch](https://open.spotify.com/artist/3FygTCDrrBXvQ6hMegQL72), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd) | [Taya](https://open.spotify.com/album/5ukybcd54gxcfFpZUAs6im) | 2:42 | 2024-04-15 |  |
 | [Telli Person](https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Telli Person](https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS) | 3:44 | 2021-12-28 |  |
 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 | 2021-12-28 |  |
 | [Timaya](https://open.spotify.com/track/7JP7ibFI7Sk70ahn5ZOzBy) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 3:58 | 2021-12-28 | 2022-10-13 |

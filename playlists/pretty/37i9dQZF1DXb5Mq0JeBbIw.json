@@ -1,6 +1,6 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9576,
+  "num_followers": 9595,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
@@ -269,6 +269,26 @@
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
+      "added_at": "2023-10-10 12:23:51",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Wild Love (Acoustic)",
@@ -299,26 +319,6 @@
       "duration_ms": 251280,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
-    },
-    {
-      "added_at": "2023-10-10 12:23:51",
-      "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Naked (Acoustic Version)",
@@ -447,6 +431,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Bad Habits (Acoustic Version)",
         "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 232946,
       "name": "Bad Habits - Acoustic Version",
       "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 199462,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 224487,
       "name": "Meltdown - Acoustic",
       "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 210000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Leap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 199375,
-      "name": "One Life - Acoustic",
-      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hold On To Happiness",
         "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 217306,
       "name": "Hold On To Happiness",
       "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Leap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 199375,
+      "name": "One Life - Acoustic",
+      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "With Or Without You (Acoustic)",
         "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
       },
@@ -1571,6 +1587,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Used To Be Friends",
+        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1587,22 +1619,6 @@
       "duration_ms": 229267,
       "name": "Paradise (with Olivia Holt) - Acoustic",
       "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Used To Be Friends",
-        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1639,34 +1655,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+        "name": "Should I Stay Or Should I Go",
+        "url": "https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Dancing (Mumbai Wedding)",
-        "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
-      },
-      "artists": [
-        {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
-        }
-      ],
-      "duration_ms": 217763,
-      "name": "Dancing (Mumbai Wedding) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
+      "duration_ms": 157750,
+      "name": "Should I Stay Or Should I Go",
+      "url": "https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC"
     }
   ],
   "unique_name": "Soft Morning",

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 101733,
+  "2024-04-15": 101840,
   "date_first_scraped": "2022-12-01",
   "description": "Afrobeats' hottest singles. Cover: Young John",
   "name": "Gbedu",
@@ -821,7 +821,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
@@ -3536,7 +3536,7 @@
     },
     {
       "album": {
-        "name": "Loner",
+        "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
       "artists": [
@@ -3553,7 +3553,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151456,
-      "name": "Loner",
+      "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
     },
     {
@@ -4831,7 +4831,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 161462,
       "name": "Puff & Pass",
       "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"

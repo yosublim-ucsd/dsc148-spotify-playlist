@@ -274,6 +274,24 @@
     {
       "album": {
         "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
       "artists": [
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"

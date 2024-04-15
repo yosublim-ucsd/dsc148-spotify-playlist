@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 53550,
+  "num_followers": 53580,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Northwest & Southeast",
         "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 406000,
       "name": "Thursday Night, Friday Morning",
       "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "name": "Paraorchestra",
+          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
+        }
+      ],
+      "duration_ms": 347800,
+      "name": "The Unfolding",
+      "url": "https://open.spotify.com/track/5kbyFnbUce8V5bQRfBp8CB"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        },
-        {
-          "name": "Paraorchestra",
-          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
-        }
-      ],
-      "duration_ms": 347800,
-      "name": "The Unfolding",
-      "url": "https://open.spotify.com/track/5kbyFnbUce8V5bQRfBp8CB"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "plastichoir",
         "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Hush Now Baby",
         "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 101142,
       "name": "Hush Now Baby",
       "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
+      },
+      "artists": [
+        {
+          "name": "CTM",
+          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
+        },
+        {
+          "name": "August Rosenbaum",
+          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Celeste Song",
+      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1519,26 +1539,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
-      },
-      "artists": [
-        {
-          "name": "CTM",
-          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
-        },
-        {
-          "name": "August Rosenbaum",
-          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Celeste Song",
-      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1611,6 +1595,38 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1667,22 +1683,6 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
-      },
-      "artists": [
-        {
-          "name": "Hisaki Kato",
-          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "JAHMODE",
         "url": "https://open.spotify.com/album/4mWpSK6ySOqk1yVzx0Ng3O"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
+      },
+      "artists": [
+        {
+          "name": "Hisaki Kato",
+          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
+        }
+      ],
+      "duration_ms": 146993,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
       "artists": [
         {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
         }
       ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     }
   ],
   "unique_name": "ethereal voices",

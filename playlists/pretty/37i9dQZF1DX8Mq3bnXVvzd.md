@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,994 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,007 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

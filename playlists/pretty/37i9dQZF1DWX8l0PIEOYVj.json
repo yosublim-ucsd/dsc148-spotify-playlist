@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
-  "num_followers": 386809,
+  "num_followers": 386792,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Replay (with Dylan Matthew)",
-        "url": "https://open.spotify.com/album/238LCLiN6LwDX12Ess9x0K"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        }
-      ],
-      "duration_ms": 241411,
-      "name": "Replay (with Dylan Matthew)",
-      "url": "https://open.spotify.com/track/1Ylkd7GPx0VpwHNlAGpig2"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
         "name": "Fire Again (Dabin Remix)",
         "url": "https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 190666,
       "name": "Fire Again - Dabin Remix",
       "url": "https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "Replay (with Dylan Matthew)",
+        "url": "https://open.spotify.com/album/238LCLiN6LwDX12Ess9x0K"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "duration_ms": 241411,
+      "name": "Replay (with Dylan Matthew)",
+      "url": "https://open.spotify.com/track/1Ylkd7GPx0VpwHNlAGpig2"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Talk To You",
-        "url": "https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
-        }
-      ],
-      "duration_ms": 246260,
-      "name": "Talk To You",
-      "url": "https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
         "name": "Too Long (feat. Cruel Youth)",
         "url": "https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430"
       },
@@ -2355,22 +2335,42 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3"
       },
       "artists": [
         {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
         }
       ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+      "duration_ms": 246260,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "Call On Me (feat. Vancouver Sleep Clinic)",
+        "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 293122,
+      "name": "Call On Me (feat. Vancouver Sleep Clinic)",
+      "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2395,22 +2395,22 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-        "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
         },
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
         }
       ],
-      "duration_ms": 293122,
-      "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-      "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2579,30 +2579,6 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Borderline (feat. EMELINE)",
-        "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 197258,
-      "name": "Borderline (feat. EMELINE)",
-      "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
       },
@@ -2623,6 +2599,30 @@
       "duration_ms": 204800,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "Borderline (feat. EMELINE)",
+        "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 197258,
+      "name": "Borderline (feat. EMELINE)",
+      "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "JSYK",
-        "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "JSYK",
-      "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
       },
@@ -2703,6 +2687,22 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
+        "name": "JSYK",
+        "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "JSYK",
+      "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
         "name": "Glow In The Dark",
         "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
       },
@@ -2719,6 +2719,26 @@
       "duration_ms": 249600,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "When I Fall",
+        "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "When I Fall",
+      "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2747,26 +2767,6 @@
       "duration_ms": 240400,
       "name": "Grand Escape - Teminite Remix",
       "url": "https://open.spotify.com/track/0mWqrNV2FLesgCzO0sfHL3"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
-        "name": "When I Fall",
-        "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "When I Fall",
-      "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2835,8 +2835,8 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
       "artists": [
         {
@@ -2844,37 +2844,17 @@
           "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
         },
         {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
         },
         {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 195949,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
-        "name": "Owe Me Love",
-        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Hannah Avison",
-          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Owe Me Love",
-      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2899,6 +2879,26 @@
       "duration_ms": 265600,
       "name": "From Ashes To Love",
       "url": "https://open.spotify.com/track/1gnYZJ13MLIRFexETWGDEo"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "Owe Me Love",
+        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Hannah Avison",
+          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Owe Me Love",
+      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -2983,8 +2983,8 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Never Go Back",
-        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
       },
       "artists": [
         {
@@ -2992,17 +2992,17 @@
           "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
         },
         {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
         },
         {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
+      "duration_ms": 195949,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -3047,22 +3047,22 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
       },
       "artists": [
         {
-          "name": "FLOTE",
-          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
         }
       ],
-      "duration_ms": 166344,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
+      "duration_ms": 248275,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
     },
     {
       "added_at": "2024-04-12 04:19:02",
@@ -3087,26 +3087,6 @@
     {
       "added_at": "2024-04-12 04:19:02",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
-    },
-    {
-      "added_at": "2024-04-12 04:19:02",
-      "album": {
         "name": "kinder opposites",
         "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
       },
@@ -3119,6 +3099,26 @@
       "duration_ms": 96004,
       "name": "catalyst",
       "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
+    },
+    {
+      "added_at": "2024-04-12 04:19:02",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r"
+      },
+      "artists": [
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 166344,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
     }
   ],
   "unique_name": "Bass Lounge",

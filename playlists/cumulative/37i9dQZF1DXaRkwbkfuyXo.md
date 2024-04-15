@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-141 songs - 6 hr 55 min
+142 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Termina La Temporada](https://open.spotify.com/track/79F6Rw4EP623GyG2FIndnD) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:54 | 2022-11-08 | 2023-02-24 |
 | [Un Corrido Pa' Joaquin](https://open.spotify.com/track/6ZMbFg2l9Nu6xfDwfiXUtb) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX) | [Los Corridos De Mis Amigos](https://open.spotify.com/album/6frN8k9lkbXBpZLWA1g83K) | 3:12 | 2022-03-17 | 2022-11-08 |
 | [Viva Mi Lindo Michoacan](https://open.spotify.com/track/534NRKCO5nvYwOXqY1gydw) | [Banda Guasaveña de Valentín Elizalde](https://open.spotify.com/artist/3v9m4DhfDvDS2YYxmLSRLG) | [La Sorpresa Del Katch](https://open.spotify.com/album/48Aj5n1ZpfdLTQmiYwv0wL) | 2:49 | 2022-03-17 |  |
-| [Ya No Soy el Mandadero](https://open.spotify.com/track/06pDUeRKhA0ghcuCkyrSPS) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [10 Años](https://open.spotify.com/album/7r0v2WWlFeQ5f7vmDVv9Je) | 2:39 | 2023-11-24 |  |
+| [Ya No Soy el Mandadero](https://open.spotify.com/track/06pDUeRKhA0ghcuCkyrSPS) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [10 Años](https://open.spotify.com/album/7r0v2WWlFeQ5f7vmDVv9Je) | 2:39 | 2023-11-24 | 2024-04-15 |
+| [Ya No Soy El Mandadero](https://open.spotify.com/track/2y35fbHveQHSJjYPf4LPY0) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Ya No Soy El Mandadero](https://open.spotify.com/album/0uvttypHOnDWBUHnVUTUnt) | 2:39 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

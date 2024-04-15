@@ -1,12 +1,12 @@
 {
-  "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 121834,
+  "description": "This Is Wizkid. Los temas esenciales, todos en una lista.",
+  "num_followers": 121874,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDExZjI5Yzc4ZDJmNzQxYTM3Zjc1NWYxMjMzNzY4MGY1",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDUwZWRjNDRjNmJjNWVlZTMzMTg4MGExN2JhY2RlNjI2",
   "tracks": [
     {
       "added_at": null,
@@ -499,30 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignorance is Bliss",
-        "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Lay-Z",
-          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ignorance is Bliss",
+        "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lay-Z",
+          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Is Sweet",
-        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
       },
       "artists": [
         {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 165774,
-      "name": "G Love",
-      "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+        "name": "Revenge Is Sweet",
+        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
       },
       "artists": [
         {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+      "duration_ms": 165774,
+      "name": "G Love",
+      "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Anoti",
+      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 239893,
       "name": "Longtime (feat. Skepta)",
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Anoti",
-      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
     },
     {
       "added_at": null,

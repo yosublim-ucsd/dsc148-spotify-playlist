@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 353466,
+  "2024-04-15": 353478,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -1721,6 +1721,24 @@
       "duration_ms": 183713,
       "name": "Ai Ai Ai Mega Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/5yemzKG0VNqq6NpeAmZ3fH"
     },
     {
       "album": {
@@ -12515,7 +12533,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 189440,
       "name": "Dois Tristes - Ao Vivo",
       "url": "https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV"
@@ -12693,7 +12711,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 231628,
       "name": "Double Team",
       "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
@@ -15015,7 +15033,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 185337,
       "name": "Eu Nunca Fui Embora",
       "url": "https://open.spotify.com/track/53yKBldokRmgrueEXDbqjj"
@@ -21305,7 +21323,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 125154,
       "name": "Kamikaze Carreta Kamikaze",
       "url": "https://open.spotify.com/track/0yOveOaRYlCeSx6vC0XcUF"
@@ -22013,6 +22031,28 @@
     {
       "album": {
         "name": "LAST NIGHT VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR"
+      },
+      "artists": [
+        {
+          "name": "DJ BIEL PRADO",
+          "url": "https://open.spotify.com/artist/3ynR38jCIVmxY6RVrL35SN"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "LAST NIGHT VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde"
+    },
+    {
+      "album": {
+        "name": "LAST NIGHT VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/40WIrQ8JDPwgxvI42lQEqz"
       },
       "artists": [
@@ -22027,7 +22067,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 169384,
       "name": "LAST NIGHT VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/4M1ev40SxAwDYStgWfTNYu"
@@ -37677,6 +37717,24 @@
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+    },
+    {
+      "album": {
+        "name": "Se Ainda Existe Amor",
+        "url": "https://open.spotify.com/album/439igTvyE6n2PxKnrVzJpu"
+      },
+      "artists": [
+        {
+          "name": "Lourenco & Lourival",
+          "url": "https://open.spotify.com/artist/2u3hFRZfohi5Csh9OXzoYz"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "Se Ainda Existe Amor",
+      "url": "https://open.spotify.com/track/2wUx7tou9LiTDoHInVGDJ4"
     },
     {
       "album": {

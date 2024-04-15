@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7165,
+  "num_followers": 7168,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "When Times Get Rough",
         "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 198666,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 210506,
       "name": "Pink Shades",
       "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -723,26 +739,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 191760,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -779,6 +775,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Rollin' with the Punches",
         "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
     },
     {
       "added_at": "2024-04-11 22:00:00",

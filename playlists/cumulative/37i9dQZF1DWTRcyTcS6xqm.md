@@ -4,7 +4,7 @@
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-72 songs - 4 hr 33 min
+73 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Big Mama's Soul Food](https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Spider in My Stew](https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws) | 4:09 | 2021-03-19 |  |
 | [Blues Party](https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:48 | 2020-12-01 |  |
 | [Blues Party](https://open.spotify.com/track/5CHMY9NB9xTsPOmvAyCYEj) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 4:48 | 2020-12-01 | 2024-04-12 |
+| [Bump that Mother](https://open.spotify.com/track/3P30qDDwK4trc1SnFrDCzX) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/6NtWoSCiQ5l08w49f2OmR6) | 3:11 | 2020-12-01 |  |
 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 | 2020-12-01 | 2024-04-13 |
 | [Come On Up](https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Felix Cavaliere](https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:53 | 2020-12-01 |  |
 | [Come On Up \(feat\. Felix Cavaliere & Lee Roy Parnell\)](https://open.spotify.com/track/0fFNMxhTvv11ttexllYgY9) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Felix Cavaliere](https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Times Have Changed](https://open.spotify.com/album/2QX1HY3Tls3rkjNZKR6IVs) | 3:53 | 2020-12-01 | 2022-07-29 |
@@ -50,7 +51,7 @@
 | [Riding With the King](https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:24 | 2020-12-01 |  |
 | [Rocking With The Kid](https://open.spotify.com/track/5AM9tWrNczBzSl6yiGIbAt) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:08 | 2020-12-01 | 2022-07-26 |
 | [Satisfy My Soul](https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 2:43 | 2020-12-01 |  |
-| [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 | 2020-12-01 |  |
+| [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 | 2020-12-01 | 2024-04-15 |
 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 | 2020-12-01 |  |
 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 | 2020-12-01 |  |
 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 | 2020-12-01 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 487903,
+  "2024-04-15": 488069,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182170,
       "name": "Arjan Vailly",
       "url": "https://open.spotify.com/track/4ApCig0GTR4IEp7Ijsyo3r"
@@ -7152,6 +7152,28 @@
     },
     {
       "album": {
+        "name": "Ishq (From \"Lost;Found\")",
+        "url": "https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "Ishq - From \"Lost;Found\"",
+      "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
+    },
+    {
+      "album": {
         "name": "Ishq Jaisa Kuch (From \"Fighter\")",
         "url": "https://open.spotify.com/album/1M0PQfcd72KDs5pT7BXizD"
       },
@@ -8633,7 +8655,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -9447,7 +9469,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"

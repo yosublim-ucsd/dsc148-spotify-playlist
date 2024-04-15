@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/4kQujiq5GIgUuQoqGZvnDA"
@@ -9129,6 +9129,32 @@
     },
     {
       "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -12746,7 +12772,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -14987,6 +15013,24 @@
     },
     {
       "album": {
+        "name": "Me Arregle (El loco)",
+        "url": "https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169660,
+      "name": "Me Arregle - El loco",
+      "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
+    },
+    {
+      "album": {
         "name": "Me Enlie De Nuevo",
         "url": "https://open.spotify.com/album/5fs29pgusWREiYm3zWakUY"
       },
@@ -16534,7 +16578,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
@@ -18484,7 +18528,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/5SaMYroYijYFY2CXQOcRCZ"
@@ -20174,7 +20218,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 125004,
       "name": "Que La Choque",
       "url": "https://open.spotify.com/track/0kjH0WcUn6hzQxbwW03vjq"
@@ -24302,7 +24346,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 195761,
       "name": "Tarzan",
       "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"

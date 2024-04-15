@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,202 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,195 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 19 | [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 |
 | 20 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 |
 | 21 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 22 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 |
+| 22 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 23 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
 | 24 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 |
 | 25 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 35 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 36 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 37 | [Milkumana](https://open.spotify.com/track/7D370klApllXTrKYSDwLU7) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:07 |
-| 38 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 |
+| 38 | [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 |
 | 39 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 40 | [Waktu Yang Hilang](https://open.spotify.com/track/0Vk3H9BNPmaa6Be1RGpy4V) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:39 |
 | 41 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |

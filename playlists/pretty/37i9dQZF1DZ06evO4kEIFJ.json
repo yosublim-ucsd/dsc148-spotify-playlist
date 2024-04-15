@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lil Nas X. Los temas esenciales, todos en una lista.",
-  "num_followers": 154564,
+  "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
+  "num_followers": 154584,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDRhMDNlZDEyMDNlN2NkMmM4N2MwZmUwN2EwMDM5OThl",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDBmNTYzYzk0ZmI2YWVhZjk0MjY3NDRmNjNkOGU0ZTFh",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -99,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Panini",
         "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
@@ -127,6 +91,22 @@
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": null,
@@ -163,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 146005,
-      "name": "TALES OF DOMINICA",
-      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "light! (with Lil Nas X & 9lives)",
         "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
       },
@@ -199,6 +163,22 @@
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 146005,
+      "name": "TALES OF DOMINICA",
+      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
     },
     {
       "added_at": null,
@@ -239,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174164,
-      "name": "SCOOP (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
       },
@@ -275,6 +235,26 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174164,
+      "name": "SCOOP (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Blusher is our new RADAR artist to watch!
 
-288 songs - 14 hr 51 min
+289 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2022-11-10 | 2023-03-13 |
 | [About A Girl](https://open.spotify.com/track/68A10gwRQs1VHy7BgSjQJA) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [About A Girl](https://open.spotify.com/album/7cRJ3DLTPqNvYRB0JwQnuW) | 3:21 | 2021-10-15 | 2022-08-16 |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-28 |  |
-| [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 | 2024-01-18 | 2024-04-14 |
+| [Adored](https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 2:40 | 2024-01-18 |  |
 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-08-17 |  |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-02 | 2023-06-28 |
 | [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-06-22 | 2023-06-28 |
@@ -226,9 +226,9 @@
 | [Smashmouth](https://open.spotify.com/track/0hqiP6ZADTynI136orAUpb) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/46WIzWMx67YUpASEdMTgVc) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [Smashmouth](https://open.spotify.com/track/4cHSvShogdjsAdT50ysxds) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/5r27LuZamggikuwdMeKpuQ) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [smb2l](https://open.spotify.com/track/44dlDthpDSiplvoFGwD2AA) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 2:46 | 2023-03-02 |  |
-| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-12 | 2024-04-14 |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-12 |  |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-04-03 |
-| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-03-02 |  |
+| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-03-02 | 2024-04-15 |
 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 | 2021-10-15 | 2022-08-16 |
 | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/album/1ARzgmtTR8Zpq8LctI8sZh) | 3:19 | 2022-08-15 | 2022-11-11 |
 | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb) | 2:40 | 2022-11-10 | 2023-03-02 |
@@ -240,7 +240,8 @@
 | [Stay Ready](https://open.spotify.com/track/4ifwIJr17nbW2zRE2cphhO) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR) | [Stay Ready](https://open.spotify.com/album/2fAUZwOFzi6PLWCMXWoIJX) | 2:30 | 2021-10-15 | 2022-08-16 |
 | [Stay The Night](https://open.spotify.com/track/6d7kUzdgmoUARPNpR0vim0) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [Stay The Night](https://open.spotify.com/album/438mozSf9BsetYlooJQDMH) | 3:12 | 2022-08-15 | 2023-03-02 |
 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 | 2023-11-30 | 2024-03-29 |
-| [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-06-22 |  |
+| [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-06-22 | 2024-04-15 |
+| [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 | 2024-03-28 |  |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 | 2023-03-02 | 2023-11-08 |
 | [Sunday Morning](https://open.spotify.com/track/2rkM3PwHVDsuDDyYiv3KVM) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/5deglqPUxXOmdQjSFeMpMQ) | 2:07 | 2023-10-19 |  |

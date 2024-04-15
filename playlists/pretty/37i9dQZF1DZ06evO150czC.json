@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19334,
+  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
+  "num_followers": 19339,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDNjOTZkMDc5OWYxNDRkMmE5YTRlODdjMjUwY2ZiMGJk",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGZkMTQ3MmFlYmE3YThjN2ViMzY0YTI3ZDU5NjUyNjgy",
   "tracks": [
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Rayssa Barros",
+          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
         }
       ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+      "duration_ms": 332416,
+      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
     },
     {
       "added_at": null,
@@ -706,15 +710,11 @@
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Rayssa Barros",
-          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
         }
       ],
-      "duration_ms": 332416,
-      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
     },
     {
       "added_at": null,

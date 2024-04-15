@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 196925,
+  "num_followers": 196949,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGI0YjE1Yzk2YTI3YTQyZGY4MjIxYjUzMmIzZGE3OWIz",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDIxMjFhODU2YzkwMTk2ZjE0ODNmMjI1NjdhMzM4YmQx",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
       "artists": [
         {
@@ -208,13 +208,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 316666,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
+      "duration_ms": 312254,
+      "name": "The Blood (Live)",
+      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
       "artists": [
         {
@@ -248,13 +248,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 312254,
-      "name": "The Blood (Live)",
-      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
     },
     {
       "added_at": null,
@@ -268,13 +268,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 526890,
-      "name": "Champion - Live",
-      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
+      "duration_ms": 515387,
+      "name": "God of Revival - Live",
+      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
     },
     {
       "added_at": null,
@@ -348,17 +352,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 515387,
-      "name": "God of Revival - Live",
-      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
+      "duration_ms": 526890,
+      "name": "Champion - Live",
+      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 294280,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Good To Not Believe (Live)",
         "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
       },
@@ -787,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
       },
       "artists": [
         {
@@ -796,13 +776,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 451297,
-      "name": "Show Me Your Face (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 263293,
       "name": "The Light in You",
       "url": "https://open.spotify.com/track/4dx1Mf0Cl6luHghe58xKAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 451297,
+      "name": "Show Me Your Face (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 79706,
-      "name": "Isabelline (Interlude)",
-      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
+      "duration_ms": 452013,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi"
     },
     {
       "added_at": null,
@@ -907,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86"
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 452013,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi"
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
     },
     {
       "added_at": null,
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
       },
       "artists": [
         {
@@ -960,13 +960,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
+      "duration_ms": 281893,
+      "name": "Precious Blood",
+      "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
     },
     {
       "added_at": null,
@@ -995,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
       },
       "artists": [
         {
@@ -1004,17 +1008,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Precious Blood",
-      "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
     },
     {
       "added_at": null,

@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3966,6 +3966,24 @@
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
+    },
+    {
+      "album": {
+        "name": "A Cara das Vaquejadas 3.0",
+        "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
+      },
+      "artists": [
+        {
+          "name": "Thullio Milion\u00e1rio",
+          "url": "https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133360,
+      "name": "Casca de Bala",
+      "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
     },
     {
       "album": {
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 279000,
       "name": "Deus, Por favor",
       "url": "https://open.spotify.com/track/2329XxRFYoAPdQSb4DmjXQ"
@@ -7864,7 +7882,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
@@ -10200,7 +10218,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -14388,7 +14406,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 164138,
       "name": "Ol\u00e1, Mo\u00e7a",
       "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
@@ -15188,7 +15206,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 127220,
       "name": "Perna Bamba",
       "url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ"
@@ -16024,7 +16042,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
@@ -17879,6 +17897,24 @@
     },
     {
       "album": {
+        "name": "To Be (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192437,
+      "name": "Seu Erro - Ao Vivo Em Nova Iorque / 2022",
+      "url": "https://open.spotify.com/track/4v7UrPWZL4FJWeL5ZWQ62E"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -18966,7 +19002,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 158122,
       "name": "Tem Caf\u00e9",
       "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
@@ -19528,7 +19564,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -20770,7 +20806,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 243870,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"

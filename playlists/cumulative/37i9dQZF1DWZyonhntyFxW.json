@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "EL Moled (Red Bull Sada sot)",
+        "url": "https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159845,
+      "name": "EL Moled",
+      "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
+    },
+    {
+      "album": {
         "name": "MAQSOUM",
         "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 244864,
       "name": "Freedom Music: Scene Cypher 3",
       "url": "https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW"

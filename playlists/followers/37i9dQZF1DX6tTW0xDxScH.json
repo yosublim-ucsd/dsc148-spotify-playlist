@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 744585,
+  "2024-04-15": 744668,
   "date_first_scraped": "2021-12-21",
   "description": "Where everything is lovely and snuggly <3 ",
   "name": "Stay in Bed",
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"

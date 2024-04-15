@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TOTALFAT",
-  "num_followers": 118446,
+  "num_followers": 118488,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-26 18:07:11",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 101306,
-      "name": "Every",
-      "url": "https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA"
-    },
-    {
-      "added_at": "2024-03-26 18:07:11",
-      "album": {
         "name": "\u3055\u304f\u3089\u306e\u5504",
         "url": "https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226400,
       "name": "\u3082\u3057\u3082\u541b\u304c\u6ce3\u304f\u306a\u3089\u3070",
       "url": "https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273"
+    },
+    {
+      "added_at": "2024-03-26 18:07:11",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 101306,
+      "name": "Every",
+      "url": "https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA"
     },
     {
       "added_at": "2024-03-26 18:07:11",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-26 18:07:11",
       "album": {
-        "name": "me, myself & I.",
-        "url": "https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 188568,
-      "name": "me, myself & I.",
-      "url": "https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP"
-    },
-    {
-      "added_at": "2024-03-26 18:07:11",
-      "album": {
         "name": "77 Days",
         "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 143266,
       "name": "Ohichyo",
       "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2024-03-26 18:07:11",
+      "album": {
+        "name": "me, myself & I.",
+        "url": "https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 188568,
+      "name": "me, myself & I.",
+      "url": "https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP"
     },
     {
       "added_at": "2024-03-26 18:07:11",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-03-26 18:07:11",
       "album": {
-        "name": "BAND FOR HAPPY",
-        "url": "https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk"
+        "name": "\u30aa\u30c8\u30ca\u30de\u30a4\u30c8\u30fb\u30c0\u30f3\u30c7\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av"
       },
       "artists": [
         {
-          "name": "TOTALFAT",
-          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+          "name": "Dohatsuten",
+          "url": "https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE"
         }
       ],
-      "duration_ms": 72493,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt"
+      "duration_ms": 285213,
+      "name": "\u30aa\u30c8\u30ca\u30ce\u30b9\u30b9\u30e1",
+      "url": "https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903"
     }
   ],
   "unique_name": "Punk Japan",

@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 297000,
+  "num_followers": 297226,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Bayanni",
-        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Ta Ta Ta",
-      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1271,6 +1271,26 @@
       "duration_ms": 206315,
       "name": "Kontrol",
       "url": "https://open.spotify.com/track/5HeHtkXf4LBS05U8Au7q3g"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1331,22 +1351,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "Qui sait ? (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Qui sait ? (feat. ElGrandeToto)",
-        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Qui sait ? (feat. ElGrandeToto)",
-      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "SUPARO",
+        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "duration_ms": 152178,
+      "name": "SUPARO",
+      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "SUPARO",
-        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        }
-      ],
-      "duration_ms": 152178,
-      "name": "SUPARO",
-      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Waistline",
+        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "Waistline",
+      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -2119,18 +2135,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Waistline",
-        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 165154,
-      "name": "Waistline",
-      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2151,22 +2167,6 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2699,26 +2699,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -2739,6 +2719,26 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2855,30 +2855,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+        "name": "Drunk in Love (Henny)",
+        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
         }
       ],
-      "duration_ms": 156817,
-      "name": "C'est Cuit",
-      "url": "https://open.spotify.com/track/2FoYKMOfK4M8H9Am3GumqL"
+      "duration_ms": 104357,
+      "name": "Drunk in Love (Henny)",
+      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
     }
   ],
   "unique_name": "Summer Vibes",

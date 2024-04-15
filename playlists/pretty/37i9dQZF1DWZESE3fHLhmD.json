@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1292737,
+  "num_followers": 1292884,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
       },
@@ -1007,38 +1007,6 @@
       "duration_ms": 216338,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1059,18 +1027,18 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 228961,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1087,6 +1055,22 @@
       "duration_ms": 162205,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1191,26 +1175,6 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 176632,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -1239,6 +1203,26 @@
       "duration_ms": 179140,
       "name": "Gr\u00fcne Augen l\u00fcgen nicht",
       "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "Canaries in a Coal Mine",
+        "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "Canaries in a Coal Mine",
-        "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "Ein Traum",
+        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Ein Traum",
+      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "Ein Traum",
-        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
       "artists": [
         {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Ein Traum",
-      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     }
   ],
   "unique_name": "Fr\u00fchlingsgef\u00fchle",

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-693 songs - 1 day 11 hr 6 min
+694 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-07-22 | 2022-08-06 |
 | [Better](https://open.spotify.com/track/69uCmYNvkqnvIpyTKJXZ5P) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Better](https://open.spotify.com/album/6mCaCi7tXE4Jsr9Gxn7uNt) | 3:03 | 2022-01-14 | 2022-07-23 |
 | [Better Off Alone](https://open.spotify.com/track/12f3UbBnYHrZ7vbRXfyDA9) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz), [Hier](https://open.spotify.com/artist/0vkKvzSb0uPJTFH7HUcEsV) | [Better Off Alone](https://open.spotify.com/album/0jgtY27DegnKHYZKR2ZP85) | 2:53 | 2022-01-14 | 2023-05-13 |
+| [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-04-05 |  |
 | [Blackbird](https://open.spotify.com/track/61blBldjlrjCOiMnRfNSFk) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:59 | 2022-01-14 | 2022-04-20 |
 | [Blessings](https://open.spotify.com/track/0OlDAMgVVj8MlOY9CVgipd) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Casely](https://open.spotify.com/artist/1AeGYbZw11NJuTgs0wCOJ6) | [Blessings \(feat\. Casely\) \- Single](https://open.spotify.com/album/6SNKqXmM0bnEA2FqkCiUHj) | 3:21 | 2022-01-14 | 2022-04-20 |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-07-08 |  |
@@ -515,7 +516,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/2S7BMKDtnEv1FlGhvSTmoD) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Running Up That Hill](https://open.spotify.com/album/5WK2Fkq0tgZYyuE4iESU5n) | 4:16 | 2022-10-28 |  |
 | [Sabaii](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Five Corners](https://open.spotify.com/artist/76OQydrjsFbNZy1wZkMgYy), [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL) | [Sabaii](https://open.spotify.com/album/3xX617nnbugYqd0XFUdi9J) | 2:23 | 2023-08-04 |  |
 | [Safe and Sound \- Radio Edit](https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Safe and Sound \(Radio Edit\)](https://open.spotify.com/album/28AKutXX5V1KwEJHWSyDRL) | 3:01 | 2022-01-14 | 2022-04-09 |
-| [Safe Place](https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Safe Place](https://open.spotify.com/album/1pYpvMrJ5s9oO9T6cGKXKt) | 2:11 | 2023-05-26 |  |
+| [Safe Place](https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Safe Place](https://open.spotify.com/album/1pYpvMrJ5s9oO9T6cGKXKt) | 2:11 | 2023-05-26 | 2024-04-15 |
 | [Saint Louis](https://open.spotify.com/track/6TPU5TjNTQSj9Mm1Uq2AhE) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Saint Louis](https://open.spotify.com/album/7bluYrSCKPO89yVbd79cFa) | 4:30 | 2022-01-14 | 2023-06-28 |
 | [San Diego Fair](https://open.spotify.com/track/6hLntMbBTVNebB6d20BDET) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [San Diego Fair](https://open.spotify.com/album/2LbozLpKpWAXZO7clNCZpd) | 2:20 | 2022-04-01 | 2022-07-29 |
 | [Sanity](https://open.spotify.com/track/1YiXjlwgk7Fvx0xCZWoQU1) | [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX) | [Sanity](https://open.spotify.com/album/6oASRdLCRV0ezbg1XWKy6O) | 3:15 | 2022-04-01 | 2022-07-29 |

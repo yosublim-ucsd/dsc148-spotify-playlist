@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 107786,
+  "2024-04-15": 107795,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -9067,6 +9067,32 @@
       "duration_ms": 169811,
       "name": "ENA VRADI",
       "url": "https://open.spotify.com/track/6wpj0XOOx9rJkoNYCv2d7i"
+    },
+    {
+      "album": {
+        "name": "Enas Antras",
+        "url": "https://open.spotify.com/album/3bzkhBdc6B3g7ctmiZCLOA"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Saxpas",
+          "url": "https://open.spotify.com/artist/1IiQBASBfh603PVlAKUOaL"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203995,
+      "name": "Enas Antras",
+      "url": "https://open.spotify.com/track/6MSYgi5zfZYcdzJiMszwHK"
     },
     {
       "album": {
@@ -18717,7 +18743,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 165000,
       "name": "ME N U",
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
@@ -23168,6 +23194,32 @@
     },
     {
       "album": {
+        "name": "Kyrios Nekrikos Part II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05tiTnEkszVBVZBi8wl3Sr"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Parasita",
+      "url": "https://open.spotify.com/track/2p8vZ3mQudsqyN1eN59OV5"
+    },
+    {
+      "album": {
         "name": "To Paidi Tou Dromou 2",
         "url": "https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl"
       },
@@ -24369,7 +24421,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 191714,
       "name": "Pou Isoun?",
       "url": "https://open.spotify.com/track/0qGVPvhJCex0Mrm4troHBN"
@@ -25764,6 +25816,32 @@
     },
     {
       "album": {
+        "name": "Rolex",
+        "url": "https://open.spotify.com/album/2gTClODFlcb0351qdzjTKL"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Lindo",
+          "url": "https://open.spotify.com/artist/0zRqu5AKj0QfMk65VEnUOG"
+        },
+        {
+          "name": "Gosei",
+          "url": "https://open.spotify.com/artist/59HgkH4dmqGMfeU3gjchR2"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/3kNRAqBD0vCK1J6BOfhyON"
+    },
+    {
+      "album": {
         "name": "Rollie",
         "url": "https://open.spotify.com/album/2C8I5KiJbYWIoXU2kV9Q2G"
       },
@@ -26903,7 +26981,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 177150,
       "name": "Simadi",
       "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"

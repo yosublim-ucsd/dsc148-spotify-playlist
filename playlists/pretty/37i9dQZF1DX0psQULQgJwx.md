@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,839 likes - 139 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,002 likes - 139 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 61 | [Fantasy of Koshi Kaval](https://open.spotify.com/track/1FAZiGewREDGTfdGS2Bc0D) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [Fantasy of Koshi Kaval](https://open.spotify.com/album/2gj3bvTILGeJePm9L0AYH1) | 2:41 |
 | 62 | [Dreams & Peace](https://open.spotify.com/track/0TclQcvmTDFsrX3aiS2oet) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Dreams & Peace](https://open.spotify.com/album/2tNQhmTTLUHzQ1gxbJjmgL) | 6:57 |
 | 63 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
-| 64 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
+| 64 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
 | 65 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 |
 | 66 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 |
 | 67 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 |

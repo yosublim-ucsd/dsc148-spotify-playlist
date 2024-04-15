@@ -1,6 +1,6 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 140397,
+  "num_followers": 140419,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Lioness: Hidden Treasures",
         "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 169373,
       "name": "Our Day Will Come",
       "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 226213,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 309018,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "I Never Loved a Man (The Way I Love You)",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Trouble Man: 40th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Trouble Man",
-      "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+        "name": "Trouble Man: 40th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+      "duration_ms": 228640,
+      "name": "Trouble Man",
+      "url": "https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "The Best Of Bobby Womack - The Soul Years",
         "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 144200,
-      "name": "I'm Getting Ready",
-      "url": "https://open.spotify.com/track/54QckpslekyZCIEanFk787"
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2075,6 +2059,22 @@
       "duration_ms": 178840,
       "name": "Am I The Same Girl",
       "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "I'm Getting Ready",
+      "url": "https://open.spotify.com/track/54QckpslekyZCIEanFk787"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Like a Ship (Without a Sail)",
-        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
-      },
-      "artists": [
-        {
-          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
-          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Made In Jamaica",
         "url": "https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 194293,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Like a Ship (Without a Sail)",
+        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
+      },
+      "artists": [
+        {
+          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
+          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Bet Ain't Worth the Hand",
-      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Pieces of a Man",
         "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 211426,
       "name": "I Think I'll Call It Morning",
       "url": "https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Bet Ain't Worth the Hand",
+      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g"
       },
@@ -2619,22 +2635,6 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Fulfillingness' First Finale",
-        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 208097,
-      "name": "Smile Please",
-      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Fulfillingness' First Finale",
+        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 208097,
+      "name": "Smile Please",
+      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "Please Love Me",
-        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 221013,
       "name": "A Long Time",
       "url": "https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "Please Love Me",
+        "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
     },
     {
       "added_at": "2024-04-11 12:37:23",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2024-04-11 12:37:23",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168229,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
-    },
-    {
-      "added_at": "2024-04-11 12:37:23",
-      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+    },
+    {
+      "added_at": "2024-04-11 12:37:23",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168229,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
     },
     {
       "added_at": "2024-04-11 12:37:23",

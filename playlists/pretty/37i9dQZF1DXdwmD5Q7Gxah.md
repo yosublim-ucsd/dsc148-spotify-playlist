@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cover: chappell roan's infamous set from the desert 🐆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,210 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,184 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 220395,
+  "num_followers": 220495,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMGRkYmZkNzU5NWNkZjM0MGMxOTcwNDc4OWE4ODBlMjYx",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDYzMjg3Y2I3ODZiYmVhMmUxYzJjZWU2NWJjZTZkMzgz",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 241773,
-      "name": "my mine",
-      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
       "added_at": null,

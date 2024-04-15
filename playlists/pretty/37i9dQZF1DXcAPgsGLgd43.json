@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6179,
+  "num_followers": 6203,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -895,18 +895,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+      "duration_ms": 167397,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -931,22 +935,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
       },
       "artists": [
         {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 167397,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "La Trumpeta",
-        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 200042,
-      "name": "La Trumpeta",
-      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 187200,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "\u00a1Date Prisa!",
         "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
       },
@@ -1351,6 +1327,30 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -1495,34 +1495,6 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Bautista",
-          "url": "https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1"
-        },
-        {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Gabsy",
-          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1555,22 +1527,30 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Bautista",
+          "url": "https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1"
+        },
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 179527,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1659,6 +1639,46 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Tocate",
+        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
+      },
+      "artists": [
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        },
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "Tocate",
+      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1675,22 +1695,6 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "La Gente",
-        "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
-      },
-      "artists": [
-        {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "La Gente",
-      "url": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1715,22 +1719,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Tocate",
-        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
+        "name": "La Gente",
+        "url": "https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ"
       },
       "artists": [
         {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        },
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
         }
       ],
-      "duration_ms": 190393,
-      "name": "Tocate",
-      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
+      "duration_ms": 192230,
+      "name": "La Gente",
+      "url": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 148560,
       "name": "Levanta",
       "url": "https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "added_at": "2024-04-12 04:00:00",

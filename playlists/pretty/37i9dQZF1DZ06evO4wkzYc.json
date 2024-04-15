@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 112476,
+  "num_followers": 112594,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDMxY2Q1NmVmY2ZiYzE1NmVmNzIzNmMwZDgyMGIyYzBm",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQ3NzQ5ZjkwYjIyZDU5YTg5OGVkMjEyZjVlNmJlZTZm",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/0Eh9VKm1zUBjXMRNXqwrtx"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+      "duration_ms": 188074,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/0P3YnLaoAqN45hH34Jgiwj"
     },
     {
       "added_at": null,
@@ -207,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/0Eh9VKm1zUBjXMRNXqwrtx"
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/0P3YnLaoAqN45hH34Jgiwj"
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 6193944,
+  "2024-04-15": 6193917,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
   "name": "Hit Rewind",
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"

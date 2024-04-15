@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Myles Smith
 
-1,619 songs - 3 day 13 hr 15 min
+1,620 songs - 3 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1271,7 +1271,8 @@
 | [Snow On The Beach \(feat\. More Lana Del Rey\)](https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:49 | 2023-05-26 | 2023-10-21 |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-05 | 2021-08-07 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-07 | 2022-10-22 |
-| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:52 | 2024-03-22 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 | 2024-04-15 |
 | [Social Stamina](https://open.spotify.com/track/2FuB4re85DbgICpRi8IEEU) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Social Stamina](https://open.spotify.com/album/7tkV4wVnzdDasGlD5EwWHK) | 2:34 | 2021-09-11 | 2022-05-07 |
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-12 | 2021-03-26 |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-13 | 2021-12-04 |

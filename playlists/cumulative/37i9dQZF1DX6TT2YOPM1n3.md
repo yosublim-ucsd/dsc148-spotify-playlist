@@ -4,7 +4,7 @@
 
 > Coke Studio's Aayi Aayi out now\. Cover: Babar Mangi, Noman Ali Rajper, Marvi Sahibaan
 
-133 songs - 8 hr 35 min
+134 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aaja We Mahiya](https://open.spotify.com/track/5MoJ3MVKGGf25LxrFoxDSK) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 |  |
 | [Aaja We Mahiya](https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Aaja We Mahiya](https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok) | 3:52 | 2023-05-04 | 2024-03-27 |
 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 | 2023-05-04 | 2023-11-30 |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 | 2023-05-04 |  |
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2023-05-04 |  |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2023-05-04 |  |

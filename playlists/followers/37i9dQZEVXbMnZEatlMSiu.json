@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 213777,
+  "2024-04-15": 213807,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Taiwan.",
   "name": "Top 50 - Taiwan",
@@ -9592,6 +9592,24 @@
     },
     {
       "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "album": {
         "name": "\u5973\u795eMiu\u6731\u4fd0\u975c \u5b58\u5728\u7684\u529b\u91cf",
         "url": "https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy"
       },
@@ -11026,6 +11044,24 @@
     },
     {
       "album": {
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235764,
+      "name": "\u5584\u826f\u7684\u6211\u5011",
+      "url": "https://open.spotify.com/track/4pKP9CQMrspu58JW0SUrSS"
+    },
+    {
+      "album": {
         "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi"
       },
@@ -11037,7 +11073,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 235764,
       "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
@@ -13629,7 +13665,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 193773,
       "name": "\u6c89\u6eba(\u4f60\u8ba9\u6211\u7684\u5fc3\u4e0d\u518d\u7ed3\u51b0)",
       "url": "https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq"

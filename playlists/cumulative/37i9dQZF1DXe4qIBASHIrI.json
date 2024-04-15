@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 261079,
       "name": "Azul Oscuro",
       "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
@@ -546,6 +546,24 @@
       "duration_ms": 209346,
       "name": "Ella Es Azul",
       "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Noche Del Mundo",
+        "url": "https://open.spotify.com/album/3nWav7AajCknAgmTR3xnqP"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288760,
+      "name": "Ella No Me Conoce",
+      "url": "https://open.spotify.com/track/3tRIvnqbgBuujWj5i3m2Lq"
     },
     {
       "album": {
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 277626,
       "name": "Minutos de Aire (feat. Jorge Gonzalez)",
       "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 206673,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"

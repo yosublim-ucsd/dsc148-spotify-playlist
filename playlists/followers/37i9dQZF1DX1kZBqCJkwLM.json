@@ -1,7 +1,7 @@
 {
-  "2024-04-14": 85341,
+  "2024-04-15": 85339,
   "date_first_scraped": "2021-12-28",
-  "description": "Dope, Asian, and Femme. Cover: XG",
+  "description": "Dope, Asian, and Femme. Cover: Lilas Ikuta of Yoasobi",
   "name": "Dope AF",
   "tracks": [
     {
@@ -1996,6 +1996,24 @@
     },
     {
       "album": {
+        "name": "Idol",
+        "url": "https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "Idol",
+      "url": "https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE"
+    },
+    {
+      "album": {
         "name": "Ija (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
@@ -2793,7 +2811,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 160357,
       "name": "PRIMAL",
       "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"

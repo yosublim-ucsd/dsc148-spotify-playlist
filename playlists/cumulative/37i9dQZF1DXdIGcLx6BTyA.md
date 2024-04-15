@@ -4,7 +4,7 @@
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-89 songs - 5 hr 31 min
+90 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All I Do Is Drive](https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2021-07-06 |  |
 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 | 2021-07-06 |  |
 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 | 2021-07-06 |  |
-| [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 | 2021-07-06 |  |
+| [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 | 2021-07-06 | 2024-04-15 |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2021-07-06 |  |
 | [American Scandal](https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:02 | 2021-07-06 |  |
 | [Back Down South \(feat\. Tyler Bryant\)](https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:54 | 2021-07-06 |  |
@@ -86,6 +86,7 @@
 | [Tecumseh Valley](https://open.spotify.com/track/5KJMVvokqnMn9ribqPQja9) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Our Mother the Mountain](https://open.spotify.com/album/7832JbG9mCtN2QBzwXOlPF) | 4:55 | 2021-07-06 |  |
 | [Tell Me When It’s Over](https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Tell Me When It’s Over](https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho) | 4:56 | 2021-07-06 |  |
 | [That Girl](https://open.spotify.com/track/4bw9zVI6u3W7ppL263JuZ5) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl](https://open.spotify.com/album/7wZmpvh4f6WIBftDnAdxCP) | 4:00 | 2021-07-06 |  |
+| [The Luckier You Get](https://open.spotify.com/track/14ZQasHWDm7cyntLlde6Y4) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/1xB96fepw7haNbBKLeoRIJ) | 3:01 | 2024-03-25 |  |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2021-07-06 |  |
 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 | 2021-07-06 |  |
 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 | 2021-07-06 |  |

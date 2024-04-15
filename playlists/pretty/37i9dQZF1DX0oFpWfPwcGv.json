@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 61081,
+  "num_followers": 61114,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "King Of The World",
         "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 354240,
       "name": "Spacer",
       "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Stand on the Word",
-        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
-      },
-      "artists": [
-        {
-          "name": "The Joubert Singers",
-          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Stand on the Word - Studio Version",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Stand on the Word - Studio Version",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -939,18 +939,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Slippin' and Dippin' (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/4C7hI3pzIpwHKGFKZ8Zlv0"
+        "name": "Lectric Lady",
+        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
       },
       "artists": [
         {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
         }
       ],
-      "duration_ms": 371706,
-      "name": "Casanova (Extended Version)",
-      "url": "https://open.spotify.com/track/5lBtPmqeU5On2phHxXT4Nw"
+      "duration_ms": 473240,
+      "name": "Love Is You (A Tom Moulton Mix)",
+      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -971,22 +975,18 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Lectric Lady",
-        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
+        "name": "Slippin' and Dippin' (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/4C7hI3pzIpwHKGFKZ8Zlv0"
       },
       "artists": [
         {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
         }
       ],
-      "duration_ms": 473240,
-      "name": "Love Is You (A Tom Moulton Mix)",
-      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
+      "duration_ms": 371706,
+      "name": "Casanova (Extended Version)",
+      "url": "https://open.spotify.com/track/5lBtPmqeU5On2phHxXT4Nw"
     },
     {
       "added_at": "2024-02-12 15:00:21",

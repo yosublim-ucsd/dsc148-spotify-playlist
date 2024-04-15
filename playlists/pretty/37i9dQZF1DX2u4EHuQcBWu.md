@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,710 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,767 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 68 | [Basta](https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [De Sur a Norte](https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X) | 3:37 |
 | 69 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
 | 70 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
-| 71 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
-| 72 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
-| 73 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 71 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
+| 72 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
+| 73 | [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 |
 | 74 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 75 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
 | 76 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 83 | [Niñx](https://open.spotify.com/track/5YdwhRwik4FMlzlU4RbYHo) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [La Lira Libertaria](https://open.spotify.com/album/7n57o4N90R6N9m6Sbgqn59) | 3:46 |
 | 84 | [Cumbia Valiente](https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:01 |
 | 85 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
-| 86 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
-| 87 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
-| 88 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
+| 86 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
+| 87 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
+| 88 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
 | 89 | [Se Me Ocurre](https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:02 |
 | 90 | [Día Negro](https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj) | [La Barranca](https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln) | [Tempestad](https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu) | 5:03 |
 | 91 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 |

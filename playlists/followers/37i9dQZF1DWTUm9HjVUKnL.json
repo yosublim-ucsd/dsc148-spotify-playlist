@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 219706,
+  "2024-04-15": 219724,
   "date_first_scraped": "2022-01-25",
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Complete Collection",
@@ -9127,10 +9127,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 209650,
       "name": "I Know - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2fwwNsssLPQYOdFN17APIg"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0nBKg7hExs1PYBebT6chBJ"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209650,
+      "name": "I Know - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5mNDw4tOkjI1OfHHzfiUuw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
+  "description": "This is Clara Rockmore. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Clara Rockmore",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 68560,
       "name": "Commentary 2",
       "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 63106,
       "name": "Commentary 6",
       "url": "https://open.spotify.com/track/37JMZzhw88Btj0MyUzNCms"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4sWMZ7MWDd2OZCD9FIEEos"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 242960,
       "name": "Pastorale (Arr. for Theremin, Piano & Cello Ensemble)",
       "url": "https://open.spotify.com/track/2aGCyYGpPlHrn0ydGqDZgz"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 127720,
       "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/2yQgxybv78OmXgcHxttdDp"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 745600,
       "name": "Theremin Concerto",
       "url": "https://open.spotify.com/track/164RuJFLGfWUnvLPZaoDEH"

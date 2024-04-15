@@ -4,7 +4,7 @@
 
 > Luister naar nieuwe songs en hits van dit moment! Cover: Imagine Dragons
 
-386 songs - 22 hr 23 min
+387 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-01-25 | 2024-02-11 |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |
-| [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-01-04 |  |
+| [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-01-04 | 2024-04-15 |
+| [Speed Of Light](https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:07 | 2024-04-08 |  |
 | [Spoiler Alert](https://open.spotify.com/track/14p2o2hh7wJuSoosGZsljx) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Spoiler Alert](https://open.spotify.com/album/1IAHly3YU8Z1i9BOQyJPyA) | 3:46 | 2023-03-02 | 2023-06-27 |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2023-11-19 |  |
 | [Stay Or Go](https://open.spotify.com/track/0le00Jf2v8KZRTWzugLhtC) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:45 | 2023-11-23 |  |

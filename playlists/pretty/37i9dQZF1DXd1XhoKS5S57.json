@@ -1,6 +1,6 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12606,
+  "num_followers": 12613,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Pieces of A Dream",
         "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
       },
@@ -803,34 +787,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Sleeping With Ghosts",
-        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "This Picture",
-      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -851,6 +819,38 @@
       "duration_ms": 336506,
       "name": "My Place",
       "url": "https://open.spotify.com/track/1NAyvpW70a9lxY0YlLWFV4"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "This Picture",
+      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+        "name": "Floril\u00e8ge",
+        "url": "https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Sla\u00ef",
+          "url": "https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Trick Me - Club Mix",
-      "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
+      "duration_ms": 217413,
+      "name": "Flamme - Radio Edit",
+      "url": "https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo"
     }
   ],
   "unique_name": "Top Hits France 2004",

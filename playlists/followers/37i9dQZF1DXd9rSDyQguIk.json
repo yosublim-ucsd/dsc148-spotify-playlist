@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 1251616,
+  "2024-04-15": 1252232,
   "date_first_scraped": "2022-05-26",
   "description": "Nothing but classic blues. Cover: B.B. King",
   "name": "Blues Classics",
@@ -655,7 +655,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 163440,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
@@ -1693,6 +1693,24 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 17875,
+  "2024-04-15": 17874,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -5283,7 +5283,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
@@ -14383,7 +14383,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -16589,6 +16589,24 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "album": {
+        "name": "Hoy Me Levante",
+        "url": "https://open.spotify.com/album/6iACmfNl8nh29Q2zyzU3eh"
+      },
+      "artists": [
+        {
+          "name": "Andrey Serrano",
+          "url": "https://open.spotify.com/artist/2yB8dRPQY4YUANJyGdqyzO"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Hoy Me Levante",
+      "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
     },
     {
       "album": {
@@ -30363,7 +30381,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 262179,
       "name": "Que Fluya",
       "url": "https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS"
@@ -33779,7 +33797,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -34029,7 +34047,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"

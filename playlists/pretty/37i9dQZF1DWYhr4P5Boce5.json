@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202981,
+  "num_followers": 203010,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Love Will Have the Final Word",
-        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "With Every Act of Love",
-      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "What We Want, What We Get",
         "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 228960,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Love Will Have the Final Word",
+        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "With Every Act of Love",
+      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Gave You My Heart",
-        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Gave You My Heart",
-      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "L O V E",
         "url": "https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 184175,
       "name": "L O V E",
       "url": "https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Gave You My Heart",
+        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Gave You My Heart",
+      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
       },
       "artists": [
         {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 214693,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+      "duration_ms": 219613,
+      "name": "Heaven (All Around You) - Acoustic",
+      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 219613,
-      "name": "Heaven (All Around You) - Acoustic",
-      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
+      "duration_ms": 214693,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226053,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Buy You Flowers",
-        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 142091,
-      "name": "Buy You Flowers",
-      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Buy You Flowers",
+        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 142091,
+      "name": "Buy You Flowers",
+      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "What A Heart Is Beating For",
         "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2031,38 +2031,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Kundi",
-        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Kundi",
-      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -2095,6 +2063,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "True Beauty",
         "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 228093,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Kundi",
+        "url": "https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Kundi",
+      "url": "https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "a thousand shores (acoustic)",
-        "url": "https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "a thousand shores - acoustic",
-      "url": "https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "a thousand shores (acoustic)",
+        "url": "https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "a thousand shores - acoustic",
+      "url": "https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Antagonista",
+        "url": "https://open.spotify.com/album/1rG3vXp9bSKK9slELad52Z"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 155881,
+      "name": "Antagonista",
+      "url": "https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
       },
@@ -2531,22 +2547,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Antagonista",
-        "url": "https://open.spotify.com/album/1rG3vXp9bSKK9slELad52Z"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 155881,
-      "name": "Antagonista",
-      "url": "https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "BEBECITA SHAWTY",
         "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
       },
@@ -2563,22 +2563,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+        "name": "Nice n Slow",
+        "url": "https://open.spotify.com/album/30KjESF2FdVdfgSZNT7bIg"
       },
       "artists": [
         {
-          "name": "AO1 Collective",
-          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+          "name": "JXHN PVUL",
+          "url": "https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU"
         },
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+      "duration_ms": 125714,
+      "name": "Nice n Slow",
+      "url": "https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG"
     }
   ],
   "unique_name": "Higher Love",

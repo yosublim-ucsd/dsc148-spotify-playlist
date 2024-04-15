@@ -4,7 +4,7 @@
 
 > It’s Only Rock 'n' Roll \(But We Like It\)! 🔥 Cover: The Beatles
 
-255 songs - 18 hr 31 min
+256 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/4Jdr7BkpqkkUwl2pFR0yVj) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire](https://open.spotify.com/album/4JfQDfKe4N5NCEyMP1mYT6) | 3:47 | 2021-02-23 | 2022-07-29 |
 | [Proud Mary](https://open.spotify.com/track/6mv76kovZyVB0UHbqUsee0) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(40th Anniversary Edition\)](https://open.spotify.com/album/04CGA9H5xjYGnGMB8cLYRv) | 3:07 | 2021-02-23 | 2022-07-29 |
 | [Proud Mary](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 3:07 | 2021-02-23 |  |
-| [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2021-02-23 |  |
+| [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2021-02-23 | 2024-04-15 |
 | [Radar Love](https://open.spotify.com/track/4Zau4QvgyxWiWQ5KQrwL43) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [The Long Versions \- Part One](https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD) | 6:26 | 2021-02-23 | 2022-07-29 |
 | [Rebel Rebel \- 1999 Remaster](https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(30th Anniversary\)](https://open.spotify.com/album/6JxxRxzjsOTtKVie29FTt2) | 4:29 | 2021-02-23 | 2022-07-29 |
 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 | 2023-10-19 |  |
@@ -191,6 +191,7 @@
 | [Roxanne \- Remastered 2003](https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour](https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ) | 3:11 | 2021-02-23 | 2022-07-29 |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2021-02-23 |  |
 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 | 2021-02-23 | 2022-11-13 |
+| [Sharp Dressed Man \(2008 Remaster\)](https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:18 | 2023-10-19 |  |
 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 | 2021-02-23 | 2023-09-19 |
 | [She Sells Sanctuary](https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Pure Cult](https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL) | 4:12 | 2021-02-23 | 2022-07-29 |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2021-02-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 130461,
+  "num_followers": 130496,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "Westbound EP",
+        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Separate Seasons",
+      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "\u96ea\u89e3",
         "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "Westbound EP",
-        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Separate Seasons",
-      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Arrows",
-        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 266729,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "Taichi Mukai",
-          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
-        },
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 223187,
-      "name": "Last Peace",
-      "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "27",
+        "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        },
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 223187,
+      "name": "Last Peace",
+      "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
     },
     {
       "added_at": "2024-03-05 17:56:07",

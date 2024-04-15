@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,815 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,844 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 37 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
 | 38 | [Dem Girlz \(feat\. BeatKing & Erica Banks\)](https://open.spotify.com/track/3YewQ5i0OfqgFo2zvVzasw) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 3:09 |
 | 39 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
-| 40 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
-| 41 | [Blow a Check](https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw) | [Zoey Dollaz](https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8) | [Who Don't Like Dollaz](https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ) | 3:13 |
+| 40 | [Blow a Check](https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw) | [Zoey Dollaz](https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8) | [Who Don't Like Dollaz](https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ) | 3:13 |
+| 41 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
 | 42 | [The Ave in You](https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Lil Mont from the Ave](https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X) | 2:56 |
 | 43 | [Star Dust](https://open.spotify.com/track/7GlMHZc2cXup1pqPDQ90nR) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO) | [Friends](https://open.spotify.com/album/5MnMSLhvO7B49anDnzQUwO) | 3:04 |
 | 44 | [Drip](https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj) | [Kiddo Marv](https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o), [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Drip](https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad) | 3:13 |

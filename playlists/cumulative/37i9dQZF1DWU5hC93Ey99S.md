@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-497 songs - 1 day 2 hr 43 min
+498 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-02 | 2024-03-04 |
 | [Try](https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Try](https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5) | 3:47 | 2023-11-30 | 2024-01-06 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 | 2023-04-13 | 2023-12-21 |
-| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/4s7ZDtf7sXp2rtWfZHrnwc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:27 | 2024-02-29 |  |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/44zHtICHoRfBaxfRgiSrKL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:27 | 2024-04-11 |  |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/4s7ZDtf7sXp2rtWfZHrnwc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 4:27 | 2024-02-29 | 2024-04-15 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5nONSliAVb1xEaMfo2U8h6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 4:27 | 2023-12-14 | 2024-03-06 |
 | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/track/1Xx5u7h6xIuMKDCnSeJSve) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/album/3qUeV4hq55UtpDXUcGasm1) | 4:27 | 2023-05-16 |  |
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-04-27 | 2024-01-06 |

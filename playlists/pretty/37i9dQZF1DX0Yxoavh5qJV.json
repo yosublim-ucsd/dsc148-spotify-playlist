@@ -1,6 +1,6 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5620995,
+  "num_followers": 5620269,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 203653,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 84986,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "fruitcake",
         "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 153099,
       "name": "A Nonsense Christmas",
       "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 84986,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 175986,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 254706,
       "name": "Happy Xmas (War Is Over)",
       "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "I Wish It Could Be Christmas Everyday",
-        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
-      },
-      "artists": [
-        {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "I Wish It Could Be Christmas Everyday",
-      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Make It To Christmas",
         "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "I Wish It Could Be Christmas Everyday",
+        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
+      },
+      "artists": [
+        {
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "I Wish It Could Be Christmas Everyday",
+      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
-        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "What Christmas Means To Me",
-      "url": "https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 122160,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "It's Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
         "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 168826,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
     },
     {
       "added_at": "2023-12-18 05:57:25",

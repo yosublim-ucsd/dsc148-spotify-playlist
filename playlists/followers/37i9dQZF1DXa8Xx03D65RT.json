@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 440669,
+  "2024-04-15": 440655,
   "date_first_scraped": "2022-07-19",
   "description": "La sutileza del piano para enriquecer tu espacio.",
   "name": "Piano de Fondo",
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 156996,
       "name": "Amble",
       "url": "https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V"
@@ -8255,7 +8255,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 164000,
       "name": "Nirha",
       "url": "https://open.spotify.com/track/0SK8aridaHO485I2iJD35e"
@@ -9123,7 +9123,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Paragon",
       "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
@@ -13855,6 +13855,24 @@
       "duration_ms": 123628,
       "name": "Whatever is left",
       "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
+    },
+    {
+      "album": {
+        "name": "When I look at you",
+        "url": "https://open.spotify.com/album/1tWBD3z06MedKPwvKThkUx"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "When I look at you",
+      "url": "https://open.spotify.com/track/4Pp19M88QCTYhHSlt9GFmB"
     },
     {
       "album": {

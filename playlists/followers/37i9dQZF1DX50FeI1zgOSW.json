@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 9699,
+  "2024-04-15": 9747,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -495,6 +495,28 @@
     {
       "album": {
         "name": "Boomer Uncle",
+        "url": "https://open.spotify.com/album/4tIElD5GwZ09DgpjkdBuT2"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Godson Paul",
+          "url": "https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd"
+        },
+        {
+          "name": "Thee Raa",
+          "url": "https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222375,
+      "name": "Boomer Uncle",
+      "url": "https://open.spotify.com/track/2b1GmT7aQW5ZfO0KO4VrZz"
+    },
+    {
+      "album": {
+        "name": "Boomer Uncle",
         "url": "https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA"
       },
       "artists": [
@@ -509,7 +531,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"

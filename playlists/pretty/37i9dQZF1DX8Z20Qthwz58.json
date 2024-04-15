@@ -1,6 +1,6 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 76692,
+  "num_followers": 76741,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-02 08:52:46",
       "album": {
-        "name": "LISTEN 035 Restless",
-        "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
-    },
-    {
-      "added_at": "2024-04-02 08:52:46",
-      "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 170400,
       "name": "COOL (Your rainbow)",
       "url": "https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb"
+    },
+    {
+      "added_at": "2024-04-02 08:52:46",
+      "album": {
+        "name": "LISTEN 035 Restless",
+        "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
     },
     {
       "added_at": "2024-04-02 08:52:46",

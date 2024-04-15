@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 221481,
+  "num_followers": 221494,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDc0MWNiOGZhNjBhYmY3Nzc3NDNiZDA5YTYxYzIwOTVk",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDEwYjM0OTQ3NGVkZjM2NzdiMTRhMTc1ZmM5MjQ0NTUx",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,26 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
       "added_at": null,
@@ -1059,30 +1079,6 @@
       "duration_ms": 137448,
       "name": "Light It Up (with Tyga & Chris Brown)",
       "url": "https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Fat Trel",
-          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Lights Out (feat. Fat Trel)",
-      "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
     }
   ],
   "unique_name": "This Is Tyga",

@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 43574,
+  "2024-04-15": 43647,
   "date_first_scraped": "2022-02-22",
   "description": "Chilled instrumentals to get you focused and ready for the day. ",
   "name": "Morning Study",
@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Dear Earth, I'm Lost",
+        "url": "https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "I Thought About Death, About Time",
+      "url": "https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n"
+    },
+    {
+      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -839,7 +857,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 120000,
       "name": "I Thought About Death, About Time",
       "url": "https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM"

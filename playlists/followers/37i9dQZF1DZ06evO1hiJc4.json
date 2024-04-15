@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 141642,
+  "2024-04-15": 141674,
   "date_first_scraped": "2023-12-19",
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
   "name": "This Is Labrinth",
@@ -135,6 +135,24 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
+    },
+    {
+      "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69153,
+      "name": "Benji Puts His Mum To Rest",
+      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
     },
     {
       "album": {
@@ -729,7 +747,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"

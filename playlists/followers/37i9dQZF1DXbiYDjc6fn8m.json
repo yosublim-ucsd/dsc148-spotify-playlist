@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 113136,
+  "2024-04-15": 113148,
   "date_first_scraped": "2023-10-03",
   "description": "Hora de dan\u00e7ar com os grandes hits da m\u00fasica eletr\u00f4nica/dance! Foto: Calvin Harris",
   "name": "Gold BPM",
@@ -1175,10 +1175,32 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 220093,
       "name": "Shining star (Gianluca Motta edit)",
       "url": "https://open.spotify.com/track/3shPyqaRtM5pisiQMjsx0I"
+    },
+    {
+      "album": {
+        "name": "Shining Star",
+        "url": "https://open.spotify.com/album/7bnmeEp0k9uronATYwYzhh"
+      },
+      "artists": [
+        {
+          "name": "Get Far",
+          "url": "https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA"
+        },
+        {
+          "name": "Gianluca Motta",
+          "url": "https://open.spotify.com/artist/1hmDiYoHGOAF1AIxYpBG1q"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Shining Star - Gianluca Motta Edit",
+      "url": "https://open.spotify.com/track/2VMxUaruqkrEVRzCUgmrUy"
     },
     {
       "album": {

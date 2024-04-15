@@ -11,7 +11,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 1 | [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 |
 | 2 | [Muéstrame Tu Gloria](https://open.spotify.com/track/14BFOwWp5gp0AxgoxVldZe) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:41 |
 | 3 | [A Reforma](https://open.spotify.com/track/37mqs99CoVLs3q4MQjHWCp) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:44 |
-| 4 | [Vai virar TBT](https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai virar TBT](https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm) | 3:06 |
+| 4 | [Vai Virar TBT](https://open.spotify.com/track/1fp4xowigojAnwQCrpiXlo) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai Virar TBT](https://open.spotify.com/album/1TolV8p8408TWzppALEcB1) | 3:06 |
 | 5 | [Rosa de Saron](https://open.spotify.com/track/5XfnU51P1zZH68aFGgesn1) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:29 |
 | 6 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
 | 7 | [Mi Amado](https://open.spotify.com/track/1jeSylgKUYSYQBU00byXTr) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 48 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 49 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 
-Snapshot ID: `Mjg1NTEwNzIsMDAwMDAwMDBhMGVlOGQxNGU4YjFiYjA4MGFmODlhOWZlOGI3YTY5Mw==`
+Snapshot ID: `Mjg1NTI2MzAsMDAwMDAwMDBjY2JjMDBlMTc4NGUxMThjMDU0OWEwMmI5NzgwYTgxMw==`

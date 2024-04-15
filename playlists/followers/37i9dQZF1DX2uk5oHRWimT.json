@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 343203,
+  "2024-04-15": 343185,
   "date_first_scraped": "2021-12-21",
   "description": "Have yourself a little cozy Christmas.",
   "name": "Acoustic Christmas",
@@ -3501,6 +3501,24 @@
     {
       "album": {
         "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm"
+      },
+      "artists": [
+        {
+          "name": "Lewis & Leigh",
+          "url": "https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
         "url": "https://open.spotify.com/album/3jqnBd9kMYNQfh1WVGJZpd"
       },
       "artists": [
@@ -3533,32 +3551,6 @@
       "duration_ms": 95000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3pX0dLmn1PLXlrxub9ZcYE"
-    },
-    {
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3OSaz8W8p6TCSw9pv8Wtgm"
-      },
-      "artists": [
-        {
-          "name": "Lewis & Leigh",
-          "url": "https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A"
-        },
-        {
-          "name": "Al Lewis",
-          "url": "https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7"
-        },
-        {
-          "name": "Alva Leigh",
-          "url": "https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 94000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1iJ43ZraxrD7MRYEQsOCGF"
     },
     {
       "album": {

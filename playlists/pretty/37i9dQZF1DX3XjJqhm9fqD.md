@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,653 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,689 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 73 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
 | 74 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 | 75 | [Bal Tout](https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Bal Tout](https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn) | 3:11 |
-| 76 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
-| 77 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
-| 78 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 76 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
+| 77 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 78 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
 | 79 | [Se Ou M Chwazi](https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim) | [D\-Singer](https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf), [Rob Vital](https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY) | [Se Ou M Chwazi](https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx) | 3:38 |
 | 80 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
 | 81 | [Nou Pare](https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 3:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 96 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 |
 | 97 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 98 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
-| 99 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
-| 100 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
+| 99 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
+| 100 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 
 Snapshot ID: `MTcxMjkyNjQ0NCwwMDAwMDAwMDczMDQ3ZjI5ZWFkYmMwZGVmNDlmOTEwYjQ1ZjkxNTkw`

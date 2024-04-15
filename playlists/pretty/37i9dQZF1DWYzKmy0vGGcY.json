@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 296828,
+  "num_followers": 297004,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Horizontal (Deluxe Version)",
         "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198453,
       "name": "Words",
       "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 157586,
       "name": "Where The Boys Are",
       "url": "https://open.spotify.com/track/70UvKFI48DAQ2suS58bu5l"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Hey Paula",
-        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
-      },
-      "artists": [
-        {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
-        }
-      ],
-      "duration_ms": 146944,
-      "name": "Hey Paula",
-      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Drifters: Essentials",
         "url": "https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
-        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
+        "name": "Hey Paula",
+        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
         }
       ],
-      "duration_ms": 259079,
-      "name": "Love In Vain - Remastered 2019",
-      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
+      "duration_ms": 146944,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1883,6 +1867,22 @@
       "duration_ms": 122120,
       "name": "I Go To Sleep",
       "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
+        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Love In Vain - Remastered 2019",
+      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
     },
     {
       "added_at": "2022-05-30 13:00:37",

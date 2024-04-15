@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 675509,
+  "num_followers": 675590,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Gravity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Under Pressure",
-        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 262906,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 284935,
-      "name": "The Only Exception - Spotify Single",
-      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Uninvited",
         "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
       },
@@ -2251,6 +2251,22 @@
       "duration_ms": 259689,
       "name": "Uninvited",
       "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "WILLOW: Live At Electric Lady",
         "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
-      },
-      "artists": [
-        {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2419,6 +2403,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "B-Sides & Rarities",
         "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
       },
@@ -2431,26 +2431,6 @@
       "duration_ms": 330653,
       "name": "No Ordinary Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "White Room (feat. Jacoby Shaddix)",
-        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
-        }
-      ],
-      "duration_ms": 245757,
-      "name": "White Room (feat. Jacoby Shaddix)",
-      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2483,6 +2463,26 @@
       "duration_ms": 213878,
       "name": "ROCKIN' IN THE FREE WORLD",
       "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "White Room (feat. Jacoby Shaddix)",
+        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        }
+      ],
+      "duration_ms": 245757,
+      "name": "White Room (feat. Jacoby Shaddix)",
+      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
     },
     {
       "added_at": "2024-02-12 05:08:07",

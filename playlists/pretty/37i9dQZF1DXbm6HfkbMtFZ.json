@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 715422,
+  "num_followers": 715521,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "From 2 to 3",
-        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Give Up Baby Go",
-      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "From 2 to 3",
+        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Give Up Baby Go",
+      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Jinji Kikko",
-        "url": "https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN"
-      },
-      "artists": [
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 400560,
-      "name": "My Jinji",
-      "url": "https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 216720,
       "name": "Don't You Evah",
       "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Jinji Kikko",
+        "url": "https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 400560,
+      "name": "My Jinji",
+      "url": "https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Gallows",
         "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -999,38 +1015,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1223,6 +1207,22 @@
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1471,6 +1455,22 @@
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "You Don't Want Me",
         "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 265546,
       "name": "You Don\u2019t Want Me",
       "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Gold Past Life",
-      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Try and Love",
         "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 263338,
       "name": "It's Not Easy",
       "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Gold Past Life",
+      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1883,6 +1883,30 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "wait outside",
+        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "wait outside",
+      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -1911,30 +1935,6 @@
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "wait outside",
-        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "wait outside",
-      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
     },
     {
       "added_at": "2024-04-10 19:17:24",

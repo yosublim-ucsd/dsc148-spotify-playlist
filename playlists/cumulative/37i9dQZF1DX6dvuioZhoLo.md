@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-229 songs - 13 hr 34 min
+230 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Heart of Somebody](https://open.spotify.com/track/1qSllfUSfvfH0oDHQqROoK) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 | 2022-04-01 |  |
 | [Heartbreak Blues](https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 4:07 | 2021-11-12 | 2022-07-29 |
-| [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 | 2023-10-06 |  |
+| [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 | 2023-10-06 | 2024-04-15 |
 | [Hell's Bells](https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3) | [Lauren Shera](https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R) | [Gold and Rust](https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T) | 4:47 | 2022-04-01 | 2022-04-20 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-21 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-18 | 2023-04-30 |
@@ -236,6 +236,7 @@
 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 |  |
 | [You Never Can Tell \(C'est la Vie\) \- 2003 Remaster](https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 3:28 | 2022-04-01 |  |
 | [You're Leaving Me](https://open.spotify.com/track/3nIU8jZVOqFv88bQbMrrNF) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [You're Leaving Me](https://open.spotify.com/album/33hGtYb71bdoDzQoJ4RIYP) | 2:29 | 2022-02-18 | 2022-07-28 |
+| [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/6a274P0LOvIsfZQOnQVQWA) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/57H3WWiMSVqGlwbEwscbcL) | 3:49 | 2023-10-06 |  |
 | [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:49 | 2021-11-12 | 2024-04-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,667 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 30 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 |
 | 31 | [El Meneito](https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:41 |
 | 32 | [Las Nieves de Enero](https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:48 |
-| 33 | [La Tiznada](https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 3:15 |
-| 34 | [El Toro Zacatecano](https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:27 |
-| 35 | [El Moro de Cumpas \- Estilo Tierra Caliente](https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:10 |
+| 33 | [El Moro de Cumpas \- Estilo Tierra Caliente](https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:10 |
+| 34 | [La Tiznada](https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 3:15 |
+| 35 | [El Toro Zacatecano](https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:27 |
 | 36 | [El Cotorro Enamorado \- Banda Sinaloense](https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [25 Aniversario Grandes Exitos](https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan) | 2:58 |
-| 37 | [Rumbo al Sur](https://open.spotify.com/track/1UobfNlX7O6d15idejLEBj) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [Ni en Defensa Propia, Vol\. 3](https://open.spotify.com/album/7CsBGFFt21lKALK1IStoHB) | 2:00 |
-| 38 | [Solo Cumbia](https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:12 |
-| 39 | [Los Gringos](https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:25 |
-| 40 | [Debajo de los Laureles \- Estilo Tierra Caliente](https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:17 |
-| 41 | [Por Fin un Caminito](https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:08 |
+| 37 | [Por Fin un Caminito](https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:08 |
+| 38 | [Debajo de los Laureles \- Estilo Tierra Caliente](https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:17 |
+| 39 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 |
+| 40 | [Rumbo al Sur](https://open.spotify.com/track/1UobfNlX7O6d15idejLEBj) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [Ni en Defensa Propia, Vol\. 3](https://open.spotify.com/album/7CsBGFFt21lKALK1IStoHB) | 2:00 |
+| 41 | [Solo Cumbia](https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:12 |
 | 42 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 |
-| 43 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 |
+| 43 | [Los Gringos](https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:25 |
 | 44 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
 | 45 | [Polvo y Olvido \- Estilo Tierra Caliente](https://open.spotify.com/track/1elNKL1K8OrcXYNBpgTweQ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:27 |
 | 46 | [El Remedio \- Estilo Tierra Caliente](https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [Serenata \- Estilo Tierra Caliente](https://open.spotify.com/track/4sjbR5EbyRz6MHBeF7zRJR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 1:57 |
 | 50 | [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDgwOTJhY2E3OTY3N2E5YzQ3YjRjNDg2MjA0ZTY1YmVh`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDRmNTgyODRmNWEyNzZkYjg2YTJlN2JjOGMxZTQxMTJk`

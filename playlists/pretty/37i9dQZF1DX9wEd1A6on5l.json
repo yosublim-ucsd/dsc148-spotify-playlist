@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 51342,
+  "num_followers": 51371,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Terminator (feat. Young Jonn)",
         "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 234024,
       "name": "Terminator (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Too Busy To Be Bae",
-        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "Too Busy To Be Bae",
-      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Too Busy To Be Bae",
+        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 177203,
+      "name": "Too Busy To Be Bae",
+      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Pepe",
-        "url": "https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x"
+        "name": "Puff & Pass",
+        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
       "artists": [
         {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 133565,
-      "name": "Pepe",
-      "url": "https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk"
+      "duration_ms": 161462,
+      "name": "Puff & Pass",
+      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
     },
     {
       "added_at": "2024-04-12 00:01:00",

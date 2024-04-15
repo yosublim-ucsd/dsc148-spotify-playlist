@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 51293,
+  "num_followers": 51308,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDQxMThlOTkyNzM0MTA2NDk1ZWNjYzM3YTRlMjI4YjU4",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDFlYTMxMzZhZmY4ZDhiZDA1NzcyNzdjZGViZWQ1NDY0",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX"
+      "duration_ms": 60626,
+      "name": "Sketch 1",
+      "url": "https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 60626,
-      "name": "Sketch 1",
-      "url": "https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un"
+      "duration_ms": 161200,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX"
     },
     {
       "added_at": null,

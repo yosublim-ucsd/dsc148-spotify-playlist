@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 857313,
+  "2024-04-15": 857888,
   "date_first_scraped": "2022-06-02",
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
   "name": "This Is Carin Leon",
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 203147,
       "name": "Cuando Toca Mi Piel - En Vivo",
       "url": "https://open.spotify.com/track/6z17iqYbnNFwUJ4wEsMbUE"
@@ -2523,6 +2541,28 @@
       "duration_ms": 313000,
       "name": "Una Noche M\u00e1s Contigo - En Vivo",
       "url": "https://open.spotify.com/track/4GWAIhCLHU3Az9DwkINaWL"
+    },
+    {
+      "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
     },
     {
       "album": {

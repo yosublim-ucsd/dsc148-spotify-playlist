@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 2696,
+  "num_followers": 2697,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDdkNTRiZDU0ZTU5NDVjNmFjYzkzNGYwZmQ3ZjliNjVh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDY5ZTk4ZGJmZGUwYzYzM2IzMWNjNDcxNDQxMTU3MjEz",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bitch Duh (Remix)",
+        "url": "https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Bitch Duh (Remix)",
+      "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
         "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
@@ -167,26 +195,6 @@
       "duration_ms": 130098,
       "name": "In Person (With OG Parker feat. Tyga)",
       "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Maneuver (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
       "added_at": null,
@@ -223,6 +231,26 @@
       "duration_ms": 124904,
       "name": "Real Bitch (feat. Gloss Up)",
       "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
       "added_at": null,
@@ -451,30 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitch Duh (Remix)",
-        "url": "https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
-          "name": "Dreezy",
-          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
-        },
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 172235,
-      "name": "Bitch Duh (Remix)",
-      "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
       "duration_ms": 152094,
       "name": "Young and Ratchet",
       "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "2 Tone",
-      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 145233,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 111158,
       "name": "Basic",
       "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,

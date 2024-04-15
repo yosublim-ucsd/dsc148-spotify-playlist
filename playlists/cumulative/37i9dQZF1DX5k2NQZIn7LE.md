@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-120 songs - 13 hr 20 min
+121 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aankharli Pharookai \- Coke Studio Season 8](https://open.spotify.com/track/7izadKEukVlB13gS28kYlq) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Aankharli Pharookai \(Coke Studio Season 8\)](https://open.spotify.com/album/4ZFSUUpgbSTBbDUufKZo3I) | 6:12 | 2022-10-12 |  |
 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 | 2022-03-15 | 2022-07-29 |
 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 | 2022-03-15 |  |
+| [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
 | [Aurangzeb](https://open.spotify.com/track/48wMVinMbKbym6Ql6eSJx7) | [Mughal\-E\-Funk](https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 4:42 | 2022-03-15 |  |
 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 | 2022-03-15 |  |
 | [Baazi](https://open.spotify.com/track/21jdKUCgXSukh8jRRxIObL) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 7:14 | 2022-03-15 | 2024-04-14 |

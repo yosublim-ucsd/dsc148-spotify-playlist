@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 602048,
+  "num_followers": 602174,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 169254,
-      "name": "Hammers and Nails",
-      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201506,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 169254,
+      "name": "Hammers and Nails",
+      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "27 Ways",
         "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 108361,
       "name": "Dime in My Pocket",
       "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "When the River Took Flight",
         "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186213,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Put Your Needle Down",
         "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 282133,
       "name": "Iuka",
       "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2024-02-16 19:57:55",

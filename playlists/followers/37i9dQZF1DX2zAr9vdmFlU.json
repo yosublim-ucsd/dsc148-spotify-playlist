@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 432728,
+  "2024-04-15": 432777,
   "date_first_scraped": "2021-12-28",
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
   "name": "Latin Dinner",
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
@@ -3101,7 +3101,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 230556,
       "name": "No Pasa Na",
       "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"

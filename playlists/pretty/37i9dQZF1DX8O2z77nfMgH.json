@@ -1,33 +1,13 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Arc\u00e1ngel y Peso Pluma",
-  "num_followers": 903843,
+  "num_followers": 903859,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGVlYmYxNzFjZjk0M2VkYWJhYzg1OGM2YzA0Mjc0YWZi",
+  "snapshot_id": "MTcxMzEzMTU5NCwwMDAwMDAwMDEwOTdjZjFhMGZkOGYwZTlkZjI4MTMyODY2ZDhiZTMy",
   "tracks": [
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "PESO COMPLETO",
-        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "PESO COMPLETO",
-      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
-    },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
@@ -83,18 +63,42 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "buenos aires",
-        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 203114,
-      "name": "buenos aires",
-      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -111,6 +115,22 @@
       "duration_ms": 189013,
       "name": "Por Ti Conoc\u00ed el Amor",
       "url": "https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -139,6 +159,66 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "MERCEDES (feat. Oscar Maydon)",
+        "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "MERCEDES (feat. Oscar Maydon)",
+      "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "CADA VEZ QUE",
+        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "duration_ms": 151417,
+      "name": "CADA VEZ QUE",
+      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "STORIES VERDES",
+        "url": "https://open.spotify.com/album/17cL34KfGlykdU2FnRnegS"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 140508,
+      "name": "STORIES VERDES",
+      "url": "https://open.spotify.com/track/2igZmkvi3nALgg4EbrrsbB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Una Noche",
         "url": "https://open.spotify.com/album/2mu4vhFe6W6WQU1wnw2RLc"
       },
@@ -155,54 +235,50 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "A POKA LUZ",
-        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 144000,
-      "name": "A POKA LUZ",
-      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
     },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+        "name": "Enrolar (Fantastic Four Remix)",
+        "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Bahamas",
-        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
-      "duration_ms": 223728,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+      "duration_ms": 303582,
+      "name": "Enrolar - Fantastic Four Remix",
+      "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -227,38 +303,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+        "name": "Mil Preguntas",
+        "url": "https://open.spotify.com/album/5pArplEHrE5U2foVlEnFfn"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "MERCEDES (feat. Oscar Maydon)",
-        "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 168360,
-      "name": "MERCEDES (feat. Oscar Maydon)",
-      "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+      "duration_ms": 166973,
+      "name": "Mil Preguntas",
+      "url": "https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -279,6 +339,178 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Se\u00f1or Amor",
+        "url": "https://open.spotify.com/album/4nmpgsTQlqbRT6DCKgroIG"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Wise \"the Gold Pen\"",
+          "url": "https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1"
+        }
+      ],
+      "duration_ms": 256781,
+      "name": "Se\u00f1or Amor",
+      "url": "https://open.spotify.com/track/1wz3L1Kbcv5Zz8Eco36Fua"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "LADRONA - con Mario Luis",
+        "url": "https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "LADRONA - con Mario Luis",
+      "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Quieres Quedarte?",
+        "url": "https://open.spotify.com/album/38YYUfaOtnVGvdxib9tJVv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Quieres Quedarte?",
+      "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "buenos aires",
+        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "LA LECHE MATERNA",
+        "url": "https://open.spotify.com/album/4WubZiMwYY62xswcYmd8TO"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 184938,
+      "name": "LA LECHE MATERNA",
+      "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/7mDsBQmtx9hBoPBOWeaLhA"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "999",
+      "url": "https://open.spotify.com/track/48kQ0yFpqszCTRbUrCq9FH"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -323,62 +555,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lujo y Detalle",
-        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Lujo y Detalle",
-      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Se\u00f1or Amor",
-        "url": "https://open.spotify.com/album/4nmpgsTQlqbRT6DCKgroIG"
-      },
-      "artists": [
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Wise \"the Gold Pen\"",
-          "url": "https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1"
-        }
-      ],
-      "duration_ms": 256781,
-      "name": "Se\u00f1or Amor",
-      "url": "https://open.spotify.com/track/1wz3L1Kbcv5Zz8Eco36Fua"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Cuando Te Tengo Cerca (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN"
       },
@@ -395,82 +571,6 @@
       "duration_ms": 330026,
       "name": "Cuando Te Tengo Cerca - Sesi\u00f3n en Vivo",
       "url": "https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "LA LECHE MATERNA",
-        "url": "https://open.spotify.com/album/4WubZiMwYY62xswcYmd8TO"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "LA LECHE MATERNA",
-      "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "CADA VEZ QUE",
-        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
-        },
-        {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-        }
-      ],
-      "duration_ms": 151417,
-      "name": "CADA VEZ QUE",
-      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "999",
-        "url": "https://open.spotify.com/album/7mDsBQmtx9hBoPBOWeaLhA"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "999",
-      "url": "https://open.spotify.com/track/48kQ0yFpqszCTRbUrCq9FH"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Mil Preguntas",
-        "url": "https://open.spotify.com/album/5pArplEHrE5U2foVlEnFfn"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Mil Preguntas",
-      "url": "https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -495,82 +595,6 @@
       "duration_ms": 223211,
       "name": "MALDITA QL",
       "url": "https://open.spotify.com/track/0fVDSMzzqEMfvat9hiI8JD"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "LADRONA - con Mario Luis",
-        "url": "https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 177994,
-      "name": "LADRONA - con Mario Luis",
-      "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "STORIES VERDES",
-        "url": "https://open.spotify.com/album/17cL34KfGlykdU2FnRnegS"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 140508,
-      "name": "STORIES VERDES",
-      "url": "https://open.spotify.com/track/2igZmkvi3nALgg4EbrrsbB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Enrolar (Fantastic Four Remix)",
-        "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Swift 047",
-          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
-        }
-      ],
-      "duration_ms": 303582,
-      "name": "Enrolar - Fantastic Four Remix",
-      "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -763,30 +787,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Quieres Quedarte?",
-        "url": "https://open.spotify.com/album/38YYUfaOtnVGvdxib9tJVv"
-      },
-      "artists": [
-        {
-          "name": "Tommy Boysen",
-          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Quieres Quedarte?",
-      "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "VA SER MI A\u00d1O",
         "url": "https://open.spotify.com/album/5bsfajhaMQq1XGHn9ada3Z"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 164000,
       "name": "VA SER MI A\u00d1O",
       "url": "https://open.spotify.com/track/2hagSI7Lt07szIcevwKcO0"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "DESTINO 2014",
+        "url": "https://open.spotify.com/album/158rl7QY23Qai0UUVrwtuz"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "BCN",
+      "url": "https://open.spotify.com/track/3HCAe793DLu4Vz1RwIV9Qd"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 202736,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/4K8AqmWpvzezHIcCiSd882"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "DESTINO 2014",
-        "url": "https://open.spotify.com/album/158rl7QY23Qai0UUVrwtuz"
-      },
-      "artists": [
-        {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "BCN",
-      "url": "https://open.spotify.com/track/3HCAe793DLu4Vz1RwIV9Qd"
     },
     {
       "added_at": "2024-04-12 04:00:00",

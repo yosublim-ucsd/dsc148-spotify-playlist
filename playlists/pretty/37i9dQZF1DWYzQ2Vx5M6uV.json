@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 115076,
+  "num_followers": 115092,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,26 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2024-04-05 05:42:37",
@@ -375,26 +379,22 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         },
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2024-04-05 05:42:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
         "name": "Don't Rush (Remix)",
         "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-04-05 05:42:37",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
         "name": "Dumebi (Becky G Remix)",
         "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 187926,
       "name": "Dumebi - Becky G Remix",
       "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2024-04-05 05:42:37",

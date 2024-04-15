@@ -1,5 +1,5 @@
 {
-  "2024-04-14": 118004,
+  "2024-04-15": 118003,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Austria.",
   "name": "Top 50 - Austria",
@@ -2470,6 +2470,28 @@
     },
     {
       "album": {
+        "name": "ANNA",
+        "url": "https://open.spotify.com/album/07b2lomybYmcTkaIcakRA3"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Heino",
+          "url": "https://open.spotify.com/artist/1W35UHuYsAHko9w0wllyaX"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160272,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/6zSk48JqooBxGmg6mDLoFW"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
       },
@@ -3121,6 +3143,28 @@
       "duration_ms": 156515,
       "name": "Augen wieder Rot",
       "url": "https://open.spotify.com/track/6c4KxOjSPkXzXmbruuMd8l"
+    },
+    {
+      "album": {
+        "name": "Augenma\u00df (feat. Pashanim)",
+        "url": "https://open.spotify.com/album/0psblIHDZ6SDsjizzAUwpI"
+      },
+      "artists": [
+        {
+          "name": "Stickle",
+          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "Augenma\u00df (feat. Pashanim)",
+      "url": "https://open.spotify.com/track/4H1N6Ej2EcgDm58aQIsuvP"
     },
     {
       "album": {
@@ -4099,7 +4143,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 147774,
       "name": "Baraba",
       "url": "https://open.spotify.com/track/6zAFGHvvVf3sfmNq8q9QFj"
@@ -4479,7 +4523,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -6907,7 +6951,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -8639,7 +8683,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -11563,7 +11607,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 153408,
       "name": "Eredivisie",
       "url": "https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2"
@@ -11829,6 +11873,28 @@
       "duration_ms": 138135,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2"
+    },
+    {
+      "album": {
+        "name": "Eurosport",
+        "url": "https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Eurosport",
+      "url": "https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV"
     },
     {
       "album": {
@@ -13772,6 +13838,24 @@
     },
     {
       "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/48gcRg29MZjBOr08WN96Vi"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152475,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/6lRl37DnoXKNOJTti77tE1"
+    },
+    {
+      "album": {
         "name": "Gad",
         "url": "https://open.spotify.com/album/6c5nd7pqMPv1fWFxPn0r9P"
       },
@@ -14165,6 +14249,24 @@
       "duration_ms": 135883,
       "name": "gensehaut",
       "url": "https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M"
+    },
+    {
+      "album": {
+        "name": "Gest\u00e4ndnis",
+        "url": "https://open.spotify.com/album/1XFDJO0I4f1QnqF77KGjoV"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240032,
+      "name": "Gest\u00e4ndnis",
+      "url": "https://open.spotify.com/track/7AGtu4Lg1qMeky9XCkWu9h"
     },
     {
       "album": {
@@ -14897,6 +14999,24 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "album": {
+        "name": "GOLF R FREESTYLE",
+        "url": "https://open.spotify.com/album/0muYATiSO8VD8aNbUqGXdF"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122160,
+      "name": "GOLF R FREESTYLE",
+      "url": "https://open.spotify.com/track/4l11vPYTqYrq9wjcO2pHDc"
     },
     {
       "album": {
@@ -16315,7 +16435,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -19793,7 +19913,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
@@ -20115,7 +20235,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -20457,6 +20577,24 @@
       "duration_ms": 159374,
       "name": "Lea",
       "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+    },
+    {
+      "album": {
+        "name": "Leben lang",
+        "url": "https://open.spotify.com/album/1q0bHzvyiDY0cEH6ymaWs5"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132005,
+      "name": "Leben lang",
+      "url": "https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ"
     },
     {
       "album": {
@@ -26068,6 +26206,24 @@
     },
     {
       "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8"
+    },
+    {
+      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -28752,6 +28908,54 @@
     },
     {
       "album": {
+        "name": "Pistoleta",
+        "url": "https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        },
+        {
+          "name": "ilo 7araga",
+          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133765,
+      "name": "Pistoleta",
+      "url": "https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf"
+    },
+    {
+      "album": {
+        "name": "Plapper nicht",
+        "url": "https://open.spotify.com/album/7wmtNZZ4DYyAjp168hz6U4"
+      },
+      "artists": [
+        {
+          "name": "Shahri",
+          "url": "https://open.spotify.com/artist/3JyLQjTjy7dYnqQzoG2jnq"
+        },
+        {
+          "name": "Sama",
+          "url": "https://open.spotify.com/artist/3urMypjH7SvcJRbR1fMFw4"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161636,
+      "name": "Plapper nicht",
+      "url": "https://open.spotify.com/track/1i6zfWUM5pOKn896EB0b4d"
+    },
+    {
+      "album": {
         "name": "PLAYA'S CIRCLE",
         "url": "https://open.spotify.com/album/0rE1mS53R8ACLjHbeQKCNl"
       },
@@ -29215,6 +29419,24 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
+        "name": "PRETTY LIL SHAWTY",
+        "url": "https://open.spotify.com/album/2gwcLxt9EWRoFltgOeK4m5"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "PRETTY LIL SHAWTY",
+      "url": "https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy"
     },
     {
       "album": {
@@ -34245,7 +34467,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -36027,7 +36249,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -38577,7 +38799,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-14",
       "duration_ms": 154365,
       "name": "Walou Diploma",
       "url": "https://open.spotify.com/track/27EXNwLk86McXpIr85kvjk"

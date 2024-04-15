@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=RwdPtw5wQ\-Chp4dkZviL4A">Shallipopi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,330 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,766 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

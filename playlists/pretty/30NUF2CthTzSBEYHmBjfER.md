@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 
 > The best Hip\-Hop and R&amp;B, includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 56,336 likes - 98 songs - 7 hr 2 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 56,372 likes - 98 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

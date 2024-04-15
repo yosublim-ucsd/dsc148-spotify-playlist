@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,562 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,634 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 57 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/0kQuE7df1Dhji3XvekSCet) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Whole Lotta Blues: Songs Of Led Zeppelin](https://open.spotify.com/album/5QLrtYMED7v2em3rl8wKFZ) | 2:19 |
 | 58 | [Whole Lotta Rosie](https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Mixtape Volume 1](https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h) | 3:31 |
 | 59 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 |
-| 60 | [Look on Yonder Wall](https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 3:43 |
+| 60 | [Look on Yonder Wall](https://open.spotify.com/track/5D5MwC8LTrdOJUQ9M1vUzg) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Look on Yonder Wall](https://open.spotify.com/album/6VN1WFYGko8Or8UiOZWD1N) | 3:43 |
 | 61 | [Love That Burns \(with Rick Vito\) \(Live from The London Palladium\)](https://open.spotify.com/track/2IvVEPd1M58XvJ7zP9AMrl) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 5:54 |
 | 62 | [Herbert Harper's Free Press News](https://open.spotify.com/track/4OGM1kTZC108CoHB83l4sx) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/1EoEsgW8pVuLhv1EwP7NdT) | 5:22 |
 | 63 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 |

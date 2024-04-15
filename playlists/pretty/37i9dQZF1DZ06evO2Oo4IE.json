@@ -1,29 +1,13 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 177953,
+  "num_followers": 177969,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDgyZTc2NDFkZDNlZTc3MDY0YWY3MWMyNmViOGE0MGNi",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDZjMDExMGQyMjg5YTgwN2UzZjBlYzBhZWVlMTdmNWY1",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -79,22 +79,6 @@
       "duration_ms": 152733,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 124760,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/42TKLlMFDXauhLzj7zOPUx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 293040,
       "name": "I Need a Man to Love",
       "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 261066,
       "name": "Turtle Blues",
       "url": "https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 567973,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
+      "duration_ms": 233800,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/2bD8JWzDBOnSeUcsjVU2SD"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 278061,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Livin' Is Easy (Live 1969)",
-        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 110984,
-      "name": "Me - Live 1969",
-      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 224386,
       "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
       "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Livin' Is Easy (Live 1969)",
+        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 110984,
+      "name": "Me - Live 1969",
+      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -779,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 237559,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joplin In Concert",
         "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
@@ -815,6 +779,26 @@
       "duration_ms": 345800,
       "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
       "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
     },
     {
       "added_at": null,

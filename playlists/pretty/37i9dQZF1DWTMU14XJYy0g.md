@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Renga
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,749 likes - 74 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,770 likes - 74 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

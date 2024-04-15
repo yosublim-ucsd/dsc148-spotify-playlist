@@ -1,6 +1,6 @@
 {
   "description": "Home to the Desi Pop Bops. Cover - Babar Mangi, Noman Ali Rajper, Marvi Sahibaan. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. ",
-  "num_followers": 89735,
+  "num_followers": 89844,
   "original_name": "Desi Pop",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "MTcxMzA1Mjg2MCwwMDAwMDAwMDFkZGU3NWNkZDdjMmNiMDI2MDA4NTVmY2FhZmI0MTdh",
   "tracks": [
+    {
+      "added_at": "2024-04-14 00:01:00",
+      "album": {
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
+      },
+      "artists": [
+        {
+          "name": "Noman Ali Rajper",
+          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
+        },
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "duration_ms": 289974,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
+    },
     {
       "added_at": "2024-04-14 00:01:00",
       "album": {

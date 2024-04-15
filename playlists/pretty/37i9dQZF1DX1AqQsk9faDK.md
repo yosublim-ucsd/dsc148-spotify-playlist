@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Um ano de bençãos por Isadora Pompeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,822 likes - 25 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,910 likes - 25 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This is Migos\. The essential tracks, all in one playlist.
+> This Is Migos\. Los temas esenciales, todos en una lista.
 
 58 songs - 3 hr 49 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 | 2023-06-07 |  |
 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 | 2023-06-07 |  |
-| [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 | 2023-06-07 |  |
+| [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 | 2023-06-07 | 2024-04-15 |
 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 | 2023-06-07 |  |
 | [Blue Cheese](https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 5:08 | 2023-06-07 |  |
 | [Body](https://open.spotify.com/track/3PGubBdFfQSHAHsXb068eG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 | 2023-07-23 | 2023-12-14 |
@@ -64,7 +64,7 @@
 | [Walk It Talk It](https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:36 | 2023-06-07 |  |
 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 | 2023-06-07 |  |
 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 | 2023-06-07 |  |
-| [What the Price](https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:08 | 2023-06-13 | 2024-04-03 |
+| [What the Price](https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:08 | 2023-06-13 |  |
 | [What You See \(feat\. Justin Bieber\)](https://open.spotify.com/track/58H8cWvvaFLFg2g7SdOO44) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 2:59 | 2023-08-10 | 2023-12-14 |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

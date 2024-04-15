@@ -4,7 +4,7 @@
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
-121 songs - 8 hr 37 min
+123 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 | 2022-03-10 |  |
 | [Mirror Man](https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 3:50 | 2022-03-10 |  |
 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 | 2022-03-10 |  |
-| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-25 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2024-04-10 |  |
+| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-25 | 2024-04-15 |
 | [Nobody's Diary](https://open.spotify.com/track/01Bdv0hAQjznAwCIppH3tp) | [Yaz](https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5) | [New Wave & Synth Pop Anthems](https://open.spotify.com/album/3MOwPwG5FLRhOjU1ySz8Nc) | 4:29 | 2022-09-18 | 2022-11-13 |
 | [Nobody's Diary](https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [You And Me Both](https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu) | 4:29 | 2022-03-10 |  |
 | [Nobody's Diary](https://open.spotify.com/track/0DCJUyPArbtLcJlRhjCew9) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best Of](https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM) | 4:31 | 2022-03-10 | 2022-07-25 |
@@ -99,7 +100,8 @@
 | [Steppin' Out](https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS) | 4:19 | 2022-09-18 | 2022-11-13 |
 | [Steppin' Out](https://open.spotify.com/track/0tBTnrMcc91qKP9dHqhsS7) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t) | 4:22 | 2022-03-10 | 2022-07-29 |
 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2022-03-10 |  |
-| [Strangelove \- Alt\. Single Version](https://open.spotify.com/track/5XKRI5H4aywDVTKXUeVc61) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Strangelove](https://open.spotify.com/album/5331VtcJopcteVzgUHMH9R) | 3:49 | 2022-03-10 |  |
+| [Strangelove](https://open.spotify.com/track/6ZCyDN2ArlWB4GKAj644Cd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:45 | 2024-04-10 |  |
+| [Strangelove \- Alt\. Single Version](https://open.spotify.com/track/5XKRI5H4aywDVTKXUeVc61) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Strangelove](https://open.spotify.com/album/5331VtcJopcteVzgUHMH9R) | 3:49 | 2022-03-10 | 2024-04-15 |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:47 | 2022-09-18 | 2022-11-13 |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6xPKB1wHju2wxtVdTsyxBx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/67yJQ4hgI4xpuiOiHgLEtX) | 3:47 | 2022-03-10 | 2022-07-29 |
 | [Suburbia \- 2001 Remaster](https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 5:07 | 2022-03-10 | 2022-07-29 |

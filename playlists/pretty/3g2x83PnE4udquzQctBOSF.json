@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2508,
+  "num_followers": 2507,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "NDEwNiw3MGUzOGE2OGYyOGYzMjJhM2IxYjk5MmYxYjAxN2MwMmUzNDIzZmVj",
+  "snapshot_id": "NDE1Miw0ZWY4YmNiMjI1NWM5M2Y5NmFlODVjZjZkMDU2M2UxMGEzOGEyODEz",
   "tracks": [
     {
       "added_at": "2024-03-08 19:27:05",
@@ -23,6 +23,74 @@
       "duration_ms": 180610,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
+    },
+    {
+      "added_at": "2024-04-14 12:16:41",
+      "album": {
+        "name": "ON YA MARK",
+        "url": "https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe"
+      },
+      "artists": [
+        {
+          "name": "Will Taylor (UK)",
+          "url": "https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX"
+        }
+      ],
+      "duration_ms": 391475,
+      "name": "ON YA MARK",
+      "url": "https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD"
+    },
+    {
+      "added_at": "2024-04-14 12:16:33",
+      "album": {
+        "name": "Flying Like A Dragon EP",
+        "url": "https://open.spotify.com/album/4Eod6YHLqedv5kw0MuVe2w"
+      },
+      "artists": [
+        {
+          "name": "Des & Del",
+          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Flying Like A Dragon",
+      "url": "https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m"
+    },
+    {
+      "added_at": "2024-04-14 12:16:29",
+      "album": {
+        "name": "Still Pushin'",
+        "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
+      },
+      "artists": [
+        {
+          "name": "YOUniverse (IT)",
+          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
+        },
+        {
+          "name": "Beltran (BR)",
+          "url": "https://open.spotify.com/artist/1G4rJHh2OITlumg477q1WA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Still Pushin' - Radio Edit",
+      "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
+    },
+    {
+      "added_at": "2024-03-08 19:27:08",
+      "album": {
+        "name": "Mind Mirage",
+        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 192113,
+      "name": "Fog Clear",
+      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
     },
     {
       "added_at": "2024-03-24 15:40:49",
@@ -57,6 +125,58 @@
       "url": "https://open.spotify.com/track/2tTDfmzFRufXl6ePmFvD51"
     },
     {
+      "added_at": "2024-04-14 12:16:36",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4LNSeysWGFiBaJpcxZs6nT"
+      },
+      "artists": [
+        {
+          "name": "ISSA (BR)",
+          "url": "https://open.spotify.com/artist/6HLLZWMPaNgwJJ8UsnlcpJ"
+        },
+        {
+          "name": "GADELHA",
+          "url": "https://open.spotify.com/artist/4eiBj8M536PZYheVAgk8J4"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0F1OJm1TvEJWrB0p3jbk01"
+    },
+    {
+      "added_at": "2024-04-14 12:15:59",
+      "album": {
+        "name": "Get Stupid",
+        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Get Stupid",
+      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
+    },
+    {
+      "added_at": "2023-06-30 04:57:30",
+      "album": {
+        "name": "Safety First",
+        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 185570,
+      "name": "Calling Through The Fire",
+      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+    },
+    {
       "added_at": "2024-03-24 15:40:57",
       "album": {
         "name": "MI.BARRIO VOL. I - Lucha Libre",
@@ -77,22 +197,6 @@
       "url": "https://open.spotify.com/track/7DRssGNUYjhpz1S8sCuReV"
     },
     {
-      "added_at": "2024-03-08 19:27:08",
-      "album": {
-        "name": "Mind Mirage",
-        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 192113,
-      "name": "Fog Clear",
-      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
-    },
-    {
       "added_at": "2024-03-10 16:18:10",
       "album": {
         "name": "Bring The Action",
@@ -109,20 +213,20 @@
       "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
     },
     {
-      "added_at": "2024-03-10 16:18:05",
+      "added_at": "2024-04-14 12:16:20",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/06wkyiYorhBRoSLgQhhbvS"
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
       },
       "artists": [
         {
-          "name": "Detlef",
-          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
         }
       ],
-      "duration_ms": 177304,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/0oa5iPL8Y9Vad48UA3AQJi"
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
       "added_at": "2024-03-24 15:41:01",
@@ -141,6 +245,38 @@
       "url": "https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1"
     },
     {
+      "added_at": "2023-05-12 16:24:04",
+      "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 182659,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+    },
+    {
+      "added_at": "2024-04-14 12:16:18",
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/3S4RwSZnPfKrjz28VqUsoS"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "duration_ms": 204980,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/080bUKejMMUN957hN65IQj"
+    },
+    {
       "added_at": "2024-03-24 15:39:33",
       "album": {
         "name": "Last Ones",
@@ -157,20 +293,24 @@
       "url": "https://open.spotify.com/track/1DLf5cSy5FMiILI0z9acya"
     },
     {
-      "added_at": "2023-06-30 04:57:30",
+      "added_at": "2024-04-14 12:16:15",
       "album": {
-        "name": "Safety First",
-        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
+        "name": "Cntrl",
+        "url": "https://open.spotify.com/album/2vtsPkxdXCY1PIzja2GxuF"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Micah Baxter",
+          "url": "https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje"
+        },
+        {
+          "name": "The BeatBoy's",
+          "url": "https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE"
         }
       ],
-      "duration_ms": 185570,
-      "name": "Calling Through The Fire",
-      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+      "duration_ms": 236000,
+      "name": "Cntrl",
+      "url": "https://open.spotify.com/track/3HRTD0zNSbwDbGJU3PmuKi"
     },
     {
       "added_at": "2024-03-10 16:17:51",
@@ -189,58 +329,10 @@
       "url": "https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb"
     },
     {
-      "added_at": "2024-02-18 14:53:54",
+      "added_at": "2023-03-17 19:24:07",
       "album": {
-        "name": "Needle On The Record (4am Mix)",
-        "url": "https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Needle On The Record - 4am Mix",
-      "url": "https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc"
-    },
-    {
-      "added_at": "2024-03-10 16:18:07",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/6k7OxcVJipXt5Y7ySOeNjH"
-      },
-      "artists": [
-        {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
-        }
-      ],
-      "duration_ms": 354461,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/4g46R8Fz2YR77jXZjw8PJA"
-    },
-    {
-      "added_at": "2024-02-18 14:53:59",
-      "album": {
-        "name": "Pick Ya Poison",
-        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 178299,
-      "name": "Pick Ya Poison",
-      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
-    },
-    {
-      "added_at": "2023-05-12 16:24:04",
-      "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
       },
       "artists": [
         {
@@ -248,9 +340,25 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 182659,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+    },
+    {
+      "added_at": "2024-04-14 12:16:26",
+      "album": {
+        "name": "EAT THE BASS",
+        "url": "https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "EAT THE BASS",
+      "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
     },
     {
       "added_at": "2024-03-24 15:40:09",
@@ -273,6 +381,22 @@
       "url": "https://open.spotify.com/track/6VAMEtST4LEJ1fKUISBVRQ"
     },
     {
+      "added_at": "2024-04-14 12:16:23",
+      "album": {
+        "name": "This Is Test",
+        "url": "https://open.spotify.com/album/6H42cNi6CpjPdeUAbqM1CF"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "This Is Test",
+      "url": "https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z"
+    },
+    {
       "added_at": "2024-03-10 16:18:28",
       "album": {
         "name": "Amused EP",
@@ -289,20 +413,20 @@
       "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     },
     {
-      "added_at": "2024-03-10 16:18:17",
+      "added_at": "2023-01-20 06:39:56",
       "album": {
-        "name": "I'm Ready EP",
-        "url": "https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W"
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
       },
       "artists": [
         {
-          "name": "Arnold & Lane",
-          "url": "https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2"
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 187559,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL"
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
       "added_at": "2024-03-24 15:40:55",
@@ -321,36 +445,20 @@
       "url": "https://open.spotify.com/track/7e9HZORJeoSsGdr7V0576n"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2024-04-14 12:16:09",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "4 The Trouble",
+        "url": "https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
         }
       ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
-    },
-    {
-      "added_at": "2024-02-18 14:53:52",
-      "album": {
-        "name": "Put 'em Up",
-        "url": "https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE"
-      },
-      "artists": [
-        {
-          "name": "TECHTIC",
-          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Put 'em Up",
-      "url": "https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe"
+      "duration_ms": 128307,
+      "name": "4 The Trouble",
+      "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
     },
     {
       "added_at": "2024-03-24 15:43:55",
@@ -373,152 +481,56 @@
       "url": "https://open.spotify.com/track/1v7JfjmjTrRGwB5N31vRSm"
     },
     {
-      "added_at": "2024-03-10 16:18:24",
+      "added_at": "2024-04-14 12:16:12",
       "album": {
-        "name": "Lighting",
-        "url": "https://open.spotify.com/album/08yI0064i4jNY1e3uYw0ma"
+        "name": "Her",
+        "url": "https://open.spotify.com/album/23bHuDzuxVbdW1TOOwouSZ"
       },
       "artists": [
         {
-          "name": "Gabriele Agostino",
-          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
+          "name": "Gio Lucca",
+          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
         },
         {
-          "name": "Davide Marsala",
-          "url": "https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ"
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4qhQ4ociO0X2DJ7f6wfMO1"
+    },
+    {
+      "added_at": "2024-04-14 12:16:44",
+      "album": {
+        "name": "Is It Ok? (George Z Remix)",
+        "url": "https://open.spotify.com/album/7yZlLuUv72OoB5uLpFNuzD"
+      },
+      "artists": [
+        {
+          "name": "VLLN",
+          "url": "https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx"
         },
         {
-          "name": "JANJ",
-          "url": "https://open.spotify.com/artist/0uEhJUryKUYMYWpiKG0VmV"
-        }
-      ],
-      "duration_ms": 202944,
-      "name": "Lighting",
-      "url": "https://open.spotify.com/track/4ih96mUUXqv4Bym6IB4Sl6"
-    },
-    {
-      "added_at": "2024-03-10 16:18:30",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2023-01-20 06:39:56",
-      "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
-    },
-    {
-      "added_at": "2024-02-18 14:54:02",
-      "album": {
-        "name": "GUNZ.OUT",
-        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "GUNZ.OUT",
-      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
-    },
-    {
-      "added_at": "2024-03-10 16:18:19",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+          "name": "Sol Novaro",
+          "url": "https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq"
         },
         {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2024-02-18 14:53:57",
-      "album": {
-        "name": "SHOW EM THE BASS",
-        "url": "https://open.spotify.com/album/2uGnRBNWYS5VaFoBKaZjPx"
-      },
-      "artists": [
-        {
-          "name": "Niteplan",
-          "url": "https://open.spotify.com/artist/1VY8rr16Fj5C2rDUnDVCE0"
-        }
-      ],
-      "duration_ms": 369230,
-      "name": "CLASSY",
-      "url": "https://open.spotify.com/track/0rAGI2o5rdVpNdINqVQYlp"
-    },
-    {
-      "added_at": "2024-03-10 16:17:57",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 162914,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
-    },
-    {
-      "added_at": "2024-03-10 16:17:55",
-      "album": {
-        "name": "Giving Me Life",
-        "url": "https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Lost Minds",
+          "url": "https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
         },
         {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "George Z",
+          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Giving Me Life",
-      "url": "https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N"
+      "duration_ms": 208124,
+      "name": "Is It Ok? - George Z Remix",
+      "url": "https://open.spotify.com/track/21zEg4uLM33PB6vkJf1KNa"
     }
   ],
   "unique_name": "AGLF Playlist",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,178 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,539 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 26 | [A Little Book of Hours: VI\. Singing Sun](https://open.spotify.com/track/06vaPTVwFkFxCzmJDXlfx5) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Elena Riu](https://open.spotify.com/artist/2Jhg4utIpCsER3JKSUnF7F) | [Piano Icons for the 21st Century](https://open.spotify.com/album/70x50TbjZqrTpn8iBHvSEs) | 1:43 |
 | 27 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 |
 | 28 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 |
-| 29 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [wind whispers, Op\. 85/II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
+| 29 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
 | 30 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [MozartReworked](https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb) | 3:15 |
 | 31 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 |
 | 32 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 |

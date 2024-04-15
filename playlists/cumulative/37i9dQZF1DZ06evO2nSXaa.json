@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is: Tate McRae. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Tate McRae. The essential tracks, all in one playlist.",
   "name": "This Is Tate McRae",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 146080,
       "name": "i'm so gone",
       "url": "https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 166946,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 170226,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"

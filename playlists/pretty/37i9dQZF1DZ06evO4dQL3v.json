@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 5668,
+  "num_followers": 5667,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MDAwMCwwMDAwMDAwMDgwOTJhY2E3OTY3N2E5YzQ3YjRjNDg2MjA0ZTY1YmVh",
+  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDRmNTgyODRmNWEyNzZkYjg2YTJlN2JjOGMxZTQxMTJk",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "El Moro de Cumpas - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "El Moro de Cumpas - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Aniversario Grandes Exitos",
         "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
       },
@@ -591,6 +591,54 @@
       "duration_ms": 178453,
       "name": "El Cotorro Enamorado - Banda Sinaloense",
       "url": "https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 128053,
+      "name": "Por Fin un Caminito",
+      "url": "https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 137906,
+      "name": "Debajo de los Laureles - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "Camino de Guanajuato Ay Jalisco",
+      "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
     },
     {
       "added_at": null,
@@ -631,54 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 145466,
-      "name": "Los Gringos",
-      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 137906,
-      "name": "Debajo de los Laureles - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 128053,
-      "name": "Por Fin un Caminito",
-      "url": "https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 147680,
-      "name": "Camino de Guanajuato Ay Jalisco",
-      "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
+      "duration_ms": 145466,
+      "name": "Los Gringos",
+      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
     },
     {
       "added_at": null,

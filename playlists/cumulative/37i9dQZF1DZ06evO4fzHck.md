@@ -2,9 +2,9 @@
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is The Cure\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 13 min
+72 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cut \- 1990 Demo](https://open.spotify.com/track/6FMzcxqfyw7LKhgUPd3JWf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF) | 3:33 | 2022-11-04 | 2022-11-17 |
 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 | 2022-11-04 |  |
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2022-11-04 |  |
+| [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 | 2024-04-15 |  |
 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 | 2022-11-04 | 2022-12-30 |
 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 | 2022-11-04 |  |
 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 | 2022-11-04 |  |
@@ -60,7 +61,7 @@
 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 | 2022-11-04 |  |
 | [Push](https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:31 | 2022-11-04 |  |
 | [Push \- 2006 Remaster](https://open.spotify.com/track/3oP4cJTo55Wc07vqoix8Z9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 4:31 | 2023-06-21 | 2023-06-28 |
-| [Shake Dog Shake \- Live At Zenith, Paris](https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Shake Dog Shake](https://open.spotify.com/album/4XnEtST40geeFcAnToByfc) | 5:05 | 2024-02-11 |  |
+| [Shake Dog Shake \- Live At Zenith, Paris](https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Shake Dog Shake](https://open.spotify.com/album/4XnEtST40geeFcAnToByfc) | 5:05 | 2024-02-11 | 2024-04-15 |
 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 | 2022-12-29 |  |
 | [The Big Hand \- 1990 Demo](https://open.spotify.com/track/2Uj46H1Rj1zVKJY1U8gZZE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 4:40 | 2022-12-27 | 2023-02-11 |
 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 | 2022-11-04 |  |

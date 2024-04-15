@@ -2,13 +2,14 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. Tutti i brani in un'unica playlist.
+> This is Meg Smith\. The essential tracks, all in one playlist.
 
-19 songs - 56 min 24 sec
+20 songs - 59 min 22 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2024-01-10 |  |
+| [...but i'd miss you too much!](https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ) | 2:58 | 2024-04-15 |  |
+| [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2024-01-10 | 2024-04-15 |
 | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx) | 2:59 | 2024-01-10 |  |
 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 | 2024-01-10 |  |
 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 | 2024-01-10 |  |

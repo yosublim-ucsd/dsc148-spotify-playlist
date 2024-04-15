@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 ### [This Is Nirvana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M0Fbi)
 
-> This is Nirvana\. The essential tracks, all in one playlist.
+> This Is Nirvana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,358,077 likes - 38 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,342 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 37 | [Been A Son \- BBC Mark Goodier Session](https://open.spotify.com/track/4dXBG3zz9SzaPBtm4Fv91x) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:55 |
 | 38 | [Verse Chorus Verse \- Outtake](https://open.spotify.com/track/27sz8XfkjnUqTRJwxjHrS1) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:16 |
 
-Snapshot ID: `MTcxMjg4MDAwMCwwMDAwMDAwMDk2MzIwZjkwMDY0YzQ4MzJiNmU4ZmIzNDk1ZmZmZTg4`
+Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDU0NmRiYzdiNWE4NjM0M2Q2ODhmNDBmNTdkOWI4ZGJh`

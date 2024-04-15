@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Jhayco, Bryant Myers y Luar La L plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,130 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,256 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 10 | [VVS Switch \(feat\. Hades66, Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Hades66, Luar La L & CDobleta\) \[Remix\]](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 |
 | 11 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
 | 12 | [31](https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [31](https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ) | 2:36 |
-| 13 | [Rich Rappers](https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Rich Rappers](https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84) | 3:13 |
+| 13 | [RICH RAPPERS](https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [RICH RAPPERS](https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84) | 3:13 |
 | 14 | [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 |
 | 15 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 16 | [Gan\-Ga \- Remix](https://open.spotify.com/track/6MpJR5hR1pS8xi3clcx9uv) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj) | 3:13 |

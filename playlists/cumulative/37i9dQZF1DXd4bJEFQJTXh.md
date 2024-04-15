@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-213 songs - 11 hr 8 min
+214 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [Into the Unknown](https://open.spotify.com/track/2JJwUreki4qNMcQiwlaojo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IYymqH84JShTdQmQLLQib) | 3:14 | 2022-03-25 | 2022-07-29 |
 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2022-03-25 |  |
 | [Into the Unknown \- From "Frozen 2"](https://open.spotify.com/track/0v622a7rlXRYcT6m3xwutU) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Into the Unknown \(From "Frozen 2"\)](https://open.spotify.com/album/0GSPdfLb7ccZ4Gwt8b7CVF) | 3:09 | 2022-03-25 | 2022-07-29 |
+| [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/4MjU4hsjPbXYxmpdQvjP6J) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Banda Sonora Original en Castellano/Deluxe Edition\)](https://open.spotify.com/album/6cPVYrmwMjENVU1R1jwfiO) | 3:07 | 2024-01-19 |  |
 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/6PpcLWXhee9RGv802NWyCe) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jikŋon 2 \(Originála Filmma Lávlagat\)](https://open.spotify.com/album/2UPyPbsEMZhGrNAlRWN0zf) | 3:07 | 2022-03-25 | 2022-11-13 |
-| [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2022-03-25 |  |
+| [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2022-03-25 | 2024-04-15 |
 | [It's All Right](https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:50 | 2022-03-25 | 2023-12-30 |
 | [It's The Hard\-Knock Life](https://open.spotify.com/track/2VnMIUBC3Bj7SIcjCqfPx0) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz), [Zoe Margaret Colletti](https://open.spotify.com/artist/3RA2d5usSqy6v8daSjatiG), [Nicolette Pierini](https://open.spotify.com/artist/1Kzhk2FJ4nMaqm3TNECWEY), [Eden Duncan\-Smith](https://open.spotify.com/artist/1bq2kt0UIMxXt0oLIHH82k), [Amanda Troya](https://open.spotify.com/artist/0V8g9C7rFwjeMInAb9oTqZ) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:10 | 2022-03-25 |  |
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2022-03-25 |  |

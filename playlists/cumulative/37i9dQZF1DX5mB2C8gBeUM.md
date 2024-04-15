@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Blanco Brown
 
-453 songs - 22 hr 34 min
+454 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 | 2021-12-10 | 2023-01-04 |
 | [The Ocean \(feat\. Charlie Worsham\)](https://open.spotify.com/track/3ndJ7tDSkqbJeXfj7Uww9z) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly](https://open.spotify.com/album/7uQZdPu3Ep9202R0lFQd8Z) | 3:35 | 2022-07-01 | 2023-01-04 |
 | [The One](https://open.spotify.com/track/1KniGMjv0XijAFK0MnBjZT) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/4tEVSDPcxIQFFZuynRbDVX) | 3:05 | 2022-04-22 | 2023-01-04 |
-| [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-01 |  |
+| [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-04-12 |  |
+| [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-01 | 2024-04-15 |
 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 | 2022-05-20 | 2023-01-04 |
 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 | 2022-07-15 |  |
 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 | 2021-12-17 | 2022-02-26 |

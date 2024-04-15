@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-560 songs - 1 day 6 hr 52 min
+561 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Mixtape 2003](https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH) | 3:24 | 2022-07-29 | 2022-12-03 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-10-13 |  |
 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-04 | 2024-02-14 |
-| [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 | 2024-03-10 |  |
+| [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 | 2024-03-10 | 2024-04-15 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-30 |  |
 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 | 2022-10-07 | 2023-03-29 |
 | [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-11-19 | 2022-11-17 |
@@ -393,6 +393,7 @@
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-27 | 2023-06-08 |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2024-03-10 |  |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 | 2023-12-10 |
+| [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2024-03-10 |  |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-24 | 2023-09-15 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2024-03-10 |  |
 | [Quiet Little Voices](https://open.spotify.com/track/3zniSx8DVtUSuJ0WAToZUy) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/5RzT4Ypfjk6i1xLQpXXZFI) | 4:21 | 2022-03-11 | 2022-04-17 |
