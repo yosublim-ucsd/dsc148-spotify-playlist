@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 836,
+  "2024-04-16": 901,
   "date_first_scraped": "2024-04-02",
   "description": "\u5b9f\u5199\u6620\u753b\u300c<a href=\"https://gaga.ne.jp/buzzynoise_movie/\">\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba</a>\u300d5\u67083\u65e5\u516c\u958b\uff01\u4f5c\u8005 \u3080\u3064\u304d\u6f64\u306b\u3088\u308b\u9078\u66f2\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u5230\u7740\u3002/ The official playlist selected by Mutsuki Jun. ",
   "name": "BUZZY NOISE \u30d0\u30b8\u30fc\u30ce\u30a4\u30ba",
@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/4giltl7HGSeClaFSuiHATQ"
+      },
+      "artists": [
+        {
+          "name": "yahyel",
+          "url": "https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321535,
+      "name": "Pale",
+      "url": "https://open.spotify.com/track/25z9SvL5xhIZqVJWW0xJuz"
+    },
+    {
+      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO"
       },
@@ -433,6 +451,60 @@
       "duration_ms": 228520,
       "name": "Summer Child",
       "url": "https://open.spotify.com/track/3dDS3c0Xe1kdFC8CYvX7Yp"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+        "url": "https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+          "url": "https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157249,
+      "name": "Talk\uff1aCast \u3053\u308c\u304b\u3089\u6620\u753b\u3092\u89b3\u308b\u65b9\u3078",
+      "url": "https://open.spotify.com/track/1ooLbtBbJ88pRfnOSmHYbe"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+        "url": "https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+          "url": "https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126419,
+      "name": "Talk\uff1aCast \u539f\u4f5c\u6f2b\u753b\u3068\u97f3\u697d\u306b\u3064\u3044\u3066",
+      "url": "https://open.spotify.com/track/17EdFlnlvNmyJpOkn4l8vY"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+        "url": "https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u897f\u62d3\u5b9f\u3001\u685c\u7530\u3072\u3088\u308a",
+          "url": "https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192345,
+      "name": "Talk\uff1aCast \u6620\u753b\u306b\u51fa\u6f14\u3057\u3066",
+      "url": "https://open.spotify.com/track/78ntZAvTx3rXsugtoluqtl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12107,
+  "num_followers": 12105,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg4MjcyMywwMDAwMDAwMGI0YTAzOGE2ZmE2OWYxZGMzY2FmNGQ3MmY0OWYzOGNl",
+  "snapshot_id": "MTcxMzE5MTk1OSwwMDAwMDAwMGQwOTUwNjQzYThjYmU1YjU1N2Y5NjM5MGE4NDJkMmJk",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -199,22 +199,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "v2.0 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 252754,
-      "name": "Murmuration",
-      "url": "https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
       },
@@ -237,20 +221,36 @@
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2024-04-15 14:39:19",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
         }
       ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "v2.0 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 252754,
+      "name": "Murmuration",
+      "url": "https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -267,6 +267,42 @@
       "duration_ms": 104406,
       "name": "Pulse Of Life",
       "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "duration_ms": 384717,
+      "name": "Confessions Pt. II",
+      "url": "https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -301,42 +337,6 @@
       "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Natura Morta",
-        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 162648,
-      "name": "En Plein Air",
-      "url": "https://open.spotify.com/track/3LvQhEB7pTmGgm2xEtu2k2"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 384717,
-      "name": "Confessions Pt. II",
-      "url": "https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W"
-    },
-    {
       "added_at": "2024-04-12 00:43:48",
       "album": {
         "name": "Redivider",
@@ -351,6 +351,22 @@
       "duration_ms": 67213,
       "name": "If You Could See Your Life In Reverse Pt.3",
       "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Natura Morta",
+        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 162648,
+      "name": "En Plein Air",
+      "url": "https://open.spotify.com/track/3LvQhEB7pTmGgm2xEtu2k2"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -385,38 +401,6 @@
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
-    },
-    {
-      "added_at": "2024-01-05 03:52:17",
-      "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 189067,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
-    },
-    {
       "added_at": "2022-01-07 01:26:10",
       "album": {
         "name": "Isola",
@@ -449,6 +433,22 @@
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Don't Shy Away",
@@ -463,6 +463,22 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2024-01-05 03:52:17",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 189067,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -881,22 +897,6 @@
       "url": "https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr"
     },
     {
-      "added_at": "2022-05-17 23:06:45",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 199058,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
-    },
-    {
       "added_at": "2024-04-12 00:45:23",
       "album": {
         "name": "Le jour et la nuit du r\u00e9el",
@@ -911,6 +911,22 @@
       "duration_ms": 131120,
       "name": "Night looping - Movement I",
       "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
+    },
+    {
+      "added_at": "2022-05-17 23:06:45",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 199058,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
     },
     {
       "added_at": "2022-04-06 04:00:43",
@@ -965,22 +981,6 @@
       "url": "https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB"
     },
     {
-      "added_at": "2022-05-24 01:08:19",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
-    },
-    {
       "added_at": "2022-09-03 04:35:48",
       "album": {
         "name": "Education & Recreation",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
+      "added_at": "2022-05-24 01:08:19",
       "album": {
-        "name": "Lightless Room",
-        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
       },
       "artists": [
         {
-          "name": "Lucas Carlson",
-          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 299178,
-      "name": "Lightless Room",
-      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1059,6 +1059,22 @@
       "duration_ms": 344640,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/1Fo7FIXNPw3Jn3WDcR8kdd"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Lightless Room",
+        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
+      },
+      "artists": [
+        {
+          "name": "Lucas Carlson",
+          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
+        }
+      ],
+      "duration_ms": 299178,
+      "name": "Lightless Room",
+      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
       "added_at": "2022-02-25 04:13:05",
@@ -1109,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5QGMMjoliLdy9OTybrG6rV"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Icons",
-        "url": "https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl"
-      },
-      "artists": [
-        {
-          "name": "Eli Keszler",
-          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
-        }
-      ],
-      "duration_ms": 276902,
-      "name": "The Accident",
-      "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "Agua de Jamaica",
@@ -1143,6 +1143,22 @@
       "duration_ms": 199305,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        }
+      ],
+      "duration_ms": 276902,
+      "name": "The Accident",
+      "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
     },
     {
       "added_at": "2022-01-07 01:30:59",
@@ -1275,22 +1291,6 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     }
   ],
   "unique_name": "transience",

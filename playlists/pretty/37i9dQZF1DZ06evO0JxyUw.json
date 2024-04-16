@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 260027,
+  "num_followers": 260033,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDhkMjhkNzc0Mzk0MzllMGRkZjc0ODU0MjdmM2IyOGQy",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDI4MmNmNGY2ZTA2ZWVlYWYwOTk2ZjA5YzJhZWU1M2M5",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bionic (Deluxe Version)",
         "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 186493,
       "name": "Not Myself Tonight",
       "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
     {
       "added_at": null,
@@ -906,15 +906,11 @@
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Si No Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
+      "duration_ms": 223493,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
     },
     {
       "added_at": null,

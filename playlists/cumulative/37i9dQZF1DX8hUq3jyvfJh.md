@@ -2,7 +2,7 @@
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
+> Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
 984 songs - 2 day 2 hr 24 min
 

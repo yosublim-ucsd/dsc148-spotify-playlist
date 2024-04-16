@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-402 songs - 21 hr 19 min
+407 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2022-12-16 | 2023-06-23 |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-01-20 |  |
 | [Blinding Lights \- Piano Version](https://open.spotify.com/track/0ozyv9adSVDED8Emhd8hfu) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab), [Piano Tribute Players](https://open.spotify.com/artist/4Xx6QMLTWppMwdABkN0Afj) | [Blinding Lights \(Piano Version\)](https://open.spotify.com/album/2ektqBOgstESA5KX3CxdYU) | 2:01 | 2022-08-01 |  |
+| [Blowin' In The Wind](https://open.spotify.com/track/3SHt0uSk2iBR9EPsJV69zK) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Blowin' In The Wind](https://open.spotify.com/album/2QERtfdqgfx5EDBj9WMwUh) | 2:02 | 2024-04-15 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-17 |  |
 | [Bones](https://open.spotify.com/track/5uoOSG79SKKkw7F7wyqkRJ) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [About Damn Time](https://open.spotify.com/album/2USTIARqwExVDvfbNi2mHR) | 2:20 | 2023-04-28 |  |
 | [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 | 2022-08-01 | 2023-06-23 |
@@ -288,6 +289,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/3Jp8pqj7e7DPDtjhezJGZT) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/76ieDu7oVMGeogIQswDVC6) | 3:53 | 2022-09-05 | 2022-11-19 |
 | [Running Up That Hill \(A Deal with God\) \- Pure Piano](https://open.spotify.com/track/0kUqGFiFX5jQFvbBIwbpdv) | [Roman Tee](https://open.spotify.com/artist/3PIoXFAkfmqo9V6hbpm450) | [Piano Pop Vol\. 23 \(Instrumental Piano\)](https://open.spotify.com/album/10VRewjf1fuN8HsqLGmCTg) | 2:58 | 2022-08-01 | 2022-10-15 |
 | [Sacrifice](https://open.spotify.com/track/44633u1bq8n7f4q3yU1hSX) | [Maximizer SE](https://open.spotify.com/artist/7KytdkKiffW17VMUFo7Kys) | [Sacrifice](https://open.spotify.com/album/50VFoLMFlnDjLrvuMmJSAJ) | 3:56 | 2022-08-01 |  |
+| [Sailing](https://open.spotify.com/track/1rt2VVHzUfrYqD9HGY0jGg) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sailing](https://open.spotify.com/album/1gmD0abuhaunLrRRVMpFYY) | 2:18 | 2024-04-15 |  |
 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-24 | 2023-06-23 |
 | [Save Your Tears \- Piano](https://open.spotify.com/track/3iMtWRMKkHteDnHehfwUkq) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Save Your Tears \(Piano\)](https://open.spotify.com/album/0BwX1LffmvzgAWDSSou24M) | 3:18 | 2022-09-05 | 2023-04-13 |
 | [Save Your Tears \- Piano](https://open.spotify.com/track/78OHUgTkBHVGEclBhjBjkM) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Save Your Tears \(Piano\)](https://open.spotify.com/album/51Z8XzfJ2Y1tBGj2il925J) | 3:18 | 2023-03-17 | 2023-06-09 |
@@ -314,8 +316,10 @@
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2022-10-28 | 2023-01-21 |
 | [Songbird](https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s) | [Margaret James](https://open.spotify.com/artist/61mMq7qWCIxypmj1Cmk0wZ) | [Songbird](https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn) | 3:23 | 2022-08-01 | 2023-06-14 |
 | [Starboy](https://open.spotify.com/track/7rzu7S7kLowCaxlGpZ8MBP) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 2:41 | 2022-12-16 | 2023-04-29 |
+| [Starman](https://open.spotify.com/track/5hUkUyojkRGAgegylKOXGn) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Starman](https://open.spotify.com/album/13UHUrqgM0SJKIlIWEEba3) | 2:33 | 2024-04-15 |  |
 | [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-04-28 | 2023-08-23 |
 | [Stay](https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Stay](https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C) | 3:51 | 2023-04-14 |  |
+| [Streets Of London](https://open.spotify.com/track/7vT3wxlUc5EJ2jkz6yszVq) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Streets Of London](https://open.spotify.com/album/0EbzcBOviEHI4OCNlP9VgP) | 3:41 | 2024-04-15 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-11-18 | 2023-05-06 |
 | [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2024-03-22 |  |
 | [Sunroof \- Piano](https://open.spotify.com/track/2hNUsP1vEQ5E5qx5QefQ71) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Sunroof \(Piano\)](https://open.spotify.com/album/6zTeSMLxgbU7nwv5wABYyH) | 2:32 | 2022-11-18 | 2023-04-12 |
@@ -326,6 +330,7 @@
 | [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 | 2022-08-01 |  |
 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-05 | 2023-06-23 |
 | [Sweet Child of Mine](https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [Sweet Child of Mine](https://open.spotify.com/album/5ShutfDiYapg3CcfB16fJ2) | 3:12 | 2022-08-01 | 2022-10-15 |
+| [Take on Me](https://open.spotify.com/track/257xmlROejlHSYjLz9bqza) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Take on Me](https://open.spotify.com/album/3fCeHEHMNhVGcOvwKG87e3) | 2:51 | 2024-04-15 |  |
 | [Take On Me](https://open.spotify.com/track/3lYUVASPJuGCL68xJnD8sP) | [Sindre Terjeseth](https://open.spotify.com/artist/2cXvywrcAETXsxerQR4jEs) | [Take On Me](https://open.spotify.com/album/5alEotzlu1XpJyLm5UIP0j) | 3:27 | 2022-08-01 | 2023-06-14 |
 | [Talking To The Moon](https://open.spotify.com/track/7wtsP54umUm3MvvdRWBOrU) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Talking To The Moon](https://open.spotify.com/album/36kCoY0H6FV0aKKIMefH7r) | 3:09 | 2023-03-17 |  |
 | [Tattoo](https://open.spotify.com/track/1c5cSzqSCGLf2YfbBsoUUY) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Tattoo](https://open.spotify.com/album/6gTf9Fn2UixItSmFgWdfua) | 3:29 | 2023-04-14 |  |

@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Latin pop tracks you need to hear, featuring Danna.
+> Hits and rising tracks you should hear, featuring Danna.
 
 479 songs - 1 day 0 hr 42 min
 

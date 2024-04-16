@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1915945,
+  "num_followers": 1915765,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDNhOWU0ZTAxYTY1YmEwMDQxMjVkNDYxMTI1ZTZiYzll",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGRkYjYyMTdhM2Q1N2JmZTBjZTVlNzcxZDg4M2I4M2Q1",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
         "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 387146,
       "name": "Welcome Home (Sanitarium) - Remastered",
       "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": null,

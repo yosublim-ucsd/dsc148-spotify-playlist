@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 679956,
+  "num_followers": 679898,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Violator (Deluxe)",
+        "url": "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 372866,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Somebody's Watching Me",
         "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 291560,
       "name": "My Prerogative",
       "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Violator (Deluxe)",
-        "url": "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 372866,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 388533,
-      "name": "Dr. Beat - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 369693,
       "name": "Material Girl - Extended Dance Remix",
       "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 388533,
+      "name": "Dr. Beat - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 256586,
       "name": "Extended Souvenir - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
     }
   ],
   "unique_name": "12\" Classics",

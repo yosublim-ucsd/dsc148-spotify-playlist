@@ -4,7 +4,7 @@
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-46 songs - 2 hr 28 min
+48 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,10 @@
 | [Miyuki](https://open.spotify.com/track/0qyxp8csLiyZHkdnxnU7i8) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 オリジナルサウンドトラック 1](https://open.spotify.com/album/3bOzsps2IDmX1y6Zfqn5TX) | 2:43 | 2024-04-05 |  |
 | [Miyuki 2.0](https://open.spotify.com/track/5nPaDuMtfGjynF4NPXBYlf) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 来訪者編 オリジナルサウンドトラック](https://open.spotify.com/album/6W4Oxl69LS2U8uDokrBCMg) | 3:24 | 2024-04-05 |  |
 | [Opus\-12](https://open.spotify.com/track/5qILcauCP6Evm4powE2e16) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 2:22 | 2024-04-05 |  |
+| [recall](https://open.spotify.com/track/5yPGl1KGxU7z3P9EL8TCwb) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [recall](https://open.spotify.com/album/3faXXgJmfIbxhlJ2D8tJkW) | 2:55 | 2024-04-16 |  |
 | [release](https://open.spotify.com/track/4JfRsxv8gZ32yA6Ra7Ra1I) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 0:44 | 2024-04-05 |  |
 | [Revenge of Ballerina](https://open.spotify.com/track/3w2HNBEDZIRDgpPMPftkUI) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 2:18 | 2024-04-05 |  |
+| [Ripe Aster](https://open.spotify.com/track/4tFkEbbKJj1T3OHtJ3gAUT) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [Ripe Aster](https://open.spotify.com/album/47kv0ADpkmue8jTL7FJne0) | 3:35 | 2024-04-16 |  |
 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 | 2024-04-05 |  |
 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 | 2024-04-05 |  |
 | [Silhouette of a Ballerina](https://open.spotify.com/track/6A06T2gCvlvSFhadYDzxZd) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 オリジナルサウンドトラック 1](https://open.spotify.com/album/3bOzsps2IDmX1y6Zfqn5TX) | 3:02 | 2024-04-05 |  |

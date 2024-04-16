@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-93 songs - 5 hr 41 min
+95 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Georgia Morning Dew](https://open.spotify.com/track/0vxWC7gqoQBS6uEKVG0nHS) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:17 | 2021-02-17 | 2022-07-29 |
 | [Georgia Morning Dew](https://open.spotify.com/track/7HxPa1wFVPsTTCnn5YaXOf) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Georgia Morning Dew / Real Live Living Hurtin' Man](https://open.spotify.com/album/012ARlbQdyMfM4jPpXrF9w) | 3:17 | 2021-02-17 | 2022-11-13 |
 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 | 2021-02-17 |  |
+| [Get the Hell Outta Dodge](https://open.spotify.com/track/50XtAKool7hiwStYgqGZGT) | [Saaneah](https://open.spotify.com/artist/5noDDcxVUfRfDBTuCuFWwb) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 3:44 | 2024-04-15 |  |
 | [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 | 2023-05-26 |  |
 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 | 2021-02-17 |  |
 | [Hard Case](https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:22 | 2021-02-17 |  |
@@ -45,6 +46,7 @@
 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/3ZS3XW46tNq0nRmAURjNig) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla Thomas \- Stax Profiles](https://open.spotify.com/album/4QESjBjBEglGfd9bSJLfh6) | 2:56 | 2021-02-17 | 2022-07-29 |
 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2fnbljRroXC33HuhgyoApM) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Memphis Queen](https://open.spotify.com/album/6DYynPjnJlfAsK3jqFOdGQ) | 2:58 | 2021-02-17 |  |
 | [I Was Wrong](https://open.spotify.com/track/7dUdMZqfGSIt0ZkmTOgRLA) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:11 | 2021-02-17 |  |
+| [I'll Cry for Yours \(Will You Cry for Mine\)](https://open.spotify.com/track/2HE90aMfGaYllF30XuBcdY) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 3:35 | 2024-04-15 |  |
 | [I'm Gonna Make Her Love Me](https://open.spotify.com/track/3r1NKEbMsxNuXhnODlHri5) | [Jim Ford](https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1) | [Harlan County](https://open.spotify.com/album/0IMnOYHqwO4SLT9Pe6U8PG) | 3:06 | 2021-02-17 |  |
 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 | 2021-02-17 |  |
 | [Long Way to Go](https://open.spotify.com/track/4Tb1Yf1e6tgimjLKPQhhOd) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing \(Deluxe Edition\)](https://open.spotify.com/album/4dUldCEXkgAezE5GYMeJMW) | 4:04 | 2021-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lara91k.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,218 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,298 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 54 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
 | 55 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
 | 56 | [Mirarte](https://open.spotify.com/track/52weQHTPdQuyDWGGqMe1b6) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Mirarte](https://open.spotify.com/album/0lZxkT3MUxWsYXTma7DTK7) | 2:59 |
-| 57 | [CICATRICES](https://open.spotify.com/track/6Sh6jPnYKWEUR4e9mCbMH9) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [CICATRICES](https://open.spotify.com/album/40jhpk6wiMqbkZXkm2PnST) | 4:04 |
-| 58 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
+| 57 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
+| 58 | [CICATRICES](https://open.spotify.com/track/6Sh6jPnYKWEUR4e9mCbMH9) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [CICATRICES](https://open.spotify.com/album/40jhpk6wiMqbkZXkm2PnST) | 4:04 |
 | 59 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
 | 60 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
 | 61 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 71 | [Declaración Jurada](https://open.spotify.com/track/6mQxdGZOiYCoVQG1RRAjpi) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Susi](https://open.spotify.com/album/6yO1Irm9PyDUZlNrdpjBNJ) | 2:15 |
 | 72 | [Zona de Fumadores](https://open.spotify.com/track/1LSUmyZ1ACGmLuDtulXXRD) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 1:31 |
 | 73 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 |
-| 74 | [Bordes](https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Bordes](https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5) | 2:56 |
-| 75 | [Desastre](https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:31 |
+| 74 | [Desastre](https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:31 |
+| 75 | [Bordes](https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Bordes](https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5) | 2:56 |
 | 76 | [CRASH](https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Zyntax](https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO) | [CRASH](https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1) | 2:41 |
 | 77 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
 | 78 | [El Rayo](https://open.spotify.com/track/09HCUGNu21tPaJxHrnxgyd) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:45 |

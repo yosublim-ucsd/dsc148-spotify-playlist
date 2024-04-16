@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 107772,
+  "description": "This is Inspector. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 107765,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDcyYjFiYjI0MTY4NjU3Y2E1YzZhNmZhYTdjYmMyOWQ1",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDhhNjI1NzVlMjU3NDk1YThhMWFlOTlhNTczYWI0YzA5",
   "tracks": [
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 219066,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/2IQSVkFiKLRMqyMUCvOuxY"
+      "duration_ms": 235066,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8"
     }
   ],
   "unique_name": "This Is Inspector",

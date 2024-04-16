@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 387195,
+  "num_followers": 387226,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGVlM2YzZmQ0ODE5YzRjOGEyYWQ5YTU1Mjg2NDA5YThl",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGM1NDlhZTEzYmFmN2I4OWMxNzk2YzZiN2MyZjMzZjU1",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring Home The Glory",
-        "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Sara Skinner",
-          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "Bring Home The Glory",
-      "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Misfit Toys (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/5qQkzCr8H5NyzkzVKlGGMm"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 189692,
       "name": "Misfit Toys (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/40giNwfX1pR3smltxvs3dB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring Home The Glory",
+        "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Sara Skinner",
+          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "Bring Home The Glory",
+      "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
     },
     {
       "added_at": null,
@@ -1187,10 +1187,6 @@
         "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
       },
       "artists": [
-        {
-          "name": "J.D. Spears",
-          "url": "https://open.spotify.com/artist/50louHoMTbX9FEk7mVVAnE"
-        },
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"

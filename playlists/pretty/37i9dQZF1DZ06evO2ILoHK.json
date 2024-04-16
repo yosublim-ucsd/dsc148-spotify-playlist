@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 9507,
+  "num_followers": 9510,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGI4N2ZiMzE2ZWNhYWFhMmVhNDY4MWRiMGZiOTZiNTI5",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDM0MTI4OWE0OWRlZDZiY2JmOGRmOGIxYjJlYTQ2YTBi",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Changing Lanes",
-      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
+      "duration_ms": 209213,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 209213,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33"
+      "duration_ms": 84800,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
     },
     {
       "added_at": null,

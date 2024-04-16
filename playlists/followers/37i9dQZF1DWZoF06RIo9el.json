@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 1521307,
+  "2024-04-16": 1520605,
   "date_first_scraped": "2021-12-28",
   "description": "Lo mejor de abril 2024",
   "name": "Lo mejor del mes",
@@ -15117,6 +15117,28 @@
     {
       "album": {
         "name": "The One (Pero No Como Yo)",
+        "url": "https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "The One (Pero No Como Yo)",
+      "url": "https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN"
+    },
+    {
+      "album": {
+        "name": "The One (Pero No Como Yo)",
         "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
       },
       "artists": [
@@ -15131,7 +15153,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=LQdhPbCeROi\-ZxQPyR6PdA">Nonso Amadi</a>,  <a href=https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0?si=u9uN2idsRqOl\_3O7WscWSQ>SjavasDaDeejay</a>,  <a href="https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD?si=co48q4iCRyCD12ahGgQ\_sQ">Tumelo\_za</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,734 likes - 57 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,762 likes - 57 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 382857,
+  "2024-04-16": 382894,
   "date_first_scraped": "2023-07-29",
-  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
+  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
   "name": "This Is Jamiroquai",
   "tracks": [
     {
@@ -389,7 +389,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 321426,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 295400,
       "name": "Little L",
       "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 383973,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 264880,
       "name": "Two Completely Different Things",
       "url": "https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6"

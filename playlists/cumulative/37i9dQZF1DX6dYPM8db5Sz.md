@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-705 songs - 1 day 16 hr 15 min
+706 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 | 2024-04-14 |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-06 | 2023-08-05 |
+| [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 | 2024-04-12 |  |
 | [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 | 2024-04-13 |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |
 | [Home](https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M) | [Just Mia](https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H) | [Home](https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI) | 3:28 | 2023-04-14 | 2023-06-23 |
@@ -614,7 +615,7 @@
 | [The Things We Dare Not Tell](https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [The Things We Dare Not Tell](https://open.spotify.com/album/2obV1R1hywZW5riJG3Ys5U) | 4:21 | 2023-03-30 | 2023-06-09 |
 | [The Train](https://open.spotify.com/track/4t8hILaGVsYgJ6lwCkqwaX) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 5:26 | 2023-08-24 | 2023-11-18 |
 | [THE TRUTH WITHIN](https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro) | [Qobi](https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq) | [UNTIL NEXT.....](https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq) | 2:26 | 2023-05-11 | 2023-07-07 |
-| [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 | 2024-04-05 |  |
+| [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 | 2024-04-05 | 2024-04-16 |
 | [The Widow](https://open.spotify.com/track/48TnwBY4pYURvhJ5LIRtHe) | [Damien](https://open.spotify.com/artist/6cUDV8d4fLXOYrAfBghF3a) | [The Widow](https://open.spotify.com/album/4rDuMolrVPma2RtBtLtBOB) | 5:27 | 2023-06-01 | 2023-07-14 |
 | [The Woods](https://open.spotify.com/track/2sS8cVwz9TmUsREMLBzLcq) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:34 | 2024-01-11 | 2024-02-02 |
 | [These Four Walls](https://open.spotify.com/track/7B9HQGF0JH49JYhFZClEM9) | [Alexx ONell](https://open.spotify.com/artist/4nUGqAzV4AQgwmIbD499xV) | [These Four Walls](https://open.spotify.com/album/6RqWWFYizLsT3eGEHUvyKy) | 3:12 | 2023-07-13 | 2023-08-25 |

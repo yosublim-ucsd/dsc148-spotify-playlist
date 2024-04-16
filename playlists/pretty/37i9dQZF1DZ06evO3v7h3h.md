@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,526 likes - 51 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,516 likes - 51 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 39 | [Porque Eu Rimo](https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:03 |
 | 40 | [Música de Guerra](https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:44 |
 | 41 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
-| 42 | [Meu Amigo Tempo](https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:15 |
-| 43 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
+| 42 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 |
+| 43 | [Meu Amigo Tempo](https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:15 |
 | 44 | [Cê Já Teve um Sonho?](https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 1:56 |
 | 45 | [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 |
-| 46 | [Química](https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:24 |
+| 46 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 |
 | 47 | [Vagabundo Qualquer](https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 2:57 |
 | 48 | [Outra Dose 2 \- Ao Vivo](https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:12 |
 | 49 | [Língua dos Campeões](https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i) | [Língua dos Campeões](https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge) | 7:44 |
-| 50 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 |
+| 50 | [Química](https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:24 |
 | 51 | [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 |
 
-Snapshot ID: `MTcxMjk2NjQwMCwwMDAwMDAwMDM0NjNmZTMwODc0NDYxYmVlMWFiOTcwNTcxN2NkMzQ1`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRjYzk2N2FkMGE2YWQ2M2RjMzhhNTIyZGVmZmExZDM1`

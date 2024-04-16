@@ -2,7 +2,7 @@
 
 ### [Melodic Techno Elements](https://open.spotify.com/playlist/37i9dQZF1DX9gPDOAK0Yqv)
 
-> A hypnotic journey through Melodic Techno.
+> A hypnotic journey through Melodic Techno, featuring Anyma
 
 484 songs - 1 day 15 hr 47 min
 

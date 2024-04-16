@@ -2,7 +2,7 @@
 
 ### [This Is ZZ Top](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uge6k)
 
-> This is ZZ Top\. Todos os maiores hits em uma só playlist.
+> This is ZZ Top\. The essential tracks, all in one playlist.
 
 132 songs - 8 hr 10 min
 

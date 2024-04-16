@@ -885,6 +885,36 @@
     },
     {
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3u6FiAgC5VFuOxPPdsoDow"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Jussi Halme",
+          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
+        },
+        {
+          "name": "Dornik",
+          "url": "https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175519,
+      "name": "Back There",
+      "url": "https://open.spotify.com/track/5oHo5ixELIep3usDd3yAtO"
+    },
+    {
+      "album": {
         "name": "backseat",
         "url": "https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w"
       },
@@ -7866,7 +7896,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 174667,
       "name": "Message in a bottle",
       "url": "https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG"

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Waor y Midas Alonso.",
-  "num_followers": 523025,
+  "num_followers": 522699,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMDA1MTRmMzIyYzdhOWI1ZDQwNjQ1MGM5YmU3YmQ0NTE3",
+  "snapshot_id": "MTcxMzE3Mzk3NSwwMDAwMDAwMDhmMzIwY2UwNmU1YTQ3Yzg1MTE1Mjc3ZThlZTRhZDc1",
   "tracks": [
     {
       "added_at": "2024-04-11 22:00:00",
@@ -55,30 +55,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "1000 Motivos",
-        "url": "https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8"
-      },
-      "artists": [
-        {
-          "name": "Delaossa",
-          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
-        },
-        {
-          "name": "Raggio",
-          "url": "https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES"
-        },
-        {
-          "name": "Bigla",
-          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
-        }
-      ],
-      "duration_ms": 213651,
-      "name": "1000 Motivos",
-      "url": "https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/7HLzms7imKXkAdZLwFwmbV"
       },
@@ -99,6 +75,30 @@
       "duration_ms": 210600,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0de9dsLu8ZxLYQZwYof4Ay"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "1000 Motivos",
+        "url": "https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Raggio",
+          "url": "https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "duration_ms": 213651,
+      "name": "1000 Motivos",
+      "url": "https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G"
     },
     {
       "added_at": "2024-04-11 22:00:00",

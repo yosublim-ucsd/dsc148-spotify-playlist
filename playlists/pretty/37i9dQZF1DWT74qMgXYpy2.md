@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 
 > Flute and fiddle, drums and drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,757 likes - 63 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,755 likes - 63 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 6 | [Catriona's](https://open.spotify.com/track/4xQnsExKUq7QD4ixBu5cJx) | [Rura](https://open.spotify.com/artist/4kKrVjWrGR3f0MfYakhaH8) | [In Praise of Home](https://open.spotify.com/album/2Iy1tDgJBIHS96KOQ9pjl4) | 5:21 |
 | 7 | [Hour](https://open.spotify.com/track/0SMc6BnOvn2h1b9X6GrNnN) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:15 |
 | 8 | [Midnight on the M50](https://open.spotify.com/track/3OR4HSNVMZDeqh9zx3ktC4) | [Cúig](https://open.spotify.com/artist/2pu5Wum09mMWBsqLAiubW1) | [The Theory of Chaos](https://open.spotify.com/album/3rAomWEVh5GE7jYWtdA1kb) | 6:04 |
-| 9 | [Dizzy Blue](https://open.spotify.com/track/029m3I0WPSGMpAnLpo3mOI) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 4:01 |
+| 9 | [Dizzy Blue](https://open.spotify.com/track/0nAzhbAFIhNmfw6xMxDZRX) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 4:01 |
 | 10 | [Glasgow Roaster](https://open.spotify.com/track/6D3okp3uT22yXbRVwvOkJL) | [Fourth Moon](https://open.spotify.com/artist/1LZMdBdS9JvE66YUoipxa9) | [Ellipsis](https://open.spotify.com/album/7iD6pcGcJdzll95jqG1Lqx) | 6:19 |
 | 11 | [Kadisha](https://open.spotify.com/track/09XtEtZo5vErJmBaPjvW3W) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/2ZJ7ZYvPRBiIB4Y0qgm0UR) | 5:05 |
 | 12 | [Skellig](https://open.spotify.com/track/1PS3ZIz5IAj5caQDupm0LH) | [Jiggy](https://open.spotify.com/artist/4tNONPUSLz4aSXLv779WMO) | [Translate](https://open.spotify.com/album/4I6lfQC7BYLugZrYWFfjdb) | 4:08 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 28 | [Surroundings](https://open.spotify.com/track/0EZTWWEQbSwxtwuUqZl3Kj) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq) | [Sanctuary](https://open.spotify.com/album/0XFtEgflENqeSttLu2XX6S) | 3:41 |
 | 29 | [Fiasco](https://open.spotify.com/track/7CJv342esjSwejNStEpWW9) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:27 |
 | 30 | [Morning Nightcap](https://open.spotify.com/track/0phiCWlaRaxCO6N3fCs6P7) | [Lúnasa](https://open.spotify.com/artist/020YMlk8jpd2AKUi5B0OK1) | [The Merry Sisters of Fate](https://open.spotify.com/album/0JUZnN5JpisbUZ31305hVj) | 4:56 |
-| 31 | [Deep Blue](https://open.spotify.com/track/78M4hy7uAXClDiw0l17VZy) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:59 |
+| 31 | [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 |
 | 32 | [Trois Blizzards](https://open.spotify.com/track/2j3M1i5HV6tzQQlUxisU3L) | [Vishtèn](https://open.spotify.com/artist/5EjAi7ZO8Ios2JF5esNoEf) | [Terre Rouge](https://open.spotify.com/album/0PHCsRqofKZzYeEA0mDq7x) | 3:51 |
-| 33 | [Black Widow](https://open.spotify.com/track/6GZoxN4NQIySN1le1JiZDJ) | [MOXIE](https://open.spotify.com/artist/0JMUkKSGKIdDRjy14SVBpJ) | [Planted](https://open.spotify.com/album/0LofQpJmVQfjkMbm0bXk5q) | 3:15 |
+| 33 | [Black Widow](https://open.spotify.com/track/6J8i1YypNC0ptPqGFGvvTu) | [MOXIE](https://open.spotify.com/artist/0JMUkKSGKIdDRjy14SVBpJ) | [Planted](https://open.spotify.com/album/0tQ7W6n6nWee0oThxydVWf) | 3:17 |
 | 34 | [Rory Macleod](https://open.spotify.com/track/3dZdwCw2Pcv4PIw2HpqD3t) | [Hò\-rò](https://open.spotify.com/artist/0zqsOJqQ7m8IvHwmouxK6e) | [Hò\-rò](https://open.spotify.com/album/2iYFvATh48DR8wiGy5p4sw) | 5:13 |
 | 35 | [Beyond](https://open.spotify.com/track/7xrZvMUdpMXTJUPl7XObtz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Beyond](https://open.spotify.com/album/7jtSXw5Ff4tlW3dgac3nvW) | 6:11 |
 | 36 | [Terrarium](https://open.spotify.com/track/5fMAL2ls7Dn5OpNNFzOPsi) | [Dallahan](https://open.spotify.com/artist/1MfVe0OhbAVIhlXv5yrOUo) | [Smallworld](https://open.spotify.com/album/2mG0x1Lat3hy0agbBuKrCZ) | 4:13 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 40 | [Fear an Bhogha](https://open.spotify.com/track/3vlIqVmXTvWDQ014aWuOUy) | [Ensemble Ériu](https://open.spotify.com/artist/0oHB4tkJo4hftYrw6lEfLj) | [Stargazer](https://open.spotify.com/album/6hwt7YS3wcKjUix4rvJlEn) | 5:49 |
 | 41 | [First Breath](https://open.spotify.com/track/1o4Hyq0d4cWdrfIqlxq840) | [Slow Moving Clouds](https://open.spotify.com/artist/1yCYI1iXHPoQR5tu7fbUAp) | [Starfall](https://open.spotify.com/album/6RfnInDCPvrnbcqGvXZss7) | 2:44 |
 | 42 | [Duck Egg](https://open.spotify.com/track/6ZxEfnpt6fd0Be1JzdhHp1) | [This is How we Fly](https://open.spotify.com/artist/0zppS0FCwxOAiY4DqL7Sx5) | [Foreign Fields](https://open.spotify.com/album/2A9dbLuuHxL240fqAirIZC) | 3:17 |
-| 43 | [The Third Attempt](https://open.spotify.com/track/1Xzr71NDk0yyq3qRLf0Nc9) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:14 |
+| 43 | [The Third Attempt](https://open.spotify.com/track/2cBvlUcL2oF1iVdVyRfL0a) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:14 |
 | 44 | [Lullaby](https://open.spotify.com/track/7gwa7ucwGF6KlBpvn3sIEL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Cold Old Fire](https://open.spotify.com/album/77RgTgt3go7p8k35zmwqsT) | 5:31 |
-| 45 | [Perfect Storm](https://open.spotify.com/track/6UPlxgyfOZ3oeT1lVYpG4X) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 3:19 |
+| 45 | [Perfect Storm](https://open.spotify.com/track/0vXDP8BAYL9CES8OGAcSms) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 3:19 |
 | 46 | [Malcolm Johnston](https://open.spotify.com/track/2t4fVhc0L5yKYEmrfR3WCS) | [Jenna Moynihan](https://open.spotify.com/artist/0wSxqd7IiEffLgMq2cDwB1), [Mairi Chaimbeul](https://open.spotify.com/artist/6kiz0ZkNWKOcb3C3wxlSEu) | [One Two](https://open.spotify.com/album/3klVIjcJCtmG7XQ7tGY81M) | 2:50 |
 | 47 | [The Game \(feat\. Chicago Fred\)](https://open.spotify.com/track/59vFrWUiHpnxiw5rDu7PNQ) | [Shreem](https://open.spotify.com/artist/6a3T1Jaxb1TRzrA5a25ULi), [Chicago Fred](https://open.spotify.com/artist/1I3Gp1yJpyYmKrBUJLYRXh) | [Shreem \- Celtic Remixing](https://open.spotify.com/album/0aMWTnuWUNPn9yYWKiUnQJ) | 4:09 |
 | 48 | [Pour Over](https://open.spotify.com/track/03wCAkj0mUAi3iflhioj9Z) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [What We Leave Behind](https://open.spotify.com/album/1v0UoQmT184bew89IkY6pH) | 3:25 |

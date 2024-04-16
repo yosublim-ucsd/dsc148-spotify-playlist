@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27700,
+  "num_followers": 27704,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDZiNTE2YmIzZTNiMDEwZGJhYjE3ZTA3OWViOWQ5MjBl",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGM1YTA4NmU0NjYxMjc3ZGFkMzY2Yzk1YjliMDUwYTQy",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shaka Zulu",
+        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Hello My Baby",
+      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 231893,
       "name": "Eden's House",
       "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Hello My Baby",
-      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
     },
     {
       "added_at": null,
@@ -383,38 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        },
-        {
-          "name": "Nico Sereba",
-          "url": "https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ"
-        },
-        {
-          "name": "Vincent \"Vinzy V\" Dery",
-          "url": "https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
@@ -455,6 +423,38 @@
       "duration_ms": 149733,
       "name": "Passage to Promise",
       "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        },
+        {
+          "name": "Nico Sereba",
+          "url": "https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ"
+        },
+        {
+          "name": "Vincent \"Vinzy V\" Dery",
+          "url": "https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Siligugu Isiphambano",
+      "url": "https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sesame Street: Jim Henson: A Sesame Street Celebration, Vol. 2",
         "url": "https://open.spotify.com/album/4WYTk7iadQtxiFryOKHM7W"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umthombo Wamanzi",
-        "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Siligugu Isiphambano",
-      "url": "https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 288466,
-      "name": "Inkanyezi Nezazi (The Star And The Wiseman)",
-      "url": "https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Again",
         "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
@@ -863,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Ladysmith Black Mambazo",
-        "url": "https://open.spotify.com/album/17EskTB3qXuIeM0M7KrbyA"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU"
       },
       "artists": [
         {
@@ -872,9 +856,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 210813,
-      "name": "Izithembiso Zenkosi",
-      "url": "https://open.spotify.com/track/5RrqBt4PeHsgxvZfAnRHa1"
+      "duration_ms": 288466,
+      "name": "Inkanyezi Nezazi (The Star And The Wiseman)",
+      "url": "https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 202048,
       "name": "Awu Wemadoda",
       "url": "https://open.spotify.com/track/1xitjCzTxasyA9WBZMuKV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of Ladysmith Black Mambazo",
+        "url": "https://open.spotify.com/album/17EskTB3qXuIeM0M7KrbyA"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Izithembiso Zenkosi",
+      "url": "https://open.spotify.com/track/5RrqBt4PeHsgxvZfAnRHa1"
     },
     {
       "added_at": null,
@@ -915,22 +915,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladysmith Black Mambazo & Friends",
-        "url": "https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG"
+        "name": "Always With Us",
+        "url": "https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe"
       },
       "artists": [
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 341920,
-      "name": "Diamonds On The Soles Of Her Shoes",
-      "url": "https://open.spotify.com/track/4w2pIHYNnRBCHVMTJ1AFE0"
+      "duration_ms": 221706,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezulwini Siyakhona",
+        "url": "https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Ngithunyiwe Kini",
+      "url": "https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB"
     },
     {
       "added_at": null,
@@ -971,34 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always With Us",
-        "url": "https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe"
+        "name": "Ladysmith Black Mambazo & Friends",
+        "url": "https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG"
       },
       "artists": [
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezulwini Siyakhona",
-        "url": "https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6"
-      },
-      "artists": [
+        },
         {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 214413,
-      "name": "Ngithunyiwe Kini",
-      "url": "https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB"
+      "duration_ms": 341920,
+      "name": "Diamonds On The Soles Of Her Shoes",
+      "url": "https://open.spotify.com/track/4w2pIHYNnRBCHVMTJ1AFE0"
     },
     {
       "added_at": null,

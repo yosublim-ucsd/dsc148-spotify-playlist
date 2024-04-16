@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 22678,
+  "2024-04-16": 22680,
   "date_first_scraped": "2022-12-02",
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
   "name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
@@ -140,12 +140,12 @@
       "artists": [
         {
           "name": "Beit",
-          "url": "https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9"
+          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 276546,
       "name": "Avenue Illusion!",
       "url": "https://open.spotify.com/track/2lqD4z4sqYHRF7HukTBIqN"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 279333,
       "name": "Tone's Destiny",
       "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 339640,
       "name": "VOY@GER - SideM Ver.",
       "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
@@ -2947,7 +2947,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 220013,
       "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
       "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
@@ -2991,7 +2991,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
@@ -3071,6 +3071,24 @@
       "duration_ms": 267640,
       "name": "\u5a01\u98a8\u5802\u3005\u3068",
       "url": "https://open.spotify.com/track/6loUWr8hVdRMostxfh6OXU"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-12 THE \u864e\u7259\u9053",
+        "url": "https://open.spotify.com/album/4l27fSqohjiiBGgkyi9tzh"
+      },
+      "artists": [
+        {
+          "name": "THE \u864e\u7259\u9053",
+          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "\u60c5\u71b1...FIGHTER",
+      "url": "https://open.spotify.com/track/59adiCCwOpRo5mMqQLlZWb"
     },
     {
       "album": {

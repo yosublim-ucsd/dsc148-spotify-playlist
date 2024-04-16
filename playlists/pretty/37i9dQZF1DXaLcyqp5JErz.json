@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 555755,
+  "num_followers": 555630,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -159,6 +159,22 @@
       "duration_ms": 324013,
       "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
       "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -211,22 +227,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Excel\u00eancia",
         "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 304973,
       "name": "Te Agrade\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 208608,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Eu Tenho a Promessa",
         "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 297365,
       "name": "Vai Valer a Pena - Ao Vivo",
       "url": "https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 593773,
-      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Ao vivo Maracan\u00e3zinho, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 487160,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Para Sempre, Vol. 1",
         "url": "https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 370146,
       "name": "Me Rendo",
       "url": "https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Ao vivo Maracan\u00e3zinho, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 487160,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX"
     },
     {
       "added_at": "2023-10-13 16:02:51",

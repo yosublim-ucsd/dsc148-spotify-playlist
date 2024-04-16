@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8199,
+  "num_followers": 8200,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Lindo \u00c9s (Beauty, Beauty)",
         "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 279520,
       "name": "Emanuel",
       "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "A Can\u00e7\u00e3o de Natal",
         "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 310714,
       "name": "\u00d3 Noite Santa",
       "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
     },
     {
       "added_at": "2023-12-22 03:00:00",

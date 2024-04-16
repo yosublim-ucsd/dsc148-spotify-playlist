@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Lee Mujin\(이무진\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kim Na Young\(김나영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,188 songs - 3 day 4 hr 58 min
+1,194 songs - 3 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Can You See My Heart](https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel Del Luna OST Part.5](https://open.spotify.com/album/4HxM9RlVFPOEwNRorTuLiZ) | 3:45 | 2021-12-20 | 2022-07-06 |
 | [Can't fall in love again](https://open.spotify.com/track/4vzuBz7765BZkWebmI69gk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Can't fall in love again](https://open.spotify.com/album/18XnHlGLgJ2RIz7kpkof3O) | 3:56 | 2021-12-20 | 2022-06-16 |
 | [Can't get over you](https://open.spotify.com/track/4FCaHMRp8shXLJqLoLfLWB) | [Blue Dawn](https://open.spotify.com/artist/3tQOXoXqsjnII3hQkkJknS) | [Can't get over you](https://open.spotify.com/album/1hx21yyGWbyiQxqA9NVYjg) | 3:46 | 2023-09-18 | 2023-11-14 |
+| [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 | 2024-04-15 |  |
 | [can't sleep](https://open.spotify.com/track/638ZqDkW3jdwkla129O2MZ) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [can't sleep](https://open.spotify.com/album/246MVpH5qwEMIVkzGAafi0) | 4:35 | 2022-02-10 | 2022-04-21 |
 | [Can′t Live Without You](https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [YOU](https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6) | 4:04 | 2022-03-29 | 2022-04-21 |
 | [Cause You \(prod\. KANGTA\)](https://open.spotify.com/track/4tmhfVKwTg8iSbXtQN4Yba) | [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Cause You \(prod\. KANGTA\) \- SM STATION](https://open.spotify.com/album/4SJpUs4YI7u0M3S2slXuOQ) | 3:55 | 2022-07-04 | 2022-10-08 |
@@ -455,6 +456,7 @@
 | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2) | 3:51 | 2022-01-17 | 2022-04-14 |
 | [I'll Try](https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [MONO](https://open.spotify.com/album/6rZ3FuJABmnr9GVCFjPP6Y) | 4:10 | 2022-07-04 | 2022-10-08 |
 | [I'm a fool](https://open.spotify.com/track/0qItZ9vDSIFleEQmsO6tsE) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'm a fool](https://open.spotify.com/album/7dBmfaZvykDeq4HFGsuaTG) | 4:31 | 2023-02-08 | 2023-06-23 |
+| [I'm in love with you](https://open.spotify.com/track/6BAZjhRiEbMj40qxX1r49d) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [I'm in love with you](https://open.spotify.com/album/4K379GrQ1F8ZHV3CbRGxoU) | 4:05 | 2024-04-15 |  |
 | [I'm not even drunk](https://open.spotify.com/track/0uNTk70FsyFRhHg03O9sPr) | [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [I'm not even drunk](https://open.spotify.com/album/0134ShAd5n7nCkie4PYWGU) | 3:20 | 2023-10-20 | 2023-12-14 |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2022-03-29 | 2022-04-11 |
 | [I'm Still Here](https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL) | [LEO](https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD) | [I'm Still Here](https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt) | 3:17 | 2022-03-24 | 2022-04-12 |
@@ -597,6 +599,7 @@
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 | 2023-10-20 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-02-14 | 2023-03-28 |
 | [Love Has Gone](https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Solar Gamsung Part.7](https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx) | 4:00 | 2024-01-19 |  |
+| [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-15 |  |
 | [Love in Color](https://open.spotify.com/track/5kde3lf0Dm5Epkb1R8hEhI) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 2:57 | 2023-05-05 | 2023-05-16 |
 | [Love is](https://open.spotify.com/track/534SllIFQuSvXIvl3wpsRg) | [idea](https://open.spotify.com/artist/2LEJG6jMglnT21XNF7E8xJ) | [Love is](https://open.spotify.com/album/4kV6ajJrQSLcy82oxJY3xo) | 3:42 | 2022-07-07 | 2022-08-19 |
 | [love is everything \(Feat\. U\-Rim\)](https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [U\-Rim](https://open.spotify.com/artist/4ULMN5yWXAK57P2mlJkJJI) | [love is everything](https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d) | 3:36 | 2023-07-07 | 2023-10-17 |
@@ -633,6 +636,7 @@
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2021-12-20 | 2023-01-11 |
 | [Me and My Shadow](https://open.spotify.com/track/4IZzmVUTTWkT3ixiDKwb0V) | [Dongha](https://open.spotify.com/artist/21lne80DCBNegTOiqPBweb) | [Me and My Shadow](https://open.spotify.com/album/4p1NtmbaC3dPwgxboi6VD7) | 3:55 | 2023-02-24 | 2023-04-27 |
 | [me in longing](https://open.spotify.com/track/3UwMPI8S3VNRSByUz12N01) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [me in longing](https://open.spotify.com/album/3U3B3caDhoT8Lmaj7J1kjv) | 3:20 | 2023-03-27 | 2023-07-18 |
+| [Me, Myself](https://open.spotify.com/track/32tdszpJz2MosFHjn2iSmi) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Itsuyoung](https://open.spotify.com/album/7InEECuOl10UMl1eVP9cbr) | 3:33 | 2024-04-15 |  |
 | [Meant to be](https://open.spotify.com/track/2rH9qCs1Ok60cF0lOqn8Mk) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Chabak\- Night of Murder and Romance, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1q7FUPWyrA2fjvFjcmUTc2) | 4:40 | 2023-08-24 | 2023-11-03 |
 | [Meet him among them](https://open.spotify.com/track/6H8LsxDktkwTuUVGXf3anP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Meet him among them](https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP) | 4:18 | 2022-06-18 | 2022-08-02 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-07-07 | 2022-08-02 |
@@ -654,6 +658,7 @@
 | [Missing You](https://open.spotify.com/track/0R9NMsHkddNlBsiPRCu5IZ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Missing You](https://open.spotify.com/album/46eV6A0YGpX6QCI4ncKTG8) | 3:57 | 2023-03-27 | 2023-07-18 |
 | [Missing You](https://open.spotify.com/track/0nrajlDiEVcM02yBE1QfPp) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Missing You](https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE) | 4:17 | 2023-11-02 | 2024-02-02 |
 | [Mom](https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Mom](https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm) | 5:40 | 2022-07-26 | 2022-10-27 |
+| [Moments of Our Love](https://open.spotify.com/track/4QZwV8ynbo8u2HVGLWR8fU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day](https://open.spotify.com/album/6LJAXPvSt6UYHogAWJPCMr) | 4:13 | 2024-04-15 |  |
 | [Monthly Project 2022 October Yoon Jong Shin \- Island](https://open.spotify.com/track/0wkdaGYXz1jRKZYlqhS2Ot) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2022 October Yoon Jong Shin \- Island](https://open.spotify.com/album/5kKaGfyHpg7vTZwClw7cTc) | 5:02 | 2022-10-26 | 2023-01-11 |
 | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/track/3bxZL7GTRzd58F3hqobv1R) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/album/26Imwvx2Z6xc7CPe0WFxcS) | 4:31 | 2023-09-18 | 2023-11-14 |
 | [Moody Night](https://open.spotify.com/track/0rq0zk8B67NMUH1tT8Amu2) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [When the Weather is fine OST Part.6](https://open.spotify.com/album/0phMCLWBwOcYaDprxukeaf) | 3:47 | 2022-03-31 | 2022-04-16 |
@@ -843,6 +848,7 @@
 | [Snowman](https://open.spotify.com/track/7IYV48LQQiUxHzydk0hZIM) | [Lee Byeong Chan](https://open.spotify.com/artist/1DY7HbMeZuWTNB43RrdPUS) | [Firsthand, Pt.1](https://open.spotify.com/album/25WmjgBgUktJi8DRpsscTV) | 4:07 | 2023-02-24 | 2023-06-23 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-08 | 2023-04-27 |
 | [So far away](https://open.spotify.com/track/2pFuOSk4JzrVKxRJmiQQz3) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [RockRockparty Part.3](https://open.spotify.com/album/6AcabhHLL4EsmnZ4s110qe) | 3:07 | 2023-08-31 | 2023-11-03 |
+| [So Sick](https://open.spotify.com/track/4n2aF5sqYdYvCuiU8FUnt5) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Reunion Counseling \(Original Soundtrack\), Pt.3](https://open.spotify.com/album/0qNQk0wVZVOQzlTL0gQmb3) | 3:57 | 2024-04-15 |  |
 | [So that my day could end \(feat\. Han Dong Geun\)](https://open.spotify.com/track/2jWT39ijINYfCPgxBveGpa) | [Yeoro](https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [So that my day could end](https://open.spotify.com/album/2tFzFtdSaVvEptMyR6cSlc) | 3:58 | 2023-01-10 | 2023-02-25 |
 | [So to speak,Love](https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Neighborhood enemy](https://open.spotify.com/album/67B6cE29Q7bTaTkJnEVFTJ) | 4:55 | 2023-05-05 | 2023-05-16 |
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-29 | 2022-11-17 |

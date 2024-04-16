@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 95324,
+  "2024-04-16": 95264,
   "date_first_scraped": "2022-06-09",
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
   "name": "\u6696\u5fc3\u60c5\u6b4c",
@@ -2529,6 +2529,24 @@
       "duration_ms": 242837,
       "name": "\u54c6\u553b\u54aa",
       "url": "https://open.spotify.com/track/57RA8RHw9BlzKPkSDET63E"
+    },
+    {
+      "album": {
+        "name": "\u54c8\u5c3c",
+        "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "\u54c8\u5c3c",
+      "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
     },
     {
       "album": {
@@ -5597,7 +5615,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 246334,
       "name": "\u7d66\u4f60\u610f\u5916\u7684\u751c",
       "url": "https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF"

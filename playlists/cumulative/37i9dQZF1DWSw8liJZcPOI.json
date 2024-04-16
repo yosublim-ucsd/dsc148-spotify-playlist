@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 270100,
       "name": "Kindred",
       "url": "https://open.spotify.com/track/3OCVlE2SajdElQt0HI3wbq"
@@ -9300,6 +9300,24 @@
       "duration_ms": 309702,
       "name": "Winter's Fall",
       "url": "https://open.spotify.com/track/3mFQNmkVxLga6LyX3s8fI0"
+    },
+    {
+      "album": {
+        "name": "Wounds To Woe",
+        "url": "https://open.spotify.com/album/4msM4VX2wwtJPnLYb3ECUM"
+      },
+      "artists": [
+        {
+          "name": "Abilene",
+          "url": "https://open.spotify.com/artist/0RoXefwJwTpzU2sFmTM73H"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277760,
+      "name": "Wounds To Woe",
+      "url": "https://open.spotify.com/track/70ki5cSz9lOGH5JXmAXIEC"
     },
     {
       "album": {

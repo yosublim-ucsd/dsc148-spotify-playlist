@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
-156 songs - 8 hr 20 min
+157 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 | 2024-02-18 |
 | [Panipaali\-2](https://open.spotify.com/track/4DkshUNprCxqUt2tRdTNO5) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Panipaali\-2](https://open.spotify.com/album/4md2GkBem01yXH7CsAeHIz) | 3:38 | 2021-12-03 |  |
 | [Pattuduthu Vannathum \(From "Kumari"\)](https://open.spotify.com/track/5m5Ns63z7A2QGSqL3QghqL) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sreehari](https://open.spotify.com/artist/7JoyE37sAJF5iZod0sNBhr) | [Pattuduthu Vannathum \(From "Kumari"\) \- Single](https://open.spotify.com/album/7FPwLr3yhBPyGrlBPpSWul) | 4:09 | 2022-11-04 | 2023-07-24 |
+| [Payye Payye Thinnanda](https://open.spotify.com/track/3TijOEnNGG9jKkNpt0a2WO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Payye Payye Thinnanda](https://open.spotify.com/album/6jhnLuH31gqeu44mrFubf0) | 2:56 | 2024-04-15 |  |
 | [Pazhampori](https://open.spotify.com/track/3jWPpu1blZ0QprSxmRFmUr) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9) | [Pazhampori](https://open.spotify.com/album/1fJESuNhmINOlbLa3UbzcQ) | 2:41 | 2023-10-25 | 2024-02-13 |
 | [PO](https://open.spotify.com/track/4QhqKtimLWiEx2haRDjn71) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PO](https://open.spotify.com/album/79llMCaaGlNv70hVUXjJBs) | 3:12 | 2022-05-03 |  |
 | [POGALLEY](https://open.spotify.com/track/2sBVokjCyOYJSbiJaeq3Ni) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:55 | 2023-07-23 |  |

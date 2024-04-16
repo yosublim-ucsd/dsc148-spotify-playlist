@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 41861,
+  "2024-04-16": 41883,
   "date_first_scraped": "2022-05-30",
-  "description": "This is Brian Eno. The essential tracks, all in one playlist.",
+  "description": "This is Brian Eno. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Brian Eno",
   "tracks": [
     {
@@ -2913,7 +2913,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 166440,
       "name": "Top Boy Theme",
       "url": "https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 17057,
+  "num_followers": 17092,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGRkNGNlMDQzZGU0OTNkZWQ3MjYzZGU4NTc2NzlhYTMx",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGNmYzJhNGIzMjVhMTU5YjM3OGFiMGQxYmVhMzhmYzc0",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 161309,
-      "name": "Hella",
-      "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
+      "duration_ms": 131414,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 131414,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
+      "duration_ms": 161309,
+      "name": "Hella",
+      "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
     },
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+        "name": "2 Aliv\u00eb",
+        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
       "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 116871,
-      "name": "Teen X Babe",
-      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
+      "duration_ms": 152533,
+      "name": "G\u00ebek high (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec"
     },
     {
       "added_at": null,
@@ -615,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Aliv\u00eb",
-        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
       "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152533,
-      "name": "G\u00ebek high (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec"
+      "duration_ms": 116871,
+      "name": "Teen X Babe",
+      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 77583,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project X",
         "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 160832,
       "name": "Change",
       "url": "https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 77583,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
     }
   ],
   "unique_name": "This Is Ken Carson",

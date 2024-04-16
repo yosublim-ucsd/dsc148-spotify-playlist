@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:2zF0KCQEt1O4Z9fWVUVi4T">Marcela Gandara</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,256 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,224 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 4 | [Reinarás por siempre](https://open.spotify.com/track/5aZ3SL7HZKxh4lg05xzRGz) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Reinarás por siempre](https://open.spotify.com/album/6OSvTp5WhHWbOIXxDSs67y) | 6:17 |
 | 5 | [Estás Conmigo](https://open.spotify.com/track/3KgyhQfzdgoyWtS3wWzYMh) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Estás Conmigo](https://open.spotify.com/album/35u8rfJWksRMRR59zGq4kR) | 2:28 |
 | 6 | [Hazlo De Nuevo](https://open.spotify.com/track/6E7K7uFn508u6psGNzV28t) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL) | [Hazlo De Nuevo](https://open.spotify.com/album/1d5nDjtagrpW9FWLAozeji) | 4:46 |
-| 7 | [Soy Cristiano](https://open.spotify.com/track/3MhfYzkzvWHRcBkGY7q6PT) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi), [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Samuel lonzoy](https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO), [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [Magely Rs](https://open.spotify.com/artist/5jMAV5z6HGl8JYjhciLqdf) | [Soy Cristiano](https://open.spotify.com/album/03WTkrdcobG9t20dHu5B16) | 3:49 |
+| 7 | [Soy Cristiano](https://open.spotify.com/track/3MhfYzkzvWHRcBkGY7q6PT) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi), [Samuel lonzoy](https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO), [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Magely Rs](https://open.spotify.com/artist/5jMAV5z6HGl8JYjhciLqdf) | [Soy Cristiano](https://open.spotify.com/album/03WTkrdcobG9t20dHu5B16) | 3:49 |
 | 8 | [La Belleza de la Cruz](https://open.spotify.com/track/2IhcN6gngB11q7aYbxMSx4) | [mission musica](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [La Belleza de la Cruz](https://open.spotify.com/album/4L5sx5IblPijRHhCyXJBvn) | 8:42 |
 | 9 | [A Todo Pulmón](https://open.spotify.com/track/6bBFmrwVggZc4NppP3MvOM) | [Los Padrecitos](https://open.spotify.com/artist/2IY9QWoXaTY4XCTVkUzg3h) | [A Todo Pulmón](https://open.spotify.com/album/6Flo5VbLUuRCmIYQ4nvpxs) | 3:41 |
 | 10 | [Eres Grande](https://open.spotify.com/track/00THd4snJCmh5hjKDY14dO) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Eres Grande](https://open.spotify.com/album/2c30lDtKlhRqrfjaBdPBD7) | 3:44 |

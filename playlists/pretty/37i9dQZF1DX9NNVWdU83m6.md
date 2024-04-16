@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,440 likes - 123 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,453 likes - 123 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 105 | [Wilderness Excursion](https://open.spotify.com/track/1j3xq7MWX697olnfkib3ed) | [Kaipa](https://open.spotify.com/artist/2pD2PTwYf1XJQth2hSEmpa) | [Urskog](https://open.spotify.com/album/5ik3Z0hHWgI4qnMw68O9Xd) | 8:57 |
 | 106 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 |
 | 107 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 |
-| 108 | [Heksen Romance](https://open.spotify.com/track/4lL4pZqtxTH20hKyRcjhPN) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Heksen Romance](https://open.spotify.com/album/3FG5WJqshDmHjbLlHnBZ2a) | 6:34 |
+| 108 | [Heksen Romance](https://open.spotify.com/track/5J5SdJ922q3mDWlB0FmqoS) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Ex Voto](https://open.spotify.com/album/6dTv5BG3ey60LT4e3u1jr9) | 6:34 |
 | 109 | [Gotu Lust](https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Self\-Titled.](https://open.spotify.com/album/5zjTdXe19FOs1xfb30GQ2v) | 3:51 |
 | 110 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 |
 | 111 | [Kid](https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR) | 7:21 |

@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-136 songs - 6 hr 8 min
+137 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2024-02-07 | 2024-03-14 |
 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 | 2024-02-07 |  |
 | [Escape](https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2) | [HEATT](https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL) | [Escape](https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA) | 2:37 | 2024-03-06 |  |
-| [Every Single Time \(I Look At You\)](https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Every Single Time \(I Look At You\)](https://open.spotify.com/album/5ew9qVfDbbTLW7edMIx9JS) | 2:29 | 2024-03-06 |  |
+| [Every Single Time \(I Look At You\)](https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Every Single Time \(I Look At You\)](https://open.spotify.com/album/5ew9qVfDbbTLW7edMIx9JS) | 2:29 | 2024-03-06 | 2024-04-16 |
 | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr) | 2:40 | 2024-02-07 |  |
 | [Exceso \(feat\. GALE\)](https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Exceso \(feat\. GALE\)](https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT) | 2:22 | 2024-02-07 |  |
 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 | 2024-02-07 |  |
@@ -103,6 +103,7 @@
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2024-02-07 | 2024-04-12 |
 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 | 2024-02-07 |  |
 | [Remedy](https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Remedy](https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2) | 2:07 | 2024-02-07 | 2024-03-08 |
+| [Ripped](https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Ripped](https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6) | 3:04 | 2024-04-11 |  |
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2024-02-07 | 2024-03-14 |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2024-02-07 |  |
 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 | 2024-02-07 | 2024-03-07 |

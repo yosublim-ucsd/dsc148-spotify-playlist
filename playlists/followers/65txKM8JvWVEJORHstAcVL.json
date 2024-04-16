@@ -1,8 +1,8 @@
 {
-  "2024-04-15": 28603,
+  "2024-04-16": 28593,
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (7/4/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (14/4/2024)",
   "tracks": [
     {
       "album": {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 181997,
       "name": "Loka",
       "url": "https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv"
@@ -826,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Today is the day",
+        "url": "https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170780,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF"
+    },
+    {
+      "album": {
         "name": "TORNAR",
         "url": "https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER"
       },
@@ -837,7 +877,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 169870,
       "name": "TORNAR",
       "url": "https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN"
@@ -913,6 +953,24 @@
       "duration_ms": 178467,
       "name": "TUTA GOLD",
       "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
+    },
+    {
+      "album": {
+        "name": "T\u00f2pics - Cap. I: R\u00e0bia",
+        "url": "https://open.spotify.com/album/0xXbC43rDqh27wSjhCgrxN"
+      },
+      "artists": [
+        {
+          "name": "Aina Reig",
+          "url": "https://open.spotify.com/artist/2Ij9EybzTRRk2u4IZ5kwdM"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180590,
+      "name": "T\u00f2pics - Cap. I: R\u00e0bia",
+      "url": "https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo"
     },
     {
       "album": {

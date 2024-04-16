@@ -1,13 +1,29 @@
 {
-  "description": "The women whose music and influence have rocked our world. Cover: Hayley Williams of Paramore",
-  "num_followers": 743385,
+  "description": "The women whose music and influence have rocked our world. Cover: Gwen Stefani of No Doubt ",
+  "num_followers": 743394,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwNzEwMzM3OCwwMDAwMDAwMGVlMDE0YmIwZjkzZGFhNTE2ZjM2MWQ2MjFhYWI0MjJl",
+  "snapshot_id": "MTcxMzE5MDg3MywwMDAwMDAwMDljMzk3NDJhM2U5ODNkZTg1ZGQ2MWNmOTUzOGM3NjA5",
   "tracks": [
+    {
+      "added_at": "2024-04-15 14:21:13",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
     {
       "added_at": "2024-02-05 03:22:58",
       "album": {
@@ -165,10 +181,10 @@
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
-      "added_at": "2024-02-05 03:22:58",
+      "added_at": "2024-04-15 14:21:13",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
@@ -176,9 +192,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/6mfkHv00I6jhHIn7EWHJ2N"
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2024-02-05 03:22:58",
@@ -739,22 +755,6 @@
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
-    },
-    {
-      "added_at": "2024-02-05 03:22:58",
-      "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2024-02-05 03:22:58",

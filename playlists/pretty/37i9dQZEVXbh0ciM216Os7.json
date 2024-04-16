@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMGYyOGM2OGY4MjI0Mzc5YTNlODAzMWFmMTRkYWYyYzBj",
+  "snapshot_id": "MCwwMDAwMDAwMGZmNWY2M2U0OTc2NDEyZjdmZmNlYjc3ODgyMjgxMGI5",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -35,18 +35,30 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Whatever I Want",
-        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
+        "name": "DBZ",
+        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         }
       ],
-      "duration_ms": 167447,
-      "name": "Whatever I Want",
-      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
+      "duration_ms": 191040,
+      "name": "DBZ",
+      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -67,6 +79,26 @@
       "duration_ms": 244606,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2RUwWqozD44OMcsqbk3PdZ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "The Cleansing",
+        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "duration_ms": 480566,
+      "name": "The Cleansing",
+      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -139,34 +171,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "DBZ",
-        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "DBZ",
-      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -191,22 +195,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Cleansing",
-        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
+        "name": "Whatever I Want",
+        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
       },
       "artists": [
         {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 480566,
-      "name": "The Cleansing",
-      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+      "duration_ms": 167447,
+      "name": "Whatever I Want",
+      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "SHAOLIN LESSONS",
+        "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
+      },
+      "artists": [
+        {
+          "name": "Pexxa",
+          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "SHAOLIN LESSONS",
+      "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Signature",
         "url": "https://open.spotify.com/album/01FwpQP88PwU2y2LZATUQc"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 564823,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/07PImZzoVuj4TBAWRtgUZJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "SHAOLIN LESSONS",
-        "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
-      },
-      "artists": [
-        {
-          "name": "Pexxa",
-          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "SHAOLIN LESSONS",
-      "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
     },
     {
       "added_at": "2024-04-12 04:00:00",

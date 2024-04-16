@@ -2,7 +2,7 @@
 
 ### [This Is Eros Ramazzotti](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yoK5i)
 
-> This Is Eros Ramazzotti\. Los temas esenciales, todos en una lista.
+> This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
 59 songs - 4 hr 9 min
 

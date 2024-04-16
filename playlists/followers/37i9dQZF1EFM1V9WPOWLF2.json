@@ -1,9 +1,27 @@
 {
-  "2024-04-15": 24,
+  "2024-04-16": 25,
   "date_first_scraped": "2024-04-06",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG\">Albert Hype</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Albert Hype",
   "tracks": [
+    {
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/5t4YUyO8Y45tKUiiKJbB2l"
+    },
     {
       "album": {
         "name": "1TRAGO",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 201106,
       "name": "1TRAGO",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"

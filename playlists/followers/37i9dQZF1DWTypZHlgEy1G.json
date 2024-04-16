@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 536163,
+  "2024-04-16": 536076,
   "date_first_scraped": "2021-12-21",
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
   "name": "Standards de la Chanson Fran\u00e7aise",
@@ -2477,10 +2477,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 231200,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC"
+    },
+    {
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/5LZgUafnsq9bXQxwCnyecf"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232675,
+      "name": "Mamy Blue",
+      "url": "https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J"
     },
     {
       "album": {

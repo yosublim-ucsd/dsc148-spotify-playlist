@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Doja Cat",
-  "num_followers": 2066390,
+  "num_followers": 2065341,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA4MjAzMywwMDAwMDAwMGVkNzhhNTQ1YmExZGFlNjZlZjM4NmUwOWRmN2NmNDY0",
+  "snapshot_id": "MTcxMzIwNDUwNiwwMDAwMDAwMDk3ZmYzNDE3MTVkMDg3M2JiZWFhOGZlZmJlOGZkMTli",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -167,22 +167,6 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
-      },
-      "artists": [
-        {
-          "name": "ian",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        }
-      ],
-      "duration_ms": 94666,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -367,6 +351,22 @@
       "duration_ms": 178406,
       "name": "Twirlanta",
       "url": "https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
     },
     {
       "added_at": "2024-04-12 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 113496,
+  "num_followers": 113551,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Pink Friday ... Roman Reloaded",
         "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
       },
@@ -163,26 +183,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Feel This Moment (feat. Christina Aguilera)",
-      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -215,26 +215,6 @@
       "duration_ms": 221075,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "I Need Your Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -295,22 +275,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Dance Again...The Hits",
-        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 237266,
-      "name": "Dance Again (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+      "duration_ms": 234506,
+      "name": "I Need Your Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -331,6 +311,26 @@
       "duration_ms": 206120,
       "name": "Don't Stop the Party (feat. TJR)",
       "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "#willpower (Deluxe)",
         "url": "https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 279026,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/7IohFKIwrb75c4XaqX7WWo"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 410096,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla"
       },
@@ -527,18 +543,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Until Now",
-        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 410096,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
+      "duration_ms": 232800,
+      "name": "Let's Go (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -591,26 +611,6 @@
       "duration_ms": 243413,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Let's Go (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Paradise - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "> album title goes here <",
         "url": "https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 243746,
       "name": "Professional Griefers - Vocal Mix",
       "url": "https://open.spotify.com/track/173GdOjbjznHLmgcIVJ5Wr"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 286346,
+      "name": "Paradise - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Diamonds (Remixes)",
-        "url": "https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Lee Dagger",
-          "url": "https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC"
-        },
-        {
-          "name": "Marc Jackson Burrows",
-          "url": "https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Diamonds - The Bimbo Jones Vocal Edit",
-      "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Hot Right Now (Remixes) (feat. RITA ORA)",
         "url": "https://open.spotify.com/album/40mKp2q5A9Kq0vnsAvMsXz"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 194840,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Diamonds (Remixes)",
+        "url": "https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Lee Dagger",
+          "url": "https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC"
+        },
+        {
+          "name": "Marc Jackson Burrows",
+          "url": "https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Diamonds - The Bimbo Jones Vocal Edit",
+      "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Dirty Bass",
-        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "Cover Drive",
-          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "House Classics, Vol. 1 (Presented by Spinnin' Records)",
         "url": "https://open.spotify.com/album/7Cghhp1oxalD3s0LZ6V6cE"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 225040,
       "name": "Hungry Hearts",
       "url": "https://open.spotify.com/track/6kILX4JxWPMGSe7lNWZmqL"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Dirty Bass",
+        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Cover Drive",
+          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
     },
     {
       "added_at": "2022-10-14 00:00:00",

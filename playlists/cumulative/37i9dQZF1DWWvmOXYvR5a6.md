@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Loopy\(루피\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-682 songs - 1 day 12 hr 58 min
+683 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [B\*\*ch \(Feat\. CHANGMO\)](https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Life is Once](https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6) | 3:22 | 2023-10-27 | 2024-03-31 |
 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 | 2023-07-01 |  |
 | [Baby](https://open.spotify.com/track/6XgrmsDAnuYvpBKVjy4ihI) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Shininryu](https://open.spotify.com/album/2yXhRvdGX9y21B04xr44Vw) | 3:46 | 2022-04-21 | 2022-07-29 |
+| [BAD \(feat\. YOUHA\)](https://open.spotify.com/track/7ph9Xo8TV9VFefeoJYdPt6) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [3](https://open.spotify.com/album/0gTHn0J0lacEFTTpFsGa2T) | 3:22 | 2024-04-12 |  |
 | [Bad Morning](https://open.spotify.com/track/0OadKRqGmUnSJBPG61eMWE) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:51 | 2022-04-01 | 2022-07-16 |
 | [BAEK\-SEOK HIGHSCHOOL \(Prod\. Jgrow\)](https://open.spotify.com/track/6DFuz5klp5t2UXo4NFMg3Y) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [BAEK\-SEOK HIGHSCHOOL](https://open.spotify.com/album/1zJnI2oziS0rXmEs0yDvRV) | 3:36 | 2022-05-11 | 2022-07-16 |
 | [BANDS TO THA ROOF](https://open.spotify.com/track/2XuL9psXSmu3Eb7BsbGK66) | [Mac9](https://open.spotify.com/artist/5bQqdZckFb7rtZS0hFJsuT) | [FASTEST SHOOTING STAR!](https://open.spotify.com/album/0sQQ0zzSZ0ZVrNr47Jc6np) | 2:10 | 2022-07-13 | 2022-07-15 |
@@ -152,7 +153,7 @@
 | [Do what I do \(Feat\. Lee Juck, Pphk\)](https://open.spotify.com/track/0axQuDH6BVXiUCkPrbuJb7) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv) | [JAEHO](https://open.spotify.com/album/3Rdp3uLt6BdeV8a64pNTbi) | 4:11 | 2022-05-28 | 2022-07-18 |
 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 | 2022-04-01 | 2022-07-28 |
 | [Don't cry \(Feat\. george\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 3:40 | 2022-04-21 | 2022-07-23 |
-| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-23 |  |
+| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-23 | 2024-04-16 |
 | [Don’t think about it \(with\. ASH ISLAND\)](https://open.spotify.com/track/57sRaMnMkG0lh1QdR264Xk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-21 | 2022-07-19 |
 | [Don′t do That](https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:15 | 2022-06-13 |  |
 | [Drama](https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 2:50 | 2022-07-24 |  |

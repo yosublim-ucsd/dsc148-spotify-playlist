@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Zendaya. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Zendaya. The essential tracks, all in one playlist.",
   "name": "This Is Zendaya",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 233375,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"

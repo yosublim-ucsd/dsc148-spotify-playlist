@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,517 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,500 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 8 | [Kitty](https://open.spotify.com/track/0CSQeWGaxe4DyGxNMCGwAy) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Kitty](https://open.spotify.com/album/6uaAJL6HfIMXm8vGroXnCz) | 7:20 |
 | 9 | [Healing Song](https://open.spotify.com/track/13h1mul2pc4WfGjriHp6V7) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU) | [Healing Song](https://open.spotify.com/album/7zMbFnLplpqzwRsKYkOpCt) | 6:13 |
 | 10 | [The Gap of Dreams / Nia’s Jig / The Beekeeper](https://open.spotify.com/track/5MH17KACijBOpJZ6VGVibO) | [Altan](https://open.spotify.com/artist/6koEjb4607APXtFtjxvA5T) | [The Gap of Dreams](https://open.spotify.com/album/0eMD7KitnmLQH2cPLdsn0v) | 5:20 |
-| 11 | [She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle](https://open.spotify.com/track/4b1WBCojHWnAPbBbCUSJTE) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:42 |
+| 11 | [She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle](https://open.spotify.com/track/3Erps4RNubE4Ts78nA9eti) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd) | 3:42 |
 | 12 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 2:12 |
 | 13 | [The Mountain Road / Old Concertina Reel \(2 Reels\) \[Live\]](https://open.spotify.com/track/0Oh03sjYtG61Cju0IeO0dd) | [Frankie Gavin](https://open.spotify.com/artist/5repE3sF3Q4joYE2ZJvqQK), [Arty McGlynn](https://open.spotify.com/artist/6ujxf9hiPIBdwz3fRCueZy), [Aidan Coffey](https://open.spotify.com/artist/5uQDb5rnV4uavRr0cfyXzp) | [Irlande \(Live\)](https://open.spotify.com/album/5nBZLZBNajJ5LkWM5HuDHy) | 3:36 |
 | 14 | [The Rocky Road to Dublin / The American Polka](https://open.spotify.com/track/4akhlPKimkDKwOyJbKnugt) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Gather the Good](https://open.spotify.com/album/52GcASolw4fAfosClZlqOK) | 3:57 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 58 | [Cooley's Jig](https://open.spotify.com/track/7yY6EPqQsRMO3DYI19wDaX) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG) | 3:18 |
 | 59 | [An Buailteoir Aerach, The Enchanted Lady, The Holy Land](https://open.spotify.com/track/7gaK8OBsNGcD1JcaN8FEcc) | [Mick O'Brien & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/2AIraDzN7ffFkrKJMAbzu1) | [Deadly Buzz \| Aoibhinn Crónán](https://open.spotify.com/album/1OkRTaAOZHZCADcU5Qh7FC) | 3:41 |
 | 60 | [Girls Put the Fags Out: Ashplant \- Red Haired Lass.](https://open.spotify.com/track/04JYZ3q9FOCb9wZ2b9qX2l) | [Oige](https://open.spotify.com/artist/1DjvIbQK1vNuJOy25Y0w7g) | [Live](https://open.spotify.com/album/4AImfr97hklSUt6PrFhwrh) | 3:21 |
-| 61 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1ObSUAb8X6yH2rnJruvltj) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/4XT5jo6QonCnx7hIH9iqQY) | 2:17 |
+| 61 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/6tOmAVnVKch0LXgJyttaja) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle and Go](https://open.spotify.com/album/7A4cq0Om2zpnFJDBq34itt) | 2:17 |
 | 62 | [Poirt: Delia Keane's/ the Horse's Leotard/ Seán Buí/ the Dawn Chorus](https://open.spotify.com/track/6AXL9fFoqoXLkro46Asher) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Inné Amárach](https://open.spotify.com/album/2pP4o0xgCTMyRQftQk5Ikk) | 4:55 |
 | 63 | [The Ships Are Sailing/The Cup Of Tea](https://open.spotify.com/track/1AoBoAOHEE2n5iQ99ngKf6) | [Alan McCartney & Paul Bradley & Jason O'Rourke & Brendan O'Hare & Ray Gallen](https://open.spotify.com/artist/0IMlCgkOv8meUbMYENZ1zq) | [Traditional Irish Music From Belfast](https://open.spotify.com/album/4ZZPVBEYihkdUgctMNeFSD) | 4:25 |
 | 64 | [Cronin's / I Do Not Incline](https://open.spotify.com/track/3n1bWif204sqx4WEKNsC5o) | [Jack Talty & Cormac Begley](https://open.spotify.com/artist/60mipt3IynE5fA4ofslbBW) | [Na Fir Bolg](https://open.spotify.com/album/3y1G4HdofbXTslkCJzMiBt) | 3:25 |

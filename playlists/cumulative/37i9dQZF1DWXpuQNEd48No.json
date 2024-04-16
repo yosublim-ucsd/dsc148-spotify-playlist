@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Gulzaar Chhaniwala",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 142014,
       "name": "Ankhon Ka Kasoor",
       "url": "https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 247450,
       "name": "Chirmathi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/4DBlTglgmsMfeXe1UzzJD6"
@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Ha Ha Ha",
+        "url": "https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189886,
+      "name": "Ha Ha Ha",
+      "url": "https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU"
+    },
+    {
+      "album": {
         "name": "Handcuffs",
         "url": "https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx"
       },
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 206833,
       "name": "Jat Clan",
       "url": "https://open.spotify.com/track/1TQCXSttYddp45YPpSQK4Y"
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 255857,
       "name": "Kaal",
       "url": "https://open.spotify.com/track/2yhtMM4qhk145z3U9SnUfX"
@@ -3014,7 +3036,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 163172,
       "name": "Naina Ki Talwar",
       "url": "https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ"

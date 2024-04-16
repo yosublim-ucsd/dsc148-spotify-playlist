@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Joyce Alane
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,246 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,035 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 5 | [Como Vai Você](https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Como Vai Você](https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg) | 3:01 |
 | 6 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 |
 | 7 | [Até o fim](https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mariana e Mestrinho](https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8) | 4:09 |
-| 8 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
+| 8 | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM) | 2:34 |
 | 9 | [Esqueça Tudo](https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe) | [Esqueça Tudo](https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF) | 3:09 |
-| 10 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 |
-| 11 | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM) | 2:34 |
+| 10 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
+| 11 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 |
 | 12 | [Neste Contexto](https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Neste Contexto](https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE) | 3:02 |
 | 13 | [Feito A Maré](https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Se o Meu Peito Fosse o Mundo](https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO) | 3:12 |
 | 14 | [Por Que Não](https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Por Que Não](https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA) | 3:05 |

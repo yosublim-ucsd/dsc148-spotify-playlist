@@ -2,7 +2,7 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Ken Carson
+> The home of rage rap\. Cover: Destroy Lonely
 
 82 songs - 3 hr 23 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Remembering the elegiac voice of love & longing..\. Pankaj Udhas, always & forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,441 likes - 77 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,471 likes - 77 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

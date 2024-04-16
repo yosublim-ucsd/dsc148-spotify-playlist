@@ -4,13 +4,14 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-232 songs - 22 hr 47 min
+234 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(T\) Error](https://open.spotify.com/track/46dWypqelzOHe9P4ssJwUt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 5:22 | 2022-08-15 | 2023-02-14 |
 | [20 Hz](https://open.spotify.com/track/1ndmrtMTVTFLRYb0RPo36k) | [Capricorn](https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l) | [20 Hz](https://open.spotify.com/album/5ncryb8nwQ3mxE84Jha93X) | 6:48 | 2023-04-18 | 2024-02-28 |
 | [20HZ \- Carl Cox Remix](https://open.spotify.com/track/4OMCH12g8VOh1Rqoy9ResS) | [Capricorn](https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [20HZ \(Remixes\)](https://open.spotify.com/album/3f9mgadeL04VN4LIwtDOgL) | 6:49 | 2023-06-20 |  |
+| [333](https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD), [Vikthor](https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO) | [Rekindled \- EP](https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo) | 6:26 | 2024-04-15 |  |
 | [Accelerate](https://open.spotify.com/track/2HFFNPjMoAUUIU5iAr9bUZ) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Accelerate](https://open.spotify.com/album/5Lusm3Pd6yI36T2OU0laov) | 6:23 | 2022-08-15 | 2023-02-14 |
 | [Acid Charge](https://open.spotify.com/track/6GZ5QBzF4MzqWvCajqXNnl) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Underground : Techno](https://open.spotify.com/album/4834u6kQbxg8pR30yAm9xl) | 4:57 | 2023-08-03 |  |
 | [Acid Dip](https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Acid Dip](https://open.spotify.com/album/2tiEFUO4ZykPhvopjijQFR) | 8:14 | 2022-08-15 | 2022-12-01 |
@@ -171,6 +172,7 @@
 | [Realize \- Original Mix](https://open.spotify.com/track/0WlHwzg4dnOEDaEi4jvey0) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Repeat](https://open.spotify.com/album/6JpLEuSxYUzt0HwZMOQFmj) | 7:27 | 2022-08-15 | 2023-02-14 |
 | [Redemption](https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Redemption](https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18) | 5:23 | 2024-04-08 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-06-20 | 2024-02-28 |
+| [Rekindled](https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD), [Vikthor](https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO) | [Rekindled \- EP](https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo) | 7:16 | 2024-04-15 |  |
 | [Release \- Tech Us Out Remix](https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD), [Angelica de No](https://open.spotify.com/artist/5MINOFapmx47AHSzgeWAd4), [Tech Us Out](https://open.spotify.com/artist/4RYIvQkrR2g886yxR4ZYlM) | [Release](https://open.spotify.com/album/0ZWmp1nstHHDmZRpEGTFu5) | 7:02 | 2023-08-03 |  |
 | [Rhythm Of Future](https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv) | [Kreso](https://open.spotify.com/artist/6L2QcHmLKEJTB2XhODBAyT), [Just Frank](https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV) | [Rhythm Of Future](https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk) | 6:31 | 2023-08-28 |  |
 | [Rhythm Tension](https://open.spotify.com/track/2ToQPlXkcArtp7DhUhRDFA) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Speicher 118](https://open.spotify.com/album/6u1dHk7i5c2vFy0XPt0v33) | 5:54 | 2022-08-15 | 2023-02-14 |

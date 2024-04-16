@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,982 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,930 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 21 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 |
 | 22 | [Heaven Bent](https://open.spotify.com/track/43X40H5c6YX3yglq8MKt38) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/4jy7lQVm86yCpTkUcIx2JN) | 6:47 |
 | 23 | [Darkwater](https://open.spotify.com/track/6ym2fufsRInM3WzIdIqsOw) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Darkwater](https://open.spotify.com/album/5LZVAYPoQPQDMsMEMXSRmj) | 4:46 |
-| 24 | [She Took a Gamble](https://open.spotify.com/track/0UoDM2sB2HUAWPbYbv519q) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Sounds from Scotland , Vol\. 1](https://open.spotify.com/album/4CChRZ07cnoKZHCp1gHHZw) | 3:13 |
+| 24 | [She Took a Gamble](https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Way Out I'll Wander](https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ) | 3:15 |
 | 25 | [Little Jose](https://open.spotify.com/track/4t8HYOqorDEhyVGHHxCmXw) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie \(Spotify Exclusive Version\)](https://open.spotify.com/album/1aey7yOQZ0QUM5CI3FF1dT) | 1:59 |
 | 26 | [Bloodshot \- Demo](https://open.spotify.com/track/00AVBnaQz7yRv8NTpNlCVU) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lovers](https://open.spotify.com/album/1pUKusc74fo1nc4reY2S5g) | 2:52 |
 | 27 | [Singing Saw](https://open.spotify.com/track/2f2UMBkyUl8gnEdV0rju4N) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 7:15 |

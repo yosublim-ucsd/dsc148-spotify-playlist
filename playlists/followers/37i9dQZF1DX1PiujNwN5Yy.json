@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 111663,
+  "2024-04-16": 111632,
   "date_first_scraped": "2021-12-30",
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
   "name": "gris",
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 162000,
       "name": "Mi Cabeza",
       "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"

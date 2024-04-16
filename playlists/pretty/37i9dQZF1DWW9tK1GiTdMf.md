@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Sillyelly, GionnyScandal, AleXX iSt4r in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,301 likes - 82 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,312 likes - 82 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 4 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 |
 | 5 | [Bugia \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6iuaBigoAAaxkEYTREs4Nu) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [TILT](https://open.spotify.com/album/7fbhaflR4GnmiYsVEiTqr2) | 2:21 |
 | 6 | [ODIO LA SAD](https://open.spotify.com/track/6jt2r3feKwe8mC5W1u1Ijv) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:32 |
-| 7 | [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 |
-| 8 | [Atlantide](https://open.spotify.com/track/3MGTD4ZoHUQzFjB150zwsR) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Atlantide](https://open.spotify.com/album/3vMyRtN7PCtrQPgRp0Fljr) | 3:29 |
-| 9 | [piercing all’anima](https://open.spotify.com/track/10P5TUZxRYHCY9C82Zn9VF) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [piercing all’anima](https://open.spotify.com/album/79xbZKj1eE16NO1xfrrkRA) | 2:39 |
-| 10 | [se ne va](https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:43 |
+| 7 | [se ne va](https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:43 |
+| 8 | [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 |
+| 9 | [Atlantide](https://open.spotify.com/track/3MGTD4ZoHUQzFjB150zwsR) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Atlantide](https://open.spotify.com/album/3vMyRtN7PCtrQPgRp0Fljr) | 3:29 |
+| 10 | [piercing all’anima](https://open.spotify.com/track/10P5TUZxRYHCY9C82Zn9VF) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [piercing all’anima](https://open.spotify.com/album/79xbZKj1eE16NO1xfrrkRA) | 2:39 |
 | 11 | [IL MIO FUNERALE](https://open.spotify.com/track/41DJVZFS981Y0A6pIEejMo) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:35 |
 | 12 | [CONTROMANO](https://open.spotify.com/track/7HJJTFPgHyai0jmwHEayMI) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [CONTROMANO](https://open.spotify.com/album/2UYHc2lDT8OHnOyp4VQU2k) | 3:12 |
 | 13 | [La solitudine](https://open.spotify.com/track/2LXVsb2J2Vw2dfErzigk0E) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [La solitudine](https://open.spotify.com/album/09ZtmW6fJ0vVZ9idySkxEh) | 3:00 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 81 | [ALESSIA \(INCAZZATI\)](https://open.spotify.com/track/0kC5Tvmwf4A2OdXievXpVa) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [ALESSIA \(INCAZZATI\)](https://open.spotify.com/album/6ylCnzIfWx25eZ2q1q4Je0) | 2:37 |
 | 82 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
 
-Snapshot ID: `MTcxMjg3Mjg2MCwwMDAwMDAwMGQ0NGM1YWUxNjRiNzFiZjBmMDZiYTRhNGVkN2Y0MTIw`
+Snapshot ID: `MTcxMzE4OTc0OCwwMDAwMDAwMDQ1ZmMzOTkzMjRmOWYzMjE4N2VkOGJiZmFjNmVkYzQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
-  "num_followers": 1076903,
+  "num_followers": 1076942,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MjkwMSw1YjIwMjU2YmZhY2YwODQwYTliY2UyZjEyMjA1MjM2YzUzNDY2NTZj",
+  "snapshot_id": "MjkwNiw5MGQxOWY3NDY5YTI0MmZiM2FjNzBjMjc5ZTZlN2JiMDQ4N2NlZDk4",
   "tracks": [
     {
       "added_at": "2024-04-01 10:16:20",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/6aV2b0sPiUni65o0oX7imo"
     },
     {
+      "added_at": "2024-04-15 09:13:29",
+      "album": {
+        "name": "BURNING OUT",
+        "url": "https://open.spotify.com/album/6NeHaP5TF8cyBVY1MT1XfB"
+      },
+      "artists": [
+        {
+          "name": "BERNZ",
+          "url": "https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "BURNING OUT",
+      "url": "https://open.spotify.com/track/4Eo8tsg8EEMhQRSOYWawcF"
+    },
+    {
       "added_at": "2024-04-01 10:16:20",
       "album": {
         "name": "SOKAP",
@@ -901,6 +917,22 @@
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
+      "added_at": "2024-04-15 09:15:51",
+      "album": {
+        "name": "8-bit tears",
+        "url": "https://open.spotify.com/album/35fMCaDodO8BjaCCQIUhHL"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        }
+      ],
+      "duration_ms": 98823,
+      "name": "8-bit tears",
+      "url": "https://open.spotify.com/track/4JOC4MEogHv77w1zG63xjR"
+    },
+    {
       "added_at": "2024-04-01 10:16:20",
       "album": {
         "name": "Home Alone (with Marnik)",
@@ -923,22 +955,6 @@
       "duration_ms": 128031,
       "name": "Home Alone (with Marnik)",
       "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
-    },
-    {
-      "added_at": "2024-04-01 10:16:20",
-      "album": {
-        "name": "RITMO DE DRIFT",
-        "url": "https://open.spotify.com/album/0oKr8AwPdHRuNfZJrmZ2ir"
-      },
-      "artists": [
-        {
-          "name": "BERNZ",
-          "url": "https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "RITMO DE DRIFT",
-      "url": "https://open.spotify.com/track/24RDxxd0fEqNXxdVWU2xCJ"
     },
     {
       "added_at": "2024-04-01 10:16:20",
@@ -2021,6 +2037,22 @@
       "url": "https://open.spotify.com/track/2VTZrMo6fBUdMnfsCgSCo5"
     },
     {
+      "added_at": "2024-04-15 09:46:52",
+      "album": {
+        "name": "don't stop",
+        "url": "https://open.spotify.com/album/3KF5NrBFDEM8k1ZXsjJbfi"
+      },
+      "artists": [
+        {
+          "name": "Yung Slug",
+          "url": "https://open.spotify.com/artist/4Sdo6b63hJDqPMa8mwj2lK"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "don't stop",
+      "url": "https://open.spotify.com/track/1dIEzhJJ4yKkq6xSDzQOry"
+    },
+    {
       "added_at": "2024-04-01 10:16:20",
       "album": {
         "name": "Babel",
@@ -2491,6 +2523,22 @@
       "duration_ms": 160484,
       "name": "Call Me - Slowed",
       "url": "https://open.spotify.com/track/5t1i75ExuS97cGtrbXoQnQ"
+    },
+    {
+      "added_at": "2024-04-15 09:46:13",
+      "album": {
+        "name": "RATPACK$",
+        "url": "https://open.spotify.com/album/6KH4y5lYfwtT76a9pdXyUl"
+      },
+      "artists": [
+        {
+          "name": "$tefanos",
+          "url": "https://open.spotify.com/artist/1Ad1DmdmcBrxG0SpB9fZ7w"
+        }
+      ],
+      "duration_ms": 141394,
+      "name": "RATPACK$",
+      "url": "https://open.spotify.com/track/1hRFFqOVPk0Cx1ZAM51Qok"
     },
     {
       "added_at": "2024-04-01 10:16:20",

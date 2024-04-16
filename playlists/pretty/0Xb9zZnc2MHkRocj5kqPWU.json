@@ -1,13 +1,49 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 63642,
+  "num_followers": 63592,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTgxOSxhNGFmNGY2ZDBkNGY0Mzg4MDVkNTcxYmJmMGViNmMwZjc3NWU1YzAx",
+  "snapshot_id": "MTgyMixmYTliZTQxMjExN2RiYWY5N2I0M2NkZDI1YWZjYzhhMjVkOTg2NWI3",
   "tracks": [
+    {
+      "added_at": "2024-04-15 15:49:06",
+      "album": {
+        "name": "Labyrinth: Ephemera",
+        "url": "https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "duration_ms": 145653,
+      "name": "Prelude in C Major, BWV 846",
+      "url": "https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5"
+    },
+    {
+      "added_at": "2024-04-15 15:50:07",
+      "album": {
+        "name": "Promenade",
+        "url": "https://open.spotify.com/album/7ui0yJFEaDdQLvvOHKgtNz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D3hrxyqYC8D10YneCf8RD"
+    },
     {
       "added_at": "2024-04-05 11:44:05",
       "album": {
@@ -47,6 +83,22 @@
       "duration_ms": 186693,
       "name": "Tristesse",
       "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
+    },
+    {
+      "added_at": "2024-04-15 15:50:28",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4Z22hUgQ17J785sqjJzLCj"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8"
     },
     {
       "added_at": "2024-03-01 12:45:21",

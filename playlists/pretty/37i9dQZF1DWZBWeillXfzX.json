@@ -1,6 +1,6 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 22434,
+  "num_followers": 22445,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Earth Music for Aliens",
-        "url": "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
+        "name": "Earth Music for Aliens",
+        "url": "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
       },
       "artists": [
         {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
         }
       ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
+      "duration_ms": 302640,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -325,6 +309,22 @@
       "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Spirit Rising",
+        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 218088,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
+    },
+    {
       "added_at": "2021-04-27 23:04:41",
       "album": {
         "name": "Raisin' Cain",
@@ -355,22 +355,6 @@
       "duration_ms": 207306,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
-      },
-      "artists": [
-        {
-          "name": "Joey Landreth",
-          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Where Did I Go Wrong",
-      "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -407,6 +391,22 @@
       "duration_ms": 387706,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
+      },
+      "artists": [
+        {
+          "name": "Joey Landreth",
+          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Where Did I Go Wrong",
+      "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 250182,
       "name": "Brown Gatton",
       "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -671,6 +671,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+      },
+      "artists": [
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "duration_ms": 180583,
+      "name": "Cry for Me",
+      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -691,38 +707,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
-      },
-      "artists": [
-        {
-          "name": "TORA DAA",
-          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
-        }
-      ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 221430,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 388893,
+      "name": "Pusher",
+      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -755,18 +755,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 388893,
-      "name": "Pusher",
-      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -817,20 +817,52 @@
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+        "name": "Shufflin' West Coast",
+        "url": "https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Albert Lee",
+          "url": "https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m"
+        },
+        {
+          "name": "Tim Pierce",
+          "url": "https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN"
+        },
+        {
+          "name": "James Harrah",
+          "url": "https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4"
+        },
+        {
+          "name": "Johnny Lee Schell",
+          "url": "https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi"
+        },
+        {
+          "name": "Toshi Yanagi",
+          "url": "https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj"
+        },
+        {
+          "name": "Michael Thompson",
+          "url": "https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE"
+        },
+        {
+          "name": "Brent Mason",
+          "url": "https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk"
+        },
+        {
+          "name": "Paul Franklin",
+          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
         }
       ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
+      "duration_ms": 262536,
+      "name": "Shufflin' West Coast",
+      "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
     }
   ],
   "unique_name": "Modern Blues Guitar",

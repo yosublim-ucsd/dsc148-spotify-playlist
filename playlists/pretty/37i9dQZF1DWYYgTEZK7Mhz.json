@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27940,
+  "num_followers": 27962,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Rita Pavone (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il ballo del mattone",
-      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 168642,
       "name": "Una rotonda sul mare",
       "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Rita Pavone (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il ballo del mattone",
+      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Un'estate al mare / Bing bang being [Digital 45]",
         "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
       },
@@ -583,6 +567,38 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Pinne, Fucile Ed Occhiali",
+      "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Edoardo Vianello",
-        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Pinne, Fucile Ed Occhiali",
-      "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 197533,
       "name": "Balla",
       "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Guarda come dondolo - Single",
+        "url": "https://open.spotify.com/album/6oZAEorbXlD7aiMd7qm6mX"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/4Hsz28zAMAHUZ5DdY6DVSX"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Guarda come dondolo - Single",
-        "url": "https://open.spotify.com/album/6oZAEorbXlD7aiMd7qm6mX"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Guarda come dondolo",
-      "url": "https://open.spotify.com/track/4Hsz28zAMAHUZ5DdY6DVSX"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
         "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le pi\u00f9 belle canzoni di Milva",
-        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Voulez Vous Danser",
         "url": "https://open.spotify.com/album/1F56RB9ZGKIXvgdN9tmeYr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 223143,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/4DqJx5dX9gppOdPDAA2F74"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le pi\u00f9 belle canzoni di Milva",
+        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
     }
   ],
   "unique_name": "Sapore di Sale",

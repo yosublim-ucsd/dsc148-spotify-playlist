@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Rekindled - EP",
+        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386980,
+      "name": "333",
+      "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
+    },
+    {
+      "album": {
         "name": "Accelerate",
         "url": "https://open.spotify.com/album/5Lusm3Pd6yI36T2OU0laov"
       },
@@ -3344,6 +3366,28 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+    },
+    {
+      "album": {
+        "name": "Rekindled - EP",
+        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436963,
+      "name": "Rekindled",
+      "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
     },
     {
       "album": {

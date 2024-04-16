@@ -1,6 +1,6 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 81463,
+  "num_followers": 81477,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "The Essential John P. Kee",
         "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 326493,
       "name": "I Do Worship (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",

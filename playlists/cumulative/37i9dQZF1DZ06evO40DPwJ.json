@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/1UlBXM0fhoHZ1YQLjiCFkN"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Backseat Love",
+      "url": "https://open.spotify.com/track/4easNsCEqsVWDNTXIvMcBk"
+    },
+    {
+      "album": {
         "name": "Booty Bounce",
         "url": "https://open.spotify.com/album/42n9ah7zuBftx5C0X09Xhs"
       },

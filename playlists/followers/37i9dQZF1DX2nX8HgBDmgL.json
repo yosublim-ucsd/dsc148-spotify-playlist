@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 89844,
+  "2024-04-16": 89903,
   "date_first_scraped": "2021-12-28",
   "description": "Home to the Desi Pop Bops. Cover - Babar Mangi, Noman Ali Rajper, Marvi Sahibaan. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>. ",
   "name": "Desi Pop",
@@ -193,6 +193,32 @@
       "duration_ms": 232066,
       "name": "Aaja We Mahiya",
       "url": "https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2"
+    },
+    {
+      "album": {
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
+      },
+      "artists": [
+        {
+          "name": "Noman Ali Rajper",
+          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
+        },
+        {
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289974,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Jojo Siwa
 
-879 songs - 1 day 20 hr 14 min
+880 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [IDOLIZE](https://open.spotify.com/track/3Hs0dJnewbzzk23UIKvg5y) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE), [Her Demons](https://open.spotify.com/artist/4imZXQgV5VXSWSZfzRavM1) | [IDOLIZE](https://open.spotify.com/album/2SOWbWUhvDc6stx7cvbDBK) | 2:36 | 2023-04-21 | 2023-06-24 |
 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 | 2022-11-11 | 2023-01-21 |
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 | 2023-06-23 | 2023-08-05 |
-| [II HANDS II HEAVEN](https://open.spotify.com/track/1Y7vNzQrybb2ICYKmbOfdt) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 5:41 | 2024-03-29 |  |
+| [II HANDS II HEAVEN](https://open.spotify.com/track/1Y7vNzQrybb2ICYKmbOfdt) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 5:41 | 2024-03-29 | 2024-04-16 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-10 | 2022-07-02 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 |  |
 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-02 | 2024-03-30 |
@@ -446,6 +446,7 @@
 | [Karaoke](https://open.spotify.com/track/6zSOlBFpuyqlgnfcz28BqE) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Karaoke](https://open.spotify.com/album/7pcvh3a56G6Sfv5O7lBh1I) | 2:59 | 2024-01-19 | 2024-02-03 |
 | [Karaoke](https://open.spotify.com/track/0FbnT1LTk18JN1Uy2KfufE) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Karaoke](https://open.spotify.com/album/5tFMQoak42d3e8tOC4Ksgb) | 3:14 | 2022-05-06 | 2022-05-20 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-04-05 |  |
+| [Karma is a](https://open.spotify.com/track/04NR79ngZLXIdp7WwYfmG4) | [Margaret Berger](https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2) | [Karma is a](https://open.spotify.com/album/1VbhYau6fkKbK2eOez1ptG) | 2:52 | 2024-04-15 |  |
 | [Keep It To Myself](https://open.spotify.com/track/4FezkkbT6BE8WW2D5xg1rR) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Keep It To Myself](https://open.spotify.com/album/3worsPP3CgRupjsapY6KK8) | 3:11 | 2023-07-28 | 2023-10-28 |
 | [Keep On Rising \(feat\. Michelle Shellers\) \[KVSH & Gancci Remix\]](https://open.spotify.com/track/1Cu8A0xpvYNTznkHyMtBOL) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Gancci](https://open.spotify.com/artist/2uyQkIb1755w342Vf3eFtx), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[KVSH & Gancci Remix\]](https://open.spotify.com/album/0QFqKYBN6BqCE7mp6KwYTV) | 2:49 | 2022-06-24 | 2022-08-27 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-03 | 2024-02-10 |

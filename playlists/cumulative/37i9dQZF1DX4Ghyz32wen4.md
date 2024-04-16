@@ -2,7 +2,7 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Karol G en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Tini en portada.
 
 161 songs - 8 hr 32 min
 

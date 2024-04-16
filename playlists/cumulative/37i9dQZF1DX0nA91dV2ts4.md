@@ -4,7 +4,7 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Yuvan \- Anirudh
 
-131 songs - 9 hr 4 min
+132 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 | 2021-06-21 | 2023-07-29 |
 | [What a Karavaad \(From "Velai Illa Pattadhaari"\)](https://open.spotify.com/track/5TAzphopRhmXL8x6l6v4xg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TOKHFSj7mBAKfnkrPGxq0) | 4:27 | 2021-06-21 |  |
 | [Where Is the Party](https://open.spotify.com/track/45LZkeAJNMpiMCCBcb2sep) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Priyadharshini](https://open.spotify.com/artist/1cNyLPObGyYegUDLbjT9Zh) | [Silambattam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qNjtmLsvjileYcRc9OV5d) | 5:18 | 2021-06-21 |  |
+| [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Prabhu Deva](https://open.spotify.com/artist/4DDxavYKFSz2OWM7J1ArtH), [Venkat Prabhu](https://open.spotify.com/artist/297dxI5V73N6q2EfyOM1vj), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o) | 4:41 | 2024-04-15 |  |
 | [Yaathi Yaathi](https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd) | [Abhishek C S](https://open.spotify.com/artist/1GofTjmdzOjxQojvoMxgfi), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Yaathi Yaathi](https://open.spotify.com/album/1MtVc2FnYzeClvBrICMnRw) | 3:59 | 2021-11-10 | 2023-05-09 |
 | [Yen Chellaperu Apple \(From "Pokkiri"\)](https://open.spotify.com/track/7qPCWbG6yXoOFUpdcTMaZC) | [A\. V\. Ramanan](https://open.spotify.com/artist/2j3wik66pAH58esWJBjVhs), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Playback Singer Special \- Mirchi Suchitra](https://open.spotify.com/album/5OR5LimC4kV6dYOIai8tYi) | 4:29 | 2023-07-06 |  |
 

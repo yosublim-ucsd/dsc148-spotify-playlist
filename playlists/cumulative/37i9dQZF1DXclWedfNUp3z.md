@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-404 songs - 1 day 3 hr 35 min
+405 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-20 | 2022-04-25 |
 | [greenery](https://open.spotify.com/track/7o9CLXoW831csQxsnP4JkH) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:52 | 2021-10-20 | 2022-09-02 |
 | [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 | 2023-01-06 | 2024-03-17 |
+| [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 | 2024-04-15 |  |
 | [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 | 2021-10-20 |  |
 | [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 | 2022-12-01 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
@@ -312,7 +313,7 @@
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2021-10-20 | 2022-07-28 |
 | [Silver Secrets](https://open.spotify.com/track/2OV2BllliHblN27N5I31Hq) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr) | [Field Works: Ultrasonic](https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt) | 5:16 | 2021-10-20 | 2022-07-29 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-20 | 2022-07-28 |
-| [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-20 |  |
+| [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 | 2021-10-20 | 2024-04-16 |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:29 | 2021-10-20 | 2022-07-13 |
 | [Sleep Sequence](https://open.spotify.com/track/16b0tdZzwsVf0Q0NgFynUx) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Sleep Sequence](https://open.spotify.com/album/4ZXiKGAXlAYEndTKT4oLt6) | 3:11 | 2021-10-20 | 2022-07-29 |
 | [Social Fabric](https://open.spotify.com/track/6vg29wum2IoJmTUTF7ywKN) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Social Fabric](https://open.spotify.com/album/0fKz6CFMbWwGRTuuSQickU) | 3:02 | 2021-10-20 | 2022-04-27 |

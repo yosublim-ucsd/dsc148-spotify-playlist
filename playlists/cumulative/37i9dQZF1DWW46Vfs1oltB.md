@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS\)
 
-1,176 songs - 2 day 16 hr 10 min
+1,177 songs - 2 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [PROTO TYPE \(feat\. Basick & San E\)](https://open.spotify.com/track/2jY41YUnPCcHCKXiR47KFB) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [PROTO TYPE \(feat\. Basick & San E\)](https://open.spotify.com/album/0BMiqu4DUcqu1ktR8li84d) | 3:28 | 2022-01-04 | 2022-07-08 |
 | [PSYCHO LOVE](https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [PSYCHO LOVE](https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc) | 3:10 | 2023-03-27 | 2023-06-14 |
 | [Public Figure \(feat\. Swings & Han Yo Han\)](https://open.spotify.com/track/4E4dCHkfEwh18SZqBBKkLv) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Inflection Point](https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD) | 3:12 | 2022-01-15 | 2022-06-14 |
+| [PURE RAGE \(Feat\. Paul Blanco, KHAN, XWALLY, Coogie, Tray B\) \- Remix](https://open.spotify.com/track/36RnvWEXo7PlKH6bx2bwF6) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Xwally](https://open.spotify.com/artist/1bJudkGbYinY2AIQeEi9Cd), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5) | [PURE RAGE \(Remix\)](https://open.spotify.com/album/6iec7EBzWxy6r6khfwnpaw) | 3:40 | 2024-04-15 |  |
 | [PURE RAGE \(Feat\. Street Baby, KOR KASH\)](https://open.spotify.com/track/2eBaP0SbVtKAnXvJ56OLZT) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 3:03 | 2024-01-30 |  |
 | [pushin B](https://open.spotify.com/track/7nXcfzoOmAIAELSm0dlnsr) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [pushin B](https://open.spotify.com/album/70NNetvONciMmAevodUUlH) | 2:31 | 2022-02-17 | 2022-05-25 |
 | [PYE LIFE](https://open.spotify.com/track/575UVLiKt2Cpv4Nx5sLs9Q) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [PYE LIFE](https://open.spotify.com/album/7jivrcL7kJWstKJBanAjQh) | 3:07 | 2022-01-26 | 2022-04-21 |

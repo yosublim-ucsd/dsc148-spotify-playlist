@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-274 songs - 13 hr 45 min
+276 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Roxanne](https://open.spotify.com/track/0bD02USbthuiIWVEjlGUlI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Roxanne](https://open.spotify.com/album/2PxHELBN7MScNb6p6KAB6T) | 2:27 | 2023-04-14 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:55 | 2022-12-02 |  |
 | [Saving All My Love For You](https://open.spotify.com/track/54pr1s3t2Qra9ci8BVCogW) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Saving All My Love For You](https://open.spotify.com/album/3yzcUYYBSl9quj7cjJMzrg) | 3:09 | 2023-04-14 |  |
+| [Say You, Say Me](https://open.spotify.com/track/69MKSGZ1IVMIZ0NVrB5WHK) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Say You, Say Me](https://open.spotify.com/album/6PIF7uKaUZbcxqKAGcYP9o) | 3:11 | 2024-04-15 |  |
 | [See You Again](https://open.spotify.com/track/7bnHkXBteAwu9heqPphwvi) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [See You Again](https://open.spotify.com/album/0zFFBkjNYzzO4Z04aRgMz0) | 2:16 | 2022-05-20 |  |
 | [Señorita](https://open.spotify.com/track/7hQV8TNnJhGHkJK8d9dYyR) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Señorita](https://open.spotify.com/album/0a8QJeGo7PcHLE86b5jRDc) | 3:17 | 2023-02-10 | 2023-04-15 |
 | [Shallow](https://open.spotify.com/track/22xP1yJcVzaWZiLCuJhefg) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Shallow](https://open.spotify.com/album/3ezCdAmG2KGh3PlYL9eBvK) | 2:28 | 2023-05-05 |  |
@@ -205,6 +206,7 @@
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-17 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-12-02 | 2023-11-17 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
+| [Story of My Life](https://open.spotify.com/track/7te7Qcqj5cVAy9Dh9vwKQj) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Story of My Life](https://open.spotify.com/album/14iUI56INZjbh6gM10VxIm) | 4:01 | 2024-04-15 |  |
 | [Stuck with you](https://open.spotify.com/track/3DxwjhRknMbHmPcS46zKrC) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 3:46 | 2022-05-20 |  |
 | [Summer Of 69](https://open.spotify.com/track/6qKfPJbP73WNOky10iESVS) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [Summer Of 69](https://open.spotify.com/album/0gMvh3IrLGFKdd4e7iKyrc) | 2:00 | 2023-05-05 | 2024-03-22 |
 | [Summertime](https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Summertime](https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A) | 3:47 | 2022-05-20 | 2023-05-05 |

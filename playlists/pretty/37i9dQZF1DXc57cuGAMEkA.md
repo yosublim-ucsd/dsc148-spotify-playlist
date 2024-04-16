@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Rina Sawayama & CHANMINA, XG, OneRepublic, aiko and more! cover: Rina Sawayama & CHANMINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,866 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,892 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Wait For You](https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Wait For You](https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo) | 2:55 |
 | 78 | [I Just Killed a Spider](https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I Just Killed a Spider](https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39) | 2:29 |
 
-Snapshot ID: `MTcxMjg5NTg2MSwwMDAwMDAwMGE3MmZkZWZkNjg1NTcxNGUxZDRhMGY5NmYwNzk2ZTA4`
+Snapshot ID: `MTcxMzE2MzM5OCwwMDAwMDAwMDViYTM4Nzk4NThiNzg3NDg4ZDc1Yjk5Y2NhYzdiMWQ4`

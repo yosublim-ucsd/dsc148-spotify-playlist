@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,249 songs - 7 day 16 hr 30 min
+3,250 songs - 7 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [For You](https://open.spotify.com/track/726h3Tn8sodAzPz6FVCraT) | [Sheldon Ferguson](https://open.spotify.com/artist/3tnuhB00OI05TfyLPpKN1I), [Drew Harmony](https://open.spotify.com/artist/13rJ0mJNZbRE6ykLwgi8iu) | [Prelude](https://open.spotify.com/album/6hk2VxGBABQ8EOq7L7spPP) | 3:20 | 2019-11-03 | 2019-11-24 |
 | [For Your Love](https://open.spotify.com/track/5ED36ctggkVCfKRKuNml8O) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [For Your Love](https://open.spotify.com/album/7pXp13wiHydzfejBQq9obb) | 4:27 | 2020-12-20 | 2021-01-06 |
 | [Forever](https://open.spotify.com/track/0LkvwMI2zVxzI8NsK1iaWR) | [Alice Take a Trip](https://open.spotify.com/artist/0MkOWixmBLT3cstRKEOFI6) | [Forever](https://open.spotify.com/album/2zYVKt4IAikJQJ4oO93EPE) | 4:07 | 2023-07-02 | 2023-07-21 |
-| [Forever](https://open.spotify.com/track/2T8k4ME6uvByNnt68gbCnx) | [BoyCaro](https://open.spotify.com/artist/4TyhSSi5hBeK9WTo6qSmBc) | [Forever](https://open.spotify.com/album/1bA6I7NDhWLayP68H2Q9Hy) | 2:40 | 2024-04-05 |  |
+| [Forever](https://open.spotify.com/track/2T8k4ME6uvByNnt68gbCnx) | [BoyCaro](https://open.spotify.com/artist/4TyhSSi5hBeK9WTo6qSmBc) | [Forever](https://open.spotify.com/album/1bA6I7NDhWLayP68H2Q9Hy) | 2:40 | 2024-04-05 | 2024-04-16 |
 | [Forever](https://open.spotify.com/track/61gD8c6C2MvAt1FrqOBg6R) | [Nawy](https://open.spotify.com/artist/6NP1aYhoRMDBhg9AaTzFTs), [NYRE](https://open.spotify.com/artist/233FkFR2Fy2v0c3pn43lXO) | [Forever](https://open.spotify.com/album/1RjWEiR2nfpa0fduARdrJ4) | 2:54 | 2022-11-04 | 2022-11-27 |
 | [Forever Ain't Long Enough \(To Love You The Way I Want To\) \- Radio Edit](https://open.spotify.com/track/1OViIF1z9C4QfZj4mNdgnw) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Sam Howden](https://open.spotify.com/artist/57TQzjlKNFc1Gdo7L310yv), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Aaron Paris](https://open.spotify.com/artist/0oY79dcJHTXNBNCBWD6phF) | [Mathien Forever](https://open.spotify.com/album/3iu7sg3tRfV9txlukkoeB6) | 3:29 | 2021-10-06 | 2021-10-22 |
 | [Forever Bae](https://open.spotify.com/track/5CGWTIq3cbC2g5JO5edJrO) | [Arei Moon](https://open.spotify.com/artist/0ZVW5If1hDoA7kQj3CKIcT) | [Forever Bae](https://open.spotify.com/album/4eNTBqVpsNb66mafzpmRp2) | 3:19 | 2022-12-02 | 2022-12-24 |
@@ -1861,7 +1861,7 @@
 | [Mojados](https://open.spotify.com/track/5leoJGOuSHB7DFKqDZKBUn) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Mojados](https://open.spotify.com/album/0P6ynhWKAMTOePiGBQpkBR) | 3:15 | 2020-04-22 | 2020-05-24 |
 | [momentary euphoria](https://open.spotify.com/track/7ygD2JcNWKvnJpbcP7FFuG) | [luyah](https://open.spotify.com/artist/3drJ5aXNaeyoU28vDZqymn) | [VOYAGER](https://open.spotify.com/album/1t5rXYn4g2I5I0iZCTVvsx) | 3:21 | 2024-03-09 | 2024-03-17 |
 | [Momentum](https://open.spotify.com/track/1Un6j2b9BsHmGTROeNmNPT) | [Mimis Kitchen](https://open.spotify.com/artist/7mJcAuOns8lI6MkVYAVEtE) | [Momentum](https://open.spotify.com/album/7BMepc7HuiYRi1xt8W2MHi) | 2:21 | 2024-02-18 | 2024-02-27 |
-| [Monday To Tuesday Woman](https://open.spotify.com/track/3kWlWGO0ykEQodseEEzS82) | [Matthew Chaffey](https://open.spotify.com/artist/2MnxcOeaRW5eqPKoOrF5fd) | [Hotel Texas](https://open.spotify.com/album/7nhgVegLyNUvr3Z6WCzUwI) | 3:24 | 2024-04-01 |  |
+| [Monday To Tuesday Woman](https://open.spotify.com/track/3kWlWGO0ykEQodseEEzS82) | [Matthew Chaffey](https://open.spotify.com/artist/2MnxcOeaRW5eqPKoOrF5fd) | [Hotel Texas](https://open.spotify.com/album/7nhgVegLyNUvr3Z6WCzUwI) | 3:24 | 2024-04-01 | 2024-04-16 |
 | [Money Right](https://open.spotify.com/track/0DEGdfWlXLfwU1jbY9pIJB) | [Aura](https://open.spotify.com/artist/4wXNf2nPxMMR86PpII2cyH) | [Money Right](https://open.spotify.com/album/6PZQOr2UobsiyCM6Re23P2) | 3:27 | 2020-02-26 | 2020-04-02 |
 | [Money Tree](https://open.spotify.com/track/3NSXLg7KMJ5M6K0I88LPdF) | [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [Money Tree](https://open.spotify.com/album/6wJdnCdWV0s2RDtF5ZYEqR) | 2:59 | 2020-12-18 | 2021-01-03 |
 | [Monster](https://open.spotify.com/track/6VBDdGnghBwQVACafWAUlL) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [ANGER](https://open.spotify.com/album/0q82a7Y4VGcqIr9QHzomuk) | 2:52 | 2022-02-09 | 2022-02-26 |
@@ -2341,6 +2341,7 @@
 | [Right Now](https://open.spotify.com/track/6G5ig6ahvOfT7P84wyAy1x) | [BilDine](https://open.spotify.com/artist/6B3l1c3Ueu3W4rlJuL5Usy), [Ravyyyy](https://open.spotify.com/artist/01vFdVil8bIUsBnzZD9ZW2) | [Right Now](https://open.spotify.com/album/5P2whAI7Hm1HKa9vJuUxER) | 3:07 | 2022-08-26 | 2022-09-11 |
 | [Right Now](https://open.spotify.com/track/1F4Q7cYodZhXfNYZkbI5O1) | [Loc'd](https://open.spotify.com/artist/3d7Q0izC7Rqu1jh4SWjtaR) | [In](https://open.spotify.com/album/63zrGQ0OxDzZZ67kb7EZ4S) | 3:17 | 2022-10-14 | 2022-11-05 |
 | [Right Now](https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb) | [Pandariza](https://open.spotify.com/artist/6CncvXUf8gONynDezyZ6ay) | [Right Now](https://open.spotify.com/album/0gH23ovOTblBlbJoetTIBG) | 3:00 | 2022-08-19 | 2022-09-04 |
+| [Ring Ring](https://open.spotify.com/track/4jVI4bfpGUG8F7zdWI9onQ) | [Marelle](https://open.spotify.com/artist/6s3BBh2IX6IGopBTA8fwGq) | [One Day at a Time](https://open.spotify.com/album/0HRIQLGIr1zNrngGQzY3MH) | 2:39 | 2024-04-15 |  |
 | [RIPPLES](https://open.spotify.com/track/7v35K1s5i5smRRHQkUq8xJ) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [RIPPLES](https://open.spotify.com/album/20BoMnXQO82zPVROkpCv7N) | 2:59 | 2022-08-28 | 2022-09-15 |
 | [Risk](https://open.spotify.com/track/07tFH8SfpNIkTYOb4QB100) | [16B](https://open.spotify.com/artist/3x3ONGPgKqKos9d8DqQPwp), [Omid 16B](https://open.spotify.com/artist/47aK6l0pdWgMUrHKsen2Cg) | [SunTzu](https://open.spotify.com/album/1rBMytGwI3GwqPVydXXvFU) | 8:10 | 2021-04-10 | 2021-04-26 |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2019-10-18 | 2019-12-11 |

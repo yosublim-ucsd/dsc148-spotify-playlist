@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, RAMON EL BRABO
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,801 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,768 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 15 | [Joquebede](https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede](https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb) | 2:49 |
 | 16 | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ) | 2:41 |
 | 17 | [PASSAPORTE](https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [PASSAPORTE](https://open.spotify.com/album/4pjGxdTixPbuJs6YP3C213) | 1:52 |
-| 18 | [Chove Cedo](https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Chove Cedo](https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR) | 3:12 |
-| 19 | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO) | 2:10 |
+| 18 | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO) | 2:10 |
+| 19 | [Chove Cedo](https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Chove Cedo](https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR) | 3:12 |
 | 20 | [Tu És a Cura](https://open.spotify.com/track/5pW4iIRQXtRgHY3u8IsA8o) | [Educky](https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Tu És a Cura](https://open.spotify.com/album/3I6pKLLwdJrS46ifBwA4JI) | 2:45 |
 | 21 | [Pela Manhã](https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Pela Manhã](https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T) | 2:12 |
 | 22 | [Deus Não Usa Rolex](https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Deus Não Usa Rolex](https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD) | 1:44 |

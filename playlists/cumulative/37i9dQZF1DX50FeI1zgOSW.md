@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-262 songs - 15 hr 12 min
+263 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Office Anthem](https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL) | [Dev Prakash](https://open.spotify.com/artist/45Ejr1KMTb7ofrNht7HWXZ) | [Office Anthem](https://open.spotify.com/album/7GcIIQ77lcWenxnuxYsOiz) | 4:13 | 2023-05-26 | 2023-07-25 |
 | [Oh Penne](https://open.spotify.com/track/14VjnMSZqC2hA8dIXMeBzi) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3bm1opjPl4lY3EJh8yW9SZ) | 4:15 | 2024-02-01 | 2024-04-02 |
 | [Oh Penne](https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr) | 4:15 | 2023-10-23 | 2024-02-21 |
+| [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 |  |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
 | [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 | 2023-12-22 |  |
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 | 2023-06-24 |
@@ -199,7 +200,7 @@
 | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/track/2AWqwQGWhedo5lWP59pLcB) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U), [Caleb steven raj](https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd) | [Samanilai Velicham \- Radio Edit](https://open.spotify.com/album/0n2uzjQ9d036fyBcJp81da) | 4:30 | 2024-02-19 |  |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 | 2023-07-28 |
 | [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 | 2024-02-16 |
-| [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 |  |
+| [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 | 2024-04-16 |
 | [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 |  |
 | [Show Time](https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs) | [Mrs Go](https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT), [Debbie Pari](https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Show Time](https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw) | 4:16 | 2024-02-09 |  |
 | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/track/65TpoCFjxcKOqqeG8HmzPT) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Sri Jeya Ragavan](https://open.spotify.com/artist/0Tkx7aPCt1tqlzzZZ2OHFW) | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/album/0QepAr4SimliR2x459D4k4) | 4:22 | 2024-02-16 |  |

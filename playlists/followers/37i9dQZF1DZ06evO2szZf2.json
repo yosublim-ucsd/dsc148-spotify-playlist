@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 34554,
+  "2024-04-16": 34550,
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
+  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Mc Dricka",
   "tracks": [
     {
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 161831,
       "name": "Vai Sua Cavalona (feat. Mc Th & Mc Dricka)",
       "url": "https://open.spotify.com/track/7wI6xm1OLGJtnvPgCuTR7y"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "Vida Do Crime",
       "url": "https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse"

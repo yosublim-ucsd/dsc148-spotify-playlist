@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 8 hr 27 min
+122 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Languis \- Remasterizado 2007](https://open.spotify.com/track/18D08bgPEem469x1bjxIXM) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:54 | 2024-01-29 |  |
 | [Lisa](https://open.spotify.com/track/3ac2SnHk4KYjP2Au4ZL7eu) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:25 | 2024-01-29 |  |
 | [Lo Que Sangra \(La Cupula\) \[Made Popular By Soda Stereo\] \[Karaoke Version\]](https://open.spotify.com/track/2lHEeVNLhNvbPrhUfPvkWt) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 2](https://open.spotify.com/album/3CzO83NnQvH7AdBrJQ3pue) | 4:30 | 2024-01-29 |  |
-| [Luna Roja](https://open.spotify.com/track/5Cu4x8o39kt9INMq7dEPH3) | [Sleaze](https://open.spotify.com/artist/2cNYYlo50pdD1zsbNvPnuY) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 3:08 | 2024-01-29 |  |
+| [Luna Roja](https://open.spotify.com/track/5Cu4x8o39kt9INMq7dEPH3) | [Sleaze](https://open.spotify.com/artist/2cNYYlo50pdD1zsbNvPnuY) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 3:08 | 2024-01-29 | 2024-04-16 |
+| [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 | 2024-04-15 |  |
 | [Madre Tierra](https://open.spotify.com/track/6F4LtpKpVVfg7oSO8A8qP2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:26 | 2024-01-29 |  |
 | [Magia](https://open.spotify.com/track/1qxW7VuoZFyO0UQHR8XWcB) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 4:28 | 2024-01-29 |  |
 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 | 2024-01-29 |  |

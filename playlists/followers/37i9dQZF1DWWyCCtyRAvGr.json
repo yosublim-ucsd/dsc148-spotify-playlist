@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 174085,
+  "2024-04-16": 174142,
   "date_first_scraped": "2022-05-26",
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
   "name": "Blues on the Rocks",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 153276,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 263893,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"

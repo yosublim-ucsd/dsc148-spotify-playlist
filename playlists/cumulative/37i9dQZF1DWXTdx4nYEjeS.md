@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-994 songs - 2 day 12 hr 33 min
+995 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A Trasluz](https://open.spotify.com/track/6Xy5gHDz1OeBHd0ZRbGQrJ) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [A Trasluz](https://open.spotify.com/album/7Dsfa1j6tTzCIlqsj1XIF9) | 4:01 | 2022-04-01 | 2022-04-07 |
 | [A Tu Lado](https://open.spotify.com/track/4PL1LWnbp5zm1YQhvywTXd) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [A Tu Lado](https://open.spotify.com/album/31UrzXJplwdeH7VhgHq0yi) | 5:11 | 2021-12-24 | 2022-07-05 |
 | [A VECES ES MEJOR NO HABLAR](https://open.spotify.com/track/08Dvj5HdPvypRzMBjFOzrT) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [A VECES ES MEJOR NO HABLAR](https://open.spotify.com/album/6t1JcdAYyCSSycIJarlsIK) | 3:23 | 2022-03-28 | 2022-04-12 |
-| [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 | 2022-03-24 |  |
+| [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 | 2022-03-24 | 2024-04-16 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-08-23 | 2023-10-08 |
 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2022-04-13 | 2023-04-27 |
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-04-01 | 2022-04-09 |
@@ -530,6 +530,7 @@
 | [Loco](https://open.spotify.com/track/1FRDqinRPxb83utvdSHfbm) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Loco](https://open.spotify.com/album/2UozOL2sqJIxb5kmM1P9dF) | 3:03 | 2022-07-15 | 2022-07-25 |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-12-24 |  |
 | [Loco De Atar \(En Casa\)](https://open.spotify.com/track/6lfL3YEkqnX1qdMDtw8pJ8) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Loco De Atar \(En Casa\)](https://open.spotify.com/album/02JL4WpXfk4BP395QiuH07) | 4:02 | 2022-03-28 | 2022-04-16 |
+| [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-04-15 |  |
 | [Locurón \- Bonus Track](https://open.spotify.com/track/5ZkfxFnxrkhhP2N15OqTuL) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A) | [La Película](https://open.spotify.com/album/54blvNPNNZ3DDvzmh4vD19) | 3:05 | 2023-09-01 | 2023-10-08 |
 | [Lord](https://open.spotify.com/track/1JuH0gOhG799R9I9oOQsP7) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [¿Dónde Están Mis Amigos?](https://open.spotify.com/album/5OyR0x30cGIUlGKXcdI7Lm) | 3:29 | 2022-03-24 | 2022-04-20 |
 | [Los Años Salvajes \(feat\. Fabiana Cantilo\)](https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 6:15 | 2022-03-28 | 2022-06-29 |

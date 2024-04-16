@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 27683,
+  "2024-04-16": 27690,
   "date_first_scraped": "2022-03-24",
   "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Kayode",
   "name": "Rima Avan\u00e7ada",
@@ -749,6 +749,36 @@
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "album": {
+        "name": "ATTACK DE TOURETTE",
+        "url": "https://open.spotify.com/album/2CajaV4WWhxI0VIZr7QAoN"
+      },
+      "artists": [
+        {
+          "name": "Digital Mafia Corp.",
+          "url": "https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn"
+        },
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        },
+        {
+          "name": "Bril",
+          "url": "https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "ATTACK DE TOURETTE",
+      "url": "https://open.spotify.com/track/06ByK2k5hkZCBJEBDus98T"
     },
     {
       "album": {

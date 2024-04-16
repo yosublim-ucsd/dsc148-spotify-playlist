@@ -2,7 +2,7 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with DJ Snake and Crankdat
+> All things <a href="spotify:genre:bass">bass</a> with DJ Snake
 
 820 songs - 1 day 22 hr 42 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 5278989,
+  "2024-04-16": 5279443,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -473,6 +473,24 @@
       "duration_ms": 188907,
       "name": "2Girls 1Rose",
       "url": "https://open.spotify.com/track/7F2x0XQtB6SzyNNRCAKaS7"
+    },
+    {
+      "album": {
+        "name": "2good2u",
+        "url": "https://open.spotify.com/album/3gKzpXgkSbzwAgWpXEt1xh"
+      },
+      "artists": [
+        {
+          "name": "Taki Brano",
+          "url": "https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133505,
+      "name": "2good2u",
+      "url": "https://open.spotify.com/track/5bZqCak5e9fK8c9oT9DdEj"
     },
     {
       "album": {
@@ -42229,7 +42247,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 121308,
       "name": "Friction",
       "url": "https://open.spotify.com/track/1xw3GyNsmDcNZb7Mayqqed"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The best in Amapiano join <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=pHH9FAk5Q\-ey\_1Lae3OioQ">DJ Lag</a>, <a href="https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH?si=\-dNAGmWdR6iYV6J2SoBoTg">Mr Nation Thingz</a> and <a href="https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp?si=vto1\_9WPQ1qleU3q9oaJng">K.C Driller</a> for a massive "Hade Boss" Re\-Up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,768 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,273 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

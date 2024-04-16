@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 7678,
+  "2024-04-16": 7681,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F\">Diane Warren</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Diane Warren",
@@ -6051,10 +6051,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 239711,
       "name": "One Nation Under Love (Ukrainian Version)",
       "url": "https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u043e\u044f\u043d\u0434\u0438",
+        "url": "https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        },
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239711,
+      "name": "One Nation Under Love - Ukrainian Version",
+      "url": "https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q"
     },
     {
       "album": {

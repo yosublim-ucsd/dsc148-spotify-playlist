@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 43017,
+  "num_followers": 43026,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+        "name": "La Chinita del Amor",
+        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
       },
       "artists": [
         {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+          "name": "Yarita Lizeth Yanarico",
+          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
         }
       ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+      "duration_ms": 353044,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "La Chinita del Amor",
-        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
       },
       "artists": [
         {
-          "name": "Yarita Lizeth Yanarico",
-          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
         }
       ],
-      "duration_ms": 353044,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+        "name": "Max Castro y la Gran Banda",
+        "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
       },
       "artists": [
         {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
         }
       ],
-      "duration_ms": 263680,
-      "name": "La Orquesta",
-      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
+      "duration_ms": 330016,
+      "name": "Tu Me Pides Que Te Olvide",
+      "url": "https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -251,22 +251,6 @@
       "duration_ms": 271666,
       "name": "Amor, amor",
       "url": "https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
-        "name": "Max Castro y la Gran Banda",
-        "url": "https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv"
-      },
-      "artists": [
-        {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
-        }
-      ],
-      "duration_ms": 330016,
-      "name": "Tu Me Pides Que Te Olvide",
-      "url": "https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -303,6 +287,22 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "La Orquesta",
+      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
         "name": "Amanda Portales la Novia del Per\u00fa",
         "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
-        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
-      },
-      "artists": [
-        {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Cerveza, Cerveza",
-      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 192973,
       "name": "Chuquibambinita",
       "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+      },
+      "artists": [
+        {
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+        }
+      ],
+      "duration_ms": 361573,
+      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
+      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
       },
       "artists": [
         {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
         }
       ],
-      "duration_ms": 361573,
-      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
-      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+      "duration_ms": 274506,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 228800,
       "name": "Granadita",
       "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Soy Provinciano",
-        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
-      },
-      "artists": [
-        {
-          "name": "Pumita Cazador",
-          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
-        }
-      ],
-      "duration_ms": 382876,
-      "name": "Soy Provinciano",
-      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 160640,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Soy Provinciano",
+        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
+      },
+      "artists": [
+        {
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
+        }
+      ],
+      "duration_ms": 382876,
+      "name": "Soy Provinciano",
+      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Soy Provinciano",
-        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
-      },
-      "artists": [
-        {
-          "name": "Pumita Cazador",
-          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
-        }
-      ],
-      "duration_ms": 340584,
-      "name": "La Cornuda",
-      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 377280,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+        "name": "Soy Provinciano",
+        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
       },
       "artists": [
         {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Sirwana",
-      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
+      "duration_ms": 340584,
+      "name": "La Cornuda",
+      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Los Pacharacos",
         "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 169706,
       "name": "Chinita Ingrata",
       "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2024-03-28 01:34:50",

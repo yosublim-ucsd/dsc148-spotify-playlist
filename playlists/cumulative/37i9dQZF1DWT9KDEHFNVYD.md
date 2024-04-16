@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-365 songs - 1 day 10 hr 28 min
+366 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fur immer](https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 2](https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak) | 11:17 | 2021-07-30 | 2024-04-10 |
 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 | 2021-07-30 | 2023-01-26 |
 | [Fórmula](https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [A Group Called CoBrA](https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn) | 4:33 | 2021-07-30 | 2023-01-26 |
-| [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 | 2021-07-30 |  |
+| [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 | 2021-07-30 | 2024-04-16 |
 | [Für Immer \(Forever\)](https://open.spotify.com/track/6AL6IeYT8dxy9wpTMCrk34) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 11:17 | 2021-07-30 | 2022-07-29 |
 | [Für Immer \(Forever\)](https://open.spotify.com/track/6h2TL4YWi12yc5QctcRwFk) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! 2](https://open.spotify.com/album/1XYyWLPahau0FegVJFZ6mN) | 11:17 | 2021-07-30 | 2023-02-03 |
 | [Gamma Ray](https://open.spotify.com/track/0iVUzpjSPczQoNPuwtEOkL) | [Birth Control](https://open.spotify.com/artist/69wYvVWNm68Vrndzw0GZgR) | [Hoodoo Man](https://open.spotify.com/album/5UWOg8eQtTz0G6CBViwQi9) | 9:46 | 2024-04-09 |  |
@@ -299,6 +299,7 @@
 | [Spiritual](https://open.spotify.com/track/01GBvr5jhJR4Bdhy9vTTkE) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual](https://open.spotify.com/album/26f1AAQ6wsS3TyUPa7hZGy) | 5:28 | 2021-07-30 | 2023-01-26 |
 | [Spiritual](https://open.spotify.com/track/533qvUo8hwSJJ6tSOvixZe) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual](https://open.spotify.com/album/60Gw7YuRM5qs1wudCZHlNc) | 5:28 | 2021-07-30 | 2022-07-29 |
 | [Spitfire](https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Inform \- Educate \- Entertain](https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm) | 3:57 | 2021-07-30 | 2024-04-14 |
+| [Spitfire](https://open.spotify.com/track/7CDq94RPdQ19GdGlejjFU3) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Inform \- Educate \- Entertain](https://open.spotify.com/album/0Ic8K8I2loLiSRE1UugYj3) | 3:57 | 2021-07-30 |  |
 | [Stammtisch](https://open.spotify.com/track/4r5BOS0WxCTl83sdR8BjiI) | [Barbara Manning](https://open.spotify.com/artist/1yPPTXbCv6cb4U4zJoel9h) | [1212](https://open.spotify.com/album/1eXrbpknzFUfMoyDbgKaaD) | 7:21 | 2021-07-30 | 2023-01-26 |
 | [Stammtisch](https://open.spotify.com/track/6Dm6mpO8VbEXP24xsAnqL5) | [Barbara Manning](https://open.spotify.com/artist/1yPPTXbCv6cb4U4zJoel9h) | [1212](https://open.spotify.com/album/0MVmobZ2ByGcK3qFFSv1Au) | 7:21 | 2021-07-30 | 2022-07-29 |
 | [State of Clear](https://open.spotify.com/track/0yAe1QgFMeCRtm7uvlhNrk) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [State of Clear](https://open.spotify.com/album/2ims2SKqrrmnnazRtmVuvK) | 2:16 | 2021-07-30 | 2023-01-17 |

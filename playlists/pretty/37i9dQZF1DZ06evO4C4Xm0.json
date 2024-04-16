@@ -1,12 +1,12 @@
 {
-  "description": "This is Brian Eno. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 41861,
+  "description": "This is Brian Eno. The essential tracks, all in one playlist.",
+  "num_followers": 41883,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDM0YTY3Yjg1ODJkMGY2ZDVhZjVkNTk2YmE3ZjQyMzc1",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGQ0YmMzZDlhNzlkNjYyMGMyYTMyNWFkYWRjNTMzZDNl",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Signals - Remastered 2005",
+      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Signals - Remastered 2005",
-      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Wind On Wind",
+      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dune (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 261320,
       "name": "Prophecy Theme",
       "url": "https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
-      },
-      "artists": [
-        {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Wind On Wind",
-      "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"
     },
     {
       "added_at": null,

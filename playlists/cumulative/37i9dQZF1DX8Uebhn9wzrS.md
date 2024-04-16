@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,914 songs - 3 day 0 hr 54 min
+1,915 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Clouds](https://open.spotify.com/track/5LrRZIOip9uqlJuISIcPZN) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Clouds](https://open.spotify.com/album/0MFuP63RB3wKviRRBHJXUq) | 1:59 | 2022-04-15 | 2022-09-02 |
 | [Clouds](https://open.spotify.com/track/3UcgqdjXCPzjnjUdIKSEXC) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Clouds](https://open.spotify.com/album/3oDKuiGPdDLloNHgIEm3Jm) | 2:30 | 2024-01-12 |  |
 | [Clouds](https://open.spotify.com/track/0p0MtKtgkqkmRnXIBQlfUY) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [Clouds](https://open.spotify.com/album/2P2LkI0nRddOxHS2YJKW9R) | 2:22 | 2022-08-12 | 2022-12-17 |
-| [cloudspeak](https://open.spotify.com/track/1sQnye3wteYsntlgMO9rn8) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [cloudspeak](https://open.spotify.com/album/0l0qcMB7s99fuWbzpR883A) | 2:16 | 2024-01-19 |  |
+| [cloudspeak](https://open.spotify.com/track/1sQnye3wteYsntlgMO9rn8) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [cloudspeak](https://open.spotify.com/album/0l0qcMB7s99fuWbzpR883A) | 2:16 | 2024-01-19 | 2024-04-16 |
 | [Cloudy](https://open.spotify.com/track/6P8220cjoS346f8C8dXy4l) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cloudy](https://open.spotify.com/album/2w8PlNQ1PCQnn7fA4LQiim) | 2:21 | 2022-04-15 | 2022-05-13 |
 | [Cloudy](https://open.spotify.com/track/5kdQWGfpqk1Pa45wZH0Vxw) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Cloudy](https://open.spotify.com/album/6Nea26TpW8breUlrxAINqR) | 2:12 | 2022-04-15 | 2022-09-17 |
 | [Cloudy days](https://open.spotify.com/track/2XZZi9nIXtmEhCQoXbheUz) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Cloudy days](https://open.spotify.com/album/4RZlj3U0bB74lg8QFDD2Oi) | 1:54 | 2023-04-20 |  |
@@ -577,6 +577,7 @@
 | [Fireworks \- New Beginnings](https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Through The Seasons](https://open.spotify.com/album/0AKA4bhqvJ2nbJyoWELkGf) | 1:32 | 2023-07-13 |  |
 | [First Stop//Sao Paolo](https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [First Stop//Sao Paolo](https://open.spotify.com/album/6JAlxiE9wthnE9MajvWpqc) | 1:59 | 2023-08-17 | 2023-10-13 |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2022-05-27 |  |
+| [five more days](https://open.spotify.com/track/2EuCUU8jBSglt5fgKC0g6r) | [R\. Kei](https://open.spotify.com/artist/4sQLc1Xp2p3ij01ApmgQdr) | [five more days](https://open.spotify.com/album/3oLQEhMZDidCCd8loSHFvX) | 2:53 | 2024-04-12 |  |
 | [flame fluids](https://open.spotify.com/track/3rlLUdQ1eaCFl0OCjThlKU) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [flame fluids](https://open.spotify.com/album/0UAmG41uG6Tg8TebPKzO8c) | 2:30 | 2023-02-06 | 2023-09-29 |
 | [Flash](https://open.spotify.com/track/4YzZwV3CsUsT2orcj9yTUg) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Flash](https://open.spotify.com/album/41rT3vekyBdqRumuZrpwuX) | 2:01 | 2024-02-02 |  |
 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 | 2022-09-02 |  |

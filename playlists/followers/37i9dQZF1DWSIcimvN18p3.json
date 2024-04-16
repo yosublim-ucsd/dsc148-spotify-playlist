@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 285073,
+  "2024-04-16": 285016,
   "date_first_scraped": "2021-12-21",
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
   "name": "Women of Folk",
@@ -271,6 +271,24 @@
       "duration_ms": 294013,
       "name": "Ain't No Thing",
       "url": "https://open.spotify.com/track/72MfkLKyEXmFT8awGhlE5i"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07"
     },
     {
       "album": {
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"

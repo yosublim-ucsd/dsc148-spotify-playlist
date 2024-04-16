@@ -2,7 +2,7 @@
 
 ### [Oscuros 80](https://open.spotify.com/playlist/37i9dQZF1DX2F8x5aFp3aj)
 
-> Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
+> Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
 212 songs - 15 hr 56 min
 

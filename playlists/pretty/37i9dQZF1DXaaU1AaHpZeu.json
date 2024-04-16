@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. Girl Ultra en portada.",
-  "num_followers": 291381,
+  "num_followers": 291049,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -886,6 +886,10 @@
         {
           "name": "valverdina",
           "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "Jovencito Fuksbrauner",
+          "url": "https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V"
         }
       ],
       "duration_ms": 246898,

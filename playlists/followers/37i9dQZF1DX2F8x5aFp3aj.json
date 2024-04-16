@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 190377,
+  "2024-04-16": 190411,
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
   "name": "Oscuros 80",
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 231560,
       "name": "Dark Entries",
       "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
@@ -2272,6 +2272,24 @@
     },
     {
       "album": {
+        "name": "Music for the Masses (Deluxe)",
+        "url": "https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Never Let Me Down Again",
+      "url": "https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP"
+    },
+    {
+      "album": {
         "name": "Music for the Masses (2006 Remaster)",
         "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
       },
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 290493,
       "name": "Never Let Me Down Again - 2006 Remaster",
       "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
@@ -3669,7 +3687,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 275533,
       "name": "What's on Your Mind (Pure Energy)",
       "url": "https://open.spotify.com/track/2GBWPAsIXtC7NwULhUoHRf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 742,152 likes - 102 songs - 5 hr 7 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 741,669 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 101 | [bye bye](https://open.spotify.com/track/7q7W1iPAk23AM5k9nqPMlp) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [bye bye](https://open.spotify.com/album/0um07umw9ZwBLm8LLym6II) | 2:48 |
 | 102 | [Outlaw](https://open.spotify.com/track/5awR3rcKJQL6SVlGZyf4Hp) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Miss Mary](https://open.spotify.com/artist/20Nu1SnynFyv0kzuPmaqxP) | [Outlaw](https://open.spotify.com/album/3D9ILKGMsIp3lFGsUjX14X) | 4:20 |
 
-Snapshot ID: `NTY0NCxkZjI3ZGU5ODIzMDhhMTA2ZTg0OTM1YTMyZmViYWNkNjlhNjQ5YjY1`
+Snapshot ID: `NTY0NixhZDE2M2YwNmJkYzZkZTA1Nzg2ZWNjMmYyMWQ0ZWYyMDcxZjc0Zjdl`

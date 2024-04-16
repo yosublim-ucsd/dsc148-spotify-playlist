@@ -1,9 +1,27 @@
 {
-  "2024-04-15": 3406,
+  "2024-04-16": 3414,
   "date_first_scraped": "2023-12-14",
   "description": "2022\u5e744\u6708\u306b\u30b9\u30bf\u30fc\u30c8\u3057\u305f\u3001TikTok\u3068Spotify\u306e\u5171\u540c\u30d7\u30ed\u30b0\u30e9\u30e0<a href=\"spotify:playlist:37i9dQZF1DXdTxsEGukhp4\">\u300cBuzz Tracker\u300d</a>\u306e\u7dcf\u307e\u3068\u3081\uff012023\u5e74Buzz Trakcer\u3067\u518d\u751f\u3055\u308c\u305f\u697d\u66f2\u30d9\u30b9\u30c850!  cover: Lucky Kilimanjaro",
   "name": "Best of Buzz Tracker 2023",
   "tracks": [
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "B-list",
+      "url": "https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P"
+    },
     {
       "album": {
         "name": "Baby you",
@@ -109,7 +127,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"

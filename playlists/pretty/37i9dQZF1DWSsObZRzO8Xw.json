@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 171158,
+  "num_followers": 171240,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Here comes a new challenger!",
-        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
-      },
-      "artists": [
-        {
-          "name": "Chinese Football",
-          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
-        }
-      ],
-      "duration_ms": 310432,
-      "name": "Electronic Girl",
-      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Twin Galaxies",
         "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "potage",
-        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+        "name": "Here comes a new challenger!",
+        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
       "artists": [
         {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+          "name": "Chinese Football",
+          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
         }
       ],
-      "duration_ms": 246915,
-      "name": "potage",
-      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
+      "duration_ms": 310432,
+      "name": "Electronic Girl",
+      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -287,6 +271,22 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
+        "name": "potage",
+        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+      },
+      "artists": [
+        {
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+        }
+      ],
+      "duration_ms": 246915,
+      "name": "potage",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
         "name": "Floral EP",
         "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 219265,
       "name": "Climbing a Wall",
       "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "\u5de5\u4f5c Work",
-        "url": "https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 266752,
-      "name": "\u6625\u96e8 Spring Rain",
-      "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+        "name": "\u5de5\u4f5c Work",
+        "url": "https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB"
       },
       "artists": [
         {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
+      "duration_ms": 266752,
+      "name": "\u6625\u96e8 Spring Rain",
+      "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -395,6 +379,22 @@
       "duration_ms": 233200,
       "name": "Mullally",
       "url": "https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/3iG6aKmXzHnxnopyXVDZQR"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
@@ -1031,6 +1047,22 @@
       "duration_ms": 299484,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1051,22 +1083,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/3iG6aKmXzHnxnopyXVDZQR"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Route One or Die",
         "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 298760,
       "name": "Cramm",
       "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Valerio Benustelli",
+        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "Valerio Benustelli",
+      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
-      },
-      "artists": [
-        {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
-        }
-      ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 226173,
       "name": "Crucemos los Puentes...",
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
         "name": "All We Need Is A Little Energon And A Lot Of Luck",
         "url": "https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 303893,
       "name": "Novelesco",
       "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2024-04-03 09:49:49",

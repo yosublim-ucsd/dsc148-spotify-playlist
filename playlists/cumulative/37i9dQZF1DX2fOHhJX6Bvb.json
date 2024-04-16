@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Streets Of London",
+        "url": "https://open.spotify.com/album/0EbzcBOviEHI4OCNlP9VgP"
+      },
+      "artists": [
+        {
+          "name": "Lucie Jean",
+          "url": "https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221256,
+      "name": "Streets Of London",
+      "url": "https://open.spotify.com/track/7vT3wxlUc5EJ2jkz6yszVq"
+    },
+    {
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm"
       },

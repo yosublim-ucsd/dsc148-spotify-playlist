@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Maguey. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 24226,
+  "description": "This Is Banda Maguey. Los temas esenciales, todos en una lista.",
+  "num_followers": 24237,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDYyNmJhOGVlNjBmOWRmMmI0ODcyYmIwNTViYjY1MmRk",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGVmYmI4MTg5MGE1N2Q1N2Y5ZTUwZmMxNWM2NzA4Yjg3",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 148188,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Brinca Brita",
-      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
+      "duration_ms": 148188,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Radio",
-        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "El Joven Viejo",
-      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176093,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/1jThuw8Kx5lbEYEkZqsD1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos En Radio",
+        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "El Joven Viejo",
+      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
     },
     {
       "added_at": null,

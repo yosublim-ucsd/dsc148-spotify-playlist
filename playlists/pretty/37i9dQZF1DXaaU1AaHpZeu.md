@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Girl Ultra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,381 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,049 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 47 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 |
 | 48 | [Pinky Ring](https://open.spotify.com/track/68bBAvoVBD0EBfXnFDJvbl) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Music EP](https://open.spotify.com/album/5reQ8q59h0HDkcVa2v8FmA) | 2:49 |
 | 49 | [Jet Lag](https://open.spotify.com/track/47EqJeEkqezFGcx7Uh38Vu) | [Mayormente Soleado](https://open.spotify.com/artist/2YBzZDsJtBX9E5sDW2S1rG), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Jet Lag](https://open.spotify.com/album/5S580boa9ETAE4Wpw0qO5f) | 2:50 |
-| 50 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 |
+| 50 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 |
 | 51 | [tu mejor pesadilla](https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [tu mejor pesadilla](https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa) | 3:32 |
 | 52 | [Camino a Roma](https://open.spotify.com/track/3mcTnUkHBqHzRHhI1tJRoy) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Camino a Roma](https://open.spotify.com/album/5xUM5NFvFAwgzvE0bnEjeJ) | 1:57 |
 | 53 | [Somos raros](https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Todo alrededor](https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO) | 4:08 |

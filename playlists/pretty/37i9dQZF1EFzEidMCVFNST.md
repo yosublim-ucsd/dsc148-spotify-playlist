@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 274 | [Tome em Dobro \- Ao Vivo](https://open.spotify.com/track/7FR5edySOAl7pWYXYACQxT) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/3xARTbC8AX5eSYmmdTEcVT) | 3:04 |
 | 275 | [Ela Só Quer Dançar](https://open.spotify.com/track/6UkAgJQ8jOzjmLEtioHFDv) | [Juccas](https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH) | [Juccas](https://open.spotify.com/album/5uhMXLSu7mke6zGSveWl5w) | 2:55 |
 | 276 | [Deu a Louca Nessa Raba](https://open.spotify.com/track/5UZIU262qdyMcE0n8z0Icj) | [Thamy](https://open.spotify.com/artist/5NUcO47R7xlNLpeQiHhqol), [Edu Donna](https://open.spotify.com/artist/3O7If1JfH3Fgjr9qmN1T3d) | [Deu a Louca Nessa Raba](https://open.spotify.com/album/2SqYJWJW7kwQTRV7ftpaB5) | 2:33 |
-| 277 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 |
-| 278 | [Só Mais uma Vez](https://open.spotify.com/track/0YCitdMV92FN2z9ALuPbZm) | [Relber & Allan](https://open.spotify.com/artist/5fmbAOW4NPz1TY2cRg25ec) | [Ao Vivo em Ipatinga](https://open.spotify.com/album/3tRQwceVDVtPaRoFxpMaOQ) | 3:53 |
+| 277 | [Só Mais uma Vez](https://open.spotify.com/track/0YCitdMV92FN2z9ALuPbZm) | [Relber & Allan](https://open.spotify.com/artist/5fmbAOW4NPz1TY2cRg25ec) | [Ao Vivo em Ipatinga](https://open.spotify.com/album/3tRQwceVDVtPaRoFxpMaOQ) | 3:53 |
+| 278 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 |
 | 279 | [Palavras Não Amam \- Ao Vivo](https://open.spotify.com/track/09deR4vwLCYErfYjXoETxj) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:42 |
 | 280 | [Era Pra Ser Nós Dois](https://open.spotify.com/track/55AjbFHkDmytEby9okhWhQ) | [Wawa Pinho](https://open.spotify.com/artist/1Zl8VmHHU4wOMQpZ8POXJ2) | [Era Pra Ser Nós Dois](https://open.spotify.com/album/1wkjW1PqNRupqiZrFxEGgb) | 2:22 |
 | 281 | [Isso Cê Não Vai Ter \- Ao Vivo](https://open.spotify.com/track/4QYLLvysjboLqfIEEKrZ2a) | [Zé Cantor](https://open.spotify.com/artist/09IVixIx3VLLFmWZfojamH) | [Agora Sou Eu e Você \(Ao Vivo\)](https://open.spotify.com/album/7JpDXecCeRFcyrUJDhO8Sk) | 2:51 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 347 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 348 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `Mjg1NTI2MzAsMDAwMDAwMDA2MzA4MzkwMmU4N2JhODhjMWYyMGFlOTA0OTJmNWQ3Ng==`
+Snapshot ID: `Mjg1NTM5MDAsMDAwMDAwMDA4ZTE3YWM1OWMxZTRmOTNjYmRiMmNjZGZjNTlkMTE4Mg==`

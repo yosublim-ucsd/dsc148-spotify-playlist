@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 1698510,
+  "2024-04-16": 1698388,
   "date_first_scraped": "2021-12-21",
   "description": "Grunge will live forever. Cover: Eddie Vedder",
   "name": "Grunge Forever",
@@ -1213,6 +1213,24 @@
     {
       "album": {
         "name": "Heretics",
+        "url": "https://open.spotify.com/album/7g8oCxBvNkTDmQjTLmIL7O"
+      },
+      "artists": [
+        {
+          "name": "Toadies",
+          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
+        }
+      ],
+      "date_added": "2024-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354493,
+      "name": "Possum Kingdom",
+      "url": "https://open.spotify.com/track/62IUIRsCIPISMVYwEyXE6f"
+    },
+    {
+      "album": {
+        "name": "Heretics",
         "url": "https://open.spotify.com/album/6iLnTLBRtx064EEer404cr"
       },
       "artists": [
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 354493,
       "name": "Possum Kingdom",
       "url": "https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ"

@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-543 songs - 2 day 3 hr 52 min
+544 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Green To You](https://open.spotify.com/track/6hruEdIYNluogyuAlMhsgs) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Green To You](https://open.spotify.com/album/3G8FQojxRMEiiNhO2WNVcX) | 3:25 | 2022-04-23 | 2022-07-25 |
 | [Greeting To Saud \(Brother McCoy Tyner\)](https://open.spotify.com/track/1qqIjiurhqrgacNG9uWCuG) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Elevation \(Live\)](https://open.spotify.com/album/2YNA5fGD8cE3HqNBCfYzTL) | 4:07 | 2021-10-06 | 2022-04-12 |
 | [Grove \(feat\. Embaci\)](https://open.spotify.com/track/3lMDnW7GKJLZDBGiQ5iBDe) | [Elysia Crampton](https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN), [Embaci](https://open.spotify.com/artist/7lQGSAbIBqelsj0cSMiXIf) | [ORCORARA 2010](https://open.spotify.com/album/73UrLv10QDG3qA6zwGAxU9) | 4:43 | 2021-10-06 | 2022-04-14 |
+| [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 | 2024-04-15 |  |
 | [Gymnopédie No\. 1](https://open.spotify.com/track/0ryVI8g4brMMg77EK0swgN) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Drew Jurecka](https://open.spotify.com/artist/2jlZZNzTqaala6Ju3PfbWi) | [Gymnopédie No\. 1](https://open.spotify.com/album/0CviN47aSZ4a2UmkI3TotQ) | 7:26 | 2021-10-06 | 2022-07-29 |
 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 | 2021-11-25 | 2022-09-09 |
 | [Healing Codes](https://open.spotify.com/track/6qAsfBxf50K0RrnQQpiOrb) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 4:08 | 2022-01-20 | 2022-06-23 |
@@ -515,7 +516,7 @@
 | [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 | 2023-06-04 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 | 2023-03-20 |
 | [Vesela](https://open.spotify.com/track/0rwadVw6XNDNWzHqL3V8Zs) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Vesela](https://open.spotify.com/album/2iKB0hdfhfCnB6rnu1rmSL) | 3:47 | 2023-11-23 | 2024-02-03 |
-| [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 |  |
+| [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 | 2024-04-16 |
 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 | 2023-11-17 |
 | [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-04-06 | 2022-07-10 |
 | [VLetrmx](https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 8:27 | 2021-10-06 | 2022-04-10 |

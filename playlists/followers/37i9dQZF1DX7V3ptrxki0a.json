@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 200701,
+  "2024-04-16": 200759,
   "date_first_scraped": "2023-08-09",
   "description": "Agarren su pareja que es momento de mover ese botecito.",
   "name": "Cumbia Norte\u00f1a",
@@ -727,6 +727,28 @@
     {
       "album": {
         "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128073,
+      "name": "Me Aceptaste (En Vivo)",
+      "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
@@ -741,7 +763,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"

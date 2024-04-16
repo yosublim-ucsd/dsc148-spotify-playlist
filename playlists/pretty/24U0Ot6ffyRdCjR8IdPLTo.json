@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with this fresh mix of chill music to study to. ",
-  "num_followers": 10735,
+  "num_followers": 10718,
   "original_name": "Pop Focus | Pop Music for Studying",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "MTM1MCxiNTRmMzFmOThjMmQ1MmUzYzEyMDI4NmQ2NmU4MzZhYmY2ZGJjZWUw",
+  "snapshot_id": "MTM1MixmNDg3YjRiYmNiNDk4MzAyMzgzYzdjMDBmNGY4NDQxMzdmYzE1OWJi",
   "tracks": [
     {
       "added_at": "2024-03-22 18:34:11",
@@ -23,6 +23,22 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-04-15 20:05:24",
+      "album": {
+        "name": "blip",
+        "url": "https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 260982,
+      "name": "blip",
+      "url": "https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy"
     },
     {
       "added_at": "2024-03-22 18:34:11",

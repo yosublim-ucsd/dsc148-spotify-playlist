@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 49687,
+  "2024-04-16": 49702,
   "date_first_scraped": "2023-12-27",
   "description": "\u65e5\u672c\u8a9e\u3001\u97d3\u56fd\u8a9e\u3001\u82f1\u8a9e\u3092\u5de7\u307f\u306b\u64cd\u308b\u30c8\u30ea\u30ea\u30f3\u30ac\u30eb\u30e9\u30c3\u30d1\u30fc\uff0f\u30b7\u30f3\u30ac\u30fc\u3001\u3061\u3083\u3093\u307f\u306a\u3002\u72ec\u81ea\u306e\u89b3\u70b9\u3067\u6642\u4ee3\u3092\u5207\u308a\u53d6\u308b\u30ea\u30ea\u30c3\u30af\u3068\u30bd\u30ea\u30c3\u30c9\u306a\u30e9\u30c3\u30d7\u304c\u82e5\u3044\u97f3\u697d\u30d5\u30a1\u30f3\u3092\u4e2d\u5fc3\u306b\u6ce8\u76ee\u3092\u96c6\u3081\u308b\u5f7c\u5973\u306e\u30aa\u30fc\u30eb\u30fb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8\u3002",
   "name": "This Is \u3061\u3083\u3093\u307f\u306a",
@@ -57,6 +57,24 @@
       "duration_ms": 191566,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4iShk7X3Q8vVIIiFENs9Yz"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "B-list",
+      "url": "https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P"
     },
     {
       "album": {
@@ -177,7 +195,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
@@ -754,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198694,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/2Dz1EZAnjNCnpiRKT6VDGC"
+    },
+    {
+      "album": {
         "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
       },
@@ -935,7 +971,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 198694,
       "name": "\u30b5\u30f3\u30d5\u30e9\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S"

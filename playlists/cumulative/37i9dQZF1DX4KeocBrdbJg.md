@@ -2,7 +2,7 @@
 
 ### [Hits de Internet](https://open.spotify.com/playlist/37i9dQZF1DX4KeocBrdbJg)
 
-> y de pronto un accidente...🎶
+> oh pedro pedro pedro pedro pe..\. 🎶 Pedro mapache en portada
 
 565 songs - 1 day 7 hr 3 min
 

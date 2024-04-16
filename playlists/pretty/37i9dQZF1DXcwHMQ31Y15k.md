@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,227 likes - 105 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,283 likes - 105 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

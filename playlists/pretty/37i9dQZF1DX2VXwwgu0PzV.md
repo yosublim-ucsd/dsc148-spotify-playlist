@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce?si=Dz\-UvZxUQ4SKHW2NSgkT2Q">Kojo Dave</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,356 likes - 81 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,392 likes - 81 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

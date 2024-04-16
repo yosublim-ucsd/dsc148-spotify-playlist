@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-378 songs - 21 hr 32 min
+379 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Behave](https://open.spotify.com/track/0evM3jWXDHZD7myeqqPuGf) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [ART](https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW) | 3:09 | 2022-08-26 | 2023-02-03 |
 | [Bestfriend](https://open.spotify.com/track/71VfgEoTxsvCM6t3ezM4O4) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bestfriend](https://open.spotify.com/album/1yAjYmx4h0wcZkQYXPHnnh) | 3:33 | 2022-06-02 | 2022-11-08 |
 | [Bestfriend remix](https://open.spotify.com/track/2Q5xL6g75mPeBOMSNjGP8l) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn), [Belle 9](https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz) | [Bestfriend remix](https://open.spotify.com/album/5jz1VKY3KvSSqOs4QyVH7S) | 3:28 | 2023-03-23 | 2023-08-18 |
+| [Bila Doo](https://open.spotify.com/track/4gPdbGzIDoDhxDl6HM1sbK) | [Fari Athman](https://open.spotify.com/artist/7iPhp4msnqZazxIzKJ3Ljf) | [Bila Doo](https://open.spotify.com/album/0QXt0G5pXXPuKQiUX5kg17) | 2:46 | 2024-04-15 |  |
 | [Blessing](https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn) | [Bonge La Nyau](https://open.spotify.com/artist/4w19ryUFdkiLmZ26j5omEY), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Blessing](https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh) | 3:04 | 2024-02-15 |  |
 | [Bobea](https://open.spotify.com/track/0YcIY0C7NS6Yzngjdrnb3W) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Bobea](https://open.spotify.com/album/6K66HalLnaJpXDAIUeZH4W) | 3:23 | 2023-06-22 | 2023-10-27 |
 | [Bora Peke Yangu](https://open.spotify.com/track/0eIdUNkRBCxaouwoDRl2M4) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:55 | 2021-11-11 | 2022-03-04 |
@@ -270,7 +271,7 @@
 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 | 2021-11-25 | 2022-09-02 |
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 | 2023-02-10 |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |
-| [Person Trainer](https://open.spotify.com/track/6bx50I5tIyj8J24OM7zRK8) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Person Trainer](https://open.spotify.com/album/0p7jZXKorzMKp1L7wnZCUN) | 1:48 | 2023-11-17 |  |
+| [Person Trainer](https://open.spotify.com/track/6bx50I5tIyj8J24OM7zRK8) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Person Trainer](https://open.spotify.com/album/0p7jZXKorzMKp1L7wnZCUN) | 1:48 | 2023-11-17 | 2024-04-16 |
 | [Pita Kule](https://open.spotify.com/track/45rces9Jy2Oskyl3D3VaFP) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pita Kule](https://open.spotify.com/album/0NHnGLPDGZKXhtnB6ouLZv) | 3:42 | 2023-08-10 | 2023-11-24 |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 | 2022-11-11 |
 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 | 2023-09-14 | 2024-01-26 |

@@ -8353,6 +8353,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Et Sommertegn",
         "url": "https://open.spotify.com/album/6ARkVCwTHtfeAOdtTtdpKB"
       },
@@ -20332,7 +20350,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 112545,
       "name": "Mujaffa",
       "url": "https://open.spotify.com/track/29YzMPSpulZJOWMeTdtCAm"
@@ -27421,6 +27439,24 @@
     },
     {
       "album": {
+        "name": "The Voice 2024: Knockout 2",
+        "url": "https://open.spotify.com/album/1Mdl8Ccn7xmaQcxzf0gHAO"
+      },
+      "artists": [
+        {
+          "name": "Lavrans Svendsen",
+          "url": "https://open.spotify.com/artist/0Fncx7yOG7VDtLEBqtJjSY"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117188,
+      "name": "Stay - Live",
+      "url": "https://open.spotify.com/track/4XTCtukcvAl7K4igGCJs5F"
+    },
+    {
+      "album": {
         "name": "STAY KEEG",
         "url": "https://open.spotify.com/album/7K68f2Mbt0BQGd7NB7SEDv"
       },
@@ -30920,7 +30956,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3Ud6yq3sdjs8DgUrvyaPRF"

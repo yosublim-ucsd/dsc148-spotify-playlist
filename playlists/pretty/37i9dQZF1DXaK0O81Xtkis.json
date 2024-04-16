@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Glass Animals",
-  "num_followers": 214309,
+  "num_followers": 214288,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5ODU5OCwwMDAwMDAwMDBjNzk1OWMyY2I0ZmYyNTY1MDM0ZjgwZDU5MWZlZDBi",
+  "snapshot_id": "MTcxMzIxNzMxNywwMDAwMDAwMGJhODlkNmRkMzVhMDk0NzI3NmVmY2Y0YmIzOWYyMTgx",
   "tracks": [
     {
       "added_at": "2024-04-12 05:09:58",
@@ -39,6 +39,22 @@
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-04-15 21:41:57",
+      "album": {
+        "name": "Through Thick and Thin",
+        "url": "https://open.spotify.com/album/7tfAZDP40vvEyN1hW3HoOa"
+      },
+      "artists": [
+        {
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4cAMCALXZ5lUVRYH9dCtIB"
     },
     {
       "added_at": "2024-04-12 05:09:58",
@@ -1191,22 +1207,6 @@
       "duration_ms": 151544,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn"
-    },
-    {
-      "added_at": "2024-04-12 05:09:58",
-      "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 212092,
-      "name": "Angel Face",
-      "url": "https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz"
     },
     {
       "added_at": "2024-04-12 05:09:58",

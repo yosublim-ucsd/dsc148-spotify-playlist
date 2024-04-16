@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 156487,
+  "2024-04-16": 156491,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Gloria Groove",
   "tracks": [
     {
@@ -531,6 +531,32 @@
       "duration_ms": 162947,
       "name": "Joga Bunda",
       "url": "https://open.spotify.com/track/6h78dT41teS3xbyVwKBLV7"
+    },
+    {
+      "album": {
+        "name": "Mercadinho",
+        "url": "https://open.spotify.com/album/2DZQGYABPgBz35Ei7RU0jd"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Joga Bunda",
+      "url": "https://open.spotify.com/track/7BH7NUAZcgL24DXcWZpkeG"
     },
     {
       "album": {

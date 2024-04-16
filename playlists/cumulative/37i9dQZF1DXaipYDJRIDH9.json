@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 178500,
       "name": "Kalopsia",
       "url": "https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 122000,
       "name": "Look Up Into The Sky",
       "url": "https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y"
@@ -1154,6 +1154,24 @@
       "duration_ms": 121308,
       "name": "Minor Fable",
       "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
+    },
+    {
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/0iDH8OS9P0DcVV7Y2jVCUx"
+      },
+      "artists": [
+        {
+          "name": "Adiamo Mero",
+          "url": "https://open.spotify.com/artist/5GVoes1XQcUk6ru4HHwUMy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7xWIjzKV1OyZDnuA1DQNqM"
     },
     {
       "album": {
@@ -1406,6 +1424,24 @@
       "duration_ms": 176500,
       "name": "Pyramidale",
       "url": "https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP"
+    },
+    {
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130308,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja"
     },
     {
       "album": {

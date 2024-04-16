@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 4614,
+  "2024-04-16": 4613,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -3939,7 +3939,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 128431,
       "name": "Belong Together (Sped Up)",
       "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
@@ -5835,7 +5835,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 126671,
       "name": "Carnival x Fein",
       "url": "https://open.spotify.com/track/1PjFe5afpVknL7VEsnXZQA"
@@ -11563,7 +11563,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -12113,7 +12113,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -23472,6 +23472,24 @@
     },
     {
       "album": {
+        "name": "medvede h\u013eadaj\u00fa potravu v kontajneroch",
+        "url": "https://open.spotify.com/album/5cPCbtLAiel4UJ3S6dj3KO"
+      },
+      "artists": [
+        {
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116875,
+      "name": "neodch\u00e1dzaj.",
+      "url": "https://open.spotify.com/track/4linJU8AThNtyK3Vglt6A8"
+    },
+    {
+      "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
       },
@@ -26427,7 +26445,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 365252,
       "name": "Peroxid 3",
       "url": "https://open.spotify.com/track/461ShlymTq7F9zN5KJ2zUk"
@@ -30937,7 +30955,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 140160,
       "name": "Skurvensko I.",
       "url": "https://open.spotify.com/track/1Rmu0DPYmhSH6JaITAnxnX"
@@ -30955,7 +30973,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 172142,
       "name": "Skurvensko II.",
       "url": "https://open.spotify.com/track/4CP9EZHtGhn51TMEj9IupY"
@@ -31031,7 +31049,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -36527,6 +36545,28 @@
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA"
+    },
+    {
+      "album": {
+        "name": "never was much of a poet",
+        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
+      },
+      "artists": [
+        {
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+        },
+        {
+          "name": "najhi17",
+          "url": "https://open.spotify.com/artist/3OZ5gj24WhllonP6nPXbHb"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126562,
+      "name": "vodka s keltom",
+      "url": "https://open.spotify.com/track/0b5sVjHUxYVJpB4ifiCmcE"
     },
     {
       "album": {

@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 212092,
       "name": "Angel Face",
       "url": "https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz"
@@ -5036,6 +5036,24 @@
       "duration_ms": 188743,
       "name": "Forgot About You",
       "url": "https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL"
+    },
+    {
+      "album": {
+        "name": "Through Thick and Thin",
+        "url": "https://open.spotify.com/album/7tfAZDP40vvEyN1hW3HoOa"
+      },
+      "artists": [
+        {
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160337,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4cAMCALXZ5lUVRYH9dCtIB"
     },
     {
       "album": {

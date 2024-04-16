@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
-  "num_followers": 131303,
+  "description": "This is El Tri. The essential tracks, all in one playlist.",
+  "num_followers": 131294,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGYzYTNkYzM2OWMxN2JjNzFmY2FmODk1ZDg4N2EyNDg3",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDk5ZTMyMzg5MGY4ZTgzOGIxYjExYWM3ZWZkZmE2NDhl",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin de siglo",
-        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "No hay pedo",
-      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecho en M\u00e9xico",
         "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 158533,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "No hay pedo",
+      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 10445,
+  "2024-04-16": 10445,
   "date_first_scraped": "2022-01-02",
   "description": "Blusher is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 160786,
       "name": "Adored",
       "url": "https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe"
@@ -4137,7 +4137,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
@@ -4173,7 +4173,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
@@ -4397,10 +4397,28 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 156986,
       "name": "Stop & Stare",
       "url": "https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj"
+    },
+    {
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69"
+      },
+      "artists": [
+        {
+          "name": "Logan",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Stop & Stare",
+      "url": "https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw"
     },
     {
       "album": {

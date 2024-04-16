@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-242 songs - 14 hr 47 min
+243 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Kalala Padava](https://open.spotify.com/track/1q0M9c2P3f5xu400hEevBd) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kalala Padava](https://open.spotify.com/album/12O4dafDq4b4mv9YuBcp2Z) | 4:00 | 2023-06-22 | 2023-09-12 |
 | [Kalavara Paduthunnane](https://open.spotify.com/track/3ajG59Qf84UkDIzorXicp7) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Kalavara paduthunnane](https://open.spotify.com/album/3kF8q8l1xquaIPoFjB7dLL) | 3:32 | 2023-06-19 | 2024-01-19 |
 | [Kalavara Paduthunnane](https://open.spotify.com/track/6NeNZwY4LyLfvV3whZgPsT) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Kalavara paduthunnane](https://open.spotify.com/album/0MdXOA8p3Utqvm1GaMo7jb) | 3:32 | 2023-06-19 | 2024-01-05 |
+| [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 | 2024-04-15 |  |
 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 |  |
 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 | 2023-03-22 |  |
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |

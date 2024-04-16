@@ -3307,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Let's Go (Alok Remix)",
+        "url": "https://open.spotify.com/album/7EdUbRY9YIVC84O3tLnLMj"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158145,
+      "name": "Let's Go - Alok Remix",
+      "url": "https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp"
+    },
+    {
+      "album": {
         "name": "Lie Machine",
         "url": "https://open.spotify.com/album/6G53ObRBbG9odPj8xI8Gde"
       },

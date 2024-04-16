@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 76771,
+  "2024-04-16": 76764,
   "date_first_scraped": "2022-11-25",
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
   "name": "Merry & Bright",
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 181052,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz"
@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 198715,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM"

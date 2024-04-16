@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 3328577,
+  "2024-04-16": 3328010,
   "date_first_scraped": "2019-09-05",
   "description": "Just good vibes all day long",
   "name": "Good Vibes",
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 160951,
       "name": "Back Of My Mind",
       "url": "https://open.spotify.com/track/0RDAOHfHfq7QUkjmXLAVJf"
@@ -2531,6 +2531,24 @@
       "duration_ms": 184000,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
     },
     {
       "album": {
@@ -5609,7 +5627,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -14101,7 +14119,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 170048,
       "name": "The Moves (feat. Muni Long & Nile Rodgers)",
       "url": "https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd"

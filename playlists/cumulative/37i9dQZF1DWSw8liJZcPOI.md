@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-479 songs - 1 day 9 hr 6 min
+480 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/track/6fhgA3CmafnvNgzENG0Su4) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Jezus Malusieńki \(Reworked by Hania Rani & Dobrawa Czocher\)](https://open.spotify.com/album/16tfidKurmQ6Y7WvPlOCmb) | 4:16 | 2021-10-09 | 2022-04-20 |
 | [Journey](https://open.spotify.com/track/3HbIl9RM7C4QZTc2p5jQUd) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [India Gailey](https://open.spotify.com/artist/0kb5IIceYS7wlVjVKj4FLu) | [Journey](https://open.spotify.com/album/1k5v3fQO8fAC3cXxDTLX9P) | 4:37 | 2021-12-10 | 2022-04-16 |
 | [jól](https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [jól](https://open.spotify.com/album/12wOn1w7bkEOHSITYeQlWh) | 3:06 | 2024-03-08 | 2024-03-19 |
-| [Kindred](https://open.spotify.com/track/3OCVlE2SajdElQt0HI3wbq) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/0q1vjlDPgJ0atlFChSf24O) | 4:30 | 2024-03-08 |  |
+| [Kindred](https://open.spotify.com/track/3OCVlE2SajdElQt0HI3wbq) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/0q1vjlDPgJ0atlFChSf24O) | 4:30 | 2024-03-08 | 2024-04-16 |
 | [KINDRED](https://open.spotify.com/track/6SlFgGSl9cY9lxdFFXnzU3) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Origins](https://open.spotify.com/album/6gUSb65QUI3MHljzUm1J0N) | 4:30 | 2020-10-20\* | 2022-05-23 |
 | [Kirbu Epiphany](https://open.spotify.com/track/5LTUIQkmpwqLR7qCv2o4vB) | [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [Kirbu Epiphany](https://open.spotify.com/album/7fOvC45iH0NDHTgUjeIcxn) | 3:14 | 2020-10-21 | 2020-11-13 |
 | [Klass](https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Sensibus](https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y) | 6:32 | 2022-07-22 | 2023-03-09 |
@@ -475,6 +475,7 @@
 | [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 |  |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |
 | [Winter's Fall](https://open.spotify.com/track/3mFQNmkVxLga6LyX3s8fI0) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Austerlitz](https://open.spotify.com/album/7tWjb5AIZier6MusEf5Oz3) | 5:09 | 2020-10-21 | 2021-01-15 |
+| [Wounds To Woe](https://open.spotify.com/track/70ki5cSz9lOGH5JXmAXIEC) | [Abilene](https://open.spotify.com/artist/0RoXefwJwTpzU2sFmTM73H) | [Wounds To Woe](https://open.spotify.com/album/4msM4VX2wwtJPnLYb3ECUM) | 4:37 | 2024-04-12 |  |
 | [Woven Song](https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song](https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA) | 3:10 | 2020-10-20\* |  |
 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 | 2022-07-01 | 2023-12-01 |
 | [Woven Song — piano reworks](https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 3:47 | 2023-11-24 |  |

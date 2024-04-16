@@ -2413,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "FEEL",
+        "url": "https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208015,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7"
+    },
+    {
+      "album": {
         "name": "Fibonacci",
         "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
       },
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 414514,
       "name": "In Your Eyes - Ranta Remix",
       "url": "https://open.spotify.com/track/66NUgMhhUKeBKE90WNaKtg"

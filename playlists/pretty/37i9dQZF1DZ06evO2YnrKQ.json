@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alexisonfire. Los temas esenciales, todos en una lista.",
-  "num_followers": 21037,
+  "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
+  "num_followers": 21040,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDNjNmM5YzgwOGQ5ODA1MmM4YjJmZDMzNmZhOGVlNTg0",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDE4NGVhYzQ5YjU3YWFhMzgzMmI5MzM2NjZiMmE1MzVl",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 255293,
       "name": "Thrones",
       "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aussie Tour 7inch",
+        "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "The Dead Heart",
+      "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
     },
     {
       "added_at": null,

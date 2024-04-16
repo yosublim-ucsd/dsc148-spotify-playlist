@@ -3457,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Art Roho serving Mads S\u00f8ndergaard",
+        "url": "https://open.spotify.com/album/50ULO1bByhZU5Gf7iGFSZX"
+      },
+      "artists": [
+        {
+          "name": "Art Roho",
+          "url": "https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC"
+        },
+        {
+          "name": "Mads S\u00f8ndergaard",
+          "url": "https://open.spotify.com/artist/1MLs5YRz48RslZbzeWbCQc"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338008,
+      "name": "Dark Turn of Mind",
+      "url": "https://open.spotify.com/track/62J2A7eSp5VNsOxaNSXwys"
+    },
+    {
+      "album": {
         "name": "Darn that Dream",
         "url": "https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd"
       },
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 549093,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB"

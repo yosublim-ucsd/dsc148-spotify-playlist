@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 387392,
+  "num_followers": 387735,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDYxY2FlOTkzMjFlMWRkNmM0Nzk4MWEzNmQ4ZTRmMjlj",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGMzODY4ODgxMTY2MWMyMTMxYWI3YmRhYmU0N2ExMTMw",
   "tracks": [
     {
       "added_at": null,
@@ -586,11 +586,15 @@
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 166341,
-      "name": "Us Then",
-      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
+      "duration_ms": 220057,
+      "name": "Jamie (feat. Charles Wesley Godwin)",
+      "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
     },
     {
       "added_at": null,
@@ -650,15 +654,11 @@
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 220057,
-      "name": "Jamie (feat. Charles Wesley Godwin)",
-      "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
+      "duration_ms": 166341,
+      "name": "Us Then",
+      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
     },
     {
       "added_at": null,

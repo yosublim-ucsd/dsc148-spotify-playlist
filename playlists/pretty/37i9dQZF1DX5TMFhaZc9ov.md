@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,350 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,355 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 90 | [Marjorie](https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz) | [Namoli Brennet](https://open.spotify.com/artist/6HhuWH5wX8XGIOYCgsFsdJ) | [Ditch Lilies](https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4) | 2:55 |
 | 91 | [Olivia](https://open.spotify.com/track/3OByrxVpeHjxxc0HX9bRIT) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Olivia](https://open.spotify.com/album/3kmkC2FDsfV2wImqY5hYi0) | 2:47 |
 | 92 | [Icarus](https://open.spotify.com/track/437AmJMSCU1I86teGggXNu) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Porcelain](https://open.spotify.com/album/6mjVcjM6vQlI6Mdny67YhB) | 3:39 |
-| 93 | [Two Men in Love](https://open.spotify.com/track/33doebdvJ82n6KoGmNLq5Y) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Two Men in Love](https://open.spotify.com/album/23p4EyOaiLZizJjEd5YB4C) | 6:26 |
+| 93 | [Two Men in Love](https://open.spotify.com/track/2aStnqtcB9SCoxHj5hByX7) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/7v35WlLc1mSuL4HgA0TmFp) | 6:26 |
 | 94 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 95 | [Magic](https://open.spotify.com/track/6mZhXvfSTARcgspWAQ1qMm) | [Treya Lam](https://open.spotify.com/artist/2UZMgbfsiicKZre8YW3MnA) | [Magic](https://open.spotify.com/album/3gqUf0GqXWKlliwflp00ZV) | 3:33 |
 | 96 | [I Built a Fire](https://open.spotify.com/track/7FQSs4owsx8rP4JJPaROAn) | [Indiana Queen](https://open.spotify.com/artist/3qHYX4FhICcNzTzbyJdBMC) | [I Built a Fire](https://open.spotify.com/album/3X4ielSlohvGH3d0ee8xo3) | 5:23 |

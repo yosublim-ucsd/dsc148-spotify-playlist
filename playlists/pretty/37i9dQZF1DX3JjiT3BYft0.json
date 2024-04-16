@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68922,
+  "num_followers": 68951,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK"
-      },
-      "artists": [
-        {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
-      "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 324168,
       "name": "FIRE BIRD",
       "url": "https://open.spotify.com/track/6zj48TjUA1GKb28KZMdXKX"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
+      "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 350168,
-      "name": "Daylight -\u30c7\u30a4\u30e9\u30a4\u30c8-",
-      "url": "https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "ERA",
         "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
@@ -331,34 +315,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 233702,
-      "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
-      "url": "https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
+      "duration_ms": 350168,
+      "name": "Daylight -\u30c7\u30a4\u30e9\u30a4\u30c8-",
+      "url": "https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -375,6 +343,22 @@
       "duration_ms": 279066,
       "name": "ZEAL of proud",
       "url": "https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 233702,
+      "name": "Hey-day\u72c2\u9a12\u66f2(\u30ab\u30d7\u30ea\u30c1\u30aa)",
+      "url": "https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "Poppin\u2019on!",
+        "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9",
+      "url": "https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "FIRE BIRD",
         "url": "https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 334868,
       "name": "Ringing Bloom",
       "url": "https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 283735,
-      "name": "EXPOSE \u2018Burn out!!!\u2019",
-      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -523,22 +507,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "Poppin\u2019on!",
-        "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9",
-      "url": "https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "TITLE IDOL",
         "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
       },
@@ -555,6 +523,38 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 283735,
+      "name": "EXPOSE \u2018Burn out!!!\u2019",
+      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5m3V4KZEU8sN7W3CCJbBU1"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2iFeWuRDUTkFGfdup9kRIa"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "\u681e",
         "url": "https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 266413,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -619,18 +635,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/5m3V4KZEU8sN7W3CCJbBU1"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 221400,
-      "name": "\u30a4\u30f3\u30c8\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2iFeWuRDUTkFGfdup9kRIa"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -651,54 +667,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "\u304d\u3085\uff5e\u307e\u3044\uff0aflower",
-      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
-        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
-        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 249200,
-      "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 236938,
       "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01",
       "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "\u304d\u3085\uff5e\u307e\u3044\uff0aflower",
+      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -747,22 +731,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 247300,
-      "name": "\u30ef\u30af\u30ef\u30afmeets\u30c8\u30ea\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/3GMuqR7h13YmtND2c411a7"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
       },
@@ -795,18 +763,34 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+        "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068\uff01",
+        "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Butter-Fly",
-      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
+      "duration_ms": 249200,
+      "name": "\u3048\u304c\u304a\uff65\u30b7\u30f3\u30b0\uff65\u3042\uff65\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 247300,
+      "name": "\u30ef\u30af\u30ef\u30afmeets\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/3GMuqR7h13YmtND2c411a7"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -839,6 +823,22 @@
       "duration_ms": 262902,
       "name": "CATASTROPHE BANQUET",
       "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Butter-Fly",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01\u300d",
+        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 295593,
+      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
         "name": "\u512a\u52dd",
         "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01\u300d",
-        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 295593,
-      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
-      },
-      "artists": [
-        {
-          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
-        }
-      ],
-      "duration_ms": 310427,
-      "name": "Yes! BanG Dream! - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\u3069\u304d\u3069\u304dSING OUT!",
         "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 233032,
       "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
       "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
+      },
+      "artists": [
+        {
+          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+        }
+      ],
+      "duration_ms": 310427,
+      "name": "Yes! BanG Dream! - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
     },
     {
       "added_at": "2024-03-23 16:15:14",

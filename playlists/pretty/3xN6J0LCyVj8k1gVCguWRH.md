@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,671 likes - 190 songs - 11 hr 26 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,666 likes - 189 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 14 | [c'est la vie](https://open.spotify.com/track/0HnBP1JxUBwW7Y9Zr8xIeJ) | [Matt Sterling](https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT) | [c'est la vie demos](https://open.spotify.com/album/1Mrhm5GLJDg75bMYiUlZBn) | 1:58 |
 | 15 | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/78KntfAskv8cMLQSa0a5PR) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 3:06 |
 | 16 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
-| 17 | [Monday To Tuesday Woman](https://open.spotify.com/track/3kWlWGO0ykEQodseEEzS82) | [Matthew Chaffey](https://open.spotify.com/artist/2MnxcOeaRW5eqPKoOrF5fd) | [Hotel Texas](https://open.spotify.com/album/7nhgVegLyNUvr3Z6WCzUwI) | 3:24 |
-| 18 | [Astral Visions](https://open.spotify.com/track/428gL9gth5UZdYzyfcDECX) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs) | [Astral Visions](https://open.spotify.com/album/23bvFre16SyA9sX8mXx3Nc) | 2:40 |
-| 19 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 17 | [Astral Visions](https://open.spotify.com/track/428gL9gth5UZdYzyfcDECX) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs) | [Astral Visions](https://open.spotify.com/album/23bvFre16SyA9sX8mXx3Nc) | 2:40 |
+| 18 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 19 | [Ring Ring](https://open.spotify.com/track/4jVI4bfpGUG8F7zdWI9onQ) | [Marelle](https://open.spotify.com/artist/6s3BBh2IX6IGopBTA8fwGq) | [One Day at a Time](https://open.spotify.com/album/0HRIQLGIr1zNrngGQzY3MH) | 2:39 |
 | 20 | [Kaleidoscope Daydreaming](https://open.spotify.com/track/3BB2gPH00aLM3ozeJsAtv0) | [Yasmine Ross](https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ) | [Kaleidoscope Daydreaming](https://open.spotify.com/album/1aFn6yg47NDu9QbXTv7Hq0) | 3:26 |
 | 21 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
 | 22 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
@@ -197,6 +197,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 187 | [Wicked](https://open.spotify.com/track/67dt1br9QqXBFMI5WQzlNU) | [TAM BOY](https://open.spotify.com/artist/6vOqCFxk4d0jIH9TonhiCb) | [Wicked](https://open.spotify.com/album/2YY1O6kyYVRa1MEepKaAvS) | 2:55 |
 | 188 | [Date With Suzy \(feat\. Aurelance\)](https://open.spotify.com/track/5vQoiFr5jCaxHxaqbktPw6) | [Elyrix](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z), [Aurelance](https://open.spotify.com/artist/0biVa5fjlrRX0yqX7YHiga) | [No Sorrow](https://open.spotify.com/album/4q9EVvhEU5UGAe8WWVDLOa) | 3:04 |
 | 189 | [Wonda](https://open.spotify.com/track/6TIJGSDHlyLgZ946iwY1Sh) | [T billion](https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi) | [Wonda](https://open.spotify.com/album/0nJz6nouwaiYl5G3urmxDV) | 2:49 |
-| 190 | [Forever](https://open.spotify.com/track/2T8k4ME6uvByNnt68gbCnx) | [BoyCaro](https://open.spotify.com/artist/4TyhSSi5hBeK9WTo6qSmBc) | [Forever](https://open.spotify.com/album/1bA6I7NDhWLayP68H2Q9Hy) | 2:40 |
 
-Snapshot ID: `ODI4MCw0ZDllM2FlNjkxOGQ1NDg2Y2E2MTZiNGI1ZmNiMjZiZGI0NzI4OGNj`
+Snapshot ID: `ODI4NixlZDlhMTYzNzUwNzg4NjgyNjZhZGQ5M2VlMWIzMTJiYjBlNjIxZTlk`

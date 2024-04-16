@@ -2,7 +2,7 @@
 
 ### [This Is Aitana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4hy48b)
 
-> This Is Aitana\. Los temas esenciales, todos en una lista.
+> This is Aitana\. Track\-track unggulan, semuanya dalam satu playlist.
 
 53 songs - 2 hr 40 min
 

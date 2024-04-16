@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,461 songs - 3 day 10 hr 58 min
+1,462 songs - 3 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-10-27 |  |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-10-11 | 2021-10-12 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 | 2021-03-22 | 2022-04-08 |
+| [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 | 2023-12-15 |  |
 | [Bulletproof](https://open.spotify.com/track/1r1eut6GuXFFDbX0vd9NPv) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Bulletproof](https://open.spotify.com/album/2IxLT8E2DZuBA0XcZ5yf9Q) | 3:25 | 2019-08-26 | 2019-08-27 |
 | [Business \(with Ella Eyre\)](https://open.spotify.com/track/7f3oSqQXBCUiWtR0m7ieRw) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Business \(with Ella Eyre\)](https://open.spotify.com/album/16mh2RvDOwlv2gw7BFElFf) | 3:17 | 2021-08-18 | 2022-07-28 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-07-02 | 2022-07-29 |
@@ -1073,7 +1074,7 @@
 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 | 2020-07-24 | 2021-10-12 |
 | [Save The Day \(with Ms\. Lauryn Hill\) \- 2020](https://open.spotify.com/track/0HJ0JJ3AeKgANAOjJlMs30) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Save The Day \(with Ms\. Lauryn Hill\) \[2020\]](https://open.spotify.com/album/2YjzMFVEK0gWVc95yJaCAe) | 3:48 | 2020-08-21 | 2021-05-28 |
 | [Save Tonight](https://open.spotify.com/track/2hdhm6piUJnmKXmEmskXCg) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/2zJcrLrN7EAcDYXm4j99k1) | 4:02 | 2019-07-31 | 2022-04-20 |
-| [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-10-10 |  |
+| [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-10-10 | 2024-04-16 |
 | [Saved My Life](https://open.spotify.com/track/5cpw6QKJcoXzpNBLNUJx2i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Saved My Life](https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp) | 3:55 | 2020-06-12 | 2022-04-15 |
 | [Say It](https://open.spotify.com/track/6vnDoUOHTiVB5DvX18tJon) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/2lBRNqB9iOJZFNu1JOSUBW) | 4:22 | 2019-07-30 | 2019-07-31 |
 | [Say It](https://open.spotify.com/track/6ry2vpew139OTJUFUkPKpE) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Say It](https://open.spotify.com/album/2kLzQP0h0u4MCfXVRSyB3l) | 3:48 | 2019-08-26 | 2021-05-12 |

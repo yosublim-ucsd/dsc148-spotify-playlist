@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Joue Douce",
+        "url": "https://open.spotify.com/album/2AYmNirQtMuAFzfYVSPzrn"
+      },
+      "artists": [
+        {
+          "name": "Brenna Eil\u00eds",
+          "url": "https://open.spotify.com/artist/4tpohnPm7n6f3EIaFq9P5I"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132037,
+      "name": "Joue Douce",
+      "url": "https://open.spotify.com/track/6tYzIf57ubnzKLJ48O9Vf3"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5h0ryO3dNKBJ8gywTezvD2"
       },
@@ -7946,6 +7964,24 @@
       "duration_ms": 133624,
       "name": "The Emotion of Light - Revisited",
       "url": "https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp"
+    },
+    {
+      "album": {
+        "name": "The inner core",
+        "url": "https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133274,
+      "name": "The inner core",
+      "url": "https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j"
     },
     {
       "album": {

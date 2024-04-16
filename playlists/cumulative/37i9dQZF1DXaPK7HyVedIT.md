@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Flakkë
 
-282 songs - 15 hr 16 min
+283 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [La Pinga](https://open.spotify.com/track/4mvanhAKpuoAnOu6has3uu) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [La Pinga](https://open.spotify.com/album/6SJ0S33d8shQBAHf3wHQyw) | 2:16 | 2023-07-21 | 2023-08-05 |
 | [Learning To Love](https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [Learning To Love](https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w) | 4:15 | 2023-09-29 | 2024-02-17 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-11-17 | 2023-12-02 |
+| [Let's Go \- Alok Remix](https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Let's Go \(Alok Remix\)](https://open.spotify.com/album/7EdUbRY9YIVC84O3tLnLMj) | 2:38 | 2024-04-15 |  |
 | [Lie Machine](https://open.spotify.com/track/49rTyBNvoKDV1EzZCQoeeV) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [Lie Machine](https://open.spotify.com/album/6G53ObRBbG9odPj8xI8Gde) | 4:55 | 2023-07-21 | 2023-08-19 |
 | [Like a Dream](https://open.spotify.com/track/3Ife8v33aqwXZyIGuPLSaJ) | [GenX](https://open.spotify.com/artist/0RGOfLzWx0CMIwpVPOZwgH), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Daniel Best](https://open.spotify.com/artist/21X9VaLa5Ag1smk5QohqiO) | [Like a Dream](https://open.spotify.com/album/5s3atTy14haHoJjSS4xyfL) | 2:28 | 2023-10-27 | 2024-03-09 |
 | [Live Without Love \(Kiko Franco Remix Edit\)](https://open.spotify.com/track/33DRZA2EDQtCZSL7C9x03r) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Live Without Love \(Kiko Franco Remix\)](https://open.spotify.com/album/3fYlfqz4S9JZ5Znnc6N4LE) | 3:00 | 2023-07-21 | 2023-08-05 |

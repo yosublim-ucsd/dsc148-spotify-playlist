@@ -1,12 +1,12 @@
 {
-  "description": "This Is Rodrigo Gonzalez. Los temas esenciales, todos en una lista.",
-  "num_followers": 3228,
+  "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
+  "num_followers": 3229,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDUxYmNmOWM4MjBhNTZiMWQxMTE2MTE3NWM3MWIzMjY0",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGY1OTg5MmQ1NmZhNGE4MGY3YjRjMTU4ZDQ4NDU4MDU3",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 154893,
-      "name": "\u00bfPor Que?",
-      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
+      "duration_ms": 230026,
+      "name": "Puedes",
+      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Puedes",
-      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
+      "duration_ms": 154893,
+      "name": "\u00bfPor Que?",
+      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
     },
     {
       "added_at": null,

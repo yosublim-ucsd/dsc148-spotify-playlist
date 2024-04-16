@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-691 songs - 1 day 13 hr 51 min
+692 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Awake \(with Mahalia\)](https://open.spotify.com/track/16X7VHcGISwJ93ott9RHeC) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Awake](https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO) | 3:48 | 2021-12-15 | 2022-07-29 |
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2022-06-30 | 2023-01-28 |
 | [Baby Powder](https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Baby Powder](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) | 3:00 | 2021-12-15 | 2022-07-29 |
+| [Back There](https://open.spotify.com/track/5oHo5ixELIep3usDd3yAtO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Radiant](https://open.spotify.com/album/3u6FiAgC5VFuOxPPdsoDow) | 2:55 | 2024-04-05 |  |
 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 | 2024-02-23 |  |
 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 | 2022-03-03 | 2022-04-06 |
 | [Bad M'fkr](https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Bad M'fkr](https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE) | 3:38 | 2024-01-26 |  |
@@ -409,7 +410,7 @@
 | [me and all my niggas](https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [me and all my niggas](https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0) | 1:54 | 2024-04-05 |  |
 | [Medicate for You](https://open.spotify.com/track/3UBd89AndwOYzfi2mTM0Ne) | [Aolani](https://open.spotify.com/artist/0AAwRFgXtxXhHbiMS9W9DL) | [Aolani](https://open.spotify.com/album/3DtWGgnwO3D0wXBnpHDtWw) | 3:26 | 2021-12-15 | 2022-04-21 |
 | [MERCY](https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [MERCY](https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P) | 4:26 | 2023-10-27 | 2023-11-11 |
-| [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-01 |  |
+| [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-01 | 2024-04-16 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-09-08 |  |
 | [MHS](https://open.spotify.com/track/7w1cWV6RG3EqHD33qR2ARj) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [MHS](https://open.spotify.com/album/70bf7jpi0uG2p3fZYWa5SC) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-12-15 | 2022-08-08 |

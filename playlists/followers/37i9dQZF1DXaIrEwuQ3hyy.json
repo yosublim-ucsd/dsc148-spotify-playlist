@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 1040548,
+  "2024-04-16": 1040361,
   "date_first_scraped": "2023-07-28",
   "description": "Wenn die Tage l\u00e4nger werden und die Luft w\u00e4rmer - diese Tracks begleiten dich in den Fr\u00fchling.",
   "name": "Fr\u00fchlings Chillout",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 211143,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA"

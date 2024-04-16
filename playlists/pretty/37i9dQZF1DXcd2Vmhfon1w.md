@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Waor y Midas Alonso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,025 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,699 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Extrarradio](https://open.spotify.com/track/06BxQZX22lQE3p6iOVzDV1) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW) | [Extrarradio](https://open.spotify.com/album/1RS3xDZvmrIk5ILk5yXfm0) | 4:01 |
 | 2 | [Veneno](https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/7ppEt8YdvnAWeNTKNPR4ca) | 4:18 |
-| 3 | [1000 Motivos](https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [1000 Motivos](https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8) | 3:33 |
-| 4 | [Volver](https://open.spotify.com/track/0de9dsLu8ZxLYQZwYof4Ay) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/7HLzms7imKXkAdZLwFwmbV) | 3:30 |
+| 3 | [Volver](https://open.spotify.com/track/0de9dsLu8ZxLYQZwYof4Ay) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/7HLzms7imKXkAdZLwFwmbV) | 3:30 |
+| 4 | [1000 Motivos](https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [1000 Motivos](https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8) | 3:33 |
 | 5 | [DTS](https://open.spotify.com/track/5kJ09jGOSL2T8eCd2YfH52) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [DTS](https://open.spotify.com/album/5rYJTqQv3suSHQqSwoS6n3) | 2:48 |
 | 6 | [Nosotros](https://open.spotify.com/track/2I5As1ONepb3YPXIK74ctj) | [Shé](https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK), [Gema Tomás](https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN) | [Nosotros](https://open.spotify.com/album/18E832WQeAwzTN9x3uUp41) | 3:52 |
 | 7 | [No Love](https://open.spotify.com/track/5GxZb7dWrofxYI42cnEPK0) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [No Love](https://open.spotify.com/album/3xLbAeXBdWPIE0BDIXUWTY) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Montecarlo](https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Montecarlo](https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39) | 3:17 |
 | 50 | [Indomables](https://open.spotify.com/track/7dUFOjcebtySPPj7tJKUdn) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Mal de amores](https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji) | 3:28 |
 
-Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMDA1MTRmMzIyYzdhOWI1ZDQwNjQ1MGM5YmU3YmQ0NTE3`
+Snapshot ID: `MTcxMzE3Mzk3NSwwMDAwMDAwMDhmMzIwY2UwNmU1YTQ3Yzg1MTE1Mjc3ZThlZTRhZDc1`

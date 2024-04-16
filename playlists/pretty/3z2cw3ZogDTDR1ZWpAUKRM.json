@@ -6,7 +6,7 @@
     "name": "ssamt",
     "url": "https://open.spotify.com/user/ssamt"
   },
-  "snapshot_id": "MTgsYWVhZjNhNzQ0YzJiMGE3MDhjYmQ5ZTE5ZDRiZmM3MzY3YjQwOGYwYg==",
+  "snapshot_id": "MjUsNjIyMGYwMTNmYjBkNzQ1YjdiNzY2MGNkMjM5NGI1MGY2NWY4NWFiYQ==",
   "tracks": [
     {
       "added_at": "2024-04-08 14:48:28",
@@ -39,6 +39,22 @@
       "duration_ms": 987960,
       "name": "The Dead Flag Blues",
       "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+    },
+    {
+      "added_at": "2024-04-15 21:00:53",
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 274813,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
     },
     {
       "added_at": "2024-04-08 14:46:39",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
+      "added_at": "2024-04-15 16:56:05",
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "duration_ms": 230055,
+      "name": "Can't Win For Nothing",
+      "url": "https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY"
+    },
+    {
       "added_at": "2024-04-08 14:49:25",
       "album": {
         "name": "We Go On",
@@ -125,22 +157,6 @@
       "url": "https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw"
     },
     {
-      "added_at": "2024-04-08 14:49:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
       "added_at": "2024-04-08 14:50:18",
       "album": {
         "name": "Ahoy!",
@@ -155,22 +171,6 @@
       "duration_ms": 390453,
       "name": "Another New World",
       "url": "https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW"
-    },
-    {
-      "added_at": "2024-04-08 14:51:42",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN"
     },
     {
       "added_at": "2024-04-08 14:52:20",

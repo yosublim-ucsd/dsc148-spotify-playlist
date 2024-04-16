@@ -1,12 +1,12 @@
 {
-  "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 248198,
+  "description": "This is Mitski. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 248368,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGEyMDJmODRhNzM4N2I3ZTE4NTU5YTU2Zjg4MzM0ZjBm",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDc2NTEyNzBhZjA5YTg3NzJlYjEwOGI5OTgyZmIwOWNm",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 141978,
-      "name": "Why Didn't You Stop Me?",
-      "url": "https://open.spotify.com/track/2nifujUVU1XyhTSHI2kQ8g"
+      "duration_ms": 166706,
+      "name": "Abbey",
+      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Abbey",
-      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
+      "duration_ms": 141978,
+      "name": "Why Didn't You Stop Me?",
+      "url": "https://open.spotify.com/track/2nifujUVU1XyhTSHI2kQ8g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > ?! ft\. Malcolm Todd
 
-1,649 songs - 3 day 7 hr 20 min
+1,650 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [First Gear](https://open.spotify.com/track/6VSqMGR9ki01c3J2mUvMeH) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [First Gear](https://open.spotify.com/album/2htDqgseiL93HoFAlHFo46) | 2:45 | 2021-04-10 | 2021-12-22 |
 | [Fishnets](https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Fishnets](https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs) | 3:05 | 2023-11-07 | 2024-03-01 |
 | [FIST](https://open.spotify.com/track/1Us2NxqNSrUC9go9QcjQQ3) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [FIST](https://open.spotify.com/album/3YFf5jiHCuEIawmbEhzSNB) | 1:25 | 2022-09-19 | 2022-11-10 |
+| [fIT chECK fREEsTYle](https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [fIT chECK fREEsTYle](https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB) | 3:03 | 2024-04-12 |  |
 | [FIT PIC](https://open.spotify.com/track/2fBhent6RyZfVDVL3mCeFE) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [FIT PIC](https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E) | 2:31 | 2021-08-13 | 2021-10-14 |
 | [FIT PIC](https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:31 | 2022-04-09 | 2022-05-12 |
 | [FIX YOUR FACE](https://open.spotify.com/track/150pcHJ0Q6v21bj3Tt7NWN) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [FIX YOUR FACE](https://open.spotify.com/album/3dn5duAhBBki3eyR1juH4m) | 3:06 | 2021-09-03 | 2021-12-22 |
@@ -1308,7 +1309,7 @@
 | [Somebody I Know](https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Somebody I Know](https://open.spotify.com/album/3w0bqMf8AAQlAi5TyptKIn) | 3:54 | 2022-01-07 | 2022-03-01 |
 | [Somehow I Knew](https://open.spotify.com/track/2Z0IBmO1xIawrcDOehcClf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Somehow I Knew](https://open.spotify.com/album/7im7xId2sF6BgCvChmRbuY) | 3:26 | 2020-12-18 | 2021-05-03 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-10-16 |
-| [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-03 |  |
+| [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-03 | 2024-04-16 |
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-03-30 | 2022-07-01 |
 | [Sore Throat](https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 2](https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG) | 2:55 | 2024-03-08 |  |
 | [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 | 2023-07-22 |

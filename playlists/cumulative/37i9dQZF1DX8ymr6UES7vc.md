@@ -4,7 +4,7 @@
 
 > Simply rain
 
-343 songs - 15 hr 41 min
+344 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Softest Night Rain](https://open.spotify.com/track/6rFnSfkEDYHXCNd4v7l94b) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Softest Night Rain](https://open.spotify.com/album/3BUdYtLiDLnrSDcPnXFRd3) | 2:56 | 2023-02-13 |  |
 | [Sonidos suaves de lluvia](https://open.spotify.com/track/2oBH4QpyBSf8ZGBqNRB9rr) | [Mighty Nature X](https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL) | [Sonidos suaves de lluvia](https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG) | 2:10 | 2022-07-08 |  |
 | [Soothing Nightrain](https://open.spotify.com/track/4j1GHholDVcERsOOLFWEEo) | [Nature Sleepsters](https://open.spotify.com/artist/1oKEOLD6ZytrrT508w0QvJ) | [Midnight Rainy\-Feels](https://open.spotify.com/album/6azVRcM9ruSLAQv7mpXBCG) | 2:52 | 2022-11-16 |  |
+| [Soothing Rain in Washington](https://open.spotify.com/track/6dtWs6eQdtO97saoe1iRz5) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/6zFCcsGRJaALSvGj9VuHh5) | [Rainy Day Reflections](https://open.spotify.com/album/5Xc5lYWtxcJay08tk3WzLc) | 3:00 | 2024-04-15 |  |
 | [Soothing Rain Sound For Sleep](https://open.spotify.com/track/0rK0AFM0QPRDq9k1f79U4v) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Soothing Rain Sound For Sleep](https://open.spotify.com/album/0sFZ8Q8H5391qXQRSgsbCw) | 3:04 | 2022-11-16 |  |
 | [Soothing Rain Sounds](https://open.spotify.com/track/7rvo9djyYAEnsogXeACe5V) | [Water sound bank](https://open.spotify.com/artist/72bJItkEKsfwAovut5Io0E) | [Water sound bank](https://open.spotify.com/album/626RaYxmWLVeyzIooBaj2E) | 2:12 | 2021-11-08 |  |
 | [Soothing Rain Weather](https://open.spotify.com/track/7FWuaHWx6XZR62qPggVARn) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Rain State](https://open.spotify.com/album/2qxwVclv1DiA2myG6jnSwQ) | 2:20 | 2021-11-08 |  |

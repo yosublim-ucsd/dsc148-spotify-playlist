@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 186692,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/3ZRG2gQfGWaKGY3Ay8w5Kh"
@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 193855,
       "name": "Ca\u0142kiem Nowa Bajka",
       "url": "https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl"
@@ -10108,7 +10108,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 175582,
       "name": "Erotyczne Pif-Paf",
       "url": "https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw"
@@ -13772,7 +13772,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -25094,7 +25094,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 157104,
       "name": "Pasek Gucci - La La La - Majki Remix",
       "url": "https://open.spotify.com/track/4qKEuYY93wCOWaqHky7dM7"
@@ -25368,6 +25368,32 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "album": {
@@ -33110,7 +33136,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -35686,6 +35712,24 @@
       "duration_ms": 164000,
       "name": "WPR",
       "url": "https://open.spotify.com/track/7o5liZP4jbn5kkhp20uvKY"
+    },
+    {
+      "album": {
+        "name": "WRAK",
+        "url": "https://open.spotify.com/album/05M8kQvxmJ7qB4r1z7TToh"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199694,
+      "name": "WRAK",
+      "url": "https://open.spotify.com/track/5yMCVbmvy0BvOWNjghN5en"
     },
     {
       "album": {

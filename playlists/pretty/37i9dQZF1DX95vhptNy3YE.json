@@ -1,6 +1,6 @@
 {
   "description": "Orochi e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 230986,
+  "num_followers": 231024,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2024-04-12 13:41:59",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
+        "name": "Vou Querer De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -751,54 +767,6 @@
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
-        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Deixa em Off - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150851,
-      "name": "Baile Charme - Ao Vivo",
-      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
     },
     {
       "added_at": "2024-04-12 13:41:59",
@@ -831,6 +799,38 @@
       "duration_ms": 224842,
       "name": "Quando Ela Passa",
       "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
+        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Deixa em Off - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
     },
     {
       "added_at": "2024-04-12 13:41:59",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
+        "name": "Tardezinha Bis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PGS3Oa79boNay0QSOhLDx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 226434,
+      "name": "Pela Vida Inteira / Vergonha Na Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/2sC9NcBWmZX2gt3gM0ZEmo"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
-        "name": "Tardezinha Bis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PGS3Oa79boNay0QSOhLDx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 226434,
-      "name": "Pela Vida Inteira / Vergonha Na Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/2sC9NcBWmZX2gt3gM0ZEmo"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
         "name": "Faz Completo, Chefe",
         "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
         "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
         "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 385357,
       "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
       "url": "https://open.spotify.com/track/3Q36LH3rlABCEt4JMLbD8p"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2024-04-12 13:41:59",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
         "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
         "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 320199,
       "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
       "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-04-12 13:41:59",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-04-12 13:41:59",
       "album": {
+        "name": "Sorriso Maroto As Antigas - Parte 1",
+        "url": "https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 347580,
+      "name": "Ainda Gosto De Voc\u00ea / J\u00e1 Era",
+      "url": "https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8"
+    },
+    {
+      "added_at": "2024-04-12 13:41:59",
+      "album": {
         "name": "Sim ou N\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 192160,
       "name": "Sim ou N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C"
-    },
-    {
-      "added_at": "2024-04-12 13:41:59",
-      "album": {
-        "name": "Sorriso Maroto As Antigas - Parte 1",
-        "url": "https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 347580,
-      "name": "Ainda Gosto De Voc\u00ea / J\u00e1 Era",
-      "url": "https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8"
     }
   ],
   "unique_name": "AMPLIFIKA",

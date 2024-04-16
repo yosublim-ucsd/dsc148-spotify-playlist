@@ -1,5 +1,5 @@
 {
-  "2024-04-15": 103251,
+  "2024-04-16": 103234,
   "date_first_scraped": "2023-03-11",
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
   "name": "This Is Carolina Ross",
@@ -593,7 +593,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 179459,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 239142,
       "name": "Mi Sorpresa Fuiste T\u00fa",
       "url": "https://open.spotify.com/track/3UncEao5y2QXGbDFaDsMQl"
@@ -705,6 +705,28 @@
       "duration_ms": 182787,
       "name": "Nadie Es Indispensable",
       "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
+    },
+    {
+      "album": {
+        "name": "Netflix",
+        "url": "https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195674,
+      "name": "Netflix",
+      "url": "https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f"
     },
     {
       "album": {
@@ -881,7 +903,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 186570,
       "name": "Ser\u00eda un Error",
       "url": "https://open.spotify.com/track/2zITVc64nUa5mhtdA7SLUu"

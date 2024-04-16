@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Big Dream",
+        "url": "https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143402,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK"
+    },
+    {
+      "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36"
       },
@@ -1646,6 +1664,24 @@
       "duration_ms": 224755,
       "name": "Short and Sweet",
       "url": "https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s"
+    },
+    {
+      "album": {
+        "name": "My Black Country: The Songs of Alice Randall",
+        "url": "https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Solitary Hero",
+      "url": "https://open.spotify.com/track/0aC9yGYfo46iIziHuzVDQI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 54125,
+  "num_followers": 54147,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMDlhMGRjMzEyNTI1ZTE0NjYzYmJhNTcwYjBmN2E5YWNh",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGM5NmUwODFiY2FkYjQ3MjU3ODMwNDAwNzE4NjA4MTQ1",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
         }
       ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Your Love Has Called Me Back",
+      "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Your Love Has Called Me Back",
-      "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -763,26 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give U More",
-        "url": "https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF"
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
       "artists": [
         {
-          "name": "Miles Carter",
-          "url": "https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7"
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Give U More",
-      "url": "https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E"
+      "duration_ms": 103384,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
     },
     {
       "added_at": null,
@@ -807,22 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minotaur's Song",
-        "url": "https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx"
+        "name": "Give U More",
+        "url": "https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF"
       },
       "artists": [
         {
-          "name": "1017 ALYX 9SM",
-          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+          "name": "Miles Carter",
+          "url": "https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         }
       ],
-      "duration_ms": 170414,
-      "name": "Minotaur's Song",
-      "url": "https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd"
+      "duration_ms": 243200,
+      "name": "Give U More",
+      "url": "https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 183656,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minotaur's Song",
+        "url": "https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Minotaur's Song",
+      "url": "https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16703,
+  "num_followers": 16708,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Yo Quiero Te Namorar",
+        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
+      },
+      "artists": [
+        {
+          "name": "Negr\u00e3oDoC\u00e9u",
+          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
+        },
+        {
+          "name": "DJFILLSP",
+          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+        }
+      ],
+      "duration_ms": 198070,
+      "name": "Yo Quiero Te Namorar",
+      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Yo Quiero Te Namorar",
-        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
-      },
-      "artists": [
-        {
-          "name": "Negr\u00e3oDoC\u00e9u",
-          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
-        },
-        {
-          "name": "DJFILLSP",
-          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
-        }
-      ],
-      "duration_ms": 198070,
-      "name": "Yo Quiero Te Namorar",
-      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2024-04-12 03:01:00",

@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Bila Doo",
+        "url": "https://open.spotify.com/album/0QXt0G5pXXPuKQiUX5kg17"
+      },
+      "artists": [
+        {
+          "name": "Fari Athman",
+          "url": "https://open.spotify.com/artist/7iPhp4msnqZazxIzKJ3Ljf"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "Bila Doo",
+      "url": "https://open.spotify.com/track/4gPdbGzIDoDhxDl6HM1sbK"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh"
       },
@@ -5448,7 +5466,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 108060,
       "name": "Person Trainer",
       "url": "https://open.spotify.com/track/6bx50I5tIyj8J24OM7zRK8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot; Pedro Capó &amp; Carin León  &quot;Existo&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,608 likes - 171 songs - 9 hr 0 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,567 likes - 171 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

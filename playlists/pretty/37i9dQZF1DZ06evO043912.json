@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5390,
+  "num_followers": 5392,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGQwMzc2ZTllNWRmZGVkYTRmNmVjZWM5Mzg3NmY1OTRm",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDcyNGNhMTVhOGIxMjA3MmRkZDlhNWY4NDQ1NmMzZGY1",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 256707,
-      "name": "Bole Ya Koya",
-      "url": "https://open.spotify.com/track/1oOuk4BcivUjjNKX8gEVQP"
+      "duration_ms": 111986,
+      "name": "Ejire Ara Isokun",
+      "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 256707,
+      "name": "Bole Ya Koya",
+      "url": "https://open.spotify.com/track/1oOuk4BcivUjjNKX8gEVQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
-        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Kosun Tadie",
-      "url": "https://open.spotify.com/track/5bPX2y8YJbCUG6U2ee639t"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 175699,
-      "name": "Akanbi Ogun",
-      "url": "https://open.spotify.com/track/5IXuhMzqbcrmHZkoGamZOT"
+      "duration_ms": 166112,
+      "name": "Prince Adesanya",
+      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 166112,
-      "name": "Prince Adesanya",
-      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+      "duration_ms": 175699,
+      "name": "Akanbi Ogun",
+      "url": "https://open.spotify.com/track/5IXuhMzqbcrmHZkoGamZOT"
     }
   ],
   "unique_name": "This Is King Sunny Ade",

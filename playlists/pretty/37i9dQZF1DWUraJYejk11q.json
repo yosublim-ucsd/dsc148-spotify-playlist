@@ -1,60 +1,28 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 460211,
+  "num_followers": 460190,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk0MTk2OSwwMDAwMDAwMGQzNDU4NzNlNmFlYTkxYzRjODUxMjQxOTMzYTRlZmY1",
+  "snapshot_id": "MTcxMzIxNjMzMiwwMDAwMDAwMGZlMzVjY2M5NmZkOGNmNTE1OTlhY2QzZDE1N2E0NzA4",
   "tracks": [
     {
-      "added_at": "2024-02-02 04:01:43",
+      "added_at": "2024-04-15 18:24:33",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
       },
       "artists": [
         {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2024-01-11 21:42:37",
-      "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 243263,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
-    },
-    {
-      "added_at": "2024-01-03 19:19:56",
-      "album": {
-        "name": "R U Guna Move",
-        "url": "https://open.spotify.com/album/3mTh8XaiVOGtGLsopbTbjU"
-      },
-      "artists": [
-        {
-          "name": "Venjent",
-          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
-        }
-      ],
-      "duration_ms": 169248,
-      "name": "Create Machines",
-      "url": "https://open.spotify.com/track/7FOYuFCff3wYlAuO2m8zYe"
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2022-04-22 18:49:16",
@@ -73,20 +41,20 @@
       "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
     },
     {
-      "added_at": "2024-03-19 03:30:26",
+      "added_at": "2024-04-15 18:24:33",
       "album": {
-        "name": "Worms on Acid",
-        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Worms on Acid",
-      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
     },
     {
       "added_at": "2022-09-07 00:29:17",
@@ -105,6 +73,22 @@
       "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
     },
     {
+      "added_at": "2024-03-19 03:30:26",
+      "album": {
+        "name": "Worms on Acid",
+        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Worms on Acid",
+      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+    },
+    {
       "added_at": "2022-12-07 00:43:07",
       "album": {
         "name": "Forest Theory",
@@ -119,6 +103,22 @@
       "duration_ms": 231648,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
+      "added_at": "2024-04-15 21:25:32",
+      "album": {
+        "name": "Alt-Mobeat",
+        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 101931,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
     },
     {
       "added_at": "2024-01-24 16:30:56",
@@ -613,26 +613,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2022-07-08 04:48:31",
-      "album": {
-        "name": "Closer (Daniel Avery Edit)",
-        "url": "https://open.spotify.com/album/0dcne5FaazxA0dFUrnUfiN"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 246696,
-      "name": "Closer - Daniel Avery Edit",
-      "url": "https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -651,6 +631,26 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-07-08 04:48:31",
+      "album": {
+        "name": "Closer (Daniel Avery Edit)",
+        "url": "https://open.spotify.com/album/0dcne5FaazxA0dFUrnUfiN"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 246696,
+      "name": "Closer - Daniel Avery Edit",
+      "url": "https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA"
     },
     {
       "added_at": "2023-07-18 19:12:42",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
-      "added_at": "2023-11-15 16:34:12",
-      "album": {
-        "name": "Time to Leave",
-        "url": "https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Time to Leave",
-      "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -715,6 +699,22 @@
       "duration_ms": 262240,
       "name": "tracing Rays [reality glo]",
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2023-11-15 16:34:12",
+      "album": {
+        "name": "Time to Leave",
+        "url": "https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Time to Leave",
+      "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
     },
     {
       "added_at": "2022-03-30 05:37:06",

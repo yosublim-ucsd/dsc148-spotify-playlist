@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 1594840,
+  "2024-04-16": 1594681,
   "date_first_scraped": "2021-12-21",
-  "description": "New rock favorites and essential modern cuts. Cover: Evanescence",
+  "description": "New rock classics and essential cuts ft. Deftones\n",
   "name": "Rock Solid",
   "tracks": [
     {
@@ -251,7 +251,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 299866,
       "name": "Be Quiet and Drive (Far Away)",
       "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 186893,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/1RtnIF8uRwTLxmcR87V6Wo"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
@@ -2443,6 +2443,24 @@
       "duration_ms": 225640,
       "name": "Personal Jesus - Single Version",
       "url": "https://open.spotify.com/track/0xborSYuC9tv6QbRT7Sy3i"
+    },
+    {
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2024-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124173,
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
     },
     {
       "album": {

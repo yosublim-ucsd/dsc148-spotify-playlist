@@ -2,9 +2,9 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> Seinfeld is back!
+> that's how we do it
 
-879 songs - 2 day 18 hr 51 min
+881 songs - 2 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Blood In The Snow \- Tibi Dabo Remix](https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Tibi Dabo](https://open.spotify.com/artist/3PbY6HSGOo5aqdo2TGo5ye) | [Blood In The Snow \(Tibi Dabo Remix\)](https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0) | 6:26 | 2023-04-01 | 2023-04-21 |
 | [Boa Noite \(La Noche\)](https://open.spotify.com/track/0e5tqOMASIDGrRrdl8IgbI) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite \(La Noche\)](https://open.spotify.com/album/7m1mis2i6R6Rhv64wgpXpQ) | 4:42 | 2023-04-13 | 2023-04-21 |
 | [Bocat \- Michael Bibi Remix](https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Bocat \(Michael Bibi Remix\)](https://open.spotify.com/album/2fqJtOq1kD7ARdaCXw52b8) | 6:07 | 2024-02-22 |  |
+| [Boiling Room](https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Boiling Room](https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui) | 3:00 | 2024-04-15 |  |
 | [Bololo \- MichaelBM & Francesco V Remix](https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Francesco V](https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q) | [Bololo \(Remixes\)](https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2) | 2:23 | 2024-01-04 |  |
 | [Bon Trip \- Radio Edit](https://open.spotify.com/track/1m7rYHVB8LHDTm9EqtKP4f) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Bon Trip](https://open.spotify.com/album/2Mmsb8bBd17AgrB6O2NQKx) | 3:01 | 2022-12-27 | 2023-01-02 |
 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 | 2023-12-08 |  |
@@ -407,6 +408,7 @@
 | [Lab](https://open.spotify.com/track/23qd0tNJOKU0toPX7gDgI1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Lab](https://open.spotify.com/album/5KFCPCMg7AsIyITtLnbIiG) | 3:38 | 2023-01-19 | 2023-01-27 |
 | [Last Night Felt Like The Future](https://open.spotify.com/track/0O5Fe8Ik2nM4JpTuOqG3xM) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Lenn](https://open.spotify.com/artist/7zjiW7mV8cnDbqr4tEABTq) | [Last Night Felt Like The Future](https://open.spotify.com/album/7woRfqYAHun0uXqLDdDOqH) | 3:44 | 2022-09-22 | 2022-10-07 |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-09-28 | 2024-02-23 |
+| [Lemonade](https://open.spotify.com/track/5LAbdYCh4FxdrGqMUcqJsQ) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Lemonade](https://open.spotify.com/album/4Tc5bKaRRITB0gPllU11yH) | 6:13 | 2024-04-15 |  |
 | [Let It Go](https://open.spotify.com/track/4Svcne6tQU0mnJVI10VfLm) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Let It Go](https://open.spotify.com/album/1poee9nMmgtNtlvV1tzhLg) | 4:17 | 2023-06-08 | 2023-06-30 |
 | [let me know](https://open.spotify.com/track/3dn0YLb6vOGNjls1TCnn7x) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Vin Damato](https://open.spotify.com/artist/4GZheXbY0Tx2Q2WNgTyOeD), [Just Because](https://open.spotify.com/artist/5giHLR4kCj9DMuqQ5TP4K7) | [let me know](https://open.spotify.com/album/5COZC4BD2phovedc7V4on6) | 3:22 | 2022-10-06 | 2022-10-28 |
 | [Let Us Rave \(feat\. Naeem & Velvet Negroni\)](https://open.spotify.com/track/6QCXhEwzuHhytkeWNlUPvi) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Naeem](https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX), [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [Let Us Rave \(feat\. Naeem & Velvet Negroni\)](https://open.spotify.com/album/06IFDe9uzaphIEtCAPEqmf) | 2:38 | 2022-10-27 | 2023-01-27 |

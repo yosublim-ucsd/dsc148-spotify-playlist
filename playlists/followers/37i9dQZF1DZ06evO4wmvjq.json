@@ -1,7 +1,7 @@
 {
-  "2024-04-15": 1997,
+  "2024-04-16": 1997,
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
+  "description": "This is Terry Riley. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 106933,
       "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
       "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-15",
       "duration_ms": 275600,
       "name": "Music for the Gift: Part 3",
       "url": "https://open.spotify.com/track/3DFFbgbyx5Oxrl53w53nDT"
@@ -2913,7 +2913,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 514266,
       "name": "The Harp of New Albion: VII. Ascending Whale Dreams",
       "url": "https://open.spotify.com/track/1OfrxTBcsI8P1q6HbkZTYC"
@@ -3207,7 +3207,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 719933,
       "name": "The Room Of Remembrance, Part III",
       "url": "https://open.spotify.com/track/6APmQl9x6rTS6YlW0yGejB"

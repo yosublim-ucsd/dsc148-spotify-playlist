@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,877 likes - 134 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,766,848 likes - 134 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

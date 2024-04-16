@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk2NjQwMCwwMDAwMDAwMGJmNzY2MDllZjg2MzhiNDhmY2E4MjA2ODRjZDNiMDk2",
+  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDdmNmFlYzcyNTk2NDY3MzBiMmY5MzlmM2NlZjJkOGE2",
   "tracks": [
     {
       "added_at": null,
@@ -498,11 +498,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Aaron Tiem",
+          "url": "https://open.spotify.com/artist/7jDrEieINdt1rQ1UFLnWhD"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Next Blue",
-      "url": "https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS"
+      "duration_ms": 261070,
+      "name": "Believe In Love (feat. Aaron Tiem)",
+      "url": "https://open.spotify.com/track/2gM1dolKfhUzVyXiH4ZJ6A"
     },
     {
       "added_at": null,

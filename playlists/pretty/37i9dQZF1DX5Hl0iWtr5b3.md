@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,286 likes - 93 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,393 likes - 93 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 83 | [Feeling Exceptional](https://open.spotify.com/track/5WhcrQAYRlXU8yW2aXYeYs) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 3:10 |
 | 84 | [All is Fair in Love and War](https://open.spotify.com/track/1CnU8JfCkvgSE9bcLjfxpb) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 2:20 |
 | 85 | [Miserable Together, Happy Apart](https://open.spotify.com/track/4ldvq98Fku77vsg5nwjk77) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 3:34 |
-| 86 | [Piano Sonata No\. 21 in C Major, Op\. 53, "Waldstein": I\. Allegro con brio](https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 10:02 |
+| 86 | [I\. Allegro con brio](https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 10:02 |
 | 87 | [What You Saw Was A Lie](https://open.spotify.com/track/05vlqSfkR400nfnAeXuz34) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 5:15 |
 | 88 | [Jazz Suite No\. 2: VI\. Waltz II](https://open.spotify.com/track/3LOi1V051Obp9hHRgAC0JU) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Shostakovich: The Jazz Album](https://open.spotify.com/album/2Mo2TzMxaeAnOvdHsiBHtO) | 3:45 |
 | 89 | [Haydn: String Quartet in F Major, Op\. 77 No\. 2, Hob\. III:82: II\. Menuetto \- Trio](https://open.spotify.com/track/1UAqF9zo9cIg1I6NMwHHrV) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Alban Berg Quartett](https://open.spotify.com/artist/39bcPlnQijRpADa2yk6SGS) | [Haydn: String Quartets, Op\. 33 No\. 3 "The Bird", Op\. 77 Nos\. 1 & 2](https://open.spotify.com/album/7kTaDGrN68gJVFY2CTTkXj) | 4:45 |

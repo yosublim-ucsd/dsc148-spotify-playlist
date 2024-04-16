@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Shensea
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,965 likes - 94 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,966 likes - 94 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

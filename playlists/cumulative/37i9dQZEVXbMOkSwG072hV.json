@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -12532,7 +12532,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 189440,
       "name": "Dois Tristes - Ao Vivo",
       "url": "https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV"
@@ -17796,7 +17796,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -17898,7 +17898,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 192444,
       "name": "Gelinho - Remix",
       "url": "https://open.spotify.com/track/4bYdxMmSAyOhWIsLu6CCEi"
@@ -21190,7 +21190,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 160171,
       "name": "Juro Que Eu N\u00e3o Gosto De Chorar",
       "url": "https://open.spotify.com/track/6UfJyzZObbo8bREe1mS6z4"
@@ -22577,6 +22577,24 @@
     },
     {
       "album": {
+        "name": "Like That!",
+        "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -22716,6 +22734,40 @@
       "duration_ms": 893787,
       "name": "Lindo Momento",
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
+    },
+    {
+      "album": {
+        "name": "Lista de Neg\u00f3cios",
+        "url": "https://open.spotify.com/album/5TgBSGTLvEds2J0nbsNAGT"
+      },
+      "artists": [
+        {
+          "name": "Eo Robinho",
+          "url": "https://open.spotify.com/artist/7kwLyKIf61DI5BPalJWAOK"
+        },
+        {
+          "name": "Real Jhow",
+          "url": "https://open.spotify.com/artist/3tduR7zDBk9XZjXJO163ND"
+        },
+        {
+          "name": "John Johnis",
+          "url": "https://open.spotify.com/artist/2s3XhkYhy3bag3w84FBJdv"
+        },
+        {
+          "name": "Vitinhu",
+          "url": "https://open.spotify.com/artist/3zC2DxAZMD1u7AQHa1ayCW"
+        },
+        {
+          "name": "DJ KAIO MPC",
+          "url": "https://open.spotify.com/artist/6j3fbGMdC9Ji8j6JkFB4BT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154113,
+      "name": "Lista de Neg\u00f3cios",
+      "url": "https://open.spotify.com/track/2aBrND4WhofYqYImQEQe7w"
     },
     {
       "album": {
@@ -27990,6 +28042,28 @@
       "duration_ms": 98975,
       "name": "Mtg Beat Fino Dan\u00e7a do Pombo",
       "url": "https://open.spotify.com/track/2lcH5EDMtDvFtMYHmitM6B"
+    },
+    {
+      "album": {
+        "name": "Mtg Forr\u00f3 e Desmantelo",
+        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
+      },
+      "artists": [
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Mtg Forr\u00f3 e Desmantelo",
+      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
     },
     {
       "album": {
@@ -42729,6 +42803,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -46810,7 +46906,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 101440,
       "name": "Want U",
       "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
